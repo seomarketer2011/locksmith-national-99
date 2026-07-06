@@ -1,0 +1,35 @@
+---
+// Three-step solution process (Able-Group pattern). Order carries meaning, so
+// numbered markers are appropriate here. Step 2 wording is grammatical for any
+// service and only mentions non-destructive entry for entry-type jobs.
+interface Props { serviceName?: string; serviceSlug?: string; }
+const { serviceName, serviceSlug } = Astro.props;
+
+const ENTRY_JOBS = new Set(["emergency-locksmith", "locked-out", "broken-key-removal", "safe-opening"]);
+const isEntry = serviceSlug ? ENTRY_JOBS.has(serviceSlug) : false;
+
+const step2 = serviceName
+  ? `A DBS-checked engineer arrives with the right tools and parts for your ${serviceName.toLowerCase()} job${isEntry ? ", and attempts non-destructive methods first" : ""}.`
+  : "A DBS-checked engineer arrives with the right tools and parts for the job, and works to insurance standards.";
+
+const STEPS = [
+  { n: "1", t: "Call and describe the problem", d: "Tell us what has happened and where you are. We give you a firm price and a realistic arrival time before anyone sets off." },
+  { n: "2", t: "A local engineer attends", d: step2 },
+  { n: "3", t: "Job done, you pay on completion", d: "The work is finished, tested and tidied. You pay once you are satisfied — card accepted, no call-out fee." },
+];
+---
+<section class="py-16 md:py-20 bg-brandblue-tint">
+  <div class="max-w-page mx-auto px-4">
+    <p class="text-signal font-semibold text-sm uppercase tracking-wide mb-2">How it works</p>
+    <h2 class="text-3xl md:text-4xl font-semibold text-slate-900 mb-10">Sorted in three straightforward steps</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {STEPS.map((s) => (
+        <div class="relative rounded-2xl bg-white border border-slate-200 p-7">
+          <span class="absolute -top-4 left-7 w-10 h-10 rounded-full bg-brandblue text-white font-semibold flex items-center justify-center text-lg">{s.n}</span>
+          <h3 class="font-semibold text-slate-900 mt-4 mb-2">{s.t}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{s.d}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

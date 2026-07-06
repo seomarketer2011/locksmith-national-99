@@ -1,0 +1,208 @@
+{
+  "location": "Tamworth",
+  "neighborhoods": [
+    {
+      "name": "Amington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential expansion area"
+    },
+    {
+      "name": "Belgrave",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "inner town, older housing stock"
+    },
+    {
+      "name": "Bolehall",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburb"
+    },
+    {
+      "name": "Bonehill",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "established residential"
+    },
+    {
+      "name": "Coton Farm",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached"
+      ],
+      "notes": "newer development"
+    },
+    {
+      "name": "Dosthill",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic core area"
+    },
+    {
+      "name": "Drayton Basset",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "village character"
+    },
+    {
+      "name": "Glascote",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "high HMO density"
+    },
+    {
+      "name": "Glascote Heath",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "flat"
+      ],
+      "notes": "mixed residential"
+    },
+    {
+      "name": "Hockley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "working-class terraces"
+    },
+    {
+      "name": "Kettlebrook",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban character"
+    },
+    {
+      "name": "Leyfields",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "family housing"
+    },
+    {
+      "name": "Mile Oak",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential expansion"
+    },
+    {
+      "name": "Stonydelph",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "semi-detached"
+      ],
+      "notes": "recent development"
+    },
+    {
+      "name": "Two Gates",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "established suburb"
+    },
+    {
+      "name": "Wilnecote",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "high student HMO density"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "council estate"
+    ],
+    "era": "mixed Victorian inner town and extensive post-war suburban expansion",
+    "notable": "High HMO concentration in Glascote and Wilnecote (student lets). Older terraced stock in Hockley and Belgrave requires period lock maintenance."
+  },
+  "locksmith_relevant": [
+    "Glascote and Wilnecote student HMO densities create high demand for rapid re-keying and multi-unit access control solutions.",
+    "Victorian terraces in Hockley and Belgrave often feature original mortice locks requiring specialist skills and period-appropriate replacements.",
+    "Post-war semi-detached suburbs (Amington, Bonehill, Leyfields) account for bulk of domestic callouts; standard euro-cylinder and UPVC lock familiarity essential."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Tamworth",
+    "overpass": "OSM Overpass bbox query, 16 named areas",
+    "coords": {
+      "lat": 52.6345819,
+      "lon": -1.6948438
+    }
+  },
+  "generated_at": "2026-05-13T12:23:29.260Z",
+  "all_areas": [
+    "Amington",
+    "Belgrave",
+    "Bolehall",
+    "Bonehill",
+    "Coton Farm",
+    "Dosthill",
+    "Drayton Basset",
+    "Glascote",
+    "Glascote Heath",
+    "Hockley",
+    "Kettlebrook",
+    "Leyfields",
+    "Mile Oak",
+    "Stonydelph",
+    "Two Gates",
+    "Wilnecote"
+  ],
+  "geo": {
+    "latitude": 52.6345819,
+    "longitude": -1.6948438
+  },
+  "postcode_districts": [
+    "B77",
+    "B79"
+  ],
+  "postcode_meta": {
+    "B77": {
+      "count": 10,
+      "sample": "B77 4NL",
+      "admin": "Tamworth"
+    },
+    "B79": {
+      "count": 2,
+      "sample": "B79 7TZ",
+      "admin": "Tamworth"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "location": "Loughborough",
+  "neighborhoods": [
+    {
+      "name": "Cotes",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "outer residential area with older stock"
+    },
+    {
+      "name": "Dishley",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    },
+    {
+      "name": "Normanton on Soar",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "village character, south of town centre"
+    },
+    {
+      "name": "Quorn",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic village, many period locks and timber doors"
+    },
+    {
+      "name": "Shelthorpe",
+      "era": "post-war and modern",
+      "types": [
+        "semi-detached",
+        "detached",
+        "flat"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Stanford on Soar",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter area south of centre"
+    },
+    {
+      "name": "Thorpe Acre",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "older Victorian residential with conservation interest"
+    },
+    {
+      "name": "Woodhouse",
+      "era": "mixed pre-1945 and post-war",
+      "types": [
+        "terrace",
+        "semi-detached",
+        "student HMO"
+      ],
+      "notes": "near Loughborough University, high HMO density"
+    },
+    {
+      "name": "Woodthorpe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "student HMO"
+    ],
+    "era": "mixed Victorian through post-war, with modern infill",
+    "notable": "Large university student housing demand drives HMO conversions. Many period properties with original Victorian and Edwardian door furniture."
+  },
+  "locksmith_relevant": [
+    "University student rentals generate high demand for emergency access and master-key systems across Woodhouse and nearby areas.",
+    "Victorian and Edwardian terraces in Thorpe Acre and Quorn often retain period locks requiring specialist knowledge and heritage-compliant repair.",
+    "Rapid post-war suburban growth means mixed lock ages; locksmiths must handle both sash-window catches and modern cylinder standards."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Loughborough",
+    "overpass": "OSM Overpass bbox query, 9 named areas",
+    "coords": {
+      "lat": 52.7723859,
+      "lon": -1.2077985
+    }
+  },
+  "generated_at": "2026-05-13T12:32:12.488Z",
+  "all_areas": [
+    "Cotes",
+    "Dishley",
+    "Normanton on Soar",
+    "Quorn",
+    "Shelthorpe",
+    "Stanford on Soar",
+    "Thorpe Acre",
+    "Woodhouse",
+    "Woodthorpe"
+  ],
+  "geo": {
+    "latitude": 52.7723859,
+    "longitude": -1.2077985
+  },
+  "postcode_districts": [
+    "LE11",
+    "LE12"
+  ],
+  "postcode_meta": {
+    "LE12": {
+      "count": 3,
+      "sample": "LE12 8FR",
+      "admin": "Charnwood",
+      "via": "constituency=loughborough"
+    },
+    "LE11": {
+      "count": 3,
+      "sample": "LE11 4TF",
+      "admin": "Charnwood",
+      "via": "admin_ward=loughborough ashby"
+    }
+  }
+}

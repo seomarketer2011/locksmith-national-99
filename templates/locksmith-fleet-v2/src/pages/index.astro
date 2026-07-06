@@ -1,0 +1,83 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import FaqList from "../components/FaqList.astro";
+import AreasCovered from "../components/AreasCovered.astro";
+import { SERVICES } from "../data/services";
+import enriched from "../data/enriched.json";
+import siteMeta from "../data/site-meta.json";
+import heroImg from "../assets/services/Lockpicking locksmith.png";
+
+const e: Record<string, any> = enriched as any;
+const meta: any = siteMeta;
+
+const title = e["meta.title"] ?? "Locksmith in {{location}} | 24 Hour Local Service";
+const description = e["meta.description"] ?? "Local locksmith covering {{location}} — emergency entry, lock changes, repairs and security upgrades from DBS-checked engineers.";
+const heroParagraph = e["home.hero-paragraph"] ?? "Independent local locksmiths for {{location}} homes and businesses. Careful workmanship, honest pricing, and an engineer nearby when it matters.";
+const localHeading = e["home.local-context-heading"] ?? "A locksmith who knows {{location}}";
+const localBody: string | null = e["home.local-context-body"] ?? null;
+const localParas = localBody ? localBody.split(/\n\s*\n/).map((p: string) => p.trim()).filter(Boolean) : [];
+const faqs = Array.isArray(e["home.local-faqs"]) ? e["home.local-faqs"] : [];
+const areas = Array.isArray(e["home.areas-covered"]) ? e["home.areas-covered"] : [];
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+---
+<Layout title={title} description={description}>
+  <!-- Hero -->
+  <section class="bg-paper">
+    <div class="max-w-page mx-auto px-5 py-14 md:py-20 grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-12 items-center">
+      <div>
+        <p class="kicker mb-4">Local locksmiths · {{location}}</p>
+        <h1 class="text-4xl md:text-5xl leading-[1.08] mb-6">Locks fitted, opened and repaired — properly.</h1>
+        <p class="text-lg text-stone2 leading-relaxed max-w-prose2 mb-8">{heroParagraph}</p>
+        <div class="flex flex-wrap gap-3">
+          <a href={`tel:${phoneHref}`} class="btn-primary">Call {phone}</a>
+          <a href="#services" class="btn-outline">Browse services</a>
+        </div>
+        <ul class="mt-9 grid grid-cols-2 sm:grid-cols-4 gap-x-4 gap-y-2 text-sm text-stone2 max-w-xl">
+          <li class="border-l-2 border-brass pl-3">DBS-checked</li>
+          <li class="border-l-2 border-brass pl-3">No call-out fee</li>
+          <li class="border-l-2 border-brass pl-3">24/7 response</li>
+          <li class="border-l-2 border-brass pl-3">Work guaranteed</li>
+        </ul>
+      </div>
+      <div class="hidden lg:block border border-line bg-card p-3">
+        <Image src={heroImg} alt="Locksmith working on a door lock in {{location}}" class="w-full h-[420px] object-cover" width={760} />
+      </div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section id="services" class="bg-card border-y border-line">
+    <div class="max-w-page mx-auto px-5 py-16">
+      <p class="kicker mb-2">What we do</p>
+      <h2 class="text-3xl md:text-4xl mb-3">Every lock and door problem, handled</h2>
+      <p class="text-stone2 max-w-prose2 mb-10">From midnight lockouts to planned security upgrades — one local firm, thirteen specialist services.</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-line border border-line">
+        {SERVICES.map((s) => (
+          <a href={`/${s.slug}/`} class="group bg-card p-6 transition hover:bg-brass-pale">
+            <h3 class="text-lg text-ink mb-1.5 group-hover:text-brass-deep transition">{s.name}</h3>
+            <p class="text-sm text-stone2 leading-relaxed">{s.short}</p>
+            <span class="inline-block mt-3 text-sm font-semibold text-brass">Read more →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Local context -->
+  {localParas.length > 0 && (
+    <section class="max-w-prose2 mx-auto px-5 py-16">
+      <p class="kicker mb-2">Local knowledge</p>
+      <h2 class="text-2xl md:text-3xl mb-6">{localHeading}</h2>
+      <div class="space-y-5 text-stone2 leading-relaxed text-[17px]">
+        {localParas.map((p: string) => <p>{p}</p>)}
+      </div>
+    </section>
+  )}
+
+  <AreasCovered areas={areas} postcodes={postcodes} />
+  <FaqList faqs={faqs} heading="Questions {{location}} customers ask" />
+</Layout>

@@ -1,0 +1,232 @@
+{
+  "location": "Hastings",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "era": "Medieval/Georgian",
+      "types": [
+        "terraced",
+        "listed"
+      ],
+      "notes": "conservation area with narrow streets and period properties"
+    },
+    {
+      "name": "St Leonards Green",
+      "era": "Victorian",
+      "types": [
+        "villa",
+        "terrace"
+      ],
+      "notes": "planned 19th-century seaside resort area"
+    },
+    {
+      "name": "Silverhill",
+      "era": "Edwardian/interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential suburb with mixed Victorian-era stock"
+    },
+    {
+      "name": "Bohemia",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "flat"
+      ],
+      "notes": "dense urban area with period conversions"
+    },
+    {
+      "name": "West Hill",
+      "era": "Victorian/Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "elevated residential with period charm"
+    },
+    {
+      "name": "Clive Vale",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential development"
+    },
+    {
+      "name": "Ore",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "mixed post-1945 housing stock"
+    },
+    {
+      "name": "Hollington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "outer residential suburb"
+    },
+    {
+      "name": "Castleham",
+      "era": "post-war/modern",
+      "types": [
+        "semi-detached",
+        "new-build"
+      ],
+      "notes": "expanding area with mixed housing"
+    },
+    {
+      "name": "Baldslow",
+      "era": "interwar/post-war",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "residential suburb"
+    },
+    {
+      "name": "Tilekiln",
+      "era": "modern",
+      "types": [
+        "flat",
+        "new-build"
+      ],
+      "notes": "contemporary development area"
+    },
+    {
+      "name": "Belmont",
+      "era": "Victorian/Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "elevated period residential"
+    },
+    {
+      "name": "Trinity Triangle",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "flat"
+      ],
+      "notes": "dense urban residential with conversions"
+    },
+    {
+      "name": "Silverhill Park",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "planned suburban estate"
+    },
+    {
+      "name": "Broomgrove",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "residential suburb"
+    },
+    {
+      "name": "West Marina",
+      "era": "modern",
+      "types": [
+        "flat",
+        "new-build"
+      ],
+      "notes": "seafront development with contemporary locks"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "Victorian/Edwardian period"
+    ],
+    "era": "mixed Victorian and interwar, with post-war and modern infill",
+    "notable": "Dense Old Town conservation area with listed buildings; significant Edwardian seafront villas alongside post-war suburban sprawl"
+  },
+  "locksmith_relevant": [
+    "Old Town's medieval and Georgian listed properties often require specialist period locks and careful heritage-compliant repairs.",
+    "High density of Victorian terraces and flat conversions across Bohemia, Trinity Triangle means frequent multi-occupancy rekeying and sash-window security work.",
+    "Post-war semi-detached suburbs (Ore, Hollington, Clive Vale) typically feature standard cylinder locks; high call volume for wear and emergency access."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Hastings",
+    "overpass": "OSM Overpass bbox query, 29 named areas",
+    "coords": {
+      "lat": 50.8550976,
+      "lon": 0.5821779
+    }
+  },
+  "generated_at": "2026-05-13T12:20:27.165Z",
+  "all_areas": [
+    "America Ground",
+    "Bachelor's Bump",
+    "Baldslow",
+    "Belmont",
+    "Blacklands",
+    "Bohemia",
+    "Broomgrove",
+    "Bulverhythe",
+    "Castleham",
+    "Clive Vale",
+    "Cuckoo Hill",
+    "Filsham",
+    "Friar's Hill",
+    "Glyne Gap",
+    "Guestling Green",
+    "Harley Shute",
+    "High Wickham",
+    "Hollington",
+    "Old Town",
+    "Ore",
+    "Shellies Green",
+    "Silverhill",
+    "Silverhill Park",
+    "St Helen's",
+    "St Leonards Green",
+    "Tilekiln",
+    "Trinity Triangle",
+    "West Hill",
+    "West Marina"
+  ],
+  "geo": {
+    "latitude": 50.8550976,
+    "longitude": 0.5821779
+  },
+  "postcode_districts": [
+    "TN34",
+    "TN35",
+    "TN37",
+    "TN38"
+  ],
+  "postcode_meta": {
+    "TN34": {
+      "count": 9,
+      "sample": "TN34 1BX",
+      "admin": "Hastings"
+    },
+    "TN37": {
+      "count": 3,
+      "sample": "TN37 6QB",
+      "admin": "Hastings"
+    },
+    "TN35": {
+      "count": 5,
+      "sample": "TN35 5BE",
+      "admin": "Hastings"
+    },
+    "TN38": {
+      "count": 6,
+      "sample": "TN38 8DF",
+      "admin": "Hastings"
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "location": "Radcliffe",
+  "neighborhoods": [
+    {
+      "name": "Ainsworth",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential area"
+    },
+    {
+      "name": "Bank Top",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "traditional working-class streets"
+    },
+    {
+      "name": "Black Lane",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Buckley Wells",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic mill-area housing"
+    },
+    {
+      "name": "Chapel Field",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Clifton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Elton",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Fishpool",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Gigg",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Hollins",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "dense terraced streets"
+    },
+    {
+      "name": "Irwell Bank",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "riverside mill-heritage area"
+    },
+    {
+      "name": "Outwood",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Park Lane",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Redvales",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "modern suburban"
+    },
+    {
+      "name": "Ringley",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Warth Fold",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian"
+    ],
+    "era": "predominantly Victorian and interwar with post-war suburban expansion",
+    "notable": "Historic mill-town character with dense terraced housing; growing modern semi-detached suburbs."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces in Ainsworth, Buckley Wells and Gigg feature period locks and sash windows requiring specialist servicing.",
+    "High density of rental properties across town increases demand for emergency callouts and multi-unit access solutions.",
+    "Post-war semis in Clifton and Redvales have standard mortice locks; rapid commercial growth drives business security needs."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Radcliffe",
+    "overpass": "OSM Overpass bbox query, 21 named areas",
+    "coords": {
+      "lat": 53.5593382,
+      "lon": -2.3261546
+    }
+  },
+  "generated_at": "2026-05-13T18:06:00.051Z",
+  "all_areas": [
+    "Ainsworth",
+    "Bank Top",
+    "Black Lane",
+    "Blackford Bridge",
+    "Buckley Wells",
+    "Chapel Field",
+    "Clifton",
+    "Clifton Green",
+    "Elton",
+    "Fishpool",
+    "Gigg",
+    "Hollins",
+    "Irwell Bank",
+    "Kilcoby",
+    "Outwood",
+    "Outwood Gate",
+    "Park Lane",
+    "Redvales",
+    "Ringley",
+    "Warth Fold",
+    "Woodhill Fold"
+  ],
+  "geo": {
+    "latitude": 53.5593382,
+    "longitude": -2.3261546
+  },
+  "postcode_districts": [
+    "BL2",
+    "M26"
+  ],
+  "postcode_meta": {
+    "M26": {
+      "count": 5,
+      "sample": "M26 4GW",
+      "admin": "Bury",
+      "via": "admin_ward=radcliffe north & ainsworth"
+    },
+    "BL2": {
+      "count": 1,
+      "sample": "BL2 5QE",
+      "admin": "Bury",
+      "via": "admin_ward=radcliffe north & ainsworth"
+    }
+  }
+}

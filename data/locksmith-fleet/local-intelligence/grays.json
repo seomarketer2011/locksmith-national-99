@@ -1,0 +1,136 @@
+{
+  "location": "Grays",
+  "neighborhoods": [
+    {
+      "name": "Chafford Hundred",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "flat"
+      ],
+      "notes": "riverside development, modern apartment blocks"
+    },
+    {
+      "name": "Ebbsfleet",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "mixed-use"
+      ],
+      "notes": "rail-linked regeneration area"
+    },
+    {
+      "name": "Little Thurrock",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Rosherville",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "South Stifford",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Stifford Clays",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Orsett Heath",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Baker Street",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Alkerden",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Badgers Dene",
+      "era": "modern",
+      "types": [
+        "detached",
+        "new-build"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "new-build flat"
+    ],
+    "era": "mixed post-war and modern",
+    "notable": "Significant riverside regeneration at Chafford Hundred and Ebbsfleet; older Victorian and interwar stock in town centre."
+  },
+  "locksmith_relevant": [
+    "Modern riverside flats at Chafford Hundred and Ebbsfleet often feature electronic and keyless entry systems requiring specialist knowledge.",
+    "Older interwar semi-detached properties across Rosherville and Orsett Heath typically have traditional pin-tumbler locks and period hardware.",
+    "High volume of post-war council stock means many properties still use basic mortice locks, creating accessible, high-frequency repair demand."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Grays",
+    "overpass": "OSM Overpass bbox query, 11 named areas",
+    "coords": {
+      "lat": 51.4780898,
+      "lon": 0.3233131
+    }
+  },
+  "generated_at": "2026-05-13T18:10:35.904Z",
+  "all_areas": [
+    "Alkerden",
+    "Badgers Dene",
+    "Baker Street",
+    "Chafford Hundred",
+    "Ebbsfleet",
+    "Little Thurrock",
+    "Orsett Heath",
+    "Rosherville",
+    "South Stifford",
+    "Stifford Clays",
+    "Swanscombe"
+  ],
+  "geo": {
+    "latitude": 51.4780898,
+    "longitude": 0.3233131
+  },
+  "postcode_districts": [
+    "RM17"
+  ],
+  "postcode_meta": {
+    "RM17": {
+      "count": 1,
+      "sample": "RM17 5JG",
+      "admin": "Thurrock",
+      "via": "admin_ward=grays riverside"
+    }
+  }
+}

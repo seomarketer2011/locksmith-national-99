@@ -1,0 +1,116 @@
+{
+  "location": "Newark-on-Trent",
+  "neighborhoods": [
+    {
+      "name": "Balderton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Fernwood",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached"
+      ],
+      "notes": "contemporary residential development"
+    },
+    {
+      "name": "New Balderton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "planned estate"
+    },
+    {
+      "name": "New Town",
+      "era": "post-war",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "town centre regeneration"
+    },
+    {
+      "name": "Kelham",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "historic riverside area, conversion potential"
+    },
+    {
+      "name": "Winthorpe",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "transitional residential zone"
+    },
+    {
+      "name": "Hawton",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "detached"
+      ],
+      "notes": "established residential village character"
+    },
+    {
+      "name": "South Muskham",
+      "era": "Victorian",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "rural fringe, scattered properties"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "post-war estates"
+    ],
+    "era": "mixed Victorian streetscapes and post-1960s suburban expansion",
+    "notable": "Historic town centre with Georgian and Victorian core; significant post-war housing estates dominate residential periphery."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces in Kelham and town centre feature period locks and sash windows requiring specialist knowledge.",
+    "High volume of post-war semis and estates across Balderton, New Town mean standard Yale and mortice repairs dominate call-outs.",
+    "Modern developments in Fernwood and new-builds use digital and keyless systems; future-proofing demand as estate matures."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Newark-on-Trent",
+    "overpass": "OSM Overpass bbox query, 8 named areas",
+    "coords": {
+      "lat": 53.0761693,
+      "lon": -0.8092339
+    }
+  },
+  "generated_at": "2026-05-13T18:04:31.832Z",
+  "all_areas": [
+    "Balderton",
+    "Fernwood",
+    "Hawton",
+    "Kelham",
+    "New Balderton",
+    "New Town",
+    "South Muskham",
+    "Winthorpe"
+  ],
+  "geo": {
+    "latitude": 53.0761693,
+    "longitude": -0.8092339
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

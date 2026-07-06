@@ -1,0 +1,327 @@
+{
+  "location": "Peterborough",
+  "neighborhoods": [
+    {
+      "name": "Market Place",
+      "era": "medieval/Georgian",
+      "types": [
+        "listed",
+        "mixed commercial"
+      ],
+      "notes": "historic city centre, conservation area"
+    },
+    {
+      "name": "Eastgate",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "listed"
+      ],
+      "notes": "traditional residential core near cathedral"
+    },
+    {
+      "name": "New England",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ],
+      "notes": "solid suburban expansion area"
+    },
+    {
+      "name": "Longthorpe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "established residential suburb"
+    },
+    {
+      "name": "Millfield",
+      "era": "1960s–70s",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ],
+      "notes": "high rental and HMO turnover"
+    },
+    {
+      "name": "Dogsthorpe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council"
+      ],
+      "notes": "working-class residential area"
+    },
+    {
+      "name": "Bretton",
+      "era": "1970s",
+      "types": [
+        "new-build estate",
+        "semi-detached"
+      ],
+      "notes": "planned residential expansion"
+    },
+    {
+      "name": "Hampton Vale",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "contemporary commuter area"
+    },
+    {
+      "name": "Cardea",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "flat"
+      ],
+      "notes": "recent mixed-use development"
+    },
+    {
+      "name": "Fengate",
+      "era": "mixed",
+      "types": [
+        "commercial",
+        "industrial",
+        "flat"
+      ],
+      "notes": "retail and light industry zone"
+    },
+    {
+      "name": "Lynch Wood",
+      "era": "1980s–90s",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "suburban family homes"
+    },
+    {
+      "name": "New Werrington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council"
+      ],
+      "notes": "older council estate with varied lock types"
+    },
+    {
+      "name": "Helpston",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "cottage"
+      ],
+      "notes": "rural edge village within city"
+    },
+    {
+      "name": "Marholm",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter village character"
+    },
+    {
+      "name": "Chesterton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburb"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terraced",
+      "council estate"
+    ],
+    "era": "mixed Victorian core expanding through post-war and modern estates",
+    "notable": "Significant council and rental stock; rapid modern expansion (Hampton Vale, Cardea) alongside historic terraces. High HMO density in Millfield and student areas."
+  },
+  "locksmith_relevant": [
+    "Peterborough's post-war council estates (Millfield, Dogsthorpe) have older locks and high tenant turnover, creating frequent rekeying demand.",
+    "New-build areas (Cardea, Hampton Vale) feature modern composite doors and smart locks requiring specialist knowledge.",
+    "Historic city centre and Victorian terraces (Eastgate, conservation zone) contain period locks and listed building restrictions affecting emergency access."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Peterborough",
+    "overpass": "OSM Overpass bbox query, 104 named areas",
+    "coords": {
+      "lat": 52.5725769,
+      "lon": -0.2427336
+    }
+  },
+  "generated_at": "2026-05-13T12:20:46.403Z",
+  "all_areas": [
+    "Ailsworth",
+    "Alwalton",
+    "Ashton",
+    "BGL Park",
+    "Bainton",
+    "Baston",
+    "Braceborough",
+    "Bury",
+    "Cardea",
+    "Castor",
+    "Chesterton",
+    "Deeping Gate",
+    "Deeping St James",
+    "Deeping St Nicholas",
+    "Dogsthorpe",
+    "Eastfield",
+    "Eastgate",
+    "Elton",
+    "Etton",
+    "Eye",
+    "Farcet",
+    "Fengate",
+    "Folksworth",
+    "Frognall",
+    "Fulbridge",
+    "Glatton",
+    "Glinton",
+    "Great Gidding",
+    "Great Raveley",
+    "Greatford",
+    "Gunthorpe",
+    "Haddon",
+    "Halfleet",
+    "Hampton",
+    "Hampton Gardens",
+    "Hampton Hargate",
+    "Hampton Vale",
+    "Helpston",
+    "Holme",
+    "Horsegate",
+    "Kate's Bridge Cottages",
+    "Langtoft",
+    "Little Gidding",
+    "Longthorpe",
+    "Luddington in the Brook",
+    "Lutton",
+    "Lynch Wood",
+    "Manor Drive",
+    "Marholm",
+    "Market Place",
+    "Maxey",
+    "Millfield",
+    "Morborne",
+    "Netherton",
+    "New England",
+    "New Fletton",
+    "New Werrington",
+    "Newark",
+    "Newborough",
+    "North Bretton",
+    "Northborough",
+    "Old Fletton",
+    "Orton",
+    "Orton Goldhay",
+    "Orton Longueville",
+    "Orton Malborne",
+    "Orton Northgate",
+    "Orton Southgate",
+    "Orton Waterville",
+    "Orton Wistow",
+    "Ortongate Centre",
+    "Parnwell",
+    "Paston",
+    "Peakirk",
+    "Pondersbridge",
+    "Ramsey Heights",
+    "Ramsey Mereside",
+    "Ramsey Saint Mary's",
+    "Ravensthorpe",
+    "Sawtry",
+    "South Bretton",
+    "Stanground",
+    "Steeple Gidding",
+    "Stibbington",
+    "Stilton",
+    "Sutton",
+    "Tallington",
+    "Thorney",
+    "Thurning",
+    "Towngate",
+    "Ufford",
+    "Upton",
+    "Upwood",
+    "Walton",
+    "Water Newton",
+    "Welland",
+    "Werrington Village",
+    "West Deeping",
+    "West Town",
+    "Westwood",
+    "Wilsthorpe",
+    "Winwick",
+    "Woodston",
+    "Woodwalton"
+  ],
+  "geo": {
+    "latitude": 52.5725769,
+    "longitude": -0.2427336
+  },
+  "postcode_districts": [
+    "PE1",
+    "PE2",
+    "PE3",
+    "PE4",
+    "PE5",
+    "PE6",
+    "PE7",
+    "PE9"
+  ],
+  "postcode_meta": {
+    "PE6": {
+      "count": 8,
+      "sample": "PE6 7SU",
+      "admin": "Peterborough"
+    },
+    "PE7": {
+      "count": 4,
+      "sample": "PE7 8DL",
+      "admin": "Peterborough"
+    },
+    "PE5": {
+      "count": 2,
+      "sample": "PE5 7AY",
+      "admin": "Peterborough"
+    },
+    "PE2": {
+      "count": 12,
+      "sample": "PE2 5PN",
+      "admin": "Peterborough"
+    },
+    "PE3": {
+      "count": 7,
+      "sample": "PE3 6LE",
+      "admin": "Peterborough"
+    },
+    "PE9": {
+      "count": 1,
+      "sample": "PE9 3AQ",
+      "admin": "Peterborough"
+    },
+    "PE4": {
+      "count": 7,
+      "sample": "PE4 5DB",
+      "admin": "Peterborough"
+    },
+    "PE1": {
+      "count": 8,
+      "sample": "PE1 4BN",
+      "admin": "Peterborough"
+    }
+  }
+}

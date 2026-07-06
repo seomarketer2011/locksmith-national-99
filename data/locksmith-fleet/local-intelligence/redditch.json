@@ -1,0 +1,222 @@
+{
+  "location": "Redditch",
+  "neighborhoods": [
+    {
+      "name": "Headless Cross",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "town centre fringe, mixed residential"
+    },
+    {
+      "name": "Enfield",
+      "era": "1960s",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Hunt End",
+      "era": "1960s–1970s",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "planned estate development"
+    },
+    {
+      "name": "Lakeside",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "flat"
+      ],
+      "notes": "waterfront regeneration"
+    },
+    {
+      "name": "Crabbs Cross",
+      "era": "1960s–1980s",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban commuter area"
+    },
+    {
+      "name": "Foxlydiate",
+      "era": "1960s",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential expansion zone"
+    },
+    {
+      "name": "Webheath",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "established residential"
+    },
+    {
+      "name": "Ipsley",
+      "era": "1960s–1970s",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "planned estate"
+    },
+    {
+      "name": "Bordesley",
+      "era": "Victorian–Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "older industrial-era housing"
+    },
+    {
+      "name": "Church Hill North",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Park Farm",
+      "era": "1960s–1980s",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Walkwood",
+      "era": "interwar–post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Woodrow",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Greenlands",
+      "era": "1960s–1970s",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Callow Hill",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Riverside",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "flat"
+      ],
+      "notes": "town-centre regeneration"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "council estate",
+      "detached"
+    ],
+    "era": "mixed post-war (1960s–1980s estates) and Victorian terraces",
+    "notable": "Redditch is a planned new town (designated 1964) with large 1960s–70s estates; older Bordesley terraces predate this expansion."
+  },
+  "locksmith_relevant": [
+    "Post-war semi-detached and estate properties dominate; uPVC double-glazing and modern Euro-profile locks are standard across most residential stock.",
+    "Older Victorian terraces in Bordesley require period-appropriate mortice locks and sash window expertise; listed-building restrictions apply.",
+    "New-build flat complexes (Lakeside, Riverside) need master-key systems and access-control integration; estate gates and communal entrance security are common callouts."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Redditch",
+    "overpass": "OSM Overpass bbox query, 31 named areas",
+    "coords": {
+      "lat": 52.3057655,
+      "lon": -1.9417444
+    }
+  },
+  "generated_at": "2026-07-04T14:10:08.763Z",
+  "all_areas": [
+    "Abbeydale",
+    "Batchley",
+    "Bordesley",
+    "Callow Hill",
+    "Church Hill North",
+    "Church Hill South",
+    "Crabbs Cross",
+    "Dagtail End",
+    "Enfield",
+    "Foxlydiate",
+    "Green Lane",
+    "Greenlands",
+    "Headless Cross",
+    "Hunt End",
+    "Ipsley",
+    "Lakeside",
+    "Lodge Park",
+    "Mount Pleasant",
+    "Oakenshaw",
+    "Oakenshaw South",
+    "Park Farm",
+    "Park Farm South",
+    "Riverside",
+    "Rowney Green",
+    "Smallwood",
+    "Southcrest",
+    "St Georges",
+    "Walkwood",
+    "Webheath",
+    "Wirehill",
+    "Woodrow"
+  ],
+  "geo": {
+    "latitude": 52.3057655,
+    "longitude": -1.9417444
+  },
+  "postcode_districts": [
+    "B97",
+    "B98"
+  ],
+  "postcode_meta": {
+    "B97": {
+      "count": 8,
+      "sample": "B97 5JP",
+      "admin": "Redditch",
+      "via": "admin_district=redditch"
+    },
+    "B98": {
+      "count": 8,
+      "sample": "B98 9LR",
+      "admin": "Redditch",
+      "via": "admin_district=redditch"
+    }
+  }
+}

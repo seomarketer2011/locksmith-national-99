@@ -1,0 +1,95 @@
+{
+  "location": "Daventry",
+  "neighborhoods": [
+    {
+      "name": "Ashby Fields",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "semi-detached"
+      ],
+      "notes": "expanding residential area with newer housing stock"
+    },
+    {
+      "name": "Headlands",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "established suburban area"
+    },
+    {
+      "name": "Middlemore",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "historic core development"
+    },
+    {
+      "name": "Southbrook",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "mixed residential with council properties"
+    },
+    {
+      "name": "Timken",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential area near industrial heritage"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "terrace"
+    ],
+    "era": "mixed interwar and post-war",
+    "notable": "Daventry has significant post-war expansion with modern developments; industrial heritage influences some older areas."
+  },
+  "locksmith_relevant": [
+    "Modern Ashby Fields new-builds often feature contemporary composite doors and digital locks requiring specialist knowledge.",
+    "Post-war semi-detached stock dominates, typically with standard mortice locks prone to wear in ageing properties.",
+    "Interwar Middlemore properties may contain original period locks and listed building restrictions affecting replacement options."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Daventry",
+    "overpass": "OSM Overpass bbox query, 5 named areas",
+    "coords": {
+      "lat": 52.2578681,
+      "lon": -1.1626569
+    }
+  },
+  "generated_at": "2026-05-13T18:07:17.107Z",
+  "all_areas": [
+    "Ashby Fields",
+    "Headlands",
+    "Middlemore",
+    "Southbrook",
+    "Timken"
+  ],
+  "geo": {
+    "latitude": 52.2578681,
+    "longitude": -1.1626569
+  },
+  "postcode_districts": [
+    "NN11"
+  ],
+  "postcode_meta": {
+    "NN11": {
+      "count": 4,
+      "sample": "NN11 8BA",
+      "admin": "West Northamptonshire",
+      "via": "admin_ward=daventry north west"
+    }
+  }
+}

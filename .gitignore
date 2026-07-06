@@ -1,0 +1,16 @@
+# Build output (regenerated per site by redeploy.mjs)
+output/
+dist/
+.astro/
+
+# Deps
+node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS/editor
+.DS_Store
+*.log

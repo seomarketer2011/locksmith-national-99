@@ -1,0 +1,124 @@
+{
+  "location": "Blyth",
+  "neighborhoods": [
+    {
+      "name": "Bebside",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "older residential core"
+    },
+    {
+      "name": "Cowpen",
+      "era": "interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "former colliery workers' housing"
+    },
+    {
+      "name": "Crofton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "East Hartford",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "industrial-era housing"
+    },
+    {
+      "name": "Malvin's Close",
+      "era": "modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "newer residential development"
+    },
+    {
+      "name": "New Delaval",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "planned residential community"
+    },
+    {
+      "name": "South Newsham",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "mid-20th century suburb"
+    },
+    {
+      "name": "Waterloo",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "flat"
+      ],
+      "notes": "town-centre and older residential"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "predominantly Victorian and interwar, with post-war suburban infill",
+    "notable": "Strong legacy of mining-era workers' housing; mix of historic stock and mid-century expansion. Many older properties with original locks and limited modern security."
+  },
+  "locksmith_relevant": [
+    "Victorian and interwar terraces dominate Blyth; expect worn mortice locks and sash-window hardware requiring specialist skills.",
+    "Post-war semis in Crofton and South Newsham often have original cylinders; high volume of rekeying and modernisation work.",
+    "Former colliery areas (Cowpen, Bebside) contain aging stock where emergency call-outs and security upgrades are routine."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Blyth",
+    "overpass": "OSM Overpass bbox query, 8 named areas",
+    "coords": {
+      "lat": 55.1270903,
+      "lon": -1.5099726
+    }
+  },
+  "generated_at": "2026-05-13T18:07:44.245Z",
+  "all_areas": [
+    "Bebside",
+    "Cowpen",
+    "Crofton",
+    "East Hartford",
+    "Malvin's Close",
+    "New Delaval",
+    "South Newsham",
+    "Waterloo"
+  ],
+  "geo": {
+    "latitude": 55.1270903,
+    "longitude": -1.5099726
+  },
+  "postcode_districts": [
+    "NE24"
+  ],
+  "postcode_meta": {
+    "NE24": {
+      "count": 7,
+      "sample": "NE24 4TW",
+      "admin": "Northumberland",
+      "via": "parish=blyth"
+    }
+  }
+}

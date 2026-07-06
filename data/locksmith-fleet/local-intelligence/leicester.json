@@ -1,0 +1,356 @@
+{
+  "location": "Leicester",
+  "neighborhoods": [
+    {
+      "name": "Belgrave",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "South Asian community hub; high commercial frontages"
+    },
+    {
+      "name": "Highfields",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "flat"
+      ],
+      "notes": "student HMO density; university proximity"
+    },
+    {
+      "name": "Clarendon Park",
+      "era": "Edwardian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "affluent residential; period property security"
+    },
+    {
+      "name": "Eyres Monsell",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "planned suburban estate"
+    },
+    {
+      "name": "Beaumont Leys",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ],
+      "notes": "large housing estate; varied lock conditions"
+    },
+    {
+      "name": "Braunstone Town",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential sprawl"
+    },
+    {
+      "name": "Aylestone Park",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Crown Hills",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Evington",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Glen Parva",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban; mixed residential"
+    },
+    {
+      "name": "Glenfield",
+      "era": "modern",
+      "types": [
+        "detached",
+        "new-build"
+      ],
+      "notes": "commuter village; newer locks"
+    },
+    {
+      "name": "Groby",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "village character; period properties"
+    },
+    {
+      "name": "Dane Hills",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "established residential"
+    },
+    {
+      "name": "Black Friars",
+      "era": "medieval",
+      "types": [
+        "listed",
+        "heritage"
+      ],
+      "notes": "city centre conservation; specialist access"
+    },
+    {
+      "name": "Birstall",
+      "era": "mixed",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter town character"
+    },
+    {
+      "name": "Cosby",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "Victorian terrace",
+      "interwar semi-detached",
+      "post-war estate"
+    ],
+    "era": "mixed Victorian and post-war; significant 1920s–1960s stock",
+    "notable": "Large student HMO population in central areas; affluent Victorian villa belt; extensive council estates from 1950s–70s."
+  },
+  "locksmith_relevant": [
+    "Belgrave and Highfields house thousands of student rentals with multiple occupancy—expect frequent re-keying and lock damage.",
+    "Victorian terraces in central Leicester often have original period locks and worn frames; upgrades and specialist fitting required.",
+    "Post-war council estates in Beaumont Leys and Braunstone Town feature aging locks and mixed maintenance; emergency callouts common."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Leicester",
+    "overpass": "OSM Overpass bbox query, 148 named areas",
+    "coords": {
+      "lat": 52.6362,
+      "lon": -1.1331969
+    }
+  },
+  "generated_at": "2026-05-13T12:02:07.207Z",
+  "all_areas": [
+    "Anstey",
+    "Arnesby",
+    "Ashby Magna",
+    "Ashby Parva",
+    "Ashton Green",
+    "Aylestone",
+    "Aylestone Park",
+    "Barkby",
+    "Barrow upon Soar",
+    "Beaumont Leys",
+    "Bede Island",
+    "Beeby",
+    "Belgrave",
+    "Birstall",
+    "Blaby",
+    "Black Friars",
+    "Botcheston",
+    "Bradgate Heights",
+    "Braunstone",
+    "Braunstone Town",
+    "Broadnook",
+    "Broughton Astley",
+    "Bruntingthorpe",
+    "Burton Overy",
+    "Burton on the Wolds",
+    "Bushby",
+    "Carlton Curlieu",
+    "Clarendon Park",
+    "Claybrooke Magna",
+    "Claybrooke Parva",
+    "Cosby",
+    "Cossington",
+    "Cotes",
+    "Countesthorpe",
+    "Croft",
+    "Cropston",
+    "Crown Hills",
+    "Dane Hills",
+    "Dishley",
+    "Dunton Bassett",
+    "East Goscote",
+    "Enderby",
+    "Evington",
+    "Eyres Monsell",
+    "Fleckney",
+    "Frolesworth",
+    "Gaddesby",
+    "Garendon Park",
+    "Gaulby",
+    "Gilmorton",
+    "Glen Parva",
+    "Glenfield",
+    "Great Glen",
+    "Grimston",
+    "Groby",
+    "Gumley",
+    "Hallam Fields",
+    "Hamilton",
+    "Highfields",
+    "Hoby",
+    "Houghton on the Hill",
+    "Humberstone",
+    "Huncote",
+    "Hungarton",
+    "Keyham",
+    "Kibworth Beauchamp",
+    "Kibworth Harcourt",
+    "Kilby",
+    "King's Norton",
+    "Kirby Frith",
+    "Kirby Muxloe",
+    "Knighton",
+    "Knighton Fields",
+    "Laughton",
+    "Leicester Forest East",
+    "Leire",
+    "Little Stretton",
+    "Littlethorpe",
+    "Markfield",
+    "Mountsorrel",
+    "Mowmacre Hill",
+    "Mowsley",
+    "Nanpantan",
+    "Narborough",
+    "Nether Hall",
+    "New Humberstone",
+    "New Lubbesthorpe",
+    "New Parks",
+    "Newfoundpool",
+    "Newton Harcourt",
+    "Newtown Linford",
+    "North Evington",
+    "Northfields",
+    "Peatling Magna",
+    "Peatling Parva",
+    "Potters Marston",
+    "Queniborough",
+    "Quorn",
+    "Ragdale",
+    "Ratby",
+    "Ratcliffe on the Wreake",
+    "Rearsby",
+    "Rotherby",
+    "Rothley",
+    "Rushey Mead",
+    "Saddington",
+    "Sapcote",
+    "Scraptoft",
+    "Seagrave",
+    "Sharnford",
+    "Shearsby",
+    "Shelthorpe",
+    "Shoby",
+    "Sileby",
+    "Smeeton Westerby",
+    "South Croxton",
+    "South Wigston",
+    "Spinney Hills",
+    "St Matthew's",
+    "Stanford on Soar",
+    "Stocking Farm",
+    "Stoney Stanton",
+    "Stoneygate",
+    "Stoughton",
+    "Swithland",
+    "Thorpe Acre",
+    "Thorpe Astley",
+    "Thorpebury",
+    "Thorpebury in the Limes",
+    "Thrussington",
+    "Thurcaston",
+    "Thurlaston",
+    "Thurmaston",
+    "Thurnby",
+    "Thurnby Lodge",
+    "Ullesthorpe",
+    "Walton",
+    "Walton on the Wolds",
+    "Wanlip",
+    "West End",
+    "Westcotes",
+    "Western Park",
+    "Whetstone",
+    "Willoughby Waterleys",
+    "Wistow",
+    "Woodhouse",
+    "Woodhouse Eaves",
+    "Woodthorpe"
+  ],
+  "geo": {
+    "latitude": 52.6362,
+    "longitude": -1.1331969
+  },
+  "postcode_districts": [
+    "LE1",
+    "LE2",
+    "LE3",
+    "LE4",
+    "LE5"
+  ],
+  "postcode_meta": {
+    "LE5": {
+      "count": 8,
+      "sample": "LE5 6HS",
+      "admin": "Leicester"
+    },
+    "LE4": {
+      "count": 6,
+      "sample": "LE4 5LJ",
+      "admin": "Leicester"
+    },
+    "LE1": {
+      "count": 1,
+      "sample": "LE1 2JJ",
+      "admin": "Leicester"
+    },
+    "LE2": {
+      "count": 7,
+      "sample": "LE2 0SF",
+      "admin": "Leicester"
+    },
+    "LE3": {
+      "count": 10,
+      "sample": "LE3 9PW",
+      "admin": "Leicester"
+    }
+  }
+}

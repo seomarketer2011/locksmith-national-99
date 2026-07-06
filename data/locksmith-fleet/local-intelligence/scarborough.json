@@ -1,0 +1,163 @@
+{
+  "location": "Scarborough",
+  "neighborhoods": [
+    {
+      "name": "The Old Town",
+      "era": "Medieval and Georgian",
+      "types": [
+        "listed townhouses",
+        "converted flat"
+      ],
+      "notes": "conservation area, narrow streets, period locks common"
+    },
+    {
+      "name": "South Cliff",
+      "era": "Victorian",
+      "types": [
+        "villa",
+        "terrace"
+      ],
+      "notes": "seafront properties, listed buildings, high-value residential"
+    },
+    {
+      "name": "St Nicholas Cliff",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "cliff-top location, period properties, tourist accommodation"
+    },
+    {
+      "name": "Barrowcliff",
+      "era": "Edwardian and interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential suburb, family homes"
+    },
+    {
+      "name": "Edgehill",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban estate, modern locks standard"
+    },
+    {
+      "name": "Falsgrave",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "terrace",
+        "flat"
+      ],
+      "notes": "mixed residential, some HMO density"
+    },
+    {
+      "name": "Newlands",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban family area"
+    },
+    {
+      "name": "Osgodby",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "outer residential suburb"
+    },
+    {
+      "name": "Sandybed",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential area with mixed housing"
+    },
+    {
+      "name": "Scalby Mills",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "suburban development"
+    },
+    {
+      "name": "Middle Deepdale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburb"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian villa",
+      "flat"
+    ],
+    "era": "mixed Victorian/Edwardian seafront with post-war suburban expansion",
+    "notable": "significant listed building stock in central/cliff areas; high holiday let and HMO conversion activity; period property locks alongside modern systems"
+  },
+  "locksmith_relevant": [
+    "Historic seafront villas and Old Town conservation areas feature original period locks requiring specialist knowledge and period-appropriate replacement.",
+    "High holiday-let turnover in South Cliff and St Nicholas Cliff drives frequent re-keying and access-control upgrades for short-term rental properties.",
+    "Post-war suburban growth (Barrowcliff, Falsgrave, Newlands) created standard domestic locks now reaching end-of-life, generating steady replacement demand."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Scarborough",
+    "overpass": "OSM Overpass bbox query, 11 named areas",
+    "coords": {
+      "lat": 54.2820009,
+      "lon": -0.4011868
+    }
+  },
+  "generated_at": "2026-05-13T12:31:32.672Z",
+  "all_areas": [
+    "Barrowcliff",
+    "Edgehill",
+    "Falsgrave",
+    "Middle Deepdale",
+    "Newlands",
+    "Osgodby",
+    "Sandybed",
+    "Scalby Mills",
+    "South Cliff",
+    "St Nicholas Cliff",
+    "The Old Town"
+  ],
+  "geo": {
+    "latitude": 54.2820009,
+    "longitude": -0.4011868
+  },
+  "postcode_districts": [
+    "YO11",
+    "YO12"
+  ],
+  "postcode_meta": {
+    "YO12": {
+      "count": 1,
+      "sample": "YO12 5NQ",
+      "admin": "North Yorkshire",
+      "via": "parish=scarborough"
+    },
+    "YO11": {
+      "count": 5,
+      "sample": "YO11 3FY",
+      "admin": "North Yorkshire",
+      "via": "constituency=scarborough and whitby"
+    }
+  }
+}

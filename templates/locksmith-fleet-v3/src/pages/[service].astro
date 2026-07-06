@@ -1,0 +1,109 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import StaticSections from "../components/StaticSections.astro";
+import LocalBlocks from "../components/LocalBlocks.astro";
+import { SERVICES } from "../data/services";
+import content from "../data/service-content.json";
+import enriched from "../data/enriched.json";
+import siteMeta from "../data/site-meta.json";
+
+export function getStaticPaths() {
+  return SERVICES.map((s) => ({ params: { service: s.slug }, props: { service: s } }));
+}
+
+const { service } = Astro.props;
+const slug = service.slug;
+const images = import.meta.glob<{ default: ImageMetadata }>("../assets/services/*.png", { eager: true });
+const img = images[`../assets/services/${service.image}`]?.default ?? null;
+
+const e: Record<string, any> = enriched as any;
+const meta: any = siteMeta;
+const allSections = ((content as any)[slug] ?? []) as any[];
+const bodySections = allSections.slice(1); // first section restates the H1 area
+
+const title = e[`${slug}.meta.title`] ?? `${service.name} {{location}} | Local Locksmiths`;
+const description = e[`${slug}.meta.description`] ?? `${service.name} in {{location}} from DBS-checked local locksmiths. ${service.short}`;
+const heroParagraph = e[`${slug}.hero-paragraph`] ?? service.short;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localParas = localBody ? localBody.split(/\n\s*\n/).map((p: string) => p.trim()).filter(Boolean) : [];
+const faqs = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const areas = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+
+const idx = SERVICES.findIndex((s) => s.slug === slug);
+const related = [1, 2, 3].map((n) => SERVICES[(idx + n) % SERVICES.length]);
+---
+<Layout title={title} description={description}>
+  <!-- Info pill bar + split hero (original pattern) -->
+  <section class="w-full bg-white">
+    <div class="max-w-page mx-auto px-4 pt-6 pb-14">
+      <div class="flex justify-start mb-8">
+        <div class="flex flex-wrap items-center gap-y-2 text-sm rounded-full border border-neutral-200 bg-neutral-50 px-6 py-3 text-neutral-700">
+          <span class="font-semibold px-3 text-neutral-900">Open now — day or night</span>
+          <span class="font-semibold text-amber-500 px-3">{phone}</span>
+          <span class="px-3">No call-out fee</span>
+          <span class="px-3">Quote agreed before work</span>
+        </div>
+      </div>
+      <div class="grid grid-cols-1 lg:grid-cols-[62%_38%] gap-10 items-start">
+        <div>
+          <h1 class="text-4xl md:text-5xl font-bold text-neutral-900 leading-tight mb-5">{service.name} in {"{{location}}"}</h1>
+          <p class="text-neutral-600 text-lg leading-relaxed mb-8">{heroParagraph}</p>
+          <div class="flex flex-wrap gap-3">
+            <a href={`tel:${phoneHref}`} class="inline-flex items-center gap-2 rounded-2xl bg-neutral-900 text-white font-bold px-8 py-4 hover:bg-amber-600 transition text-lg">Call {phone}</a>
+            <a href="/contact/" class="inline-flex items-center gap-2 rounded-2xl border border-neutral-300 text-neutral-900 font-semibold px-8 py-4 hover:border-amber-500 transition text-lg">Request a callback</a>
+          </div>
+          <ul class="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm text-neutral-500">
+            <li>✓ DBS-checked</li>
+            <li>✓ Fully insured</li>
+            <li>✓ Work guaranteed</li>
+            <li>✓ Local engineers</li>
+          </ul>
+        </div>
+        {img && (
+          <div class="hidden lg:block">
+            <Image src={img} alt={`${service.name} in {{location}}`} class="w-full h-[360px] object-cover rounded-3xl" width={680} />
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- Reworded editorial sections (the long-form body) -->
+  <StaticSections sections={bodySections} startIndex={1} />
+
+  <!-- Enriched per-site blocks -->
+  <LocalBlocks
+    localHeading={`In {{location}}`}
+    localParas={localParas}
+    faqs={faqs}
+    areas={areas}
+    postcodes={postcodes}
+    faqHeading="Local FAQs"
+  />
+
+  <!-- Related services -->
+  <section class="py-16 bg-white">
+    <div class="max-w-page mx-auto px-4">
+      <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-8">Related services</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+        {related.map((r) => {
+          const rimg = images[`../assets/services/${r.image}`]?.default;
+          return (
+            <a href={`/${r.slug}/`} class="group bg-neutral-50 rounded-3xl overflow-hidden border border-neutral-200 hover:shadow-lg transition">
+              {rimg && <Image src={rimg} alt={r.name} class="w-full h-36 object-cover" width={460} />}
+              <div class="p-5">
+                <h3 class="font-bold text-neutral-900 group-hover:text-amber-600 transition">{r.name}</h3>
+                <p class="text-sm text-neutral-600 mt-1">{r.short}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</Layout>

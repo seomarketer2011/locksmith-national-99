@@ -1,0 +1,208 @@
+{
+  "location": "Farnham",
+  "neighborhoods": [
+    {
+      "name": "Badshot Lea",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburban expansion"
+    },
+    {
+      "name": "Boundstone",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "conservation area with period locks"
+    },
+    {
+      "name": "Compton",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Ewshot",
+      "era": "post-war",
+      "types": [
+        "detached",
+        "bungalow"
+      ]
+    },
+    {
+      "name": "Fairfield",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Hale",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Heath End",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Holt Pound",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Lower Bourne",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "older millside properties"
+    },
+    {
+      "name": "Mount Pleasant",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Rowledge",
+      "era": "post-war",
+      "types": [
+        "detached",
+        "bungalow"
+      ]
+    },
+    {
+      "name": "Runfold",
+      "era": "1960s",
+      "types": [
+        "detached",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Shortheath",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Tilford",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "cottage",
+        "detached"
+      ]
+    },
+    {
+      "name": "Upper Bourne",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ]
+    },
+    {
+      "name": "Upper Hale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Wrecclesham",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "Victorian terrace"
+    ],
+    "era": "mixed Victorian and post-war, significant interwar stock",
+    "notable": "Town centre has conservation areas with original period locks; outlying areas predominantly post-1920s suburban expansion."
+  },
+  "locksmith_relevant": [
+    "Victorian properties in Boundstone and Lower Bourne retain original mortice and period locks requiring specialist knowledge.",
+    "Interwar semis (Badshot Lea, Holt Pound) commonly have worn Yale and Chubb mechanisms needing urgent replacement.",
+    "Modern detached homes in Runfold and Rowledge expect contemporary digital and smart lock installations as standard."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Farnham",
+    "overpass": "OSM Overpass bbox query, 20 named areas",
+    "coords": {
+      "lat": 51.2151749,
+      "lon": -0.7984854
+    }
+  },
+  "generated_at": "2026-05-13T18:08:01.444Z",
+  "all_areas": [
+    "Badshot Lea",
+    "Boundstone",
+    "Cargate",
+    "Compton",
+    "Ewshot",
+    "Fairfield",
+    "Hale",
+    "Heath End",
+    "Holt Pound",
+    "Lower Bourne",
+    "Mount Pleasant",
+    "Rowledge",
+    "Runfold",
+    "Shortheath",
+    "Tilford",
+    "Upper Bourne",
+    "Upper Hale",
+    "Waverley Estate",
+    "Weybourne",
+    "Wrecclesham"
+  ],
+  "geo": {
+    "latitude": 51.2151749,
+    "longitude": -0.7984854
+  },
+  "postcode_districts": [
+    "GU10",
+    "GU9"
+  ],
+  "postcode_meta": {
+    "GU10": {
+      "count": 7,
+      "sample": "GU10 1PF",
+      "admin": "Waverley",
+      "via": "admin_ward=farnham moor park"
+    },
+    "GU9": {
+      "count": 9,
+      "sample": "GU9 0PL",
+      "admin": "Waverley",
+      "via": "admin_ward=farnham heath end"
+    }
+  }
+}

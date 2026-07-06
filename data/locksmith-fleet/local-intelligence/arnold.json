@@ -1,0 +1,161 @@
+{
+  "location": "Arnold",
+  "neighborhoods": [
+    {
+      "name": "Bestwood Park Estate",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "traditional estate housing"
+    },
+    {
+      "name": "Calverton",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "former mining village character"
+    },
+    {
+      "name": "Carrington",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Chase Farm",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential development"
+    },
+    {
+      "name": "Daybrook",
+      "era": "mixed Victorian and interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Forest Fields",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "older terraced stock"
+    },
+    {
+      "name": "Mapperley",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "established residential area"
+    },
+    {
+      "name": "Mapperley Park",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "leafy suburban character"
+    },
+    {
+      "name": "New Basford",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "dense terraced housing"
+    },
+    {
+      "name": "Redhill",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Sherwood",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "long-established mixed area"
+    },
+    {
+      "name": "Warren Hill",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Woodthorpe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "modern residential estate"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "predominantly Victorian and interwar with significant post-war expansion",
+    "notable": "Historic mining village roots with gradual suburban development. High proportion of traditional key-lock terraced stock alongside modern fitted locks."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces in Forest Fields, New Basford and Mapperley often require period lock restoration and mortice repairs.",
+    "Post-war estates like Bestwood Park and Woodthorpe typically use modern cylinder locks; call-out demand peaks during break-ins and tenant changes.",
+    "Calverton's ex-mining terraces feature solid doors with worn hardware; emergency access and re-keying are frequent locksmith service calls."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Arnold",
+    "overpass": "OSM Overpass bbox query, 13 named areas",
+    "coords": {
+      "lat": 53.0052605,
+      "lon": -1.1255532
+    }
+  },
+  "generated_at": "2026-05-13T18:04:57.947Z",
+  "all_areas": [
+    "Bestwood Park Estate",
+    "Calverton",
+    "Carrington",
+    "Chase Farm",
+    "Daybrook",
+    "Forest Fields",
+    "Mapperley",
+    "Mapperley Park",
+    "New Basford",
+    "Redhill",
+    "Sherwood",
+    "Warren Hill",
+    "Woodthorpe"
+  ],
+  "geo": {
+    "latitude": 53.0052605,
+    "longitude": -1.1255532
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

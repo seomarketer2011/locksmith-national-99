@@ -1,0 +1,189 @@
+{
+  "location": "Pudsey",
+  "neighborhoods": [
+    {
+      "name": "Bramley",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential core"
+    },
+    {
+      "name": "Calverley",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "leafy suburban character"
+    },
+    {
+      "name": "Farsley Beck Bottom",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "working-class terraces, mill-era housing"
+    },
+    {
+      "name": "Gildersome",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Horsforth Vale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Newlay",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Rodley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "mill village heritage"
+    },
+    {
+      "name": "Stanningley",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "dense residential, high HMO presence"
+    },
+    {
+      "name": "Swinnow",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Tong",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "older mill-area properties"
+    },
+    {
+      "name": "East Bierley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Moor Head",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "Victorian terrace",
+      "interwar semi-detached",
+      "Edwardian villa"
+    ],
+    "era": "predominantly pre-1945 with interwar suburban expansion",
+    "notable": "strong mill-era and working-class terraced heritage; significant student HMO presence in Stanningley and surrounding areas"
+  },
+  "locksmith_relevant": [
+    "Dense Victorian terraces in Bramley, Rodley and Tong feature period locks and sash windows; period-appropriate security retrofits required.",
+    "High student HMO density in Stanningley creates demand for multi-occupant locks, master systems, and regular rekeying.",
+    "Interwar semis across Gildersome and Swinnow commonly have original wooden frames and mortice locks needing maintenance or upgrade."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Pudsey",
+    "overpass": "OSM Overpass bbox query, 40 named areas",
+    "coords": {
+      "lat": 53.796585,
+      "lon": -1.6629008
+    }
+  },
+  "generated_at": "2026-05-13T18:12:30.560Z",
+  "all_areas": [
+    "Bagley",
+    "Bradley Hill",
+    "Bramley",
+    "Calverley",
+    "Cockersdale",
+    "Cragg Hill",
+    "Crimbles",
+    "Delph End",
+    "East Bierley",
+    "Farsley Beck Bottom",
+    "Fulneck Moravian Settlement",
+    "Gamble Hill",
+    "Gildersome",
+    "Half Mile",
+    "Hillfoot",
+    "Horsforth Vale",
+    "Hough End",
+    "Hough Side",
+    "Intake",
+    "Littlemoor Bottom",
+    "Low Fold",
+    "Moor Head",
+    "Moorside",
+    "Nethertown",
+    "New Farnley",
+    "New Scarbro'",
+    "Newlay",
+    "Park Spring",
+    "Rodley",
+    "Round Hill",
+    "Scott Green",
+    "Stanningley",
+    "Swinnow",
+    "Swinnow Moor",
+    "Tannery Yard",
+    "Tong",
+    "Tong Street",
+    "Upper Moor Side",
+    "Westroyd Hill",
+    "Windmill Hill"
+  ],
+  "geo": {
+    "latitude": 53.796585,
+    "longitude": -1.6629008
+  },
+  "postcode_districts": [
+    "LS13",
+    "LS28"
+  ],
+  "postcode_meta": {
+    "LS28": {
+      "count": 12,
+      "sample": "LS28 5PB",
+      "admin": "Leeds",
+      "via": "constituency=leeds west and pudsey"
+    },
+    "LS13": {
+      "count": 10,
+      "sample": "LS13 1JW",
+      "admin": "Leeds",
+      "via": "constituency=leeds west and pudsey"
+    }
+  }
+}

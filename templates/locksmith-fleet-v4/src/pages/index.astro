@@ -1,0 +1,79 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
+import WhyChoose from "../components/WhyChoose.astro";
+import ThreeStep from "../components/ThreeStep.astro";
+import PricingBox from "../components/PricingBox.astro";
+import StaticSections from "../components/StaticSections.astro";
+import LocalBlocks from "../components/LocalBlocks.astro";
+import { SERVICES } from "../data/services";
+import content from "../data/service-content.json";
+import enriched from "../data/enriched.json";
+import siteMeta from "../data/site-meta.json";
+import heroImg from "../assets/services/Lockpicking locksmith.png";
+
+const e: Record<string, any> = enriched as any;
+const meta: any = siteMeta;
+const sections = ((content as any)["index"] ?? []) as any[];
+const bodySections = sections.slice(1);
+
+const title = e["meta.title"] ?? "Locksmith in {{location}} | 24 Hour Local Locksmiths";
+const description = e["meta.description"] ?? "Local domestic and commercial locksmith covering {{location}} — emergency entry, lock changes and repairs. No call-out fee, non-destructive entry first.";
+const heroParagraph = e["home.hero-paragraph"] ?? "Local domestic and commercial locksmiths for {{location}}. Emergency entry, lock changes, repairs and security upgrades from DBS-checked engineers.";
+const localHeading = e["home.local-context-heading"] ?? "In {{location}}";
+const localBody: string | null = e["home.local-context-body"] ?? null;
+const localParas = localBody ? localBody.split(/\n\s*\n/).map((p: string) => p.trim()).filter(Boolean) : [];
+const faqs = Array.isArray(e["home.local-faqs"]) ? e["home.local-faqs"] : [];
+const areas = Array.isArray(e["home.areas-covered"]) ? e["home.areas-covered"] : [];
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+
+const images = import.meta.glob<{ default: ImageMetadata }>("../assets/services/*.png", { eager: true });
+---
+<Layout title={title} description={description}>
+  <Hero
+    h1={`Locksmith in {{location}}`}
+    intro={heroParagraph}
+    image={heroImg}
+    imageAlt={`Local locksmith working in {{location}}`}
+  />
+
+  <WhyChoose />
+
+  <!-- Services grid with images -->
+  <section id="services" class="py-16 md:py-20 bg-slate-50">
+    <div class="max-w-page mx-auto px-4">
+      <p class="text-signal font-semibold text-sm uppercase tracking-wide mb-2">Our services</p>
+      <h2 class="text-3xl md:text-4xl font-semibold text-slate-900 mb-3">Locksmith services in {"{{location}}"}</h2>
+      <p class="text-slate-600 text-lg mb-10 max-w-3xl">Thirteen specialist services from one local firm — every job priced before it starts.</p>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {SERVICES.map((s) => {
+          const img = images[`../assets/services/${s.image}`]?.default;
+          return (
+            <a href={`/${s.slug}/`} class="group bg-white rounded-2xl overflow-hidden border border-slate-200 hover:shadow-lg hover:-translate-y-0.5 transition">
+              {img && <Image src={img} alt={`${s.name} in {{location}}`} class="w-full h-44 object-cover" width={520} />}
+              <div class="p-6">
+                <h3 class="text-lg font-semibold text-slate-900 group-hover:text-brandblue transition mb-1.5">{s.name}</h3>
+                <p class="text-sm text-slate-600 leading-relaxed">{s.short}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <ThreeStep />
+  <PricingBox slug="index" />
+
+  <StaticSections sections={bodySections} startIndex={0} />
+
+  <LocalBlocks
+    localHeading={localHeading}
+    localParas={localParas}
+    faqs={faqs}
+    areas={areas}
+    postcodes={postcodes}
+    faqHeading="Frequently asked questions in {{location}}"
+  />
+</Layout>

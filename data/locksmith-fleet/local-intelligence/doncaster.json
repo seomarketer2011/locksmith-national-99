@@ -1,0 +1,377 @@
+{
+  "location": "Doncaster",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "flat",
+        "commercial"
+      ],
+      "notes": "high foot traffic, retail frontages"
+    },
+    {
+      "name": "Balby",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential, conservation streets"
+    },
+    {
+      "name": "Bentley",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "popular family area, varied lock types"
+    },
+    {
+      "name": "Armthorpe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Bessacarr",
+      "era": "modern",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "affluent suburb, modern security systems"
+    },
+    {
+      "name": "Cantley",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "bungalow"
+      ]
+    },
+    {
+      "name": "Edenthorpe",
+      "era": "1960s-1970s",
+      "types": [
+        "semi-detached",
+        "bungalow"
+      ]
+    },
+    {
+      "name": "Intake",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Pennine View",
+      "era": "1980s",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Wheatley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "older stock, period locks common"
+    },
+    {
+      "name": "Cusworth",
+      "era": "mixed",
+      "types": [
+        "village property"
+      ]
+    },
+    {
+      "name": "Auckley",
+      "era": "mixed rural",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Fishlake",
+      "era": "rural",
+      "types": [
+        "detached",
+        "bungalow"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "council estate",
+      "modern detached"
+    ],
+    "era": "mixed Victorian and post-war, with modern suburbs",
+    "notable": "Historic railway heritage properties; large post-war suburban sprawl; affluent modern suburbs alongside older terraced stock"
+  },
+  "locksmith_relevant": [
+    "Doncaster's Victorian terraces in Balby and Wheatley often retain period locks requiring specialist knowledge and restoration.",
+    "Post-war council estates across Bentley and Armthorpe have high volumes of standard cylinder locks needing regular maintenance.",
+    "Modern suburbs like Bessacarr demand installation of smart locks and integrated security systems for affluent homeowners."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Doncaster",
+    "overpass": "OSM Overpass bbox query, 141 named areas",
+    "coords": {
+      "lat": 53.5227681,
+      "lon": -1.1335312
+    }
+  },
+  "generated_at": "2026-05-13T12:25:06.592Z",
+  "all_areas": [
+    "Ackworth Moor Top",
+    "Adwick Upon Dearne",
+    "Adwick le Street",
+    "Alverley",
+    "Arksey",
+    "Armthorpe",
+    "Auckley",
+    "Austerfield",
+    "Badsworth",
+    "Balby",
+    "Barnburgh",
+    "Barnby Dun",
+    "Belle Vue",
+    "Bentley",
+    "Bentley Rise",
+    "Bessacarr",
+    "Bessacarr Grange",
+    "Billingley",
+    "Bircotes",
+    "Blaxton",
+    "Bolton upon Dearne",
+    "Braithwaite",
+    "Braithwell",
+    "Bramley",
+    "Bramley Lings",
+    "Branton",
+    "Brodsworth",
+    "Burghwallis",
+    "Cadeby",
+    "Campsall",
+    "Cantley",
+    "Carcroft",
+    "City Centre",
+    "Clay Lane",
+    "Clayton",
+    "Cliff Hills",
+    "Clifton",
+    "Conanby",
+    "Cusworth",
+    "Cusworth Village",
+    "Dale Hill",
+    "Dalton",
+    "Dalton Magna",
+    "Denaby Main",
+    "Dolcliffe Common",
+    "Dunscroft",
+    "Dunsville",
+    "East Dene",
+    "East Hardwick",
+    "East Herringthorpe",
+    "Eastwood",
+    "Edenthorpe",
+    "Everton",
+    "Fenwick",
+    "Finningley",
+    "Fishlake",
+    "Flanderwell",
+    "Goldthorpe",
+    "Great Houghton",
+    "Gringley on the Hill",
+    "Hampole",
+    "Harlington",
+    "Haslam Park",
+    "Hatfield Woodhouse",
+    "Hellaby",
+    "Herringthorpe",
+    "Hexthorpe",
+    "Hickleton",
+    "High Ackworth",
+    "High Melton",
+    "Highfields",
+    "Highgate",
+    "Highwoods",
+    "Hill Estate",
+    "Hooton Pagnell",
+    "Hooton Roberts",
+    "Hyde Park",
+    "Instoneville",
+    "Intake",
+    "Kilnhurst",
+    "Kirk Bramwith",
+    "Kirk Sandall",
+    "Kirk Smeaton",
+    "Lakeside",
+    "Little Hemsworth",
+    "Little Smeaton",
+    "Littleworth",
+    "Long Sandall",
+    "Loversall",
+    "Low Ackworth",
+    "Micklebring",
+    "Minsthorpe",
+    "Misson",
+    "Moorends",
+    "Moorthorpe",
+    "Moss",
+    "New Edlington",
+    "New Rossington",
+    "New Village",
+    "North Elmsall",
+    "Norton",
+    "Old Cantley",
+    "Old Denaby",
+    "Old Edlington",
+    "Parkgate",
+    "Ravenfield",
+    "Rossington",
+    "Rostholme",
+    "Ryecroft",
+    "Sandhill",
+    "Scawsby",
+    "Scawthorpe",
+    "Scrooby",
+    "Shinwell",
+    "Skellow",
+    "South Bramwith",
+    "South Kirkby",
+    "Sprotbrough",
+    "Stainton",
+    "Stockbridge",
+    "Styrrup",
+    "Sutton",
+    "Swinton Bridge",
+    "Sykehouse",
+    "Thorpe Audlin",
+    "Thorpe-in-Balne",
+    "Thrybergh",
+    "Toll Bar",
+    "Upton",
+    "Wadworth",
+    "Walden Stubbs",
+    "Warmsworth",
+    "Wentbridge",
+    "Westwoodside",
+    "Wheatley",
+    "Wheatley Hills",
+    "Whiston",
+    "White City",
+    "Wickersley",
+    "Woodlands",
+    "Wroot"
+  ],
+  "geo": {
+    "latitude": 53.5227681,
+    "longitude": -1.1335312
+  },
+  "postcode_districts": [
+    "DN1",
+    "DN10",
+    "DN11",
+    "DN12",
+    "DN14",
+    "DN2",
+    "DN3",
+    "DN4",
+    "DN5",
+    "DN6",
+    "DN7",
+    "DN8",
+    "DN9",
+    "S64",
+    "S66"
+  ],
+  "postcode_meta": {
+    "DN6": {
+      "count": 12,
+      "sample": "DN6 7UY",
+      "admin": "Doncaster"
+    },
+    "DN11": {
+      "count": 5,
+      "sample": "DN11 9BW",
+      "admin": "Doncaster"
+    },
+    "DN9": {
+      "count": 3,
+      "sample": "DN9 3EE",
+      "admin": "Doncaster"
+    },
+    "DN5": {
+      "count": 16,
+      "sample": "DN5 7ST",
+      "admin": "Doncaster"
+    },
+    "S64": {
+      "count": 3,
+      "sample": "S64 0NS",
+      "admin": "Doncaster"
+    },
+    "DN12": {
+      "count": 4,
+      "sample": "DN12 4TA",
+      "admin": "Doncaster"
+    },
+    "S66": {
+      "count": 4,
+      "sample": "S66 7SB",
+      "admin": "Doncaster"
+    },
+    "DN10": {
+      "count": 1,
+      "sample": "DN10 6QU",
+      "admin": "Doncaster"
+    },
+    "DN4": {
+      "count": 9,
+      "sample": "DN4 7ET",
+      "admin": "Doncaster"
+    },
+    "DN3": {
+      "count": 6,
+      "sample": "DN3 3FU",
+      "admin": "Doncaster"
+    },
+    "DN7": {
+      "count": 6,
+      "sample": "DN7 5SU",
+      "admin": "Doncaster"
+    },
+    "DN14": {
+      "count": 1,
+      "sample": "DN14 9BW",
+      "admin": "Doncaster"
+    },
+    "DN8": {
+      "count": 1,
+      "sample": "DN8 4QJ",
+      "admin": "Doncaster"
+    },
+    "DN2": {
+      "count": 5,
+      "sample": "DN2 6LD",
+      "admin": "Doncaster"
+    },
+    "DN1": {
+      "count": 2,
+      "sample": "DN1 2BD",
+      "admin": "Doncaster"
+    }
+  }
+}

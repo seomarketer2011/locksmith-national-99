@@ -1,0 +1,30 @@
+---
+// Reworded network-level long-form sections in the v4 palette. Alternating
+// white / slate-50 bands, generous prose measure.
+export type Qa = { q: string; a: string };
+export type StaticSection = { heading: string; paras?: string[]; qas?: Qa[] };
+interface Props { sections: StaticSection[]; startIndex?: number; }
+const { sections, startIndex = 0 } = Astro.props;
+---
+{sections.map((s, i) => (
+  <section class={`py-14 md:py-16 ${(i + startIndex) % 2 === 0 ? "bg-white" : "bg-slate-50"}`}>
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-semibold text-slate-900 mb-5">{s.heading}</h2>
+      {Array.isArray(s.paras) && (
+        <div class="space-y-4 text-slate-600 text-[17px] leading-relaxed">
+          {s.paras.map((p) => <p>{p}</p>)}
+        </div>
+      )}
+      {Array.isArray(s.qas) && (
+        <div class="space-y-3">
+          {s.qas.map((f) => (
+            <div class="bg-white border border-slate-200 rounded-xl p-5">
+              <h3 class="font-semibold text-slate-900 mb-1.5">{f.q}</h3>
+              <p class="text-slate-600 leading-relaxed">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+))}

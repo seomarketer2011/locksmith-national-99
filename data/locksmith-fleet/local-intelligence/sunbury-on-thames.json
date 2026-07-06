@@ -1,0 +1,77 @@
+{
+  "location": "Sunbury-on-Thames",
+  "neighborhoods": [
+    {
+      "name": "Ashford Common",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "common-side properties, period features"
+    },
+    {
+      "name": "Kempton Park",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "racecourse proximity, mixed residential"
+    },
+    {
+      "name": "Sunbury Common",
+      "era": "Victorian to Edwardian",
+      "types": [
+        "villa",
+        "detached"
+      ],
+      "notes": "conservation-sensitive area, listed properties"
+    },
+    {
+      "name": "Upper Halliford",
+      "era": "Edwardian to interwar",
+      "types": [
+        "semi-detached",
+        "detached",
+        "cottage"
+      ],
+      "notes": "riverside setting, period locks and latches common"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "villa"
+    ],
+    "era": "predominantly Victorian and Edwardian with interwar infill",
+    "notable": "riverside Thames town with strong period property stock; many original timber frames and heritage locks requiring specialist handling"
+  },
+  "locksmith_relevant": [
+    "Ashford Common and Sunbury Common contain listed Victorian villas with original period locks—specialists needed for sash windows and cast-iron hardware.",
+    "Upper Halliford's riverside cottages feature older wooden doors and traditional mechanisms vulnerable to Thames damp; preventive maintenance is crucial.",
+    "Kempton Park's interwar semis often have non-standard door frames; locksmiths should stock varied hinge and latch sizes for efficient call-outs."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Sunbury-on-Thames",
+    "overpass": "OSM Overpass bbox query, 4 named areas",
+    "coords": {
+      "lat": 51.4077066,
+      "lon": -0.4118589
+    }
+  },
+  "generated_at": "2026-05-13T18:13:29.740Z",
+  "all_areas": [
+    "Ashford Common",
+    "Kempton Park",
+    "Sunbury Common",
+    "Upper Halliford"
+  ],
+  "geo": {
+    "latitude": 51.4077066,
+    "longitude": -0.4118589
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

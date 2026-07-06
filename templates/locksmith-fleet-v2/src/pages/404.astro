@@ -1,0 +1,19 @@
+---
+import Layout from "../layouts/Layout.astro";
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+---
+<Layout
+  title="Page not found | {{name}}"
+  description="The page you were looking for doesn't exist. Find locksmith services for {{location}} from the homepage."
+>
+  <section class="max-w-prose2 mx-auto px-5 py-24 text-center">
+    <p class="kicker mb-3">404</p>
+    <h1 class="text-4xl mb-5">That page isn't here</h1>
+    <p class="text-stone2 text-lg mb-8">The link may be out of date. Head back to the homepage, or if you need a locksmith right now, just call.</p>
+    <div class="flex flex-wrap gap-3 justify-center">
+      <a href="/" class="btn-outline">Back to homepage</a>
+      <a href={`tel:${phoneHref}`} class="btn-primary">Call {phone}</a>
+    </div>
+  </section>
+</Layout>

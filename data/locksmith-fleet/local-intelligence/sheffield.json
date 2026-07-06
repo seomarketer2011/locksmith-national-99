@@ -1,0 +1,535 @@
+{
+  "location": "Sheffield",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "flat",
+        "office conversion"
+      ],
+      "notes": "high foot traffic, late-night venues"
+    },
+    {
+      "name": "Cathedral Quarter",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "converted warehouse"
+      ],
+      "notes": "listed buildings, conservation area"
+    },
+    {
+      "name": "Broomhill",
+      "era": "Edwardian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "affluent, university-adjacent"
+    },
+    {
+      "name": "Devonshire Quarter",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "converted loft"
+      ],
+      "notes": "creative industries, young professional density"
+    },
+    {
+      "name": "Crookes",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "student HMO hotspot, high rental turnover"
+    },
+    {
+      "name": "Burngreave",
+      "era": "Victorian",
+      "types": [
+        "terraced"
+      ],
+      "notes": "traditional working-class, diverse community"
+    },
+    {
+      "name": "Dore",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban, affluent south"
+    },
+    {
+      "name": "Attercliffe",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ],
+      "notes": "historic industrial, regeneration area"
+    },
+    {
+      "name": "Brightside",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "east end industrial heritage"
+    },
+    {
+      "name": "Walkley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "student letting density"
+    },
+    {
+      "name": "Hillsborough",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Heeley",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Beighton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Chapeltown",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "northwest suburban"
+    },
+    {
+      "name": "Ecclesall",
+      "era": "Victorian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Nether Edge",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "affluent south-west"
+    },
+    {
+      "name": "Sharrow",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "high diversity, HMO prevalence"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "Victorian terrace",
+      "Edwardian semi-detached",
+      "council estate",
+      "student HMO"
+    ],
+    "era": "predominantly pre-1945 Victorian and Edwardian; significant post-war estates",
+    "notable": "High student rental density in inner suburbs; legacy industrial lock security needs in east and south."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces dominate Sheffield's inner ring; sash windows and period locks require specialist knowledge and gentle handling.",
+    "Student HMO concentration in Crookes, Walkley, and Sharrow means frequent lock changes, bulk master-key systems, and rapid tenant turnover.",
+    "Post-industrial areas like Attercliffe and Brightside have aging commercial stock; security upgrades and forced-entry repairs are steady demand."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Sheffield",
+    "overpass": "OSM Overpass bbox query, 238 named areas",
+    "coords": {
+      "lat": 53.3806626,
+      "lon": -1.4702278
+    }
+  },
+  "generated_at": "2026-05-13T12:06:08.416Z",
+  "all_areas": [
+    "Abbeydale",
+    "Abbeydale Park",
+    "Abney",
+    "Arbourthorne",
+    "Atlas",
+    "Attercliffe",
+    "Bamford",
+    "Banner Cross",
+    "Base Green",
+    "Batemoor",
+    "Beauchief",
+    "Beighton",
+    "Bents Green",
+    "Birkendale",
+    "Birley",
+    "Birley Edge",
+    "Birley Spa",
+    "Blackburn",
+    "Bolsterstone",
+    "Boulder Hill",
+    "Bradgate",
+    "Bradway",
+    "Bradwell",
+    "Brightside",
+    "Brincliffe",
+    "Brinsworth",
+    "Broomfield",
+    "Broomhall",
+    "Broomhill",
+    "Burncross",
+    "Burngreave",
+    "Canklow",
+    "Carbrook",
+    "Carterknowle",
+    "Castlebeck",
+    "Castlegate Quarter",
+    "Castleton",
+    "Catcliffe",
+    "Cathedral Quarter",
+    "Causeway Head",
+    "Chapeltown",
+    "Charltonbrook",
+    "Charnock",
+    "Chaucer",
+    "City Centre",
+    "Clifton",
+    "Coal Aston",
+    "Colley",
+    "Crookes",
+    "Crookesmoor",
+    "Crosspool",
+    "Crystal Peaks",
+    "Cultural Industries Quarter",
+    "Darnall",
+    "Deepcar",
+    "Deer Park",
+    "Devonshire Quarter",
+    "Dore",
+    "Dungworth",
+    "East Dene",
+    "Eastwood",
+    "Ecclesall",
+    "Ecclesfield",
+    "Elsecar",
+    "Endcliffe",
+    "Ewden Village",
+    "Fairleigh",
+    "Fir Vale",
+    "Firth Park",
+    "Flower Estate",
+    "Four Lane Ends",
+    "Fox Hill",
+    "Frecheville",
+    "Fulwood",
+    "Garden Village",
+    "Gleadless",
+    "Greasbrough",
+    "Green Moor",
+    "Greendale",
+    "Greenhill",
+    "Greenland",
+    "Grenoside",
+    "Greystones",
+    "Grimesthorpe",
+    "Guilthwaite",
+    "Hackenthorpe",
+    "Halfway",
+    "Handsworth",
+    "Handsworth Hill",
+    "Hangingwater",
+    "Harley",
+    "Hathersage",
+    "Heeley",
+    "Heeley Bottom",
+    "Hemsworth",
+    "Herdings",
+    "High Bradfield",
+    "High Green",
+    "Highfield",
+    "Hillsborough",
+    "Hollinsend",
+    "Holmesdale",
+    "Hope",
+    "Hoyland Common",
+    "Ickles",
+    "Intake",
+    "Jordanthorpe",
+    "Kelham Island",
+    "Kenwood",
+    "Keppel's Column",
+    "Kimberworth",
+    "Kimberworth Park",
+    "Lane End",
+    "Langsett",
+    "Little Sheffield",
+    "Littledale",
+    "Lodge Moor",
+    "Longley",
+    "Low Bradfield",
+    "Low Wincobank",
+    "Lowedges",
+    "Lower Walkley",
+    "Lowfield",
+    "Loxley",
+    "Loxley Bottom",
+    "Malin Bridge",
+    "Manor",
+    "Manor Park",
+    "Manor Top",
+    "Marsh Lane",
+    "Masbrough",
+    "Meadowhead",
+    "Meersbrook",
+    "Meersbrook Bank",
+    "Middle Heeley",
+    "Middlewood",
+    "Midhopestones",
+    "Millhouses",
+    "Moorfoot",
+    "Moorgate",
+    "Moorhead",
+    "Mortomley",
+    "Mosborough",
+    "Neepsend",
+    "Nether Edge",
+    "Nether Green",
+    "Netherthorpe",
+    "New Totley",
+    "Newfield Green",
+    "Norfolk Park",
+    "Normanton Spring",
+    "Northfield",
+    "Norton",
+    "Norton Lees",
+    "Norwood",
+    "Orgreave",
+    "Osgathorpe",
+    "Oughtibridge",
+    "Owlerton",
+    "Owlthorpe",
+    "Page Hall",
+    "Park Hill",
+    "Parkgate",
+    "Parkhead",
+    "Parson Cross",
+    "Philadelphia",
+    "Pilley",
+    "Pismire Hill",
+    "Pitsmoor",
+    "Potter Hill",
+    "Ranmoor",
+    "Richmond",
+    "Richmond Park",
+    "Ridgeway",
+    "Ringinglow",
+    "Riverside Quarter",
+    "Royd",
+    "Ryecroft",
+    "Saint George's Quarter",
+    "Saint Vincent's Quarter",
+    "Sandhill",
+    "Sandygate",
+    "Sharrow",
+    "Sharrow Vale",
+    "Sheaf Valley Quarter",
+    "Sheffield Lane Top",
+    "Shirecliffe",
+    "Shiregreen",
+    "Sothall",
+    "Southey",
+    "St Ann's",
+    "Stannington",
+    "Steel Bank",
+    "Storrs",
+    "Stradbroke",
+    "Stubbin",
+    "Stubley",
+    "Stumperlowe",
+    "Tankersley",
+    "Templeborough",
+    "The Heart of the City",
+    "The Vikingleas",
+    "Thornhill",
+    "Thorpe Common",
+    "Thorpe Hesley",
+    "Tinsley",
+    "Totley",
+    "Totley Bents",
+    "Totley Brook",
+    "Totley Rise",
+    "Townhead",
+    "Treeton",
+    "Upper Haugh",
+    "Upper Heeley",
+    "Upper Midhope",
+    "Upperthorpe",
+    "Wadsley",
+    "Wadsley Bridge",
+    "Walkley",
+    "Walkley Bank",
+    "Waterthorpe",
+    "Waverley",
+    "Wentworth",
+    "Westfield",
+    "Wharncliffe Side",
+    "Whirlow",
+    "Whiston",
+    "Whitley",
+    "Wicker",
+    "Wincobank",
+    "Wisewood",
+    "Woodhouse",
+    "Woodhouse Mill",
+    "Woodseats",
+    "Woodthorpe",
+    "Worrall",
+    "Wortley",
+    "Wybourn"
+  ],
+  "geo": {
+    "latitude": 53.3806626,
+    "longitude": -1.4702278
+  },
+  "postcode_districts": [
+    "S1",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S17",
+    "S2",
+    "S20",
+    "S3",
+    "S35",
+    "S36",
+    "S4",
+    "S5",
+    "S6",
+    "S61",
+    "S7",
+    "S8",
+    "S9"
+  ],
+  "postcode_meta": {
+    "S36": {
+      "count": 8,
+      "sample": "S36 4GX",
+      "admin": "Sheffield"
+    },
+    "S6": {
+      "count": 22,
+      "sample": "S6 1ES",
+      "admin": "Sheffield"
+    },
+    "S17": {
+      "count": 9,
+      "sample": "S17 3GD",
+      "admin": "Sheffield"
+    },
+    "S8": {
+      "count": 13,
+      "sample": "S8 8HE",
+      "admin": "Sheffield"
+    },
+    "S12": {
+      "count": 11,
+      "sample": "S12 2LL",
+      "admin": "Sheffield"
+    },
+    "S20": {
+      "count": 7,
+      "sample": "S20 5PB",
+      "admin": "Sheffield"
+    },
+    "S13": {
+      "count": 7,
+      "sample": "S13 9BZ",
+      "admin": "Sheffield"
+    },
+    "S9": {
+      "count": 10,
+      "sample": "S9 5EZ",
+      "admin": "Sheffield"
+    },
+    "S4": {
+      "count": 4,
+      "sample": "S4 8AN",
+      "admin": "Sheffield"
+    },
+    "S3": {
+      "count": 9,
+      "sample": "S3 9AT",
+      "admin": "Sheffield"
+    },
+    "S2": {
+      "count": 15,
+      "sample": "S2 2EP",
+      "admin": "Sheffield"
+    },
+    "S35": {
+      "count": 13,
+      "sample": "S35 8PX",
+      "admin": "Sheffield"
+    },
+    "S5": {
+      "count": 13,
+      "sample": "S5 9QF",
+      "admin": "Sheffield"
+    },
+    "S11": {
+      "count": 10,
+      "sample": "S11 7PX",
+      "admin": "Sheffield"
+    },
+    "S10": {
+      "count": 14,
+      "sample": "S10 4JH",
+      "admin": "Sheffield"
+    },
+    "S7": {
+      "count": 3,
+      "sample": "S7 2QL",
+      "admin": "Sheffield"
+    },
+    "S14": {
+      "count": 2,
+      "sample": "S14 1TD",
+      "admin": "Sheffield"
+    },
+    "S1": {
+      "count": 8,
+      "sample": "S1 4DP",
+      "admin": "Sheffield"
+    },
+    "S61": {
+      "count": 1,
+      "sample": "S61 2DN",
+      "admin": "Sheffield"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+---
+interface Props {
+  faqs: { q: string; a: string }[];
+  heading?: string;
+}
+const { faqs, heading = "Common questions" } = Astro.props;
+
+const faqLd = faqs.length
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faqs.map((f) => ({
+        "@type": "Question",
+        name: f.q,
+        acceptedAnswer: { "@type": "Answer", text: f.a },
+      })),
+    }
+  : null;
+---
+{faqs.length > 0 && (
+  <section class="max-w-prose2 mx-auto px-5 py-14">
+    <p class="kicker mb-2">Good to know</p>
+    <h2 class="text-2xl md:text-3xl mb-7">{heading}</h2>
+    <div class="divide-y divide-line border-y border-line">
+      {faqs.map((f) => (
+        <details class="group py-4">
+          <summary class="flex items-start justify-between gap-4 cursor-pointer list-none font-semibold text-ink">
+            <span>{f.q}</span>
+            <span class="text-brass shrink-0 transition group-open:rotate-45 text-xl leading-none" aria-hidden="true">+</span>
+          </summary>
+          <p class="mt-3 text-stone2 leading-relaxed">{f.a}</p>
+        </details>
+      ))}
+    </div>
+    {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
+  </section>
+)}

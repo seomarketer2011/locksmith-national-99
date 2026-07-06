@@ -1,0 +1,198 @@
+{
+  "location": "Bloxwich",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic core, older lock types common"
+    },
+    {
+      "name": "Birchills",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Highgate",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Bentley",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Goscote",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "New Invention",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Leamore",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "flat"
+      ]
+    },
+    {
+      "name": "Short Heath",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Pelsall",
+      "era": "mixed interwar and post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Alumwell",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Blakenall Heath",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Landywood",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Harden",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Coal Pool",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Ryecroft",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "council estate"
+    ],
+    "era": "mixed Victorian through post-war, majority 1920s–1960s",
+    "notable": "significant council housing stock; older terraced streets near historic core retain original period locks"
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces in Old Town, Birchills, and Harden often retain original rim locks and sash window furniture requiring specialist knowledge.",
+    "Post-war council estates (Bentley, Goscote, New Invention) feature standardised 1960s–80s locks; bulk re-keying and estate-wide maintenance common.",
+    "High proportion of semi-detached stock across interwar suburbs means standard cylinder locks dominate; emergency callouts concentrate in residential areas during winter."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bloxwich",
+    "overpass": "OSM Overpass bbox query, 23 named areas",
+    "coords": {
+      "lat": 52.6161194,
+      "lon": -2.0030496
+    }
+  },
+  "generated_at": "2026-05-13T12:31:51.348Z",
+  "all_areas": [
+    "Alumwell",
+    "Bentley",
+    "Birchills",
+    "Blakenall Heath",
+    "Coal Pool",
+    "County Bridge",
+    "Dudley's Fields",
+    "Goscote",
+    "Harden",
+    "Heath End",
+    "Highgate",
+    "Landywood",
+    "Lane Head",
+    "Leamore",
+    "Little Bloxwich",
+    "New Invention",
+    "Old Town",
+    "Pelsall",
+    "Ryecroft",
+    "Shepwell Green",
+    "Short Heath",
+    "The Chuckery",
+    "Wallington Heath"
+  ],
+  "geo": {
+    "latitude": 52.6161194,
+    "longitude": -2.0030496
+  },
+  "postcode_districts": [
+    "WS1",
+    "WS2",
+    "WS3"
+  ],
+  "postcode_meta": {
+    "WS3": {
+      "count": 6,
+      "sample": "WS3 3DQ",
+      "admin": "Walsall",
+      "via": "admin_ward=bloxwich east"
+    },
+    "WS2": {
+      "count": 4,
+      "sample": "WS2 8BB",
+      "admin": "Walsall",
+      "via": "constituency=walsall and bloxwich"
+    },
+    "WS1": {
+      "count": 2,
+      "sample": "WS1 2QP",
+      "admin": "Walsall",
+      "via": "constituency=walsall and bloxwich"
+    }
+  }
+}

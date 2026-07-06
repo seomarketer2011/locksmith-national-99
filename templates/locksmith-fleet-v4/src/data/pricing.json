@@ -1,0 +1,207 @@
+{
+  "_note": "Canonical guide-price table. Every std/ooh figure here is transcribed from the matching cost-guide paragraph in service-content.json for the same slug, so the table and the body never contradict. Verified by scripts/locksmith-fleet-v4/verify-pricing.mjs.",
+  "index": {
+    "note": "Guide prices for common jobs in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Regain entry after a lockout", "std": "£59", "ooh": "£99" },
+      { "job": "Euro cylinder change (like-for-like)", "std": "£59", "ooh": "£99" },
+      { "job": "Handle and cylinder change together", "std": "£74", "ooh": "£124" },
+      { "job": "Insurer-standard lock upgrade (BS3621)", "std": "£89", "ooh": "£149" },
+      { "job": "uPVC multipoint lockout", "std": "£104", "ooh": "£174" },
+      { "job": "Make safe after a break-in", "std": "£119", "ooh": "£199" },
+      { "job": "uPVC multipoint mechanism replacement", "std": "£134", "ooh": "£224" },
+      { "job": "Each additional lock on the same visit", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "emergency-locksmith": {
+    "note": "Guide prices for emergency call-outs in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Emergency lockout, standard door or lock", "std": "£59", "ooh": "£99" },
+      { "job": "Emergency lockout, uPVC multipoint door", "std": "£74", "ooh": "£124" },
+      { "job": "Snapped key extraction from a door lock", "std": "£59", "ooh": "£99" },
+      { "job": "Urgent euro cylinder change", "std": "£59", "ooh": "£99" },
+      { "job": "uPVC door won't lock — realignment/adjustment", "std": "£59", "ooh": "£99" },
+      { "job": "uPVC multipoint gearbox/mechanism fault", "std": "£134", "ooh": "£224" },
+      { "job": "Lock repair — stiff, seized or jammed", "std": "£74", "ooh": "£124" },
+      { "job": "Securing a property after a break-in", "std": "£119", "ooh": "£199" },
+      { "job": "Each additional lock/cylinder on the same visit", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "locked-out": {
+    "note": "Guide prices for lockouts in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Door slammed shut (latch only, not deadlocked)", "std": "£59", "ooh": "£99" },
+      { "job": "Key left in the door", "std": "£59", "ooh": "£99" },
+      { "job": "Lost keys, no spare — regaining entry", "std": "£59", "ooh": "£99" },
+      { "job": "Snapped key in the lock — entry + extraction", "std": "£74", "ooh": "£124" },
+      { "job": "Lock jammed or seized — regaining entry", "std": "£74", "ooh": "£124" },
+      { "job": "Deadlocked door (nightlatch or mortice)", "std": "£74", "ooh": "£124" },
+      { "job": "uPVC multipoint lockout", "std": "£104", "ooh": "£174" },
+      { "job": "Smart lock / digital lockout", "std": "£59", "ooh": "£99" },
+      { "job": "Drill-out entry (last resort) + replacement cylinder", "std": "£89", "ooh": "£149" },
+      { "job": "Make safe after entry (add-on)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "broken-key-removal": {
+    "note": "Guide prices for broken key removal in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Fragment protruding from the lock", "std": "£59", "ooh": "£99" },
+      { "job": "Fragment flush or buried inside", "std": "£74", "ooh": "£124" },
+      { "job": "Extraction from a stiff or jammed lock", "std": "£89", "ooh": "£149" },
+      { "job": "Locked out from a snapped key — entry + extraction", "std": "£89", "ooh": "£149" },
+      { "job": "uPVC multipoint lockout + extraction", "std": "£104", "ooh": "£174" },
+      { "job": "Euro cylinder, key left in other side + extraction", "std": "£89", "ooh": "£149" },
+      { "job": "Mortice lock (timber door) extraction", "std": "£74", "ooh": "£124" },
+      { "job": "Nightlatch (Yale-style rim lock) extraction", "std": "£59", "ooh": "£99" },
+      { "job": "Padlock / garage / outbuilding extraction", "std": "£59", "ooh": "£99" }
+    ]
+  },
+  "burglar-repair-service": {
+    "note": "Guide prices for burglary repairs in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts and materials charged separately.",
+    "rows": [
+      { "job": "Emergency make-safe call-out", "std": "£74", "ooh": "£124" },
+      { "job": "Boarding up a single window or door panel", "std": "£74", "ooh": "£124" },
+      { "job": "Lock change or rekey after a break-in (one door)", "std": "£59", "ooh": "£99" },
+      { "job": "High-security euro cylinder upgrade (one door)", "std": "£59", "ooh": "£99" },
+      { "job": "uPVC multipoint gearbox repair/adjustment", "std": "£104", "ooh": "£174" },
+      { "job": "uPVC multipoint mechanism replacement", "std": "£134", "ooh": "£224" },
+      { "job": "Door frame repair/reinforcement after forced entry", "std": "£119", "ooh": "£199" },
+      { "job": "Door realignment / hinge repair after impact", "std": "£89", "ooh": "£149" },
+      { "job": "Emergency glazing replacement (one pane)", "std": "£149", "ooh": "£249" },
+      { "job": "Window lock repair/replacement or restrictor", "std": "£74", "ooh": "£124" }
+    ]
+  },
+  "emergency-boarding-up": {
+    "note": "Guide prices for emergency boarding up in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; boarding materials charged separately.",
+    "rows": [
+      { "job": "Boarding a single broken window (standard)", "std": "£59", "ooh": "£99" },
+      { "job": "Boarding a glass or patio door panel", "std": "£74", "ooh": "£124" },
+      { "job": "Securing a damaged external door (temporary)", "std": "£89", "ooh": "£149" },
+      { "job": "Make safe after a burglary (one or two points)", "std": "£104", "ooh": "£174" },
+      { "job": "Boarding two openings", "std": "£119", "ooh": "£199" },
+      { "job": "Commercial shopfront / large single window", "std": "£149", "ooh": "£249" },
+      { "job": "Large opening after fire or storm damage", "std": "£134", "ooh": "£224" },
+      { "job": "Vacant property, multiple points", "std": "£164", "ooh": "£274" },
+      { "job": "Each further opening boarded (add-on)", "std": "+£30", "ooh": "+£50" },
+      { "job": "Temporary lock fitting / door reinforcement (add-on)", "std": "+£45", "ooh": "+£75" }
+    ]
+  },
+  "lock-changes": {
+    "note": "Guide prices for lock changes in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "uPVC/composite euro cylinder change (like-for-like)", "std": "£59", "ooh": "£99" },
+      { "job": "High-security euro cylinder upgrade (anti-snap)", "std": "£59", "ooh": "£99" },
+      { "job": "Handle and cylinder change together (uPVC/composite)", "std": "£74", "ooh": "£124" },
+      { "job": "Timber door mortice lock change (like-for-like)", "std": "£74", "ooh": "£124" },
+      { "job": "Timber mortice lock upgrade (BS3621 where suitable)", "std": "£89", "ooh": "£149" },
+      { "job": "Nightlatch (rim lock) change", "std": "£59", "ooh": "£99" },
+      { "job": "Non-destructive entry + lock/cylinder change", "std": "£74", "ooh": "£124" },
+      { "job": "Lock change after forced entry or seized lock", "std": "£104", "ooh": "£174" },
+      { "job": "uPVC multi-point mechanism change", "std": "£134", "ooh": "£224" },
+      { "job": "Each extra lock or cylinder (same visit)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "lock-repairs": {
+    "note": "Guide prices for lock repairs in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Lock fault diagnosis + minor adjustment", "std": "£59", "ooh": "£99" },
+      { "job": "Broken key extraction + lock health check", "std": "£59", "ooh": "£99" },
+      { "job": "Euro cylinder replacement / security upgrade", "std": "£74", "ooh": "£124" },
+      { "job": "Nightlatch (Yale-type) repair or replacement", "std": "£74", "ooh": "£124" },
+      { "job": "Mortice lock repair or replacement (timber)", "std": "£89", "ooh": "£149" },
+      { "job": "uPVC multipoint realignment", "std": "£89", "ooh": "£149" },
+      { "job": "uPVC gearbox replacement (labour)", "std": "£119", "ooh": "£199" },
+      { "job": "Smart lock troubleshooting", "std": "£89", "ooh": "£149" },
+      { "job": "Post break-in lock repair + make secure", "std": "£104", "ooh": "£174" },
+      { "job": "Each additional door/cylinder keyed alike (add-on)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "door-lock-installation": {
+    "note": "Guide prices for lock installation in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; hardware charged separately.",
+    "rows": [
+      { "job": "Euro cylinder installation (uPVC/composite)", "std": "£59", "ooh": "£99" },
+      { "job": "Anti-snap euro cylinder upgrade", "std": "£59", "ooh": "£99" },
+      { "job": "BS3621 mortice deadlock install/replace (timber)", "std": "£89", "ooh": "£149" },
+      { "job": "Mortice sashlock install/replace (timber)", "std": "£104", "ooh": "£174" },
+      { "job": "Nightlatch (Yale-type) fitting (timber)", "std": "£74", "ooh": "£124" },
+      { "job": "Multipoint gearbox installation (uPVC/composite)", "std": "£104", "ooh": "£174" },
+      { "job": "Full multipoint lock strip installation", "std": "£149", "ooh": "£249" },
+      { "job": "Smart lock installation (compatible door)", "std": "£119", "ooh": "£199" },
+      { "job": "Emergency make-safe + lock replacement after damage", "std": "£134", "ooh": "£224" },
+      { "job": "Additional keyed-alike euro cylinder (add-on)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "door-lock-replacement": {
+    "note": "Guide prices for lock replacement in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; locks, cylinders and keys supplied separately.",
+    "rows": [
+      { "job": "Euro cylinder replacement (like-for-like)", "std": "£59", "ooh": "£99" },
+      { "job": "uPVC/composite multipoint cylinder change + function test", "std": "£59", "ooh": "£99" },
+      { "job": "High-security anti-snap cylinder upgrade", "std": "£59", "ooh": "£99" },
+      { "job": "Nightlatch replacement (timber door)", "std": "£59", "ooh": "£99" },
+      { "job": "Mortice deadlock replacement (timber door)", "std": "£74", "ooh": "£124" },
+      { "job": "Mortice sashlock replacement (latch + deadbolt)", "std": "£89", "ooh": "£149" },
+      { "job": "Multipoint gearbox/mechanism repair or replacement", "std": "£134", "ooh": "£224" },
+      { "job": "Emergency make-safe after a break-in", "std": "£89", "ooh": "£149" },
+      { "job": "Smart lock retrofit (where compatible)", "std": "£104", "ooh": "£174" },
+      { "job": "Reinforced handle or cylinder guard (add-on)", "std": "+£30", "ooh": "+£50" },
+      { "job": "Additional key supply, per key (add-on)", "std": "+£15", "ooh": "+£25" }
+    ]
+  },
+  "door-repairs": {
+    "note": "Guide prices for door repairs in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Door alignment and adjustment", "std": "£59", "ooh": "£99" },
+      { "job": "Dropped uPVC/composite door hinge adjustment", "std": "£74", "ooh": "£124" },
+      { "job": "Hinge repair or replacement", "std": "£89", "ooh": "£149" },
+      { "job": "Handle set replacement / spindle repair", "std": "£59", "ooh": "£99" },
+      { "job": "Euro cylinder replacement", "std": "£59", "ooh": "£99" },
+      { "job": "Key snapped in the lock (removal + check)", "std": "£59", "ooh": "£99" },
+      { "job": "Multipoint mechanism repair or replacement", "std": "£104", "ooh": "£174" },
+      { "job": "Threshold repair or adjustment", "std": "£89", "ooh": "£149" },
+      { "job": "Burglary damage make-safe / temporary securing", "std": "£119", "ooh": "£199" }
+    ]
+  },
+  "window-lock-repair-replacement": {
+    "note": "Guide prices for window lock work in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; parts charged separately.",
+    "rows": [
+      { "job": "Window won't lock/close — diagnosis + alignment", "std": "£74", "ooh": "£124" },
+      { "job": "Keep or striker plate replacement", "std": "£74", "ooh": "£124" },
+      { "job": "Espagnolette lockable handle replacement", "std": "£59", "ooh": "£99" },
+      { "job": "Cockspur handle replacement", "std": "£59", "ooh": "£99" },
+      { "job": "Stuck/snapped key extraction (window handle/lock)", "std": "£59", "ooh": "£99" },
+      { "job": "uPVC espag gearbox / mechanism replacement", "std": "£104", "ooh": "£174" },
+      { "job": "Shootbolt / multipoint window mechanism replacement", "std": "£119", "ooh": "£199" },
+      { "job": "Window locked shut/jammed — open + make secure", "std": "£89", "ooh": "£149" },
+      { "job": "Each additional window (same visit, add-on)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "safe-installation": {
+    "note": "Guide prices for safe installation in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; you supply the safe, fixings charged separately.",
+    "rows": [
+      { "job": "Pre-install survey and feasibility check", "std": "£59", "ooh": "£99" },
+      { "job": "Freestanding safe installation (typical)", "std": "£89", "ooh": "£149" },
+      { "job": "Heavy/awkward freestanding install (stairs/tight access)", "std": "£134", "ooh": "£224" },
+      { "job": "Wall safe installation", "std": "£179", "ooh": "£299" },
+      { "job": "Floor / underfloor safe installation", "std": "£269", "ooh": "£449" },
+      { "job": "Remove & reposition within the same property", "std": "£119", "ooh": "£199" },
+      { "job": "Remove & re-install at a new address", "std": "£209", "ooh": "£349" },
+      { "job": "Evidence pack / installation documentation (add-on)", "std": "+£15", "ooh": "+£25" },
+      { "job": "Minor making good / cosmetic finishing (add-on)", "std": "+£30", "ooh": "+£50" }
+    ]
+  },
+  "safe-opening": {
+    "note": "Guide prices for safe opening in {{location}}. Standard hours 7am–6pm, out-of-hours 6pm–7am. No call-out fee; proof of ownership required, parts charged separately.",
+    "rows": [
+      { "job": "Battery failure lockout (electronic keypad)", "std": "£59", "ooh": "£99" },
+      { "job": "Electronic keypad fault", "std": "£89", "ooh": "£149" },
+      { "job": "Lost combination / forgotten code / inherited safe", "std": "£104", "ooh": "£174" },
+      { "job": "Lost safe keys / snapped key in lock", "std": "£74", "ooh": "£124" },
+      { "job": "Correct code/key but safe won't open", "std": "£134", "ooh": "£224" },
+      { "job": "Fire-resistant / high-security safe opening", "std": "£149", "ooh": "£249" },
+      { "job": "Last-resort controlled entry (minimal-damage drilling)", "std": "£179", "ooh": "£299" },
+      { "job": "Code reset / reprogramming (add-on)", "std": "+£30", "ooh": "+£50" },
+      { "job": "Temporary relock / make-safe (add-on)", "std": "+£45", "ooh": "+£75" },
+      { "job": "Lock replacement after opening, labour only (add-on)", "std": "+£45", "ooh": "+£75" }
+    ]
+  }
+}

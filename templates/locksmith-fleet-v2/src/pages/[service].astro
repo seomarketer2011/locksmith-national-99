@@ -1,0 +1,101 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import FaqList from "../components/FaqList.astro";
+import AreasCovered from "../components/AreasCovered.astro";
+import { SERVICES } from "../data/services";
+import enriched from "../data/enriched.json";
+import siteMeta from "../data/site-meta.json";
+
+export function getStaticPaths() {
+  return SERVICES.map((s) => ({ params: { service: s.slug }, props: { service: s } }));
+}
+
+const { service } = Astro.props;
+const images = import.meta.glob<{ default: ImageMetadata }>("../assets/services/*.png", { eager: true });
+const img = images[`../assets/services/${service.image}`]?.default ?? null;
+
+const e: Record<string, any> = enriched as any;
+const meta: any = siteMeta;
+const slug = service.slug;
+
+const title = e[`${slug}.meta.title`] ?? `${service.name} {{location}} | Local Locksmith`;
+const description = e[`${slug}.meta.description`] ?? `${service.name} in {{location}} from DBS-checked local locksmiths. ${service.short}`;
+const heroParagraph = e[`${slug}.hero-paragraph`] ?? service.short;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localParas = localBody ? localBody.split(/\n\s*\n/).map((p: string) => p.trim()).filter(Boolean) : [];
+const faqs = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const areas = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+
+// Related services: previous + next 2 in the canonical order (wraps around)
+const idx = SERVICES.findIndex((s) => s.slug === slug);
+const related = [1, 2, 3].map((n) => SERVICES[(idx + n) % SERVICES.length]);
+---
+<Layout title={title} description={description}>
+  <!-- Breadcrumb + hero -->
+  <section class="bg-paper">
+    <div class="max-w-page mx-auto px-5 pt-8 pb-14">
+      <nav class="text-sm text-stone2 mb-8" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-brass-deep transition">Home</a>
+        <span class="mx-2 text-line">/</span>
+        <span class="text-ink">{service.name}</span>
+      </nav>
+      <div class="grid grid-cols-1 lg:grid-cols-[1.15fr_0.85fr] gap-12 items-start">
+        <div>
+          <p class="kicker mb-4">{{location}} · 24/7</p>
+          <h1 class="text-4xl md:text-[2.9rem] leading-[1.08] mb-6">{service.name} in {{location}}</h1>
+          <p class="text-lg text-stone2 leading-relaxed mb-8">{heroParagraph}</p>
+          <div class="flex flex-wrap gap-3">
+            <a href={`tel:${phoneHref}`} class="btn-primary">Call {phone}</a>
+            <a href="/contact/" class="btn-outline">Request a callback</a>
+          </div>
+          <ul class="mt-9 grid grid-cols-2 sm:grid-cols-4 gap-x-4 gap-y-2 text-sm text-stone2 max-w-xl">
+            <li class="border-l-2 border-brass pl-3">Fixed quotes</li>
+            <li class="border-l-2 border-brass pl-3">DBS-checked</li>
+            <li class="border-l-2 border-brass pl-3">Insured work</li>
+            <li class="border-l-2 border-brass pl-3">Local engineer</li>
+          </ul>
+        </div>
+        {img && (
+          <div class="hidden lg:block border border-line bg-card p-3">
+            <Image src={img} alt={`${service.name} in {{location}}`} class="w-full h-[360px] object-cover" width={700} />
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <!-- Local body -->
+  {localParas.length > 0 && (
+    <section class="bg-card border-y border-line">
+      <div class="max-w-prose2 mx-auto px-5 py-16">
+        <p class="kicker mb-2">The local picture</p>
+        <h2 class="text-2xl md:text-3xl mb-6">{service.name} for {{location}} properties</h2>
+        <div class="space-y-5 text-stone2 leading-relaxed text-[17px]">
+          {localParas.map((p: string) => <p>{p}</p>)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <FaqList faqs={faqs} heading={`${service.name} — your questions`} />
+  <AreasCovered areas={areas} postcodes={postcodes} />
+
+  <!-- Related -->
+  <section class="max-w-page mx-auto px-5 py-14">
+    <p class="kicker mb-2">Also from us</p>
+    <h2 class="text-2xl md:text-3xl mb-7">Related services</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-px bg-line border border-line">
+      {related.map((r) => (
+        <a href={`/${r.slug}/`} class="group bg-card p-6 transition hover:bg-brass-pale">
+          <h3 class="text-lg text-ink mb-1.5 group-hover:text-brass-deep transition">{r.name}</h3>
+          <p class="text-sm text-stone2 leading-relaxed">{r.short}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</Layout>

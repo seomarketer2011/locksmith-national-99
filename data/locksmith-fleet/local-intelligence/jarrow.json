@@ -1,0 +1,168 @@
+{
+  "location": "Jarrow",
+  "neighborhoods": [
+    {
+      "name": "Boldon Colliery",
+      "era": "interwar",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ],
+      "notes": "former mining community"
+    },
+    {
+      "name": "Brockley Whins",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Chirton",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "industrial housing"
+      ]
+    },
+    {
+      "name": "Fellgate",
+      "era": "Edwardian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Hedworth",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ]
+    },
+    {
+      "name": "Howdon",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "bungalow"
+      ]
+    },
+    {
+      "name": "Meadow Well",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "flat"
+      ],
+      "notes": "high-density residential"
+    },
+    {
+      "name": "Percy Main",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ],
+      "notes": "historic industrial quarter"
+    },
+    {
+      "name": "Preston",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ]
+    },
+    {
+      "name": "Primrose",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "West Boldon",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "modern"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "mixed Victorian industrial through post-war council stock",
+    "notable": "former colliery and riverside industrial town; many properties with original period locks. High proportion of council and social housing requiring commercial-grade security."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces in Percy Main and Chirton often retain original mortice locks and sash hardware needing specialist attention.",
+    "Post-war council estates like Meadow Well and Meadow Well require robust commercial rekeying and access control for communal doors.",
+    "Interwar terraced stock across Boldon Colliery and Fellgate frequently features worn period locks vulnerable to break-in."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Jarrow",
+    "overpass": "OSM Overpass bbox query, 11 named areas",
+    "coords": {
+      "lat": 54.9812514,
+      "lon": -1.4908447
+    }
+  },
+  "generated_at": "2026-05-13T18:10:45.759Z",
+  "all_areas": [
+    "Boldon Colliery",
+    "Brockley Whins",
+    "Chirton",
+    "Fellgate",
+    "Hedworth",
+    "Howdon",
+    "Meadow Well",
+    "Percy Main",
+    "Preston",
+    "Primrose",
+    "West Boldon"
+  ],
+  "geo": {
+    "latitude": 54.9812514,
+    "longitude": -1.4908447
+  },
+  "postcode_districts": [
+    "NE32",
+    "NE34",
+    "NE35",
+    "NE36"
+  ],
+  "postcode_meta": {
+    "NE36": {
+      "count": 1,
+      "sample": "NE36 0JH",
+      "admin": "South Tyneside",
+      "via": "constituency=jarrow and gateshead east"
+    },
+    "NE34": {
+      "count": 1,
+      "sample": "NE34 9DQ",
+      "admin": "South Tyneside",
+      "via": "constituency=jarrow and gateshead east"
+    },
+    "NE35": {
+      "count": 1,
+      "sample": "NE35 9JP",
+      "admin": "South Tyneside",
+      "via": "constituency=jarrow and gateshead east"
+    },
+    "NE32": {
+      "count": 3,
+      "sample": "NE32 4QE",
+      "admin": "South Tyneside",
+      "via": "constituency=jarrow and gateshead east"
+    }
+  }
+}

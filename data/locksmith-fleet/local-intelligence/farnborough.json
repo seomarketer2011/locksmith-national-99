@@ -1,0 +1,158 @@
+{
+  "location": "Farnborough",
+  "neighborhoods": [
+    {
+      "name": "North Camp",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential density, period lock wear"
+    },
+    {
+      "name": "South Farnborough",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "established suburban area"
+    },
+    {
+      "name": "Cove",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "mixed residential"
+    },
+    {
+      "name": "Ash Vale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "commuter belt proximity"
+    },
+    {
+      "name": "Hawley",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban character"
+    },
+    {
+      "name": "Farnborough Green",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "green space, quieter area"
+    },
+    {
+      "name": "North Farnborough",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "commuter area"
+    },
+    {
+      "name": "Mytchett",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "fringe location"
+    },
+    {
+      "name": "Frimley Green",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "outlying residential"
+    },
+    {
+      "name": "Gun Hill Park",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached"
+      ],
+      "notes": "newer developments"
+    },
+    {
+      "name": "West Heath",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "residential suburban"
+    },
+    {
+      "name": "Ramillies Park",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "council estate origins"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "predominantly post-war with interwar villa pockets",
+    "notable": "Farnborough has strong RAF heritage; many houses pre-date or post-date WWII. Mixed owner-occupier and rental stock typical of Surrey/Hampshire commuter towns."
+  },
+  "locksmith_relevant": [
+    "Post-war semis dominate; many original locks require modernisation and period-appropriate cylinder upgrades.",
+    "High rental turnover in North Camp and Ramillies Park drives demand for master key systems and rapid rekeying.",
+    "Older interwar villas in South Farnborough and Farnborough Green need specialist period lock repair and preservation-conscious upgrades."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Farnborough",
+    "overpass": "OSM Overpass bbox query, 15 named areas",
+    "coords": {
+      "lat": 51.2918693,
+      "lon": -0.7539836
+    }
+  },
+  "generated_at": "2026-05-13T12:33:10.333Z",
+  "all_areas": [
+    "Ash Vale",
+    "Cove",
+    "Cypress Hull Court",
+    "Farnborough Green",
+    "Fox Lane",
+    "Frimley Green",
+    "Gun Hill Park",
+    "Hawley",
+    "Hawley Lane",
+    "Mytchett",
+    "North Camp",
+    "North Farnborough",
+    "Ramillies Park",
+    "South Farnborough",
+    "West Heath"
+  ],
+  "geo": {
+    "latitude": 51.2918693,
+    "longitude": -0.7539836
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

@@ -1,0 +1,85 @@
+---
+import { Image } from "astro:assets";
+import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
+import WhyChoose from "../components/WhyChoose.astro";
+import ThreeStep from "../components/ThreeStep.astro";
+import PricingBox from "../components/PricingBox.astro";
+import StaticSections from "../components/StaticSections.astro";
+import LocalBlocks from "../components/LocalBlocks.astro";
+import { SERVICES } from "../data/services";
+import content from "../data/service-content.json";
+import enriched from "../data/enriched.json";
+import siteMeta from "../data/site-meta.json";
+
+export function getStaticPaths() {
+  return SERVICES.map((s) => ({ params: { service: s.slug }, props: { service: s } }));
+}
+
+const { service } = Astro.props;
+const slug = service.slug;
+const images = import.meta.glob<{ default: ImageMetadata }>("../assets/services/*.png", { eager: true });
+const img = images[`../assets/services/${service.image}`]?.default ?? Object.values(images)[0]?.default;
+
+const e: Record<string, any> = enriched as any;
+const meta: any = siteMeta;
+const allSections = ((content as any)[slug] ?? []) as any[];
+const bodySections = allSections.slice(1);
+
+const title = e[`${slug}.meta.title`] ?? `${service.name} {{location}} | Local Locksmiths`;
+const description = e[`${slug}.meta.description`] ?? `${service.name} in {{location}} from DBS-checked local locksmiths. ${service.short}`;
+const heroParagraph = e[`${slug}.hero-paragraph`] ?? service.short;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localParas = localBody ? localBody.split(/\n\s*\n/).map((p: string) => p.trim()).filter(Boolean) : [];
+const faqs = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const areas = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+
+const idx = SERVICES.findIndex((s) => s.slug === slug);
+const related = [1, 2, 3].map((n) => SERVICES[(idx + n) % SERVICES.length]);
+---
+<Layout title={title} description={description}>
+  <Hero
+    h1={`${service.name} in {{location}}`}
+    intro={heroParagraph}
+    image={img}
+    imageAlt={`${service.name} in {{location}}`}
+    breadcrumb={[{ label: "Home", href: "/" }, { label: service.name }]}
+  />
+
+  <WhyChoose />
+  <ThreeStep serviceName={service.name} serviceSlug={slug} />
+  <PricingBox slug={slug} />
+
+  <StaticSections sections={bodySections} startIndex={0} />
+
+  <LocalBlocks
+    localHeading={`${service.name} for {{location}} properties`}
+    localParas={localParas}
+    faqs={faqs}
+    areas={areas}
+    postcodes={postcodes}
+    faqHeading={`${service.name} — common questions in {{location}}`}
+  />
+
+  <!-- Related -->
+  <section class="py-16 bg-white">
+    <div class="max-w-page mx-auto px-4">
+      <h2 class="text-3xl md:text-4xl font-semibold text-slate-900 mb-8">Related services</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+        {related.map((r) => {
+          const rimg = images[`../assets/services/${r.image}`]?.default;
+          return (
+            <a href={`/${r.slug}/`} class="group rounded-2xl overflow-hidden border border-slate-200 hover:shadow-md transition">
+              {rimg && <Image src={rimg} alt={r.name} class="w-full h-36 object-cover" width={460} />}
+              <div class="p-5">
+                <h3 class="font-semibold text-slate-900 group-hover:text-brandblue transition">{r.name}</h3>
+                <p class="text-sm text-slate-600 mt-1">{r.short}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</Layout>

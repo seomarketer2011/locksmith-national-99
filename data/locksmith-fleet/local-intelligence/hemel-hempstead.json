@@ -1,0 +1,232 @@
+{
+  "location": "Hemel Hempstead",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "era": "Victorian, Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic core, older timber-frame and period properties"
+    },
+    {
+      "name": "Boxmoor",
+      "era": "Victorian, Edwardian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "affluent residential, conservation area"
+    },
+    {
+      "name": "Apsley",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "industrial heritage area, mixed residential"
+    },
+    {
+      "name": "Nash Mills",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "former mill worker housing, heritage character"
+    },
+    {
+      "name": "Grovehill",
+      "era": "1960s, modern",
+      "types": [
+        "semi-detached",
+        "detached",
+        "flat"
+      ],
+      "notes": "post-war new town expansion, large estate"
+    },
+    {
+      "name": "Maylands",
+      "era": "1960s, modern",
+      "types": [
+        "semi-detached",
+        "detached",
+        "flat"
+      ],
+      "notes": "post-war new town, planned residential"
+    },
+    {
+      "name": "Adeyfield",
+      "era": "1960s, modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "new town development, suburban character"
+    },
+    {
+      "name": "Gadebridge",
+      "era": "post-war, modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "family residential with park access"
+    },
+    {
+      "name": "Warners End",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "mixed residential, some older properties"
+    },
+    {
+      "name": "Chaulden",
+      "era": "1960s, modern",
+      "types": [
+        "semi-detached",
+        "flat"
+      ],
+      "notes": "new town estate housing"
+    },
+    {
+      "name": "Bennetts End",
+      "era": "post-war, modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential area"
+    },
+    {
+      "name": "Highfield",
+      "era": "1960s, modern",
+      "types": [
+        "semi-detached",
+        "flat"
+      ],
+      "notes": "elevated estate, planned housing"
+    },
+    {
+      "name": "Jarman Park",
+      "era": "modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "contemporary residential development"
+    },
+    {
+      "name": "Woodhall Farm",
+      "era": "modern",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "newer suburban expansion"
+    },
+    {
+      "name": "Felden",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential area with village character"
+    },
+    {
+      "name": "Corner Hall",
+      "era": "post-war, modern",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "mixed residential"
+    },
+    {
+      "name": "Piccotts End",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "older residential area"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "post-war suburban",
+      "new town estate"
+    ],
+    "era": "mixed interwar and predominantly post-war 1960s expansion",
+    "notable": "Hemel Hempstead expanded rapidly as designated new town; Victorian core in Old Town and Boxmoor contrasts with extensive 1960s estates. High proportion of period properties in former industrial areas (Nash Mills, Apsley)."
+  },
+  "locksmith_relevant": [
+    "Old Town and Boxmoor contain period locks and timber frames requiring specialist knowledge and care during access.",
+    "Large post-war estates across Grovehill, Maylands, Adeyfield feature standardized council-type locks with high re-keying demand.",
+    "New town expansion created many similar properties; locksmiths must verify correct address to avoid master-key assumptions across neighborhoods."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Hemel%20Hempstead",
+    "overpass": "OSM Overpass bbox query, 19 named areas",
+    "coords": {
+      "lat": 51.7511784,
+      "lon": -0.472528
+    }
+  },
+  "generated_at": "2026-05-13T12:32:02.915Z",
+  "all_areas": [
+    "Adeyfield",
+    "Apsley",
+    "Bennetts End",
+    "Boxmoor",
+    "Chaulden",
+    "Corner Hall",
+    "Cupid Green",
+    "Felden",
+    "Gadebridge",
+    "Great Gaddesden",
+    "Grovehill",
+    "Highfield",
+    "Jarman Park",
+    "Maylands",
+    "Nash Mills",
+    "Old Town",
+    "Piccotts End",
+    "Warners End",
+    "Woodhall Farm"
+  ],
+  "geo": {
+    "latitude": 51.7511784,
+    "longitude": -0.472528
+  },
+  "postcode_districts": [
+    "HP1",
+    "HP2",
+    "HP3"
+  ],
+  "postcode_meta": {
+    "HP3": {
+      "count": 5,
+      "sample": "HP3 0BX",
+      "admin": "Dacorum",
+      "via": "constituency=hemel hempstead"
+    },
+    "HP1": {
+      "count": 6,
+      "sample": "HP1 1QF",
+      "admin": "Dacorum",
+      "via": "constituency=hemel hempstead"
+    },
+    "HP2": {
+      "count": 6,
+      "sample": "HP2 5JU",
+      "admin": "Dacorum",
+      "via": "constituency=hemel hempstead"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+---
+// Enriched per-site blocks: local context body, local FAQs (with FAQPage
+// schema), and areas covered. Same data contract as v1/v2.
+interface Props {
+  localHeading?: string;
+  localParas: string[];
+  faqs: { q: string; a: string }[];
+  areas: string[];
+  postcodes?: string[];
+  faqHeading?: string;
+}
+const { localHeading = "In {{location}}", localParas, faqs, areas, postcodes = [], faqHeading = "Local FAQs" } = Astro.props;
+
+const faqLd = faqs.length
+  ? { "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }
+  : null;
+---
+{localParas.length > 0 && (
+  <section class="py-16 md:py-20 bg-neutral-900 text-white">
+    <div class="max-w-4xl mx-auto px-4">
+      <p class="text-amber-400 font-semibold text-sm uppercase tracking-wide mb-3">Local knowledge</p>
+      <h2 class="text-3xl md:text-4xl font-bold mb-6">{localHeading}</h2>
+      <div class="space-y-5 text-neutral-300 text-[17px] leading-relaxed">
+        {localParas.map((p) => <p>{p}</p>)}
+      </div>
+    </div>
+  </section>
+)}
+
+{faqs.length > 0 && (
+  <section class="py-16 md:py-20 bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+      <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-8">{faqHeading}</h2>
+      <div class="space-y-4">
+        {faqs.map((f) => (
+          <details class="group bg-neutral-50 border border-neutral-200 rounded-2xl p-6">
+            <summary class="flex items-start justify-between gap-4 cursor-pointer list-none font-semibold text-neutral-900">
+              <span>{f.q}</span>
+              <span class="text-amber-500 shrink-0 text-2xl leading-none transition group-open:rotate-45" aria-hidden="true">+</span>
+            </summary>
+            <p class="mt-3 text-neutral-600 leading-relaxed">{f.a}</p>
+          </details>
+        ))}
+      </div>
+      {faqLd && <script type="application/ld+json" set:html={JSON.stringify(faqLd)} />}
+    </div>
+  </section>
+)}
+
+{areas.length > 0 && (
+  <section class="py-16 md:py-20 bg-neutral-50">
+    <div class="max-w-page mx-auto px-4">
+      <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-4">Areas we cover in {"{{location}}"}</h2>
+      <p class="text-neutral-600 mb-7">Local engineers based around {"{{location}}"}, covering:</p>
+      <ul class="flex flex-wrap gap-2.5">
+        {areas.map((a) => (
+          <li class="bg-white border border-neutral-200 rounded-full px-4 py-2 text-sm text-neutral-800">{a}</li>
+        ))}
+      </ul>
+      {postcodes.length > 0 && (
+        <p class="mt-6 text-sm text-neutral-500">Postcode districts: <span class="text-neutral-900 font-semibold">{postcodes.join(" · ")}</span></p>
+      )}
+    </div>
+  </section>
+)}

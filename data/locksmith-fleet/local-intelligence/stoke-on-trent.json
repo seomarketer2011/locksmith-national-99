@@ -1,0 +1,249 @@
+{
+  "location": "Stoke-on-Trent",
+  "neighborhoods": [
+    {
+      "name": "Etruria",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic pottery district, listed industrial buildings"
+    },
+    {
+      "name": "Shelton",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Longport",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "former pottery heartland"
+    },
+    {
+      "name": "Hanford",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Basford",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Penkhull",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Trentham",
+      "era": "Edwardian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "affluent residential area"
+    },
+    {
+      "name": "Meir",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Normacot",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Blurton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Werrington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Weston Coyney",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Stockton Brook",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Clayton",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Smallthorne",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Porthill",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Hulme",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "predominantly Victorian and Edwardian with significant post-war council housing",
+    "notable": "Heavy concentration of Victorian terraces from pottery manufacturing era; post-1950s estate expansion across north and south"
+  },
+  "locksmith_relevant": [
+    "Victorian terraces dominate central wards; original locks often non-standard, requiring specialist knowledge and period-appropriate repairs.",
+    "Widespread council estates built 1960s–1980s with standardised uPVC frames and budget locks; mass key replacements common.",
+    "Trentham and Penkhull villas contain period hardware and listed protections; locksmiths must navigate conservation consent requirements."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Stoke-on-Trent",
+    "overpass": "OSM Overpass bbox query, 37 named areas",
+    "coords": {
+      "lat": 53.0162014,
+      "lon": -2.1812607
+    }
+  },
+  "generated_at": "2026-05-13T12:22:52.905Z",
+  "all_areas": [
+    "Abbey Hulton",
+    "Baddeley Green",
+    "Bagnall",
+    "Basford",
+    "Blurton",
+    "Brown Edge",
+    "Clayton",
+    "Cross Heath",
+    "Endon",
+    "Etruria",
+    "Hanford",
+    "Hartshill",
+    "Hulme",
+    "Joiner's Square",
+    "Lightwood",
+    "Longport",
+    "May Bank",
+    "Meir",
+    "Meir Heath",
+    "Normacot",
+    "Norton Green",
+    "Norton-Le-Moors",
+    "Oakhill",
+    "Packmoor",
+    "Penkhull",
+    "Porthill",
+    "Shelton",
+    "Smallthorne",
+    "Sneyd Green",
+    "Springfields",
+    "Stanley",
+    "Stockton Brook",
+    "Tompkin",
+    "Trent Vale",
+    "Trentham",
+    "Werrington",
+    "Weston Coyney"
+  ],
+  "geo": {
+    "latitude": 53.0162014,
+    "longitude": -2.1812607
+  },
+  "postcode_districts": [
+    "ST1",
+    "ST2",
+    "ST3",
+    "ST4",
+    "ST6",
+    "ST7"
+  ],
+  "postcode_meta": {
+    "ST6": {
+      "count": 5,
+      "sample": "ST6 1JR",
+      "admin": "Stoke-on-Trent"
+    },
+    "ST3": {
+      "count": 5,
+      "sample": "ST3 7DP",
+      "admin": "Stoke-on-Trent"
+    },
+    "ST4": {
+      "count": 9,
+      "sample": "ST4 4QQ",
+      "admin": "Stoke-on-Trent"
+    },
+    "ST1": {
+      "count": 2,
+      "sample": "ST1 5PN",
+      "admin": "Stoke-on-Trent"
+    },
+    "ST2": {
+      "count": 1,
+      "sample": "ST2 8EP",
+      "admin": "Stoke-on-Trent"
+    },
+    "ST7": {
+      "count": 1,
+      "sample": "ST7 4SW",
+      "admin": "Stoke-on-Trent"
+    }
+  }
+}

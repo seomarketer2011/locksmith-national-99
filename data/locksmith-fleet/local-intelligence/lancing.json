@@ -1,0 +1,57 @@
+{
+  "location": "Lancing",
+  "neighborhoods": [
+    {
+      "name": "Lancing",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "semi-detached",
+        "terrace",
+        "detached",
+        "flat"
+      ],
+      "notes": "coastal town; varied residential stock from seafront Victorian to suburban post-war"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "mixed Victorian and post-war",
+    "notable": "Seaside residential character with significant Victorian and Edwardian housing stock alongside mid-20th century suburban expansion. Strong interwar and post-war council housing presence."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian seafront properties often feature original period locks and sash windows requiring specialist knowledge and care.",
+    "Post-war council estates and semis dominate outer Lancing; many use standard pin-tumbler and mortice locks prone to wear.",
+    "Coastal location means salt-air corrosion accelerates lock degradation; marine-grade or frequent maintenance calls are common in seafront areas."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Lancing",
+    "overpass": "OSM Overpass bbox query, 1 named areas",
+    "coords": {
+      "lat": 50.8258666,
+      "lon": -0.322551
+    }
+  },
+  "generated_at": "2026-05-13T18:03:35.941Z",
+  "all_areas": [
+    "Lancing"
+  ],
+  "geo": {
+    "latitude": 50.8258666,
+    "longitude": -0.322551
+  },
+  "postcode_districts": [
+    "BN15"
+  ],
+  "postcode_meta": {
+    "BN15": {
+      "count": 1,
+      "sample": "BN15 9DN",
+      "admin": "Adur",
+      "via": "parish=lancing"
+    }
+  }
+}

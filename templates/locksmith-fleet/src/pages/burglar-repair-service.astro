@@ -1,0 +1,1192 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Burglar repair.png";
+import lock from "../assets/services/burglar repairs.png";
+import lock2 from "../assets/services/burglar repair door lock.png";
+import lock3 from "../assets/services/Burglar repair.png";
+import lock4 from "../assets/services/burglar repairs.png";
+
+// Enrichment overlay for service: burglar-repair-service
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "burglar-repair-service";
+const metaTitle = e[`${slug}.meta.title`] ?? `Burglary Repairs Service {{location}} | Emergency Break-In Repairs `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Burglary repairs in {{location}} after break-ins. Emergency lock replacement, door & frame repairs, boarding up, window glazing. Fast attendance, make-safe service, insurance documentation. 24/7 emergency response.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<!-- Burglar Repair Service Hero Section (Tailwind CSS) -->
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">30–60 min response</span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Property secured fast</span>
+        
+      </div>
+    </div>
+
+    <!-- Main grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Burglar Repair Service in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `24/7 Secure Repairs After Break-Ins Across {{location}} • Make Doors Safe • Temporary to
+          Permanent Fixes • Fully Insured • Clear Price Before Work Begins.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Door, Frame & Lock Repairs
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We make your door, frame, and locks secure again immediately after a break-in.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Structural Realignment & Fixings
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We realign keeps, repair splits, and fit new hardware using correct fixings for strength.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Clear Options & Pricing
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Options and costs explained clearly, with a quote confirmed before any work begins.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Insured Local Technician
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Fully insured technician carrying parts for temporary securing and permanent repairs.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Get Help After Break-In</a>
+
+        <!-- Trust line -->
+        <p class="mt-4 text-sm text-gray-500 text-center">
+          Professional service • Clear pricing • Fully insured
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Emergency burglary repair service after break-ins"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Burglary Repairs Service in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A break-in is stressful, disruptive, and leaves you with one urgent priority: making your home or premises safe again. {{name}} provides a burglary repair service in {{location}} focused on rapid attendance, practical "make-safe" measures, and permanent repairs that restore security properly—not just a quick patch. Our emergency locksmith team is available for urgent situations, ensuring you get help when you need it most. Whether you're dealing with a splintered door frame, a forced uPVC multi-point lock, or smashed glazing, we work to secure the property on the first visit wherever possible.
+          </p>
+          <p>
+            Our burglary repair work typically includes emergency lock replacement, door and frame repairs, boarding up, and window glazing replacement. If burglars have attacked a euro cylinder, we can fit anti-snap, anti-drill and anti-bump upgrades to reduce the risk of repeat entry. All work is carried out by fully trained and police checked professionals for your peace of mind. For insurance and peace of mind, we can also provide photos, an itemised invoice, and clear documentation of what was damaged and what was replaced.
+          </p>
+          <p>
+            Because every burglary is different, we'll explain what can be completed immediately versus what may need a follow-up visit (for example, if specialist glass has a lead time). Throughout, we keep pricing clear and based on sensible price factors such as the time of day, the level of damage, and the parts required—so you can make decisions quickly when you're already dealing with enough.
+          </p>
+          <p>
+            For immediate burglary repairs, contact your local locksmith today.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🚨</span>
+            Emergency Burglary Repairs
+          </a>
+     
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency Burglary Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency burglary repairs in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Rapid attendance when security can't wait. When a door won't close, a lock has been forced, or a window has been broken, the property is exposed. Our priority is to attend quickly in {{location}}, assess what's compromised, and make the building safe and secure.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Emergency burglary repair and make-safe service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- What "make-safe" usually includes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What "make-safe" usually includes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Make-safe is about restoring basic security straight away so you can stay put, lock up, and reduce risk overnight. Depending on the damage, it may include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Securing damaged entry points so they close and lock correctly</li>
+              <li>Fitting temporary protection to broken windows or doors</li>
+              <li>Replacing or isolating compromised locks</li>
+            </ul>
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Repairing damage to doors, frames, and locks caused by break-ins</li>
+              <li>Performing lock repairs to restore proper function and security</li>
+              <li>Stabilising frames so doors align and latch properly</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Boarding Up After a Break-In -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Boarding up after a break-in
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If glass is shattered or a door panel is badly damaged, boarding up is often the fastest way to restore security. We use strong boarding solutions designed to protect the opening, reduce draughts and weather exposure, and buy time until permanent repairs are completed.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Boarding up doors and windows -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Boarding up doors and windows
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Our professional boarding service provides immediate security for damaged entry points. We assess each opening and fit appropriate boarding materials that deter further entry while protecting your property from the elements.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Temporary glazing options -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Temporary glazing options when you need visibility
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where appropriate, temporary glazing or polycarbonate-style panels can be used as a practical alternative to full boarding. This can be especially useful for certain windows or where you need light and visibility while waiting for the correct glass specification.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock Replacement After Burglary -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Lock replacement after burglary
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Replacing forced locks to restore real security. If a lock has been drilled, snapped, twisted, or otherwise attacked, it should be treated as compromised. We replace damaged locks to restore secure operation and correct fit, helping ensure the door locks properly without forcing or misalignment.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Lock replacement and upgrade after burglary"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- uPVC multi-point locks and mechanisms -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          uPVC multi-point locks and mechanisms
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many homes in {{location}} rely on a uPVC door with multi-point locking systems. After a burglary attempt, these can suffer damage to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>The central gearbox</li>
+              <li>Hooks/rollers</li>
+            </ul>
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Keeps and alignment points</li>
+              <li>Handles and spindles</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We diagnose whether the uPVC door mechanism can be repaired safely or whether a like-for-like replacement is the best option to restore reliable locking.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Euro cylinder upgrades -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Euro cylinder upgrades: anti-snap, anti-drill, anti-bump
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If entry was gained by attacking a cylinder, upgrading is one of the most effective ways to reduce repeat risk. We can fit cylinders that provide stronger resistance to common forced-entry methods, while ensuring compatibility with your door type and lock case.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Changing keys and rekeying -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Changing keys and rekeying after a break-in
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If keys have been stolen—or you're not confident who may now have access—changing the locks or rekeying is a straightforward way to regain control. This is often requested by homeowners, landlords, and letting agents after an incident.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door and Frame Repairs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door and frame repairs after forced entry
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Forced entry often damages the frame more than the lock. A weakened frame can prevent a new lock from performing properly and can leave the door vulnerable even if the lock is upgraded. We repair or reinforce frames so the door closes squarely, the keep positions align, and the locking points engage as intended.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Repairing damaged door frames -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Repairing damaged door frames (timber, uPVC and composite)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Our frame repair service focuses on restoring structural integrity. We repair splintered timber, damaged uPVC, and compromised composite frames to ensure they provide a secure foundation for new locks and hardware.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Door realignment, hinges and closing problems -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Door realignment, hinges and closing problems
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After impact or leverage, doors can drop, twist, or bind. We correct alignment issues and repair hinge-related faults so the door shuts cleanly and locks without excessive force—reducing wear on the mechanism and improving security.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Practical reinforcement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Practical reinforcement to reduce repeat entry
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where it suits the door type and the nature of the damage, we can add sensible reinforcement measures—such as improving fixing points or adding hardware that helps resist prising at common attack areas—without turning your entrance into something visually intrusive.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Window and Glazing Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Window and glazing repairs after burglary damage
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Broken glass is both a security risk and a safety hazard. We can replace damaged glazing and, where appropriate, discuss options such as tougher or laminated glass for vulnerable areas. The aim is a safe, secure finish that sits correctly in the frame and doesn't leave weak points around the beading or seals.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Window and glazing repair after burglary"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Emergency glazing replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Emergency glazing replacement and safety considerations
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We prioritize safety and security in glazing repairs. Our service includes safe removal of broken glass, precise measurements for replacement, and installation that maintains proper sealing and weatherproofing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Window locks, restrictors and securing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Window locks, restrictors and securing common entry points
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the burglary involved window access, it often makes sense to review the window's locking points. We can repair or replace suitable window locks and, where needed, add restrictors that improve control without compromising everyday ventilation.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Patio and sliding door security -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Patio and sliding door security
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Patio and sliding doors are a common target in some properties. We can repair damaged locks and advise on upgrades that make the door harder to force while keeping it easy to operate day-to-day.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Burglary Repairs for Businesses -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Burglary repairs for businesses in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Commercial break-ins create pressure to secure the premises quickly and protect stock and equipment. We can board up or secure damaged shopfront glazing and carry out repairs that help you regain control of access while permanent replacements are arranged.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Shopfronts, glass panels and urgent re-securing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Shopfronts, glass panels and urgent re-securing
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We understand the urgency of commercial security breaches. Our rapid response service focuses on restoring perimeter security to minimize business interruption and protect your assets.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Roller shutters and secondary security -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Roller shutters and secondary security
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where shutters have been attacked, we assess whether the shutter can be repaired safely and re-secured or whether a replacement is required. The goal is to restore a dependable barrier so you're not relying solely on internal locks overnight.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Insurance Documentation -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Insurance documentation and burglary repair reports
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Insurance processes vary, but most require evidence and clarity. We can provide the documentation needed to support your claim efficiently.
+          </p>
+        </div>
+      </div>
+      
+      <!-- What we can provide for your claim -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What we can provide for your claim
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Photographs of visible damage</strong> (where appropriate)</li>
+            <li><strong>An itemised invoice</strong> outlining parts and labour</li>
+            <li><strong>Notes on what was repaired, replaced, and secured</strong></li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This is designed to make your claim simpler and reduce delays caused by missing detail.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Police incident guidance -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Police incident and crime reference guidance
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you need to report the incident, it can help to have your key details organised early. We can advise on the practical information commonly requested (such as what was damaged and what was replaced) so you're prepared when speaking to the relevant services.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Clear Pricing -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Clear pricing: what affects the cost of burglary repairs
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Burglary repairs aren't one-size-fits-all. We provide transparent pricing based on the specific damage and required repairs.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock4}
+              alt="Transparent burglary repair pricing"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- The main price factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          The main price factors
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>The type and extent of damage</strong> (lock only vs lock + frame + glazing)</li>
+            <li><strong>Whether make-safe measures are needed immediately</strong></li>
+            <li><strong>The door and lock type</strong> (e.g., multi-point mechanisms vs standard mortice locks)</li>
+            <li><strong>Glass specification and availability</strong></li>
+            <li><strong>Time of attendance</strong> (daytime vs late night)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We explain the likely scope before work starts, including what can be completed on the spot and what may require a follow-up visit.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Temporary vs permanent repairs -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Temporary vs permanent repairs: making the right call
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Sometimes the best first step is to secure the property quickly and return with specific parts or glass. We'll set expectations clearly so you understand what you'll have at the end of the first visit and what the next steps look like.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Burglary Repair Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Emergency make-safe visit (secure door/window, isolate compromised lock)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h 15m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Temporary securing; parts/materials extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Boarding up one broken window or door panel (one opening)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h 15m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  One opening; boarding materials extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lock change / rekey after burglary or stolen keys (one door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Lock/cylinder parts extra; subject to lock type
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  High-security euro cylinder upgrade (anti-snap/anti-drill/anti-bump) (one door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Cylinder cost extra; compatibility depends on door/lock case
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC multi-point mechanism repair (gearbox/adjustments) (one door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h 45m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Repair where viable; parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC multi-point mechanism replacement (like-for-like) (one door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2h 15m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Mechanism/handles extra; subject to availability
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Door frame repair/reinforcement after forced entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2h
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Minor–moderate repairs; materials extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Door realignment / hinge repair after impact
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h 30m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Restores closing/locking; parts extra if needed
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Emergency glazing replacement (one pane)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2h 30m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £249
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Glass supply extra; specialist glass may need follow-up
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Window lock repair/replacement and/or restrictor (one window)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1h 15m
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Parts extra; subject to window type
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safety, Trust and Responsible Entry -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safety, trust and responsible entry
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Because burglary repairs can involve property access, we follow sensible checks to confirm authorisation to carry out the work—especially for tenancy situations, managed properties, or when keys are missing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Proof of occupancy and identity checks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Proof of occupancy and identity checks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We verify identity and authorisation before starting work to ensure we're repairing the right property for the right person. This protects both property owners and our team.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Guarantees and workmanship -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Guarantees and workmanship
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where parts and labour guarantees apply, we'll explain what's covered and what to do if an issue appears after repair. The aim is simple: the repaired door, lock, or window should feel solid, operate correctly, and keep the property secure.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Preventing Repeat Burglary -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Preventing repeat burglary after repairs
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Once your property is secure again, many people want to reduce the chances of a repeat incident. Without overcomplicating things, it can help to address common vulnerabilities that burglars target.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Common weak points worth addressing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Common weak points worth addressing
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Cylinders vulnerable to snapping or drilling</li>
+            <li>Frames that have been weakened by force</li>
+            <li>Misaligned doors that don't fully engage locking points</li>
+            <li>Windows with failed locks or worn catches</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- A practical approach to upgrades -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          A practical approach to upgrades
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you want a more thorough security review after the immediate repairs, we can talk through sensible upgrades that suit your property type and how you use the entrance points—focusing on effective, proportionate improvements rather than gimmicks.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Burglary repair FAQs
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How quickly can you make a property safe in {{location}}?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                In many cases, the property can be secured during the first visit using lock replacement, boarding up, and immediate repairs. The exact timing depends on the damage and the parts required.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you replace uPVC multi-point locks after a burglary?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes—these are common after forced entry attempts. We assess whether the mechanism can be repaired reliably or whether replacement is the safer option.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you upgrade locks at the same time as repairs?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes. If a euro cylinder has been attacked, upgrading to stronger anti-attack cylinders can be done alongside the repair work, depending on door compatibility.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will you provide paperwork for my insurance claim?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We can provide an itemised invoice and supporting documentation such as photos (where appropriate), so you have clear evidence of what was damaged and what was replaced.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Should I change my locks if the burglars may have taken keys?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                If keys are missing or you're unsure who may have access, changing the locks or rekeying is a practical step to regain control and restore peace of mind.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Burglary repairs across <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            If your home or business has been targeted, the most important thing is to restore security quickly and properly. A burglary repair service should do more than replace a lock—it should leave the door, frame, glazing, and closing action working together so the property is secure again. {{name}} delivers burglary repairs in {{location}} with make-safe support, robust repair work, and clear documentation when you need it most.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🚨</span>
+            Emergency Burglary Repairs
+          </a>
+     
+        </div>
+      </div>
+    </div>
+
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Emergency Boarding Up -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-boarding-up/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Secure doors & windows fast
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Emergency boarding-up service for damaged entry points.
+        </p>
+      </div>
+    
+      <!-- Emergency Locksmith -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-locksmith/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Emergency locksmith response
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          24/7 rapid response for all lock emergencies.
+        </p>
+      </div>
+    
+      <!-- Locked Out -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/locked-out/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Help if you can't get in
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Locked out? We'll get you back inside quickly.
+        </p>
+      </div>
+    
+      <!-- Broken Key Removal -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/broken-key-removal/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Remove snapped keys
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Professional broken key extraction for all lock types.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Back to homepage
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services page.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+
+  
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a 
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call 24/7 for Burglar Repairs</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

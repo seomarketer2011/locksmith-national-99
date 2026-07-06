@@ -1,0 +1,179 @@
+---
+import logo from "../../assets{{logo_url}}";
+
+const isDarkHeader = "{{color}}".toLowerCase().includes("black");
+
+const headerBgClass = isDarkHeader ? "bg-black" : "bg-white";
+const headerTextClass = isDarkHeader ? "text-white" : "text-black";
+const headerHoverTextClass = isDarkHeader ? "hover:text-gray-300" : "hover:text-gray-600";
+
+const dropdownBgClass = isDarkHeader ? "bg-black border-gray-700" : "bg-white border-gray-200";
+const dropdownItemClass = isDarkHeader
+  ? "text-white"
+  : "text-black";
+
+
+const mobileItemHoverClass = isDarkHeader ? "hover:bg-gray-800" : "hover:bg-gray-100";
+
+const dropdownItems = {
+  'Emergency Locksmiths': [
+    { href: '/broken-key-removal/', label: 'Broken key removal' },
+    { href: '/burglar-repair-service/', label: 'Burglar repair service' },
+    { href: '/emergency-boarding-up/', label: 'Emergency boarding up' },
+    { href: '/emergency-locksmith/', label: 'Emergency Locksmith' },
+    { href: '/locked-out/', label: 'Locked Out' },
+  ],
+  'Lock Services': [
+    { href: '/lock-changes/', label: 'Door lock change' },
+    { href: '/door-lock-installation/', label: 'Door lock installation' },
+    { href: '/lock-repairs/', label: 'Door lock repair' },
+    { href: '/door-lock-replacement/', label: 'Door lock replacement' },
+    { href: '/door-repairs/', label: 'Door repairs' },
+    { href: '/window-lock-repair-replacement/', label: 'Window lock repair & replacement' },
+  ],
+  'Safes': [
+    { href: '/safe-installation/', label: 'Safe Installation' },
+    { href: '/safe-opening/', label: 'Safe Opening' },
+  ]
+};
+
+const menuitems = [
+  { href: '/', label: 'Emergency Locksmiths', hasDropdown: true },
+  { href: '/', label: 'Lock Services', hasDropdown: true },
+  { href: '/', label: 'Safes', hasDropdown: true },
+  { href: '/contact/', label: 'Contact', hasDropdown: false },
+];
+---
+
+<nav class={`w-full top-0 left-0 z-50 sticky ${headerBgClass}`}>
+  <header class="flex flex-col lg:flex-row justify-between items-center px-6 md:px-32">
+    <div class="flex w-full lg:w-auto items-center justify-between">
+      <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+        <img src={logo.src} alt="{{name}} logo" width={logo.width} height={logo.height} class="navbar-logo" loading="eager" />
+      </a>
+
+      <details class="lg:hidden relative group">
+        <summary class="list-none cursor-pointer w-8 h-8 flex items-center justify-center">
+          <svg class={`open-icon w-8 h-8 ${headerTextClass}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg class={`close-icon w-8 h-8 ${headerTextClass}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="display: none;">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </summary>
+
+        <div class={`absolute right-0 top-full mt-2 w-64 ${dropdownBgClass} border rounded-lg shadow-lg z-50`}>
+          <ul class="font-medium flex flex-col p-4 space-y-2">
+            {menuitems.map((item) => (
+              <li>
+                {item.hasDropdown ? (
+                  <details class="mobile-dropdown">
+                    <summary class={`flex justify-between items-center py-3 px-4 ${headerTextClass} rounded-lg ${mobileItemHoverClass} transition-colors cursor-pointer`}>
+                      <span>{item.label}</span>
+                      <svg class="w-4 h-4 transition-transform" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                      </svg>
+                    </summary>
+                    <ul class="ml-4 mt-2 space-y-1 border-l-2 border-gray-600 pl-3">
+                      {dropdownItems[item.label]?.map((subItem) => (
+                        <li>
+                          <a
+                            href={subItem.href}
+                            class={`block py-2 px-3 ${dropdownItemClass} rounded transition-colors`}
+                          >
+                            {subItem.label}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                ) : (
+                  <a
+                    href={item.href}
+                    class={`block py-3 px-4 ${headerTextClass} rounded-lg ${mobileItemHoverClass} transition-colors`}
+                  >
+                    {item.label}
+                  </a>
+                )}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </details>
+    </div>
+
+    <nav class="hidden lg:flex lg:w-auto lg:mt-0 lg:items-center lg:space-x-8">
+      <ul class="font-medium flex flex-row space-x-8">
+        {menuitems.map((item) => (
+          <li class="relative group">
+            {item.hasDropdown ? (
+              <>
+                <button class={`flex items-center py-2 px-3 ${headerTextClass} ${headerHoverTextClass} transition-colors`}>
+                  {item.label}
+                  <svg class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+
+                <div class={`absolute left-0 top-full mt-1 w-56 ${dropdownBgClass} border rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50`}>
+                  <ul class="py-2">
+                    {dropdownItems[item.label]?.map((subItem) => (
+                      <li>
+                        <a
+                          href={subItem.href}
+                          class={`block py-3 px-4 ${dropdownItemClass} transition-colors`}
+                        >
+                          {subItem.label}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </>
+            ) : (
+              <a
+                href={item.href}
+                class={`block py-2 px-3 ${headerTextClass} ${headerHoverTextClass} transition-colors`}
+              >
+                {item.label}
+              </a>
+            )}
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </header>
+</nav>
+
+<style is:inline>
+  details > summary { list-style: none; }
+  details > summary::-webkit-details-marker { display: none; }
+  details[open] .open-icon { display: none; }
+  details[open] .close-icon { display: block !important; }
+
+  .mobile-dropdown > summary svg { transition: transform 0.2s ease; }
+  .mobile-dropdown[open] > summary svg { transform: rotate(180deg); }
+
+  .absolute { transform-origin: top center; animation: fadeIn 0.2s ease-in-out; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .navbar-logo {
+    height: 100px !important;
+    width: auto !important;
+    max-height: 100px !important;
+    object-fit: contain !important;
+    display: block !important;
+  }
+
+  nav { height: 100px !important; }
+  header { height: 100px !important; }
+
+  @media (max-width: 1024px) {
+    .navbar-logo { height: 70px !important; max-height: 70px !important; }
+    nav, header { height: 70px !important; }
+  }
+</style>

@@ -1,0 +1,166 @@
+{
+  "location": "Bebington",
+  "neighborhoods": [
+    {
+      "name": "Port Sunlight",
+      "era": "Edwardian",
+      "types": [
+        "villa",
+        "terraced"
+      ],
+      "notes": "planned model village, listed buildings, conservation area"
+    },
+    {
+      "name": "Higher Bebington",
+      "era": "Victorian",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ]
+    },
+    {
+      "name": "Lower Bebington",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Oxton Village",
+      "era": "Victorian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "established commuter area"
+    },
+    {
+      "name": "Rock Ferry",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ],
+      "notes": "riverside industrial heritage"
+    },
+    {
+      "name": "Bromborough Pool",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "semi-detached",
+        "flat"
+      ]
+    },
+    {
+      "name": "Raby",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Spital",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ]
+    },
+    {
+      "name": "Egerton Park",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Poulton",
+      "era": "Victorian",
+      "types": [
+        "terraced"
+      ]
+    },
+    {
+      "name": "Stanton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Lower Tranmere",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Heathfield",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "villa"
+    ],
+    "era": "predominantly Victorian and Edwardian with significant interwar expansion",
+    "notable": "Port Sunlight conservation area; strong pre-1945 housing stock; riverside industrial heritage areas"
+  },
+  "locksmith_relevant": [
+    "Port Sunlight's listed heritage properties require specialist lock repair and period-appropriate hardware replacement.",
+    "Victorian and Edwardian terraced stock dominates; many feature original mortice locks needing maintenance or upgrade.",
+    "Interwar semis (Spital, Egerton Park) often have standard Yale-type systems; bulk re-keying common in these zones."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bebington",
+    "overpass": "OSM Overpass bbox query, 17 named areas",
+    "coords": {
+      "lat": 53.3503775,
+      "lon": -3.005598
+    }
+  },
+  "generated_at": "2026-05-13T12:32:19.602Z",
+  "all_areas": [
+    "Bromborough Pool",
+    "Egerton Park",
+    "Heathfield",
+    "Higher Bebington",
+    "Larchwood",
+    "Lower Bebington",
+    "Lower Tranmere",
+    "Oxton Village",
+    "Port Sunlight",
+    "Poulton",
+    "Raby",
+    "Raby Mere",
+    "Rock Ferry",
+    "South Tranmere",
+    "Spital",
+    "Stanton",
+    "Woodhey"
+  ],
+  "geo": {
+    "latitude": 53.3503775,
+    "longitude": -3.005598
+  },
+  "postcode_districts": [
+    "CH63"
+  ],
+  "postcode_meta": {
+    "CH63": {
+      "count": 4,
+      "sample": "CH63 2JG",
+      "admin": "Wirral",
+      "via": "admin_ward=bebington"
+    }
+  }
+}

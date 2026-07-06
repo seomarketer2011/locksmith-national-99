@@ -1,0 +1,1553 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Door lock installation 1.png";
+import lock from "../assets/services/Door lock installtion.png";
+import lock2 from "../assets/services/Door lock installation 1.png";
+import lock3 from "../assets/services/Door lock installtion.png";
+import lock4 from "../assets/services/Door lock installation 1.png";
+
+// Enrichment overlay for service: door-lock-installation
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "door-lock-installation";
+const metaTitle = e[`${slug}.meta.title`] ?? `Door Lock Installation {{location}} | Professional Lock Fitting `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Expert door lock installation in {{location}}. Euro cylinders, mortice locks, uPVC multipoint systems & security upgrades. Professional fitting, same-day service & emergency installations available.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<!-- Door Lock Installation Hero Section (Tailwind CSS) -->
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Get a quote today</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">Transparent pricing</span>
+        
+        <span class="px-3">Written quote available</span>
+        
+        <span class="px-3">Upgrade security properly</span>
+        
+      </div>
+    </div>
+
+    <!-- Main content -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Door Lock Installation in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `Get Options and Transparent Pricing in {{location}} • New Lock Installation to Suit Your Door •
+          Neat Finish • Written Quote Available • Work Guaranteed.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              New Lock Installation
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We install new door locks for added security, privacy, or insurance compliance.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Survey & Correct Fit
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We survey the door and hardware, then fit and set up the lock to manufacturer specifications.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Transparent Pricing & Written Quote
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Transparent pricing with a written quote, including options for lock types and finishes.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Insured, Neat Work & Aftercare
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Neat workmanship, fully insured, with aftercare guidance and warranty information provided.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Get Help With Lock Installation</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional door lock installation service"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Door Lock Installation in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A properly fitted lock should do two things at once: make the door secure, and make it effortless to use every day. Door lock installation in {{location}} isn't just "swap the cylinder and go" — it's matching the right lock to the right door, measuring correctly, fitting cleanly, and leaving you with a smooth action that won't start sticking a week later. Changing locks is a key step for home security, especially when moving into a new house, as it helps ensure that only you have access to your property.
+          </p>
+          <p>
+            {{name}} provides door lock installation, lock replacement and lock upgrades for homes and small commercial premises. That includes euro cylinder fitting and correct sizing, uPVC multipoint lock installation, timber mortice lock installation, and emergency lock fitting after break-ins or damage. Where it makes sense, we can improve security at the same time with anti-snap cylinders, upgraded handles and other options designed to reduce common attack methods like snapping, drilling and picking. Our installation service provides extra security and peace of mind, and is recommended for those without DIY experience, especially for complex or high-security locks.
+          </p>
+          <p>
+            Most problems we see in the real world come down to compatibility: the wrong cylinder length, the wrong centre measurement on a multipoint system, a tired gearbox, or a door that's dropped slightly and is forcing the lock to bind. That's why every job starts with straightforward checks and accurate measurements (including the cylinder length, backset, the door's edge, and relevant door/lock dimensions), as well as considering the door's surface for proper lock fit, before anything is fitted.
+          </p>
+          <p>
+            You'll also get clear expectations around price factors (lock grade, door type, urgency and any making-good), and a clean handover: the lock tested, keys checked, and documentation available where you need it for a landlord, insurer, or facilities file.
+          </p>
+          <p>
+            Hiring an MLA-approved locksmith ensures the lock is installed to a high standard, providing peace of mind and maximum security.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔧</span>
+            Call for Installation Quote
+          </a>
+     
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Introduction to Door Security -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Introduction to Door Security
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Door security is the foundation of a safe and secure home, and it all starts with choosing the right door lock. A high-quality door lock acts as the first line of defense against unauthorized entry, ensuring that your property remains protected at all times. There are several types of door locks available, each designed to suit different door types and security needs. For example, a mortice sash lock is commonly found on wooden doors and is valued for its robust security features, while a euro profile cylinder lock is a popular choice for uPVC doors due to its straightforward installation and reliable performance. Rim cylinder locks, often used in conjunction with night latches, provide an extra layer of security for timber doors. However, even the most advanced lock can be compromised if the door frame is weak or poorly fitted. That's why it's essential to consider both the lock and the frame when planning your door security. By combining a sturdy door frame with a reliable lock—whether it's a mortice, rim cylinder, or euro profile cylinder—you can significantly improve your home's security and deter potential intruders. Investing in the right lock and ensuring proper installation is key to keeping your door secure and your peace of mind intact.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Door security and lock installation"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- When you might need a new lock -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          When you might need a new lock in <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+      
+      <!-- Moving home, changing tenants -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Moving home, changing tenants, or handing over keys
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you've just moved in, it's impossible to know how many spare keys exist or who may still have access. Changing locks is essential for securing a new house, as you cannot be sure who may still have keys to the house. A lock change is a practical reset that restores control. For rented properties, it also helps keep tenancy handovers tidy and reduces "mystery key" issues later.
+          </p>
+          <p>
+            Even when you're keeping the same door and hardware style, a cylinder change or a new mortice lock can bring the lock back to a known standard, with keys issued fresh and the lock action checked from both sides.
+          </p>
+          <p>
+            For ongoing security, it's recommended to change house locks at least every seven years.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lost keys, lockouts -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lost keys, lockouts, and "it still works… sometimes"
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lost keys often start as an inconvenience and end as a security concern. In many cases, a replacement cylinder (or a replacement mortice lock case) is the most sensible path because it prevents the lost keys from being used if they're found. Changing locks is a practical solution in these situations, as it ensures that lost or stolen keys cannot be used to access your property.
+          </p>
+          <p>
+            Intermittent faults are also common: stiff locking, a key that needs "jiggling", or a handle that feels loose. These can signal alignment issues or a failing multipoint gearbox — problems that won't improve on their own and can lead to a door that won't lock at all at the worst time.
+          </p>
+        </div>
+      </div>
+      
+      <!-- After break-in attempt -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          After a break-in attempt or visible door damage
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If a cylinder has been attacked, the door's locking points may still be misaligned or stressed. Emergency fitting isn't just about putting any lock in — it's about making the door secure again and preventing repeat vulnerability by upgrading weak points where appropriate to provide extra security and prevent future incidents.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door Lock Components -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Door Lock Components
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              A secure door lock is made up of several key components, each playing a vital role in the overall security and functionality of your door. The lock body is the central part of the lock, housing the internal mechanism that controls the locking and unlocking action. The cylinder is where the key is inserted and turned, and it must be precisely matched to the lock body to ensure the key turns smoothly and the lock operates reliably. The door handle allows you to open and close the door, while the mounting plate secures the lock to the door itself, providing a stable base for the mechanism. The strike plate is attached to the door frame and is designed to receive the latch or bolt when the door is closed, ensuring the door stays firmly shut. For mortice locks, careful measurement of the door's edge is crucial to ensure the lock fits perfectly and the strike plate aligns correctly with the bolt. Using the right tools during installation—such as a screwdriver, drill, and the screws provided—helps achieve a secure and professional finish. Proper alignment and secure fastening of all components are essential for both security and smooth operation. Whether you're installing a new lock or replacing an old one, attention to detail in fitting the lock body, cylinder, and supporting hardware will ensure your door remains secure and functions as intended.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Door lock components and installation"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What "door lock installation" covers -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What "door lock installation" covers
+        </h2>
+      </div>
+      
+      <!-- New fitting, replacement, or security upgrade -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          New fitting, replacement, or security upgrade
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Door lock installation can mean:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Fitting a new lock where there wasn't one (more common on internal-to-external conversions, secondary locks, or additional security layers).</li>
+            <li>Replacing an existing lock like-for-like when the old one is damaged, worn, or unreliable.</li>
+            <li>When replacing an old lock, ensure all components are removed before fitting the replacement lock.</li>
+            <li>Upgrading to a more secure option (for example, an anti-snap cylinder on a uPVC/composite door, or a British Standard mortice lock on a timber door).</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              The right choice depends on the door type, the hardware already present, and what you need the lock to achieve: higher security, smoother operation, compliance with insurer requirements, or better day-to-day usability.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Rekeying and "cylinder only" changes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Rekeying and "cylinder only" changes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Often, you don't need a full new lock mechanism. If the door uses a euro cylinder, a cylinder change can be faster and more cost-effective than replacing the whole lock strip — provided the rest of the mechanism is healthy and compatible.
+          </p>
+          <p>
+            Fitting a new cylinder can be a straightforward DIY experience for those with basic skills, but professional help is recommended for more complex locks.
+          </p>
+          <p>
+            For timber doors, rekeying is less common than replacing the mortice lock case, but there are still scenarios where it's possible. The deciding factor is the lock type and whether parts are serviceable.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Repair vs replace -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Repair vs replace: making the sensible call
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some faults are genuinely fixable (for example, minor alignment corrections, keep adjustments, or replacing a worn spindle/handle). But if a lock is binding due to internal wear, or a multipoint gearbox is failing, repair can be a false economy.
+          </p>
+          <p>
+            A good installation is one that resolves the underlying cause — not just the symptom. That's how you avoid repeat call-outs, stuck doors and premature lock failure.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Choosing the right lock for your door -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Choosing the right lock for your door
+        </h2>
+      </div>
+      
+      <!-- Euro cylinders for uPVC and composite doors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Euro cylinders for uPVC and composite doors: sizing matters
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Euro cylinders are extremely common in the UK, and they're also one of the easiest places to get things wrong. The correct cylinder length matters for security and fit: a cylinder that protrudes too far beyond the handle can be easier to attack, while one that's too short may not operate smoothly or reliably.
+          </p>
+          <p>
+            A proper cylinder selection considers:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Internal/external measurements (so it sits correctly within the handle set)</li>
+              <li>Cam position and operation</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Thumbturn vs key/key (depending on how you use the door and any escape requirements)</li>
+              <li>Security features (anti-snap, anti-drill, anti-pick, anti-bump), matched to the risk level</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Timber doors: mortice deadlocks and sashlocks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Timber doors: mortice deadlocks and sashlocks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For many timber doors, the best solution is a mortice deadlock (bolt-only) or sashlock (latch and bolt). Sash locks, which combine a latch and bolt, are also commonly used on wooden doors for added convenience and security. If you want an "insurance-friendly" option, a BS 3621-rated mortice lock is commonly chosen for external timber doors because it's a recognised benchmark. Mortice locks are fitted inside the door and are commonly used for wooden doors, offering excellent security.
+          </p>
+          <p>
+            Door bolts can be installed on internal or external wooden doors to provide extra security. The important detail isn't just the lock case — it's the accuracy of the cut, the door edge preparation, and the alignment of the keeps so the bolt throws fully without forcing. Accurately measuring the door's edge, including the slot and backset, is essential to ensure the mortice lock fits properly and meets security standards.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Night latches and secondary locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Night latches and secondary locks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Night latches (rim locks) can be a useful secondary layer on timber doors when paired with a robust mortice lock. Night latches are often referred to as Yale locks and are commonly used on front and back doors. A rim cylinder lock is typically mounted on the door's surface and is a key component of night latch systems. Installation quality matters here too: correct positioning, secure fixing, and ensuring the latch engages cleanly without slamming.
+          </p>
+          <p>
+            Secondary locks should complement the primary lock rather than creating awkward usage patterns that lead to people not locking up properly.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC multipoint lock installation in [location] -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            uPVC multipoint lock installation in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Multipoint systems: more than one "lock"
+            </p>
+            <p>
+              A uPVC multipoint setup typically engages multiple points along the door edge. When it goes wrong, it might feel like "the lock is broken", but the real cause could be:
+            </p>
+          </div>
+          
+          <div class="mt-6 space-y-4">
+            <li>A failing gearbox</li>
+            <li>Door drop or misalignment</li>
+            <li>Worn keeps/rollers/hooks</li>
+            <li>Handle issues affecting lift-to-lock mechanisms</li>
+          </div>
+          
+          <div class="mt-8 text-lg text-neutral-700">
+            <p>
+              That's why multipoint lock installation isn't just parts swapping. The mechanism has to engage smoothly, and the door must sit correctly in the frame so it locks without excessive force.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="uPVC multipoint lock installation"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Gearbox replacement vs full lock strip replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Gearbox replacement vs full lock strip replacement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In some cases, a gearbox replacement is sufficient and keeps costs sensible. In other cases, wear throughout the strip (or limited part availability) means replacing the full multipoint assembly is the better long-term decision.
+          </p>
+          <p>
+            The aim is the same either way: a door that lifts, locks, and unlocks cleanly, with the latch and deadbolt behaving consistently.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Alignment, keeps, and post-install testing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Alignment, keeps, and post-install testing
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            After fitting, the lock should be tested thoroughly:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Locking and unlocking from both sides</li>
+            <li>Smooth handle action and full throw of bolts/hooks</li>
+            <li>Correct engagement into keeps (without "lifting the door" or forcing)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Where required, keeps/strike plates can be adjusted so security doesn't come at the cost of day-to-day usability.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Composite and aluminium doors: compatibility without compromise -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Composite and aluminium doors: compatibility without compromise
+        </h2>
+      </div>
+      
+      <!-- Matching parts to modern door construction -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Matching parts to modern door construction
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Composite doors often use multipoint systems similar to uPVC but with different tolerances and hardware combinations. Aluminium doors can introduce additional profile and hardware variation, especially in commercial settings.
+          </p>
+          <p>
+            The key to a clean installation is careful identification and measurement before fitting so that the new lock components sit correctly and operate reliably.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Avoiding door damage and maintaining a neat finish -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Avoiding door damage and maintaining a neat finish
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Modern doors are designed to look good as well as perform. A professional installation should avoid unnecessary drilling, prevent hardware misalignment, and keep the door's finish intact where possible.
+          </p>
+          <p>
+            Where a previous lock has failed or been attacked, the job may also include sensible "making good" so the end result is secure and tidy, not patched and vulnerable.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Security upgrades that actually reduce risk -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Security upgrades that actually reduce risk
+        </h2>
+      </div>
+      
+      <!-- Anti-snap, anti-drill, anti-pick and anti-bump improvements -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Anti-snap, anti-drill, anti-pick and anti-bump improvements
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For euro cylinder doors, an anti-snap cylinder is one of the most meaningful upgrades because snapping is a common attack method where cylinders are exposed or protruding. Higher-spec cylinders often combine multiple protective features in one unit.
+          </p>
+          <p>
+            Deadbolts are a simple and effective way to provide extra security, especially for wooden doors.
+          </p>
+          <p>
+            Depending on door type and usage, security upgrades may include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Anti-snap cylinders (often marketed with TS007-style ratings)</li>
+              <li>Anti-drill and anti-pick protection</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Improved key control options (where appropriate)</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Security should remain practical. A lock that's too awkward to use often ends up not being used properly — and that defeats the point.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Reinforcement: handles, guards and escutcheons -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Reinforcement: handles, guards and escutcheons
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Sometimes the cylinder is fine, but the weak point is the hardware around it. Upgraded handle sets or reinforced escutcheons can reduce cylinder exposure and improve resistance to manipulation.
+          </p>
+          <p>
+            Cylinder guards can also be useful in certain setups, especially where the door design leaves the cylinder more exposed than ideal.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Edge cases: hinge-side protection -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Edge cases: hinge-side protection
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            On some outward-opening doors, hinge-side security (such as hinge bolts/guards) may be relevant. It's not needed everywhere, but in the right scenario it can close off a vulnerability that standard lock upgrades don't address.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Standards and insurance-friendly lock options -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Standards and insurance-friendly lock options in <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+      
+      <!-- BS 3621 mortice locks for timber doors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          BS 3621 mortice locks for timber doors
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you've been told you need a "British Standard lock", you're usually hearing shorthand for BS 3621 on external timber doors. In practical terms, that means fitting a lock that meets a recognised benchmark and installing it correctly so the bolt engages fully and consistently.
+          </p>
+          <p>
+            It's not just about the badge — installation quality is what makes the lock perform as intended.
+          </p>
+        </div>
+      </div>
+      
+      <!-- BS 8621 and keyless escape considerations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          BS 8621 and keyless escape considerations
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some properties and layouts benefit from being able to exit without a key (for example, where a key could be misplaced during an emergency). BS 8621 is often discussed in that context because it relates to keyless egress features. Keyless entry is a modern convenience that is increasingly popular for front doors, especially with smart lock systems.
+          </p>
+          <p>
+            If escape/egress suitability is a concern, the lock choice should be made with real-life use in mind, not just security marketing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Secured by Design and PAS 24 context -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Secured by Design and PAS 24 context
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            You may also come across terms like Secured by Design or PAS 24 when comparing doors and locks. These are often discussed as part of a broader security picture (doorsets, frames, glazing, hardware, and installation).
+          </p>
+          <p>
+            For lock installation, the key is compatibility: selecting hardware that supports the door's security intent rather than undermining it.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Smart lock installation in [location] -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Smart lock installation in <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+      
+      <!-- Where smart locks work best -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Where smart locks work best
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Smart locks can be a practical upgrade when you want controlled access for family, guests, staff, or short-term property use — particularly on doors where the lock hardware is compatible and the door closes consistently.
+          </p>
+          <p>
+            A professional installation service is available for smart locks, focusing on expert fitting and reliable operation.
+          </p>
+          <p>
+            Good candidates usually include stable doors with reliable alignment and modern hardware setups. A smart lock on a door that already binds or drops will inherit those problems.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Key override, power planning, and "what if" scenarios -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Key override, power planning, and "what if" scenarios
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            A sensible smart lock installation includes planning for:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Battery replacement routines</li>
+              <li>Key override options (so you're not reliant on an app)</li>
+              <li>Fail-secure behaviour (what happens on power loss)</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>User management (who has access and how it's revoked)</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              The goal is convenience without introducing new failure points.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Setup and handover -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Setup and handover
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A smart lock install should end with a proper handover: access methods tested, codes/app permissions configured, and the lock tested repeatedly for smooth closing and reliable engagement.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency lock fitting and make-safe -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency lock fitting and make-safe
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Break-in damage, snapped keys and seized mechanisms
+            </p>
+            <p>
+              Emergency lock work often involves more than the lock itself: damaged handles, distorted keeps, or forced entry that has affected how the door sits in the frame. The priority is restoring security quickly and safely, then deciding whether a like-for-like replacement is enough or whether an upgrade is sensible.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock4}
+              alt="Emergency lock fitting and security"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Temporary security vs full replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Temporary security vs full replacement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Sometimes a temporary make-safe is appropriate (for example, when parts need to be sourced). Where possible, restoring full security the same day reduces risk and avoids living with a compromised door.
+          </p>
+          <p>
+            A clear explanation of options helps you choose based on urgency, budget, and long-term security.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How we carry out a door lock installation -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          How we carry out a door lock installation
+        </h2>
+      </div>
+      
+      <!-- Assessment and accurate measurement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Assessment and accurate measurement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Every job begins with confirming door type, current hardware, and the cause of any faults. Measurements are taken before parts are selected — especially for euro cylinders and multipoint systems where sizing and centre measurements matter.
+          </p>
+          <p>
+            This is the difference between a lock that "fits" and a lock that performs properly for years.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Fitting, adjustment, and making good -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Fitting, adjustment, and making good
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Installation includes clean fitting, secure fixings, and any necessary adjustments so the door locks without forcing. If the door needs alignment or keeps need tweaking, that's handled as part of leaving the door working correctly.
+          </p>
+          <p>
+            Where previous hardware has left marks or damage, making-good can be discussed so the end result is secure and tidy.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Testing and handover -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Testing and handover
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            A proper finish includes:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Repeated lock/unlock tests from both sides</li>
+            <li>Confirmation of smooth latch and bolt engagement</li>
+            <li>Key operation checked (and spares discussed where relevant)</li>
+            <li>A receipt/job note where you need it for records, landlords, or insurers</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Ensure the key and lock turn smoothly after installation.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door lock installation price factors -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door lock installation price factors
+        </h2>
+      </div>
+      
+      <!-- Lock type and security level -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lock type and security level
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Lock costs vary significantly depending on whether you need:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>A basic replacement cylinder vs a high-security anti-snap cylinder</li>
+              <li>A mortice lock case vs a British Standard-rated option</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>A full multipoint strip vs a gearbox-only replacement</li>
+              <li>Security features and brand/grade also influence cost.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Door type, complexity, and condition -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Door type, complexity, and condition
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A straightforward cylinder swap on a well-aligned door is typically simpler than a multipoint mechanism replacement on a door that has dropped. Composite, aluminium and older timber doors can also introduce extra complexity depending on existing hardware and condition.
+          </p>
+          <p>
+            If the door is damaged (break-in attempts, split timber, distorted keeps), making it secure and reliable may involve additional parts and labour.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Timing, urgency, and extras -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Timing, urgency, and extras
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Same-day attendance, out-of-hours work, and weekend availability can affect price factors. Extras can include upgraded handles, cylinder guards, spare keys, or additional security layers where appropriate.
+          </p>
+          <p>
+            A clear breakdown helps you decide what's essential now and what's sensible to plan for later.
+          </p>
+        </div>
+      </div>
+
+      <!-- Pricing Table -->
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Euro cylinder installation (uPVC/composite)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Measure, fit and test; cylinder cost extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Anti-snap euro cylinder upgrade
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Upgrade fit and testing; high-security cylinder extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  BS 3621 mortice deadlock install/replace (timber door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Neat fitting and alignment; lock/keeps extra if needed.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Mortice sashlock install/replace (timber door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Latch + deadbolt set-up; lock and furniture extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Night latch (Yale-type) fitting (timber door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Secondary lock positioning and clean fixing; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Multipoint gearbox installation (uPVC/composite)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Diagnose, fit and re-test engagement; gearbox/handles extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Full multipoint lock strip installation (uPVC/composite)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £249
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Includes set-up and post-fit checks; strip/keeps extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Smart lock installation (compatible door)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Fit, set-up and handover; smart lock supplied separately.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Emergency make-safe + lock replacement/ installation after break-in/damage
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Restore security and function; parts/making-good may be extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Additional keyed-alike euro cylinder fitted (each extra, same visit)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on only; assumes main job already underway; cylinder extra.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Guarantees, aftercare, and long-term reliability -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Guarantees, aftercare, and long-term reliability
+        </h2>
+      </div>
+      
+      <!-- Warranty on parts and labour -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Warranty on parts and labour
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A lock installation should come with confidence, not caveats. Clear warranty terms on parts and workmanship reduce uncertainty and make it easier to plan for maintenance or upgrades over time.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Keeping the lock working smoothly -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Keeping the lock working smoothly
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Most locks fail early because the door is misaligned or the mechanism is being forced. If the lock starts feeling stiff, it's better to address it quickly than to keep forcing the key and risk snapping or internal damage.
+          </p>
+          <p>
+            As a general rule, avoid harsh lubricants that attract dirt; if you're unsure what's appropriate for your lock type, a quick check prevents accidental damage.
+          </p>
+        </div>
+      </div>
+      
+      <!-- What "good" looks like after installation -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What "good" looks like after installation
+        </h3>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            You should expect:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Smooth locking without lifting or slamming</li>
+              <li>Consistent latch/bolt engagement</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Keys that turn cleanly</li>
+              <li>Handles that return properly (where applicable)</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              If any of these aren't true, it's usually an adjustment issue — and solving it early protects the lock and the door.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs about door lock installation in [location] -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs about door lock installation in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How long does lock installation usually take?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                For a straightforward euro cylinder replacement on a healthy door, the physical fitting can be quick — but time should also be spent confirming correct sizing and testing operation thoroughly. Multipoint lock work and gearbox replacements can take longer because alignment and engagement need careful checking.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                If the door has dropped or the keeps need adjusting, allowing time to correct those issues avoids repeat problems.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you install "insurance-friendly" locks like BS 3621?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes, where the door type supports it. BS 3621 is most commonly relevant to external timber doors using mortice locks. The important part is not only fitting the right lock, but ensuring it's installed and aligned correctly so it performs as intended.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                For uPVC/composite doors, insurers may focus more on the overall security quality of the locking system and cylinder.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do I need to replace the whole multipoint lock, or just the gearbox?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It depends on what's failed and what parts are available. Sometimes, a replacement lock or a new cylinder may be all that's needed to restore proper function, especially if only the cylinder or a specific component is faulty. If the gearbox is the only worn component, replacing it can be a sensible option. If the strip is worn throughout, or if the mechanism is mismatched/previously modified, a full replacement can be more reliable long-term.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                A good diagnosis should explain the reason — not just recommend the most expensive route.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you make all my external doors use the same key?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes — this is usually done with keyed-alike cylinders where door hardware is compatible. It's a convenience upgrade that's particularly popular for households with multiple external doors.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                Where compatibility isn't possible, you can still aim for a reduced key set by grouping the doors that can be matched.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you fit smart locks on any door?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Not every door is a good candidate. Smart locks work best on doors that close consistently and have compatible hardware. A smart lock fitted to a door that binds, drops, or misaligns will inherit those issues and may be less reliable.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                Planning for key override and battery routines is also part of a sensible install.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What about fire doors and communal doors in flats?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Fire doors and communal entrances can have additional requirements around certified hardware and safe escape. Lock choices in these contexts should be made carefully, and installation should not compromise the door's intended function. Internal doors, on the other hand, may have different lock requirements compared to external or communal doors, often prioritizing privacy or aesthetics over high security.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                If you're responsible for a managed building, it's worth treating this as a compliance-sensitive job rather than a standard domestic lock swap.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do landlords need to approve lock changes?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                In many tenancies, lock changes are allowed but may require the landlord to be provided with a key (or approval depending on the agreement). For rental situations, it can help to have clear job documentation and a tidy record of what was installed.
+              </p>
+              <p class="mt-2 text-lg text-neutral-700">
+                For HMOs and small commercial sites, access protocols and authorisation checks can also be relevant.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Need Professional Door Lock Installation in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Whether you're moving home, upgrading security, or need emergency lock fitting after a break-in, we provide professional, reliable installation service in {{location}}.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for a clear quote or book a same-day installation where available.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Call for Installation Quote
+          </a>
+     
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Door Lock Change -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-changes/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Change locks & issue new keys
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Change existing locks and provide you with new keys.
+        </p>
+      </div>
+    
+      <!-- Door Lock Repair -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Repair an existing door lock
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix and restore your current door lock to working condition.
+        </p>
+      </div>
+    
+      <!-- Door Lock Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Upgrade by replacing locks
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Upgrade your security with new, improved lock installations.
+        </p>
+      </div>
+    
+      <!-- Door Repairs -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Door alignment & repair
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix door alignment issues and structural door repairs.
+        </p>
+      </div>
+    
+      <!-- Window Lock Repair/Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/window-lock-repair-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Secure windows with new locks
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair or replace window locks to enhance security.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Back to home
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+  
+        <a  href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Lock Installation</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

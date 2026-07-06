@@ -1,0 +1,502 @@
+{
+  "meta.title": "Canterbury Locksmiths | Established Local Firm",
+  "meta.description": "Locksmith services in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "emergency-locksmith.meta.title": "Canterbury Emergency Locksmith | Established Local Locksmiths",
+  "emergency-locksmith.meta.description": "Locked out in Canterbury, day or night. Our locksmiths open uPVC and euro cylinder locks without forcing doors. Call us for help now.",
+  "emergency-locksmith.hero-paragraph": "When a lock fails in the small hours, the response needed differs street by street. A Victorian terrace in Northgate with a worn night latch calls for a different approach than a listed Georgian property on Church Street, where conservation officers expect non-destructive entry and hardware sympathetic to the original joinery. Our locksmiths carry both experience and the right tools for whichever door greets them.",
+  "emergency-locksmith.local-context-body": "Along Church Street, the concentration of Medieval and Georgian listed buildings means that emergency call-outs are handled with particular care. Where a night latch has failed or a rim cylinder has seized, our approach favours non-destructive entry wherever the lock construction allows, preserving original timber doors and conservation-approved ironmongery. Only where mechanisms are too corroded or damaged to manipulate do we proceed to drilling, and even then, replacement hardware is selected to satisfy the conservation area's requirements.\n\nHarbledown's Victorian terraces and semi-detached houses, set along the hillside above the city, present a different set of challenges. Many of these properties retain older mortice locks alongside more recent euro cylinder upgrades fitted to replacement doors, and lockouts here often involve diagnosing which mechanism has actually failed before any tool is applied. Our locksmiths carry euro cylinders in the common British Standard sizes to fit on the spot, avoiding unnecessary delay for residents locked out day or night.\n\nIn Hersden, the interwar semi-detached and detached housing stock is more likely to feature multipoint locking mechanisms on later uPVC and composite doors. When a locking gearbox binds or a handle drops, the door can appear jammed even though the cylinder itself is sound. Correct diagnosis prevents unnecessary cylinder replacement and keeps repair costs proportionate to the actual fault.",
+  "emergency-locksmith.local-faqs": [
+    {
+      "q": "I've locked myself out of my terraced house in Northgate. What will the locksmith actually do to get me back in?",
+      "a": "On a typical Victorian terrace fitted with a night latch or euro cylinder, the priority is non-destructive entry using picks or bypass tools suited to the mechanism, which avoids damaging the door or frame. If the cylinder has been fitted incorrectly or has worn internally, entry without damage may not be possible, in which case only the cylinder itself would need replacing rather than the whole door furniture."
+    },
+    {
+      "q": "My front door has a multipoint locking mechanism and won't lock properly. Is this an emergency call-out or something that can wait?",
+      "a": "If the door will still close and the property is secure, it's usually a scheduled repair rather than an emergency, since multipoint mechanisms often fail due to a dropped gearbox or misaligned keeps rather than a security breach. If the door cannot be locked at all and the property is left insecure, particularly in a ground-floor flat or HMO conversion in Wincheap, that changes the priority and warrants an urgent visit."
+    },
+    {
+      "q": "After a break-in attempt on our period property in Church Street, what determines whether the lock can just be repaired rather than replaced?",
+      "a": "On listed buildings within the conservation area, we first assess whether the euro cylinder or mortice lock has sustained damage that compromises its BS 3621 rating, since conservation rules restrict which replacement hardware is acceptable on the original door. Where the mechanism is intact but the surrounding timber is damaged, repair and reinforcement is preferred to preserve the historic fabric, whereas a snapped cylinder typically requires replacement with an anti-snap equivalent that still meets conservation guidelines."
+    }
+  ],
+  "locked-out.meta.title": "Canterbury Locked Out | Established Local Locksmiths",
+  "locked-out.meta.description": "Locked Out in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "locked-out.hero-paragraph": "A lockout in Church Street or Harbledown calls for a different approach than one in Barton Estate. On the listed terraces near the city center, conservation rules mean we favour non-destructive entry over drilling wherever the euro cylinder or night latch allows it, protecting original joinery while getting you back inside without unnecessary damage or expense.",
+  "locked-out.local-context-body": "Blean's scattered detached properties and rural outskirts present a particular challenge when a lockout occurs after dark, since many homes here lack immediate street lighting or mains-linked security systems. Our approach relies on non-destructive entry wherever the lock permits it, using lock picking techniques suited to euro cylinder mechanisms commonly fitted to newer external doors. Where a property retains an older night latch, we assess the mechanism on arrival rather than assuming a single method will suffice, since rural fittings vary considerably in age and condition.\n\nChartham's mix of detached and semi-rural properties often means a longer drive between village and city, but the locksmith's methodology remains consistent regardless of postcode. Many Chartham homes still use euro cylinder locks on rear or side entrances, which respond well to careful picking rather than forced entry. We also flag letterbox tool risks to residents whose doors have low-mounted letterboxes, since this vulnerability is sometimes exploited independently of any lockout incident and is worth addressing during a callout.\n\nChilham's Medieval and Georgian listed buildings require a different level of care entirely, as conservation area restrictions limit which replacement hardware may be fitted following a lockout. Original mortice mechanisms are frequently unique to the property's age, so non-destructive entry is not simply preferable but often necessary to avoid damaging historic timber or ironmongery. Our locksmiths carry a range of picks and tension tools suited to these older mechanisms, allowing entry without compromising the fabric of a listed structure. Attending Chilham lockouts demands patience and a working knowledge of period locks alongside standard cylinder types.",
+  "locked-out.local-faqs": [
+    {
+      "q": "I am locked out of my terraced house in Northgate. What should I expect the locksmith to try first?",
+      "a": "For a standard euro cylinder or night latch, non-destructive entry methods such as lock picking or manipulation are attempted before any drilling is considered. If the property is a converted HMO with a letterbox close to the door edge, we will avoid letterbox tool techniques altogether, as these can trigger hidden hazards and rack up damage where landlords have fitted anti-snap cylinders. Most modern euro cylinders in good condition yield to picking without harming the mechanism."
+    },
+    {
+      "q": "My cottage is a listed building near Church Street. Does that change how you get me back in?",
+      "a": "Yes. Listed status in the conservation area means we prioritise non-destructive entry to protect original door furniture and timber, since replacing period ironmongery to conservation-compliant standards can be costly and slow to source. Lock picking is generally preferred over any drilling, and if the mechanism is an older mortice rather than a euro cylinder, this affects both technique and the parts we carry on the van."
+    },
+    {
+      "q": "What determines whether my lockout is charged as straightforward or complex?",
+      "a": "The main factors are the lock type, its condition and whether non-destructive entry is viable. A simple euro cylinder or night latch in working order usually falls into the straightforward category since picking resolves it cleanly, whereas a seized, damaged, or high-security cylinder may require drilling and subsequent lock replacement, which shifts the job into a higher cost category. Rural properties near Chartham or Chilham without mains power can also need battery-backup hardware considerations, which factors into the assessment on site."
+    }
+  ],
+  "broken-key-removal.meta.title": "Canterbury Broken Key Removal | Established Local Locksmiths",
+  "broken-key-removal.meta.description": "Broken Key Removal in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "broken-key-removal.hero-paragraph": "A key snapping off in the lock is rarely convenient, whether it happens on a mortice lock at a Georgian terrace near Church Street or a euro cylinder fitted to a Northgate conversion. Our engineers carry the extraction tools needed to clear the keyway without damaging the mechanism, and where required, replacement keys cut on the visit so the property is left properly secured.",
+  "broken-key-removal.local-context-body": "Barton Estate's post-war terraces and council-built housing typically fit euro cylinder locks to front and rear doors, and these are the units we attend most often for broken key removal. A key that has sheared off flush with the cylinder face calls for careful key extraction using purpose-made tools rather than force, since attempting to lever out a snapped blade can push debris further into the keyway and damage the pins. Once the fragment is out, we check the cylinder for wear before deciding whether replacement keys cut on site will suffice or whether the cylinder itself needs changing.\n\nNorthgate presents a different pattern. With so many Victorian terraces converted into student houses in multiple occupation, we regularly find several euro cylinders and the odd mortice lock fitted to internal doors, each seeing heavy daily use across a tenancy. Snapped keys are common here simply through volume of use and turnover of occupants, and extraction has to be followed promptly by rekeying so that landlords retain proper control over who holds a working key.\n\nIn Wincheap, the mix of older terraced stock and newer infill means both euro cylinders and traditional mortice locks turn up in roughly equal measure. A broken key lodged in a mortice lock requires a slightly different extraction technique to a cylinder, given the deeper keyway and the lever mechanism behind it. We assess the lock body itself for wear before fitting replacement keys cut to match, particularly where the household relies on a single working set.",
+  "broken-key-removal.local-faqs": [
+    {
+      "q": "The key has snapped off in my front door and I can still see part of it in the keyway. Should I try to remove it myself before calling someone out?",
+      "a": "We would advise against probing the keyway with pliers or wire, as this often pushes the fragment further in and can damage the pins or the cylinder itself. A proper key extraction uses purpose-made hook and broken key tools that grip the fragment without scoring the internals. If the door is on a euro cylinder, extraction is usually straightforward, whereas an older mortice lock in a Church Street terrace may need more care given the mechanism's age."
+    },
+    {
+      "q": "Will the locksmith need to replace the whole lock, or can the cylinder just be repaired once the broken key is out?",
+      "a": "In most cases, once the fragment is extracted, the existing euro cylinder or mortice lock can be tested and reused if the mechanism has not been damaged, and we would then cut replacement keys cut to match the working lock. Damage assessment matters more in listed properties around Chilham or the city centre, where conservation-compliant hardware may limit what can be swapped in if the cylinder does turn out to be compromised. As a rule, extraction first, replacement only if the keyway or springs show wear."
+    },
+    {
+      "q": "What affects the price for broken key removal, since a snapped key seems like a small job?",
+      "a": "Cost depends mainly on the lock type and how deeply the key has broken, since a euro cylinder near the front face is a quicker extraction than a fragment lodged in an older mortice lock with a worn keyway. Access also plays a part, for instance in rural properties around Blean or Chartham without mains power, where we rely on battery backup tools rather than mains-fed equipment. If replacement keys need cutting to a specific profile, that is priced separately from the extraction itself."
+    }
+  ],
+  "burglar-repair-service.meta.title": "Canterbury Burglar Repair Service | Trusted Local Locksmiths",
+  "burglar-repair-service.meta.description": "Burglar Repair Service in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "burglar-repair-service.hero-paragraph": "After a break-in, a make-safe visit secures doors and windows across Canterbury, whether a Victorian terrace in Northgate or a listed property near Church Street where conservation rules govern any replacement hardware. Damaged cylinders are typically renewed with TS007 3-star anti-snap locks, and split or splintered strike plates repaired or reinforced. We also provide the insurance documentation loss adjusters expect, in CT1 and throughout the surrounding CT postcodes.",
+  "burglar-repair-service.local-context-body": "Littlebourne's rural properties, many set back from the road with limited passing traffic, often bear the marks of forced entry around the door frame rather than the lock itself. Where a burglary has split the timber or torn the strike plate from its keep, our repair work begins with a make-safe to secure the property before any permanent fitting takes place. Once the frame is sound, we typically recommend a TS007 3-star anti-snap cylinder to replace whatever was compromised, bringing the door up to a standard that insurers increasingly expect for rural and semi-rural addresses.\n\nIn Bridge, where a mix of period cottages and later infill sits close to the main Dover road, break-ins frequently target patio doors and older rim locks. Repair here often calls for a London bar to reinforce the door edge against further snapping or spreading, particularly on softwood frames that have already been weakened. We photograph the damage and prepare insurance documentation as part of the visit, since claims for these properties commonly require evidence of both the point of entry and the standard of hardware fitted afterwards.\n\nBekesbourne's scattered properties, several without reliable mains power, present a different repair challenge. Mechanical locks with battery-backup options are generally favoured over fully electronic systems, allowing continued operation during outages while still meeting insurance specifications. Our repair visits assess the existing strike plate and frame condition before recommending replacement hardware suited to the property's isolation.",
+  "burglar-repair-service.local-faqs": [
+    {
+      "q": "After a break-in, what should happen first before any repair work begins?",
+      "a": "We carry out a make-safe on the affected door or window, securing the opening with board or temporary hardware so the property is weathertight and secure while a permanent repair is arranged. For listed properties on Church Street or in Chilham, this is done with care not to damage original joinery, since conservation officers may need to approve the final fix. We also photograph the damage at this stage, which supports any insurance documentation you submit afterwards."
+    },
+    {
+      "q": "What determines whether a damaged door needs a new lock or just a repaired frame?",
+      "a": "If the cylinder has been snapped or drilled, we fit a TS007 3-star anti-snap cylinder rated to the door's existing furniture, which addresses the vulnerability directly rather than simply patching the frame. Where the frame or strike plate has been forced or split, that timber or uPVC section usually needs replacing or reinforcing, sometimes with a London bar fitted across the lock area for added resistance on multi-point doors. Terraced properties in Northgate and Harbledown often need both, since forced entry there tends to damage frame and cylinder together."
+    },
+    {
+      "q": "Will my insurer accept the repair, and what paperwork do I need to keep?",
+      "a": "Insurers generally expect a written record showing the make-safe, the parts fitted, and confirmation that any replacement cylinder meets TS007 3-star or equivalent standard, so we provide itemised insurance documentation as standard on burglar repair jobs. Keep the invoice alongside any crime reference number from Kent Police, as most policies ask for both before settling a claim. For rural properties around Chartham or Blean without mains power, we also note whether battery-backup mechanical hardware was fitted, as this can affect certain policy conditions."
+    }
+  ],
+  "emergency-boarding-up.meta.title": "Canterbury Emergency Boarding Up | Trusted Local Locksmiths",
+  "emergency-boarding-up.meta.description": "Emergency Boarding Up in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "emergency-boarding-up.hero-paragraph": "When a break-in or storm damage leaves a property exposed, whether a terraced house near Church Street or a period cottage in Chilham, we attend at any hour to make safe the affected doors and windows. Our temporary boarding secures the property properly while frame repair or glazing is arranged, and we photograph the scene thoroughly to support your insurance evidence.",
+  "emergency-boarding-up.local-context-body": "Kingston and the villages beyond the CT4 boundary see their share of break-ins and storm damage alike, and when a door or window gives way, temporary boarding restores a property to a make-safe condition within hours rather than days. Rural properties in this area often stand some distance from neighbours, so a secure, weatherproof boarding solution matters as much for deterring further entry as for keeping out the elements. Our vans carry ply and fixings suited to varying frame depths, since older cottages nearby rarely share standard dimensions.\n\nChurch Street presents a different challenge entirely. Within the conservation area, listed status means boarding must be carried out with care for surrounding stonework and timber, and any frame repair has to anticipate eventual reinstatement of period glazing rather than treating the opening as a standard replacement job. We photograph and document the damage thoroughly, providing insurance evidence that satisfies loss adjusters familiar with heritage claims.\n\nHarbledown's Victorian terraces and semi-detached houses, set along the hillside above the city, typically have timber sash frames that split or splinter under forced entry. Boarding here needs to account for the narrow proportions of these window openings, and where glazing has failed completely, we assess whether frame repair can proceed before reglazing or whether temporary boarding must remain in place until a joiner attends. Either way, the property is left secure and watertight.",
+  "emergency-boarding-up.local-faqs": [
+    {
+      "q": "If a window is broken in one of the listed terraces on Church Street, can a standard timber board be fitted straightaway or does the conservation overlay affect this?",
+      "a": "A temporary boarding fitted as a make-safe measure is normally acceptable even on listed or conservation-area properties, since it is not a permanent alteration. We photograph the damage and the frame before boarding for insurance evidence, and where the property sits within the city centre's conservation zone we use fixings that do not mark or penetrate original masonry, so any later frame repair by a specialist can proceed without complication."
+    },
+    {
+      "q": "What should I do before your locksmith arrives after a break-in at my property in Northgate?",
+      "a": "Avoid touching broken glazing or disturbing the door frame, and take photographs of the damage from several angles for your own insurance evidence before anything is cleared. Where a shared HMO entrance is affected, let other occupants know a make-safe board will be fitted so access is not attempted through the damaged opening. Keep any dislodged glass or timber fragments in place if possible, as this can help establish how entry was forced."
+    },
+    {
+      "q": "What determines whether boarding up counts as a simple make-safe job or something more involved, cost-wise?",
+      "a": "The main factors are the extent of frame damage and whether the glazing itself needs replacing rather than just boarding over. A cracked pane with an intact frame is typically a straightforward make-safe using plywood over the opening, whereas a forced door with a split or splintered frame, common after break-ins in older Victorian terraces around Harbledown, requires frame repair work before any new lock or glazing unit can be fitted properly."
+    }
+  ],
+  "lock-changes.meta.title": "Canterbury Lock Changes | Established Local Locksmiths",
+  "lock-changes.meta.description": "Lock Changes in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "lock-changes.hero-paragraph": "Canterbury's housing spans Medieval terraces on Church Street to interwar semis in Hersden, and lock changes are specified accordingly. On listed properties within the city centre conservation area, we fit BS3621 mortice deadlocks that satisfy insurers while respecting original joinery, whereas Victorian terraces in Northgate more often call for a TS007 3-star euro cylinder to counter snapping. Every installation is completed with proper key control in mind.",
+  "lock-changes.local-context-body": "Hersden's interwar semi-detached and detached homes typically retain original timber doors fitted with mortice locks, and a lock change here often means upgrading to a BS3621 mortice deadlock to satisfy insurance requirements while preserving the door's character. Many of these properties also carry a secondary rim lock on the front door, and we frequently pair the mortice upgrade with a night latch of appropriate quality, ensuring both locks meet current standards rather than leaving one as a weak point.\n\nIn Blean, where detached properties sit further from mains infrastructure and street lighting, lock changes tend to favour mechanical robustness over anything reliant on battery power alone. A TS007 3-star euro cylinder fitted to composite or uPVC doors gives strong resistance to snapping and picking without depending on connectivity, which suits the village's more isolated plots and outbuildings.\n\nChartham's mix of detached and semi-rural homes presents similar considerations, with many properties holding multiple keys across family members, tradespeople and holiday lets. Here, key control becomes as important as the hardware itself: we record cutting rights and restrict duplication where requested, alongside fitting cylinders and deadlocks rated to current standards. Across all three areas, we assess existing door furniture before recommending replacements, ensuring compatibility with door thickness, frame condition and any period features present.",
+  "lock-changes.local-faqs": [
+    {
+      "q": "I have a listed terraced house on Church Street. Can I fit a standard BS3621 mortice deadlock, or does the conservation area restrict my options?",
+      "a": "Listed properties in the city centre conservation area usually require period-appropriate hardware, so we fit BS3621 mortice deadlocks in finishes and case styles that match the original joinery rather than modern stock units. Planning and conservation officers generally accept this standard providing the visible furniture, such as escutcheons and handles, respects the building's age. We can advise on suitable options once we have seen the door and its listing grade."
+    },
+    {
+      "q": "My semi-detached house in Hersden has a UPVC door with a euro cylinder. Is it worth upgrading, and to what standard?",
+      "a": "Many interwar semis in Hersden still have euro cylinders fitted before the anti-snap requirements became standard practice, leaving them vulnerable to snapping attacks. We recommend upgrading to a TS007 3-star rated euro cylinder, which combines anti-snap, anti-drill and anti-pick features and satisfies most insurance policies. This is a straightforward cylinder swap rather than a full door mechanism replacement, so the work is contained and the cost reflects the hardware rather than extensive labour."
+    },
+    {
+      "q": "I'm letting a converted HMO in Northgate to students. What lock arrangement makes sense for tenant turnover?",
+      "a": "For multi-occupancy properties with regular tenant changes, we generally recommend a keyed-alike or master key system with key control, so that individual locks can be rekeyed between lets without recutting every key in the building. Pairing a BS3621 mortice deadlock on final exit doors with a night latch for day-to-day use gives tenants an easy self-closing option while keeping the main deadlock for security when the property is empty. Restricted key control also limits unauthorised key copying, which is a common concern in shared student housing."
+    }
+  ],
+  "lock-repairs.meta.title": "Canterbury Lock Repairs | Trusted Local Locksmiths",
+  "lock-repairs.meta.description": "Lock Repairs in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "lock-repairs.hero-paragraph": "Lock repairs across Canterbury call for an understanding of what each property demands, from the listed terraces along Church Street to the Victorian semis of Harbledown. A misaligned multipoint gearbox after a door has dropped slightly, or a euro cylinder worn from years of use, accounts for many of the calls we attend throughout CT1 and CT2. Our approach favours careful diagnosis and conservation-appropriate repair over unnecessary replacement.",
+  "lock-repairs.local-context-body": "The listed and Georgian terraces around Church Street present mortice mechanisms that have often been fitted or repaired several times over decades, and conservation area requirements mean any replacement hardware must respect the original fittings. We regularly find worn levers and stiff mortice cases in these properties, and repair work here focuses on restoring smooth operation without altering the visible character of the door, since planning sensitivities in CT1 rule out anything but sympathetic solutions.\n\nHarbledown's Victorian terraces and semi-detached houses commonly use euro cylinder locks fitted to later door replacements, and misalignment is a frequent complaint as timber frames settle on the hillside gradient. A cylinder that will not turn freely, or a door that requires lifting to lock, usually points to hinge or frame movement rather than a faulty cylinder itself, and correcting this alongside lubrication of the mechanism resolves most call-outs without needing full replacement.\n\nIn Hersden's interwar semi-detached and detached homes, multipoint gearbox failures are the most common repair, particularly on uPVC doors fitted during the 1990s and 2000s. Symptoms include a handle that drops or a key that turns but fails to retract all locking points. Diagnosing whether the gearbox itself has failed, or whether debris and lack of lubrication are the cause, determines whether a full mechanism replacement is needed or a more limited repair will suffice.",
+  "lock-repairs.local-faqs": [
+    {
+      "q": "My uPVC door handle feels stiff and the key is hard to turn. Does this mean the whole lock needs replacing?",
+      "a": "Not necessarily. This is often misalignment of the door within its frame, which places strain on the multipoint gearbox rather than indicating a fault with the euro cylinder itself. We check the hinges and keeps first, since correcting alignment and applying appropriate lubrication resolves a good proportion of these calls without any parts replacement."
+    },
+    {
+      "q": "I own a listed terraced house near Church Street. Can I just fit a standard replacement lock if the mortice mechanism fails?",
+      "a": "For listed and conservation area properties, we would recommend against a standard off-the-shelf replacement, as conservation officers typically expect period-appropriate hardware that preserves the character of the original joinery. We carry mortice mechanisms and escutcheons suited to Georgian and Victorian door furniture, which allows repair or replacement without compromising the building's listed status."
+    },
+    {
+      "q": "What determines whether a lock repair is a minor job or something more involved?",
+      "a": "Cost category depends largely on whether the issue is confined to the cylinder or extends into the mechanism itself. A worn euro cylinder or a gearbox needing lubrication is generally straightforward, whereas a seized or corroded multipoint gearbox, common in older semi-detached properties around Harbledown, often requires full mechanism replacement rather than a simple service."
+    }
+  ],
+  "door-lock-installation.meta.title": "Canterbury Door Lock Installation | Established Locksmiths",
+  "door-lock-installation.meta.description": "Door Lock Installation in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "door-lock-installation.hero-paragraph": "Canterbury's housing spans Georgian terraces on Church Street to interwar semis in Hersden, and each calls for a different approach to door lock installation. Listed properties in the conservation area often require a BS3621 mortice deadlock fitted with conservation-compliant hardware, satisfying insurance compliance without altering historic joinery. For Victorian terraces in Northgate and Harbledown, we frequently pair a night latch with a TS007-rated cylinder to meet current standards.",
+  "door-lock-installation.local-context-body": "Blean sits at the edge of Canterbury's built-up area, where detached properties often stand without mains power close at hand. Door lock installation here tends to favour mechanical solutions over anything reliant on a permanent electrical supply, with a BS3621 mortice deadlock frequently specified as the primary rear or side door lock to satisfy insurance compliance. Where a battery-backup cylinder is fitted alongside, we test it thoroughly before leaving, given how isolated some of these plots can be.\n\nFurther out, Chartham's mix of detached and semi-rural homes presents similar practical constraints, though front doors here more commonly pair a night latch with a secondary deadlock for layered security. A TS007 cylinder rated to at least one star, combined with three-star hardware, is our usual recommendation where the existing door allows it, since many Chartham properties were built to standards that predate current guidance.\n\nIn Chilham, the picturesque conservation area around the village core changes the brief considerably. Listed status on many Medieval and Georgian buildings means any door lock installation must respect original joinery and visible ironmongery, so a traditional sash lock is often retained or replaced like-for-like rather than substituted for a modern casement mechanism. We work closely with conservation officers where consent is required, ensuring the finished installation meets insurance compliance without altering the door's historic character.",
+  "door-lock-installation.local-faqs": [
+    {
+      "q": "I live in a listed terraced house on Church Street. Can I fit a standard BS3621 mortice deadlock, or does the conservation status restrict my options?",
+      "a": "Listed buildings in the Church Street conservation area typically require period-appropriate hardware, so we fit BS3621 mortice deadlocks with cases and furniture matched to the original joinery, often in brass or black iron finishes. Planning consent is rarely needed for like-for-like security upgrades, but we always check with the conservation officer where the door itself is historic fabric. This approach satisfies insurers while respecting the building's character."
+    },
+    {
+      "q": "My insurer is asking for BS3621 compliance on my semi-detached house in Harbledown. What does that actually involve?",
+      "a": "BS3621 is the British Standard for thief-resistant mortice deadlocks, typically fitted alongside a night latch for day-to-day use, and most home insurance policies specify it as a minimum for final exit doors. We would assess your existing door thickness and frame condition, since older Victorian doors in Harbledown sometimes need reinforcement before the lock case is set. Once fitted, we provide a compliance note you can pass directly to your insurer."
+    },
+    {
+      "q": "I manage an HMO in Northgate with several tenants. What lock setup keeps us compliant and manageable between lets?",
+      "a": "For multi-occupancy properties we generally recommend a TS007 3-star rated cylinder on the communal entrance, paired with BS3621 mortice deadlocks on individual room doors, which satisfies most landlord insurance and fire safety requirements. Rekeying between tenancies is straightforward with a cylinder-based system, since only the affected cylinder needs changing rather than the whole lock body. This is a common setup across the Northgate and Wincheap student lets we maintain."
+    }
+  ],
+  "door-lock-replacement.meta.title": "Canterbury Door Lock Replacement | Established Local Locksmiths",
+  "door-lock-replacement.meta.description": "Door lock replacement in Canterbury fitted to British Standard BS3621, including euro cylinders and mortice locks. Call for a quiet chat about your door.",
+  "door-lock-replacement.hero-paragraph": "Door lock replacement across Canterbury calls for a measured approach, particularly among the listed terraces of Church Street, where conservation officers expect like-for-like replacement rather than visible alteration. We take accurate cylinder measurements before quoting, and where regulations allow, we recommend an anti-snap upgrade to bring older Victorian and interwar doors in Harbledown or Northgate up to current security standards.",
+  "door-lock-replacement.local-faqs": [
+    {
+      "q": "My terraced house in Northgate has a euro cylinder that sticks. Should I replace it like-for-like or upgrade the hardware?",
+      "a": "If the door and multipoint gearbox are in good order, a straightforward like-for-like cylinder replacement often solves the sticking. However, given the number of HMO conversions in Northgate, we usually recommend an anti-snap upgrade at the same time, since standard euro cylinders remain a common target for lock snapping on rented terraces. Cylinder measurement is essential beforehand, taken from both sides of the door to avoid ordering the wrong length."
+    },
+    {
+      "q": "We have a listed Georgian property on Church Street. Can we still fit modern security hardware?",
+      "a": "Listed status does not rule out improved security, but it does mean any replacement lock must respect the original door furniture and conservation area requirements. We fit slimline, conservation-compliant cylinders and surface-mounted hardware that meet British Standard BS 3621 without altering the historic joinery. This approach is common across the Medieval and Georgian terraces in the city center, where planning sensitivity affects material choice as much as mechanism choice."
+    },
+    {
+      "q": "What actually determines the cost of replacing a multipoint lock on a uPVC door?",
+      "a": "The main factors are the condition of the gearbox itself, whether the existing keep and strike plates need adjusting, and the door thickness, which affects cylinder measurement and spindle length. A worn multipoint gearbox usually costs more to replace than a simple cylinder swap, particularly on semi-detached homes in Harbledown or Hersden where original 1990s mechanisms are now reaching the end of their service life. We always assess the gearbox and cylinder separately before quoting, since one can fail without the other."
+    }
+  ],
+  "door-repairs.meta.title": "Canterbury Door Repairs | Established Local Locksmiths",
+  "door-repairs.meta.description": "Door Repairs in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "door-repairs.hero-paragraph": "In Canterbury's conservation areas, from Church Street's Georgian terraces to the listed cottages of Chilham, door repairs often call for a careful hand rather than wholesale replacement. Seasonal changes bring swollen timber and dropped hinges that disturb door alignment, leaving multipoint engagement mechanisms struggling to locate their keeps. We assess and adjust each door on its own terms, respecting original joinery wherever conservation guidelines require it.",
+  "door-repairs.local-context-body": "The terraced and council-built stock across Barton Estate presents a recurring pattern: composite and uPVC doors that have settled over decades, leaving multipoint engagement systems fighting against a frame that has shifted slightly out of true. When a door no longer locks smoothly along its full length, the cause is often dropped hinges rather than a faulty mechanism, and correcting door alignment restores the even pressure a multipoint system needs to seat properly in the keeps.\n\nNorthgate's Victorian terraces, many converted into student HMOs, see doors used far more heavily than they were built for, with communal entrances and internal room doors under constant traffic. Here keep adjustment becomes routine work, as strike plates wear and shift with repeated use, and landlords need repairs that hold up between tenancies without requiring a full door replacement each time.\n\nIn Wincheap, a mix of older terraced housing and converted properties brings a different problem: swollen timber doors that stick in their frames during wetter months, particularly where original wooden doors remain alongside newer composite installations. Planing, sealing and rehanging address the timber itself, while checking hinge tension and frame square prevents the same swelling from recurring once the weather turns again.",
+  "door-repairs.local-faqs": [
+    {
+      "q": "My front door has become difficult to lock properly since the weather turned colder. Is this a hinge problem or something else?",
+      "a": "This is often a case of swollen timber affecting door alignment, particularly common on Victorian terraced properties in Harbledown and Northgate where original frames were fitted before modern moisture-resistant treatments. We check whether keep adjustment alone will resolve the multipoint engagement issue, or whether the timber needs planing back before the mechanism will seat correctly."
+    },
+    {
+      "q": "The door on my period cottage in Chilham drags on the floor and the key sticks. What should I expect during a repair visit?",
+      "a": "Dropped hinges are common in listed and Georgian properties where original ironmongery has worn over decades of use, and this often throws off door alignment enough to prevent the multipoint mechanism engaging cleanly. On conservation area properties we assess whether the existing hinges can be reset and adjusted or whether replacement with a conservation-compliant equivalent is needed to preserve the original character."
+    },
+    {
+      "q": "My multipoint lock engages on one side but not the other. Does this mean I need a new lock or new door?",
+      "a": "Uneven engagement across a multipoint system usually points to keep adjustment being out of tolerance with the door alignment, rather than a fault with the lock mechanism itself. In most cases on semi-detached and terraced properties across Barton Estate and Hersden, resetting the keeps and checking hinge tension resolves this without needing to replace the lock case or door."
+    }
+  ],
+  "window-lock-repair-replacement.meta.title": "Canterbury Window Lock Repair & Replacement | Trusted Local Locks",
+  "window-lock-repair-replacement.meta.description": "Window Lock Repair & Replacement in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "window-lock-repair-replacement.hero-paragraph": "Canterbury's window stock reflects its history, from Georgian sash properties around Church Street to Victorian terraces in Harbledown and Northgate, each demanding a different repair approach. We work regularly with espagnolette mechanisms on casement windows and traditional sash window locks, restoring function without compromising the character features that conservation area planning expects. Where insurance compliance requires upgraded key-operated handles, we advise on options suited to the property's age and listing status.",
+  "window-lock-repair-replacement.local-context-body": "Northgate's Victorian terraces and semi-detached houses, many converted into student housing, present a particular challenge for window security. Casement fasteners on these properties often date from the original build or a mid-century replacement, and years of tenant turnover leave many in poor working order. We repair or replace casement fasteners and fit key-operated handles throughout these conversions, ensuring each unit meets the standards landlords need for insurance compliance and satisfies the expectations of letting agents managing multiple occupancies across CT1 and CT2.\n\nWincheap's mix of former commercial buildings and Victorian terraces brings a wider range of window styles into our workshop, from timber casements to later aluminium replacements. Sash window locks are common here, particularly in properties retaining original joinery, and we service the pulleys, catches and fitch fasteners that keep these windows secure without compromising their operation. Where an espagnolette mechanism has seized on a later casement installation, a full mechanism replacement is often more reliable than a partial repair.\n\nLittlebourne and the surrounding villages present a different set of considerations. Detached and rural properties here frequently sit beyond reliable mains power, so we favour mechanical locking systems over electronic alternatives, with battery-backup options fitted only where a homeowner specifically requests smart integration. Espagnolette mechanisms on larger casement windows in these outlying properties require periodic lubrication and adjustment, and we carry the parts needed for on-site replacement rather than lengthy order-in delays.",
+  "window-lock-repair-replacement.local-faqs": [
+    {
+      "q": "My Victorian sash windows in Harbledown have loose locks. Should I repair or replace the mechanism?",
+      "a": "Where the sash window locks and sash stops are original, we generally repair, cleaning and re-seating the fitch fastener before considering replacement. On terraced properties of this era the timber can be soft, so we check the surrounding frame for movement rather than assuming the lock itself has failed. Full replacement is usually reserved for cases where the box or stile has degraded beyond a straightforward fitting."
+    },
+    {
+      "q": "What is involved in fixing a casement window that will not lock properly on our Northgate property?",
+      "a": "Most casement fasteners in Northgate's Victorian terraces fail through worn keeps or a dropped hinge rather than the fastener itself, so we assess alignment before touching the hardware. Given the number of HMO conversions in this area, we also check whether the existing key-operated handles meet current multi-occupancy requirements. Where several units share a stairwell or communal window, we can standardise keying across the block during the same visit."
+    },
+    {
+      "q": "Does replacing window locks on our listed cottage in Chilham affect our insurance cover?",
+      "a": "Insurance compliance on listed properties in Chilham depends on fitting hardware that satisfies your policy's minimum standard while remaining conservation-appropriate, which usually means a period-style espagnolette mechanism rather than a modern multi-point casement lock. We can supply documentation confirming the standard met, which your insurer or the conservation officer may request. This tends to affect cost more than the mechanism type itself, since listed building consent and matching ironmongery add to the specification."
+    }
+  ],
+  "safe-installation.meta.title": "Canterbury Safe Installation | Established Locksmiths",
+  "safe-installation.meta.description": "Safe Installation in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "safe-installation.hero-paragraph": "Canterbury's mix of Medieval terraces in Church Street and Victorian properties in Harbledown calls for careful judgement when fitting a safe, since wall thicknesses and floor structures vary considerably across the city. We assess each property to recommend the appropriate cash rating and secure anchoring method, whether that means a floor-mounted safe bedded into a solid concrete base or a wall safe set within masonry capable of bearing its weight.",
+  "safe-installation.local-context-body": "Harbledown's Victorian terraces and semi-detached houses, set into the hillside above the city, often have limited ground-floor space for a floor-mounted safe. In these properties we frequently recommend a wall safe set into masonry between joists, with secure anchoring into brick or block rather than plasterboard. Cash rating is assessed against the household's actual holdings and insurer requirements, since Harbledown's mix of long-standing residents and newer arrivals brings varying expectations of what a domestic safe should hold.\n\nIn Hersden, where interwar semi-detached and detached houses tend to offer more usable floor space, a floor-mounted safe bolted through to the concrete slab is usually the more practical option. We size the fire rating to the contents involved, whether that is cash, jewellery or paper documents, and confirm anchoring points before installation so the unit cannot be levered free. Garages and utility rooms in Hersden often provide suitable, discreet locations away from principal living areas.\n\nBlean's detached and rural properties, scattered along the village outskirts, present a different challenge. Many lack reliable mains power, so we favour mechanical combination locks or battery-backup electronic locks with a manual override, ensuring the safe remains operable during a power interruption. Secure anchoring here depends on the building fabric, whether timber frame, brick or stone, and we assess each site individually before recommending cash rating and fire rating suited to the property's contents and isolation.",
+  "safe-installation.local-faqs": [
+    {
+      "q": "We live in a listed terraced house on Church Street. Can we still have a floor-mounted safe installed, or will conservation restrictions get in the way?",
+      "a": "Listed status affects fixtures visible to the building's character rather than what sits beneath your floorboards, so a floor-mounted safe is usually the more straightforward option in a Medieval or Georgian property. Secure anchoring into the sub-floor or slab needs to be assessed on site, since older joists and original flagstones each call for different fixing methods. We would also check with you whether any works require conservation officer sign-off before drilling begins."
+    },
+    {
+      "q": "How do we decide between a cash rating and a fire rating for a safe at our shop in Northgate?",
+      "a": "Cash rating reflects the insurer's valuation of contents against burglary risk, which matters most where footfall and stock turnover are high, as in the Northgate area. Fire rating protects documents, cash, or data against heat and smoke rather than forced entry, and many businesses need both ratings covered by separate certification. We would go through your insurer's specific requirement with you, since underinsurance often traces back to a mismatched cash rating rather than poor installation."
+    },
+    {
+      "q": "Our property near Chilham has no mains power. Does that rule out an electronic safe?",
+      "a": "It does not rule it out, but it does shape which lock mechanism makes sense. Many rural and village properties around Chilham and Littlebourne do better with a mechanical combination lock or a battery-backup electronic lock, since reliance on mains power alone leaves you exposed during outages. Secure anchoring into solid masonry remains the priority regardless of lock type, particularly in detached period buildings with limited internal wall options."
+    }
+  ],
+  "safe-opening.meta.title": "Canterbury Safe Opening | Established Local Locksmiths",
+  "safe-opening.meta.description": "Safe Opening in Canterbury from an established local firm. DBS-checked engineers and insurance-standard workmanship. Call 01227 689270.",
+  "safe-opening.hero-paragraph": "Householders and businesses across Canterbury, from the listed terraces along Church Street to the rural properties near Chartham, call on us when a safe will not open. A lost combination or a stiff boltwork mechanism need not mean losing the safe entirely. Our safe engineers favour non-destructive opening wherever the model allows, always working once proof of ownership has been confirmed.",
+  "safe-opening.local-context-body": "On Church Street, safes are often tucked into cellars or built into the fabric of Georgian and Medieval terraces, where floor loading and joinery limit where a unit can sit. When a combination is lost or a dial mechanism sticks, our safe engineer works through non-destructive opening methods first, examining the boltwork and locking pattern before considering any drilling. Proof of ownership is requested before work begins, in keeping with standard practice for safe opening across the city center.\n\nHarbledown's Victorian houses, set along the hillside above the city, frequently hold older domestic safes passed down through several occupants, sometimes with no working key or record of the combination. These units vary widely in construction, and a careful assessment of the boltwork configuration helps determine whether manipulation, decoding, or a controlled entry point will cause least disturbance to the case and its finish.\n\nIn Hersden, interwar semi-detached and detached properties often house more recent safes, including electronic keypad models fitted for home offices or small business use. A lost combination on these units usually points to a dead battery or a corrupted keypad rather than a mechanical fault, and our approach is adjusted accordingly. Whatever the model or its age, proof of ownership remains a standard requirement before any opening proceeds.",
+  "safe-opening.local-faqs": [
+    {
+      "q": "My family safe in Chilham has a lost combination and no paperwork. What happens next?",
+      "a": "We will first need proof of ownership before any opening work begins, particularly for a property in a conservation village where provenance often matters. A safe engineer will then assess whether non-destructive opening is feasible given the lock type, or whether the boltwork construction means drilling is the only reliable route."
+    },
+    {
+      "q": "What determines whether a safe opening in Canterbury is straightforward or a specialist job?",
+      "a": "The lock mechanism and boltwork design are the main factors: a basic key-operated safe in a Barton Estate flat is usually far simpler than a older combination unit found in a Church Street listed building. Age, manufacturer, and whether the safe has a relocker triggered by a previous forced attempt all affect whether non-destructive opening remains an option."
+    },
+    {
+      "q": "Do I need to be present for a safe opening, and what should I have ready?",
+      "a": "Yes, we ask that the account holder or property owner is present with proof of ownership, such as a purchase receipt, insurance schedule, or correspondence naming the safe's serial number. This protects everyone and allows the safe engineer to proceed straight to assessing the lock and boltwork rather than pausing partway through."
+    }
+  ],
+  "home.local-context-heading": "Canterbury Locksmiths With Local Neighbourhood Knowledge",
+  "home.areas-covered": [
+    "Adisham",
+    "Alkham",
+    "Aylesham",
+    "Barham",
+    "Barracks",
+    "Barton Estate",
+    "Bekesbourne",
+    "Beltinge",
+    "Bishopsbourne",
+    "Bishopstone",
+    "Blean",
+    "Bossingham",
+    "Boughton Street",
+    "Brabourne",
+    "Brabourne Lees",
+    "Bramling",
+    "Bridge",
+    "Broad Oak",
+    "Brook",
+    "Broomfield",
+    "Chartham",
+    "Chestfield",
+    "Chilham",
+    "Church Street",
+    "Crundale",
+    "Dargate",
+    "Densole",
+    "Denton",
+    "Dunkirk",
+    "Eddington",
+    "Elham",
+    "Godmersham",
+    "Goodnestone",
+    "Graveney",
+    "Greenhill",
+    "Hales Place",
+    "Hampton",
+    "Harbledown",
+    "Hastingleigh",
+    "Herne",
+    "Hernhill",
+    "Hersden",
+    "Hillborough",
+    "Hinxhill",
+    "Hoath",
+    "Hunter's Forstal",
+    "Ickham",
+    "Kingsdown Park",
+    "Kingston",
+    "Leysdown-on-Sea",
+    "Littlebourne",
+    "Longport",
+    "Lower Herne",
+    "Lower Island",
+    "Lymbridge Green",
+    "Lyminge",
+    "Mariner's View",
+    "Martyrs Field",
+    "Mickleburgh Hill",
+    "Nonington",
+    "Old Wives Lees",
+    "Oversland",
+    "Oxenden",
+    "Patrixbourne",
+    "Petham",
+    "Pinefields",
+    "Preston",
+    "Rhodes Minnis",
+    "Rough Common",
+    "Sarre",
+    "Seasalter",
+    "Shalmsford Street",
+    "Shepherdswell",
+    "Shottenden",
+    "Sole Street",
+    "South Street",
+    "South Tankerton",
+    "St. Dunstan's",
+    "St. Martin's",
+    "St. Mildred's",
+    "St. Stephen's",
+    "Staplestreet",
+    "Stelling Minnis",
+    "Stowting",
+    "Studd Hill",
+    "Stuppington",
+    "Sturry",
+    "Sunningdale Green",
+    "Swalecliffe",
+    "Talmead",
+    "Tankerton",
+    "Thanington",
+    "The Fairways",
+    "The King's Mile",
+    "Thurston Park",
+    "Tyler Hill",
+    "Upper Harbledown",
+    "Upstreet",
+    "Waltham",
+    "Wentworth Park",
+    "West End",
+    "Westbere",
+    "Wickhambreaux",
+    "Wincheap",
+    "Wingham",
+    "Woolage Green",
+    "Woolage Village",
+    "Wootton",
+    "Wye",
+    "Yorkletts"
+  ],
+  "emergency-locksmith.areas-covered": [
+    "Wincheap",
+    "Hales Place",
+    "The King's Mile",
+    "Bossingham",
+    "Chestfield",
+    "Bridge",
+    "St. Dunstan's",
+    "Sarre",
+    "Oxenden"
+  ],
+  "locked-out.areas-covered": [
+    "Graveney",
+    "Tankerton",
+    "Alkham",
+    "Hinxhill",
+    "Stelling Minnis",
+    "Harbledown",
+    "Shottenden",
+    "St. Stephen's",
+    "Thanington"
+  ],
+  "broken-key-removal.areas-covered": [
+    "Hernhill",
+    "Adisham",
+    "Westbere",
+    "Beltinge",
+    "Wye",
+    "South Street",
+    "Hunter's Forstal",
+    "Preston",
+    "Longport"
+  ],
+  "burglar-repair-service.areas-covered": [
+    "Broomfield",
+    "Bishopstone",
+    "Mickleburgh Hill",
+    "Dargate",
+    "Tyler Hill",
+    "South Tankerton",
+    "Denton",
+    "Talmead",
+    "Chartham"
+  ],
+  "emergency-boarding-up.areas-covered": [
+    "Swalecliffe",
+    "Wentworth Park",
+    "Hersden",
+    "Bramling",
+    "Woolage Green",
+    "Hillborough",
+    "Stowting",
+    "Upstreet",
+    "Ickham"
+  ],
+  "lock-changes.areas-covered": [
+    "Old Wives Lees",
+    "Mariner's View",
+    "Lymbridge Green",
+    "Aylesham",
+    "Shepherdswell",
+    "Barracks",
+    "Upper Harbledown",
+    "Barton Estate",
+    "Sunningdale Green"
+  ],
+  "lock-repairs.areas-covered": [
+    "Eddington",
+    "Petham",
+    "Blean",
+    "St. Mildred's",
+    "Rough Common",
+    "West End",
+    "Lower Island",
+    "Littlebourne"
+  ],
+  "door-lock-installation.areas-covered": [
+    "Bekesbourne",
+    "Lower Herne",
+    "Rhodes Minnis",
+    "Sturry",
+    "Nonington",
+    "Hampton",
+    "Church Street",
+    "Seasalter"
+  ],
+  "door-lock-replacement.areas-covered": [
+    "Shalmsford Street",
+    "Bishopsbourne",
+    "St. Martin's",
+    "Brabourne",
+    "Yorkletts",
+    "Leysdown-on-Sea",
+    "Sole Street",
+    "Martyrs Field"
+  ],
+  "door-repairs.areas-covered": [
+    "Godmersham",
+    "Brabourne Lees",
+    "Barham",
+    "Broad Oak",
+    "Dunkirk",
+    "Elham",
+    "Greenhill",
+    "Brook"
+  ],
+  "window-lock-repair-replacement.areas-covered": [
+    "Hoath",
+    "Waltham",
+    "Kingsdown Park",
+    "Wootton",
+    "Herne",
+    "Stuppington",
+    "Pinefields",
+    "Thurston Park"
+  ],
+  "safe-installation.areas-covered": [
+    "Kingston",
+    "Boughton Street",
+    "Goodnestone",
+    "Staplestreet",
+    "Oversland",
+    "Densole",
+    "Chilham",
+    "Hastingleigh"
+  ],
+  "safe-opening.areas-covered": [
+    "Studd Hill",
+    "Crundale",
+    "Woolage Village",
+    "Wickhambreaux",
+    "Patrixbourne",
+    "Wingham",
+    "Lyminge",
+    "The Fairways"
+  ],
+  "home.hero-paragraph": "Canterbury's building stock ranges from listed Medieval and Georgian terraces along Church Street to interwar semi-detached homes in Hersden, and each demands a different approach to security. We fit BS3621 mortice deadlocks where conservation officers require sympathetic ironmongery, and TS007 3-star euro cylinders for the terraced and semi-detached properties common across Harbledown and Northgate. Our engineers work across CT1 to CT6, day or night.",
+  "home.local-faqs": [
+    {
+      "q": "I have a listed terraced house on Church Street. Can I fit a standard BS3621 mortice deadlock without affecting the building's listed status?",
+      "a": "Most conservation officers will accept a BS3621 mortice deadlock provided the faceplate and furniture match the period in finish and profile, since the standard concerns the lock mechanism rather than its appearance. We carry traditional brass and black iron cases suited to Georgian and Medieval doors in the city center. It is worth checking with the conservation team before work begins, as Church Street sits within a high conservation overlay."
+    },
+    {
+      "q": "My front door in Northgate has a euro cylinder that came with the house when I bought my HMO. Should I upgrade it?",
+      "a": "Given the student turnover typical of Northgate HMOs, we would recommend a TS007 3-star euro cylinder, which resists snapping, bumping and picking far better than a basic cylinder. Pairing this with a key control system means you can restrict unauthorised copying between tenancies, which matters when keys pass through several hands each year. This combination also satisfies most landlord insurance requirements for multi-occupancy lets."
+    },
+    {
+      "q": "We're in a rural property near Chilham with no mains power to the gate. What lock options actually make sense?",
+      "a": "For a property without mains supply, a mechanical five-lever mortice lock or a battery-backup electronic cylinder both avoid dependence on wiring runs across the site. We generally favour mechanical BS3621 hardware on the main entrance for reliability, reserving battery-backup units for secondary gates or outbuildings where convenience matters more. Either way, a night latch alone would not meet insurance expectations for a detached rural property of this kind."
+    }
+  ],
+  "home.local-context-body": "Out toward Chartham, where detached and rural properties sit beyond the reach of consistent mains power, we fit mechanical locking systems with battery-backup options built in. A BS3621 mortice deadlock remains the standard recommendation for external timber doors here, offering insurers a recognised specification without relying on any electrical supply. For outbuildings and gated access along the CT4 fringes, we also advise on weatherproof cylinder guards, since exposed rural fittings suffer more from corrosion and general wear.\n\nChilham presents a different set of constraints. As a designated conservation area with a dense concentration of Medieval and Georgian listed buildings, alterations to doors and frames often require planning consent alongside careful hardware selection. We fit period-appropriate night latches and rim locks that satisfy conservation officers while meeting current security expectations, and we keep detailed records of what has been approved locally, which saves time on repeat applications.\n\nBarton Estate's post-war terraces and higher-density housing bring more conventional but no less important requirements. Front and rear doors here typically take a multipoint mechanism, and we recommend upgrading to a TS007 3-star euro cylinder where the existing lock predates current anti-snap standards. Given the closer proximity of properties on this estate, we also advise residents on rekeying after tenancy changes, particularly where keys may have been shared informally over time."
+}

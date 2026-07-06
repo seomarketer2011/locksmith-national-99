@@ -1,0 +1,54 @@
+---
+// Guide-price table + CRO call aside. Rows come from src/data/pricing.json,
+// whose figures are transcribed 1:1 from the cost-guide paragraphs in
+// service-content.json for the same slug — so the table can never contradict
+// the body copy. Verified site-wide by scripts/locksmith-fleet-v4/verify-pricing.mjs.
+import pricingData from "../data/pricing.json";
+interface Row { job: string; std: string; ooh: string; }
+interface Table { note: string; rows: Row[]; }
+interface Props { slug?: string; }
+const { slug = "index" } = Astro.props;
+const pricing = pricingData as Record<string, Table>;
+const table: Table = pricing[slug] ?? pricing.index;
+
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+---
+<section class="py-14 md:py-16 bg-brandblue-tint">
+  <div class="max-w-page mx-auto px-4">
+    <div class="rounded-2xl bg-white border border-slate-200 overflow-hidden grid grid-cols-1 lg:grid-cols-[1fr_320px]">
+      <div class="p-6 md:p-8">
+        <p class="text-signal font-semibold text-sm uppercase tracking-wide mb-2">Guide prices</p>
+        <h2 class="text-2xl md:text-3xl font-semibold text-slate-900 mb-4">What common jobs cost in {"{{location}}"}</h2>
+        <div class="overflow-x-auto -mx-1 px-1">
+          <table class="w-full text-sm border-collapse">
+            <thead>
+              <tr class="text-left text-slate-500 border-b-2 border-slate-200">
+                <th class="py-2.5 pr-3 font-semibold">Job</th>
+                <th class="py-2.5 px-3 font-semibold whitespace-nowrap text-right">Standard hours</th>
+                <th class="py-2.5 pl-3 font-semibold whitespace-nowrap text-right">Out of hours</th>
+              </tr>
+            </thead>
+            <tbody>
+              {table.rows.map((r) => (
+                <tr class="border-b border-slate-100 last:border-0">
+                  <td class="py-2.5 pr-3 text-slate-700">{r.job}</td>
+                  <td class="py-2.5 px-3 text-right font-semibold text-slate-900 whitespace-nowrap">{r.std.startsWith("+") ? r.std : `from ${r.std}`}</td>
+                  <td class="py-2.5 pl-3 text-right font-semibold text-slate-900 whitespace-nowrap">{r.ooh.startsWith("+") ? r.ooh : `from ${r.ooh}`}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="text-xs text-slate-500 mt-4 leading-relaxed">{table.note}</p>
+      </div>
+      <aside class="bg-brandblue text-white p-8 md:p-10 flex flex-col justify-center">
+        <p class="text-white/70 text-sm uppercase tracking-wide font-semibold mb-1">Get your exact price</p>
+        <p class="text-2xl font-semibold mb-3">A firm quote before we set off</p>
+        <p class="text-white/75 text-sm mb-5">Tell us the job over the phone and we confirm the price up front — no call-out fee, no surprises on the doorstep.</p>
+        <a href={`tel:${phoneHref}`} class="block text-center rounded-xl bg-signal text-white font-semibold py-4 hover:bg-signal-dark transition text-lg">Call {phone}</a>
+        <p class="text-white/60 text-xs mt-3 text-center">Day or night, 7 days a week</p>
+      </aside>
+    </div>
+  </div>
+</section>

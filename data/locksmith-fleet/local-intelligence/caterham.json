@@ -1,0 +1,96 @@
+{
+  "location": "Caterham",
+  "neighborhoods": [
+    {
+      "name": "Caterham Valley",
+      "era": "Victorian to Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "lower-lying residential area, mixed ages"
+    },
+    {
+      "name": "Caterham on the Hill",
+      "era": "Victorian to interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "elevated residential, conservation character"
+    },
+    {
+      "name": "Godstone",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "semi-detached",
+        "detached",
+        "flat"
+      ],
+      "notes": "village character with newer infill"
+    },
+    {
+      "name": "Hamsey Green",
+      "era": "interwar to post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential expansion area"
+    },
+    {
+      "name": "Whyteleafe",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter belt development"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "terrace"
+    ],
+    "era": "mixed Victorian through post-war, predominantly pre-1970",
+    "notable": "historic Surrey commuter town with significant Victorian-Edwardian stock; growing modern residential infill near transport links"
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces dominate Caterham Valley and on the Hill, often with sash windows and period locks requiring specialist knowledge.",
+    "Post-war semis in Hamsey Green and Whyteleafe typically use standard cylinder locks; high volume of routine lock changes and upgrades.",
+    "Mixed-age housing across all neighborhoods creates variable security standards, making insurance-compliant locks and keying systems a frequent local call."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Caterham",
+    "overpass": "OSM Overpass bbox query, 5 named areas",
+    "coords": {
+      "lat": 51.2822001,
+      "lon": -0.077248
+    }
+  },
+  "generated_at": "2026-05-13T18:05:32.518Z",
+  "all_areas": [
+    "Caterham Valley",
+    "Caterham on the Hill",
+    "Godstone",
+    "Hamsey Green",
+    "Whyteleafe"
+  ],
+  "geo": {
+    "latitude": 51.2822001,
+    "longitude": -0.077248
+  },
+  "postcode_districts": [
+    "CR3"
+  ],
+  "postcode_meta": {
+    "CR3": {
+      "count": 2,
+      "sample": "CR3 6DR",
+      "admin": "Tandridge",
+      "via": "parish=caterham valley"
+    }
+  }
+}

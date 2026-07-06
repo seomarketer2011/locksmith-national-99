@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Grotesk";
+    src: url("/fonts/grotesk/SpaceGrotesk-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Grotesk";
+    src: url("/fonts/grotesk/SpaceGrotesk-Medium.woff") format("woff");
+    font-weight: 500 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-neutral-900 font-grotesk antialiased;
+  }
+  h1, h2, h3 {
+    text-wrap: balance;
+  }
+}

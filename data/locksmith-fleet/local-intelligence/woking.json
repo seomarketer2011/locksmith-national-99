@@ -1,0 +1,178 @@
+{
+  "location": "Woking",
+  "neighborhoods": [
+    {
+      "name": "Goldsworth Park",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "planned residential area"
+    },
+    {
+      "name": "Hook Heath",
+      "era": "interwar",
+      "types": [
+        "detached",
+        "villa"
+      ],
+      "notes": "established suburban character"
+    },
+    {
+      "name": "Horsell",
+      "era": "mixed Victorian and interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Maybury",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Maybury Estate",
+      "era": "post-war",
+      "types": [
+        "flat",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Mayford",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Mount Hermon",
+      "era": "Edwardian",
+      "types": [
+        "detached",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Old Woking",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "cottage"
+      ],
+      "notes": "village core, listed buildings"
+    },
+    {
+      "name": "Send",
+      "era": "mixed interwar and modern",
+      "types": [
+        "semi-detached",
+        "new-build"
+      ]
+    },
+    {
+      "name": "Sheerwater",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "flat"
+      ],
+      "notes": "mixed-tenure regeneration"
+    },
+    {
+      "name": "St John's",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Sutton Green",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Westfield",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached",
+      "post-war housing"
+    ],
+    "era": "mixed Victorian through post-war, with significant 1920s–1940s suburban expansion",
+    "notable": "Woking is a planned town (established 1850s railway development) with distinct suburban neighborhoods. Heavy concentration of pre-1960 properties favors period locks and sash windows."
+  },
+  "locksmith_relevant": [
+    "Edwardian and interwar semis dominate Woking; expect original brass mortices, sash fasteners, and period rim locks requiring specialist knowledge.",
+    "Post-war estates (Sheerwater, Maybury Estate) feature council-standard locks and aluminium frames; high replacement call rates for worn mechanisms.",
+    "Victorian Old Woking has listed properties with conservation constraints; locksmiths must verify heritage approval before lock replacement or modification work."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Woking",
+    "overpass": "OSM Overpass bbox query, 13 named areas",
+    "coords": {
+      "lat": 51.3201891,
+      "lon": -0.5564726
+    }
+  },
+  "generated_at": "2026-05-13T12:24:43.242Z",
+  "all_areas": [
+    "Goldsworth Park",
+    "Hook Heath",
+    "Horsell",
+    "Maybury",
+    "Maybury Estate",
+    "Mayford",
+    "Mount Hermon",
+    "Old Woking",
+    "Send",
+    "Sheerwater",
+    "St John's",
+    "Sutton Green",
+    "Westfield"
+  ],
+  "geo": {
+    "latitude": 51.3201891,
+    "longitude": -0.5564726
+  },
+  "postcode_districts": [
+    "GU21",
+    "GU22",
+    "GU4"
+  ],
+  "postcode_meta": {
+    "GU21": {
+      "count": 4,
+      "sample": "GU21 4QZ",
+      "admin": "Woking"
+    },
+    "GU22": {
+      "count": 7,
+      "sample": "GU22 9HD",
+      "admin": "Woking"
+    },
+    "GU4": {
+      "count": 1,
+      "sample": "GU4 7QD",
+      "admin": "Woking"
+    }
+  }
+}

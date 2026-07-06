@@ -1,0 +1,354 @@
+{
+  "location": "Sunderland",
+  "neighborhoods": [
+    {
+      "name": "Ashbrooke",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "affluent residential area with period properties"
+    },
+    {
+      "name": "Fulwell",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Grangetown",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Roker",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Cleadon",
+      "era": "mixed Victorian and modern",
+      "types": [
+        "terrace",
+        "new-build"
+      ]
+    },
+    {
+      "name": "High Barnes",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Hastings Hill",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Hedworth",
+      "era": "Edwardian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "East Herrington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Farringdon",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Castletown",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Concord",
+      "era": "1960s",
+      "types": [
+        "flat",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Downhill",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Ford Estate",
+      "era": "1960s",
+      "types": [
+        "council estate",
+        "flat"
+      ],
+      "notes": "high-density social housing"
+    },
+    {
+      "name": "Chester Gate",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "flat"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "mixed Victorian through 1960s, with modern infill",
+    "notable": "Strong post-war council estate presence; significant Edwardian terraces in older districts; growing student rental market"
+  },
+  "locksmith_relevant": [
+    "Historic Victorian and Edwardian properties dominate Ashbrooke and Downhill; period locks and sash windows require specialist knowledge.",
+    "Post-war council estates (Ford, Concord) have high rental/HMO turnover; demand for rapid access and re-keying services peaks quarterly.",
+    "Sunderland's mixed-era stock means locksmiths encounter varied security standards—from original Victorian mechanisms to modern combi locks—within miles."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Sunderland",
+    "overpass": "OSM Overpass bbox query, 139 named areas",
+    "coords": {
+      "lat": 54.9058512,
+      "lon": -1.3828727
+    }
+  },
+  "generated_at": "2026-05-13T12:26:44.748Z",
+  "all_areas": [
+    "Albany",
+    "Ashbrooke",
+    "Backworth",
+    "Beckwith Green",
+    "Belmont",
+    "Biddick Hall",
+    "Blackhall Colliery",
+    "Boldon Colliery",
+    "Bournmoor",
+    "Brickgarth Estate",
+    "Broadmeadows",
+    "Brockley Whins",
+    "Burnside",
+    "Carley Hill",
+    "Carrville",
+    "Castletown",
+    "Cauldwell",
+    "Chester Gate",
+    "Chilton Moor",
+    "Chirton",
+    "Cleadon",
+    "Cleadon Park",
+    "Concord",
+    "Coptleigh",
+    "Cullercoats",
+    "Dairy Lane Estate",
+    "Dalton Heights",
+    "Dawdon",
+    "Deneside",
+    "Downhill",
+    "Dragonville",
+    "Easington",
+    "Easington Colliery",
+    "Easington Lane",
+    "East Boldon",
+    "East End",
+    "East Herrington",
+    "East Rainton",
+    "Eastlea",
+    "Elstob Farm Estate",
+    "Farringdon",
+    "Fellgate",
+    "Fence Houses",
+    "Ford Estate",
+    "Fulford Grange",
+    "Fulwell",
+    "Gilesgate Moor",
+    "Grangetown",
+    "Grasswell",
+    "Grindon",
+    "Hall Farm",
+    "Harton",
+    "Harton Nook",
+    "Hastings Hill",
+    "Haswell",
+    "Hawthorn",
+    "Hedworth",
+    "High Barnes",
+    "High Dubmire",
+    "High Pittington",
+    "High Shincliffe",
+    "Hill View",
+    "Hollycarrside",
+    "Holystone",
+    "Holywell",
+    "Horden",
+    "Horsley Hill",
+    "Houghtonside",
+    "Howdon",
+    "Hylton Castle Estate",
+    "Hylton Lane Estate",
+    "Hylton Red House Estate",
+    "Lakeside",
+    "Leechmere",
+    "Little Thorpe",
+    "Littletown",
+    "Longmeadows",
+    "Marley Pots",
+    "Meadow Well",
+    "Middle Herrington",
+    "Millfield",
+    "Monkseaton",
+    "Monkwearmouth",
+    "Moorside",
+    "Moorsley",
+    "Mount Pleasant",
+    "Murton",
+    "New Herrington",
+    "New Town",
+    "New York",
+    "Newbottle",
+    "Nookside",
+    "North Hylton",
+    "Northfield Green",
+    "Northlea",
+    "Old Shotton",
+    "Oxclose",
+    "Pallion",
+    "Park Lea",
+    "Parkside",
+    "Pearson's Estate",
+    "Peat Carr Estate",
+    "Pennywell",
+    "Penshaw",
+    "Percy Main",
+    "Plains Farm",
+    "Preston",
+    "Primrose",
+    "Roker",
+    "Roker Marina",
+    "Ryhope",
+    "Ryhope Colliery",
+    "Seaburn",
+    "Sherburn",
+    "Sherburn Hill",
+    "Shiremoor",
+    "Shotton Colliery",
+    "Silksworth",
+    "South Hetton",
+    "South Hylton",
+    "Southwick",
+    "Sulgrave",
+    "Sunniside",
+    "The Lawe",
+    "Thorney Close",
+    "Thornley",
+    "Town End Farm",
+    "Tunstall",
+    "Tyne Dock",
+    "Wardley",
+    "West Boldon",
+    "West Harton",
+    "West Rainton",
+    "Westlea",
+    "Westoe",
+    "Whitburn",
+    "Whiteleas",
+    "Witherwack",
+    "Woodstone Village"
+  ],
+  "geo": {
+    "latitude": 54.9058512,
+    "longitude": -1.3828727
+  },
+  "postcode_districts": [
+    "DH4",
+    "DH5",
+    "NE37",
+    "NE38",
+    "SR1",
+    "SR2",
+    "SR3",
+    "SR4",
+    "SR5",
+    "SR6"
+  ],
+  "postcode_meta": {
+    "SR2": {
+      "count": 7,
+      "sample": "SR2 0NH",
+      "admin": "Sunderland"
+    },
+    "SR3": {
+      "count": 16,
+      "sample": "SR3 2BT",
+      "admin": "Sunderland"
+    },
+    "DH5": {
+      "count": 7,
+      "sample": "DH5 0LT",
+      "admin": "Sunderland"
+    },
+    "DH4": {
+      "count": 12,
+      "sample": "DH4 6JF",
+      "admin": "Sunderland"
+    },
+    "NE37": {
+      "count": 3,
+      "sample": "NE37 2SU",
+      "admin": "Sunderland"
+    },
+    "SR4": {
+      "count": 11,
+      "sample": "SR4 9DA",
+      "admin": "Sunderland"
+    },
+    "SR5": {
+      "count": 12,
+      "sample": "SR5 4PZ",
+      "admin": "Sunderland"
+    },
+    "SR6": {
+      "count": 4,
+      "sample": "SR6 8DE",
+      "admin": "Sunderland"
+    },
+    "SR1": {
+      "count": 1,
+      "sample": "SR1 2DP",
+      "admin": "Sunderland"
+    },
+    "NE38": {
+      "count": 1,
+      "sample": "NE38 0JE",
+      "admin": "Sunderland"
+    }
+  }
+}

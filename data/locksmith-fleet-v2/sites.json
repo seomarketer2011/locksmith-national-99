@@ -1,0 +1,90 @@
+[
+  {
+    "domain": "ash-vale.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Ash Vale",
+    "phone": "01252 493217",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Ash_Vale_Logo.png",
+    "location": "Ash and Ash Vale",
+    "color": "Brass Charcoal",
+    "cf_project": "ash-vale---doorfix-locksmiths",
+    "logo_present": false
+  },
+  {
+    "domain": "bushey.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Bushey",
+    "phone": "020 3670 8527",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Bushey_Logo.png",
+    "location": "Bushey",
+    "color": "Brass Charcoal",
+    "cf_project": "bushey---doorfix-locksmiths",
+    "logo_present": false
+  },
+  {
+    "domain": "canterbury.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Canterbury",
+    "phone": "01227 689270",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Canterbury_Logo.png",
+    "location": "Canterbury",
+    "color": "Brass Charcoal",
+    "cf_project": "canterbury---doorfix-locksmiths",
+    "logo_present": true
+  },
+  {
+    "domain": "fareham.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Fareham",
+    "phone": "01329 565078",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Fareham.png",
+    "location": "Fareham",
+    "color": "Brass Charcoal",
+    "cf_project": "fareham---doorfix-locksmiths",
+    "logo_present": false
+  },
+  {
+    "domain": "redditch.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Redditch",
+    "phone": "01527 312011",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Redditch_Logo.png",
+    "location": "Redditch",
+    "color": "Brass Charcoal",
+    "cf_project": "redditch---doorfix-locksmiths",
+    "logo_present": true
+  },
+  {
+    "domain": "staines-upon-thames.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Staines-upon-Thames",
+    "phone": "01784 656073",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Staines-upon-Thames_Logo.png",
+    "location": "Staines-upon-Thames",
+    "color": "Brass Charcoal",
+    "cf_project": "staines-upon-thames---doorfix-locksmiths",
+    "logo_present": false
+  },
+  {
+    "domain": "swadlincote.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths Swadlincote",
+    "phone": "01283 315047",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_Swadlincote_Logo.png",
+    "location": "Swadlincote",
+    "color": "Brass Charcoal",
+    "cf_project": "swadlincote---doorfix-locksmiths",
+    "logo_present": false
+  },
+  {
+    "domain": "york.doorfix-locksmiths.co.uk",
+    "name": "Doorfix Locksmiths York",
+    "phone": "01904 378107",
+    "address": "",
+    "logo_url": "Doorfix_Locksmiths_York_Logo.png",
+    "location": "York",
+    "color": "Brass Charcoal",
+    "cf_project": "york---doorfix-locksmiths",
+    "logo_present": true
+  }
+]

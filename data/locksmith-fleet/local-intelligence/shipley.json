@@ -1,0 +1,102 @@
+{
+  "location": "Shipley",
+  "neighborhoods": [
+    {
+      "name": "Nab Wood",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "elevated area with older stone properties"
+    },
+    {
+      "name": "New Brighton",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "residential streets with period terraces"
+    },
+    {
+      "name": "Owlet",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban development area"
+    },
+    {
+      "name": "Saltaire",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "UNESCO model village with listed buildings and conservation area"
+    },
+    {
+      "name": "Windhill",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "hillside residential with traditional properties"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "Victorian stone"
+    ],
+    "era": "predominantly pre-1945, concentrated Victorian and Edwardian",
+    "notable": "Saltaire UNESCO heritage status drives conservation-grade locks; dense terraced stock typical of West Yorkshire mill towns"
+  },
+  "locksmith_relevant": [
+    "Saltaire's listed status means many properties require period-appropriate locks and specialist heritage hardware fitting.",
+    "Steep Nab Wood and Windhill areas have older stone properties with worn frames; traditional mortice locks are common and often need rekeying.",
+    "High Victorian terrace density across neighborhoods increases demand for multi-property management and landlord master-key systems."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Shipley",
+    "overpass": "OSM Overpass bbox query, 5 named areas",
+    "coords": {
+      "lat": 53.8321814,
+      "lon": -1.7779777
+    }
+  },
+  "generated_at": "2026-05-13T18:11:12.369Z",
+  "all_areas": [
+    "Nab Wood",
+    "New Brighton",
+    "Owlet",
+    "Saltaire",
+    "Windhill"
+  ],
+  "geo": {
+    "latitude": 53.8321814,
+    "longitude": -1.7779777
+  },
+  "postcode_districts": [
+    "BD16",
+    "BD18"
+  ],
+  "postcode_meta": {
+    "BD18": {
+      "count": 4,
+      "sample": "BD18 3LJ",
+      "admin": "Bradford",
+      "via": "admin_ward=shipley"
+    },
+    "BD16": {
+      "count": 1,
+      "sample": "BD16 1UR",
+      "admin": "Bradford",
+      "via": "constituency=shipley"
+    }
+  }
+}

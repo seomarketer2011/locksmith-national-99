@@ -1,0 +1,64 @@
+---
+import Layout from "../layouts/Layout.astro";
+import siteMeta from "../data/site-meta.json";
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+const meta: any = siteMeta;
+const postcodes: string[] = Array.isArray(meta.postcode_districts) ? meta.postcode_districts : [];
+---
+<Layout
+  title="Contact {{name}} | Locksmith in {{location}}"
+  description="Call {{name}} on {{phone}} for a locksmith in {{location}} — day or night, no call-out fee, price agreed before we attend."
+>
+  <section class="bg-brandblue text-white">
+    <div class="max-w-page mx-auto px-4 py-14">
+      <p class="text-signal font-semibold text-sm uppercase tracking-wide mb-3">Contact</p>
+      <h1 class="text-4xl md:text-5xl font-semibold mb-4">Talk to a {"{{location}}"} locksmith</h1>
+      <p class="text-white/85 text-lg max-w-2xl">The quickest way to reach us is by phone — an engineer answers day and night. Tell us what has happened and where you are, and we will give you a firm price and a realistic arrival time before anyone sets off.</p>
+    </div>
+  </section>
+
+  <section class="py-14 md:py-16 bg-white">
+    <div class="max-w-page mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div class="rounded-2xl border-2 border-signal p-8 flex flex-col">
+        <span class="inline-flex items-center gap-2 self-start rounded-full bg-signal/10 text-signal-dark text-sm font-semibold px-3 py-1 mb-4">Locked out or an emergency?</span>
+        <h2 class="text-2xl font-semibold text-slate-900 mb-2">Call now — do not use a form</h2>
+        <p class="text-slate-600 mb-6">For lockouts, break-ins and anything urgent, phone us straight away. An engineer local to {"{{location}}"} will be with you as quickly as possible.</p>
+        <a href={`tel:${phoneHref}`} class="mt-auto inline-flex items-center justify-center gap-2 rounded-xl bg-signal text-white font-semibold text-lg py-4 hover:bg-signal-dark transition">Call {phone}</a>
+      </div>
+      <div class="rounded-2xl border border-slate-200 p-8 flex flex-col">
+        <span class="inline-flex items-center gap-2 self-start rounded-full bg-brandblue-tint text-brandblue text-sm font-semibold px-3 py-1 mb-4">Planning a repair or upgrade?</span>
+        <h2 class="text-2xl font-semibold text-slate-900 mb-2">Book a visit that suits you</h2>
+        <p class="text-slate-600 mb-6">For lock changes, security upgrades, safe fitting and non-urgent repairs, call to arrange a convenient time. We will confirm the price and what is involved before the visit.</p>
+        <a href={`tel:${phoneHref}`} class="mt-auto inline-flex items-center justify-center gap-2 rounded-xl border border-slate-300 text-slate-900 font-semibold text-lg py-4 hover:border-brandblue transition">Call to book — {phone}</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-14 md:py-16 bg-slate-50">
+    <div class="max-w-page mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div>
+        <h3 class="font-semibold text-slate-900 mb-3">Where we work</h3>
+        <p class="text-slate-600 text-sm leading-relaxed">A mobile locksmith service covering {"{{location}}"} and the surrounding area. {postcodes.length > 0 ? `Main postcode districts: ${postcodes.join(", ")}.` : ""} Call to confirm cover and arrival time for your postcode.</p>
+      </div>
+      <div>
+        <h3 class="font-semibold text-slate-900 mb-3">What to have ready</h3>
+        <ul class="text-slate-600 text-sm space-y-1.5">
+          <li>The address where you need us</li>
+          <li>What has happened (lockout, break-in, faulty lock)</li>
+          <li>Door and lock type if you know it</li>
+          <li>Proof of address may be required for entry work</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-semibold text-slate-900 mb-3">How it works</h3>
+        <ul class="text-slate-600 text-sm space-y-1.5">
+          <li>No call-out fee</li>
+          <li>Price agreed before we attend</li>
+          <li>Non-destructive entry attempted first</li>
+          <li>Pay on completion — card accepted</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</Layout>

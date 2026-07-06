@@ -1,0 +1,78 @@
+{
+  "location": "Trowbridge",
+  "neighborhoods": [
+    {
+      "name": "Hilperton",
+      "era": "Victorian and interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "former mill workers' housing, conservation area character"
+    },
+    {
+      "name": "North Bradley",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "village character within town boundary"
+    },
+    {
+      "name": "Southwick",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "West Ashton",
+      "era": "mixed Victorian and modern",
+      "types": [
+        "terrace",
+        "detached",
+        "new-build"
+      ],
+      "notes": "village fringe with recent development"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian"
+    ],
+    "era": "predominantly Victorian and interwar mill-town stock with post-war expansion",
+    "notable": "Historic textile-industry terraces with period locks; growing new-build suburban areas requiring modern security systems"
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces dominate Hilperton and town centre—many retain original period locks and sash windows requiring specialist attention.",
+    "Post-war semi-detached suburbs (Southwick, West Ashton) feature standard mortice and cylinder locks prone to common wear and replacement needs.",
+    "Historic conservation areas mean listed-building compliance and heritage-appropriate lock repairs essential for older properties throughout Trowbridge."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Trowbridge",
+    "overpass": "OSM Overpass bbox query, 4 named areas",
+    "coords": {
+      "lat": 51.3161569,
+      "lon": -2.2024324
+    }
+  },
+  "generated_at": "2026-05-13T18:13:35.714Z",
+  "all_areas": [
+    "Hilperton",
+    "North Bradley",
+    "Southwick",
+    "West Ashton"
+  ],
+  "geo": {
+    "latitude": 51.3161569,
+    "longitude": -2.2024324
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

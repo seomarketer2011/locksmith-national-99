@@ -1,0 +1,107 @@
+{
+  "location": "Horwich",
+  "neighborhoods": [
+    {
+      "name": "Aspull",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic mill-worker housing"
+    },
+    {
+      "name": "Aspull Moor",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential expansion area"
+    },
+    {
+      "name": "Blackrod",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "terrace",
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter-belt properties"
+    },
+    {
+      "name": "Middlebrook",
+      "era": "modern",
+      "types": [
+        "retail units",
+        "business park"
+      ],
+      "notes": "commercial and leisure development"
+    },
+    {
+      "name": "Rivington",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "detached",
+        "semi-detached",
+        "rural"
+      ],
+      "notes": "moorland and conservation landscape"
+    },
+    {
+      "name": "Wingates",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "suburban residential estate"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "detached"
+    ],
+    "era": "mixed Victorian through post-war, with modern retail/business zones",
+    "notable": "Historic Lancashire mill-town housing stock; significant Middlebrook commercial district requiring commercial-grade security."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces dominate; period sash locks and original door mechanisms require specialist knowledge and parts.",
+    "Post-war semis and estates use standard mortice and cylinder locks; high volume of routine rekeying and replacement work.",
+    "Middlebrook retail and business park creates demand for commercial systems, roller-shutter locks, and access control beyond residential locksmithing."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Horwich",
+    "overpass": "OSM Overpass bbox query, 6 named areas",
+    "coords": {
+      "lat": 53.5971618,
+      "lon": -2.5469188
+    }
+  },
+  "generated_at": "2026-05-13T18:05:23.906Z",
+  "all_areas": [
+    "Aspull",
+    "Aspull Moor",
+    "Blackrod",
+    "Middlebrook",
+    "Rivington",
+    "Wingates"
+  ],
+  "geo": {
+    "latitude": 53.5971618,
+    "longitude": -2.5469188
+  },
+  "postcode_districts": [
+    "BL6"
+  ],
+  "postcode_meta": {
+    "BL6": {
+      "count": 1,
+      "sample": "BL6 5DT",
+      "admin": "Bolton",
+      "via": "admin_ward=horwich south & blackrod"
+    }
+  }
+}

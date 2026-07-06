@@ -1,0 +1,146 @@
+{
+  "location": "Gravesend",
+  "neighborhoods": [
+    {
+      "name": "Chalk",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "riverside setting, mixed residential"
+    },
+    {
+      "name": "Christian Fields",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    },
+    {
+      "name": "Denton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "mixed housing stock"
+    },
+    {
+      "name": "Kings Farm",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "semi-detached"
+      ],
+      "notes": "contemporary development"
+    },
+    {
+      "name": "Milton",
+      "era": "Victorian, Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "older town centre proximity"
+    },
+    {
+      "name": "Parrock Farm",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    },
+    {
+      "name": "Riverview Park",
+      "era": "modern",
+      "types": [
+        "flat",
+        "new-build"
+      ],
+      "notes": "riverside development, flats"
+    },
+    {
+      "name": "Singlewell",
+      "era": "interwar, post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "mixed residential area"
+    },
+    {
+      "name": "Westcourt",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "established suburban"
+    },
+    {
+      "name": "Whitehill",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "period residential"
+    },
+    {
+      "name": "Windmill Hill",
+      "era": "Victorian, Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "historic hilltop, conservation potential"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "mixed Victorian through post-war, with modern infill",
+    "notable": "Thames-side location drives period riverside properties; substantial interwar suburban expansion; growing new-build flat developments"
+  },
+  "locksmith_relevant": [
+    "Victorian terraces in Milton and Windmill Hill often have original period locks requiring specialist restoration and key fitting knowledge.",
+    "Post-war semi-detached homes across Denton, Westcourt, and Singlewell typically use standard cylinder locks; high demand for replacements and rekeying.",
+    "Modern flat developments in Riverview Park feature electronic access systems and complex communal entry—locksmiths need multi-technology capability."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Gravesend",
+    "overpass": "OSM Overpass bbox query, 11 named areas",
+    "coords": {
+      "lat": 51.4424747,
+      "lon": 0.3694468
+    }
+  },
+  "generated_at": "2026-05-13T12:31:15.853Z",
+  "all_areas": [
+    "Chalk",
+    "Christian Fields",
+    "Denton",
+    "Kings Farm",
+    "Milton",
+    "Parrock Farm",
+    "Riverview Park",
+    "Singlewell",
+    "Westcourt",
+    "Whitehill",
+    "Windmill Hill"
+  ],
+  "geo": {
+    "latitude": 51.4424747,
+    "longitude": 0.3694468
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

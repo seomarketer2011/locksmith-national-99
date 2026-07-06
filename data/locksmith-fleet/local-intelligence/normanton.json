@@ -1,0 +1,141 @@
+{
+  "location": "Normanton",
+  "neighborhoods": [
+    {
+      "name": "Altofts",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential area"
+    },
+    {
+      "name": "Bottomboat",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ]
+    },
+    {
+      "name": "Ellentrees",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Hopetown",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Kirkthorpe",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached",
+        "villa"
+      ]
+    },
+    {
+      "name": "Lower Altofts",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ]
+    },
+    {
+      "name": "Moorhouse",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Snydale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Stanley Ferry",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "industrial conversion"
+      ]
+    },
+    {
+      "name": "Woodhouse",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian/interwar"
+    ],
+    "era": "predominantly pre-1945 with significant post-war estates",
+    "notable": "strong terraced housing stock from mill-town era; scattered council estates from 1950s-70s expansion"
+  },
+  "locksmith_relevant": [
+    "Normanton's Victorian terraces often retain original mortice locks and period hardware; modern upgrades require careful specification.",
+    "Post-war council estates across Snydale and Ellentrees feature standardised locks; bulk rekeying and master-key systems are common requests.",
+    "Stanley Ferry's former industrial properties and conversions present mixed lock standards; property surveys before lettings are frequent."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Normanton",
+    "overpass": "OSM Overpass bbox query, 10 named areas",
+    "coords": {
+      "lat": 53.6991226,
+      "lon": -1.4194401
+    }
+  },
+  "generated_at": "2026-05-13T18:03:42.778Z",
+  "all_areas": [
+    "Altofts",
+    "Bottomboat",
+    "Ellentrees",
+    "Hopetown",
+    "Kirkthorpe",
+    "Lower Altofts",
+    "Moorhouse",
+    "Snydale",
+    "Stanley Ferry",
+    "Woodhouse"
+  ],
+  "geo": {
+    "latitude": 53.6991226,
+    "longitude": -1.4194401
+  },
+  "postcode_districts": [
+    "WF1",
+    "WF6"
+  ],
+  "postcode_meta": {
+    "WF6": {
+      "count": 5,
+      "sample": "WF6 2NX",
+      "admin": "Wakefield",
+      "via": "parish=normanton and altofts"
+    },
+    "WF1": {
+      "count": 1,
+      "sample": "WF1 5TA",
+      "admin": "Wakefield",
+      "via": "admin_ward=normanton"
+    }
+  }
+}

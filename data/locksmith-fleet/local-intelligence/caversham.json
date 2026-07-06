@@ -1,0 +1,117 @@
+{
+  "location": "Caversham",
+  "neighborhoods": [
+    {
+      "name": "Caversham",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "core residential area, mixed housing stock"
+    },
+    {
+      "name": "Caversham Heights",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached villa"
+      ],
+      "notes": "elevated position, larger properties"
+    },
+    {
+      "name": "Caversham Park",
+      "era": "Edwardian",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "established residential, conservation area influence"
+    },
+    {
+      "name": "Coley",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "mixed development period"
+    },
+    {
+      "name": "Emmer Green",
+      "era": "post-war and modern",
+      "types": [
+        "semi-detached",
+        "detached",
+        "new-build"
+      ],
+      "notes": "expanding residential area, newer stock"
+    },
+    {
+      "name": "Katesgrove",
+      "era": "Victorian and interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "terraced housing density"
+    },
+    {
+      "name": "Reading West",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "flat",
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "diverse property types"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "predominantly Victorian to Edwardian with post-war infill",
+    "notable": "riverside suburb with established Victorian character; modern expansion toward Emmer Green."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian properties dominate, requiring specialist knowledge of period locks and sash window security.",
+    "Terraced housing in Katesgrove and central Caversham creates high-density shared-wall properties needing swift response.",
+    "Newer developments in Emmer Green and Reading West include modern uPVC and smart locks alongside traditional systems."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Caversham",
+    "overpass": "OSM Overpass bbox query, 7 named areas",
+    "coords": {
+      "lat": 51.4681022,
+      "lon": -0.9738896
+    }
+  },
+  "generated_at": "2026-05-13T18:07:51.862Z",
+  "all_areas": [
+    "Caversham",
+    "Caversham Heights",
+    "Caversham Park",
+    "Coley",
+    "Emmer Green",
+    "Katesgrove",
+    "Reading West"
+  ],
+  "geo": {
+    "latitude": 51.4681022,
+    "longitude": -0.9738896
+  },
+  "postcode_districts": [
+    "RG4"
+  ],
+  "postcode_meta": {
+    "RG4": {
+      "count": 2,
+      "sample": "RG4 7BP",
+      "admin": "Reading",
+      "via": "admin_ward=caversham heights"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+<Layout
+  title="Cookie Policy | {{name}}"
+  description="The cookies used on the {{name}} website and how to control them."
+>
+  <section class="max-w-3xl mx-auto px-5 py-16">
+    <p class="text-amber-600 font-semibold text-sm uppercase tracking-wide mb-3">Legal</p>
+    <h1 class="text-4xl mb-8">Cookie Policy</h1>
+    <div class="space-y-6 text-neutral-600 leading-relaxed">
+      <p>This website is a static site and sets no first-party tracking cookies. We do not run advertising or analytics scripts that profile you.</p>
+
+      <h2 class="text-2xl text-neutral-900 pt-4">Essential delivery</h2>
+      <p>Our hosting provider (Cloudflare) may set strictly-necessary cookies to deliver the site securely and protect it from abuse. These cannot be switched off through this site and hold no personal profile information.</p>
+
+      <h2 class="text-2xl text-neutral-900 pt-4">Controlling cookies</h2>
+      <p>You can block or delete cookies through your browser settings at any time. Blocking essential cookies may affect how the site loads.</p>
+
+      <h2 class="text-2xl text-neutral-900 pt-4">Questions</h2>
+      <p>If you have any questions about this policy, call us on {{phone}}.</p>
+    </div>
+  </section>
+</Layout>

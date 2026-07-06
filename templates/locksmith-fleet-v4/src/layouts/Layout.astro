@@ -1,0 +1,189 @@
+---
+import { Image } from "astro:assets";
+import "../styles/global.css";
+import { SERVICES } from "../data/services";
+import siteMeta from "../data/site-meta.json";
+import logo from "../assets{{logo_url}}";
+
+interface Props {
+  title: string;
+  description: string;
+}
+const { title, description } = Astro.props;
+
+const phone = "{{phone}}";
+const phoneHref = phone.replace(/\s/g, "");
+const businessName = "{{name}}";
+const location = "{{location}}";
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+// Never let a *.pages.dev staging deployment get indexed instead of the real
+// domain. Once the site is on its custom domain this evaluates to false.
+const isStaging = (Astro.site?.hostname ?? "").endsWith(".pages.dev") || Astro.url.hostname.endsWith(".pages.dev");
+
+const meta: any = siteMeta;
+const geo = meta.geo || null;
+const addr = meta.address || null;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Locksmith",
+  name: businessName,
+  telephone: phone,
+  url: Astro.site?.href,
+  areaServed: location,
+  priceRange: "££",
+  openingHours: "Mo-Su 00:00-24:00",
+  ...(geo ? { geo: { "@type": "GeoCoordinates", latitude: geo.lat, longitude: geo.lon } } : {}),
+  ...(addr ? { address: { "@type": "PostalAddress", ...(addr.street ? { streetAddress: addr.street } : {}), ...(addr.city ? { addressLocality: addr.city } : {}), ...(addr.postcode ? { postalCode: addr.postcode } : {}), addressCountry: "GB" } } : {}),
+};
+
+const NAV = [
+  { href: "/emergency-locksmith/", label: "Emergency" },
+  { href: "/locked-out/", label: "Locked Out" },
+  { href: "/lock-changes/", label: "Lock Changes" },
+  { href: "/door-repairs/", label: "Door Repairs" },
+  { href: "/safe-opening/", label: "Safes" },
+  { href: "/contact/", label: "Contact" },
+];
+const currentPath = Astro.url.pathname;
+---
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {isStaging && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="preload" href="/fonts/grotesk/SpaceGrotesk-Regular.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/grotesk/SpaceGrotesk-Medium.woff" as="font" type="font/woff" crossorigin />
+    <meta property="og:site_name" content={businessName} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </head>
+  <body>
+    <!-- Utility bar -->
+    <div class="bg-brandblue-dark text-white text-[13px]">
+      <div class="max-w-page mx-auto px-4 py-2 flex items-center justify-between gap-3 flex-wrap">
+        <span class="flex items-center gap-2">
+          <svg class="w-3.5 h-3.5 text-signal" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.7 13.3l5-5-1.4-1.4L8.7 10.5 7.4 9.1 6 10.5l2.7 2.8z" clip-rule="evenodd"/></svg>
+          Domestic &amp; commercial locksmiths — {location} and nearby
+        </span>
+        <a href={`tel:${phoneHref}`} class="font-semibold hover:text-signal transition">{phone}</a>
+      </div>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-white border-b border-slate-200 sticky top-0 z-40">
+      <div class="max-w-page mx-auto px-4 h-[76px] flex items-center justify-between gap-6">
+        <a href="/" class="flex items-center shrink-0" aria-label={businessName}>
+          <Image src={logo} alt={businessName} class="h-12 w-auto" height={48} />
+        </a>
+        <nav class="hidden lg:flex items-center gap-7 text-[15px] font-medium" aria-label="Primary">
+          <div class="relative group">
+            <button class="flex items-center gap-1 text-slate-700 hover:text-brandblue transition" aria-haspopup="true">
+              All services
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div class="absolute left-0 top-full pt-3 hidden group-hover:block group-focus-within:block z-50">
+              <div class="w-[30rem] bg-white border border-slate-200 rounded-xl shadow-lg p-3 grid grid-cols-2 gap-1">
+                {SERVICES.map((s) => (
+                  <a href={`/${s.slug}/`} class="px-3 py-2 rounded-lg text-sm text-slate-700 hover:bg-brandblue-tint hover:text-brandblue transition">{s.name}</a>
+                ))}
+              </div>
+            </div>
+          </div>
+          {NAV.map((item) => (
+            <a href={item.href} class={`transition ${currentPath === item.href ? "text-brandblue" : "text-slate-700 hover:text-brandblue"}`}>{item.label}</a>
+          ))}
+        </nav>
+        <a href={`tel:${phoneHref}`} class="inline-flex items-center gap-2 rounded-lg bg-signal text-white font-semibold text-sm px-5 py-3 hover:bg-signal-dark transition whitespace-nowrap">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          {phone}
+        </a>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <!-- Trust proof band (populate from real business data before launch) -->
+    <section class="bg-brandblue-tint border-y border-slate-200">
+      <div class="max-w-page mx-auto px-4 py-8 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+        <div><p class="text-2xl font-semibold text-brandblue">No call-out fee</p><p class="text-sm text-slate-600 mt-1">Price agreed before we attend</p></div>
+        <div><p class="text-2xl font-semibold text-brandblue">DBS-checked</p><p class="text-sm text-slate-600 mt-1">Vetted, uniformed engineers</p></div>
+        <div><p class="text-2xl font-semibold text-brandblue">Day or night</p><p class="text-sm text-slate-600 mt-1">Emergency cover, 7 days</p></div>
+        <div><p class="text-2xl font-semibold text-brandblue">Guaranteed</p><p class="text-sm text-slate-600 mt-1">Workmanship warranty</p></div>
+      </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="bg-brandblue text-white">
+      <div class="max-w-page mx-auto px-4 py-16 text-center">
+        <h2 class="text-3xl md:text-5xl font-semibold mb-4">Need a locksmith in {location}?</h2>
+        <p class="text-white/80 mb-8 text-lg">Talk to a local engineer now — non-destructive entry attempted first, price agreed up front.</p>
+        <a href={`tel:${phoneHref}`} class="inline-flex items-center gap-2 rounded-xl bg-signal text-white font-semibold text-lg px-9 py-4 hover:bg-signal-dark transition">
+          Call {phone}
+        </a>
+        <p class="text-white/60 text-sm mt-5">No call-out fee · Proof of address may be required for entry work</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-slate-300">
+      <div class="max-w-page mx-auto px-4 py-14">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
+          <div class="md:col-span-1">
+            <Image src={logo} alt={businessName} class="h-14 w-auto brightness-0 invert mb-4" height={56} />
+            <p class="text-sm leading-relaxed">Local domestic and commercial locksmiths covering {location} and the surrounding area. Non-destructive entry, insurance-standard locks, day or night.</p>
+            <a href={`tel:${phoneHref}`} class="inline-block mt-4 font-semibold text-signal">{phone}</a>
+          </div>
+          <div>
+            <h3 class="text-white font-semibold mb-4">Popular services</h3>
+            <ul class="space-y-2 text-sm">
+              {SERVICES.slice(0, 6).map((s) => (
+                <li><a href={`/${s.slug}/`} class="hover:text-white transition">{s.name}</a></li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-white font-semibold mb-4">More services</h3>
+            <ul class="space-y-2 text-sm">
+              {SERVICES.slice(6).map((s) => (
+                <li><a href={`/${s.slug}/`} class="hover:text-white transition">{s.name}</a></li>
+              ))}
+            </ul>
+          </div>
+          <div>
+            <h3 class="text-white font-semibold mb-4">Information</h3>
+            <ul class="space-y-2 text-sm">
+              <li><a href="/contact/" class="hover:text-white transition">Contact us</a></li>
+              <li><a href="/privacy/" class="hover:text-white transition">Privacy Policy</a></li>
+              <li><a href="/cookie/" class="hover:text-white transition">Cookie Policy</a></li>
+            </ul>
+            <p class="text-xs text-slate-500 mt-5 leading-relaxed">Open 24 hours, 7 days a week for emergencies. Payment by card accepted.</p>
+          </div>
+        </div>
+        <div class="border-t border-white/10 mt-10 pt-6 text-sm text-slate-400 flex items-center justify-between flex-wrap gap-2">
+          <span>&copy; {new Date().getFullYear()} {businessName}</span>
+          <span>{location} · Domestic &amp; commercial locksmith services</span>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Mobile sticky call bar -->
+    <div class="lg:hidden fixed bottom-0 inset-x-0 z-50 bg-slate-900 p-3">
+      <a href={`tel:${phoneHref}`} class="flex items-center justify-center gap-2 rounded-lg bg-signal text-white font-semibold py-3">
+        Call {phone} — open now
+      </a>
+    </div>
+    <div class="lg:hidden h-16"></div>
+  </body>
+</html>

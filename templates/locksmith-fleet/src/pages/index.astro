@@ -1,0 +1,869 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import hero from "../assets/services/Broken key in lock.png"
+import lock from "../assets/services/broken_key in lock.png"
+import lock1 from "../assets/services/Lockpicking locksmith.png"
+import { Image } from "astro:assets";
+import emergency from "../assets/services/emergnecy boarding.png"
+import doorReplace from "../assets/services/door handle repair.png"
+import doorlockinstal from "../assets/services/Door lock installation 1.png"
+import lockChanges from "../assets/services/Broken lock repair.png"
+import lockrepair from "../assets/services/Broken lock repair.png"
+import doorRepair from "../assets/services/door repairs.png"
+import windowLockRepair from "../assets/services/window lock repair.png"
+import emergencyBoard from "../assets/services/Emergency boarding up.png"
+import Burgler from "../assets/services/burglar repairs.png"
+import safeOpen from "../assets/services/Safe opening.png"
+import safeInstall from "../assets/services/Safe installation.png"
+import KeyRemoval from "../assets/services/broken key in euro lock.png"
+import LockedOut from "../assets/services/Locked out of house image.png"
+
+const services = [
+  { title: "Broken key removal", slug: "/broken-key-removal/", image: KeyRemoval },
+  { title: "Burglar repair service", slug: "/burglar-repair-service/", image: Burgler },
+  { title: "Door lock installation", slug: "/door-lock-installation/", image: doorlockinstal },
+  { title: "Door lock replacement", slug: "/door-lock-replacement/", image: doorReplace },
+  { title: "Door repairs", slug: "/door-repairs/", image: doorRepair },
+  { title: "Emergency boarding up", slug: "/emergency-boarding-up/", image: emergencyBoard },
+  { title: "Emergency Locksmith", slug: "/emergency-locksmith/", image: emergency },
+  { title: "Lock changes", slug: "/lock-changes/", image: lockChanges },
+  { title: "Lock repairs", slug: "/lock-repairs/", image: lockrepair },
+  { title: "Locked Out", slug: "/locked-out/", image: LockedOut },
+  { title: "Safe Installation", slug: "/safe-installation/", image: safeInstall },
+  { title: "Safe Opening", slug: "/safe-opening/", image: safeOpen },
+  { title: "Window lock repair & replacement", slug: "/window-lock-repair-replacement/", image: windowLockRepair },
+];
+
+
+const trustBadges = [
+  { text: "No Call-Out Fee", icon: "💸" },
+  { text: "Non-Destructive Entry", icon: "🔧" },
+  { text: "Fully Insured", icon: "📋" },
+  { text: "Local Experts", icon: "📍" },
+  { text: "24/7 Availability", icon: "⏰" },
+  { text: "Upfront Pricing", icon: "💎" },
+];
+
+// Enrichment overlay: per-site AI-generated regions. Falls back to seed copy when key is absent.
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const metaTitle = e["meta.title"] ?? `Locksmith in {{location}}`;
+const metaDescription = e["meta.description"] ?? `Trusted local locksmith in {{location}}. Emergency call-outs, lock changes, repairs, and security upgrades for homes and businesses.`;
+const heroParagraph = e["home.hero-paragraph"] ?? `24/7 Local Locksmith in {{location}} • Rapid Arrival 30–60 Mins • Damage-Free First • Quote Confirmed Before Work • Parts Carried • DBS Checked, Fully Insured.`;
+const localHeading: string | null = e["home.local-context-heading"] ?? null;
+const localBody: string | null = e["home.local-context-body"] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e["home.local-faqs"]) ? e["home.local-faqs"] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e["home.areas-covered"]) ? e["home.areas-covered"] : [];
+
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Call Us 24/7</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">Rapid Response (30–60 Mins)</span>
+        
+        <span class="px-3">No Call-Out Fee</span>
+        
+        <span class="px-3">24/7 Locksmith Help</span>
+        
+      </div>
+    </div>
+
+    <!-- Main content -->
+    <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Local Locksmith in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              24/7 Emergency Locksmith Help
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We provide 24/7 locksmith help for lockouts, failed locks, and urgent security issues across {{location}}.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Damage-Free Entry First
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We use non-destructive entry first and repair or replace only what’s needed to restore safe access.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Clear Upfront Pricing
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              You get an upfront price confirmed before work, with clear options explained and quotes available.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Trusted Local Technician
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              DBS checked, fully insured local technician with parts carried, clean workmanship, and work guaranteed.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <button
+          class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4"
+        >
+        <a  href="tel:{{phone_tel}}">
+          Call Now for Locksmith
+        </a>
+         
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+  <!-- Hero Section with Background Image -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <!-- Background Image + Gradient Overlay -->
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt={`Professional locksmith service in {{location}}`}
+        width={1200}
+        height={600}
+        loading="eager"
+        fetchpriority="high"
+        class="w-full h-full object-cover brightness-75 contrast-125"
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/60 via-neutral-900/40 to-amber-500/20"></div>
+    </div>
+  
+    <!-- Hero Content -->
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        
+        <!-- Text Section -->
+        <div class="space-y-6">
+          <h2 class="text-4xl md:text-6xl lg:text-7xl font-extrabold leading-tight">
+            Locksmith in <span class="text-amber-400">{{location}}</span>
+          </h2>
+          <p class="text-2xl font-semibold text-amber-300">Local Locksmithing Services</p>
+  
+          <div class="mt-6 text-lg text-neutral-300 leading-relaxed space-y-4">
+            <p>
+              Locked out? Key snapped? Need your locks changed today? {{name}} is a trusted locksmith company providing a fast, professional locksmith service in {{location}} for homes and businesses. As a leading local locksmith company, we are committed to delivering reliable and high-quality security solutions.
+            </p>
+            <p>
+              The locksmith industry is vast and ever-growing, covering domestic and commercial service to meet a wide range of security needs.
+            </p>
+            <p>
+              From emergency call-outs to planned lock upgrades, we aim to get you secure again quickly—with clear communication and practical advice. Our comprehensive services include all locksmith expertise. We are dedicated to enhancing your home security with expert assessments and the latest security products.
+            </p>
+          </div>
+  
+          <!-- Buttons -->
+          <div class="mt-10 flex flex-col sm:flex-row gap-4">
+            <a
+              href="tel:{{phone_tel}}"
+              class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-2xl font-bold text-lg shadow-lg hover:bg-amber-400 transition-all duration-300 hover:scale-[1.03] hover:shadow-amber-500/30"
+            >
+              <span class="text-xl">📞</span>
+              Call Emergency 24/7
+            </a>
+         
+          </div>
+        </div>
+  
+   
+  
+      </div>
+    </div>
+  </section>
+  
+
+  <!-- Trust Indicators -->
+ 
+
+  <!-- Locksmith services we offer in [location] -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Locksmith services we offer in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <p class="mt-6 text-lg text-neutral-700">
+          We can help with most residential and commercial lock issues, including:
+        </p>
+      </div>
+      <div class="max-w-7xl mx-auto mt-16">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-14">
+          {services.map((service) => (
+            <a
+              href={service.slug}
+              class="flex items-center text-left group" 
+            >
+              {/* Circular Image */}
+              <div class="w-20 h-20 rounded-full overflow-hidden bg-neutral-100 flex-shrink-0">
+                <Image
+                  src={service.image}
+                  alt={service.title}
+                  width={160}
+                  height={160}
+                  loading="lazy"
+                  class="w-full h-full object-cover"
+                />
+              </div>
+      
+              {/* Title next to image - vertically centered */}
+              <div class="ml-4">
+                <h3 class="text-[20px] leading-tight font-serif font-semibold text-neutral-900 mb-0 group-hover:text-neutral-700 transition">
+                  {service.title}
+                </h3>
+                {/* If you add description, you might want to remove mb-0 above */}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+      
+        
+      <div class="mt-12 max-w-4xl mx-auto text-center">
+        <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+          <p class="text-neutral-800">
+            We provide locksmith services for a wide range of jobs, from emergency lock outs and gaining entry to high-security lock installations and digital/keyless entry systems.
+          </p>
+          <p class="mt-4 text-neutral-800">
+            If you're not sure what you need, tell us what's happening and we'll advise the quickest fix.
+          </p>
+        </div>
+      </div>
+    </div>
+  
+  </section>
+
+  <!-- When you should call a locksmith -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          When you should call a locksmith
+        </h2>
+        <p class="mt-6 text-lg text-neutral-700">
+          Call a locksmith in {{location}} if:
+        </p>
+      </div>
+        
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>You're locked out of your property</li>
+            <li>Your key is stuck, snapped, or spinning</li>
+            <li>Your lock is jammed, stiff, or not latching properly</li>
+            <li>You've had a break-in or attempted burglary</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>You've lost your keys (or keys may be compromised) and need professional help replacing lost keys</li>
+            <li>You're moving in and want same-day lock changes</li>
+            <li>A uPVC door won't lock or unlock (often a multipoint issue)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="p-6 bg-neutral-100 border border-neutral-300 rounded-2xl">
+            <p class="text-neutral-800">
+              The locksmith industry is always in demand, as people frequently lose keys or lock themselves out.
+            </p>
+            <p class="mt-4 text-neutral-800">
+              Emergency callouts are available for urgent situations.
+            </p>
+            <p class="mt-4 font-semibold text-neutral-900">
+              If there's an immediate safety risk, contact emergency services first.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency locksmith in [location] -->
+  <section class="bg-gradient-to-br from-neutral-900 via-neutral-800 to-amber-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold">
+            Emergency locksmith in <span class="text-amber-400">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-300">
+            <p>
+              For urgent situations, we prioritize rapid attendance and a clear plan of action. Common emergencies include lockouts, failed locks at night, broken keys, and post-burglary lock damage.
+            </p>
+            <p>
+              Emergency callouts are available 24/7, and our locksmiths offer this service to assist customers who are locked out at any hour. We aim to arrive within an hour of your call for assistance. Our locksmiths do not charge a call-out fee for emergency services, only charging for the work performed.
+            </p>
+            <p>
+              Where possible, we aim for non-destructive entry—and if parts are required, we'll explain options before any work begins.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Emergency locksmith service responding to call"
+              width={800}
+              height={400}
+              loading="lazy"
+              class="w-full h-[400px] object-cover"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/50 to-transparent"></div>
+            
+        
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Locked out? Gain entry without unnecessary damage -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Locked out? Gain entry without unnecessary damage
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Being locked out is stressful. Our approach is simple:
+          </p>
+        </div>
+      </div>
+        
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="space-y-4 text-left">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-2xl mt-1">1.</span>
+              <div>
+                <span class="font-medium text-neutral-900">Gaining entry is a core service:</span>
+                <span> we assess the door and lock type and use non-destructive, professional techniques to unlock your door or vehicle without damage</span>
+              </div>
+            </div>
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-2xl mt-1">2.</span>
+              <div>
+                <span class="font-medium text-neutral-900">Get you back in</span>
+                <span> and confirm the lock is working safely</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="space-y-4 text-left">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-2xl mt-1">3.</span>
+              <div>
+                <span class="font-medium text-neutral-900">If needed, recommend repair or replacement</span>
+                <span> (only when necessary)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800">
+              After regaining entry, we always emphasize the importance of properly securing both windows and doors to maintain your home security.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock changes & lock upgrades -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Lock changes & lock upgrades
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Lock changes are recommended if:
+          </p>
+        </div>
+      </div>
+        
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>You've moved into a new property</li>
+            <li>Keys are lost or stolen</li>
+            <li>A relationship breakdown means access control has changed</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Your lock has been forced or is failing</li>
+            <li>You want better security (e.g., anti-snap protection)</li>
+            <li>You are looking to improve home security by changing locks or upgrading to high-security locks</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              We can supply and fit suitable locks, including high-security options, and advise on security improvements based on your door type. Upgrading to high-security locks is an effective way to enhance home security and can significantly reduce the risk of break-ins.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC door locks & multipoint lock repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          uPVC door locks & multipoint lock repairs
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Many "door won't lock" problems come from:
+          </p>
+        </div>
+      </div>
+        
+      <div class="mt-10 max-w-2xl mx-auto">
+        <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+          <li>Misalignment (door dropped slightly)</li>
+          <li>Worn gearbox or multipoint mechanism</li>
+          <li>Faulty euro cylinder</li>
+        </ul>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              We'll diagnose the issue and fix the most cost-effective solution—often without needing a full door replacement.
+            </p>
+            <p class="mt-4">
+              Similar repair and security services are also available for uPVC windows.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Residential & commercial locksmith services -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl font-bold text-neutral-900">
+            Residential & commercial locksmith services
+          </h2>
+          
+          <div class="mt-8">
+            <h3 class="text-2xl font-bold text-neutral-900">
+              Residential locksmith in {{location}}
+            </h3>
+            <p class="mt-4 text-lg text-neutral-700">
+              Ideal for homes, flats, HMOs, landlords, and letting agents—lockouts, lock changes, and repairs handled quickly and discreetly. Home security is essential for protecting your property and loved ones, and regular inspections of your locks and security systems help ensure ongoing safety and peace of mind.
+            </p>
+          </div>
+          
+          <div class="mt-12">
+            <h3 class="text-2xl font-bold text-neutral-900">
+              Commercial locksmith in {{location}}
+            </h3>
+            <p class="mt-4 text-lg text-neutral-700">
+              Support for shops, offices, and sites needing secure access—repairs, lock replacements, and security upgrades to protect staff, stock, and property. As a trusted locksmith company, we not only provide lock and access solutions but also advise on educating employees about security protocols to further improve your business security.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock1}
+              alt="Commercial locksmith services"
+              width={800}
+              height={500}
+              loading="lazy"
+              class="w-full h-[500px] object-cover"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/50 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Locksmith training and qualifications -->
+  <section class="py-24 bg-gradient-to-r from-neutral-900 to-neutral-800 text-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Locksmith training and qualifications: our expertise explained
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-300">
+          <p>
+            At {{name}}, we believe that expert knowledge and ongoing training are the foundation of outstanding locksmith services. Our team of professional locksmiths is fully trained to the highest standards, ensuring that every job—whether for domestic or commercial customers—is completed with skill, care, and attention to detail.
+          </p>
+          <p>
+            We are proud members of the Master Locksmiths Association, the leading authority in the UK security industry. This means our locksmiths undergo rigorous training courses and regular assessments to stay up-to-date with the latest techniques and security systems. From lock picking and safe opening to non-destructive entry methods, our expertise covers the full range of locksmithing skills needed to provide complete peace of mind for our customers.
+          </p>
+          <p>
+            Our commitment to excellence extends to every aspect of our service. Whether you need replacement car keys, burglary repairs, or a full alarm system installation, you can trust our team to deliver reliable solutions tailored to your needs. We provide 24-hour emergency locksmith services with no call-out fee, so you can count on us whenever you need help—day or night.
+          </p>
+          <p>
+            For business security, we offer advanced solutions to protect commercial properties, including key cutting, lock changes, and the installation of alarm systems. Our locksmiths are DBS-checked and fully insured, giving you confidence that your property is in safe hands. We work with both domestic and commercial customers across {{location}} and the surrounding areas, providing advice and support to keep your home or business secure.
+          </p>
+          <p>
+            At {{name}} our goal is to provide a complete, professional service for every customer. Whether you need emergency locksmith assistance or want to upgrade your security, our team is here to help. Contact us today for expert advice or to book a service you can trust.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to expect when you call us -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What to expect when you call us
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">1</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Tell us what's happened and your location in {{location}}
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">2</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  We provide an ETA and explain likely solutions
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">3</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Our locksmith arrives carrying all necessary tools and parts, and presents photo ID for your peace of mind
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">4</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  On arrival, we assess the lock/door and confirm options
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">5</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Before starting work, you receive a detailed invoice listing our business address, name, and a clear breakdown of charges
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">6</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  We complete the work and test everything thoroughly
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">7</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  You receive aftercare advice (and a receipt/invoice)
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Locksmith pricing in [location] -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Locksmith pricing in {{location}}: what affects the cost?
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Costs vary depending on:
+          </p>
+        </div>
+      </div>
+        
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Time of day (day vs night/weekend)</li>
+            <li>Type of lock/door (e.g., uPVC multipoint vs standard cylinder)</li>
+            <li>Whether parts are required (cylinder, gearbox, handle set, etc.)</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Complexity and time needed for safe entry or repair</li>
+            <li>Commercial vs residential access requirements</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800 font-medium">
+              If you describe the issue, we can usually give a clear estimate range before dispatch.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why choose [BUSINESS NAME]? -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Why choose <span class="text-amber-500">{{name}}</span>?
+        </h2>
+      </div>
+      
+      <div class="mt-12 max-w-6xl mx-auto">
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Item 1 -->
+          <div class="p-6 bg-neutral-50 rounded-2xl flex items-center">
+            <div class="text-3xl mr-4 flex-shrink-0">⏰</div>
+            <p class="font-medium text-neutral-900">24/7 availability for urgent call-outs</p>
+          </div>
+          
+          <!-- Item 2 -->
+          <div class="p-6 bg-neutral-50 rounded-2xl flex items-center">
+            <div class="text-3xl mr-4 flex-shrink-0">📍</div>
+            <p class="font-medium text-neutral-900">Local coverage across {{location}}</p>
+          </div>
+          
+          <!-- Item 3 -->
+          <div class="p-6 bg-neutral-50 rounded-2xl flex items-center">
+            <div class="text-3xl mr-4 flex-shrink-0">👨‍🔧</div>
+            <p class="font-medium text-neutral-900">Professional, respectful service in stressful situations</p>
+          </div>
+          
+          <!-- Item 4 -->
+          <div class="p-6 bg-neutral-50 rounded-2xl flex items-center">
+            <div class="text-3xl mr-4 flex-shrink-0">🔧</div>
+            <p class="font-medium text-neutral-900">Repair-first mindset (replace only when needed)</p>
+          </div>
+          
+          <!-- Item 5 -->
+          <div class="p-6 bg-neutral-50 rounded-2xl flex items-center">
+            <div class="text-3xl mr-4 flex-shrink-0">🛡️</div>
+            <p class="font-medium text-neutral-900">Security-focused advice for preventing repeat issues</p>
+          </div>
+          
+    
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Areas we cover -->
+
+
+  {localHeading && localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">{localHeading}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Frequently asked questions -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Frequently asked questions
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How fast can you get to me in {{location}}?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We'll give an accurate ETA when you call, based on demand and travel time in {{location}}.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you open my door without breaking the lock?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes—depending on the lock type and how it's secured. We always aim for non-destructive entry where possible.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do I need to prove I live there?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                For security, we may ask for ID or proof of occupancy—especially for lock changes. If you're locked out, we'll explain your options on arrival.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Should I change locks after moving house?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It's strongly recommended. You can't be sure who still has copies of old keys.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you repair uPVC multipoint locks?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes—these are common call-outs. We'll diagnose whether it's alignment, cylinder, or mechanism-related.
+              </p>
+            </div>
+
+            {localFaqs.map((f) => (
+              <div class="text-left">
+                <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+                <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-6xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-3 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-2 max-w-2xl mx-auto"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <p class="text-center text-neutral-600 mb-8 max-w-2xl mx-auto text-sm">A locksmith call-out anywhere in {{location}} — these are the named areas we routinely attend.</p>
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Book a locksmith in {{location}}
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            If you need a locksmith today—emergency or planned—get in touch and we'll help you choose the quickest, safest option.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+     
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-transparent border-2 border-white text-white px-8 py-4 rounded-xl font-medium hover:bg-white/10 transition-all duration-300"
+          >
+            <span>📞</span>
+            Call 24/7 Emergency
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a 
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call 24/7 Locksmith in {{location}}</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</MainLayout>

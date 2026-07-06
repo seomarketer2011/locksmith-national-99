@@ -1,0 +1,111 @@
+{
+  "location": "Westhoughton",
+  "neighborhoods": [
+    {
+      "name": "Daisy Hill",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "older residential core"
+    },
+    {
+      "name": "Hag Fold",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "established suburban area"
+    },
+    {
+      "name": "Hindley Green",
+      "era": "mixed Victorian and post-war",
+      "types": [
+        "terrace",
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Hunger Hill",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ]
+    },
+    {
+      "name": "Lostock",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic mill-area terraces"
+    },
+    {
+      "name": "Wingates",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "suburban expansion area"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "predominantly Victorian and interwar with post-war infill",
+    "notable": "Strong terraced housing legacy from cotton-mill era; significant council stock from 1950s–80s expansion."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces and interwar semis dominate, often featuring original mortice locks and timber frames requiring specialist expertise.",
+    "Post-war council estates have standardised locks; bulk re-keying and communal door maintenance drive regular commercial work.",
+    "Mill-era properties near Lostock may have heritage locks; period-appropriate replacements often needed for listed conservation."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Westhoughton",
+    "overpass": "OSM Overpass bbox query, 6 named areas",
+    "coords": {
+      "lat": 53.5502444,
+      "lon": -2.522608
+    }
+  },
+  "generated_at": "2026-05-13T18:04:48.980Z",
+  "all_areas": [
+    "Daisy Hill",
+    "Hag Fold",
+    "Hindley Green",
+    "Hunger Hill",
+    "Lostock",
+    "Wingates"
+  ],
+  "geo": {
+    "latitude": 53.5502444,
+    "longitude": -2.522608
+  },
+  "postcode_districts": [
+    "BL3",
+    "BL5"
+  ],
+  "postcode_meta": {
+    "BL5": {
+      "count": 2,
+      "sample": "BL5 3PP",
+      "admin": "Bolton",
+      "via": "admin_ward=westhoughton north & hunger hill"
+    },
+    "BL3": {
+      "count": 1,
+      "sample": "BL3 4SS",
+      "admin": "Bolton",
+      "via": "admin_ward=westhoughton north & hunger hill"
+    }
+  }
+}

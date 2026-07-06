@@ -1,0 +1,112 @@
+{
+  "location": "Royal Leamington Spa",
+  "neighborhoods": [
+    {
+      "name": "Lillington",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "large residential ward, mixed housing stock"
+    },
+    {
+      "name": "Milverton",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "established central area, period properties"
+    },
+    {
+      "name": "Cubbington",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "outlying village character, dispersed properties"
+    },
+    {
+      "name": "Radford Semele",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "terrace"
+      ],
+      "notes": "separate parish, older core with modern expansion"
+    },
+    {
+      "name": "Sydenham",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburb, period character maintained"
+    },
+    {
+      "name": "Myton Park",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached"
+      ],
+      "notes": "recent development, contemporary security expectations"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "mixed Victorian and post-war residential",
+    "notable": "Spa town with significant Victorian/Edwardian villas; substantial post-1945 suburban growth around core."
+  },
+  "locksmith_relevant": [
+    "Victorian villas and Edwardian terraces dominate central Milverton; period locks and sash windows require specialist knowledge.",
+    "Post-war suburbs (Lillington, Sydenham) feature standard mortice and lever locks; high domestic call volume for routine access.",
+    "Modern developments like Myton Park increasingly demand smart locks and multi-point systems; locksmith upskilling essential for market share."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Royal%20Leamington%20Spa",
+    "overpass": "OSM Overpass bbox query, 6 named areas",
+    "coords": {
+      "lat": 52.2913394,
+      "lon": -1.536404
+    }
+  },
+  "generated_at": "2026-05-13T18:08:19.546Z",
+  "all_areas": [
+    "Cubbington",
+    "Lillington",
+    "Milverton",
+    "Myton Park",
+    "Radford Semele",
+    "Sydenham"
+  ],
+  "geo": {
+    "latitude": 52.2913394,
+    "longitude": -1.536404
+  },
+  "postcode_districts": [
+    "CV31",
+    "CV32"
+  ],
+  "postcode_meta": {
+    "CV32": {
+      "count": 2,
+      "sample": "CV32 7SJ",
+      "admin": "Warwick",
+      "via": "parish=royal leamington spa"
+    },
+    "CV31": {
+      "count": 1,
+      "sample": "CV31 1QS",
+      "admin": "Warwick",
+      "via": "parish=royal leamington spa"
+    }
+  }
+}

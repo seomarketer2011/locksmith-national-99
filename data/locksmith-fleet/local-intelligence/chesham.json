@@ -1,0 +1,55 @@
+{
+  "location": "Chesham",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "era": "medieval to Victorian",
+      "types": [
+        "terraced",
+        "listed buildings"
+      ],
+      "notes": "conservation area with historic timber-frame and period locks"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terraced",
+      "period cottage"
+    ],
+    "era": "mixed Victorian and interwar with modern infill",
+    "notable": "Chiltern market town with strong heritage stock; many original sash windows and period hardware"
+  },
+  "locksmith_relevant": [
+    "Old Town's listed properties often retain period locks requiring specialist knowledge and heritage-compliant repairs.",
+    "High proportion of Victorian terraces means frequent sash-window lock and traditional bolt servicing work.",
+    "Commuter-belt location creates demand for emergency callouts from London workers with older residential stock."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Chesham",
+    "overpass": "OSM Overpass bbox query, 1 named areas",
+    "coords": {
+      "lat": 51.705012,
+      "lon": -0.6110784
+    }
+  },
+  "generated_at": "2026-05-13T18:07:11.356Z",
+  "all_areas": [
+    "Old Town"
+  ],
+  "geo": {
+    "latitude": 51.705012,
+    "longitude": -0.6110784
+  },
+  "postcode_districts": [
+    "HP5"
+  ],
+  "postcode_meta": {
+    "HP5": {
+      "count": 1,
+      "sample": "HP5 1LP",
+      "admin": "Buckinghamshire",
+      "via": "admin_ward=chesham south"
+    }
+  }
+}

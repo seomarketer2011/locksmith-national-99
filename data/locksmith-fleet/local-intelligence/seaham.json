@@ -1,0 +1,114 @@
+{
+  "location": "Seaham",
+  "neighborhoods": [
+    {
+      "name": "Dalton Heights",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "elevated residential area, family homes"
+    },
+    {
+      "name": "Dawdon",
+      "era": "interwar",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "former colliery village, working-class housing stock"
+    },
+    {
+      "name": "Deneside",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "historic mining settlement, tightly-spaced properties"
+    },
+    {
+      "name": "Eastlea",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area, mixed residential"
+    },
+    {
+      "name": "Northlea",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "planned residential development"
+    },
+    {
+      "name": "Parkside",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "established residential quarter"
+    },
+    {
+      "name": "Westlea",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "western residential expansion, newer housing"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council housing"
+    ],
+    "era": "mixed Victorian mining terraces and post-war suburban development",
+    "notable": "Significant legacy of colliery housing; substantial post-1945 expansion. Coastal location with salt-air corrosion affecting older locks and frames."
+  },
+  "locksmith_relevant": [
+    "Mining-era terraces have original Victorian locks; many require specialist restoration or period-appropriate replacement.",
+    "Post-war semi-detached properties predominate; standard modern security upgrades and double-glazed door locks are high-demand services.",
+    "Coastal exposure accelerates corrosion of external locks and hinges; preventative maintenance and weatherproof fitting is essential here."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Seaham",
+    "overpass": "OSM Overpass bbox query, 7 named areas",
+    "coords": {
+      "lat": 54.8372106,
+      "lon": -1.3355612
+    }
+  },
+  "generated_at": "2026-05-13T18:12:39.000Z",
+  "all_areas": [
+    "Dalton Heights",
+    "Dawdon",
+    "Deneside",
+    "Eastlea",
+    "Northlea",
+    "Parkside",
+    "Westlea"
+  ],
+  "geo": {
+    "latitude": 54.8372106,
+    "longitude": -1.3355612
+  },
+  "postcode_districts": [
+    "SR7"
+  ],
+  "postcode_meta": {
+    "SR7": {
+      "count": 6,
+      "sample": "SR7 0DN",
+      "admin": "County Durham",
+      "via": "admin_ward=seaham"
+    }
+  }
+}

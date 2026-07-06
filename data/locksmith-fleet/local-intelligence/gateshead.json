@@ -1,0 +1,208 @@
+{
+  "location": "Gateshead",
+  "neighborhoods": [
+    {
+      "name": "Bensham",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential area"
+    },
+    {
+      "name": "Low Fell",
+      "era": "Victorian",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "affluent suburb, period properties"
+    },
+    {
+      "name": "High Heaton",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban character"
+    },
+    {
+      "name": "Heaton",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "mixed residential"
+    },
+    {
+      "name": "Felling",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic working-class area"
+    },
+    {
+      "name": "Lobley Hill",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "semi-detached"
+      ],
+      "notes": "1950s–60s development"
+    },
+    {
+      "name": "Teams",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "dense Victorian streets"
+    },
+    {
+      "name": "Deckham",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Byker",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "flat"
+      ],
+      "notes": "high-density student and rental area"
+    },
+    {
+      "name": "Grainger Town",
+      "era": "post-war",
+      "types": [
+        "flat",
+        "mixed-use"
+      ],
+      "notes": "town centre, modern conversion"
+    },
+    {
+      "name": "Wrekenton",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban commuter area"
+    },
+    {
+      "name": "Arthur's Hill",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "hillside Victorian terraces"
+    },
+    {
+      "name": "Mount Pleasant",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "elevated residential"
+    },
+    {
+      "name": "Sandyford",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "dense period housing"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "Victorian terrace",
+      "semi-detached",
+      "council estate",
+      "flat"
+    ],
+    "era": "predominantly pre-1945 with significant post-war council stock",
+    "notable": "High concentration of period terraces in inner areas; suburban expansion interwar stock; modern flat conversions in town centre."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces dominate inner Gateshead; many have original period locks requiring specialist knowledge and compatibility skills.",
+    "Post-war council estates (Lobley Hill, Byker) feature standardized aluminum-frame fenestration and keyed communal access—high-volume lock change demand.",
+    "Student HMO density in Byker and town centre creates emergency callout demand for lost keys, broken cylinders, and access lockouts year-round."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Gateshead",
+    "overpass": "OSM Overpass bbox query, 22 named areas",
+    "coords": {
+      "lat": 54.9625789,
+      "lon": -1.6019294
+    }
+  },
+  "generated_at": "2026-05-13T12:23:14.193Z",
+  "all_areas": [
+    "Arthur's Hill",
+    "Battle Field",
+    "Bensham",
+    "Byker",
+    "Cradlewell",
+    "Deckham",
+    "Felling",
+    "Grainger Town",
+    "Haymarket",
+    "Heaton",
+    "High Heaton",
+    "Jesmond",
+    "Lobley Hill",
+    "Low Fell",
+    "Mount Pleasant",
+    "Ochre Yards",
+    "Sandyford",
+    "Shieldfield",
+    "Spital Tongues",
+    "St. Peter's",
+    "Teams",
+    "Wrekenton"
+  ],
+  "geo": {
+    "latitude": 54.9625789,
+    "longitude": -1.6019294
+  },
+  "postcode_districts": [
+    "NE10",
+    "NE11",
+    "NE8",
+    "NE9"
+  ],
+  "postcode_meta": {
+    "NE10": {
+      "count": 1,
+      "sample": "NE10 9NU",
+      "admin": "Gateshead"
+    },
+    "NE11": {
+      "count": 1,
+      "sample": "NE11 0AY",
+      "admin": "Gateshead"
+    },
+    "NE8": {
+      "count": 4,
+      "sample": "NE8 4QH",
+      "admin": "Gateshead"
+    },
+    "NE9": {
+      "count": 3,
+      "sample": "NE9 5JJ",
+      "admin": "Gateshead"
+    }
+  }
+}

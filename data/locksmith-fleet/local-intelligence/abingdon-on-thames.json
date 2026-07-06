@@ -1,0 +1,153 @@
+{
+  "location": "Abingdon-on-Thames",
+  "neighborhoods": [
+    {
+      "name": "Drayton",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "conservation area with listed properties"
+    },
+    {
+      "name": "Northcourt",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Peachcroft",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential expansion"
+    },
+    {
+      "name": "Radley",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "terrace",
+        "detached",
+        "new-build"
+      ]
+    },
+    {
+      "name": "Radley Park",
+      "era": "modern",
+      "types": [
+        "new-build",
+        "detached"
+      ]
+    },
+    {
+      "name": "Sutton Courtenay",
+      "era": "pre-1945",
+      "types": [
+        "terrace",
+        "cottage"
+      ],
+      "notes": "riverside conservation area"
+    },
+    {
+      "name": "Upper Radley",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Wootton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ]
+    },
+    {
+      "name": "Appleford-on-Thames",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "cottage"
+      ],
+      "notes": "rural fringe, Thames-side"
+    },
+    {
+      "name": "Culham",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "modern"
+      ],
+      "notes": "institutional and residential mix"
+    },
+    {
+      "name": "Shippon",
+      "era": "post-war",
+      "types": [
+        "semi-detached"
+      ]
+    },
+    {
+      "name": "Sunningwell",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "village character"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "mixed Victorian through post-war; significant interwar and modern growth",
+    "notable": "historic riverside core with conservation areas; post-war suburban expansion dominates outer neighbourhoods"
+  },
+  "locksmith_relevant": [
+    "Historic terrace properties in Drayton and Sutton Courtenay often have period locks and listed-status restrictions on modifications.",
+    "Post-war semis across Peachcroft, Wootton, and Radley frequently need uPVC door and modern cylinder lock servicing.",
+    "Thames-side locations prone to damp; wooden sash windows and older ironmongery require specialist attention and corrosion management."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Abingdon-on-Thames",
+    "overpass": "OSM Overpass bbox query, 16 named areas",
+    "coords": {
+      "lat": 51.6714842,
+      "lon": -1.2779715
+    }
+  },
+  "generated_at": "2026-05-13T18:06:39.690Z",
+  "all_areas": [
+    "Appleford-on-Thames",
+    "Caldecott",
+    "Culham",
+    "Drayton",
+    "Lamborough Hill",
+    "Long Furlong",
+    "Northcourt",
+    "Peachcroft",
+    "Radley",
+    "Radley Park",
+    "Shippon",
+    "Sunningwell",
+    "Sutton Courtenay",
+    "Upper Radley",
+    "Wildmoor",
+    "Wootton"
+  ],
+  "geo": {
+    "latitude": 51.6714842,
+    "longitude": -1.2779715
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

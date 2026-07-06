@@ -1,0 +1,35 @@
+{
+  "location": "Runcorn",
+  "neighborhoods": [],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "council estate",
+      "flat"
+    ],
+    "era": "mixed Victorian terraces and extensive post-war social housing",
+    "notable": "significant post-1960s new town expansion; large proportion of public housing stock requiring bulk lock maintenance and rekeying services"
+  },
+  "locksmith_relevant": [
+    "Runcorn's rapid 1960s–80s expansion created many council estates with standardised locks; bulk master-key systems remain common across housing associations.",
+    "Victorian and Edwardian terraces in older quarters demand period-appropriate rim locks and mortice repairs; listed-building compliance adds specialisation need.",
+    "High density of rental HMOs and multi-occupancy flats (student lets, shared housing) drive frequent lock changes and access-control retrofits."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Runcorn",
+    "overpass": null,
+    "coords": {
+      "lat": 53.3421509,
+      "lon": -2.7334941
+    }
+  },
+  "generated_at": "2026-05-13T12:32:47.069Z",
+  "all_areas": [],
+  "geo": {
+    "latitude": 53.3421509,
+    "longitude": -2.7334941
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

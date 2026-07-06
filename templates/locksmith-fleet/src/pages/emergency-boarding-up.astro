@@ -1,0 +1,1005 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/emergnecy boarding.png";
+import lock from "../assets/services/Emergency boarding up.png";
+import lock2 from "../assets/services/emergnecy boarding.png";
+import lock3 from "../assets/services/Emergency boarding up.png";
+import lock4 from "../assets/services/emergnecy boarding.png";
+
+// Enrichment overlay for service: emergency-boarding-up
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "emergency-boarding-up";
+const metaTitle = e[`${slug}.meta.title`] ?? `Emergency Boarding Up {{location}} | 24/7 Rapid Response `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency boarding up in {{location}} after break-ins, vandalism, storm or fire damage. 24/7 rapid response. Secure windows & doors fast. Same-day service. Call now for immediate property security.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<!-- Emergency Boarding Up Hero Section (Tailwind CSS) -->
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">30–60 min response</span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Property protected now</span>
+        
+      </div>
+    </div>
+
+    <!-- Main content -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Emergency Boarding Up in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `24/7 Emergency Boarding Up Across {{location}} • Fast Protection From Weather and Intruders •
+          Neat Workmanship • Fully Insured • Price Confirmed Before We Start.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Immediate Door & Window Boarding
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We board up doors and windows to protect your property until repairs are completed.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Secure Fixings, Minimal Damage
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Panels are measured and fixed securely, keeping access points safe and damage minimal.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Clear Pricing Before Attendance
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              You receive a clear price before we attend, with costs confirmed before work begins.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Fully Insured Team & Materials
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Fully insured team carrying boarding materials, plus advice on next-step repairs.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Call Now for Boarding Up</a>
+
+  
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Emergency boarding up service for broken windows and doors"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Emergency Boarding Up in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            Need your property secured fast? We provide emergency boarding up in {{location}} for homes and businesses after break-ins, vandalism, storm damage, fire damage, or accidental impact. Our 24 hour emergency boarding up services are available day or night for both domestic and commercial customers, including residential properties and businesses.
+          </p>
+          <p>
+            Call now and our team will aim to attend and respond within one hour of your call, helping to prevent further damage and secure your property quickly. You'll receive a clear price range and a safe, tidy boarding service that helps prevent further entry and weather damage.
+          </p>
+          <p>
+            Many local emergency boarding up companies provide a 24 hour service for both commercial and residential properties.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🚨</span>
+            Call for 24/7 Emergency Boarding Up
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Quick Help: When to Call -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Quick help: When to call for emergency boarding up
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            You should consider immediate boarding up if you have:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>A broken window or glass door</li>
+              <li>A broken door or damaged frame</li>
+              <li>A property left insecure after burglary</li>
+              <li>Criminal damage (e.g., vandalism, burglary)</li>
+            </ul>
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Fire damage leaving openings exposed</li>
+              <li>Storm damage (tiles/windows/doors) causing security risks</li>
+              <li>Vacant property needing temporary securing</li>
+              <li>Need to secure premises after police forced entries or at crime scenes</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Emergency boarding up services can respond to property damage within an hour.
+          </p>
+          <p class="font-bold text-red-600">
+            If anyone is inside and you suspect danger, contact emergency services first.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What Our Service Includes -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            What our emergency boarding up service includes
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              We secure your property quickly and professionally, typically including:
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Professional emergency boarding up service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Service Details -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="space-y-6 text-lg text-neutral-700 text-left">
+          <li><strong>Window boarding up</strong> (ground floor, upper floor where accessible)</li>
+          <li><strong>Door boarding up</strong> (temporary securing after forced entry)</li>
+          <li><strong>Temporary security sealing</strong> for exposed openings</li>
+          <li><strong>Assessing entry points</strong> (frames, locks, hinges) for immediate risk</li>
+          <li><strong>Clear, upfront guidance</strong> on next steps (lock replacement, glazing, repairs)</li>
+          <li><strong>Temporary boarding</strong> to provide immediate security while permanent repairs are arranged</li>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Our engineers provide temporary boarding and use the correct materials to the right specifications for every job. Thorough inspections and measurements for permanent repairs are often carried out while boarding up the property to ensure a safe and lasting solution.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Optional add-ons -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Optional add-ons (common after break-ins):
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Emergency lock change / lock repair</li>
+            <li>Temporary lock fitting or door reinforcement</li>
+            <li>Security upgrades after the property is safe (on request)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency Boarding Up for Burglary & Break-Ins -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency boarding up for burglary & break-ins in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              After a break-in, speed matters. Boarding up helps:
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Emergency boarding up after burglary and break-ins"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Benefits -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="space-y-6 text-lg text-neutral-700 text-left">
+          <li><strong>Prevent repeat entry</strong> – Secure vulnerable points immediately</li>
+          <li><strong>Reduce weather damage and further loss</strong> – Protect interiors from rain, wind, and debris</li>
+          <li><strong>Improve safety until permanent repairs are completed</strong> – Restore peace of mind quickly</li>
+          <li><strong>Support your insurance claim</strong> with clear documentation (where available)</li>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Emergency boarding up services often work in partnership with the police to secure premises after police forced entries or at crime scenes, helping to keep the property safe and support victims.
+          </p>
+          <p>
+            If you've had a burglary, we can also advise on urgent lock changes to stop former keys or forced damage from being used again.
+          </p>
+          <p>
+            Local companies frequently collaborate with police forces to secure properties after criminal incidents, ensuring victims' properties remain safe and protected.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Residential & Commercial Boarding Up -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Residential & commercial boarding up
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We provide tailored emergency boarding up services for both residential and commercial properties, ensuring the right approach for each situation.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Residential -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Residential (homes, flats, HMOs)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We prioritize safety, fast access, and discreet service—especially at night.
+          </p>
+          <p>
+            For residential properties, our emergency boarding up service ensures that small glass panes and door glass panels can often be replaced immediately, restoring your home's security without delay.
+          </p>
+          <p>
+            Some emergency boarding up services can replace small glass panes immediately, so you don't have to wait to feel safe again.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Commercial -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Commercial (shops, offices, warehouses)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We focus on rapid perimeter security to protect stock and reduce business downtime. Our team can attend your site quickly to secure the premises and minimize risk. Where appropriate, we can board up multiple panels and advise on immediate security measures. Emergency boarding up services are also available for events such as public gatherings or demonstrations, providing temporary protection for commercial customers.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How Our Process Works -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          How our boarding up process works
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Our streamlined process ensures your property is secured quickly and professionally:
+          </p>
+        </div>
+      </div>
+      
+      <!-- Process Steps -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="space-y-8">
+          <div class="flex items-start gap-6">
+            <div class="flex-shrink-0 w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center text-white font-bold text-xl">
+              1
+            </div>
+            <div>
+              <h3 class="text-2xl font-bold text-neutral-900">Call us 24/7</h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Tell us what's happened and your address in {{location}}. Our team will arrange and quickly organise your emergency boarding up response.
+              </p>
+            </div>
+          </div>
+          
+          <div class="flex items-start gap-6">
+            <div class="flex-shrink-0 w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center text-white font-bold text-xl">
+              2
+            </div>
+            <div>
+              <h3 class="text-2xl font-bold text-neutral-900">Rapid attendance</h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We arrive ready to secure the opening safely. Skilled engineers will attend and carry out the necessary work.
+              </p>
+            </div>
+          </div>
+          
+          <div class="flex items-start gap-6">
+            <div class="flex-shrink-0 w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center text-white font-bold text-xl">
+              3
+            </div>
+            <div>
+              <h3 class="text-2xl font-bold text-neutral-900">Make safe & board up</h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We secure windows/doors and reduce exposure. Whilst boarding up, our engineers can survey the damage and take measurements for permanent repairs.
+              </p>
+            </div>
+          </div>
+          
+          <div class="flex items-start gap-6">
+            <div class="flex-shrink-0 w-12 h-12 bg-amber-500 rounded-full flex items-center justify-center text-white font-bold text-xl">
+              4
+            </div>
+            <div>
+              <h3 class="text-2xl font-bold text-neutral-900">Next steps</h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We explain repair options (glazing, door/frame repair, lock replacement).
+              </p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p class="text-center font-bold">
+            Goal: secure your property quickly, with minimal disruption.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What Affects Cost -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            What affects the cost of emergency boarding up in <span class="text-amber-500">{{location}}</span>?
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Every job is different. Pricing typically depends on:
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Factors affecting emergency boarding up costs"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Price Factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+          <li><strong>Call-out time</strong> (day / night / weekend)</li>
+          <li><strong>Size and number of openings</strong> to secure</li>
+          <li><strong>Access</strong> (ground floor vs higher level)</li>
+          <li><strong>Condition of the frame</strong> (secure fixing points vs heavy damage)</li>
+          <li><strong>Commercial vs residential</strong> requirements</li>
+        </ul>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Insurance claims can often cover the costs of repairs following property damage, and our team can undertake work covered by your policy, including liaising with your insurance provider to streamline the process. Full repairs—such as re-glazing, replacing windows and doors, and restoring security—can be arranged as part of our emergency boarding up service.
+          </p>
+          <p class="font-bold">
+            Tip: If you're calling after a break-in, ask for a clear estimate range over the phone once you describe the damage.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Emergency Boarding Up Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Board up one broken window (standard size, accessible)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hour
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Includes make-safe and boarding; glazing/repairs extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Board up one glass door / patio door panel
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hour 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Temporary security boarding; frame condition may affect time
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Board up damaged external door (temporary secure)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hour 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Secures entry after forced damage; replacement parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Secure after burglary (make-safe, assess risks, board 1–2 entry points)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hour 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Can include basic documentation/photos where available
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Board up two openings (e.g., two windows or window + door panel)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hours
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Ideal where multiple access points are exposed
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Commercial shopfront / large window section (single bay)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hours 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £249
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Focus on rapid perimeter security; heavy damage may add time
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Fire or storm damage make-safe and board a large exposed opening
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hours 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Temporary sealing/boarding to reduce exposure; repairs arranged separately
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Vacant property temporary securing (multiple points, basic sealing)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hours 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £164
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £274
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  For short-term security while permanent repairs are arranged
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Add-on: Each additional opening boarded (after the first opening)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on cost only (main job already underway)
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Add-on: Temporary lock fitting / door reinforcement (after make-safe)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£45
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£75
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Labour only; parts/materials extra
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Choose Us -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Why choose us for emergency boarding up in <span class="text-amber-500">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8 text-left">
+            <div class="space-y-4">
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>24/7 availability</strong> – help when you need it most</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Fast local response</strong> across{{location}}</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Experienced team</strong> – our professional team coordinates everything from your first call to complete repair</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Peace of mind</strong> – we provide reassurance during stressful situations</span>
+              </div>
+            </div>
+            <div class="space-y-4">
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Complete repair process</strong> – from emergency boarding to final restoration</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Experienced emergency trades</strong> – calm, professional, safety-first</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>Transparent pricing approach</strong> – no vague surprises</span>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-500 text-xl">✓</span>
+                <span><strong>One-stop support</strong> – boarding up + lock changes + securing advice</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Areas We Cover -->
+
+
+  <!-- FAQs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Frequently asked questions
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How fast can you get to me in {{location}}?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We aim for a rapid response depending on traffic and demand. Call <a href="tel:{{phone_tel}}" class="text-amber-500 font-bold hover:text-amber-600">{{phone}}</a> for an accurate ETA.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you board up a window the same day?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes—most emergency calls are completed the same day (often the same hour, depending on availability).
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will boarding up prevent another break-in?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It reduces immediate risk by removing easy access, but we often recommend lock changes and additional security improvements after the property is stable.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Is boarding up permanent?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Boarding up is usually temporary until glazing/door repairs are completed. We can advise on next steps.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you help with insurance?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We can provide basic job details and photos where available, but always follow your insurer's claim instructions.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Call now for emergency boarding up in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            If your property is exposed or insecure, don't wait. We're available 24/7 for emergency boarding up across {{location}}.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🚨</span>
+            Call 24/7 Emergency Boarding Up
+          </a>
+      
+        </div>
+      </div>
+    </div>
+    <section class="py-24 bg-white">
+      <div class="max-w-7xl mx-auto px-6">
+        <div class="max-w-4xl mx-auto text-center">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Related Services
+          </h2>
+        </div>
+    
+        <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Burglar Repair -->
+          <div class="rounded-xl border border-neutral-200 p-6">
+            <a href="/burglar-repair-service/" class="block group">
+              <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+                Break-in repair service in {{location}}
+              </h3>
+            </a>
+            <p class="text-neutral-700">
+              Secure and repair your property after a burglary.
+            </p>
+          </div>
+        
+          <!-- Emergency Locksmith -->
+          <div class="rounded-xl border border-neutral-200 p-6">
+            <a href="/emergency-locksmith/" class="block group">
+              <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+                24/7 locksmith support
+              </h3>
+            </a>
+            <p class="text-neutral-700">
+              Emergency response for all lock and security issues.
+            </p>
+          </div>
+        
+          <!-- Locked Out -->
+          <div class="rounded-xl border border-neutral-200 p-6">
+            <a href="/locked-out/" class="block group">
+              <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+                Lockout assistance
+              </h3>
+            </a>
+            <p class="text-neutral-700">
+              Get back inside when you're locked out.
+            </p>
+          </div>
+        
+          <!-- Broken Key Removal -->
+          <div class="rounded-xl border border-neutral-200 p-6">
+            <a href="/broken-key-removal/" class="block group">
+              <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+                Broken key removal service
+              </h3>
+            </a>
+            <p class="text-neutral-700">
+              Remove snapped keys from all lock types.
+            </p>
+          </div>
+        
+          <!-- Homepage -->
+          <div class="rounded-xl border border-neutral-200 p-6">
+            <a href="/" class="block group">
+              <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+                Home
+              </h3>
+            </a>
+            <p class="text-neutral-700">
+              Return to our main locksmith services.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call 24/7 for Boarding Up</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

@@ -1,0 +1,34 @@
+{
+  "location": "Thundersley",
+  "neighborhoods": [],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "bungalow"
+    ],
+    "era": "mixed post-war and modern, predominantly 1960s–1980s suburban",
+    "notable": "Thundersley is a commuter hamlet in south Essex with primarily residential family homes. Limited commercial or high-density development."
+  },
+  "locksmith_relevant": [
+    "Post-war suburban stock dominates; expect lever-handle and Yale-type locks on most domestic properties.",
+    "Aging bungalows and semi-detached houses may require updating of worn mortice locks and hinges.",
+    "New-build and renovation activity in the hamlet creates demand for modern multipoint and composite door locks."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Thundersley",
+    "overpass": null,
+    "coords": {
+      "lat": 51.5677419,
+      "lon": 0.595065
+    }
+  },
+  "generated_at": "2026-05-13T18:06:23.253Z",
+  "all_areas": [],
+  "geo": {
+    "latitude": 51.5677419,
+    "longitude": 0.595065
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

@@ -1,0 +1,75 @@
+{
+  "location": "Skegness",
+  "neighborhoods": [
+    {
+      "name": "Seacroft",
+      "era": "mixed Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "seafront conservation area with period properties"
+    },
+    {
+      "name": "Seathorne",
+      "era": "Edwardian to interwar",
+      "types": [
+        "villa",
+        "semi-detached"
+      ],
+      "notes": "established residential suburb"
+    },
+    {
+      "name": "Winthorpe",
+      "era": "post-war and modern",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "newer suburban development"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "seasonal holiday lets"
+    ],
+    "era": "mixed Victorian, Edwardian and post-war",
+    "notable": "high density of holiday rental properties and guest houses; Victorian seafront terraces with period locks"
+  },
+  "locksmith_relevant": [
+    "Seafront conservation properties have original period locks requiring specialist knowledge and restoration-compliant repairs.",
+    "Seasonal holiday let turnover drives frequent lock changes, rekeying, and master key system installations for guest access.",
+    "Older terraced housing stock often features worn Victorian and Edwardian mechanisms needing careful handling or period-appropriate replacement."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Skegness",
+    "overpass": "OSM Overpass bbox query, 3 named areas",
+    "coords": {
+      "lat": 53.1437506,
+      "lon": 0.3428958
+    }
+  },
+  "generated_at": "2026-05-13T18:07:25.878Z",
+  "all_areas": [
+    "Seacroft",
+    "Seathorne",
+    "Winthorpe"
+  ],
+  "geo": {
+    "latitude": 53.1437506,
+    "longitude": 0.3428958
+  },
+  "postcode_districts": [
+    "PE25"
+  ],
+  "postcode_meta": {
+    "PE25": {
+      "count": 1,
+      "sample": "PE25 1RP",
+      "admin": "East Lindsey",
+      "via": "parish=skegness"
+    }
+  }
+}

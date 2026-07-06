@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-paper text-ink font-body antialiased;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+}
+
+@layer components {
+  .kicker {
+    @apply text-xs font-semibold uppercase tracking-[0.14em] text-brass;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-ink text-paper font-semibold px-6 py-3.5 transition hover:bg-brass-deep;
+  }
+  .btn-outline {
+    @apply inline-flex items-center gap-2 border border-ink/25 text-ink font-semibold px-6 py-3.5 transition hover:border-brass hover:text-brass-deep;
+  }
+  .hairline {
+    @apply border-t border-line;
+  }
+}

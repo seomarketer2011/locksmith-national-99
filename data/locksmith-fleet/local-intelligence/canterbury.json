@@ -1,0 +1,307 @@
+{
+  "location": "Canterbury",
+  "neighborhoods": [
+    {
+      "name": "Church Street",
+      "era": "Medieval/Georgian",
+      "types": [
+        "terraced",
+        "listed"
+      ],
+      "notes": "city center, high conservation overlay"
+    },
+    {
+      "name": "Harbledown",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ],
+      "notes": "historic hillside suburb"
+    },
+    {
+      "name": "Hersden",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "established residential area"
+    },
+    {
+      "name": "Blean",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "rural properties"
+      ],
+      "notes": "village outskirts, scattered builds"
+    },
+    {
+      "name": "Chartham",
+      "era": "mixed",
+      "types": [
+        "detached",
+        "rural"
+      ],
+      "notes": "countryside village near Canterbury"
+    },
+    {
+      "name": "Chilham",
+      "era": "Medieval/Georgian",
+      "types": [
+        "period",
+        "listed"
+      ],
+      "notes": "picturesque village conservation area"
+    },
+    {
+      "name": "Barton Estate",
+      "era": "post-war",
+      "types": [
+        "council estate",
+        "terrace"
+      ],
+      "notes": "high-density residential"
+    },
+    {
+      "name": "Northgate",
+      "era": "Victorian",
+      "types": [
+        "terraced",
+        "semi-detached"
+      ],
+      "notes": "near city gates, student-heavy"
+    },
+    {
+      "name": "Wincheap",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    },
+    {
+      "name": "Littlebourne",
+      "era": "mixed",
+      "types": [
+        "rural",
+        "detached"
+      ],
+      "notes": "village setting, scattered properties"
+    },
+    {
+      "name": "Bridge",
+      "era": "mixed",
+      "types": [
+        "village properties",
+        "rural"
+      ],
+      "notes": "commuter village"
+    },
+    {
+      "name": "Bekesbourne",
+      "era": "mixed",
+      "types": [
+        "rural",
+        "detached"
+      ],
+      "notes": "countryside location"
+    },
+    {
+      "name": "Kingston",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "suburban residential area"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "listed/period"
+    ],
+    "era": "mixed Medieval core with Victorian/interwar expansion, post-war suburbs",
+    "notable": "High conservation area density in historic center; significant student HMO conversion in Northgate/Wincheap; scattered rural/village properties in surrounding districts."
+  },
+  "locksmith_relevant": [
+    "Medieval and Georgian listed properties in city center require specialist period locks and conservation-compliant hardware.",
+    "Heavy student HMO presence in Northgate and Wincheap creates demand for multi-occupancy locks and rapid rekeying.",
+    "Rural/village properties around Chilham and Littlebourne often lack mains power, favoring mechanical and battery-backup lock solutions."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Canterbury",
+    "overpass": "OSM Overpass bbox query, 110 named areas",
+    "coords": {
+      "lat": 51.2800275,
+      "lon": 1.0802533
+    }
+  },
+  "generated_at": "2026-07-04T13:02:16.875Z",
+  "all_areas": [
+    "Adisham",
+    "Alkham",
+    "Aylesham",
+    "Barham",
+    "Barracks",
+    "Barton Estate",
+    "Bekesbourne",
+    "Beltinge",
+    "Bishopsbourne",
+    "Bishopstone",
+    "Blean",
+    "Bossingham",
+    "Boughton Street",
+    "Brabourne",
+    "Brabourne Lees",
+    "Bramling",
+    "Bridge",
+    "Broad Oak",
+    "Brook",
+    "Broomfield",
+    "Chartham",
+    "Chestfield",
+    "Chilham",
+    "Church Street",
+    "Crundale",
+    "Dargate",
+    "Densole",
+    "Denton",
+    "Dunkirk",
+    "Eddington",
+    "Elham",
+    "Godmersham",
+    "Goodnestone",
+    "Graveney",
+    "Greenhill",
+    "Hales Place",
+    "Hampton",
+    "Harbledown",
+    "Hastingleigh",
+    "Herne",
+    "Hernhill",
+    "Hersden",
+    "Hillborough",
+    "Hinxhill",
+    "Hoath",
+    "Hunter's Forstal",
+    "Ickham",
+    "Kingsdown Park",
+    "Kingston",
+    "Leysdown-on-Sea",
+    "Littlebourne",
+    "Longport",
+    "Lower Herne",
+    "Lower Island",
+    "Lymbridge Green",
+    "Lyminge",
+    "Mariner's View",
+    "Martyrs Field",
+    "Mickleburgh Hill",
+    "Nonington",
+    "Old Wives Lees",
+    "Oversland",
+    "Oxenden",
+    "Patrixbourne",
+    "Petham",
+    "Pinefields",
+    "Preston",
+    "Rhodes Minnis",
+    "Rough Common",
+    "Sarre",
+    "Seasalter",
+    "Shalmsford Street",
+    "Shepherdswell",
+    "Shottenden",
+    "Sole Street",
+    "South Street",
+    "South Tankerton",
+    "St. Dunstan's",
+    "St. Martin's",
+    "St. Mildred's",
+    "St. Stephen's",
+    "Staplestreet",
+    "Stelling Minnis",
+    "Stowting",
+    "Studd Hill",
+    "Stuppington",
+    "Sturry",
+    "Sunningdale Green",
+    "Swalecliffe",
+    "Talmead",
+    "Tankerton",
+    "Thanington",
+    "The Fairways",
+    "The King's Mile",
+    "Thurston Park",
+    "Tyler Hill",
+    "Upper Harbledown",
+    "Upstreet",
+    "Waltham",
+    "Wentworth Park",
+    "West End",
+    "Westbere",
+    "Wickhambreaux",
+    "Wincheap",
+    "Wingham",
+    "Woolage Green",
+    "Woolage Village",
+    "Wootton",
+    "Wye",
+    "Yorkletts"
+  ],
+  "geo": {
+    "latitude": 51.2800275,
+    "longitude": 1.0802533
+  },
+  "postcode_districts": [
+    "CT1",
+    "CT2",
+    "CT3",
+    "CT4",
+    "CT5",
+    "CT6"
+  ],
+  "postcode_meta": {
+    "CT4": {
+      "count": 12,
+      "sample": "CT4 6QH",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    },
+    "CT3": {
+      "count": 8,
+      "sample": "CT3 1ST",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    },
+    "CT5": {
+      "count": 11,
+      "sample": "CT5 3AH",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    },
+    "CT2": {
+      "count": 7,
+      "sample": "CT2 0EB",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    },
+    "CT6": {
+      "count": 19,
+      "sample": "CT6 8LS",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    },
+    "CT1": {
+      "count": 9,
+      "sample": "CT1 3SH",
+      "admin": "Canterbury",
+      "via": "admin_district=canterbury"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "location": "Burton upon Trent",
+  "neighborhoods": [
+    {
+      "name": "Anglesey",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "riverside location, period housing stock"
+    },
+    {
+      "name": "Brizlincote",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential suburb, mixed Victorian-Edwardian"
+    },
+    {
+      "name": "Eton Park",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "planned residential area"
+    },
+    {
+      "name": "Horninglow",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "historic brewing district housing"
+    },
+    {
+      "name": "Shobnall",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "mixed post-war residential"
+    },
+    {
+      "name": "Stapenhill",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "hillside Victorian terraces, period locks common"
+    },
+    {
+      "name": "Stretton",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "Winshill",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "established residential suburb"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian"
+    ],
+    "era": "predominantly Victorian and Edwardian with post-war suburbs",
+    "notable": "Historic brewing town with period housing; many original sash windows and period locks. High proportion of mid-terraced properties requiring traditional maintenance."
+  },
+  "locksmith_relevant": [
+    "Victorian terraces in Horninglow and Stapenhill often retain original mortice locks requiring specialist knowledge and period-appropriate repairs.",
+    "High density of period properties means frequent calls for sash window locks, box locks, and traditional ironmongery restoration across central areas.",
+    "Post-war suburban expansion (Stretton, Shobnall) created volume rental stock where landlord compliance and rapid rekeying jobs are common."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Burton%20upon%20Trent",
+    "overpass": "OSM Overpass bbox query, 8 named areas",
+    "coords": {
+      "lat": 52.802742,
+      "lon": -1.629917
+    }
+  },
+  "generated_at": "2026-05-13T12:30:56.001Z",
+  "all_areas": [
+    "Anglesey",
+    "Brizlincote",
+    "Eton Park",
+    "Horninglow",
+    "Shobnall",
+    "Stapenhill",
+    "Stretton",
+    "Winshill"
+  ],
+  "geo": {
+    "latitude": 52.802742,
+    "longitude": -1.629917
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

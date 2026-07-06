@@ -1,0 +1,26 @@
+---
+// Four icon benefit cards (Able-Group "Why choose us" pattern).
+const CARDS = [
+  { t: "Quick local response", d: "Engineers based around {{location}} — a real arrival time confirmed when you call, not a call-centre estimate.", icon: "M13 10V3L4 14h7v7l9-11h-7z" },
+  { t: "No call-out charge", d: "You only pay for the work. The price is agreed on the phone before an engineer is sent.", icon: "M12 8c-1.7 0-3 .9-3 2s1.3 2 3 2 3 .9 3 2-1.3 2-3 2m0-8V5m0 12v-1m0-7c1.1 0 2 .4 2.5 1M12 8c-1.1 0-2 .4-2.5 1" },
+  { t: "Pay on completion", d: "Settle up once the job is done and you are satisfied. Card payments accepted.", icon: "M3 10h18M7 15h1m4 0h1m-7 4h12a2 2 0 002-2V7a2 2 0 00-2-2H6a2 2 0 00-2 2v10a2 2 0 002 2z" },
+  { t: "Insurance-standard work", d: "BS3621 mortice deadlocks and TS007 anti-snap cylinders fitted to the standards insurers ask for.", icon: "M9 12l2 2 4-4m5.6-4A11.9 11.9 0 0112 2.9 11.9 11.9 0 013.4 6 12 12 0 003 9c0 5.6 3.8 10.3 9 11.6 5.2-1.3 9-6 9-11.6 0-1-.1-2.1-.4-3z" },
+];
+---
+<section class="py-16 md:py-20 bg-white">
+  <div class="max-w-page mx-auto px-4">
+    <p class="text-signal font-semibold text-sm uppercase tracking-wide mb-2">Why choose us</p>
+    <h2 class="text-3xl md:text-4xl font-semibold text-slate-900 mb-10">A locksmith {"{{location}}"} can rely on</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      {CARDS.map((c) => (
+        <div class="rounded-2xl border border-slate-200 p-6 hover:border-brandblue hover:shadow-md transition">
+          <div class="w-12 h-12 rounded-xl bg-brandblue-tint flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-brandblue" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.8"><path stroke-linecap="round" stroke-linejoin="round" d={c.icon}/></svg>
+          </div>
+          <h3 class="font-semibold text-slate-900 mb-1.5">{c.t}</h3>
+          <p class="text-sm text-slate-600 leading-relaxed">{c.d}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

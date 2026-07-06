@@ -1,0 +1,131 @@
+{
+  "location": "Wallasey",
+  "neighborhoods": [
+    {
+      "name": "New Brighton",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "villa"
+      ],
+      "notes": "seafront promenade area; Victorian/Edwardian seaside resort character"
+    },
+    {
+      "name": "Liscard",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "established residential; mixed commercial frontage"
+    },
+    {
+      "name": "Seacombe",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "older working-class terraces; ferry terminal proximity"
+    },
+    {
+      "name": "Bidston Hill",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "elevated ridge location; mixed vintage stock"
+    },
+    {
+      "name": "Claughton",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "residential suburb; solid middle-class Victorian/Edwardian housing"
+    },
+    {
+      "name": "Egremont",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "central Wallasey; older terraced stock"
+    },
+    {
+      "name": "Noctorum",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban development; varied property ages"
+    },
+    {
+      "name": "Poulton",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "working-class Victorian terraces; older street locks common"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "Victorian terrace",
+      "Edwardian semi-detached",
+      "interwar semi-detached"
+    ],
+    "era": "predominantly pre-1945, with scattered interwar and post-war infill",
+    "notable": "Seaside resort character with significant older residential stock; high proportion of period properties with original or period-style door furniture."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces dominate; original sash windows and period locks require specialist knowledge and careful handling.",
+    "Seafront properties in New Brighton and Seacombe face salt-air corrosion; coastal weather accelerates lock and mechanism wear.",
+    "High density of older rental stock means frequent tenant turnovers, emergency lockouts, and multipoint lock upgrades for compliance."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Wallasey",
+    "overpass": "OSM Overpass bbox query, 8 named areas",
+    "coords": {
+      "lat": 53.4241208,
+      "lon": -3.0394101
+    }
+  },
+  "generated_at": "2026-05-13T12:32:27.317Z",
+  "all_areas": [
+    "Bidston Hill",
+    "Claughton",
+    "Egremont",
+    "Liscard",
+    "New Brighton",
+    "Noctorum",
+    "Poulton",
+    "Seacombe"
+  ],
+  "geo": {
+    "latitude": 53.4241208,
+    "longitude": -3.0394101
+  },
+  "postcode_districts": [
+    "CH44",
+    "CH45"
+  ],
+  "postcode_meta": {
+    "CH44": {
+      "count": 3,
+      "sample": "CH44 0BZ",
+      "admin": "Wirral",
+      "via": "constituency=wallasey"
+    },
+    "CH45": {
+      "count": 2,
+      "sample": "CH45 4QN",
+      "admin": "Wirral",
+      "via": "constituency=wallasey"
+    }
+  }
+}

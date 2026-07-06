@@ -1,0 +1,105 @@
+{
+  "location": "Locks Heath",
+  "neighborhoods": [
+    {
+      "name": "Locks Heath",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "core residential area; mixed ages within post-war stock"
+    },
+    {
+      "name": "Sarisbury Green",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "established suburban character; tree-lined streets"
+    },
+    {
+      "name": "Sarisbury",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "terraced"
+      ],
+      "notes": "mixed housing; some older interwar terraces"
+    },
+    {
+      "name": "Park Gate",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential with local retail cluster; commuter area"
+    },
+    {
+      "name": "Fleetend",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "quieter residential pocket"
+    },
+    {
+      "name": "Titchfield Common",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "green area with residential fringe"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "terraced"
+    ],
+    "era": "predominantly post-war (1950s–1980s) with some interwar terraces",
+    "notable": "suburban Hampshire commuter belt; low-rise residential; family home focus rather than flats or HMOs"
+  },
+  "locksmith_relevant": [
+    "Post-war semi-detached and detached homes dominate; expect standard British timber-frame doors and period locks needing upgrade or replacement.",
+    "Aging suburban stock (50–70 years old) means many original locks and mechanisms require maintenance, rekeying, or modern security retrofits.",
+    "Commuter area with family homes increases demand for emergency call-outs, spare key services, and multipoint locking system repairs on uPVC doors."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Locks%20Heath",
+    "overpass": "OSM Overpass bbox query, 6 named areas",
+    "coords": {
+      "lat": 50.8617456,
+      "lon": -1.2717234
+    }
+  },
+  "generated_at": "2026-05-13T18:04:23.951Z",
+  "all_areas": [
+    "Fleetend",
+    "Locks Heath",
+    "Park Gate",
+    "Sarisbury",
+    "Sarisbury Green",
+    "Titchfield Common"
+  ],
+  "geo": {
+    "latitude": 50.8617456,
+    "longitude": -1.2717234
+  },
+  "postcode_districts": [
+    "SO31"
+  ],
+  "postcode_meta": {
+    "SO31": {
+      "count": 1,
+      "sample": "SO31 6NQ",
+      "admin": "Fareham",
+      "via": "admin_ward=locks heath"
+    }
+  }
+}

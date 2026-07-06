@@ -1,0 +1,115 @@
+{
+  "location": "Heswall",
+  "neighborhoods": [
+    {
+      "name": "Barnston",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential, tree-lined roads"
+    },
+    {
+      "name": "Gayton",
+      "era": "Victorian",
+      "types": [
+        "villa",
+        "detached"
+      ],
+      "notes": "established affluent area, larger period properties"
+    },
+    {
+      "name": "Irby",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "conservation area with listed properties"
+    },
+    {
+      "name": "Parkgate",
+      "era": "Georgian",
+      "types": [
+        "terrace",
+        "period cottage"
+      ],
+      "notes": "riverside village character, historic conservation area"
+    },
+    {
+      "name": "Pensby",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "planned suburban development, consistent road layout"
+    },
+    {
+      "name": "Thingwall",
+      "era": "mixed Victorian and interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "scattered older core with later infill"
+    },
+    {
+      "name": "Thurstaston",
+      "era": "Victorian",
+      "types": [
+        "detached",
+        "villa"
+      ],
+      "notes": "upmarket hillside location, larger period homes"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "villa"
+    ],
+    "era": "predominantly Victorian and interwar",
+    "notable": "Wirral commuter suburbs with significant period stock and conservation areas; affluent family homes dominate"
+  },
+  "locksmith_relevant": [
+    "Period villas and Victorian detached homes in Gayton and Thurstaston often feature original locks requiring specialist knowledge and heritage-compliant repairs.",
+    "Parkgate's riverside conservation area restricts external modifications; locksmiths need familiarity with discreet fitting methods for listed properties.",
+    "Interwar semi-detached stock across Pensby and Barnston typically uses standardised period mechanisms; bulk familiarity aids rapid response."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Heswall",
+    "overpass": "OSM Overpass bbox query, 7 named areas",
+    "coords": {
+      "lat": 53.3283218,
+      "lon": -3.1002176
+    }
+  },
+  "generated_at": "2026-05-13T18:13:21.928Z",
+  "all_areas": [
+    "Barnston",
+    "Gayton",
+    "Irby",
+    "Parkgate",
+    "Pensby",
+    "Thingwall",
+    "Thurstaston"
+  ],
+  "geo": {
+    "latitude": 53.3283218,
+    "longitude": -3.1002176
+  },
+  "postcode_districts": [
+    "CH60"
+  ],
+  "postcode_meta": {
+    "CH60": {
+      "count": 1,
+      "sample": "CH60 3RE",
+      "admin": "Wirral",
+      "via": "admin_ward=heswall"
+    }
+  }
+}

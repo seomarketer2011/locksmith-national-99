@@ -1,0 +1,202 @@
+{
+  "location": "Aldershot",
+  "neighborhoods": [
+    {
+      "name": "North Camp",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "oldest residential core; listed properties common"
+    },
+    {
+      "name": "North Town",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "dense Victorian/Edwardian street layout"
+    },
+    {
+      "name": "East End",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban expansion area"
+    },
+    {
+      "name": "South Farnborough",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "mixed residential and light industrial"
+    },
+    {
+      "name": "Ash Vale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter belt; newer suburban"
+    },
+    {
+      "name": "Badshot Lea",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburban fringe"
+    },
+    {
+      "name": "Fairfield",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "middle-class residential"
+    },
+    {
+      "name": "Hale",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    },
+    {
+      "name": "Heath End",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "semi-rural fringes"
+    },
+    {
+      "name": "Ramillies Park",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban estate"
+    },
+    {
+      "name": "Runfold",
+      "era": "modern",
+      "types": [
+        "detached",
+        "new-build"
+      ],
+      "notes": "newer development area"
+    },
+    {
+      "name": "Upper Hale",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "elevated residential area"
+    },
+    {
+      "name": "Weybourne",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "flat"
+      ],
+      "notes": "mixed residential"
+    },
+    {
+      "name": "Tongham",
+      "era": "post-war",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "commuter village edge"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "terrace",
+      "detached"
+    ],
+    "era": "mixed Victorian terraces (North Camp/North Town) and post-war suburban expansion",
+    "notable": "Military heritage (cantonment layout); high density older street stock in town centre. Significant interwar and post-war sprawl."
+  },
+  "locksmith_relevant": [
+    "North Camp and North Town have extensive Victorian terraced stock with original period locks and complex door mechanisms requiring specialist knowledge.",
+    "Post-war suburban estates (Ash Vale, Ramillies Park) feature standardised locks; high volume of routine domestic calls on semi-detached properties.",
+    "Mixed era means diverse lock standards across short distances; locksmiths must stock both period hardware and modern multipoint systems."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Aldershot",
+    "overpass": "OSM Overpass bbox query, 17 named areas",
+    "coords": {
+      "lat": 51.2494169,
+      "lon": -0.7630148
+    }
+  },
+  "generated_at": "2026-05-13T18:07:02.786Z",
+  "all_areas": [
+    "Ash Vale",
+    "Badshot Lea",
+    "Cargate",
+    "East End",
+    "Fairfield",
+    "Gun Hill Park",
+    "Hale",
+    "Heath End",
+    "North Camp",
+    "North Town",
+    "Ramillies Park",
+    "Runfold",
+    "Shawfield",
+    "South Farnborough",
+    "Tongham",
+    "Upper Hale",
+    "Weybourne"
+  ],
+  "geo": {
+    "latitude": 51.2494169,
+    "longitude": -0.7630148
+  },
+  "postcode_districts": [
+    "GU11",
+    "GU12",
+    "GU14"
+  ],
+  "postcode_meta": {
+    "GU12": {
+      "count": 2,
+      "sample": "GU12 4FA",
+      "admin": "Rushmoor",
+      "via": "constituency=aldershot"
+    },
+    "GU14": {
+      "count": 1,
+      "sample": "GU14 6PR",
+      "admin": "Rushmoor",
+      "via": "constituency=aldershot"
+    },
+    "GU11": {
+      "count": 3,
+      "sample": "GU11 3EW",
+      "admin": "Rushmoor",
+      "via": "constituency=aldershot"
+    }
+  }
+}

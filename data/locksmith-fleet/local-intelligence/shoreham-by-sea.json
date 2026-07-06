@@ -1,0 +1,47 @@
+{
+  "location": "Shoreham-by-Sea",
+  "neighborhoods": [
+    {
+      "name": "Kingston Buci",
+      "era": "mixed Victorian to modern",
+      "types": [
+        "terrace",
+        "semi-detached",
+        "flat"
+      ],
+      "notes": "historic core area with conservation elements"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian/Edwardian"
+    ],
+    "era": "predominantly pre-1945 with post-war infill",
+    "notable": "seaside town with heritage seafront properties and residential inland terraces. Strong Victorian/Edwardian housing stock throughout."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces dominate; period locks and sash windows require specialist knowledge and care.",
+    "Coastal location means salt-spray corrosion is common; regular maintenance and marine-grade hardware are essential.",
+    "High rental/holiday let turnover in seafront areas creates frequent emergency access and rekeying demand."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Shoreham-by-Sea",
+    "overpass": "OSM Overpass bbox query, 1 named areas",
+    "coords": {
+      "lat": 50.8322307,
+      "lon": -0.2746717
+    }
+  },
+  "generated_at": "2026-05-13T18:08:23.936Z",
+  "all_areas": [
+    "Kingston Buci"
+  ],
+  "geo": {
+    "latitude": 50.8322307,
+    "longitude": -0.2746717
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

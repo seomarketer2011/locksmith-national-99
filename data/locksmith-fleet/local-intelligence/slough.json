@@ -1,0 +1,35 @@
+{
+  "location": "Slough",
+  "neighborhoods": [],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "flat",
+      "modern"
+    ],
+    "era": "mixed post-war and modern; rapid industrial/commercial expansion from 1920s onwards",
+    "notable": "High proportion of rental stock and HMOs due to transient working population; significant commercial and industrial properties alongside residential areas."
+  },
+  "locksmith_relevant": [
+    "Slough's dense rental market and high tenant turnover drives frequent lock changes and emergency callouts for lost keys.",
+    "Extensive 1960s–1980s flat conversions require specialist cylinder and multi-point lock knowledge common to those eras.",
+    "Major industrial estates and business parks create demand for commercial access control and high-security locks beyond standard residential work."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Slough",
+    "overpass": null,
+    "coords": {
+      "lat": 51.5111014,
+      "lon": -0.5940682
+    }
+  },
+  "generated_at": "2026-05-13T12:29:14.471Z",
+  "all_areas": [],
+  "geo": {
+    "latitude": 51.5111014,
+    "longitude": -0.5940682
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

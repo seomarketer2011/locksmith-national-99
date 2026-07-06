@@ -1,0 +1,115 @@
+{
+  "location": "East Grinstead",
+  "neighborhoods": [
+    {
+      "name": "Ashplats",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential suburb"
+    },
+    {
+      "name": "Ashurst Wood",
+      "era": "mixed Victorian and interwar",
+      "types": [
+        "detached",
+        "semi-detached"
+      ],
+      "notes": "woodland setting, larger properties"
+    },
+    {
+      "name": "Blackwell",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban development"
+    },
+    {
+      "name": "Felbridge",
+      "era": "interwar and post-war",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "mixed residential and light industrial heritage"
+    },
+    {
+      "name": "North End",
+      "era": "Victorian and Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "older town fringe, varied stock"
+    },
+    {
+      "name": "Stonequarry",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "residential expansion area"
+    },
+    {
+      "name": "Sunnyside",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "suburban residential"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "semi-detached",
+      "detached",
+      "terrace"
+    ],
+    "era": "mixed interwar and post-war with older Victorian fringe",
+    "notable": "Commuter town with strong 1920s–1960s suburban character; many family homes with period locks requiring modernisation."
+  },
+  "locksmith_relevant": [
+    "Interwar semis and detached homes predominate; older Yale and mortice locks common, upgrades frequent.",
+    "Ashurst Wood and North End contain Victorian/Edwardian stock with traditional rim locks and period hardware.",
+    "Post-war expansion areas (Stonequarry, Blackwell) house families; lock repairs and replacements drive steady local demand."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=East%20Grinstead",
+    "overpass": "OSM Overpass bbox query, 7 named areas",
+    "coords": {
+      "lat": 51.1285649,
+      "lon": -0.0142988
+    }
+  },
+  "generated_at": "2026-05-13T18:05:40.051Z",
+  "all_areas": [
+    "Ashplats",
+    "Ashurst Wood",
+    "Blackwell",
+    "Felbridge",
+    "North End",
+    "Stonequarry",
+    "Sunnyside"
+  ],
+  "geo": {
+    "latitude": 51.1285649,
+    "longitude": -0.0142988
+  },
+  "postcode_districts": [
+    "RH19"
+  ],
+  "postcode_meta": {
+    "RH19": {
+      "count": 6,
+      "sample": "RH19 3QX",
+      "admin": "Mid Sussex",
+      "via": "admin_ward=ashurst wood & east grinstead south"
+    }
+  }
+}

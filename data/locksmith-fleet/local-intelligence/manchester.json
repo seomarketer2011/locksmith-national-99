@@ -1,0 +1,459 @@
+{
+  "location": "Manchester",
+  "neighborhoods": [
+    {
+      "name": "City Centre",
+      "era": "modern",
+      "types": [
+        "flat",
+        "new-build"
+      ],
+      "notes": "high-density residential conversion, listed buildings"
+    },
+    {
+      "name": "Castlefield",
+      "era": "Victorian",
+      "types": [
+        "warehouse conversion",
+        "flat"
+      ],
+      "notes": "conservation area, canalside developments"
+    },
+    {
+      "name": "Ancoats",
+      "era": "Victorian",
+      "types": [
+        "warehouse conversion",
+        "flat",
+        "new-build"
+      ],
+      "notes": "regeneration area, mixed historic and modern"
+    },
+    {
+      "name": "Chinatown",
+      "era": "Victorian",
+      "types": [
+        "flat",
+        "mixed-use"
+      ],
+      "notes": "commercial ground floor, residential above"
+    },
+    {
+      "name": "Gay Village",
+      "era": "Victorian",
+      "types": [
+        "flat",
+        "converted"
+      ],
+      "notes": "canal quarter, historic buildings"
+    },
+    {
+      "name": "Chorlton-on-Medlock",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "university area, high student HMO density"
+    },
+    {
+      "name": "Fallowfield",
+      "era": "Edwardian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "high HMO density, student let area"
+    },
+    {
+      "name": "Didsbury",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "affluent suburb, tree-lined streets"
+    },
+    {
+      "name": "Heaton Moor",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "affluent commuter suburb"
+    },
+    {
+      "name": "Chorlton-cum-Hardy",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "village character, mixed residential"
+    },
+    {
+      "name": "Burnage",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "suburban sprawl, residential estates"
+    },
+    {
+      "name": "Cheetham Hill",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "semi-detached"
+      ],
+      "notes": "diverse community, older stock"
+    },
+    {
+      "name": "Crumpsall",
+      "era": "interwar",
+      "types": [
+        "semi-detached"
+      ],
+      "notes": "residential estate area"
+    },
+    {
+      "name": "Gorton",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "council estate"
+      ],
+      "notes": "post-industrial, mixed tenure"
+    },
+    {
+      "name": "Blackley",
+      "era": "post-war",
+      "types": [
+        "semi-detached",
+        "council estate"
+      ],
+      "notes": "suburban residential, estates"
+    },
+    {
+      "name": "Ardwick",
+      "era": "Victorian",
+      "types": [
+        "terrace"
+      ],
+      "notes": "inner-city, dense terraces"
+    },
+    {
+      "name": "Heaton Chapel",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "detached"
+      ],
+      "notes": "commuter suburb, railway access"
+    },
+    {
+      "name": "Hale Barns",
+      "era": "modern",
+      "types": [
+        "detached",
+        "new-build"
+      ],
+      "notes": "new-build estates south of city"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "flat",
+      "warehouse conversion"
+    ],
+    "era": "mixed Victorian terraces with Edwardian suburbs and modern city-centre flats",
+    "notable": "Inner-city Victorian terraces and converted mills; suburban Edwardian semis; rapid city-centre apartment expansion."
+  },
+  "locksmith_relevant": [
+    "Manchester's Victorian terraces and converted warehouse flats use varied period locks requiring specialist knowledge of heritage mechanisms.",
+    "Student HMO density in Fallowfield and Chorlton-on-Medlock drives high demand for multi-occupancy keying and rapid re-keying between tenants.",
+    "City Centre's listed-building conversions and canal-quarter developments require insurance-approved locksmiths familiar with conservation-compliant hardware."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Manchester",
+    "overpass": "OSM Overpass bbox query, 140 named areas",
+    "coords": {
+      "lat": 53.4424618,
+      "lon": -2.2324547
+    }
+  },
+  "generated_at": "2026-05-13T12:17:38.154Z",
+  "all_areas": [
+    "Abbey Hey",
+    "Adswood",
+    "Alkrington",
+    "Ancoats",
+    "Ardwick",
+    "Baguley",
+    "Belle Vue",
+    "Benchill",
+    "Beswick",
+    "Blackfriars",
+    "Blackley",
+    "Boothroyden",
+    "Bradford",
+    "Bramhall Green",
+    "Bridgehall",
+    "Broughton Park",
+    "Brunswick",
+    "Burnage",
+    "Burnage Garden Village",
+    "Cale Green",
+    "Castlefield",
+    "Central Retail District",
+    "Charlestown",
+    "Cheadle Heath",
+    "Cheetham Hill",
+    "Chinatown",
+    "Chorlton-cum-Hardy",
+    "Chorlton-on-Medlock",
+    "Chorltonville",
+    "Circle Square",
+    "City Centre",
+    "Civic Quarter",
+    "Clayton",
+    "Collyhurst",
+    "Crumpsall",
+    "Curry Mile",
+    "Davenport",
+    "Davenport Green",
+    "Didsbury",
+    "Eden Park",
+    "Edgeley",
+    "Fairfield",
+    "Fallowfield",
+    "Fallowfield Triangle",
+    "Farm Fold",
+    "First Street",
+    "Gatley",
+    "Gay Village",
+    "Gillbent",
+    "Gorse Hill",
+    "Gorton",
+    "Green Quarter",
+    "Hale Barns",
+    "Handforth",
+    "Harpurhey",
+    "Heald Green",
+    "Heaton Chapel",
+    "Heaton Mersey",
+    "Heaton Moor",
+    "Heaton Norris",
+    "Heaton Park",
+    "Heaviley",
+    "Higher Blackley",
+    "Higher Broughton",
+    "Holt Lane End",
+    "Hulme",
+    "Irlams o' th' Height",
+    "Kersal",
+    "Kingswood",
+    "Kirkhams",
+    "Kitt's Moss",
+    "Ladybarn",
+    "Lakes Estate",
+    "Levenshulme",
+    "Little Australia",
+    "Little Bolton",
+    "Longsight",
+    "Lower Broughton",
+    "MediaCityUK",
+    "Medieval Quarter",
+    "Middleton Junction",
+    "Miles Platting",
+    "Mosley",
+    "Moss Nook",
+    "Moss Side",
+    "Moston",
+    "NOMA",
+    "New Cross",
+    "New Islington",
+    "New Jackson",
+    "New Moston",
+    "Newall Green",
+    "Newton Heath",
+    "Nimble Nook",
+    "North Reddish",
+    "Northenden",
+    "Northern Moor",
+    "Northern Quarter",
+    "Old Trafford",
+    "Openshaw",
+    "Ordsall",
+    "Park Lane",
+    "Parklands",
+    "Parrs Wood",
+    "Peel Hall",
+    "Pendleton",
+    "Petersfield",
+    "Piccadilly",
+    "Portwood",
+    "Pownall Green",
+    "Rainsough",
+    "Reddish",
+    "Reddish Bridge",
+    "Ringway",
+    "Rusholme",
+    "Sale Moor",
+    "Salford Quays",
+    "Sedgley Park",
+    "Seedley",
+    "Sharston",
+    "Shaw Heath",
+    "Smithy Green",
+    "South Reddish",
+    "Spinningfields",
+    "St. Johns",
+    "Strangeways",
+    "Styal",
+    "Thatch Leach",
+    "The Four Heatons",
+    "Trinity",
+    "Victoria Park",
+    "Weaste",
+    "West Didsbury",
+    "Whalley Range",
+    "Wharfside",
+    "White Gate",
+    "Withington",
+    "Woodford",
+    "Woodford Garden Village",
+    "Woodhouse Park"
+  ],
+  "geo": {
+    "latitude": 53.4424618,
+    "longitude": -2.2324547
+  },
+  "postcode_districts": [
+    "M1",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M18",
+    "M19",
+    "M2",
+    "M20",
+    "M21",
+    "M22",
+    "M23",
+    "M3",
+    "M4",
+    "M40",
+    "M8",
+    "M9",
+    "WA15"
+  ],
+  "postcode_meta": {
+    "M9": {
+      "count": 5,
+      "sample": "M9 8NE",
+      "admin": "Manchester"
+    },
+    "M23": {
+      "count": 3,
+      "sample": "M23 9FW",
+      "admin": "Manchester"
+    },
+    "M8": {
+      "count": 2,
+      "sample": "M8 4PF",
+      "admin": "Manchester"
+    },
+    "M20": {
+      "count": 4,
+      "sample": "M20 2AY",
+      "admin": "Manchester"
+    },
+    "M14": {
+      "count": 7,
+      "sample": "M14 6LT",
+      "admin": "Manchester"
+    },
+    "M19": {
+      "count": 3,
+      "sample": "M19 1BX",
+      "admin": "Manchester"
+    },
+    "M11": {
+      "count": 3,
+      "sample": "M11 3DN",
+      "admin": "Manchester"
+    },
+    "M3": {
+      "count": 5,
+      "sample": "M3 3FL",
+      "admin": "Manchester"
+    },
+    "M4": {
+      "count": 7,
+      "sample": "M4 1EB",
+      "admin": "Manchester"
+    },
+    "M1": {
+      "count": 5,
+      "sample": "M1 2BW",
+      "admin": "Manchester"
+    },
+    "M40": {
+      "count": 4,
+      "sample": "M40 8WA",
+      "admin": "Manchester"
+    },
+    "M13": {
+      "count": 3,
+      "sample": "M13 0YD",
+      "admin": "Manchester"
+    },
+    "M22": {
+      "count": 5,
+      "sample": "M22 4NL",
+      "admin": "Manchester"
+    },
+    "M16": {
+      "count": 1,
+      "sample": "M16 8EF",
+      "admin": "Manchester"
+    },
+    "M21": {
+      "count": 2,
+      "sample": "M21 0NW",
+      "admin": "Manchester"
+    },
+    "M15": {
+      "count": 3,
+      "sample": "M15 5JE",
+      "admin": "Manchester"
+    },
+    "M18": {
+      "count": 3,
+      "sample": "M18 7LD",
+      "admin": "Manchester"
+    },
+    "WA15": {
+      "count": 1,
+      "sample": "WA15 0QA",
+      "admin": "Manchester"
+    },
+    "M2": {
+      "count": 2,
+      "sample": "M2 1AB",
+      "admin": "Manchester"
+    },
+    "M12": {
+      "count": 2,
+      "sample": "M12 4EL",
+      "admin": "Manchester"
+    }
+  }
+}

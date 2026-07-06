@@ -1,0 +1,34 @@
+{
+  "location": "Consett",
+  "neighborhoods": [],
+  "property_mix": {
+    "dominant_types": [
+      "terraced",
+      "semi-detached",
+      "council estate"
+    ],
+    "era": "predominantly post-war and 1960s–1970s, with some Victorian terraces from steel industry era",
+    "notable": "Consett's housing stock reflects its industrial past; many properties feature original period locks and timber frames requiring specialist attention. Post-war estates dominate, with substantial council housing stock."
+  },
+  "locksmith_relevant": [
+    "Victorian and Edwardian terraces from steel works era often have period locks, heavy timber doors, and non-standard mechanisms needing specialist knowledge.",
+    "Post-war council estates comprise significant proportion of stock; many residents still use older pin-tumbler or mortice systems rather than modern cylinders.",
+    "Consett's semi-detached suburbs (1960s–70s expansion) typically feature standard Yale and Chubb locks; high volume of rekeying and cylinder replacement work available."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Consett",
+    "overpass": null,
+    "coords": {
+      "lat": 54.8518781,
+      "lon": -1.8333741
+    }
+  },
+  "generated_at": "2026-05-13T18:03:10.909Z",
+  "all_areas": [],
+  "geo": {
+    "latitude": 54.8518781,
+    "longitude": -1.8333741
+  },
+  "postcode_districts": [],
+  "postcode_meta": {}
+}

@@ -1,0 +1,92 @@
+{
+  "location": "Bridlington",
+  "neighborhoods": [
+    {
+      "name": "Old Town",
+      "era": "Victorian",
+      "types": [
+        "terrace",
+        "listed buildings"
+      ],
+      "notes": "Historic harbour area, conservation status, period locks and sash windows common"
+    },
+    {
+      "name": "Hilderthorpe",
+      "era": "Edwardian",
+      "types": [
+        "semi-detached",
+        "terrace"
+      ],
+      "notes": "Residential suburb with period properties"
+    },
+    {
+      "name": "West Hill",
+      "era": "interwar",
+      "types": [
+        "semi-detached",
+        "villa"
+      ],
+      "notes": "Elevated residential area with solid suburban housing"
+    },
+    {
+      "name": "Sewerby",
+      "era": "mixed",
+      "types": [
+        "semi-detached",
+        "modern"
+      ],
+      "notes": "Clifftop location, mix of older homes and newer developments"
+    }
+  ],
+  "property_mix": {
+    "dominant_types": [
+      "terrace",
+      "semi-detached",
+      "Victorian/Edwardian"
+    ],
+    "era": "predominantly pre-1945 with interwar expansion",
+    "notable": "Significant Victorian heritage near harbour; coastal cliff-top properties with exposure concerns; growing holiday let conversions"
+  },
+  "locksmith_relevant": [
+    "Old Town's listed Victorian terraces require specialist period lock knowledge and conservation-compliant repairs.",
+    "Seasonal holiday lets and short-term rentals drive demand for keyless access and rapid emergency callouts.",
+    "Coastal salt spray accelerates corrosion of external locks and fittings, especially on seafront properties."
+  ],
+  "sources": {
+    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bridlington",
+    "overpass": "OSM Overpass bbox query, 4 named areas",
+    "coords": {
+      "lat": 54.082242,
+      "lon": -0.1908647
+    }
+  },
+  "generated_at": "2026-05-13T18:10:04.855Z",
+  "all_areas": [
+    "Hilderthorpe",
+    "Old Town",
+    "Sewerby",
+    "West Hill"
+  ],
+  "geo": {
+    "latitude": 54.082242,
+    "longitude": -0.1908647
+  },
+  "postcode_districts": [
+    "YO15",
+    "YO16"
+  ],
+  "postcode_meta": {
+    "YO15": {
+      "count": 2,
+      "sample": "YO15 1EW",
+      "admin": "East Riding of Yorkshire",
+      "via": "admin_ward=bridlington north"
+    },
+    "YO16": {
+      "count": 2,
+      "sample": "YO16 4RW",
+      "admin": "East Riding of Yorkshire",
+      "via": "admin_ward=bridlington south"
+    }
+  }
+}
