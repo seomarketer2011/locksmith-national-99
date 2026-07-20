@@ -1,0 +1,503 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+
+// ---------------------------------------------------------------------------
+// "The Secure Line" homepage — steel-navy + brass, custom line icons.
+// Content is the site's real, verifiable copy; only the design is bespoke.
+// ---------------------------------------------------------------------------
+
+// Hand-drawn 24x24 line icons (inner markup only; wrapped by icon() below).
+const ICON = {
+  alarm: `<circle cx="12" cy="13" r="6.2"/><path d="M12 13V9.4M5 6.5 7.4 4.4M19 6.5 16.6 4.4M9 20.5h6"/>`,
+  door: `<path d="M6 20.5V4.4A1.4 1.4 0 0 1 7.4 3h7.2A1.4 1.4 0 0 1 16 4.4v16.1M5 20.5h14M13 12v2"/>`,
+  brokenkey: `<circle cx="7" cy="12" r="3"/><path d="M10 12h3.5M13.5 10.2 12 12l1.5 1.8"/><path d="M16.5 12H21m-2.5 0v2m-3-2v1.6"/>`,
+  shield: `<path d="M12 3.2 19 6v5c0 4.4-3 7.6-7 9.2-4-1.6-7-4.8-7-9.2V6z"/><path d="m9.3 11.6 1.9 1.9 3.5-3.6"/>`,
+  board: `<rect x="4" y="6" width="16" height="12" rx="1.2"/><path d="M4 10h16M4 14h16M9.5 6v12M14.5 6v12"/>`,
+  refresh: `<path d="M19.5 12a7.5 7.5 0 1 1-2.1-5.2M19.5 4.5V8h-3.5"/>`,
+  wrench: `<path d="M14.7 6.3a3.6 3.6 0 0 1-4.7 4.6l-4.7 4.7a1.9 1.9 0 1 0 2.7 2.7l4.7-4.7a3.6 3.6 0 0 0 4.6-4.7l-2.3 2.3-2.3-2.3z"/>`,
+  lock: `<rect x="5" y="10.4" width="14" height="9.6" rx="1.7"/><path d="M8 10.4V8a4 4 0 0 1 8 0v2.4M12 14v2.3"/>`,
+  key: `<circle cx="8" cy="12" r="3.1"/><path d="M11 12h9m-2.6 0v2.6M15 12v2"/>`,
+  window: `<rect x="5" y="4" width="14" height="16" rx="1.2"/><path d="M12 4v16M5 12h14"/>`,
+  safe: `<rect x="4" y="5" width="16" height="14" rx="1.4"/><circle cx="13" cy="12" r="2.9"/><path d="M13 12h2.3M7 19v2M17 19v2"/>`,
+  dial: `<circle cx="12" cy="12" r="8"/><path d="M12 12 15 9M12 5.5V7M18.5 12H17M12 18.5V17M5.5 12H7"/>`,
+  clock: `<circle cx="12" cy="12" r="8"/><path d="M12 7.5V12l3 2"/>`,
+  phone: `<path d="M6.6 3h3l1.5 4.2-2 1.5a12.5 12.5 0 0 0 5.7 5.7l1.5-2 4.2 1.5v3A1.8 1.8 0 0 1 18.7 19 15.7 15.7 0 0 1 4.5 4.8 1.8 1.8 0 0 1 6.6 3z"/>`,
+  pin: `<path d="M12 21c4-4.6 6-7.6 6-10.2A6 6 0 1 0 6 10.8C6 13.4 8 16.4 12 21z"/><circle cx="12" cy="10.8" r="2.3"/>`,
+  pound: `<path d="M8.5 20h8M10 20c1.4-1 1.9-2.6 1.9-4.2V9.2A3.1 3.1 0 0 1 17.4 7M8.5 13.2h5.6"/>`,
+  check: `<path d="M20 6 9 17l-5-5"/>`,
+};
+const icon = (name, cls = "h-6 w-6") =>
+  `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" class="${cls}" aria-hidden="true">${ICON[name] || ""}</svg>`;
+
+const services = [
+  { title: "Emergency Locksmith", slug: "/emergency-locksmith/", icon: "alarm" },
+  { title: "Locked Out", slug: "/locked-out/", icon: "door" },
+  { title: "Broken Key Removal", slug: "/broken-key-removal/", icon: "brokenkey" },
+  { title: "Burglar Repair Service", slug: "/burglar-repair-service/", icon: "shield" },
+  { title: "Emergency Boarding Up", slug: "/emergency-boarding-up/", icon: "board" },
+  { title: "Lock Changes", slug: "/lock-changes/", icon: "refresh" },
+  { title: "Lock Repairs", slug: "/lock-repairs/", icon: "wrench" },
+  { title: "Door Lock Installation", slug: "/door-lock-installation/", icon: "lock" },
+  { title: "Door Lock Replacement", slug: "/door-lock-replacement/", icon: "key" },
+  { title: "Door Repairs", slug: "/door-repairs/", icon: "door" },
+  { title: "Window Lock Repair & Replacement", slug: "/window-lock-repair-replacement/", icon: "window" },
+  { title: "Safe Installation", slug: "/safe-installation/", icon: "safe" },
+  { title: "Safe Opening", slug: "/safe-opening/", icon: "dial" },
+];
+
+const heroProof = ["24/7 call-outs", "Non-destructive entry", "DBS-checked & insured", "No call-out fee"];
+
+const responsePanel = [
+  { icon: "clock", label: "Available", value: "24 hours, 7 days" },
+  { icon: "pin", label: "Coverage", value: "{{location}} & nearby" },
+  { icon: "shield", label: "Technicians", value: "DBS-checked, insured" },
+  { icon: "key", label: "Method", value: "Damage-free entry first" },
+];
+
+const trustBadges = ["No call-out fee", "Non-destructive entry", "Fully insured", "Local experts", "24/7 availability", "Upfront pricing"];
+
+const pains = [
+  "You're locked out of your home or business",
+  "Your key has snapped, jammed, or is spinning in the lock",
+  "Your lock is stiff, jammed, or won't latch properly",
+  "You've had a break-in or attempted burglary",
+];
+const solutions = [
+  "Non-destructive entry first — we open the door without damage wherever possible",
+  "Repair-first mindset — we replace parts only when it's genuinely needed",
+  "A fixed price agreed before any work begins, with the options explained",
+  "DBS-checked, insured local technicians carrying parts to finish in one visit",
+];
+
+const whyChoose = [
+  { icon: "clock", title: "24/7 rapid response", text: "Round-the-clock call-outs for lockouts, failed locks, and urgent security in {{location}}." },
+  { icon: "pin", title: "Genuinely local", text: "A locksmith who knows {{location}} and its properties — from period terraces to new builds." },
+  { icon: "shield", title: "Vetted & insured", text: "DBS-checked, fully insured technicians who treat your home and time with respect." },
+  { icon: "wrench", title: "Repair-first", text: "We fix and reuse where we can, and only replace parts when it's genuinely needed." },
+  { icon: "lock", title: "Security-led advice", text: "Practical guidance to prevent repeat issues and harden your doors and windows." },
+  { icon: "pound", title: "Clear pricing", text: "A fixed price agreed before work starts — no call-out fee, no surprises." },
+];
+
+const credentials = [
+  "24/7 emergency call-outs, no call-out fee",
+  "DBS-checked and fully insured technicians",
+  "Non-destructive entry wherever possible",
+  "Fixed pricing confirmed before any work",
+  "Domestic and commercial work covered",
+];
+
+// Standing FAQs (real site copy). Enriched local FAQs appended, quote FAQ last (per brief).
+const staticFaqs = [
+  { q: "How fast can you get to me in {{location}}?", a: "We'll give you an accurate ETA when you call, based on demand and travel time across {{location}}." },
+  { q: "Can you open my door without breaking the lock?", a: "Often, yes — depending on the lock type and how it's secured, we always aim for non-destructive entry first." },
+  { q: "Do I need to prove I live there?", a: "For security we may ask for ID or proof of occupancy, especially for lock changes. If you're locked out, we'll explain your options on arrival." },
+  { q: "Should I change the locks after moving house?", a: "It's strongly recommended — you can't be sure who still holds copies of the old keys." },
+  { q: "Do you repair uPVC multipoint locks?", a: "Yes — these are common call-outs. We'll diagnose whether it's alignment, the cylinder, or the mechanism." },
+];
+const quoteFaq = { q: "How do I get a quote or book a locksmith in {{location}}?", a: "Call us and tell us what's happened — the lock and door type and where you are in {{location}}. We'll give a clear price range and an ETA before we set off, with no call-out fee." };
+
+// Enrichment overlay: per-site AI-generated regions. Falls back to seed copy when absent.
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const metaTitle = e["meta.title"] ?? `Locksmith in {{location}}`;
+const metaDescription = e["meta.description"] ?? `Trusted local locksmith in {{location}}. 24/7 emergency call-outs, lock changes, repairs, and security upgrades for homes and businesses.`;
+const heroParagraph = e["home.hero-paragraph"] ?? `24/7 local locksmith in {{location}}. Rapid arrival, damage-free entry first, and a fixed price agreed before any work begins.`;
+const localHeading: string | null = e["home.local-context-heading"] ?? null;
+const localBody: string | null = e["home.local-context-body"] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e["home.local-faqs"]) ? e["home.local-faqs"] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e["home.areas-covered"]) ? e["home.areas-covered"] : [];
+const faqs = [...staticFaqs, ...localFaqs, quoteFaq];
+
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+const address = "{{address}}";
+const phone = "{{phone}}";
+const mapQuery = encodeURIComponent(`{{name}} {{address}}`);
+---
+
+<MainLayout title={metaTitle} description={metaDescription}>
+  <div class="bg-paper font-body text-muted antialiased">
+
+    <!-- 1) HERO -->
+    <section class="hero relative overflow-hidden bg-navy text-white">
+      <div class="hero-glow" aria-hidden="true"></div>
+      <div class="relative mx-auto grid max-w-6xl items-center gap-12 px-5 py-20 lg:grid-cols-12 lg:py-28">
+        <div class="reveal lg:col-span-7">
+          <p class="font-mono text-xs uppercase tracking-[0.2em] text-brass">24/7 Emergency Locksmith · {{location}}</p>
+          <h1 class="mt-5 font-display text-4xl font-extrabold leading-[1.05] text-balance sm:text-5xl lg:text-6xl">
+            Locksmith in <span class="text-brass">{{location}}</span>
+          </h1>
+          <svg class="mt-6 h-4 w-56 text-brass/70" viewBox="0 0 224 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="8" cy="8" r="5.5"/>
+            <path d="M13.5 8h18v5h9V8h12v3.5h9V8h14v5h9V8h12v3.5h9V8h14v5h9V8h60"/>
+          </svg>
+          <p class="mt-5 max-w-xl text-lg leading-relaxed text-slate-300">{heroParagraph}</p>
+
+          <ul class="mt-7 flex flex-wrap gap-x-6 gap-y-2">
+            {heroProof.map((p) => (
+              <li class="flex items-center gap-2 text-sm font-medium text-slate-200">
+                <span class="text-brass" set:html={icon("check", "h-4 w-4")} />
+                {p}
+              </li>
+            ))}
+          </ul>
+
+          <div class="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
+            <a href="tel:{{phone_tel}}" class="btn-brass group">
+              <span set:html={icon("phone", "h-5 w-5")} />
+              Call {{phone}}
+            </a>
+            <a href="tel:{{phone_tel}}" class="btn-ghost">Get a fast quote</a>
+          </div>
+          <p class="mt-5 font-mono text-xs tracking-wide text-slate-400">No call-out fee · Fixed price agreed before we start · DBS-checked</p>
+        </div>
+
+        <!-- Response panel (bespoke, replaces stock imagery) -->
+        <div class="reveal reveal-2 lg:col-span-5">
+          <div class="response-card">
+            <div class="flex items-center justify-between border-b border-white/10 pb-4">
+              <span class="font-mono text-xs uppercase tracking-[0.18em] text-slate-400">Fast response</span>
+              <span class="pulse-dot" aria-hidden="true"></span>
+            </div>
+            <dl class="mt-5 space-y-4">
+              {responsePanel.map((r) => (
+                <div class="flex items-center gap-4">
+                  <span class="grid h-10 w-10 flex-none place-items-center rounded-lg bg-brass/12 text-brass" set:html={icon(r.icon, "h-5 w-5")} />
+                  <div>
+                    <dt class="font-mono text-[11px] uppercase tracking-[0.14em] text-slate-400">{r.label}</dt>
+                    <dd class="text-[15px] font-medium text-white">{r.value}</dd>
+                  </div>
+                </div>
+              ))}
+            </dl>
+            <a href="tel:{{phone_tel}}" class="mt-6 flex items-center justify-center gap-2 rounded-xl bg-brass px-5 py-3.5 font-mono text-base font-medium tracking-wide text-navy transition hover:bg-brass-bright">
+              <span set:html={icon("phone", "h-5 w-5")} /> {{phone}}
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="hero-rule" aria-hidden="true"></div>
+    </section>
+
+    <!-- 2) TRUST STRIP -->
+    <section class="border-b border-line bg-white">
+      <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-8 gap-y-3 px-5 py-4">
+        {trustBadges.map((b) => (
+          <div class="flex items-center gap-2">
+            <span class="text-brass" set:html={icon("check", "h-4 w-4")} />
+            <span class="font-mono text-xs uppercase tracking-[0.12em] text-ink">{b}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- 3) PROBLEM → SOLUTION -->
+    <section class="bg-paper">
+      <div class="mx-auto max-w-6xl px-5 py-20 lg:py-24">
+        <div class="max-w-2xl">
+          <p class="eyebrow">The situation</p>
+          <h2 class="section-title">Locked out or a lock playing up in {{location}}?</h2>
+          <p class="mt-4 text-lg">Whatever's happened, there's a calm, straightforward fix — and a price you agree before we start.</p>
+        </div>
+        <div class="mt-12 grid gap-6 lg:grid-cols-2">
+          <div class="rounded-2xl border border-line bg-white p-8">
+            <h3 class="font-display text-lg font-bold text-ink">What you're dealing with</h3>
+            <ul class="mt-5 space-y-4">
+              {pains.map((p) => (
+                <li class="flex items-start gap-3 text-[15px]">
+                  <span class="mt-0.5 grid h-6 w-6 flex-none place-items-center rounded-full bg-ink/[0.06] text-muted">
+                    <svg viewBox="0 0 24 24" class="h-3.5 w-3.5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+                  </span>
+                  <span>{p}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div class="relative overflow-hidden rounded-2xl bg-navy p-8 text-white">
+            <div class="card-corner" aria-hidden="true"></div>
+            <h3 class="font-display text-lg font-bold">How we put it right</h3>
+            <ul class="mt-5 space-y-4">
+              {solutions.map((s) => (
+                <li class="flex items-start gap-3 text-[15px] text-slate-200">
+                  <span class="mt-0.5 grid h-6 w-6 flex-none place-items-center rounded-full bg-brass/15 text-brass" set:html={icon("check", "h-3.5 w-3.5")} />
+                  <span>{s}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4) WHY CHOOSE -->
+    <section class="bg-white">
+      <div class="mx-auto max-w-6xl px-5 py-20 lg:py-24">
+        <div class="max-w-2xl">
+          <p class="eyebrow">Why {{name}}</p>
+          <h2 class="section-title">The locksmith {{location}} calls back</h2>
+        </div>
+        <div class="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {whyChoose.map((c) => (
+            <div class="feature-card">
+              <span class="grid h-12 w-12 place-items-center rounded-xl bg-brass/10 text-brass" set:html={icon(c.icon)} />
+              <h3 class="mt-5 font-display text-lg font-bold text-ink">{c.title}</h3>
+              <p class="mt-2 text-[15px] leading-relaxed">{c.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- 5) SERVICES -->
+    <section class="bg-paper">
+      <div class="mx-auto max-w-6xl px-5 py-20 lg:py-24">
+        <div class="max-w-2xl">
+          <p class="eyebrow">Services</p>
+          <h2 class="section-title">Locksmith services in {{location}}</h2>
+          <p class="mt-4 text-lg">Residential and commercial — tap any service for details, or just call and describe what's happening.</p>
+        </div>
+        <div class="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {services.map((s) => (
+            <a href={s.slug} class="service-card group">
+              <span class="grid h-11 w-11 flex-none place-items-center rounded-lg bg-navy text-brass transition group-hover:bg-brass group-hover:text-navy" set:html={icon(s.icon, "h-5 w-5")} />
+              <span class="font-display text-[15px] font-bold text-ink">{s.title}</span>
+              <span class="ml-auto text-line transition group-hover:translate-x-1 group-hover:text-brass">
+                <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- 6) ABOUT -->
+    <section class="bg-white">
+      <div class="mx-auto grid max-w-6xl items-start gap-12 px-5 py-20 lg:grid-cols-2 lg:py-24">
+        <div>
+          <p class="eyebrow">About us</p>
+          <h2 class="section-title">Residential &amp; commercial locksmiths in {{location}}</h2>
+          <div class="mt-6 space-y-5 text-[15px] leading-relaxed">
+            <p><span class="font-semibold text-ink">Homes &amp; landlords.</span> Ideal for houses, flats, HMOs, landlords and letting agents — lockouts, lock changes and repairs handled quickly and discreetly, with regular checks for ongoing peace of mind.</p>
+            <p><span class="font-semibold text-ink">Shops &amp; offices.</span> Support for shops, offices and sites needing secure access — repairs, lock replacements and security upgrades that protect staff, stock and property.</p>
+          </div>
+        </div>
+        <div class="rounded-2xl border border-line bg-paper p-8">
+          <p class="font-mono text-xs uppercase tracking-[0.16em] text-muted">What every visit includes</p>
+          <ul class="mt-5 space-y-3.5">
+            {credentials.map((c) => (
+              <li class="flex items-start gap-3 text-[15px] text-ink">
+                <span class="mt-0.5 text-good" set:html={icon("check", "h-5 w-5")} />
+                <span>{c}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- 7) LOCAL INFO -->
+    <section class="bg-paper">
+      <div class="mx-auto grid max-w-6xl gap-8 px-5 py-20 lg:grid-cols-2 lg:py-24">
+        <div>
+          <p class="eyebrow">Find us</p>
+          <h2 class="section-title">Call {{name}}</h2>
+          <dl class="mt-8 space-y-5">
+            <div class="flex items-start gap-4">
+              <span class="mt-0.5 grid h-10 w-10 flex-none place-items-center rounded-lg bg-navy text-brass" set:html={icon("pin", "h-5 w-5")} />
+              <div><dt class="font-mono text-[11px] uppercase tracking-[0.14em] text-muted">Address</dt><dd class="text-[15px] font-medium text-ink">{address}</dd></div>
+            </div>
+            <div class="flex items-start gap-4">
+              <span class="mt-0.5 grid h-10 w-10 flex-none place-items-center rounded-lg bg-navy text-brass" set:html={icon("phone", "h-5 w-5")} />
+              <div><dt class="font-mono text-[11px] uppercase tracking-[0.14em] text-muted">Phone</dt><dd><a href="tel:{{phone_tel}}" class="font-mono text-lg font-medium text-ink hover:text-brass">{phone}</a></dd></div>
+            </div>
+            <div class="flex items-start gap-4">
+              <span class="mt-0.5 grid h-10 w-10 flex-none place-items-center rounded-lg bg-navy text-brass" set:html={icon("clock", "h-5 w-5")} />
+              <div><dt class="font-mono text-[11px] uppercase tracking-[0.14em] text-muted">Hours</dt><dd class="text-[15px] font-medium text-ink">Open 24 hours · 7 days a week</dd></div>
+            </div>
+          </dl>
+
+          {areasCovered.length > 0 && (
+            <div class="mt-9">
+              <h3 class="font-display text-base font-bold text-ink">Areas we cover in {{location}}</h3>
+              {postcodes.length > 0 && (
+                <p class="mt-2 font-mono text-xs text-muted">{postcodes.join("  ·  ")}</p>
+              )}
+              <ul class="mt-4 flex flex-wrap gap-2">
+                {areasCovered.map((a) => (
+                  <li class="rounded-full border border-line bg-white px-3 py-1 text-xs text-ink">{a}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+        <div class="min-h-[380px] overflow-hidden rounded-2xl border border-line">
+          <iframe
+            title="Map of {{location}}"
+            src={`https://maps.google.com/maps?q=${mapQuery}&z=12&output=embed`}
+            class="h-full min-h-[380px] w-full"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8) FAQ -->
+    <section class="bg-white">
+      <div class="mx-auto max-w-3xl px-5 py-20 lg:py-24">
+        <p class="eyebrow">Questions</p>
+        <h2 class="section-title">Frequently asked questions</h2>
+        <div class="mt-10 divide-y divide-line border-y border-line">
+          {faqs.map((f) => (
+            <details class="faq group">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 py-5 font-display text-[15px] font-bold text-ink">
+                {f.q}
+                <span class="grid h-7 w-7 flex-none place-items-center rounded-full border border-line text-muted transition group-open:border-brass group-open:bg-brass group-open:text-navy">
+                  <svg viewBox="0 0 24 24" class="h-4 w-4 transition group-open:rotate-45" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>
+                </span>
+              </summary>
+              <p class="pb-5 text-[15px] leading-relaxed">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <!-- 9) LONG-FORM SEO BODY -->
+    {(localHeading || localBodyParas.length > 0) && (
+      <section class="bg-paper">
+        <div class="mx-auto max-w-3xl px-5 py-20 lg:py-24">
+          <div class="seo-prose">
+            {localHeading && <h2 class="section-title">{localHeading}</h2>}
+            {localBodyParas.map((p) => <p>{p}</p>)}
+            <h3>Trained, insured and accountable</h3>
+            <p>At {{name}}, ongoing training is the foundation of our work — every job, domestic or commercial, is completed with care and attention to detail. From lock picking and safe opening to non-destructive entry, our expertise covers the full range of locksmithing.</p>
+            <p>We provide 24-hour emergency locksmith services with no call-out fee, so you can count on us day or night. For business security we cover key cutting, lock changes and upgrades. Our locksmiths are DBS-checked and fully insured, working across {{location}} and the surrounding areas.</p>
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- 10) FINAL CTA -->
+    <section class="relative overflow-hidden bg-navy text-white">
+      <div class="hero-glow hero-glow--cta" aria-hidden="true"></div>
+      <div class="relative mx-auto max-w-3xl px-5 py-20 text-center lg:py-24">
+        <p class="font-mono text-xs uppercase tracking-[0.2em] text-brass">Locked out? Locks to sort?</p>
+        <h2 class="mt-4 font-display text-3xl font-extrabold leading-tight text-balance sm:text-4xl">Book a locksmith in {{location}}</h2>
+        <p class="mx-auto mt-4 max-w-xl text-lg text-slate-300">Emergency or planned — call and we'll help you choose the quickest, safest option, with a fixed price before we start.</p>
+        <div class="mt-9 flex justify-center">
+          <a href="tel:{{phone_tel}}" class="btn-brass btn-brass--lg">
+            <span set:html={icon("phone", "h-5 w-5")} />
+            Call {{phone}} · 24/7
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sticky mobile call bar -->
+    <div class="sticky bottom-0 z-50 border-t border-brass-bright/30 bg-navy/95 p-3 backdrop-blur lg:hidden">
+      <a href="tel:{{phone_tel}}" class="flex w-full items-center justify-center gap-2 rounded-xl bg-brass px-6 py-3.5 font-mono text-sm font-medium tracking-wide text-navy">
+        <span set:html={icon("phone", "h-5 w-5")} /> Call 24/7 · {{phone}}
+      </a>
+    </div>
+  </div>
+</MainLayout>
+
+<style>
+  /* ---- Reusable homepage primitives ---- */
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #C7A253;
+  }
+  .section-title {
+    font-family: "Archivo", system-ui, sans-serif;
+    font-weight: 800;
+    color: #16202B;
+    font-size: clamp(1.65rem, 1rem + 2vw, 2.4rem);
+    line-height: 1.1;
+    text-wrap: balance;
+    margin-top: 0.5rem;
+  }
+
+  .btn-brass {
+    display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+    background: #C7A253; color: #0C1D2E;
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-weight: 500; letter-spacing: 0.01em;
+    padding: 0.9rem 1.5rem; border-radius: 0.85rem;
+    box-shadow: 0 10px 30px -12px rgba(199,162,83,0.6);
+    transition: background .2s ease, transform .2s ease, box-shadow .2s ease;
+  }
+  .btn-brass:hover { background: #E4C578; transform: translateY(-1px); }
+  .btn-brass--lg { padding: 1.05rem 2rem; font-size: 1.05rem; }
+  .btn-ghost {
+    display: inline-flex; align-items: center; justify-content: center;
+    border: 1px solid rgba(255,255,255,0.28); color: #fff;
+    font-weight: 500; padding: 0.9rem 1.5rem; border-radius: 0.85rem;
+    transition: background .2s ease, border-color .2s ease;
+  }
+  .btn-ghost:hover { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.5); }
+
+  /* ---- Hero atmosphere ---- */
+  .hero { isolation: isolate; }
+  .hero-glow {
+    position: absolute; inset: 0; z-index: 0; pointer-events: none;
+    background:
+      radial-gradient(60% 80% at 82% 18%, rgba(199,162,83,0.20), transparent 60%),
+      radial-gradient(50% 60% at 8% 100%, rgba(20,48,71,0.9), transparent 70%);
+  }
+  .hero-glow--cta { background: radial-gradient(60% 90% at 50% 0%, rgba(199,162,83,0.16), transparent 65%); }
+  .hero-rule {
+    position: absolute; left: 0; right: 0; bottom: 0; height: 3px;
+    background: linear-gradient(90deg, transparent, #C7A253 30%, #E4C578 50%, #C7A253 70%, transparent);
+    opacity: 0.85;
+  }
+  .response-card {
+    border-radius: 1.1rem; padding: 1.6rem;
+    background: linear-gradient(180deg, #143047, #0f2536);
+    border: 1px solid rgba(199,162,83,0.22);
+    box-shadow: 0 30px 60px -30px rgba(0,0,0,0.7);
+  }
+  .pulse-dot { width: 10px; height: 10px; border-radius: 999px; background: #6EE7A8; box-shadow: 0 0 0 0 rgba(110,231,168,0.6); animation: pulse 2.4s infinite; }
+  @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(110,231,168,0.5);} 70% { box-shadow: 0 0 0 8px rgba(110,231,168,0);} 100% { box-shadow: 0 0 0 0 rgba(110,231,168,0);} }
+
+  .card-corner {
+    position: absolute; top: -30px; right: -30px; width: 120px; height: 120px;
+    border-radius: 999px; border: 1px solid rgba(199,162,83,0.25);
+  }
+
+  /* ---- Cards ---- */
+  .feature-card {
+    background: #fff; border: 1px solid #E3E7EC; border-radius: 1rem; padding: 1.5rem 1.4rem;
+    position: relative; transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  }
+  .feature-card:hover { transform: translateY(-3px); border-color: rgba(199,162,83,0.5); box-shadow: 0 20px 40px -28px rgba(12,29,46,0.5); }
+  .service-card {
+    display: flex; align-items: center; gap: 0.85rem;
+    background: #fff; border: 1px solid #E3E7EC; border-radius: 0.85rem; padding: 0.9rem 1rem;
+    transition: border-color .2s ease, box-shadow .2s ease, transform .2s ease;
+  }
+  .service-card:hover { border-color: rgba(199,162,83,0.6); box-shadow: 0 16px 34px -26px rgba(12,29,46,0.55); transform: translateY(-2px); }
+
+  .faq summary::-webkit-details-marker { display: none; }
+
+  /* ---- Long-form prose ---- */
+  .seo-prose :global(h3) { font-family: "Archivo", system-ui, sans-serif; font-weight: 700; color: #16202B; font-size: 1.15rem; margin-top: 2rem; }
+  .seo-prose :global(p) { margin-top: 1rem; font-size: 1rem; line-height: 1.75; color: #56626E; }
+  .seo-prose :global(p:first-of-type) { margin-top: 1.25rem; }
+
+  /* ---- Entrance ---- */
+  .reveal { opacity: 0; transform: translateY(14px); animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+  .reveal-2 { animation-delay: .12s; }
+  @keyframes rise { to { opacity: 1; transform: none; } }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal, .reveal-2 { animation: none; opacity: 1; transform: none; }
+    .pulse-dot { animation: none; }
+  }
+</style>

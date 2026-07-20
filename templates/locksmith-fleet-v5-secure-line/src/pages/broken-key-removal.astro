@@ -1,0 +1,1347 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Broken key in lock.png";
+import lock from "../assets/services/Broken key in lock.png";
+import lock2 from "../assets/services/broken_key in lock.png";
+import lock3 from "../assets/services/broken key in euro lock.png";
+
+// Enrichment overlay for service: broken-key-removal
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "broken-key-removal";
+const metaTitle = e[`${slug}.meta.title`] ?? `Broken Key Removal {{location}} | Emergency Snapped Key Extraction `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency broken key removal in {{location}}. Key snapped in lock? Locked out? Professional extraction for uPVC, mortice & night latch locks. Non-destructive methods, 24/7 service. Fast response across {{location}}.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+  <!-- Hero Section -->
+   <!-- Broken Key Removal Hero Section (Tailwind CSS) -->
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">30–60 min response</span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Lock saved today</span>
+        
+      </div>
+    </div>
+
+    <!-- Main grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Broken Key Removal in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `24/7 Rapid Key Extraction Across {{location}} • Protect Cylinders • Damage-Free Techniques •
+          DBS Checked Technician • Fully Insured • Upfront Price Before Work Begins.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-xl">🗝️</span>
+              <div>
+                <h3 class="font-semibold text-gray-900">
+                  Snapped Key Removal
+                </h3>
+                <p class="text-sm text-gray-600 mt-1">
+                  We remove broken keys from cylinders, padlocks, and mortice locks without delay.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-xl">🛠️</span>
+              <div>
+                <h3 class="font-semibold text-gray-900">
+                  Damage-Free Techniques
+                </h3>
+                <p class="text-sm text-gray-600 mt-1">
+                  Specialist extractors and lubrication to protect the lock mechanism.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-xl">£</span>
+              <div>
+                <h3 class="font-semibold text-gray-900">
+                  Clear Upfront Pricing
+                </h3>
+                <p class="text-sm text-gray-600 mt-1">
+                  You get a fixed quote after assessment — work starts only after approval.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <div class="flex items-start gap-3">
+              <span class="text-amber-500 text-xl">✔</span>
+              <div>
+                <h3 class="font-semibold text-gray-900">
+                  DBS Checked & Insured
+                </h3>
+                <p class="text-sm text-gray-600 mt-1">
+                  Local technician with common barrels and keys for immediate fixes.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">📞 Call Now for Key Removal</a>
+        <!-- Trust line -->
+        <p class="mt-4 text-sm text-gray-500 text-center">
+          Professional service • Clear pricing • DBS checked
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Emergency broken key removal service for snapped keys in locks"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Broken Key Removal in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A snapped key is one of those problems that instantly becomes urgent — especially if you're locked out, the door won't secure properly, or the broken piece is jammed deep inside the lock. Broken key removal is about more than simply "pulling it out": the best outcome is safe extraction with minimal damage, while also avoiding further damage to the lock during the process, restoring smooth operation, and confirming whether the lock is still reliable afterwards.
+          </p>
+          <p>
+            In {{location}}, {{name}} provides emergency broken key extraction for common UK lock types, including uPVC doors with Euro cylinders and multi-point locking, mortice locks on timber doors, and night latches. The first step is a quick assessment of what's happened: whether the broken key is protruding or flush/buried, whether the lock is stiff or jammed, and whether the door is locked from inside or a key is left in the back. These details change the method, the time on site, and sometimes whether a cylinder replacement is the sensible next step. Various methods may be used depending on the situation, and selecting the best method is crucial for a successful outcome.
+          </p>
+          <p>
+            Where possible, extraction is done using non-destructive techniques and a drill-last approach. Specialist tools are used for safe and efficient removal, and having the necessary tools is essential for effective broken key removal. Once the fragment is removed, the lock is tested for smooth turning, alignment, and any internal damage (pins, cam, boltwork) that could cause another break or a future lockout. If a replacement is needed, it's usually the cylinder rather than the whole lock, and there are options that improve security and reduce the risk of repeat failures.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔑</span>
+            Emergency Key Extraction
+          </a>
+       
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency Snapped Key Extraction -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency snapped key extraction in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Broken keys often happen at the worst times: rushing out, returning late, or when the lock has been getting stiffer over days or weeks. Emergency broken key removal focuses on two priorities — regaining access and making sure the door can lock securely again.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Emergency snapped key extraction service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Locked out vs door still opens -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When you're locked out vs when the door still opens
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the door won't open, the job may involve careful door opening methods (again, damage-minimised wherever possible) before extraction can be completed safely. If the door opens but the key is broken inside, keeping the lock stable becomes the priority — preventing the fragment from being pushed deeper or twisting pins out of position. At this stage, a suitable tool is carefully inserted into the lock to engage and remove the key fragment.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Information that helps speed up extraction -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Information that helps speed up a clean extraction
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A few practical details make a big difference to first-time success:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Lock type (uPVC/Euro cylinder, mortice, night latch, padlock, garage lock)</li>
+            <li>Is the fragment protruding or flush?</li>
+            <li>Was the lock stiff before it snapped?</li>
+            <li>Is the door locked, or just closed?</li>
+            <li>Is there a key left on the inside? (common with Euro cylinders)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This isn't about paperwork — it's about choosing the right method quickly and avoiding unnecessary force. Some people try to use household items for extraction, but this can sometimes make the problem worse.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Damage-Minimised Broken Key Removal -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Damage-minimised broken key removal: how it's done
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Most people worry about the same thing: "Will this wreck my lock or door?" Good broken key removal is a controlled process. The aim is to remove the fragment without widening the keyway, without damaging pins, and without turning a simple fix into a new lock installation. Keeping the lock properly lubricated can reduce friction, making extraction safer and helping to prevent further damage.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Step 1: Initial assessment -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Step 1: Initial assessment of the break
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Not all breaks are equal. A key can shear because it's worn, bent, poorly cut, or because the lock was binding. The locksmith will check:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Whether the lock is currently under tension (partially turned)</li>
+            <li>Whether the door is pulling or dropping (alignment issues)</li>
+            <li>Whether the broken piece is wedged or moving freely, and if the key is stuck inside the lock, which may require special attention</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This determines whether the lock can be extracted immediately or needs tension released first.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Step 2: Non-destructive extraction -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Step 2: Non-destructive extraction methods (first choice)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where the fragment is accessible, specialist extractors and controlled tension techniques can remove it cleanly. A key extractor or broken key extractor tool, often featuring a small hook, is inserted into the lock to grab and grip the broken key fragment so you can pull the key out safely. The focus is on precision, not brute force. In many cases, the lock can be returned to normal operation with no visible change.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Step 3: Drill-last approach -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Step 3: A drill-last approach (only when necessary)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Drilling is not the default. Drilling is only considered after several attempts with all the methods have failed to remove the key. It's used only when the fragment is deeply jammed, the lock is already failing internally, or a previous DIY attempt has caused damage. Even then, the goal is normally targeted work that preserves the door and avoids unnecessary replacement of parts that still function correctly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Step 4: Post-extraction checks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Step 4: Post-extraction checks that prevent repeat problems
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After removal, the lock should be tested properly:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Smooth rotation and key insertion</li>
+            <li>Any sticking or "dead spots" in the turn</li>
+            <li>Check the lock mechanism for signs of damage or wear</li>
+            <li>Correct engagement of the latch/bolt/multi-point</li>
+            <li>Signs of pin, cam, or boltwork wear</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This is the point where it becomes clear whether you've avoided a replacement — or whether a cylinder swap is the sensible, reliable next step.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Broken Key Scenarios -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Broken key scenarios that change the approach in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Two broken keys can look similar but behave very differently. The scenario changes the method, how long it takes, and whether parts are likely to be needed. The approach to broken key removal may also change depending on whether the broken part or a broken key piece is accessible.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Protruding vs flush fragment -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Protruding fragment vs flush/buried fragment
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A fragment that protrudes slightly can often be removed quickly and cleanly. However, it is important to slowly pull the fragment out, using gentle pressure, to avoid pushing it deeper into the lock or causing additional damage. A fragment that is flush or pushed deeper may require more delicate work and can be affected by the lock's internal state (pins engaged, tension present, key turned at the moment it snapped).
+          </p>
+          <p>
+            If you've tried to "fish it out" with improvised tools, it can push the piece deeper or burr the keyway — which increases time and can change the outcome.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Broken key plus stiff lock -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Broken key plus a stiff or jammed lock
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the lock has been stiff for a while, a snapped key is often a symptom rather than the cause. The lock may be binding due to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Cylinder wear</li>
+            <li>Lack of lubrication: Applying graphite powder to the keyhole can help reduce friction inside the lock, making operation smoother and decreasing the risk of future key breakage.</li>
+            <li>Misalignment of the door and frame</li>
+            <li>Multi-point mechanism resistance</li>
+            <li>Internal damage caused by force over time</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In these cases, extraction is only half the job — the lock must be made reliable again, or the next key may snap too.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Key left in the back -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Key left in the back or locked from inside
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            With Euro cylinders, a common complication is a key left on the inside. Depending on the cylinder type, this can prevent another key from being used externally and can make extraction more complex. A similar issue occurs where the lock is engaged and the door is locked from inside.
+          </p>
+          <p>
+            The solution depends on the cylinder design (including whether it has an emergency function) and the position of the cam at the time of break.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Multi-point considerations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Multi-point locking considerations (uPVC doors)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the handle must be lifted to engage multi-point hooks, rollers, or bolts, the door's alignment matters. A door that drops even slightly can increase resistance and contribute to key breakage. Key breaks here are frequently linked to: modern keys, which are often made from materials like nickel silver. These non-magnetic metals can affect extraction methods, as they are less responsive to magnets. After extraction, it's important to confirm that the door locks smoothly through a full cycle — not just that the key turns once.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Broken Key Removal by Lock Type -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Broken key removal by lock type
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Different locks fail in different ways, and the best extraction method depends heavily on the hardware. The approach and complexity of broken key removal can also vary depending on the type of lock involved.
+          </p>
+        </div>
+      </div>
+      
+      <!-- uPVC doors with Euro cylinders -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          uPVC doors with Euro cylinders (the most common UK setup)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Euro cylinders sit within a handle set, often paired with multi-point locking. Key breaks here are frequently linked to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>A worn key (especially worn copies)</li>
+            <li>Cylinder wear or debris in the keyway</li>
+            <li>Door misalignment increasing resistance</li>
+            <li>Situations where the key snapped and became stuck inside the cylinder, making removal difficult</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Extraction aims to protect the cylinder and keyway. If the cylinder is worn or damaged, replacement is usually straightforward — and can be upgraded to improved security at the same time.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Mortice locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Mortice locks on timber doors
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Mortice locks are common on older timber doors and some internal security doors. Broken keys here can be tied to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Stiff boltwork</li>
+            <li>Worn levers (depending on lock type)</li>
+            <li>Misaligned strike plates</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A careful extraction matters because damage inside a mortice case can lead to unreliable locking or a door that won't latch properly. Sometimes, a thin blade—such as a modified hacksaw blade—can be used as a DIY tool to help extract a key fragment from a mortice lock.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Night latches -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Night latches (Yale-type rim locks)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Night latches are often used as secondary locks and can be sensitive to poor alignment or worn keys. Extraction focuses on removing the fragment without damaging the rim cylinder. Tools like needle nose pliers or a paper clip can sometimes be used to extract the broken key. Post-extraction testing is important because many night latches develop stiffness that encourages force — which is exactly what snaps keys.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Padlocks and garage locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Padlocks, garage locks, and outbuildings
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Broken keys in padlocks and garage door locks are common, particularly where locks are exposed to damp, dirt, or cold. These can be simpler extractions, but severe corrosion can mean replacement is more reliable than forcing a failing mechanism back into service. In some cases, a strong magnet or a jigsaw blade can be used to retrieve a broken key from a padlock or garage lock.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Repair vs Replacement -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Do you need a new lock or can it be repaired?
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              One of the biggest concerns after a snap is cost: "Is this going to mean replacing everything?" Often, no. But the right answer depends on what caused the break and what the lock looks like once the fragment is out. In some cases, a new key can be made using the broken key as a template, depending on the condition of the broken key and available key duplication techniques.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Lock repair vs replacement after broken key extraction"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Replacement vs avoidable -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When replacement is necessary vs avoidable
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacement is more likely when:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The lock is internally damaged (pins/cam/boltwork) and remains stiff after extraction</li>
+            <li>A previous DIY attempt has deformed the keyway or snapped an extractor inside</li>
+            <li>Other methods for broken key removal have been tried without success before deciding on replacement</li>
+            <li>The lock was already unreliable (intermittent turning, jamming, sticking)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacement is often avoidable when:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The lock was generally smooth before the incident</li>
+            <li>The fragment was removed cleanly without keyway damage</li>
+            <li>The issue was a worn key rather than lock failure</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Cylinder replacement options -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Cylinder replacement options (common on uPVC/Euro setups)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If a Euro cylinder needs replacing, that doesn't mean replacing the whole door lock. Cylinder swaps can be sized correctly to the door and handle set, and can be selected to improve security and reduce future issues. Options may include improved resistance to snapping and smoother operation (depending on model). Replacement cylinders can often be sourced from a local hardware store.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Rekeying -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Rekeying: changing the keys without changing everything
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In some situations — particularly where security is a concern — rekeying or replacing the cylinder allows you to change the working keys without changing the entire lock case or multi-point mechanism.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Replacement keys and spares -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Replacement keys and spares after extraction
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After a break, many households realise they've been relying on a single worn key or a poor-quality copy. Cutting a fresh key from the correct profile (rather than duplicating a worn copy repeatedly) can improve smoothness and reduce stress on the lock.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Costs and Price Factors -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Costs and price factors for broken key removal in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Broken key removal is usually priced as a service call with variables based on complexity and any parts needed. The cost may also reflect the expertise required for a professional locksmith to remove the key, especially when specialist tools are needed for the job. The most helpful pricing conversations are the ones that explain what's included and what can change on site.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Broken key removal cost factors and pricing"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- What's typically included -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What's typically included
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In most cases, the service includes:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Attendance in {{location}}</li>
+            <li>Assessment of lock type and key break position</li>
+            <li>Extraction attempt using non-destructive methods first</li>
+            <li>Basic post-extraction testing of lock function</li>
+            <li>Advice on whether repair/adjustment or replacement is recommended</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If parts are required (most commonly a cylinder), that's usually itemised separately.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Price factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Price factors that change the total
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Common price factors include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Out-of-hours attendance (late night, weekend, bank holiday)</li>
+            <li>Fragment depth: protruding vs flush/buried</li>
+            <li>Lock condition: smooth vs stiff/jammed</li>
+            <li>Lock type complexity (multi-point systems can require additional checks)</li>
+            <li>Any additional work to restore reliable locking (alignment adjustments, cylinder replacement)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A clear breakdown prevents surprises and helps you decide whether repair or replacement is the best value.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Typical time on site -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Typical time on site (what to expect)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Time varies by scenario. A straightforward protruding fragment in a healthy lock can be quick. A flush fragment in a stiff lock — or a lock compromised by DIY attempts — can take longer. It's also normal to spend time on testing and adjustment after extraction, because the point is not only to remove the key but to leave the lock dependable.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Broken Key Removal Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Broken key removal (fragment protruding)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Non-destructive extraction where possible; lock tested after.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Broken key removal (fragment flush/buried)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Delicate extraction; lock function checks included.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Broken key removal from stiff/jammed lock
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Includes assessment of binding/stiffness; advice on next steps.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Locked out due to snapped key (door opening + extraction)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Damage-minimised entry where possible; secure re-locking checked.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Locked out on uPVC multi-point (engaged system) + extraction
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Multi-point cycle checked after; alignment resistance may affect time.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Euro cylinder with key left in the back + extraction
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Depends on cylinder type/emergency function; case-by-case.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Mortice lock (timber door) broken key extraction
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Careful removal to avoid internal damage; operation tested after.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Night latch (Yale-type rim lock) broken key extraction
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Focus on protecting rim cylinder; smooth turning checked after.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Padlock / garage lock / outbuilding broken key extraction
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Weather/corrosion can increase complexity; replacement may be recommended (parts extra).
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safe-Entry Standards and Trust -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe-entry standards, trust checks, and workmanship
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Locksmith work is access-sensitive by nature. Professional standards aren't just about tools — they're about safety, verification, and accountability.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Proof of occupancy -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Proof of occupancy and responsible entry
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In many situations, a legitimate locksmith will take reasonable steps to confirm occupancy or authorisation (especially when a door is being opened). This protects residents and discourages misuse of emergency locksmith services.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Insurance and liability -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Insurance and liability cover
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Because broken key removal can involve door hardware and security, it's reasonable to expect insured work and care around finishes, handles, and cylinders. This is particularly relevant where a lock is delicate, high-security, or part of a multi-point mechanism.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Guaranteeing the outcome -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Guaranteeing the outcome
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A good service isn't only "key removed" — it's "lock works smoothly and locks securely". Where parts are fitted or adjustments made, workmanship standards and sensible guarantees provide reassurance that the fix is meant to last, not just get you through the night.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Commercial premises -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Commercial premises and controlled access
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For businesses, broken keys can affect access control and operational security. In commercial contexts, considerations may include restricted areas, key management, and ensuring the final solution restores secure access without introducing new vulnerabilities.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Preventing Another Snapped Key -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Preventing another snapped key
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A broken key is often a warning sign. Addressing the underlying cause can reduce the chance of the next key snapping — and can prevent a more expensive lock failure later. When lubricating your lock, avoid oil based lubricants as they can attract dirt and cause long-term damage; instead, use a silicone based lubricant, especially for outdoor locks, to reduce friction and maintain lock integrity.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Replace worn keys -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Replace worn, bent, or poor-quality copies
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Old keys wear down gradually. Copies made from worn keys tend to be worse, not better — and can increase resistance in the keyway. Replacing heavily worn keys can noticeably improve smoothness.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Keep door and lock aligned -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Keep the door and lock aligned
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            uPVC doors can drop slightly over time. If you have to lift the handle hard, push/pull the door, or "wiggle" the key to lock, alignment may be stressing both the mechanism and the key. Small adjustments can reduce load and help locks operate smoothly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Use lubrication correctly -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Use lubrication correctly (and sparingly)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Not all sprays are suitable for locks. Over-lubrication can trap grit and make things worse. If the lock is persistently stiff, it's better to address the cause than to mask it repeatedly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Cold weather considerations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Cold weather and exposed locks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Padlocks, garage locks, and external locks are more prone to stiffness in winter. Moisture and grit can increase resistance and encourage force — the main ingredient in key snapping.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs about broken key removal in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can I remove a broken key myself?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Sometimes, but it's easy to make it worse. Common DIY attempts that cause problems include: superglue methods (glue enters the keyway and binds pins), drilling without understanding the lock (permanent damage), improvised tools that burr the keyway or push the fragment deeper, and snapping an extractor tool inside the lock. If the fragment is flush and the lock is stiff, DIY often turns a simple extraction into a replacement job.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What should I do immediately after the key snaps?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                If you can, avoid turning the lock further or inserting tools that could push the fragment deeper. Keep any broken pieces of the key, and note whether the lock was stiff beforehand. If the door is currently insecure, prioritise making it secure once the extraction is complete.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will you always need to drill the lock?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                No. Non-destructive methods are typically attempted first. Drilling is usually a last resort when the lock is already compromised, the fragment is severely jammed, or the keyway has been damaged by earlier attempts.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you remove a broken key if another key is left in the back?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It depends on the cylinder type and the position of the cam. Some cylinders allow external operation even when a key is inserted inside; others don't. This is a common scenario and is handled case-by-case.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do I need to replace the whole lock after a snapped key?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, no. On many uPVC doors, replacing the Euro cylinder is enough if replacement is necessary at all. On mortice locks, the lock case may remain usable if there's no internal damage.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you handle padlocks and garage locks as well?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes, broken keys in padlocks and garage locks are common. Corrosion and weather exposure can mean replacement is the most reliable solution, but extraction is often possible depending on condition.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Who's responsible — landlord or tenant?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It depends on the tenancy agreement and the cause. If the lock is faulty or worn, it may fall under maintenance. If a key has been damaged through misuse, it may be treated differently. Keeping the broken key and noting any long-term stiffness can help clarify the likely cause.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Emergency Broken Key Removal in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Key snapped in lock? Locked out? Don't risk DIY methods that could make things worse. We provide professional broken key extraction across {{location}} with non-destructive methods and reliable outcomes.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔑</span>
+            Emergency Key Extraction
+          </a>
+         
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+  
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Emergency Locksmith -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-locksmith/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Emergency locksmith call-out
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          24/7 rapid response for all lock emergencies.
+        </p>
+      </div>
+    
+      <!-- Locked Out -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/locked-out/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Get back inside fast
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Locked out? We'll get you back inside quickly.
+        </p>
+      </div>
+    
+      <!-- Burglar Repair -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/burglar-repair-service/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Security repairs after a burglary
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Secure your property after a break-in with our repair service.
+        </p>
+      </div>
+    
+      <!-- Emergency Boarding Up -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-boarding-up/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Rapid boarding-up service
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Emergency boarding-up for damaged doors and windows.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Return home
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Back to our main locksmith services page.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a 
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call 24/7 for Key Removal</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

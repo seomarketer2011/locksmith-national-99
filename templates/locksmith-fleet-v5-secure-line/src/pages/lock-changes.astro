@@ -1,0 +1,1208 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Lock and keys.png";
+import lock from "../assets/services/Mortice lock image.png";
+import lock2 from "../assets/services/Lock and keys.png";
+import lock3 from "../assets/services/Mortice lock image.png";
+import lock4 from "../assets/services/Lock and keys.png";
+
+// Enrichment overlay for service: lock-changes
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "lock-changes";
+const metaTitle = e[`${slug}.meta.title`] ?? `Door Lock Change {{location}} | Fast, Professional Lock Replacement `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency door lock change in {{location}}. Lost keys? Moving home? Need lock replacement fast? Professional lock change service for uPVC, timber & composite doors. Same-day service available.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<!-- Door Lock Change Hero Section (Tailwind CSS) -->
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Same-day service</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Upfront quote before work</span>
+        
+        <span class="px-3">Fresh keys today</span>
+        
+      </div>
+    </div>
+
+    <!-- Main content -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Door Lock Change in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `Book Today, We Attend Today in {{location}} • Quality Lock Change • Neat Workmanship • Parts Carried •
+          Quote Confirmed Before Work Starts On Approval.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              New Keys, Better Security
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We change door locks to new keys and improve security on homes and flats.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Correct Fit & Smooth Operation
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Correct size cylinder or mechanism fitted for smooth operation and proper latch throw.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Clear Quote, No Call-Out Fee
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Quote confirmed before work starts, including supply and fitting, with no call-out fee.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Local Technician & Advice
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              Local technician with popular locks carried, work guaranteed, and key control advice.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Call Now for Lock Change</a>
+
+ 
+      </div>
+    </div>
+  </div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional door lock change service"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Door Lock Change in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            If your keys have gone missing, you've just moved in, or the lock has started failing at the worst possible moment, a door lock change in {{location}} is often the fastest way to restore security and get your day back on track. If you are facing a locked door due to lost keys or a malfunction, an emergency locksmith can provide rapid access and have your locks changed quickly. A proper lock change isn't just swapping a barrel — it's making sure the replacement is compatible with your door, fitted cleanly, and matched to the security level you actually need (including anti-snap protection for many uPVC doors). For urgent situations, a skilled locksmith will prioritise non-destructive entry wherever possible, then replace or upgrade the lock so you're not left vulnerable after a lost key, suspected theft, or forced entry.
+          </p>
+          <p>
+            With {{name}}, you can expect clear price factors up front, the right advice on lock types (uPVC euro cylinders, multi-point systems, mortice locks, nightlatches), and practical guidance on security grades commonly referenced by insurers. Locksmith prices can vary depending on whether the service is during normal working hours or requires an emergency call out, and a call out fee may apply for urgent or out-of-hours visits. Whether it's an emergency lock change late at night, a planned upgrade for peace of mind, or a straightforward "new home, new keys" replacement, the aim is simple: a secure, smooth-working lock fitted properly for your door in {{location}}.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔑</span>
+            Call for Lock Change
+          </a>
+       
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Introduction to Door Lock Change -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Introduction to Door Lock Change
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Changing a door lock is one of the most effective ways to boost your home security, whether you've just moved in, lost your keys, or want to upgrade to a more secure system. The process involves removing the old lock and fitting a new one.. However, with so many types of locks available—such as mortice locks, rim cylinder locks, and euro cylinder locks—it's important to choose the right lock for your specific door and security needs. Each lock type offers different features and levels of protection, so understanding these differences is key to making the right choice. For more complex installations or if you're unsure about compatibility, a professional locksmith can provide expert advice and ensure your new lock is fitted correctly, giving you peace of mind that your home is secure.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Door lock change and replacement service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- When you should change your locks -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          When you should change your locks
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A lock change is most commonly booked for one of these reasons — each affects what's needed and how quickly it should be done, and the process can also depend on how many locks are involved. If there is more than one lock, such as two locks on a single door, or multiple locks throughout the property, this can increase the urgency and complexity of the lock change.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Moving house or taking over a property -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Moving house or taking over a property
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Even if you've been handed a full set of keys, you can't know how many copies exist or who still has one. A lock change gives you a clean reset so only your household has access.
+          </p>
+          <p>
+            Most insurance companies recommend or require new homeowners to change their locks to a British Standard, such as BS3621, to ensure compliance with policy terms and improve security.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lost or stolen keys -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lost or stolen keys
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you have lost keys, there's uncertainty. If they're stolen, there's risk. In both cases, changing the lock (or cylinder on many uPVC doors) is usually the most direct way to restore security. After a lock change due to lost keys, you will be provided with a new key for your security.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Break-in, attempted break-in, or damage after forced entry -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Break-in, attempted break-in, or damage after forced entry
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After forced entry, the priority is to make the door secure again. In some cases, it may be possible to repair locks instead of replacing them, depending on the extent of the damage. That might mean replacing a cylinder, repairing or replacing a multi-point mechanism, or upgrading handles as well as the lock. Lock snapping is a common method used during break-ins, so upgrading to anti-snap locks can help prevent future incidents.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lock failure or ongoing stiffness -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lock failure or ongoing stiffness
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the key turns roughly, the door is hard to lock, or you're having to "lift the handle just right", the issue may be a worn lock, a failing multi-point system, or door alignment. Improper lock fit can also lead to ongoing stiffness or difficulty locking the door, as the lock may not be sized or aligned correctly within the door and strike plate. If you notice that you have to turn the key slightly in a particular way to get it to work, this may indicate a deeper issue with the lock or its alignment. A lock change is often part of the fix — but diagnosing the real cause matters so the same problem doesn't return.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What type of door and lock do you have? -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What type of door and lock do you have?
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lock changes vary because doors vary. The most important step is matching the replacement to the door and existing hardware.
+          </p>
+          <p>
+            Internal doors may also require lock changes for added privacy or security, and it's essential to measure and mark the keyhole positions accurately to ensure the new lock fits properly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- uPVC and composite doors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          uPVC and composite doors (euro cylinder and multi-point locking)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many homes in {{location}} have uPVC or composite doors with a euro cylinder and a multi-point locking system (the mechanism that secures the door at several points along the frame). Choosing a high security euro cylinder for your upvc door lock can significantly improve protection against forced entry. The euro lock cylinder fits into a lock case, which is a key component of the door's security system. In many cases, the cylinder can be replaced quickly without changing the whole mechanism, provided the mechanism is working correctly.
+          </p>
+          <p>
+            Typical lock-change options:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Standard cylinder replacement (like-for-like)</li>
+            <li>Security upgrade cylinder (anti-snap/anti-bump/anti-drill features)</li>
+            <li>Handle and cylinder upgrade together (useful if the door is vulnerable to snapping attacks)</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Timber doors (mortice locks) -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Timber doors (mortice locks)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Traditional wooden doors commonly use mortice locks set into the door's edge. These can be replaced like-for-like, or upgraded to a higher-security option if required. Replacing a mortice sash lock can be more complex than other types due to its installation within the door's edge, making precise measurements along the door's edge crucial for a proper fit. Because sizes and fixing points vary, correct measurement and fitting are essential. Additionally, it is important to ensure the strike plate is properly aligned with the latch or bolt for secure locking.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Nightlatches -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Nightlatches (often used as a secondary lock)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A nightlatch is often found on older front doors, sometimes paired with a mortice deadlock. A nightlatch is a type of rim lock, typically mounted directly on the door's surface for ease of installation and use. Replacing a nightlatch can improve day-to-day usability while strengthening security, particularly if you want more control over internal locking and key access.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Security upgrades that actually matter -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Security upgrades that actually matter
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Many people searching for a lock change are really searching for a security upgrade. The right upgrade depends on your door type, area, and what you want to protect against.
+            </p>
+            <p>
+              Choosing the right security upgrades helps maintain security and ensures you meet insurance requirements.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Security upgrades and lock change service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Anti-snap protection for euro cylinders -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Anti-snap protection for euro cylinders
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            On many uPVC/composite doors, cylinder snapping is a known method of attack. An anti-snap cylinder is designed to resist snapping and reduce the chance of a quick entry. If your door uses a euro cylinder, this is often one of the most meaningful upgrades you can make. Choosing a high-quality lock cylinder with anti-snap features is essential for preventing this type of attack.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Anti-bump and anti-drill features -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Anti-bump and anti-drill features
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Depending on the lock design and quality, additional features can help protect against certain forced techniques. A good locksmith will explain what these features do in plain English and recommend a sensible level of security for your property.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Insurer-friendly lock standards -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Insurer-friendly lock standards (where relevant)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some people look for locks commonly described as insurance-approved (for example, standards such as BS3621 are often referenced for certain door types). What matters most is fitting a lock that is suitable for your door, correctly installed, and appropriate for how the door is used — and understanding what your insurer expects for your specific situation.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door frame and lock installation: getting it right from the start -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Door frame and lock installation: getting it right from the start
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              A secure door lock is only as strong as the door frame and the quality of the installation. Before fitting a new lock, it's essential to check that the door frame is solid and free from damage, as a weak frame can undermine even the best lock. The type of lock you choose—whether it's a mortice lock for a wooden door or a euro cylinder lock for a uPVC door—must be compatible with both the door and the frame. Proper installation means using the correct mounting plate, screws, and ensuring the lock sits flush with the door's surface. For mortice locks, precise cutting and alignment are crucial, while euro cylinder locks benefit from standardized profiles that make replacement more straightforward. If you're unsure about the best approach, consulting a professional locksmith or seeking guidance from the Master Locksmiths Association can help you avoid common pitfalls and ensure your lock is installed to the highest standard, maintaining both security and smooth operation.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Door frame and lock installation"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How we approach emergency lock changes in [location] -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          How we approach emergency lock changes in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            When you're locked out or dealing with a security risk, you want speed — but you also want minimal disruption.
+          </p>
+          <p>
+            Emergency locksmith jobs often involve urgent access to a locked door, sometimes outside normal working hours.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Non-destructive entry where possible -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Non-destructive entry where possible
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            The priority is to get you back in without unnecessary damage. If a non-destructive method is possible, it's generally the best outcome for your door, your costs, and your peace of mind.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Replacing the lock securely -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Replacing the lock securely (not just "making it work")
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Once access is restored, the lock needs to be replaced or upgraded so the property is secure again. Some locks are designed to be operated from both the inside and outside, providing added convenience and security. That includes checking that the lock operates smoothly, aligns properly with the frame, and locks reliably.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Extra care after a break-in or forced damage -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Extra care after a break-in or forced damage
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the door or frame has been forced, the lock change may need to be paired with adjustments or replacement parts so the door closes and locks correctly. Simply fitting a new lock into a compromised door can leave weak points behind.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cylinder lock removal: what to expect -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Cylinder lock removal: what to expect
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Removing a cylinder lock, such as a euro cylinder lock, is a straightforward process when done carefully. Start by opening the door and locating the retaining screw on the door's edge, which holds the cylinder lock in place. Once the retaining screw is removed, gently pull the cylinder out of the lock body, taking care not to force it or damage the locking mechanism. It's important to measure the existing cylinder accurately before purchasing a new cylinder, as the correct size ensures a secure fit and smooth operation. If the cylinder is stuck or the lock is damaged, specialized tools may be needed, and it's wise to call a professional locksmith to avoid causing further issues. Understanding how the locking mechanism works and following the right steps will make the lock replacement process efficient and help maintain your home security.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock compatibility and measurements -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Lock compatibility and measurements: why "close enough" isn't good enough
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lock changes go wrong when parts are mismatched. A proper replacement depends on measuring and verifying key details. When replacing a lock, it's important to ensure the new lock fits the existing hole in the door. During installation, make sure the cylinder insert is inserted correctly and secured with the fixing screw, as this is essential for proper lock operation.
+          </p>
+        </div>
+      </div>
+      
+      <!-- For euro cylinders (common on uPVC/composite) -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          For euro cylinders (common on uPVC/composite)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Cylinder length and configuration matter. The correct size prevents overhang (which can make snapping easier) and ensures the key turns smoothly without strain.
+          </p>
+        </div>
+      </div>
+      
+      <!-- For mortice locks and nightlatches -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          For mortice locks and nightlatches
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Case size, backset, fixing positions, and door thickness all affect what will fit and how secure it will be once installed. The goal is a clean fit that leaves no gaps, no wobble, and no compromised fixings.
+          </p>
+        </div>
+      </div>
+      
+      <!-- When the issue is actually door alignment -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When the issue is actually door alignment
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A lock can feel "broken" when the real problem is the door not sitting correctly in the frame. If you have to push, lift, or pull the door to lock it, alignment may be part of the solution — and addressing it can extend the life of the replacement lock.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Price factors for a door lock change in [location] -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Price factors for a door lock change in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Costs vary because the work varies. The most common price factors include:
+          </p>
+        </div>
+      </div>
+      
+      <!-- Price factors list -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The type of lock being replaced, such as garage locks or front door locks, as different lock types can influence the overall cost of a lock change.</li>
+            <li>Whether you are also replacing or upgrading the door handle, or installing additional door bolts, as these components can also affect the total price.</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The type of lock and door</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Additional price factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+          <li>Euro cylinder vs mortice lock vs nightlatch</li>
+          <li>Multi-point system involvement (cylinder-only changes are often simpler than mechanism replacement)</li>
+          <li>Security level of the replacement</li>
+          <li>Higher-security cylinders or upgraded hardware can cost more, but may offer better protection and longer-term value.</li>
+          <li>Number of locks being changed</li>
+          <li>Changing multiple locks (front door, back door, additional entry points) affects time and parts.</li>
+          <li>Time of day and urgency</li>
+          <li>Out-of-hours and emergency attendance can change the price due to response time and availability.</li>
+          <li>Condition of the existing lock and door</li>
+          <li>If a lock is seized, damaged, or has been forced, additional work may be required. If drilling/extraction is unavoidable, it can also affect cost — although the aim is always to avoid unnecessary damage.</li>
+        </ul>
+      </div>
+
+      <!-- Pricing Table -->
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC/composite euro cylinder change (like-for-like)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Remove old cylinder, fit correct size replacement, test operation; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC/composite high-security euro cylinder upgrade (anti-snap)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Upgrade to anti-snap/anti-bump/anti-drill style cylinder; correct sizing to reduce overhang; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC/composite handle + cylinder change (upgrade together)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Replace handle set and cylinder, align and test multi-point engagement; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Timber door mortice lock change (like-for-like)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Measure case/backset, fit and test; tidy fitting where possible; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Timber door mortice lock upgrade (BS3621 where suitable)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Upgrade to insurer-referenced standard where appropriate; may require minor adjustments for fit; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Nightlatch change (rim lock)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Remove and replace nightlatch, set keep/strike for smooth closing; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Emergency non-destructive entry + lock/cylinder change (lost keys/lockout)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Non-destructive entry where possible, then secure replacement; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lock change after forced entry or seized lock (may involve drilling/extraction)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Make secure after damage; drilling only if unavoidable; parts extra and condition-dependent.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC multi-point mechanism change (when the mechanism is failing)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Diagnose, replace mechanism and re-test operation; parts availability affects scope; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Each additional lock/cylinder changed on the same visit (add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Additional labour per extra lock once the first hour is already covered; parts extra.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Landlord, tenant, and property management lock changes -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Landlord, tenant, and property management lock changes
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lock changes are common during tenancy turnover and property management — particularly when key control is unclear.
+          </p>
+        </div>
+      </div>
+      
+      <!-- End-of-tenancy and new tenancy -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          End-of-tenancy and new tenancy
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Changing locks helps restore key control and reduces the risk of unauthorised access. It can also prevent disputes where keys haven't been returned.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Letting agents and HMOs -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Letting agents and HMOs
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where multiple occupants and key holders are involved, consistency matters. A straightforward process for access, proof of authority, and clear options for lock types can make ongoing management simpler.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Proof of occupancy and responsible access -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Proof of occupancy and responsible access
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A professional lock change service should take safety seriously. For certain call-outs — particularly where entry is involved — you may be asked for proof that you have the right to access the property (for example, ID plus a document linking you to the address, or confirmation from a landlord/agent). This protects residents and ensures the work is carried out responsibly.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rekey vs replace: what's usually realistic for door lock changes -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Rekey vs replace: what's usually realistic for door lock changes
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In many UK residential situations, "rekeying" in the way people imagine it isn't always the simplest route, especially for common euro cylinders where replacement is straightforward. A lock change is often the clearer option: it resets access immediately, can upgrade security at the same time, and reduces uncertainty about wear and compatibility.
+          </p>
+          <p>
+            If you're not sure what applies to your specific lock type, the practical approach is to identify what's fitted now and choose the most secure, compatible solution.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Smart locks as an upgrade option -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Smart locks as an upgrade option
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              If you're changing locks because you want better access control, a smart lock can be an option — especially for households that want keypad entry, app control, or easier management of who can access the property. Whether it's suitable depends on your door type, existing mechanism, and how you want entry to work day-to-day. For many people, a high-quality mechanical upgrade (such as an anti-snap cylinder on a uPVC door) is the simplest security improvement; for others, smart access is the priority.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock4}
+              alt="Smart locks as an upgrade option"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to expect from a proper lock change -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What to expect from a proper lock change
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A good lock change should leave you with:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>A lock that fits correctly and operates smoothly</li>
+            <li>A door that closes, aligns, and locks reliably</li>
+            <li>Security features appropriate to your door type and risk level</li>
+            <li>Clear explanation of what was fitted and why, including options for upgrading</li>
+            <li>A sensible guarantee on parts and labour (where provided)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs about door lock changes in [location] -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs about door lock changes in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How quickly can a lock be changed?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Many cylinder replacements can be completed quickly once the correct part is selected. If a multi-point mechanism is failing, diagnosis and parts availability can affect the timeline.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will my door be damaged during the lock change?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                The aim is always to minimise disruption. Non-destructive methods are preferred, and replacement parts should be fitted cleanly. Damage is more likely where locks are seized, forced, or misaligned — which is why proper assessment matters.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do I need to change locks after moving in?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It's one of the simplest ways to regain full control over who can access your home, even if keys have been returned.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you change a lock if the key has snapped in it?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often yes. The approach depends on whether the key can be extracted cleanly and whether the lock has been damaged. In some cases, replacement is the most efficient solution.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What lock should I choose for a uPVC door?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                For many uPVC/composite doors, upgrading to an anti-snap euro cylinder is a strong improvement. Correct sizing and correct fitting are just as important as the cylinder itself.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Need a Door Lock Change in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Lost keys? Moving home? Need emergency lock change? We provide fast, professional lock change service in {{location}} for all door types.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for same-day service or emergency lock change.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Call for Lock Change
+          </a>
+        
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Door Lock Installation -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-installation/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Fit new door locks
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Professional installation of new locks on your doors.
+        </p>
+      </div>
+    
+      <!-- Door Lock Repair -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Fix a faulty lock
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair locks that are sticking, jamming, or not working correctly.
+        </p>
+      </div>
+    
+      <!-- Door Lock Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Replace your lock cylinder
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Upgrade or replace the lock cylinder for better security.
+        </p>
+      </div>
+    
+      <!-- Door Repairs -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Repair the door & frame
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix structural issues with doors, frames, and alignment.
+        </p>
+      </div>
+    
+      <!-- Window Lock Repair/Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/window-lock-repair-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Window lock fixes
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair or replace damaged or ineffective window locks.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Home
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a 
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Lock Change</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

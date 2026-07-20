@@ -1,0 +1,1413 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import hero from "../assets/services/Broken lock repair.png"
+import lock from "../assets/services/door handle repair.png"
+import { Image } from "astro:assets";
+
+// Enrichment overlay for service: lock-repairs
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "lock-repairs";
+const metaTitle = e[`${slug}.meta.title`] ?? `Door Lock Repair {{location}} | Professional Lock Repair Services `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Expert door lock repair in {{location}}. Fix jammed locks, broken keys, uPVC multipoint locks, mortice locks & security upgrades. 24/7 emergency service available.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3">Same-day service</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Upfront quote before work</span>
+        
+        <span class="px-3">Smooth locking restored</span>
+        
+      </div>
+    </div>
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+    <h1 class="text-4xl font-bold">Door Lock Repair in {{location}}</h1>
+    <p class="mt-4 text-gray-600">
+          {heroParagraph || `Same-Day Door Lock Repair in {{location}} • Restore Smooth Operation • Correct Alignment and Security Checks • Parts Carried • Upfront Quote Before Work Starts.`}
+        </p>
+
+    <div class="mt-8 grid sm:grid-cols-2 gap-4">
+      <div class="border rounded-xl p-5">Repair stiff, loose, or failing locks to restore reliable locking.</div>
+      <div class="border rounded-xl p-5">Diagnose faults, adjust alignment, replace worn parts, and test full cycle.</div>
+      <div class="border rounded-xl p-5">Upfront quote provided and honest advice on repair vs replacement.</div>
+      <div class="border rounded-xl p-5">Parts carried, work guaranteed, and security checks completed.</div>
+    </div>
+    <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Speak to a Locksmith Today</a>
+  </div>
+</div>
+</div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero} 
+        alt="Professional door lock repair service"
+        class="w-full h-full object-cover opacity-30" width={1200} height={600} loading="eager" fetchpriority="high" />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl mx-left text-left">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Door Lock Repair <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            If your door lock is jammed, your key won't turn, or the door won't lock properly, you need a repair that restores security fast — without guesswork. We provide door lock repair in {{location}} for homes, flats and businesses, with practical solutions for common lock faults and a clear explanation of what's needed.
+          </p>
+          <p>
+            Whether it's a quick adjustment, a replacement part, or a security upgrade after a break-in, we'll help you get the door working smoothly again and make sure the property is properly secured.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4 justify-left">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔧</span>
+            Call for Repair Service
+          </a>
+         
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency door lock repair in [Location] (24/7) -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Emergency door lock repair in <span class="text-amber-500">{{location}}</span> (24/7)
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            Some lock problems can't wait:
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>You're locked out or the key has snapped in the lock</li>
+            <li>The door won't lock, leaving the property insecure</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The lock has been damaged after a break-in or attempted break-in</li>
+            <li>The mechanism has failed and the door is stuck shut</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800">
+              If it's urgent, we prioritise emergency call-outs in {{location}} so you can regain access and secure the door as quickly as possible.
+            </p>
+            <p class="mt-4 font-medium text-neutral-900">
+              Choosing an MLA-approved locksmith ensures reliability and expertise during emergencies.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What we can repair -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What we can repair
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We repair and troubleshoot a wide range of door lock types commonly found across the UK. Locksmiths can repair various types of door locks, including mortice locks, euro cylinder locks, anti-snap locks, and upvc locks.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC Door and Window Locks -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl font-bold text-neutral-900">
+            2.1 uPVC Door and Window Locks
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              uPVC locks are common fixtures on domestic doors and windows, including French and patio doors. Modern uPVC locking mechanisms often feature multi point locks and deadbolts, which provide enhanced security compared to traditional latch and roller styles. These multi point locks and deadbolts can sometimes jam or fail, but locksmiths can repair a variety of uPVC locking mechanisms, including these components, on-site.
+            </p>
+            <p>
+              Choosing a locksmith who is a member of the Master Locksmiths Association ensures high standards and expertise.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock} 
+              alt="uPVC door and window lock repair"
+              class="w-full h-[400px] object-cover" width={800} height={400} loading="lazy" />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC door lock repair (multipoint & gearbox faults) -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          uPVC door lock repair (multipoint & gearbox faults)
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            uPVC and composite doors often use multipoint locking systems. Typical issues include:
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-10 max-w-3xl mx-auto">
+        <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+          <li>The handle lifts but the door won't fully lock</li>
+          <li>The lock is stiff or the key won't turn</li>
+          <li>A failed gearbox or worn internal components</li>
+          <li>Misalignment causing the hooks/rollers to miss the keeps</li>
+        </ul>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="space-y-6 text-lg text-neutral-700 text-left">
+            <p>
+              Faulty handles and broken gearboxes are also common issues with uPVC door locks.
+            </p>
+            <p>
+              Warping or misalignment can prevent the locking points from engaging properly, which may compromise the security of the door.
+            </p>
+            <p>
+              Universal uPVC door lock repair kits are available for doors with a 35mm backset. These kits typically include components that make installation quick and easy.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Euro cylinder lock problems -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Euro cylinder lock problems
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            We can diagnose issues with Euro cylinders, including:
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-10 max-w-3xl mx-auto">
+        <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+          <li>Key turning but not engaging properly</li>
+          <li>Stiff operation or intermittent jamming</li>
+          <li>Damage from attempted forced entry</li>
+          <li>Advice on upgrading to more secure options (e.g., anti-snap styles)</li>
+        </ul>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700 text-left">
+            <p>
+              A stuck key can often result from a worn key, dirt, or a misaligned lock. Using a spare key or a new key that is not poorly cut can help diagnose whether the problem is with the key or the lock itself. Poorly cut new keys can cause difficulty turning in euro cylinder locks and may even damage the lock if forced.
+            </p>
+            <p class="mt-4">
+              Common door lock problems include misalignment, stuck keys, loose or wobbly locks, and internal mechanism failures, often caused by wear, weather, or warped doors.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mortice lock repair (including 5-lever locks) -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-3xl font-bold text-neutral-900">
+            Mortice lock repair (including 5-lever locks)
+          </h2>
+          
+          <div class="mt-8 text-lg text-neutral-700">
+            <p>
+              Common on timber doors, mortice locks can develop:
+            </p>
+          </div>
+          
+          <div class="mt-8 space-y-4">
+            <li>Loose or worn internal parts</li>
+            <li>Keys that stick, turn roughly, or stop turning</li>
+            <li>Latches that don't retract cleanly</li>
+            <li>Problems after door swelling or movement</li>
+          </div>
+          
+          <div class="mt-8 text-lg text-neutral-700">
+            <p>
+              Sometimes, a seized mortice lock will allow you to insert the key but not turn it, often due to dirt or blockage inside the lock.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={hero} 
+              alt="Mortice lock repair services"
+              class="w-full h-[400px] object-cover" width={800} height={400} loading="lazy" />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Nightlatch / Yale-type lock repair -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Nightlatch / Yale-type lock repair
+        </h2>
+        
+        <div class="mt-8 text-lg text-neutral-700">
+          <p>
+            If a nightlatch is unreliable, it can become a security risk. We deal with:
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-10 max-w-3xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Latch not catching</li>
+            <li>Snib issues</li>
+          </ul>
+          
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Misalignment between latch and keep</li>
+            <li>Replacement where repair isn't cost-effective</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Smart lock troubleshooting -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Smart lock troubleshooting
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            The first step in troubleshooting smart locks and keypad systems is to check for mechanical and installation issues, as many "smart" problems originate here. Common causes of failure include:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Alignment issues on the door</li>
+              <li>Low power/battery problems</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Mechanical resistance in the latch/bolt</li>
+              <li>Setup faults after a change of phone, Wi-Fi, or settings</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Commercial & specialist door locks -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Commercial & specialist door locks
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We also handle lock repairs for:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Offices, shops and commercial premises</li>
+            <li>Access control / keypad lock faults (mechanical components and alignment)</li>
+            <li>Patio doors, French doors, aluminium door locks, and more</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              In addition, locksmiths can repair and replace locks and hardware for various types of windows, including UPVC windows, as well as window handles and hinges.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Faulty locks and anti snap locks: what you need to know -->
+  <section class="bg-gradient-to-r from-neutral-900 to-neutral-800 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold">
+            Faulty locks and anti snap locks: what you need to know
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-300">
+            <p>
+              A faulty lock or a compromised locking mechanism can put your home security at serious risk. When a lock isn't working as it should—whether it's sticking, not engaging fully, or the key turns without locking the door—it's a clear sign that the locking mechanism may be faulty. Faulty locks can leave your door vulnerable, making it easier for intruders to force entry and putting your property and peace of mind in jeopardy.
+            </p>
+            <p>
+              One of the most common security threats to modern doors is lock snapping. This method targets the lock cylinder, exploiting weaknesses in standard locks to break them and gain access quickly. That's where anti snap locks come in. Anti snap locks are specially designed to resist this type of attack, featuring reinforced sections that prevent the lock from snapping in the event of an attempted break-in. By upgrading to anti snap locks, you add a crucial layer of security to your door, making it much harder for burglars to bypass your locking mechanism.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock} 
+              alt="Anti snap locks and security upgrades"
+              class="w-full h-[500px] object-cover" width={800} height={500} loading="lazy" />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/50 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="mt-12 max-w-4xl mx-auto text-center">
+        <div class="space-y-6 text-lg text-neutral-300">
+          <p>
+            If you notice any signs of a faulty locking mechanism—such as difficulty turning the key, the lock feeling loose, or the door not securing properly—it's essential to have the lock checked and repaired as soon as possible. Upgrading to anti snap locks is a smart investment in your home security, especially for exterior doors and properties with euro cylinder locks. A professional locksmith can assess your current locks, recommend the best anti snap options, and ensure everything is fitted and working correctly, so you can enjoy peace of mind knowing your home is secure.
+          </p>
+          <p>
+            Don't wait for a faulty lock to become a security risk. Addressing lock problems early and considering anti snap upgrades is the best solution for keeping your home and loved ones safe.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Common door lock problems we fix -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Common door lock problems we fix (and what they usually mean)
+        </h2>
+      </div>
+      
+      <!-- My key won't turn -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-neutral-900">
+          "My key won't turn"
+        </h3>
+        <div class="mt-4 text-lg text-neutral-700">
+          <p>
+            Often caused by:
+          </p>
+        </div>
+        
+        <div class="mt-6 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Misalignment between door and frame</li>
+              <li>A worn cylinder or internal lock wear</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Debris or damage inside the mechanism</li>
+              <li>A door that has dropped slightly over time</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Ensuring the lock and strike plate are properly aligned is important for smooth operation. If the key is stiff or hard to turn, lubricating the lock can help.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Jammed / stuck locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-neutral-900">
+          Jammed / stuck locks
+        </h3>
+        <div class="mt-4 text-lg text-neutral-700">
+          <p>
+            A lock that's seized or jammed can indicate:
+          </p>
+        </div>
+        
+        <div class="mt-6 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Internal component failure</li>
+              <li>A misaligned bolt/latch binding in the keep</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Door movement (weather, swelling, hinge wear)</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Rust and the buildup of dirt or grime inside the locking mechanism are also common reasons for locks to jam or seize.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Broken key extraction -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-neutral-900">
+          Broken key extraction
+        </h3>
+        <div class="mt-4 text-lg text-neutral-700">
+          <p>
+            If a key has snapped in the lock, forcing it can push fragments deeper. We can:
+          </p>
+        </div>
+        
+        <div class="mt-6 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Extract the broken piece</li>
+            <li>Check for internal damage</li>
+            <li>Rekey or replace the cylinder if needed</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Door won't lock or won't shut properly -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-neutral-900">
+          Door won't lock or won't shut properly
+        </h3>
+        <div class="mt-4 text-lg text-neutral-700">
+          <p>
+            Often linked to:
+          </p>
+        </div>
+        
+        <div class="mt-6 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Door and frame alignment</li>
+              <li>Keep/strike plate position</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Hinges needing adjustment</li>
+              <li>Multipoint lock keeps not lining up</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 max-w-4xl mx-auto text-center">
+          <div class="text-lg text-neutral-700">
+            <p>
+              Issues with the door latch, such as misalignment or sticking, can also prevent the door from locking or shutting properly. Additionally, warping of doors due to fluctuating weather conditions can affect the lock's functionality.
+            </p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Handle feels loose or "floppy" -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold text-neutral-900">
+          Handle feels loose or "floppy"
+        </h3>
+        <div class="mt-4 text-lg text-neutral-700">
+          <p>
+            Common with uPVC mechanisms and gearboxes, where the internal drive is worn or has failed.
+          </p>
+          <p class="mt-4">
+            Loose or worn screws in the handle or mechanism can also cause the handle to feel floppy, and may need tightening or replacement.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Repair vs replacement -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Repair vs replacement: what's best?
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Sometimes a repair is the quickest fix. Other times, replacing a component is the safest long-term solution.
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-12 max-w-6xl mx-auto">
+        <div class="grid lg:grid-cols-2 gap-12">
+          <!-- We'll usually recommend repair when -->
+          <div class="bg-white border border-neutral-200 rounded-2xl p-8">
+            <h3 class="text-2xl font-bold text-neutral-900">
+              We'll usually recommend repair when:
+            </h3>
+            
+            <div class="mt-6 space-y-4">
+              <li>Alignment or keep positioning is the main issue</li>
+              <li>The cylinder is serviceable and the mechanism is sound</li>
+              <li>The fault is minor and predictable</li>
+            </div>
+          </div>
+          
+          <!-- We'll usually recommend replacement when -->
+          <div class="bg-white border border-neutral-200 rounded-2xl p-8">
+            <h3 class="text-2xl font-bold text-neutral-900">
+              We'll usually recommend replacement when:
+            </h3>
+            
+            <div class="mt-6 space-y-4">
+              <li>The lock mechanism or gearbox has clearly failed</li>
+              <li>Security has been compromised (especially after forced entry)</li>
+              <li>Parts are worn to the point where repeat failure is likely</li>
+              <li>You want an upgrade for insurance or security reasons</li>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Post break-in lock repair and securing -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Post break-in lock repair and securing
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After a break-in or attempted break-in, speed matters — but so does doing it properly. We can:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Replace damaged cylinders/mechanisms</li>
+            <li>Re-align doors and keeps if forced</li>
+            <li>Provide practical security upgrades (where appropriate)</li>
+            <li>Help you restore a safe, secure close and lock</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Security upgrades and UK standards -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Security upgrades and UK standards (where relevant)
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you're improving security or replacing a lock, we can advise on:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>More secure cylinder options (including anti-snap styles)</li>
+            <li>Reinforced keeps and improved strike plates</li>
+            <li>Options aligned to common UK insurance expectations (for example, BS 3621 on certain doors/locks, depending on property type and insurer requirements)</li>
+            <li>Security-minded product choices, including "police preferred" style ranges where suitable (e.g., Secured by Design-aligned products)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800">
+              If you're unsure what your insurer expects, we'll help you choose a sensible option without overcomplicating it.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- No-damage entry where possible -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          No-damage entry where possible
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you're locked out or the lock has failed, we'll aim for non-destructive entry where the situation allows. If drilling or replacing parts is unavoidable, we'll explain why and what it means for security afterwards.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door lock repair price factors -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door lock repair price factors in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Every door and lock is different, but these are the most common price factors:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Lock type (uPVC multipoint vs mortice vs nightlatch vs smart lock)</li>
+              <li>Whether parts are required (cylinder, gearbox, handles, keeps)</li>
+              <li>Door alignment work (hinges, keeps, frame alignment)</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Time of day (out-of-hours emergency attendance)</li>
+              <li>Level of damage (especially after attempted forced entry)</li>
+              <li>Whether you're upgrading security at the same time</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800">
+              We'll always aim to keep it straightforward: identify the fault, explain options, and confirm costs before work begins.
+            </p>
+          </div>
+        </div>
+
+        <!-- Pricing Table -->
+        <div class="mt-16 max-w-7xl mx-auto">
+          <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+            <table class="min-w-full divide-y divide-neutral-200">
+              <thead class="bg-neutral-900">
+                <tr>
+                  <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                    Service option
+                  </th>
+                  <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                    Average on-site time
+                  </th>
+                  <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                    Standard hours (7am–6pm) starting from
+                  </th>
+                  <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                    Out-of-hours (6pm–7am) starting from
+                  </th>
+                  <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                    Notes
+                  </th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-neutral-200 bg-white">
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Lock fault diagnosis + minor adjustment (alignment/keep/hinges)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £59
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £99
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Realign and test operation; parts extra if needed
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Broken key extraction + lock health check
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £59
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £99
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Extract fragment and check for internal damage; parts extra if required
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Euro cylinder replacement / security upgrade fitting
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 15 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £74
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £124
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Cylinder/keys extra; anti-snap options available
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Nightlatch (Yale-type) repair or replacement fitting
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 15 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £74
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £124
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Repair where possible; replacement lock extra
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Mortice lock repair or replacement fitting (timber door)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 30 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £89
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £149
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Repair first where viable; replacement parts extra
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    uPVC multipoint lock realignment (keeps/hooks not lining up)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 30 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £89
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £149
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Adjust door/keeps for smooth lift-and-lock; parts extra
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    uPVC gearbox replacement (labour)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    2 hours
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £119
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £199
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Gearbox cost extra; subject to matching parts
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Smart lock troubleshooting (mechanical + installation checks)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 30 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £89
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £149
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Focus on alignment/latch resistance/power issues; app setup limited
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Post break-in lock repair + make secure (one door)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    1 hour 45 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £104
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    £174
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Restore secure locking; parts/extra materials may apply
+                  </td>
+                </tr>
+                <tr class="hover:bg-amber-50 transition-colors">
+                  <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                    Add-on: each additional door/cylinder set "keyed alike" (when already on a main job)
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    30 mins
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    +£30
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    +£50
+                  </td>
+                  <td class="px-6 py-4 text-sm text-neutral-700">
+                    Extra labour only; cylinders/keys extra
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rekeying and "keyed alike" options -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Rekeying and "keyed alike" options
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If your keys have been lost, stolen, or you've moved into a new property, you may not need a full lock replacement. Depending on the lock type, we can often:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Replace the barrel/cylinder</li>
+            <li>Rekey where suitable</li>
+            <li>Set up cylinders to be keyed alike (one key for multiple doors) when practical</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Landlords and tenants -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Landlords and tenants: who handles lock repairs?
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Responsibility can depend on the tenancy agreement and what caused the issue:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-8">
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Wear and tear / mechanical failure is often treated as a landlord maintenance matter</li>
+            </ul>
+            
+            <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+              <li>Lost keys or tenant-caused damage may be a tenant responsibility</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-12 max-w-4xl mx-auto">
+          <div class="p-6 bg-amber-50 border border-amber-200 rounded-2xl">
+            <p class="text-neutral-800">
+              If the property can't be secured, it's usually best to treat it as urgent and keep clear records (photos, messages, invoices). If you tell us your situation, we'll help you choose the most sensible repair route.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What happens when you book -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What happens when you book a door lock repair in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-10 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Booking your door lock repair is easy—just follow these simple steps:
+          </p>
+        </div>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">1</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Tell us the symptoms (key won't turn, lock jammed, door won't lock, snapped key, etc.)
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">2</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  We ask a few quick questions (door type, lock type if known, urgency)
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">3</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Attendance in {{location}} (same-day where possible)
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">4</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Diagnosis and options (repair vs replace, security upgrades if relevant)
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">5</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Work completed and tested (smooth operation, secure locking, tidy finish)
+                </p>
+              </div>
+            </div>
+            
+            <div class="flex items-start gap-4">
+              <div class="flex-shrink-0 w-8 h-8 bg-amber-500 text-white rounded-full flex items-center justify-center font-bold">6</div>
+              <div class="text-left">
+                <p class="text-lg text-neutral-700">
+                  Aftercare advice to help prevent repeat issues
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Aftercare -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Aftercare: preventing lock problems coming back
+        </h2>
+        
+        <div class="mt-10 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Don't force stiff locks — get the alignment checked</li>
+            <li>Keep hinges and door alignment maintained (especially uPVC/composite doors)</li>
+            <li>Use appropriate lock lubricant (avoid household oils that attract grit)</li>
+            <li>Address "door drop" early before it damages multipoint mechanisms</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can I fix a jammed lock myself?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Minor alignment issues can sometimes be improved, but forcing mechanisms often makes things worse — especially on uPVC multipoint systems. On uPVC doors, you often need to lift the handle to engage the locking mechanism; improper lifting can contribute to the lock jamming. If the door won't lock or feels like it's binding, it's usually safer to get it assessed.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will you need to drill the lock?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Not always. We aim for no-damage entry and repair where possible, but if internal parts have failed or security is compromised, drilling/replacement may be the safest option.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How long does a typical repair take?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Many repairs are completed in a single visit once the fault is identified. More complex multipoint or gearbox issues can take longer depending on parts and door condition.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you repair patio/French door locks?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes — we can diagnose common issues on patio and French doors, including alignment and mechanism faults. Some door keeps are designed with one side to fit different types of rollers or mechanisms, offering greater compatibility for patio and French doors.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you handle fire door locks?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We can advise on compatibility and safe function, but fire door hardware can have specific requirements. If it's a regulated setting, we'll prioritise a compliant approach.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you also repair window locks?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We can often help with window lock issues as an additional service when you're already booking door lock work.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door lock repair near you -->
+  <section class="bg-gradient-to-r from-amber-500 to-amber-600 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Door lock repair near you in <span class="text-amber-300">{{location}}</span> and surrounding areas
+        </h2>
+        
+        <div class="mt-8 text-lg text-amber-100">
+          <p>
+            We cover {{location}} and nearby areas, including surrounding neighbourhoods and postcode districts.
+          </p>
+          <p class="mt-4">
+            If you're unsure whether you're in range, contact us and we'll confirm.
+          </p>
+        </div>
+        
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Book door lock repair in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            If your door lock is stuck, won't turn, won't lock, or you need urgent repairs, get in touch now. We'll help you secure the property quickly and get the door working properly again — with clear options and sensible advice.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for emergency help (24/7) or book a same-day visit where available.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Call 24/7 Emergency
+          </a>
+       
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Door Lock Change -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-changes/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Lock change for peace of mind
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Change locks and keys for enhanced security and peace of mind.
+        </p>
+      </div>
+    
+      <!-- Door Lock Installation -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-installation/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Install additional locks
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Add extra locks to doors for improved security.
+        </p>
+      </div>
+    
+      <!-- Door Lock Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Replace a worn-out lock
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Upgrade worn or failing locks with new, reliable ones.
+        </p>
+      </div>
+    
+      <!-- Door Repairs -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Fix sticking doors
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair doors that are sticking, jamming, or hard to open.
+        </p>
+      </div>
+    
+      <!-- Window Lock Repair/Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/window-lock-repair-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Window lock repair & replacement
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix or replace window locks to secure your property.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Home page
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a 
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Lock Repair</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

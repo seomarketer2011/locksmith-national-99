@@ -1,0 +1,113 @@
+---
+import Navbar from "../components/ui/Navbar.astro";
+import MainHead from "./MainHead.astro";
+import logo from "../assets{{logo_url}}";
+import "../styles/global.css";
+import { Image } from "astro:assets";
+
+const { ...props } = Astro.props;
+const address = "{{address}}";
+---
+
+<html lang="en-GB">
+  <MainHead {...props} />
+  <body class="bg-white font-grotesk">
+    <!-- SVG Sprite -->
+    <svg xmlns="http://www.w3.org/2000/svg"  style="display:none;">
+      <symbol id="icon-check" width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+          clip-rule="evenodd"
+        />
+      </symbol>
+    </svg>
+
+    <!-- Preload Hero Image -->
+
+
+    <main>
+      <Navbar />
+
+      <!-- Above the fold -->
+      <slot name="hero" />
+
+      <!-- Below the fold sections -->
+      <div class="content-auto">
+        <slot />
+      </div>
+      
+
+    </main>
+    <footer class="relative bg-navy text-slate-300 font-body">
+      <div class="footer-rule" aria-hidden="true"></div>
+      <div class="max-w-6xl mx-auto px-5 py-14">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+
+          <!-- Brand / phone -->
+          <div>
+            <Image
+              src={logo}
+              alt="{{name}}"
+              width={180}
+              height={66}
+              loading="lazy"
+              class="mb-4"
+            />
+            <p class="text-sm text-slate-400 max-w-xs">Your local locksmith in {{location}} — 24/7 emergency call-outs, damage-free entry first.</p>
+            <a href="tel:{{phone_tel}}"
+               class="mt-5 inline-flex items-center gap-2 rounded-xl bg-brass px-4 py-2.5 font-mono text-sm font-medium tracking-wide text-navy transition hover:bg-brass-bright">
+              <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M6.6 3h3l1.5 4.2-2 1.5a12.5 12.5 0 0 0 5.7 5.7l1.5-2 4.2 1.5v3A1.8 1.8 0 0 1 18.7 19 15.7 15.7 0 0 1 4.5 4.8 1.8 1.8 0 0 1 6.6 3z"/>
+              </svg>
+              {{phone}}
+            </a>
+          </div>
+
+          <!-- Quick links -->
+          <div>
+            <h3 class="font-mono text-[11px] uppercase tracking-[0.18em] text-brass mb-4">Emergency Services</h3>
+            <ul class="space-y-2.5 text-sm">
+              <li><a href="/emergency-locksmith/" class="hover:text-brass-bright transition-colors">Emergency Locksmith</a></li>
+              <li><a href="/locked-out/" class="hover:text-brass-bright transition-colors">Locked Out</a></li>
+              <li><a href="/burglar-repair-service/" class="hover:text-brass-bright transition-colors">Burglar Repair Service</a></li>
+              <li><a href="/emergency-boarding-up/" class="hover:text-brass-bright transition-colors">Boarding Up</a></li>
+              <li><a href="/broken-key-removal/" class="hover:text-brass-bright transition-colors">Broken Key Removal</a></li>
+            </ul>
+          </div>
+
+          <!-- Hours + address -->
+          <div>
+            <h3 class="font-mono text-[11px] uppercase tracking-[0.18em] text-brass mb-4">Service Hours</h3>
+            <p class="text-sm"><span class="font-medium text-white">Mon – Sun</span> · 24 hours</p>
+            <p class="text-sm mt-1">Emergency service, day and night</p>
+            {address && (
+              <p class="mt-5 text-sm text-slate-400">{address}</p>
+            )}
+          </div>
+
+        </div>
+
+        <div class="border-t border-white/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
+          <p class="font-mono">© {{name}}</p>
+          <p>
+            <a href="/cookie/" class="hover:text-brass-bright transition-colors">Cookie Policy</a>
+            <span class="mx-2 text-slate-600">·</span>
+            <a href="/privacy/" class="hover:text-brass-bright transition-colors">Privacy Policy</a>
+          </p>
+        </div>
+      </div>
+    </footer> </body>
+
+  <style>
+    .content-auto {
+      content-visibility: auto;
+      contain-intrinsic-size: 800px;
+    }
+    .footer-rule {
+      position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, transparent, #C7A253 30%, #E4C578 50%, #C7A253 70%, transparent);
+      opacity: 0.7;
+    }
+  </style>
+</html>

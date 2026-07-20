@@ -1,0 +1,1187 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Safe opening.png";
+import lock from "../assets/services/Safe_opening.png";
+import lock2 from "../assets/services/Opening a safe.png";
+import lock3 from "../assets/services/Safe opening.png";
+
+// Enrichment overlay for service: safe-opening
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "safe-opening";
+const metaTitle = e[`${slug}.meta.title`] ?? `Safe Opening {{location}} | Professional Safe Unlocking Service `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency safe opening in {{location}}. Forgotten code? Lost keys? Electronic keypad fault? Professional safe opening service for domestic & commercial safes. Non-destructive methods, 24/7 availability. Fast response across {{location}}.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border bg-gray-50  px-6 py-3">
+    
+        <span class="font-semibold px-3">Same-day service</span>
+    
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+    
+        <span class="px-3">No call-out fee</span>
+    
+        <span class="px-3">Upfront quote before work</span>
+    
+        <span class="px-3">Access regained today</span>
+    
+      </div>
+    </div>
+    
+    
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+    <h1 class="text-4xl font-bold">Safe Opening in {{location}}</h1>
+    <p class="mt-4 text-gray-600">
+          {heroParagraph || `Same-Day Safe Opening in {{location}} • Damage-Minimising Techniques First • Regain Access Quickly •
+      Fully Insured • Upfront Quote Before Any Drilling Starts Today.`}
+        </p>
+
+    <div class="mt-8 grid sm:grid-cols-2 gap-4">
+      <div class="border rounded-xl p-5">
+        We open safes when keys are lost or codes fail, helping you regain access the same day.
+      </div>
+      <div class="border rounded-xl p-5">
+        Non-destructive methods used first, escalating carefully only if drilling is required.
+      </div>
+      <div class="border rounded-xl p-5">
+        Upfront quote provided before work, with the method and outcome explained clearly.
+      </div>
+      <div class="border rounded-xl p-5">
+        Fully insured technician with specialist tools and advice on reset, repair, or replacement.
+      </div>
+    </div>
+    <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Call Now for Safe Opening</a>
+  </div>
+</div>
+</div>
+</section>
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional safe opening service for locked safes"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Safe Opening in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            If you're locked out of a safe in {{location}}, the priority is simple: restore access quickly, legally, and with minimal damage where possible. {{name}} provides professional safe opening services for domestic and commercial customers, covering common lockout scenarios such as forgotten combinations, electronic keypad faults, battery failure lockouts, lost keys, and mechanisms that have jammed even with the correct code. Our reliable safe opening services are performed by expert safe locksmiths, ensuring trustworthy and professional solutions for every situation.
+          </p>
+          <p>
+            Safe opening isn't a one-size-fits-all job. The method depends on the safe type (electronic keypad, mechanical combination, key-operated, fire safe), the symptom (dead keypad, stiff handle, bolts seized, code accepted but won't open), and the safe's security level. We take a non-destructive-first approach wherever it's realistic, aiming to open your safe without causing damage whenever possible, and we'll explain the options in plain terms before any work begins, including time expectations and the main price factors such as complexity, out-of-hours attendance, and whether parts or repairs are required afterwards.
+          </p>
+          <p>
+            Because safe access can involve valuables, sensitive documents, or business-critical items, we also operate with clear authorisation and proof of ownership checks and offer discreet attendance across {{location}} and surrounding areas.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔐</span>
+            Emergency Safe Opening
+          </a>
+         
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency Safe Opening -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency safe opening in <span class="text-amber-500">{{location}}</span> (24/7 availability)
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              When you can't wait until tomorrow—cash, passports, deeds, medicines, business takings, legal files—fast attendance matters. No matter the type or brand of safe you have, emergency safe opening is available.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="24/7 emergency safe opening service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Response times and coverage -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Response times and coverage around <span class="text-amber-500">{{location}}</span>
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We provide safe opening across {{location}} with practical attendance windows based on:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Your exact location and access arrangements</li>
+            <li>Time of day (including evenings, weekends, and bank holidays)</li>
+            <li>The safe's position (built-in, floor safe, under-counter, back office)</li>
+            <li>Whether the issue appears to be a simple lockout or a mechanical failure</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Same-day visits and booked appointments -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Same-day visits and booked appointments
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Not every job is an emergency. If the safe is secure and you can plan ahead, booked appointments can be more cost-effective than out-of-hours call-outs while still delivering a professional, careful opening.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Authorised Safe Opening -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Authorised safe opening (proof of ownership and responsible access)
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Safe opening should always be treated as a security-sensitive service. Before starting work, we'll take reasonable steps to confirm authorised access—this protects you, your property, and the integrity of the service.
+          </p>
+        </div>
+      </div>
+      
+      <!-- What you may be asked to provide -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What you may be asked to provide
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Photo ID plus proof of address for residential jobs</li>
+            <li>Business ownership/role confirmation for commercial premises</li>
+            <li>A tenancy agreement or written authorisation where relevant</li>
+            <li>Access to the premises (keyholder or responsible person on-site)</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Discreet attendance and confidentiality -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Discreet attendance and confidentiality
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many customers prefer a low-profile visit—especially where a safe contains cash, jewellery, controlled items, or confidential records. We work discreetly and keep practical details focused on what's necessary to complete the job safely.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Insurance and professional standards -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Insurance and professional standards
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where appropriate, we can support jobs requiring an auditable approach (for example, commercial environments or insurer queries). If documentation is needed, this can be discussed at booking or on-site. Safe engineers and professional locksmiths adhere to industry standards and can provide the necessary documentation to meet insurance and regulatory requirements.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Non-Destructive Safe Opening -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Non-destructive safe opening (minimal damage where possible)
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              A professional safe opening service should not default to drilling. The best outcomes come from choosing the least invasive method that achieves access safely. Forced entry methods, such as drilling, are only used when necessary, and are performed by skilled professionals to minimize damage and restore the safe to full working order.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Non-destructive safe opening techniques"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- What "non-destructive" really means -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What "non-destructive" really means
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Non-destructive entry aims to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Open the safe without visible damage to the door, frame, or locking components</li>
+            <li>Preserve the safe's ongoing usability and security</li>
+            <li>Reduce repair time and avoid unnecessary replacement costs</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            However, the feasibility depends on the safe design, its condition, and the failure mode. Some faults—particularly severe boltwork seizure or internal breakage—can make non-destructive methods unrealistic.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Minimal-damage methods where needed -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Minimal-damage methods where needed
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If non-destructive options aren't possible, the goal becomes controlled, minimal-damage access with a clear plan for:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Repair and make-good</li>
+            <li>Relocking and restoring security</li>
+            <li>Lock replacement or code reset after opening</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We'll explain what's achievable before proceeding.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Common Safe Lockout Problems -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Common safe lockout problems we solve in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Most safe issues fall into a handful of predictable scenarios. Identifying yours helps estimate the likely approach and timeframe. If you are dealing with a locked safe due to lost keys, forgotten combinations, or mechanical failure, our professional service can open your safe efficiently and safely.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Forgotten code, lost combination, or inherited safe -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Forgotten code, lost combination, or inherited safe
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This is one of the most common reasons for safe opening requests. Typical situations include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The combination has been forgotten or confused, especially with a combination lock</li>
+            <li>Multiple people use the safe and the code has changed</li>
+            <li>A property purchase includes a safe with no code/keys</li>
+            <li>A business safe has been handed over without correct access details</li>
+            <li>The safe is inherited and the safe key is missing</li>
+            <li>The safe has a combination lock and the combination is unknown or forgotten</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            <strong>What we do:</strong> confirm the safe type and symptoms, attempt safe, appropriate methods to restore access, and then support a combination change or reprogramming so you're not locked out again.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Electronic keypad safe not opening -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Electronic keypad safe not opening
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Electronic safes are convenient—but more prone to "dead" scenarios. Many digital safes with digital locks include a key override feature for emergency access, allowing users to open the safe with a physical key if the electronic system fails:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Keypad lights up but doesn't accept input properly</li>
+            <li>The safe accepts the code but the handle won't release</li>
+            <li>The keypad is unresponsive or displays error messages</li>
+            <li>The lock cycles but bolts don't retract</li>
+            <li>Key override is not working or unavailable</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            <strong>What we do:</strong> assess whether the issue is power-related, keypad-related, digital lock malfunction, or mechanical, then pursue the least invasive route to access and secure reset.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Battery failure lockouts -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Battery failure lockouts
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Battery issues are extremely common with keypad safes:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Batteries are flat or leaking</li>
+            <li>The external battery terminal isn't working</li>
+            <li>The battery compartment is inaccessible with the safe locked</li>
+            <li>The safe has been left unused for a long period</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            <strong>What we do:</strong> confirm the model type and power method, attempt safe power restoration where possible, and then complete a code reset/reprogramming and advise on a simple maintenance routine to prevent repeats.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Jammed bolts, stiff handles, or seized mechanisms -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Jammed bolts, stiff handles, or seized mechanisms
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If your code or key is correct but the safe will not open, the problem may be mechanical:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Boltwork is binding or seized</li>
+            <li>Internal components have shifted or failed</li>
+            <li>The door is under pressure (common with overfilled safes)</li>
+            <li>The safe has suffered impact, rust, or long-term wear</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            <strong>What we do:</strong> diagnose symptoms and apply appropriate techniques to avoid escalating damage. We can fix mechanical issues and provide safe repairs as needed to restore full functionality. If parts have failed internally, we'll explain the last-resort options and the likely repair steps after access is restored.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lost safe keys / key-operated safe access -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lost safe keys / key-operated safe access
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Key-operated safes present different issues:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Keys lost or stolen</li>
+            <li>Key snapped in the lock</li>
+            <li>Lock is worn or turning but not releasing</li>
+            <li>The wrong key has been forced and damaged the cylinder</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            <strong>What we do:</strong> safe opening with minimal damage where possible, including broken key extraction when relevant, then lock replacement or re-keying options to restore security. In many cases, certain safes can be picked open by a professional, allowing access without destructive methods.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- If Non-Destructive Opening Isn't Possible -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          If non-destructive opening isn't possible (last resort access and repairs)
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In some cases, safe opening requires a more direct approach—particularly when:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The locking mechanism has failed internally</li>
+            <li>Boltwork is seized beyond recovery</li>
+            <li>The safe has been tampered with or damaged</li>
+            <li>The safe's security design leaves no viable non-destructive route</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In these situations, professionals are equipped to open and repair a wide range of safes and security cabinets, using specialized tools and techniques to minimize further damage. After forced entry, professional safe servicing is essential to restore security, ensure proper function, and maintain compliance with industry standards.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Controlled entry with a repair plan -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Controlled entry with a repair plan
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If a last-resort method is required, the important point is that it's done in a controlled way, with a plan to:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Repair or replace the lock and any affected components</li>
+            <li>Make-good around the opening point (where applicable)</li>
+            <li>Restore the safe to secure, usable condition where feasible</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Post-opening make-good and relocking -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Post-opening make-good and relocking
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After access is restored, we can usually provide a practical route forward:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Temporary relocking if you need immediate security</li>
+            <li>Full lock replacement for long-term reliability</li>
+            <li>Code change/reprogramming (electronic safes)</li>
+            <li>Advice on whether the safe remains cost-effective to repair</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Aftercare -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Aftercare: keeping your safe secure once it's open
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Opening the safe is only half the job. The next step is making sure it remains secure and convenient to use. This includes ensuring your safe lock is of high quality, working with trusted safe manufacturers for ongoing reliability, and confirming that the installation was performed correctly to maintain optimal security.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lock replacement after opening -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lock replacement after opening
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacing the lock may be recommended if:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Keys were lost/stolen</li>
+            <li>The lock is worn or unreliable</li>
+            <li>The failure is likely to recur</li>
+            <li>The safe was opened using a method that compromises the existing lock</li>
+            <li>New keys are needed after a lock change</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Code reset, reprogramming, and combination changes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Code reset, reprogramming, and combination changes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For electronic safes and combination locks, including mechanical combination locks, we can support:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Setting a new code after a lockout</li>
+            <li>Reprogramming where the keypad has been reset</li>
+            <li>Advising on practical code management for households and workplaces</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What Affects Cost -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            What affects the cost of safe opening in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Every safe is different, and pricing depends on what's required to restore access and security.
+            </p>
+            <p>
+              Common price factors include:
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Factors affecting safe opening costs"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Price Factors List -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8 text-left">
+          <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+            <li>Safe type (electronic, combination, key-operated)</li>
+            <li>The specific fault (battery failure vs mechanical seizure)</li>
+            <li>Security level and construction (more robust designs take longer)</li>
+            <li>Grade of the safe (higher grade safes are more secure and may cost more to open)</li>
+            <li>Cash rating (safes with higher cash ratings may require different opening methods)</li>
+          </ul>
+          <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+            <li>Accessibility (built-in safes, restricted spaces, business premises)</li>
+            <li>Time and attendance (same-day vs out-of-hours)</li>
+            <li>Whether parts, repairs, or lock replacement are needed afterwards</li>
+            <li>The need to carry specialized equipment or parts to the site for safe opening</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where possible, we'll set expectations before attending by asking a few practical questions about the safe type and symptoms.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-neutral-50">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe Opening Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Battery failure lockout (electronic keypad safe)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Power/battery fault handling; non-destructive-first where possible; proof of ownership required.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Electronic keypad fault (dead keypad, error codes, code accepted but won't open)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Fault-finding and least-invasive access route; may involve keypad/lock diagnosis; parts extra if needed.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lost combination / forgotten code / inherited safe (unknown access details)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Safe type and symptoms drive method; non-destructive-first where realistic; proof of ownership required.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lost safe keys / key-operated safe access (incl. snapped key in lock where applicable)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Opening with minimal damage where possible; lock/cylinder work may be required; parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Code/key is correct but safe won't open (jammed bolts, stiff handle, seized mechanism)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Mechanical diagnosis and controlled techniques to reduce damage; repairs/parts may be needed after access.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Fire-resistant or higher-security safe opening (more robust construction)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £249
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Longer on-site time is common; non-destructive-first where feasible; parts/repairs extra if required.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Last-resort controlled entry (minimal-damage drilling where non-destructive isn't viable)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  3 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £179
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £299
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Used only when necessary; clear repair/relock plan discussed on-site; make-good/parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Code reset / reprogramming / combination change after opening (add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on after access is restored; ideal to prevent repeat lockouts; parts extra if required.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Temporary relock / make-safe after opening (add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£45
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£75
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on to restore immediate security after entry; longer-term lock work may be recommended.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lock replacement after opening (labour only, add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£45
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£75
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on where keys are lost/stolen or lock is compromised; lock/parts supplied at extra cost.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Preparing for the Visit -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Preparing for the visit (helps speed up safe opening)
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you can, gather:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Any paperwork you have for the safe (manuals, codes, override info)</li>
+            <li>Make/model details or clear photos of the door, keypad/lock, and surroundings</li>
+            <li>Information about what happens when you enter the code/turn the key</li>
+            <li>Proof of ownership/authorisation (as applicable)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For a more accurate assessment and quote, you can send pictures of your safe, lock, and keypad area. This helps us identify the type of safe and lock mechanism before the visit. You also have the option to call us for expert advice or an initial estimate over the phone.
+          </p>
+          <p>
+            This helps reduce time on-site and improves the chances of a non-destructive outcome.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs about safe opening in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How long does safe opening take?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It depends on the safe type and the fault. Some lockouts can be resolved quickly (especially battery-related issues), while mechanical failures or higher-security safes can take longer. We'll give a realistic expectation once we understand the symptoms.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Will the safe be damaged?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We prioritise non-destructive opening where possible. If that isn't realistic, we'll explain why and what a controlled, minimal-damage approach looks like—plus how we'll restore security afterwards.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you open a safe if I've lost the code and the keys?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often yes, provided you can demonstrate authorised access. The method depends on the safe design, the condition of the lock, and the symptoms.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                My safe accepts the code but won't open—why?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                This commonly points to boltwork or mechanism issues rather than the code itself. Jamming, pressure on the door, or internal component failure can prevent the bolts retracting fully.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you cover business safes in {{location}}?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes. For commercial premises, we may need a responsible person on-site to confirm authorisation and access arrangements.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safe Types We Commonly Open -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe types we commonly open
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We support a wide range of safe opening scenarios in {{location}}, including:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Domestic safes (valuables, documents, medicines)</li>
+              <li>Office and retail safes (float, takings, records)</li>
+              <li>Electronic keypad safes</li>
+              <li>Mechanical combination safes</li>
+            </ul>
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Key-operated safes</li>
+              <li>Fire-resistant safes (documents and media)</li>
+              <li>Vaults (high-security storage for banks, businesses, and organizations)</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Our specialist safe engineer can install and service a wide range of safes and vaults, ensuring professional handling and security for all types of secure storage.
+          </p>
+          <p>
+            If you're unsure what type you have, photos of the door and lock area usually help identify it quickly.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Need Professional Safe Opening in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Locked out of your safe? Forgotten code? Electronic keypad fault? We provide professional safe opening services across {{location}} with non-destructive methods where possible.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔐</span>
+            Emergency Safe Opening
+          </a>
+          
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Safe Installation -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/safe-installation/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Install a new safe
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Professional installation and secure fitting of new safes.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Home page
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <!-- Sticky Mobile Call Button -->
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Safe Opening</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>
