@@ -68,9 +68,8 @@ If the existing CF Pages project on your account uses a different name
 
 ## Fleet status
 
-- **99 sites** in the manifest
-- **42 deployable today** — logo bundled in `templates/locksmith-fleet/src/assets/logo/`
-- **57 blocked** — logo missing from the template. See `data/locksmith-fleet/blocked.csv` for the shopping list. Drop the missing PNGs into `templates/locksmith-fleet/src/assets/logo/` (filenames must match the `logo_url` column) and re-run `--deployable` — they'll be picked up automatically.
+- **99 sites** in the manifest — all deployable and verified live (July 2026)
+- **0 blocked** — every logo is bundled in `templates/locksmith-fleet/src/assets/logo/`. If a future site is added without its logo, it will appear in `data/locksmith-fleet/blocked.csv` again; drop the missing PNG into the logo dir (filename must match the `logo_url` column) and run `refresh-logo-presence.mjs` to unblock it.
 
 ## The CNAME problem (important)
 
