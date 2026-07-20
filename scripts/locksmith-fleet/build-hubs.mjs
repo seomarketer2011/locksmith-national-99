@@ -47,7 +47,7 @@ if (configs.length === 0) die(`No hub config matched${args.brand ? `: ${args.bra
 
 console.log(`Building ${configs.length} hub(s).${args.deploy ? " Deploying after build." : ""}`);
 
-function main() {
+async function main() {
 for (const cfg of configs) {
   const branches = loadBranches(cfg);
   if (branches.length === 0) die(`No branches found in sites.json for ${cfg.domain}`);
@@ -60,7 +60,7 @@ for (const cfg of configs) {
     `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>https://${cfg.domain}/</loc></url>\n</urlset>\n`);
   console.log(`  ✓ ${cfg.domain}  (${branches.length} branches → ${outDir})`);
 
-  if (args.deploy) deployHub(cfg, outDir);
+  if (args.deploy) await deployHub(cfg, outDir);
 }
 
 console.log("Done.");
@@ -399,14 +399,129 @@ function renderCta(cfg) {
 
 // ---------------------------------------------------------------- deploy
 
-function deployHub(cfg, outDir) {
-  const project = cfg.cf_project || `hub---${cfg.slug}`;
-  if (!process.env.CLOUDFLARE_ACCOUNT_ID) die("CLOUDFLARE_ACCOUNT_ID required for --deploy");
-  const r = spawnSync("npx", ["wrangler", "pages", "deploy", outDir, "--project-name", project, "--branch", "main"], {
+// Full go-live pipeline, mirroring how shield-locksmiths.co.uk is wired up:
+//   1. ensure the CF Pages project exists (production_branch=main)
+//   2. wrangler pages deploy
+//   3. attach the apex custom domain to the project
+//   4. proxied CNAMEs: apex -> <project>.pages.dev AND www -> <project>.pages.dev
+//   5. ensure the zone-level www -> non-www 301 redirect ruleset exists
+// Steps 3-5 are skipped (with a warning) when the zone isn't in the account.
+async function deployHub(cfg, outDir) {
+  const project = cfg.cf_project || `${cfg.slug}-hub`;
+  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+  const headers = cfAuthHeaders();
+  if (!accountId || !headers) die("CLOUDFLARE_ACCOUNT_ID + credentials required for --deploy");
+
+  const existing = await cfGet(`/accounts/${accountId}/pages/projects/${project}`, headers);
+  if (!existing.success) {
+    console.log(`  creating CF Pages project '${project}'…`);
+    const created = await cfPost(`/accounts/${accountId}/pages/projects`,
+      { name: project, production_branch: "main" }, headers);
+    if (!created.success) die(`CF project create failed: ${JSON.stringify(created.errors)}`);
+  }
+
+  const r = spawnSync("npx", ["wrangler", "pages", "deploy", outDir, "--project-name", project, "--branch", "main", "--commit-dirty=true"], {
     stdio: "inherit", env: process.env, cwd: ROOT,
   });
   if (r.status !== 0) die(`wrangler deploy failed for ${cfg.domain}`);
-  console.log(`  ✓ deployed ${cfg.domain} → pages project ${project}`);
+  console.log(`  ✓ deployed ${cfg.domain} → ${project}.pages.dev`);
+
+  const zones = await cfGet(`/zones?name=${encodeURIComponent(cfg.domain)}`, headers);
+  const zone = zones.result && zones.result[0];
+  if (!zone) {
+    console.log(`  ⚠ no CF zone for ${cfg.domain} — site is live on ${project}.pages.dev only`);
+    return;
+  }
+
+  const att = await cfPost(`/accounts/${accountId}/pages/projects/${project}/domains`, { name: cfg.domain }, headers);
+  const attCode = (att.errors || [])[0]?.code;
+  if (att.success || attCode === 8000023 || attCode === 8000007) {
+    console.log(`  ✓ custom domain ${cfg.domain} attached to '${project}'`);
+  } else {
+    die(`domain attach failed for ${cfg.domain}: ${JSON.stringify(att.errors)}`);
+  }
+
+  const target = `${project}.pages.dev`;
+  for (const name of [cfg.domain, `www.${cfg.domain}`]) {
+    const recs = await cfGet(`/zones/${zone.id}/dns_records?name=${encodeURIComponent(name)}&type=CNAME`, headers);
+    const rec = recs.result && recs.result[0];
+    if (!rec) {
+      const created = await cfPost(`/zones/${zone.id}/dns_records`,
+        { type: "CNAME", name, content: target, proxied: true, ttl: 1 }, headers);
+      if (!created.success) die(`CNAME create failed for ${name}: ${JSON.stringify(created.errors)}`);
+      console.log(`  ✓ CNAME ${name} -> ${target} (proxied)`);
+    } else if (rec.content !== target || !rec.proxied) {
+      const upd = await cfPut(`/zones/${zone.id}/dns_records/${rec.id}`,
+        { type: "CNAME", name, content: target, proxied: true, ttl: 1 }, headers);
+      if (!upd.success) die(`CNAME update failed for ${name}: ${JSON.stringify(upd.errors)}`);
+      console.log(`  ✓ CNAME ${name}: ${rec.content} -> ${target}`);
+    } else {
+      console.log(`  ✓ CNAME ${name} already correct`);
+    }
+  }
+
+  await ensureWwwRedirect(zone.id, headers);
+}
+
+// Same rule the rest of the estate uses: any www.* host 301s to the bare
+// domain, preserving path and query string.
+async function ensureWwwRedirect(zoneId, headers) {
+  const rulesets = await cfGet(`/zones/${zoneId}/rulesets`, headers);
+  const existing = (rulesets.result || []).find(rs => rs.phase === "http_request_dynamic_redirect");
+  if (existing) {
+    const full = await cfGet(`/zones/${zoneId}/rulesets/${existing.id}`, headers);
+    const rules = full.result?.rules || [];
+    if (rules.some(rule => (rule.expression || "").includes('starts_with(http.host, "www.")'))) {
+      console.log(`  ✓ www -> non-www redirect rule already present`);
+      return;
+    }
+  }
+  const rule = {
+    expression: 'starts_with(http.host, "www.")',
+    description: "www to non-www 301",
+    action: "redirect",
+    action_parameters: {
+      from_value: {
+        status_code: 301,
+        preserve_query_string: true,
+        target_url: { expression: 'concat("https://", substring(http.host, 4), http.request.uri.path)' },
+      },
+    },
+  };
+  const res = existing
+    ? await cfPost(`/zones/${zoneId}/rulesets/${existing.id}/rules`, rule, headers)
+    : await cfPut(`/zones/${zoneId}/rulesets/phases/http_request_dynamic_redirect/entrypoint`,
+        { rules: [rule] }, headers);
+  if (!res.success) die(`www redirect rule failed: ${JSON.stringify(res.errors)}`);
+  console.log(`  ✓ www -> non-www redirect rule created`);
+}
+
+function cfAuthHeaders() {
+  const email = process.env.CLOUDFLARE_EMAIL;
+  const key = process.env.CLOUDFLARE_API_KEY;
+  const token = process.env.CLOUDFLARE_API_TOKEN;
+  if (token) return { Authorization: `Bearer ${token}` };
+  if (email && key) return { "X-Auth-Email": email, "X-Auth-Key": key };
+  return null;
+}
+
+async function cfGet(path, headers) {
+  const r = await fetch(`https://api.cloudflare.com/client/v4${path}`, { headers });
+  return r.json();
+}
+
+async function cfPost(path, body, headers) {
+  const r = await fetch(`https://api.cloudflare.com/client/v4${path}`, {
+    method: "POST", headers: { ...headers, "Content-Type": "application/json" }, body: JSON.stringify(body),
+  });
+  return r.json();
+}
+
+async function cfPut(path, body, headers) {
+  const r = await fetch(`https://api.cloudflare.com/client/v4${path}`, {
+    method: "PUT", headers: { ...headers, "Content-Type": "application/json" }, body: JSON.stringify(body),
+  });
+  return r.json();
 }
 
 // ---------------------------------------------------------------- util
@@ -425,4 +540,4 @@ function parseArgs(argv) {
 
 function die(msg) { console.error("ERROR: " + msg); process.exit(1); }
 
-main();
+await main();

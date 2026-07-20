@@ -3,7 +3,7 @@
   "brand": "Steelok Locksmiths",
   "domain": "steelok-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---steelok-locksmiths",
+  "cf_project": "steelok-hub",
   "mark": "cog",
   "theme": {
     "ink": "#18181b", "ink2": "#27272a",

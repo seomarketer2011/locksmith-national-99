@@ -3,7 +3,7 @@
   "brand": "Surelok Locksmiths",
   "domain": "surelok-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---surelok-locksmiths",
+  "cf_project": "surelok-hub",
   "mark": "home",
   "theme": {
     "ink": "#1a2e26", "ink2": "#24473a",

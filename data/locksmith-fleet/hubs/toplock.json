@@ -3,7 +3,7 @@
   "brand": "Toplock Locksmiths",
   "domain": "toplock-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---toplock-locksmiths",
+  "cf_project": "toplock-hub",
   "mark": "key",
   "theme": {
     "ink": "#2d1b1e", "ink2": "#43282c",

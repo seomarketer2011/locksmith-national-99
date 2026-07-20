@@ -3,7 +3,7 @@
   "brand": "Trulock Locksmiths",
   "domain": "trulock-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---trulock-locksmiths",
+  "cf_project": "trulock-hub",
   "mark": "shield",
   "theme": {
     "ink": "#0f172a", "ink2": "#1e293b",

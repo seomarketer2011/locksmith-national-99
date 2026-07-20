@@ -3,7 +3,7 @@
   "brand": "Boltlok Locksmiths",
   "domain": "boltlok-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---boltlok-locksmiths",
+  "cf_project": "boltlok-hub",
   "mark": "lock",
   "theme": {
     "ink": "#082f49", "ink2": "#0c4a6e",

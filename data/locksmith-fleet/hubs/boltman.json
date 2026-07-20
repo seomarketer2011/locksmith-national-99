@@ -3,7 +3,7 @@
   "brand": "Boltman Locksmiths",
   "domain": "boltman-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---boltman-locksmiths",
+  "cf_project": "boltman-hub",
   "mark": "bolt",
   "theme": {
     "ink": "#2d2620", "ink2": "#40372e",

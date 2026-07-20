@@ -3,7 +3,7 @@
   "brand": "Boltfix Locksmiths",
   "domain": "boltfix-locksmiths.co.uk",
   "fleet": "locksmith-fleet",
-  "cf_project": "hub---boltfix-locksmiths",
+  "cf_project": "boltfix-hub",
   "mark": "bolt",
   "theme": {
     "ink": "#1c1917", "ink2": "#292524",

@@ -3,7 +3,7 @@
   "brand": "Doorfix Locksmiths",
   "domain": "doorfix-locksmiths.co.uk",
   "fleet": "locksmith-fleet-v2",
-  "cf_project": "hub---doorfix-locksmiths",
+  "cf_project": "doorfix-hub",
   "mark": "door",
   "theme": {
     "ink": "#2b241c", "ink2": "#3a3126",
