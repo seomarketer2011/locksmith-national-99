@@ -1,0 +1,65 @@
+{
+  "slug": "boltfix",
+  "brand": "Boltfix Locksmiths",
+  "domain": "boltfix-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---boltfix-locksmiths",
+  "mark": "bolt",
+  "theme": {
+    "ink": "#1c1917", "ink2": "#292524",
+    "primary": "#ea580c", "primary2": "#c2410c",
+    "accent": "#fdba74", "surface": "#fafaf9", "line": "#e7e5e4", "muted": "#78716c",
+    "radius": "12px",
+    "heroStyle": "dark", "heroGlow": "rgba(234,88,12,.22)",
+    "coverageStyle": "cards", "coverageDark": false
+  },
+  "layout": ["hero", "services", "why", "coverage", "cta"],
+  "copy": {
+    "title": "Boltfix Locksmiths — Official Site | Repairs First, Branch Directory",
+    "description": "Boltfix Locksmiths: the repair-first locksmith network. Eight branches from the Yorkshire coast to Oxford that fix locks other trades would replace — and tell you honestly when replacement really is the answer.",
+    "topbar": "Fix first. Replace when it's honest. That's the Boltfix rule.",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branches",
+    "eyebrow": "The Repair-First Locksmiths",
+    "h1": "Most 'broken' locks aren't. We prove it daily.",
+    "lead": "A stiff mortice, a dropped multipoint, a nightlatch that won't catch — nine times out of ten there's a repair in it, at a fraction of replacement cost. Boltfix's eight branches, from Scarborough and Bridlington down through the Black Country to Oxford, are staffed by locksmiths who'd rather fix than fit.",
+    "heroCta": "Find your branch",
+    "heroCta2": "What we repair",
+    "heroNote": "{n} branches. Vans stocked with parts, not just replacements.",
+    "trust": [],
+    "coverage": {
+      "heading": "Where Boltfix works",
+      "intro": "From seaside terraces in Bridlington to college lets in Oxford, each branch runs its own diary on its own number. The areas named are that branch's daily patch.",
+      "areaPattern": "Repairs carried out daily in {areas} and across {town}"
+    },
+    "services": {
+      "heading": "Repair jobs we take on gladly",
+      "intro": "These are the calls where other firms quote a replacement and we usually don't have to.",
+      "featured": [
+        ["Lock Repairs", "Mortices, nightlatches, cylinders and rim locks stripped, serviced and brought back to smooth."],
+        ["Door Repairs", "Dropped uPVC doors realigned, timber doors eased, hinges packed — the cause fixed, not just the symptom."],
+        ["Window Lock Repair & Replacement", "Seized espagnolettes and snapped handles repaired with parts, not whole new windows."],
+        ["Broken Key Removal", "Keys extracted and cylinders saved — a snapped key rarely has to mean a new lock."],
+        ["Locked Out", "Non-destructive entry so there's nothing to repair afterwards. Drilling is our last resort, not our first tool."],
+        ["Emergency Locksmith", "24/7 cover across all eight towns — emergency doesn't have to mean 'rip it out and start again'."],
+        ["Burglar Repair Service", "Forced doors and frames rebuilt and re-secured, working with what survived."]
+      ],
+      "more": ["Lock changes", "Door lock installation & replacement", "Emergency boarding up", "Safe installation & opening"]
+    },
+    "why": {
+      "heading": "Why repair-first wins",
+      "points": [
+        ["It's usually cheaper — for you", "A gearbox swap costs a fraction of a new multipoint strip. We quote the repair because it's the right call, even though it's the smaller invoice."],
+        ["Parts on the van", "Boltfix vans carry gearboxes, springs, cams, followers and cylinders — so a repair verdict becomes a same-visit repair."],
+        ["Honest when it's terminal", "Some locks are done. When replacement is genuinely the answer, we say so and show you why — with the worn part in your hand."],
+        ["Fixes that stay fixed", "Every repair is guaranteed in writing. If it fails again inside the guarantee, the return visit is on us."]
+      ]
+    },
+    "cta": {
+      "heading": "Get a repair verdict before you pay for new",
+      "sub": "Send your local Boltfix branch a photo or a description — they'll tell you straight if it's fixable.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of Boltfix Locksmiths — eight repair-first branches keeping locks, doors and windows working from the Yorkshire coast to Oxford."
+  }
+}

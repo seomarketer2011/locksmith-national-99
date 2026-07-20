@@ -1,0 +1,65 @@
+{
+  "slug": "surelok",
+  "brand": "Surelok Locksmiths",
+  "domain": "surelok-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---surelok-locksmiths",
+  "mark": "home",
+  "theme": {
+    "ink": "#1a2e26", "ink2": "#24473a",
+    "primary": "#15803d", "primary2": "#166534",
+    "accent": "#86efac", "surface": "#f0fdf4", "line": "#dcece2", "muted": "#5f7268",
+    "radius": "16px",
+    "heroStyle": "light",
+    "coverageStyle": "cards", "coverageDark": false
+  },
+  "layout": ["hero", "why", "coverage", "services", "cta"],
+  "copy": {
+    "title": "Surelok Locksmiths — Home of Your Local Surelok Branch",
+    "description": "Surelok Locksmiths is a family of nine local branches helping people feel settled and safe at home — new keys on moving day, upgrades for growing families, and a calm response when things go wrong.",
+    "topbar": "New home? Change the locks on day one — your local Surelok can do it while you unpack",
+    "topbarCta": "Find your local Surelok",
+    "navBranches": "Find a Branch",
+    "eyebrow": "For Homes & the People In Them",
+    "h1": "Settle in safe",
+    "lead": "Moving day, a new baby, a teenager's first key, an elderly parent living alone — the moments that change how you think about your front door. Surelok's nine branches, from the North Downs to the Potteries, exist for exactly those moments.",
+    "heroCta": "Find your local Surelok",
+    "heroCta2": "What we help with",
+    "heroNote": "{n} branches across England — each one a local team, not a call centre.",
+    "trust": [],
+    "coverage": {
+      "heading": "A Surelok branch near you",
+      "intro": "Every branch is its own local team with its own number — the person who answers is the person who comes out. The neighbourhoods listed are where they're working this week.",
+      "areaPattern": "Looking after homes in {areas} and across {town}"
+    },
+    "services": {
+      "heading": "The jobs that make a house feel like yours",
+      "intro": "Most of our work isn't an emergency — it's the sensible hour that stops one ever happening.",
+      "featured": [
+        ["Lock Changes", "The moving-day essential: every previous keyholder locked out by teatime, one set of keys, all yours."],
+        ["Door Lock Installation", "Insurance-standard locks fitted to front, back and side doors — explained in plain English, not jargon."],
+        ["Window Lock Repair & Replacement", "Child-safe, insurer-happy window locks for family homes, fixed or fitted in a single visit."],
+        ["Door Lock Replacement", "Tired locks upgraded before winter, before a holiday, or just before you stop trusting them."],
+        ["Locked Out", "It happens to every household eventually. Calm, non-destructive entry — no drama, no lecture."],
+        ["Emergency Locksmith", "24/7 cover for the nights that don't go to plan, from the same local team you'd call in daylight."]
+      ],
+      "more": ["Broken key removal", "Lock repairs", "Burglar repairs & boarding up", "Door repairs", "Safe installation & opening"]
+    },
+    "why": {
+      "heading": "Why families keep our number",
+      "intro": "Nine branches, one habit: treating every house call like it's our own mum's front door.",
+      "points": [
+        ["Moving-day specialists", "Book us for completion day and the locks are changed before the kettle's found. It's our most-loved service for a reason."],
+        ["Patient, plain-spoken visits", "We explain what we're doing and why, quote before we start, and never upsell hardware a home doesn't need."],
+        ["The same face next time", "Branches are small local teams — the locksmith who fitted your locks is the one who answers when you call back."],
+        ["Vetted for your doorstep", "Every Surelok engineer is DBS-checked, ID-carrying and insured. You're letting them into your home; we take that seriously."]
+      ]
+    },
+    "cta": {
+      "heading": "Moving soon — or just never got round to it?",
+      "sub": "Find your local Surelok branch and get it sorted in one visit.",
+      "button": "Find your local Surelok"
+    },
+    "footerBlurb": "The home of Surelok Locksmiths — nine local branches helping households across England settle in safe, from moving-day lock changes to 24/7 emergency cover."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "shieldx",
+  "brand": "Shieldx Locksmiths",
+  "domain": "shieldx-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---shieldx-locksmiths",
+  "mark": "shield",
+  "theme": {
+    "ink": "#1c1917", "ink2": "#292524",
+    "primary": "#dc2626", "primary2": "#991b1b",
+    "accent": "#f87171", "surface": "#fafaf9", "line": "#e7e5e4", "muted": "#78716c",
+    "radius": "12px",
+    "heroStyle": "dark", "heroGlow": "rgba(220,38,38,.22)",
+    "coverageStyle": "cards", "coverageDark": true
+  },
+  "layout": ["hero", "trust", "coverage", "services", "why", "cta"],
+  "copy": {
+    "title": "Shieldx Locksmiths — Official Site | Find Your Local Branch",
+    "description": "The official home of the Shieldx Locksmiths branch network. Nine local branches on a genuine 24-hour rota — from Boston and Peterborough to Hastings and Westhoughton. Find your branch and call direct.",
+    "topbar": "Every Shieldx branch runs a genuine 24-hour rota — nights, weekends and bank holidays",
+    "topbarCta": "Find your branch",
+    "navBranches": "Our Branches",
+    "eyebrow": "The 24-Hour Branch Network",
+    "h1": "There's always a Shieldx awake near you",
+    "lead": "Shieldx Locksmiths is a network of nine local branches built around one promise: someone answers, someone attends, whatever the hour. From the Lincolnshire fens to the Sussex coast, each branch is run by locksmiths who live and work in the town they cover.",
+    "heroCta": "Find your local branch",
+    "heroCta2": "What we do",
+    "heroNote": "{n} branches, one standard: answered calls and attended jobs, 24 hours a day.",
+    "trust": ["24-Hour Rota at Every Branch", "DBS-Checked Engineers", "Non-Destructive Entry First", "No Call-Out Fee", "Fully Insured"],
+    "coverage": {
+      "heading": "Nine branches, nine towns that never get left waiting",
+      "intro": "Each Shieldx branch keeps its own local number and its own overnight rota. Pick your town to go straight to your branch's site — the areas listed are where that team is out working every week.",
+      "areaPattern": "On call across {areas} and every corner of {town}"
+    },
+    "services": {
+      "heading": "Built for the calls that can't wait",
+      "intro": "Every branch carries the same emergency kit and works to the same response standard — these are the jobs the overnight rota exists for, alongside the full range of planned work.",
+      "featured": [
+        ["Emergency Locksmith", "The core of what Shieldx is: a locksmith on the road to you at 3am, not an answering machine."],
+        ["Locked Out", "Non-destructive entry as the default — picked, not drilled, wherever the lock allows it."],
+        ["Burglar Repair Service", "Post-break-in make-safe the same night, with locks brought back to insurance standard."],
+        ["Emergency Boarding Up", "Doors and windows secured within hours of the damage, day or night."],
+        ["Broken Key Removal", "Snapped keys extracted without sacrificing the cylinder, usually same visit."],
+        ["Lock Changes", "Lost keys or a new tenancy — cylinders and full locks swapped on the spot."]
+      ],
+      "more": ["Lock repairs", "Door lock installation & replacement", "Door repairs", "Window lock repair & replacement", "Safe installation & opening"]
+    },
+    "why": {
+      "heading": "What holds the network together",
+      "points": [
+        ["A rota, not a promise", "\"24/7\" is easy to print on a van. Every Shieldx branch actually staffs its overnight shift, and the branch phone is answered by the person who'll attend."],
+        ["Local branches, local knowledge", "The engineer who turns up knows the estates, terraces and new-builds of their own town — because it's the only town they cover."],
+        ["One standard everywhere", "From Boston to Sompting, the same vetting, the same non-destructive-first approach, the same upfront pricing before any work starts."],
+        ["Insurance-grade reinstatement", "Emergency work is finished to BS3621 / TS007 standard, so a bad night doesn't turn into a rejected claim."]
+      ]
+    },
+    "cta": {
+      "heading": "Need a locksmith right now?",
+      "sub": "Your nearest Shieldx branch is on shift. Find it below and call the local number direct.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of the Shieldx Locksmiths branch network — nine local branches running genuine 24-hour rotas across England."
+  }
+}

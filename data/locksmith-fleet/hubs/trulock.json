@@ -1,0 +1,65 @@
+{
+  "slug": "trulock",
+  "brand": "Trulock Locksmiths",
+  "domain": "trulock-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---trulock-locksmiths",
+  "mark": "shield",
+  "theme": {
+    "ink": "#0f172a", "ink2": "#1e293b",
+    "primary": "#0284c7", "primary2": "#0369a1",
+    "accent": "#38bdf8", "surface": "#f0f9ff", "line": "#dbeafe", "muted": "#64748b",
+    "radius": "14px",
+    "heroStyle": "light",
+    "coverageStyle": "list", "coverageDark": false
+  },
+  "layout": ["hero", "trust", "why", "services", "coverage", "cta"],
+  "copy": {
+    "title": "Trulock Locksmiths | Official Site — Fixed Prices, Local Branches",
+    "description": "Trulock Locksmiths: the straight-answers locksmith network. Eight branches from Woking and Worthing to Brighouse and Rawtenstall, all working to one public promise — the price you're quoted is the price you pay.",
+    "topbar": "The price we quote is the price you pay — that's the whole brand",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branches",
+    "eyebrow": "Straight Answers, Fixed Prices",
+    "h1": "The quote is the bill. Every time.",
+    "lead": "Locksmithing has a trust problem — mystery call-out fees, prices that double at the door, 'from £49' that never ends at £49. Trulock's eight branches, from the Surrey commuter belt to the Pennine valleys, were built as the answer: a full fixed quote before work starts, and a bill that matches it.",
+    "heroCta": "Find your branch",
+    "heroCta2": "How pricing works",
+    "heroNote": "{n} branches. One pricing promise, publicly stated, honoured on every job.",
+    "trust": ["Fixed Quote Before Any Work", "No Call-Out Fee", "No Night or Weekend Premium", "DBS-Checked & Insured", "Workmanship Guaranteed in Writing"],
+    "coverage": {
+      "heading": "Find your Trulock branch",
+      "intro": "Eight local branches, each answering its own phone on its own number. The areas listed are that branch's regular rounds — pick your town for its full site.",
+      "areaPattern": "Fixed prices honoured in {areas} and everywhere in {town}"
+    },
+    "services": {
+      "heading": "Every job, priced the same way",
+      "intro": "Whatever the job, the sequence is identical: look, quote, agree, work. Nothing starts until you've said yes to a number.",
+      "featured": [
+        ["Locked Out", "One fixed price for entry, agreed on the phone — not renegotiated on your doorstep at midnight."],
+        ["Lock Changes", "Quoted per door with hardware named and priced, so you can compare us before we arrive."],
+        ["Emergency Locksmith", "24/7 response with the same price list as 2pm on a Tuesday. Emergencies aren't a surcharge opportunity."],
+        ["Lock Repairs", "If it's repairable we quote the repair — we don't quote a replacement and hope you won't ask."],
+        ["Burglar Repair Service", "Make-safe and reinstatement itemised clearly, ready to hand straight to your insurer."],
+        ["Door Lock Installation", "Insurance-standard locks with the standard named on the quote, the invoice and the guarantee."]
+      ],
+      "more": ["Broken key removal", "Emergency boarding up", "Door lock replacement", "Door repairs", "Window locks", "Safe installation & opening"]
+    },
+    "why": {
+      "heading": "What 'Tru' costs us — and earns you",
+      "intro": "A fixed-price promise only works if the whole network keeps it. Here's how we hold the line.",
+      "points": [
+        ["Prices agreed up front", "The engineer quotes the full job — labour, parts, VAT — before touching your door. You can say no, and sometimes people do. That's the point."],
+        ["No small print on the clock", "Nights, weekends and bank holidays cost what weekdays cost. A lockout at 3am is stressful enough without a premium."],
+        ["Itemised, keepable paperwork", "Every invoice names the hardware fitted and the guarantee on it — useful for insurers, landlords and your own records."],
+        ["A network that self-polices", "One branch breaking the promise damages eight. Branches audit each other's quotes, which keeps everyone honest."]
+      ]
+    },
+    "cta": {
+      "heading": "Get a number before you commit",
+      "sub": "Call your local Trulock branch, describe the job, and get the fixed price — then decide.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of Trulock Locksmiths — eight branches across England working to one public promise: the price quoted is the price paid."
+  }
+}

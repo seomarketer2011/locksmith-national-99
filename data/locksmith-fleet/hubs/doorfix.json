@@ -1,0 +1,64 @@
+{
+  "slug": "doorfix",
+  "brand": "Doorfix Locksmiths",
+  "domain": "doorfix-locksmiths.co.uk",
+  "fleet": "locksmith-fleet-v2",
+  "cf_project": "hub---doorfix-locksmiths",
+  "mark": "door",
+  "theme": {
+    "ink": "#2b241c", "ink2": "#3a3126",
+    "primary": "#a8801a", "primary2": "#8a6915",
+    "accent": "#e5c56b", "surface": "#faf6ee", "line": "#ece3d2", "muted": "#7c7264",
+    "radius": "8px",
+    "heroStyle": "dark", "heroGlow": "rgba(229,197,107,.18)",
+    "coverageStyle": "cards", "coverageDark": false
+  },
+  "layout": ["hero", "services", "about", "coverage", "cta"],
+  "copy": {
+    "title": "Doorfix Locksmiths — The Door People | Official Site",
+    "description": "Doorfix Locksmiths: the door-mechanism specialists. Eight branches from Canterbury to York for multipoint gearboxes, dropped uPVC and composite doors, misaligned keeps and every lock that lives inside a door.",
+    "topbar": "Multipoint gearboxes · uPVC & composite realignment · The stuff inside the door",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branches",
+    "eyebrow": "The Door People",
+    "h1": "When the problem is the door, not the lock",
+    "lead": "\"Lift the handle harder\" is not a repair. Most modern lock failures start inside the door — a worn gearbox, a dropped sash, keeps a millimetre out of line. Doorfix's eight branches, from Canterbury to York, specialise in exactly that hidden machinery, and fix it before it locks you out.",
+    "heroCta": "Find your branch",
+    "heroCta2": "What we fix",
+    "heroNote": "{n} branches. Vans stocked with gearboxes most locksmiths would have to order in.",
+    "trust": [],
+    "services": {
+      "heading": "Inside-the-door specialists",
+      "intro": "Standard locksmithing is on the menu too — but this is the work that earns the name.",
+      "featured": [
+        ["Door Repairs", "Dropped, catching or slamming uPVC and composite doors realigned so the mechanism stops fighting the frame."],
+        ["Lock Repairs", "Multipoint gearboxes, follower springs and cams repaired or swapped — the failure everyone else calls 'a new door'."],
+        ["Door Lock Replacement", "Full mechanism strips and cylinder upgrades matched to your exact door profile, first visit."],
+        ["Locked Out", "Handle stopped lifting with the door shut? Our speciality. Non-destructive entry on multipoint doors is what we train for."],
+        ["Door Lock Installation", "New cylinders and mechanisms fitted with the alignment set properly — the difference between 2 years and 15."],
+        ["Emergency Locksmith", "24/7 response, because a multipoint failure never picks a convenient evening."],
+        ["Window Lock Repair & Replacement", "The same mechanism-first approach for espagnolettes, shootbolts and window gearing."]
+      ],
+      "more": ["Broken key removal", "Lock changes", "Burglar repairs", "Emergency boarding up", "Safe installation & opening"]
+    },
+    "about": {
+      "heading": "Why doors, specifically?",
+      "body": [
+        "Around four in five modern lockouts aren't lock failures at all — they're door failures. The multipoint mechanism inside a uPVC or composite door is a strip of moving steel with a gearbox at its heart, and when the door drops even slightly, every lift of the handle grinds that gearbox toward failure. General locksmiths meet this mechanism occasionally. Doorfix branches meet it every working day.",
+        "That focus shows up in practical ways: our vans carry the gearboxes, keeps and repair strips that usually have to be ordered in; our engineers diagnose by feel which part of the strip has gone before the door is even open; and every job ends with the door re-aligned and toe-and-heeled — because a new gearbox in a dropped door is just a countdown to the next one.",
+        "There are {n} Doorfix branches, from Canterbury to York. Each runs its own diary on its own local number."
+      ]
+    },
+    "coverage": {
+      "heading": "Doorfix branches",
+      "intro": "Eight branches, each with its own number and its own patch of doors to look after. Pick your town for the full branch site.",
+      "areaPattern": "Doors put right in {areas} and throughout {town}"
+    },
+    "cta": {
+      "heading": "Handle getting stiffer by the week?",
+      "sub": "That's the gearbox talking. Call your local Doorfix branch before it stops mid-lift.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of Doorfix Locksmiths — eight branches of door-mechanism specialists keeping uPVC, composite and timber doors locking as they should."
+  }
+}

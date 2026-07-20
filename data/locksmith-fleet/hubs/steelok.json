@@ -1,0 +1,65 @@
+{
+  "slug": "steelok",
+  "brand": "Steelok Locksmiths",
+  "domain": "steelok-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---steelok-locksmiths",
+  "mark": "cog",
+  "theme": {
+    "ink": "#18181b", "ink2": "#27272a",
+    "primary": "#b45309", "primary2": "#92400e",
+    "accent": "#fbbf24", "surface": "#fafafa", "line": "#e4e4e7", "muted": "#71717a",
+    "radius": "6px",
+    "heroStyle": "dark", "heroGlow": "rgba(251,191,36,.14)",
+    "coverageStyle": "list", "coverageDark": false
+  },
+  "layout": ["hero", "services", "coverage", "why", "cta"],
+  "copy": {
+    "title": "Steelok Locksmiths | The Steelok Branch Network",
+    "description": "Steelok Locksmiths — the brand site for our seven branches from the Black Country to the Severn Vale. Hardware-first locksmithing: the right lock, correctly fitted, in Arnold, Bloxwich, Burntwood, Burton, Cheltenham, Great Malvern and Horwich.",
+    "topbar": "Hardware-first locksmithing · BS3621 mortice · TS007 3-star cylinders",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branches",
+    "eyebrow": "Locksmiths Who Sweat the Hardware",
+    "h1": "It starts with the right lock",
+    "lead": "Most lock problems are really hardware problems — the wrong cylinder, a tired mechanism, a fitting done in a hurry. Steelok branches from the Black Country to the Severn Vale work the other way round: specify the right hardware first, fit it properly, and the security looks after itself.",
+    "heroCta": "Find your branch",
+    "heroCta2": "How we work",
+    "heroNote": "{n} branches across the Midlands and the North West, all working to the same fitting standard.",
+    "trust": [],
+    "coverage": {
+      "heading": "Where you'll find a Steelok branch",
+      "intro": "Seven branches, most of them in the towns that built things — Bloxwich locks, Burton brewing, Horwich railway works. Each branch keeps its own number; the areas below are its regular patch.",
+      "areaPattern": "Workshop-standard fitting in {areas} and throughout {town}"
+    },
+    "services": {
+      "heading": "The work, in order of how often locks actually fail",
+      "intro": "Emergencies get covered — but half of Steelok's diary is upgrading and fitting hardware so the emergency never happens.",
+      "featured": [
+        ["Door Lock Installation", "New BS3621 mortice locks and TS007 3-star cylinders, specified to your door, not off the shelf."],
+        ["Door Lock Replacement", "Tired or non-compliant hardware swapped for lockage your insurer will actually recognise."],
+        ["Lock Repairs", "Sticking mortices, sagging multipoints, stiff cylinders — repaired where repair is honest, replaced where it isn't."],
+        ["Window Lock Repair & Replacement", "Espagnolette and shootbolt mechanisms serviced or renewed to keep casements compliant."],
+        ["Emergency Locksmith", "24/7 call-out when it does go wrong — attended with a van stocked for a first-visit fix."],
+        ["Locked Out", "Non-destructive entry, then a proper look at why the lock failed before we leave."],
+        ["Safe Installation", "Home and business safes anchored and rated correctly for what they'll hold."]
+      ],
+      "more": ["Broken key removal", "Lock changes", "Burglar repairs", "Emergency boarding up", "Door repairs", "Safe opening"]
+    },
+    "why": {
+      "heading": "The Steelok way of doing a job",
+      "points": [
+        ["Specify before you fit", "Every quote names the exact hardware going on your door — brand, grade and standard — so you know what you're paying for."],
+        ["Fitted like it matters", "A 3-star cylinder fitted proud of the handle is a 0-star cylinder. Steelok engineers are measured on the fit, not just the sale."],
+        ["Repair when it's right", "If a £15 part saves a £150 mechanism, that's the job we'll quote. Replacement is a recommendation, never a reflex."],
+        ["Seven branches, one book", "The same fitting standards and the same price book from Arnold to Great Malvern."]
+      ]
+    },
+    "cta": {
+      "heading": "Get the hardware question answered properly",
+      "sub": "Your local Steelok branch will tell you what's on your door now, and what should be.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The brand site for Steelok Locksmiths — seven hardware-first branches across the Midlands and North West, fitting locks to the standard they're rated for."
+  }
+}

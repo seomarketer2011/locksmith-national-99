@@ -1,0 +1,63 @@
+{
+  "slug": "boltman",
+  "brand": "Boltman Locksmiths",
+  "domain": "boltman-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---boltman-locksmiths",
+  "mark": "bolt",
+  "theme": {
+    "ink": "#2d2620", "ink2": "#40372e",
+    "primary": "#8b5e34", "primary2": "#6f4a28",
+    "accent": "#e7c9a9", "surface": "#faf7f3", "line": "#eae2d8", "muted": "#7d7166",
+    "radius": "16px",
+    "heroStyle": "light",
+    "coverageStyle": "cards", "coverageDark": false
+  },
+  "layout": ["hero", "about", "services", "coverage", "cta"],
+  "copy": {
+    "title": "Boltman Locksmiths — Meet Your Local Boltman",
+    "description": "Boltman Locksmiths: one trusted local locksmith per town, eight towns — Aylesbury, Batley, Huyton, Newport, Pudsey, Seaham, Stanford-le-Hope and Warrington. The old way of hiring a tradesman, kept alive.",
+    "topbar": "One town. One Boltman. One number that gets answered.",
+    "topbarCta": "Meet your Boltman",
+    "navBranches": "Your Town",
+    "eyebrow": "Your Town Has a Boltman",
+    "h1": "Remember when you just knew a locksmith?",
+    "lead": "Not a call centre, not a franchise directory — a person. Boltman keeps that old arrangement alive in eight towns: one trusted local locksmith per town, on a number the neighbours already have saved. From Aylesbury to Warrington, if your town's on the list, you've got a Boltman.",
+    "heroCta": "Meet your Boltman",
+    "heroCta2": "What they do",
+    "heroNote": "{n} towns, {n} locksmiths. That's the whole company, and that's the point.",
+    "trust": [],
+    "about": {
+      "heading": "How Boltman works",
+      "body": [
+        "Every trade used to work this way: a town had its locksmith, everyone knew who he was, and his reputation walked down the high street ahead of him. Boltman is that model, deliberately kept small. Each of our {n} towns has one dedicated locksmith — vetted, DBS-checked, insured — who covers that town and nowhere else.",
+        "It changes the economics of trust. Your Boltman can't hide behind a brand's reviews, because in Pudsey or Seaham the reviews are about him, personally. He answers his own phone, quotes his own jobs, and sees the same faces at the school gates as his customers do. Cut corners once in a town that size and everyone hears about it — so nobody does.",
+        "The trade-off is honest: we can't cover everywhere, and we won't pretend to. But if your town is one of ours, you get something the national firms can't sell — a locksmith who is genuinely, permanently local."
+      ]
+    },
+    "coverage": {
+      "heading": "Find your town, meet your Boltman",
+      "intro": "Eight towns, eight locksmiths, eight direct numbers. The areas on each card are your Boltman's daily rounds.",
+      "areaPattern": "Your {town} Boltman covers {areas} and beyond"
+    },
+    "services": {
+      "heading": "Everything you'd ask the town locksmith to do",
+      "intro": "The full trade, done properly, by the same pair of hands every time.",
+      "featured": [
+        ["Locked Out", "Call your Boltman direct — he knows the estates and he's rarely far. Non-destructive entry as standard."],
+        ["Lock Changes", "New home, lost keys, ex-keyholders — sorted in one visit, with keys cut and handed over on the doorstep."],
+        ["Lock Repairs", "Sticking, stiff or tired locks brought back to life — the small jobs national firms won't get out of the van for."],
+        ["Emergency Locksmith", "24/7, because that's what being the town's locksmith means. Nights are answered by the same person as afternoons."],
+        ["Door Lock Installation", "Insurance-standard locks fitted and explained across the kitchen table, not sold from a script."],
+        ["Burglar Repair Service", "After a break-in you want a familiar face, fast. Your Boltman makes safe, repairs and helps with the insurance notes."]
+      ],
+      "more": ["Broken key removal", "Emergency boarding up", "Door lock replacement", "Door repairs", "Window locks", "Safe installation & opening"]
+    },
+    "cta": {
+      "heading": "Is your town a Boltman town?",
+      "sub": "Check the list — and if it is, save his number before you need it.",
+      "button": "Meet your Boltman"
+    },
+    "footerBlurb": "Boltman Locksmiths — one trusted local locksmith per town, in eight towns across England. The old way of hiring a tradesman, kept alive on purpose."
+  }
+}

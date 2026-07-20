@@ -1,0 +1,65 @@
+{
+  "slug": "boltpro",
+  "brand": "Boltpro Locksmiths",
+  "domain": "boltpro-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---boltpro-locksmiths",
+  "mark": "key",
+  "theme": {
+    "ink": "#111827", "ink2": "#1f2937",
+    "primary": "#4f46e5", "primary2": "#4338ca",
+    "accent": "#a5b4fc", "surface": "#f9fafb", "line": "#e5e7eb", "muted": "#6b7280",
+    "radius": "10px",
+    "heroStyle": "dark", "heroGlow": "rgba(79,70,229,.25)",
+    "coverageStyle": "list", "coverageDark": false
+  },
+  "layout": ["hero", "trust", "services", "coverage", "why", "cta"],
+  "copy": {
+    "title": "Boltpro Locksmiths | Official Site for Homes & Business",
+    "description": "Boltpro Locksmiths — professional locksmithing for homes, shops, offices and landlords. Eight branches including the Wirral cluster of Bebington, Heswall and Wallasey, plus Slough, Sunbury, Bromsgrove, Herne Bay and Trowbridge.",
+    "topbar": "Homes · Shops · Offices · Rental portfolios — one locksmith relationship for all of it",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branches",
+    "eyebrow": "For Homes & Business Alike",
+    "h1": "The locksmith your business would choose — at home",
+    "lead": "Shop shutters at 6am, office master-key systems, HMO compliance for landlords, and the family front door — Boltpro branches handle all of it with the same professional discipline: documented work, scheduled visits that happen on time, and invoices your accountant won't query.",
+    "heroCta": "Find your branch",
+    "heroCta2": "Services",
+    "heroNote": "{n} branches — including three across the Wirral — serving households, high streets and trading estates.",
+    "trust": ["Commercial & Domestic", "Landlord & HMO Compliance", "Master-Key & Keyed-Alike Systems", "Scheduled or Emergency", "Fully Documented Work"],
+    "coverage": {
+      "heading": "Branch directory",
+      "intro": "Eight branches, each serving its town's homes and businesses on its own direct number. The areas listed are that branch's regular commercial and residential rounds.",
+      "areaPattern": "Homes and premises covered in {areas} and across {town}"
+    },
+    "services": {
+      "heading": "One firm, both sides of the shopfront",
+      "intro": "The same engineers handle a jammed till-room door at nine and a family lockout at ten — and both get the professional version of the job.",
+      "featured": [
+        ["Emergency Locksmith", "24/7 priority response for premises and homes — because a shop that can't lock up is as urgent as a family locked out."],
+        ["Lock Changes", "Staff changes, tenant turnover, house moves — cylinders and suites changed with keys accounted for in writing."],
+        ["Door Lock Installation", "From BS3621 domestic locks to keyed-alike suites and master-key systems across multiple doors and sites."],
+        ["Burglar Repair Service", "Post-incident make-safe with the paperwork insurers and loss adjusters expect, for premises and homes alike."],
+        ["Emergency Boarding Up", "Shopfronts, offices and houses secured fast — glazing-ready and documented for the claim."],
+        ["Safe Installation", "Rated safes for cash handling, documents and home valuables, anchored and certified."],
+        ["Lock Repairs", "Planned maintenance visits for portfolios and premises, or one-off fixes at home."]
+      ],
+      "more": ["Locked out & non-destructive entry", "Broken key removal", "Door lock replacement", "Door repairs", "Window locks", "Safe opening"]
+    },
+    "why": {
+      "heading": "The professional habits that carry over",
+      "points": [
+        ["Paperwork as standard", "Every job — domestic or commercial — ends with documentation: what was fitted, to what standard, under what guarantee."],
+        ["Appointments that hold", "Businesses can't wait in all day, so our branches book time slots and keep them. Households get the same courtesy."],
+        ["Key control done properly", "Master-key schedules, restricted profiles and signed key registers for landlords and managers who need to know who holds what."],
+        ["Scale when you need it", "One front door or forty rental units — the same branch handles both, so growing portfolios never outgrow their locksmith."]
+      ]
+    },
+    "cta": {
+      "heading": "Talk to a branch that speaks both languages",
+      "sub": "Home, business or both — your local Boltpro branch will quote it properly.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of Boltpro Locksmiths — eight branches delivering professional locksmithing to homes, shops, offices and rental portfolios."
+  }
+}

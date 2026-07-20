@@ -1,0 +1,65 @@
+{
+  "slug": "toplock",
+  "brand": "Toplock Locksmiths",
+  "domain": "toplock-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---toplock-locksmiths",
+  "mark": "key",
+  "theme": {
+    "ink": "#2d1b1e", "ink2": "#43282c",
+    "primary": "#881337", "primary2": "#6d1030",
+    "accent": "#d4a24c", "surface": "#faf7f2", "line": "#e9e2d6", "muted": "#7d726b",
+    "radius": "4px",
+    "headingFont": "Georgia,'Times New Roman',serif",
+    "heroStyle": "light",
+    "coverageStyle": "cards", "coverageDark": false
+  },
+  "layout": ["hero", "about", "coverage", "services", "cta"],
+  "copy": {
+    "title": "Toplock Locksmiths — Our Branches & What We Do",
+    "description": "Toplock Locksmiths: door and window specialists in towns with doors worth caring about — St Albans, Farnham, Leamington Spa, Shoreham-by-Sea and more. Eight branches where the joinery matters as much as the lock.",
+    "topbar": "Locksmiths who treat the door as carefully as the lock",
+    "topbarCta": "Find your branch",
+    "navBranches": "Our Branches",
+    "eyebrow": "Doors, Windows & the Locks They Deserve",
+    "h1": "Some doors deserve better than a drill",
+    "lead": "A Georgian front door in St Albans, a flint cottage in Farnham, a spa-town villa in Leamington, a Pennine terrace in Rochdale. Toplock's eight branches work in towns where the doors have history — and fit security that respects the joinery it goes into.",
+    "heroCta": "Find your branch",
+    "heroCta2": "Our services",
+    "heroNote": "{n} branches, from Sussex shoreline to the edge of the Pennines.",
+    "trust": [],
+    "about": {
+      "heading": "The craft position",
+      "body": [
+        "Plenty of locksmiths can change a cylinder. Fewer can ease a swollen timber door so the mortice throws cleanly, re-hang a Victorian front door without splitting a stile, or fit a modern insurance-rated lock into period joinery without it looking like an afterthought. That's the work Toplock branches are built around.",
+        "It shapes everything: we carry chisels as well as pick guns, we quote for the door as a whole rather than the lock in isolation, and non-destructive methods are the default because destruction is expensive on a door you love. Modern uPVC and composite doors get the same care — a multipoint gearbox aligned properly lasts years longer than one forced into a dropped door.",
+        "There are {n} Toplock branches. Each one keeps its own local number and its own diary, so you deal with the locksmith who actually turns up."
+      ]
+    },
+    "coverage": {
+      "heading": "Towns we're proud to work in",
+      "intro": "Pick your town for your local branch's own site and number. The neighbourhoods named are where that branch works week in, week out.",
+      "areaPattern": "Doors and windows cared for in {areas} and around {town}"
+    },
+    "services": {
+      "heading": "What a Toplock branch does",
+      "intro": "Everything a locksmith should do — with the door-and-window work most locksmiths would rather not take on.",
+      "featured": [
+        ["Door Repairs", "Dropped, swollen, catching or draughty — timber eased and re-hung, uPVC and composite doors realigned."],
+        ["Door Lock Installation", "Insurance-rated locks fitted into period and modern doors with the joinery left as it should be."],
+        ["Window Lock Repair & Replacement", "Sash stops, espagnolettes and casement locks — repaired sympathetically or replaced discreetly."],
+        ["Lock Repairs", "Sticking mortices and tired nightlatches brought back to smooth, before they fail outright."],
+        ["Locked Out", "Non-destructive entry first, always — especially on a door that can't be replaced from stock."],
+        ["Emergency Locksmith", "24/7 call-out across all eight towns when it can't wait for morning."],
+        ["Lock Changes", "New keys for new chapters — moving in, letting out, or peace of mind."]
+      ],
+      "more": ["Broken key removal", "Burglar repairs", "Emergency boarding up", "Door lock replacement", "Safe installation & opening"]
+    },
+    "cta": {
+      "heading": "Got a door that needs looking at?",
+      "sub": "Your local Toplock branch will quote for the door as a whole — lock, fit and finish.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "Toplock Locksmiths — eight branches of door-and-window-minded locksmiths, caring for everything from Georgian townhouses to modern composites."
+  }
+}

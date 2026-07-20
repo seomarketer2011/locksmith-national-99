@@ -1,0 +1,65 @@
+{
+  "slug": "suresec",
+  "brand": "Suresec Locksmiths",
+  "domain": "suresec-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "hub---suresec-locksmiths",
+  "mark": "lock",
+  "theme": {
+    "ink": "#0f172a", "ink2": "#1e293b",
+    "primary": "#0d9488", "primary2": "#0f766e",
+    "accent": "#5eead4", "surface": "#f8fafc", "line": "#e2e8f0", "muted": "#64748b",
+    "radius": "10px",
+    "heroStyle": "dark", "heroGlow": "rgba(13,148,136,.25)",
+    "coverageStyle": "list", "coverageDark": true
+  },
+  "layout": ["hero", "trust", "services", "why", "coverage", "cta"],
+  "copy": {
+    "title": "Suresec Locksmiths | Official Brand Site & Branch Directory",
+    "description": "Suresec Locksmiths — security done to standard. Eight branches from the Thames Valley to Tyneside fitting BS3621 and TS007-rated hardware, with free door-by-door security checks and insurance-compliant certification.",
+    "topbar": "BS3621 · TS007 3-star · PAS 24 — if your insurer names a standard, we fit to it",
+    "topbarCta": "Find your branch",
+    "navBranches": "Branch Directory",
+    "eyebrow": "Security Done to Standard",
+    "h1": "Would your locks pass your insurer's small print?",
+    "lead": "Most people find out what BS3621 means the day a claim is questioned. Suresec's eight branches — from Abingdon and Aldershot up to Gateshead — check doors and windows against the standards your policy actually names, then fit certified hardware and put it in writing.",
+    "heroCta": "Find your branch",
+    "heroCta2": "See the checks we do",
+    "heroNote": "{n} branches from the Thames Valley to Tyneside. Every visit ends with your locks documented, not guessed at.",
+    "trust": ["BS3621 & TS007 Certified Hardware", "Written Compliance Notes", "Free Door-by-Door Check", "DBS-Checked Engineers", "24/7 Emergency Cover"],
+    "coverage": {
+      "heading": "The Suresec branch directory",
+      "intro": "Eight branches, each with its own surveyor-minded locksmiths and its own local number. The areas listed are streets they walk regularly — pick your town for the full branch site.",
+      "areaPattern": "Surveys and upgrades across {areas} and the wider {town} area"
+    },
+    "services": {
+      "heading": "From survey to certificate",
+      "intro": "The Suresec visit has a shape: check everything, fix what fails, document what's fitted. These are the pieces.",
+      "featured": [
+        ["Door Lock Installation", "Certified BS3621 mortice locks and TS007 3-star cylinders, fitted and recorded against your policy wording."],
+        ["Door Lock Replacement", "Non-compliant or worn hardware swapped for rated equivalents — with the old spec noted so you can see the difference."],
+        ["Window Lock Repair & Replacement", "Key-operated window locks brought up to the standard most contents policies quietly require."],
+        ["Lock Repairs", "A failing mechanism is a failing standard. Repaired to spec or honestly condemned."],
+        ["Burglar Repair Service", "Post-incident reinstatement your insurer will accept, with photographs and hardware certificates for the claim."],
+        ["Safe Installation", "Rated safes, correctly anchored, matched to your insurer's cash and valuables limits."],
+        ["Emergency Locksmith", "24/7 response — and the emergency fix is done with certified hardware, not a temporary bodge."]
+      ],
+      "more": ["Locked out & non-destructive entry", "Broken key removal", "Lock changes", "Emergency boarding up", "Door repairs", "Safe opening"]
+    },
+    "why": {
+      "heading": "Why standards are the whole point",
+      "points": [
+        ["The free security check", "Every branch offers a no-obligation door-by-door check against BS3621, TS007 and PAS 24 — you get the findings whether or not you book work."],
+        ["Paperwork that protects you", "Job sheets record exactly what was fitted and to what standard. If an insurer ever asks, the answer is in writing."],
+        ["Rated hardware only", "No unbranded cylinders, no mystery mortices. If it goes on your door, it carries a kitemark or a star rating."],
+        ["Local branches, national standard", "The same checklist in Skegness as in Welwyn Garden City — eight branches marking against the same sheet."]
+      ]
+    },
+    "cta": {
+      "heading": "Book the free security check",
+      "sub": "Your local Suresec branch will tell you exactly where your home stands — no obligation, no jargon.",
+      "button": "Find your branch"
+    },
+    "footerBlurb": "The official site of Suresec Locksmiths — eight branches fitting and certifying insurance-standard security from the Thames Valley to Tyneside."
+  }
+}

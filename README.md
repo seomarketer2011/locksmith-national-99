@@ -15,6 +15,7 @@ content engine it was extracted from. Every script uses only Node built-ins.
 | `data/locksmith-fleet/local-intelligence/` | Per-location intelligence used to enrich each site |
 | `data/locksmith-fleet/enriched-cache/` | Cached enriched content per site |
 | `data/locksmith-fleet/blocked.csv` | Sites excluded from deploy |
+| `data/locksmith-fleet/hubs/` | Per-brand config for the root-domain brand hubs (copy, theme, layout) |
 | `templates/locksmith-fleet/` | Canonical Astro template |
 | `templates/locksmith-fleet-v2` … `-v4` | Template revisions |
 | `scripts/locksmith-fleet/` | Build / enrich / deploy / IndexNow / GSC / regeneration scripts |
@@ -36,6 +37,24 @@ node scripts/locksmith-fleet/redeploy.mjs --domain <domain> --skip-deploy
 ```
 
 See `scripts/locksmith-fleet/README.md` for the full script reference.
+
+## Brand hubs (root domains)
+
+The sub-clustered brands (`shieldx-locksmiths.co.uk`, `steelok-locksmiths.co.uk`,
+…) each get a **brand hub** on their root domain — a branded parent site with a
+branch directory, modelled on the hand-built `shield-locksmiths.co.uk` home page.
+Each hub is deliberately differentiated: its own positioning angle, copy, palette,
+section order and coverage layout live in `data/locksmith-fleet/hubs/<brand>.json`,
+and branch cards pull real neighbourhood names from the enriched cache
+(`home.areas-covered`). Titles/H1s are brand-first ("official site" framing, not
+keyword targeting) and each page carries `Organization` JSON-LD listing the city
+sites as sub-organisations.
+
+```bash
+node scripts/locksmith-fleet/build-hubs.mjs                   # build all hubs → output/hubs/
+node scripts/locksmith-fleet/build-hubs.mjs --brand shieldx   # one brand
+node scripts/locksmith-fleet/build-hubs.mjs --deploy          # build + wrangler pages deploy
+```
 
 ## Required env (for real deploys)
 
