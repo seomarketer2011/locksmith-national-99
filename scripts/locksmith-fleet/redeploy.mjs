@@ -75,6 +75,7 @@ for (const site of selected) {
     const scratch = join(OUTPUT_ROOT, cfProject);
     prepareScratch(scratch);
     substituteTokens(scratch, site);
+    applyBrandFavicon(scratch, site);
     verifyLogo(scratch, site);
     if (!args.skip_enrich) await maybeEnrich(scratch, site);
 
@@ -171,6 +172,25 @@ function substituteTokens(scratch, site) {
     }
     if (changed) writeFileSync(file, content);
   });
+}
+
+// Swap the template's generic favicon for the brand's own, when the site
+// belongs to a sub-clustered brand (<city>.<brand>-locksmiths.co.uk) and a
+// favicon set exists in data/locksmith-fleet/favicons/<brand>.{png,ico}.
+// Standalone city domains keep the template default.
+function applyBrandFavicon(scratch, site) {
+  const m = site.domain.match(/\.([a-z0-9]+)-locksmiths\.co\.uk$/);
+  if (!m) return;
+  const favDir = join(ROOT, "data", "locksmith-fleet", "favicons");
+  let applied = false;
+  for (const ext of ["png", "ico"]) {
+    const src = join(favDir, `${m[1]}.${ext}`);
+    if (existsSync(src)) {
+      cpSync(src, join(scratch, "public", `favicon.${ext}`));
+      applied = true;
+    }
+  }
+  if (applied) console.log(`  favicon: applied ${m[1]} brand favicon`);
 }
 
 function walk(dir, fn) {

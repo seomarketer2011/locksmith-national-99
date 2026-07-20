@@ -15,7 +15,8 @@ content engine it was extracted from. Every script uses only Node built-ins.
 | `data/locksmith-fleet/local-intelligence/` | Per-location intelligence used to enrich each site |
 | `data/locksmith-fleet/enriched-cache/` | Cached enriched content per site |
 | `data/locksmith-fleet/blocked.csv` | Sites excluded from deploy |
-| `data/locksmith-fleet/hubs/` | Per-brand config for the root-domain brand hubs (copy, theme, layout) |
+| `data/locksmith-fleet/hubs/` | Per-brand config for the root-domain brand hubs (copy, theme, layout; `static/` holds the hand-built shield hub page) |
+| `data/locksmith-fleet/favicons/` | Per-brand favicon sets (`<brand>.svg/.png/.ico`) applied to hubs and, via `redeploy.mjs`, to every branch subsite |
 | `templates/locksmith-fleet/` | Canonical Astro template |
 | `templates/locksmith-fleet-v2` … `-v4` | Template revisions |
 | `templates/locksmith-fleet-v5-secure-line` | Unlaunched "Secure Line" homepage redesign (archived from branch `claude/cloudflare-urls-homepage-bycnte`) |
@@ -56,6 +57,14 @@ node scripts/locksmith-fleet/build-hubs.mjs                   # build all hubs �
 node scripts/locksmith-fleet/build-hubs.mjs --brand shieldx   # one brand
 node scripts/locksmith-fleet/build-hubs.mjs --deploy          # build + wrangler pages deploy
 ```
+
+## Cloudflare accounts (important)
+
+The global API key spans many accounts. The **fleet** — all 99 city-site Pages
+projects and the `shield-hub` project — lives in account
+`fec939b05a3cd24d2a48c2e3b6a7b794`. The 11 newer `<brand>-hub` projects live in
+the default env account. City-site redeploys must therefore run with
+`CLOUDFLARE_ACCOUNT_ID=fec939b05a3cd24d2a48c2e3b6a7b794`.
 
 ## Required env (for real deploys)
 

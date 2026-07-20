@@ -22,7 +22,7 @@
 //   CLOUDFLARE_API_TOKEN   (scoped token)   OR
 //   CLOUDFLARE_EMAIL + CLOUDFLARE_API_KEY   (global API key)
 
-import { readFileSync, existsSync, mkdirSync, readdirSync, writeFileSync, rmSync } from "node:fs";
+import { readFileSync, existsSync, mkdirSync, readdirSync, writeFileSync, rmSync, cpSync, copyFileSync } from "node:fs";
 import { join, resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
@@ -49,16 +49,36 @@ console.log(`Building ${configs.length} hub(s).${args.deploy ? " Deploying after
 
 async function main() {
 for (const cfg of configs) {
-  const branches = loadBranches(cfg);
-  if (branches.length === 0) die(`No branches found in sites.json for ${cfg.domain}`);
   const outDir = join(OUTPUT_ROOT, cfg.domain);
   rmSync(outDir, { recursive: true, force: true });
   mkdirSync(outDir, { recursive: true });
-  writeFileSync(join(outDir, "index.html"), renderHub(cfg, branches));
-  writeFileSync(join(outDir, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: https://${cfg.domain}/sitemap.xml\n`);
-  writeFileSync(join(outDir, "sitemap.xml"),
-    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>https://${cfg.domain}/</loc></url>\n</urlset>\n`);
-  console.log(`  ✓ ${cfg.domain}  (${branches.length} branches → ${outDir})`);
+
+  if (cfg.staticDir) {
+    // Hand-built hub page kept verbatim (e.g. the original shield hub) —
+    // copy it as-is instead of rendering from copy/theme config.
+    cpSync(join(ROOT, cfg.staticDir), outDir, { recursive: true });
+    console.log(`  ✓ ${cfg.domain}  (static page from ${cfg.staticDir})`);
+  } else {
+    const branches = loadBranches(cfg);
+    if (branches.length === 0) die(`No branches found in sites.json for ${cfg.domain}`);
+    writeFileSync(join(outDir, "index.html"), renderHub(cfg, branches));
+    console.log(`  ✓ ${cfg.domain}  (${branches.length} branches → ${outDir})`);
+  }
+
+  if (!existsSync(join(outDir, "robots.txt"))) {
+    writeFileSync(join(outDir, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: https://${cfg.domain}/sitemap.xml\n`);
+  }
+  if (!existsSync(join(outDir, "sitemap.xml"))) {
+    writeFileSync(join(outDir, "sitemap.xml"),
+      `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>https://${cfg.domain}/</loc></url>\n</urlset>\n`);
+  }
+
+  // Brand favicon set (data/locksmith-fleet/favicons/<slug>.{png,ico,svg}).
+  const favDir = join(ROOT, "data", "locksmith-fleet", "favicons");
+  for (const ext of ["png", "ico", "svg"]) {
+    const src = join(favDir, `${cfg.slug}.${ext}`);
+    if (existsSync(src)) copyFileSync(src, join(outDir, `favicon.${ext}`));
+  }
 
   if (args.deploy) await deployHub(cfg, outDir);
 }
@@ -159,6 +179,10 @@ function renderHub(cfg, branches) {
 <title>${esc(c.title)}</title>
 <meta name="description" content="${esc(c.description)}" />
 <link rel="canonical" href="https://${cfg.domain}/" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/favicon.png" />
 <script type="application/ld+json">
 ${jsonLd(cfg, branches)}
 </script>
@@ -435,7 +459,7 @@ async function deployHub(cfg, outDir) {
 
   const att = await cfPost(`/accounts/${accountId}/pages/projects/${project}/domains`, { name: cfg.domain }, headers);
   const attCode = (att.errors || [])[0]?.code;
-  if (att.success || attCode === 8000023 || attCode === 8000007) {
+  if (att.success || attCode === 8000023 || attCode === 8000007 || attCode === 8000018) {
     console.log(`  ✓ custom domain ${cfg.domain} attached to '${project}'`);
   } else {
     die(`domain attach failed for ${cfg.domain}: ${JSON.stringify(att.errors)}`);

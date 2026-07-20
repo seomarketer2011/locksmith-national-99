@@ -1,0 +1,8 @@
+{
+  "slug": "shield",
+  "brand": "Shield Locksmiths",
+  "domain": "shield-locksmiths.co.uk",
+  "fleet": "locksmith-fleet",
+  "cf_project": "shield-hub",
+  "staticDir": "data/locksmith-fleet/hubs/static/shield-locksmiths.co.uk"
+}
