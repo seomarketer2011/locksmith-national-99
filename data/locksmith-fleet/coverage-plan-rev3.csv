@@ -62,262 +62,266 @@ darlington,Darlington,North East,city,93022,Individual (new market),Individual w
 chester,Chester,North West,town,92756,Individual (second site — subdomain stays live),Individual website,,chester.shield-locksmiths.co.uk,61,
 hove,Hove,South East,town,91900,Individual (new market),Individual website,Bundle 25 - Hove & Area,,62,
 hastings,Hastings,South East,city,91497,Individual (second site — subdomain stays live),Individual website,,hastings.shieldx-locksmiths.co.uk,63,
-hartlepool,Hartlepool,North East,city,88001,Individual (new market),Individual website,,,64,
-stockton-on-tees,Stockton-on-Tees,North East,city,84824,Individual (new market),Individual website,,,65,
-weston-super-mare,Weston-super-Mare,South West,city,84600,Individual (new market),Individual website,,,66,
-ashford,Ashford,South East,city,82143,Individual (new market),Individual website,,,67,
-redditch,Redditch,West Midlands,city,81634,Individual (new market),Individual website,,,68,
-wigan,Wigan,North West,major-city,81580,Individual (new market),Individual website,,,69,
-rugby,Rugby,West Midlands,city,78130,Individual (new market),Individual website,,,70,
-guildford,Guildford,South East,city,77870,Individual (new market),Individual website,,,71,
-newcastle-under-lyme,Newcastle-under-Lyme,West Midlands,city,76511,Individual (new market),Individual website,,,72,
-chesterfield,Chesterfield,East Midlands,city,76394,Individual (new market),Individual website,,,73,
-harrogate,Harrogate,Yorkshire and The Humber,city,75522,Individual (new market),Individual website,,,74,
-stafford,Stafford,West Midlands,city,71695,Individual (new market),Individual website,,,75,
-rotherham,Rotherham,Yorkshire and The Humber,major-city,71535,Individual (new market),Individual website,,,76,
-barnsley,Barnsley,Yorkshire and The Humber,major-city,71394,Individual (new market),Individual website,,,77,
-walsall,Walsall,West Midlands,major-city,70777,Individual (new market),Individual website,,,78,
-dudley,Dudley,West Midlands,major-city,64277,Individual (new market),Individual website,,,79,
-canterbury,Canterbury,South East,city,55107,Individual (new market),Individual website,,,80,
-wokingham,Wokingham,South East,city,50320,Individual (new market),Individual website,,,81,
-horsham,Horsham,South East,city,50211,Individual (new market),Individual website,,,82,
-winchester,Winchester,South East,city,48486,Individual (new market),Individual website,,,83,
-braintree,Braintree,East of England,city,43179,Individual (new market),Individual website,,,84,
-fareham,Fareham,South East,city,42633,Individual (new market),Individual website,,,85,
-chorley,Chorley,North West,city,39539,Individual (new market),Individual website,,,86,
-warwick,Warwick,West Midlands,city,36673,Individual (new market),Individual website,,,87,
-dover,Dover,South East,city,36349,Individual (new market),Individual website,,,88,
-lichfield,Lichfield,West Midlands,city,32586,Individual (new market),Individual website,,,89,
-morley,Morley,Yorkshire and The Humber,city,32562,Individual (new market),Individual website,,,90,
-stroud,Stroud,South West,city,26073,Individual (new market),Individual website,,,91,
-ashington,Ashington,North East,town,28279,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-chester-le-street,Chester-le-Street,North East,town,23554,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-cramlington,Cramlington,North East,suburb,28846,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-durham,Durham,North East,town,50502,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-hebburn,Hebburn,North East,suburb,21341,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-longbenton,Longbenton,North East,town,26882,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-south-shields,South Shields,North East,town,73326,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-tynemouth,Tynemouth,North East,suburb,60611,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-wallsend,Wallsend,North East,town,45351,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-whitley-bay,Whitley Bay,North East,town,36876,Bundle subdomain,Bundle 01 - Ashington & Area,,,,2.0
-billingham,Billingham,North East,town,33917,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-eston,Eston,North East,suburb,29625,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-ingleby-barwick,Ingleby Barwick,North East,suburb,23380,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-newton-aycliffe,Newton Aycliffe,North East,town,25760,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-redcar,Redcar,North East,suburb,37666,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-thornaby-on-tees,Thornaby-on-Tees,North East,suburb,23352,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-bingley,Bingley,Yorkshire and The Humber,town,21334,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-bramley,Bramley,Yorkshire and The Humber,town,21334,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-dewsbury,Dewsbury,Yorkshire and The Humber,town,63730,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-keighley,Keighley,Yorkshire and The Humber,town,48754,Bundle subdomain,Bundle 02 - Keighley & Area,,,,13.0
-accrington,Accrington,North West,suburb,34897,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-burnley,Burnley,North West,town,78266,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-bury,Bury,North West,town,81115,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-darwen,Darwen,North West,town,27897,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-heywood,Heywood,North West,town,29724,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-middleton,Middleton,North West,town,46617,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-nelson,Nelson,North West,town,33808,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-whitefield,Whitefield,North West,town,22193,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-halifax,Halifax,Yorkshire and The Humber,town,88111,Bundle subdomain,Bundle 03 - Burnley & Area,,,,1.0
-ashton-in-makerfield,Ashton-in-Makerfield,North West,suburb,26367,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-bamber-bridge,Bamber Bridge,North West,suburb,40359,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-fulwood,Fulwood,North West,town,34693,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-hindley,Hindley,North West,town,24485,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-leyland,Leyland,North West,suburb,39281,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-newton-le-willows,Newton-le-Willows,North West,town,24651,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-orrell,Orrell,North West,suburb,23412,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-penwortham,Penwortham,North West,town,20489,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-skelmersdale,Skelmersdale,North West,town,34921,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,23.0
-gainsborough,Gainsborough,East Midlands,town,21899,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-worksop,Worksop,East Midlands,town,43435,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-beverley,Beverley,Yorkshire and The Humber,town,30933,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-cleethorpes,Cleethorpes,Yorkshire and The Humber,town,29660,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-goole,Goole,Yorkshire and The Humber,town,20173,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-ossett,Ossett,Yorkshire and The Humber,town,21854,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-pontefract,Pontefract,Yorkshire and The Humber,town,32982,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-rothwell,Rothwell,Yorkshire and The Humber,town,20964,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-scunthorpe,Scunthorpe,Yorkshire and The Humber,town,81286,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-wickersley,Wickersley,Yorkshire and The Humber,town,7392,Bundle subdomain,Bundle 05 - Beverley & Area,,,,18.0
-ashton-under-lyne,Ashton-under-Lyne,North West,town,48595,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-chadderton,Chadderton,North West,town,37602,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-denton,Denton,North West,town,36005,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-droylsden,Droylsden,North West,town,23916,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-dukinfield,Dukinfield,North West,town,21151,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-hyde,Hyde,North West,town,35902,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-reddish,Reddish,North West,town,22189,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-royton,Royton,North West,suburb,22997,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-stalybridge,Stalybridge,North West,town,26850,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,21.0
-eccles,Eccles,North West,town,41116,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-farnworth,Farnworth,North West,town,28761,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-golborne,Golborne,North West,town,25563,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-leigh,Leigh,North West,town,45499,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-little-hulton,Little Hulton,North West,town,25824,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-old-trafford,Old Trafford,North West,town,21442,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-prestwich,Prestwich,North West,town,31509,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-stretford,Stretford,North West,town,28010,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-swinton,Swinton,North West,town,22886,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-urmston,Urmston,North West,town,41728,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,17.0
-bootle,Bootle,North West,town,53722,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-crosby,Crosby,North West,town,50218,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-ellesmere-port,Ellesmere Port,North West,town,65425,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-formby,Formby,North West,town,22892,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-kirkby,Kirkby,North West,town,45559,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-maghull,Maghull,North West,town,20367,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-prescot,Prescot,North West,suburb,39227,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-widnes,Widnes,North West,town,59938,Bundle subdomain,Bundle 08 - Widnes & Area,,,,9.0
-buxton,Buxton,East Midlands,suburb,20048,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-altrincham,Altrincham,North West,town,49672,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-cheadle-hulme,Cheadle Hulme,North West,town,24782,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-congleton,Congleton,North West,town,30001,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-crewe,Crewe,North West,town,74116,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-hazel-grove,Hazel Grove,North West,suburb,20163,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-macclesfield,Macclesfield,North West,town,54352,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-sale,Sale,North West,town,62545,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-winsford,Winsford,North West,town,32522,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,8.0
-beeston,Beeston,East Midlands,suburb,52359,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-carlton,Carlton,East Midlands,suburb,53555,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-dronfield,Dronfield,East Midlands,town,21161,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-heanor,Heanor,East Midlands,town,24264,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-ilkeston,Ilkeston,East Midlands,town,38723,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-kirkby-in-ashfield,Kirkby-in-Ashfield,East Midlands,town,21262,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-long-eaton,Long Eaton,East Midlands,suburb,37815,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-mansfield,Mansfield,East Midlands,town,63448,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-ripley,Ripley,East Midlands,suburb,20191,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-sutton-in-ashfield,Sutton in Ashfield,East Midlands,town,36435,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,7.0
-clifton,Clifton,East Midlands,town,22936,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-coalville,Coalville,East Midlands,suburb,21975,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-corby,Corby,East Midlands,town,68164,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-grantham,Grantham,East Midlands,town,44906,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-market-harborough,Market Harborough,East Midlands,suburb,24162,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-melton-mowbray,Melton Mowbray,East Midlands,suburb,27451,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-oadby,Oadby,East Midlands,suburb,24039,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-spalding,Spalding,East Midlands,suburb,30552,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-stamford,Stamford,East Midlands,town,20745,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-wigston,Wigston,East Midlands,suburb,34728,Bundle subdomain,Bundle 11 - Grantham & Area,,,,15.0
-hinckley,Hinckley,East Midlands,suburb,50729,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-swadlincote,Swadlincote,East Midlands,suburb,34569,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-bedworth,Bedworth,West Midlands,suburb,31083,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-brownhills,Brownhills,West Midlands,town,21238,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-cannock,Cannock,West Midlands,suburb,63057,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-nuneaton,Nuneaton,West Midlands,town,88818,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-rugeley,Rugeley,West Midlands,town,26149,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-smethwick,Smethwick,West Midlands,town,56343,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-wednesbury,Wednesbury,West Midlands,town,20321,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,3.0
-bilston,Bilston,West Midlands,town,34631,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-brierley-hill,Brierley Hill,West Midlands,town,32311,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-kingswinford,Kingswinford,West Midlands,suburb,51900,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-oldbury,Oldbury,West Midlands,town,45188,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-rowley-regis,Rowley Regis,West Midlands,town,39052,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-sedgley,Sedgley,West Midlands,town,31976,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-stourbridge,Stourbridge,West Midlands,town,56961,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-tipton,Tipton,West Midlands,town,47202,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-willenhall,Willenhall,West Midlands,town,49582,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,4.0
-kettering,Kettering,East Midlands,town,63149,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-rushden,Rushden,East Midlands,town,31689,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-wellingborough,Wellingborough,East Midlands,town,54421,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-biggleswade,Biggleswade,East of England,town,21945,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-bury-st-edmunds,Bury St Edmunds,East of England,town,41279,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-kempston,Kempston,East of England,suburb,22779,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-letchworth,Letchworth,East of England,suburb,33993,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-st-neots,St Neots,East of England,town,33262,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-sudbury,Sudbury,East of England,suburb,23922,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-wisbech,Wisbech,East of England,suburb,26800,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,11.0
-banbury,Banbury,South East,town,52041,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-bicester,Bicester,South East,town,37748,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-quedgeley-and-hardwicke,Quedgeley and Hardwicke,South West,suburb,21125,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-droitwich-spa,Droitwich Spa,West Midlands,town,26413,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-evesham,Evesham,West Midlands,town,28256,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-halesowen,Halesowen,West Midlands,town,60103,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-kenilworth,Kenilworth,West Midlands,town,22239,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-kidderminster,Kidderminster,West Midlands,town,57567,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-stourport-on-severn,Stourport-on-Severn,West Midlands,town,20302,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-stratford-upon-avon,Stratford-upon-Avon,West Midlands,town,28112,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,10.0
-berkhamsted,Berkhamsted,East of England,town,21236,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-bushey,Bushey,East of England,suburb,28427,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-dunstable,Dunstable,East of England,town,34498,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-harpenden,Harpenden,East of England,town,30964,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-hitchin,Hitchin,East of England,suburb,35220,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-leighton-buzzard,Leighton Buzzard,East of England,town,42736,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-rickmansworth,Rickmansworth,East of England,suburb,26290,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-bletchley,Bletchley,South East,town,45018,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-hazlemere,Hazlemere,South East,suburb,20006,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,20.0
-billericay,Billericay,East of England,town,34068,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-bishop-s-stortford,Bishop's Stortford,East of England,town,40916,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-brentwood,Brentwood,East of England,town,55339,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-cheshunt,Cheshunt,East of England,suburb,43694,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-hatfield,Hatfield,East of England,town,41561,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-hertford,Hertford,East of England,town,28807,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-hoddesdon,Hoddesdon,East of England,suburb,40615,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-loughton,Loughton,East of England,town,33338,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-potters-bar,Potters Bar,East of England,suburb,23394,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-wickford,Wickford,East of England,town,27533,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,6.0
-clacton-on-sea,Clacton-on-Sea,East of England,suburb,53190,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-felixstowe,Felixstowe,East of England,town,24218,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-harwich,Harwich,East of England,town,20219,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-maldon,Maldon,East of England,suburb,23389,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-rayleigh,Rayleigh,East of England,suburb,32383,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-witham,Witham,East of England,suburb,27395,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-broadstairs,Broadstairs,South East,suburb,25780,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-margate,Margate,South East,town,63315,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-ramsgate,Ramsgate,South East,town,42031,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-whitstable,Whitstable,South East,town,32185,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,12.0
-didcot,Didcot,South East,town,34600,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-fleet,Fleet,South East,town,37800,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-high-wycombe,High Wycombe,South East,town,83541,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-newbury,Newbury,South East,town,42262,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-sandhurst,Sandhurst,South East,town,20220,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-thatcham,Thatcham,South East,suburb,25537,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-woodley,Woodley,South East,suburb,28019,Bundle subdomain,Bundle 19 - Didcot & Area,,,,22.0
-canvey-island,Canvey Island,East of England,town,38004,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-south-benfleet,South Benfleet,East of England,suburb,16961,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-south-ockendon,South Ockendon,East of England,suburb,22441,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-chatham,Chatham,South East,town,76956,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-dartford,Dartford,South East,suburb,69131,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-larkfield,Larkfield,South East,suburb,26147,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-northfleet,Northfleet,South East,town,29892,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-rochester,Rochester,South East,town,67279,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-sevenoaks,Sevenoaks,South East,town,26474,Bundle subdomain,Bundle 20 - Chatham & Area,,,,5.0
-ascot,Ascot,South East,town,24003,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-ash-and-ash-vale,Ash and Ash Vale,South East,suburb,24284,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-bracknell,Bracknell,South East,town,78662,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-camberley,Camberley,South East,suburb,36787,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-egham,Egham,South East,suburb,28003,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-maidenhead,Maidenhead,South East,town,67391,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-sheerwater,Sheerwater,South East,suburb,3603,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-staines-upon-thames,Staines-upon-Thames,South East,town,21327,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-west-byfleet,West Byfleet,South East,town,5626,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-windsor,Windsor,South East,town,31569,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,14.0
-epsom,Epsom,South East,town,35857,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-epsom-downs,Epsom Downs,South East,suburb,7274,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-ewell,Ewell,South East,suburb,27509,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-new-haw,New Haw,South East,suburb,5757,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-redhill,Redhill,South East,town,32516,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-reigate,Reigate,South East,town,23774,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-tadworth,Tadworth,South East,suburb,9522,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-walton-on-thames,Walton-on-Thames,South East,town,27016,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-west-molesey,West Molesey,South East,suburb,47144,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,25.0
-chippenham,Chippenham,South West,town,36084,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-christchurch,Christchurch,South West,suburb,48973,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-clevedon,Clevedon,South West,town,21084,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-fishponds,Fishponds,South West,town,37575,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-frome,Frome,South West,town,27904,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-kingswood,Kingswood,South West,town,40734,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-portishead,Portishead,South West,town,26351,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-yate,Yate,South West,town,28352,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-yeovil,Yeovil,South West,town,50170,Bundle subdomain,Bundle 23 - Yate & Area,,,,16.0
-crowborough,Crowborough,South East,town,21990,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-deal,Deal,South East,town,28992,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-folkestone,Folkestone,South East,town,51987,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-hailsham,Hailsham,South East,suburb,22560,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-haywards-heath,Haywards Heath,South East,town,40186,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-horley,Horley,South East,town,27067,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-royal-tunbridge-wells,Royal Tunbridge Wells,South East,town,51215,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-seaford,Seaford,South East,suburb,23865,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-tonbridge,Tonbridge,South East,suburb,36136,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,19.0
-bognor-regis,Bognor Regis,South East,suburb,68443,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-burgess-hill,Burgess Hill,South East,town,33352,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-chichester,Chichester,South East,town,31709,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-hedge-end,Hedge End,South East,town,23195,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-portslade,Portslade,South East,town,19921,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-rustington,Rustington,South East,town,33885,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
-ryde,Ryde,South East,town,24094,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,24.0
+nuneaton,Nuneaton,West Midlands,town,88818,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,64,
+halifax,Halifax,Yorkshire and The Humber,town,88111,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,65,
+hartlepool,Hartlepool,North East,city,88001,Individual (new market),Individual website,,,66,
+aylesbury,Aylesbury,South East,town,87966,Individual (second site — subdomain stays live),Individual website,,aylesbury.boltman-locksmiths.co.uk,67,
+doncaster,Doncaster,Yorkshire and The Humber,major-city,87440,Individual (second site — subdomain stays live),Individual website,,doncaster.boltfix-locksmiths.co.uk,68,
+grimsby,Grimsby,Yorkshire and The Humber,town,85915,Individual (second site — subdomain stays live),Individual website,,grimsby.boltlok-locksmiths.co.uk,69,
+wallasey,Wallasey,North West,town,85619,Individual (second site — subdomain stays live),Individual website,,wallasey.boltpro-locksmiths.co.uk,70,
+stockton-on-tees,Stockton-on-Tees,North East,city,84824,Individual (new market),Individual website,,,71,
+weston-super-mare,Weston-super-Mare,South West,city,84600,Individual (new market),Individual website,,,72,
+high-wycombe,High Wycombe,South East,town,83541,Individual (new market),Individual website,Bundle 19 - Didcot & Area,,73,
+ashford,Ashford,South East,city,82143,Individual (new market),Individual website,,,74,
+redditch,Redditch,West Midlands,city,81634,Individual (new market),Individual website,,,75,
+wigan,Wigan,North West,major-city,81580,Individual (new market),Individual website,,,76,
+scunthorpe,Scunthorpe,Yorkshire and The Humber,town,81286,Individual (new market),Individual website,Bundle 05 - Beverley & Area,,77,
+bury,Bury,North West,town,81115,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,78,
+rugby,Rugby,West Midlands,city,78130,Individual (new market),Individual website,,,79,
+guildford,Guildford,South East,city,77870,Individual (new market),Individual website,,,80,
+newcastle-under-lyme,Newcastle-under-Lyme,West Midlands,city,76511,Individual (new market),Individual website,,,81,
+chesterfield,Chesterfield,East Midlands,city,76394,Individual (new market),Individual website,,,82,
+harrogate,Harrogate,Yorkshire and The Humber,city,75522,Individual (new market),Individual website,,,83,
+stafford,Stafford,West Midlands,city,71695,Individual (new market),Individual website,,,84,
+rotherham,Rotherham,Yorkshire and The Humber,major-city,71535,Individual (new market),Individual website,,,85,
+barnsley,Barnsley,Yorkshire and The Humber,major-city,71394,Individual (new market),Individual website,,,86,
+walsall,Walsall,West Midlands,major-city,70777,Individual (new market),Individual website,,,87,
+dudley,Dudley,West Midlands,major-city,64277,Individual (new market),Individual website,,,88,
+canterbury,Canterbury,South East,city,55107,Individual (new market),Individual website,,,89,
+wokingham,Wokingham,South East,city,50320,Individual (new market),Individual website,,,90,
+horsham,Horsham,South East,city,50211,Individual (new market),Individual website,,,91,
+winchester,Winchester,South East,city,48486,Individual (new market),Individual website,,,92,
+braintree,Braintree,East of England,city,43179,Individual (new market),Individual website,,,93,
+fareham,Fareham,South East,city,42633,Individual (new market),Individual website,,,94,
+chorley,Chorley,North West,city,39539,Individual (new market),Individual website,,,95,
+warwick,Warwick,West Midlands,city,36673,Individual (new market),Individual website,,,96,
+dover,Dover,South East,city,36349,Individual (new market),Individual website,,,97,
+lichfield,Lichfield,West Midlands,city,32586,Individual (new market),Individual website,,,98,
+morley,Morley,Yorkshire and The Humber,city,32562,Individual (new market),Individual website,,,99,
+stroud,Stroud,South West,city,26073,Individual (new market),Individual website,,,100,
+ashington,Ashington,North East,town,28279,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+chester-le-street,Chester-le-Street,North East,town,23554,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+cramlington,Cramlington,North East,suburb,28846,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+durham,Durham,North East,town,50502,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+hebburn,Hebburn,North East,suburb,21341,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+longbenton,Longbenton,North East,town,26882,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+south-shields,South Shields,North East,town,73326,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+tynemouth,Tynemouth,North East,suburb,60611,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+wallsend,Wallsend,North East,town,45351,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+whitley-bay,Whitley Bay,North East,town,36876,Bundle subdomain,Bundle 01 - Ashington & Area,,,,1.0
+billingham,Billingham,North East,town,33917,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+eston,Eston,North East,suburb,29625,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+ingleby-barwick,Ingleby Barwick,North East,suburb,23380,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+newton-aycliffe,Newton Aycliffe,North East,town,25760,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+redcar,Redcar,North East,suburb,37666,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+thornaby-on-tees,Thornaby-on-Tees,North East,suburb,23352,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+bingley,Bingley,Yorkshire and The Humber,town,21334,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+bramley,Bramley,Yorkshire and The Humber,town,21334,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+dewsbury,Dewsbury,Yorkshire and The Humber,town,63730,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+keighley,Keighley,Yorkshire and The Humber,town,48754,Bundle subdomain,Bundle 02 - Keighley & Area,,,,11.0
+accrington,Accrington,North West,suburb,34897,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+burnley,Burnley,North West,town,78266,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+darwen,Darwen,North West,town,27897,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+heywood,Heywood,North West,town,29724,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+middleton,Middleton,North West,town,46617,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+nelson,Nelson,North West,town,33808,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+whitefield,Whitefield,North West,town,22193,Bundle subdomain,Bundle 03 - Burnley & Area,,,,20.0
+ashton-in-makerfield,Ashton-in-Makerfield,North West,suburb,26367,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+bamber-bridge,Bamber Bridge,North West,suburb,40359,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+fulwood,Fulwood,North West,town,34693,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+hindley,Hindley,North West,town,24485,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+leyland,Leyland,North West,suburb,39281,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+newton-le-willows,Newton-le-Willows,North West,town,24651,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+orrell,Orrell,North West,suburb,23412,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+penwortham,Penwortham,North West,town,20489,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+skelmersdale,Skelmersdale,North West,town,34921,Bundle subdomain,Bundle 04 - Fulwood & Area,,,,21.0
+gainsborough,Gainsborough,East Midlands,town,21899,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+worksop,Worksop,East Midlands,town,43435,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+beverley,Beverley,Yorkshire and The Humber,town,30933,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+cleethorpes,Cleethorpes,Yorkshire and The Humber,town,29660,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+goole,Goole,Yorkshire and The Humber,town,20173,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+ossett,Ossett,Yorkshire and The Humber,town,21854,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+pontefract,Pontefract,Yorkshire and The Humber,town,32982,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+rothwell,Rothwell,Yorkshire and The Humber,town,20964,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+wickersley,Wickersley,Yorkshire and The Humber,town,7392,Bundle subdomain,Bundle 05 - Beverley & Area,,,,23.0
+ashton-under-lyne,Ashton-under-Lyne,North West,town,48595,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+chadderton,Chadderton,North West,town,37602,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+denton,Denton,North West,town,36005,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+droylsden,Droylsden,North West,town,23916,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+dukinfield,Dukinfield,North West,town,21151,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+hyde,Hyde,North West,town,35902,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+reddish,Reddish,North West,town,22189,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+royton,Royton,North West,suburb,22997,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+stalybridge,Stalybridge,North West,town,26850,Bundle subdomain,Bundle 06 - Ashton-under-Lyne & Area,,,,19.0
+eccles,Eccles,North West,town,41116,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+farnworth,Farnworth,North West,town,28761,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+golborne,Golborne,North West,town,25563,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+leigh,Leigh,North West,town,45499,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+little-hulton,Little Hulton,North West,town,25824,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+old-trafford,Old Trafford,North West,town,21442,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+prestwich,Prestwich,North West,town,31509,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+stretford,Stretford,North West,town,28010,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+swinton,Swinton,North West,town,22886,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+urmston,Urmston,North West,town,41728,Bundle subdomain,Bundle 07 - Prestwich & Area,,,,15.0
+bootle,Bootle,North West,town,53722,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+crosby,Crosby,North West,town,50218,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+ellesmere-port,Ellesmere Port,North West,town,65425,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+formby,Formby,North West,town,22892,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+kirkby,Kirkby,North West,town,45559,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+maghull,Maghull,North West,town,20367,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+prescot,Prescot,North West,suburb,39227,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+widnes,Widnes,North West,town,59938,Bundle subdomain,Bundle 08 - Widnes & Area,,,,7.0
+buxton,Buxton,East Midlands,suburb,20048,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+altrincham,Altrincham,North West,town,49672,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+cheadle-hulme,Cheadle Hulme,North West,town,24782,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+congleton,Congleton,North West,town,30001,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+crewe,Crewe,North West,town,74116,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+hazel-grove,Hazel Grove,North West,suburb,20163,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+macclesfield,Macclesfield,North West,town,54352,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+sale,Sale,North West,town,62545,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+winsford,Winsford,North West,town,32522,Bundle subdomain,Bundle 09 - Macclesfield & Area,,,,6.0
+beeston,Beeston,East Midlands,suburb,52359,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+carlton,Carlton,East Midlands,suburb,53555,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+dronfield,Dronfield,East Midlands,town,21161,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+heanor,Heanor,East Midlands,town,24264,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+ilkeston,Ilkeston,East Midlands,town,38723,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+kirkby-in-ashfield,Kirkby-in-Ashfield,East Midlands,town,21262,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+long-eaton,Long Eaton,East Midlands,suburb,37815,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+mansfield,Mansfield,East Midlands,town,63448,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+ripley,Ripley,East Midlands,suburb,20191,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+sutton-in-ashfield,Sutton in Ashfield,East Midlands,town,36435,Bundle subdomain,Bundle 10 - Dronfield & Area,,,,5.0
+clifton,Clifton,East Midlands,town,22936,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+coalville,Coalville,East Midlands,suburb,21975,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+corby,Corby,East Midlands,town,68164,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+grantham,Grantham,East Midlands,town,44906,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+market-harborough,Market Harborough,East Midlands,suburb,24162,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+melton-mowbray,Melton Mowbray,East Midlands,suburb,27451,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+oadby,Oadby,East Midlands,suburb,24039,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+spalding,Spalding,East Midlands,suburb,30552,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+stamford,Stamford,East Midlands,town,20745,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+wigston,Wigston,East Midlands,suburb,34728,Bundle subdomain,Bundle 11 - Grantham & Area,,,,13.0
+hinckley,Hinckley,East Midlands,suburb,50729,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+swadlincote,Swadlincote,East Midlands,suburb,34569,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+bedworth,Bedworth,West Midlands,suburb,31083,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+brownhills,Brownhills,West Midlands,town,21238,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+cannock,Cannock,West Midlands,suburb,63057,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+rugeley,Rugeley,West Midlands,town,26149,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+smethwick,Smethwick,West Midlands,town,56343,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+wednesbury,Wednesbury,West Midlands,town,20321,Bundle subdomain,Bundle 12 - Rugeley & Area,,,,17.0
+bilston,Bilston,West Midlands,town,34631,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+brierley-hill,Brierley Hill,West Midlands,town,32311,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+kingswinford,Kingswinford,West Midlands,suburb,51900,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+oldbury,Oldbury,West Midlands,town,45188,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+rowley-regis,Rowley Regis,West Midlands,town,39052,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+sedgley,Sedgley,West Midlands,town,31976,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+stourbridge,Stourbridge,West Midlands,town,56961,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+tipton,Tipton,West Midlands,town,47202,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+willenhall,Willenhall,West Midlands,town,49582,Bundle subdomain,Bundle 13 - Sedgley & Area,,,,2.0
+kettering,Kettering,East Midlands,town,63149,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+rushden,Rushden,East Midlands,town,31689,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+wellingborough,Wellingborough,East Midlands,town,54421,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+biggleswade,Biggleswade,East of England,town,21945,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+bury-st-edmunds,Bury St Edmunds,East of England,town,41279,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+kempston,Kempston,East of England,suburb,22779,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+letchworth,Letchworth,East of England,suburb,33993,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+st-neots,St Neots,East of England,town,33262,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+sudbury,Sudbury,East of England,suburb,23922,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+wisbech,Wisbech,East of England,suburb,26800,Bundle subdomain,Bundle 14 - Wellingborough & Area,,,,9.0
+banbury,Banbury,South East,town,52041,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+bicester,Bicester,South East,town,37748,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+quedgeley-and-hardwicke,Quedgeley and Hardwicke,South West,suburb,21125,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+droitwich-spa,Droitwich Spa,West Midlands,town,26413,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+evesham,Evesham,West Midlands,town,28256,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+halesowen,Halesowen,West Midlands,town,60103,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+kenilworth,Kenilworth,West Midlands,town,22239,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+kidderminster,Kidderminster,West Midlands,town,57567,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+stourport-on-severn,Stourport-on-Severn,West Midlands,town,20302,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+stratford-upon-avon,Stratford-upon-Avon,West Midlands,town,28112,Bundle subdomain,Bundle 15 - Kidderminster & Area,,,,8.0
+berkhamsted,Berkhamsted,East of England,town,21236,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+bushey,Bushey,East of England,suburb,28427,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+dunstable,Dunstable,East of England,town,34498,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+harpenden,Harpenden,East of England,town,30964,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+hitchin,Hitchin,East of England,suburb,35220,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+leighton-buzzard,Leighton Buzzard,East of England,town,42736,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+rickmansworth,Rickmansworth,East of England,suburb,26290,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+bletchley,Bletchley,South East,town,45018,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+hazlemere,Hazlemere,South East,suburb,20006,Bundle subdomain,Bundle 16 - Bletchley & Area,,,,18.0
+billericay,Billericay,East of England,town,34068,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+bishop-s-stortford,Bishop's Stortford,East of England,town,40916,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+brentwood,Brentwood,East of England,town,55339,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+cheshunt,Cheshunt,East of England,suburb,43694,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+hatfield,Hatfield,East of England,town,41561,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+hertford,Hertford,East of England,town,28807,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+hoddesdon,Hoddesdon,East of England,suburb,40615,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+loughton,Loughton,East of England,town,33338,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+potters-bar,Potters Bar,East of England,suburb,23394,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+wickford,Wickford,East of England,town,27533,Bundle subdomain,Bundle 17 - Brentwood & Area,,,,4.0
+clacton-on-sea,Clacton-on-Sea,East of England,suburb,53190,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+felixstowe,Felixstowe,East of England,town,24218,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+harwich,Harwich,East of England,town,20219,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+maldon,Maldon,East of England,suburb,23389,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+rayleigh,Rayleigh,East of England,suburb,32383,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+witham,Witham,East of England,suburb,27395,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+broadstairs,Broadstairs,South East,suburb,25780,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+margate,Margate,South East,town,63315,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+ramsgate,Ramsgate,South East,town,42031,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+whitstable,Whitstable,South East,town,32185,Bundle subdomain,Bundle 18 - Felixstowe & Area,,,,10.0
+didcot,Didcot,South East,town,34600,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+fleet,Fleet,South East,town,37800,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+newbury,Newbury,South East,town,42262,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+sandhurst,Sandhurst,South East,town,20220,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+thatcham,Thatcham,South East,suburb,25537,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+woodley,Woodley,South East,suburb,28019,Bundle subdomain,Bundle 19 - Didcot & Area,,,,25.0
+canvey-island,Canvey Island,East of England,town,38004,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+south-benfleet,South Benfleet,East of England,suburb,16961,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+south-ockendon,South Ockendon,East of England,suburb,22441,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+chatham,Chatham,South East,town,76956,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+dartford,Dartford,South East,suburb,69131,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+larkfield,Larkfield,South East,suburb,26147,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+northfleet,Northfleet,South East,town,29892,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+rochester,Rochester,South East,town,67279,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+sevenoaks,Sevenoaks,South East,town,26474,Bundle subdomain,Bundle 20 - Chatham & Area,,,,3.0
+ascot,Ascot,South East,town,24003,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+ash-and-ash-vale,Ash and Ash Vale,South East,suburb,24284,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+bracknell,Bracknell,South East,town,78662,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+camberley,Camberley,South East,suburb,36787,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+egham,Egham,South East,suburb,28003,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+maidenhead,Maidenhead,South East,town,67391,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+sheerwater,Sheerwater,South East,suburb,3603,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+staines-upon-thames,Staines-upon-Thames,South East,town,21327,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+west-byfleet,West Byfleet,South East,town,5626,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+windsor,Windsor,South East,town,31569,Bundle subdomain,Bundle 21 - Bracknell & Area,,,,12.0
+epsom,Epsom,South East,town,35857,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+epsom-downs,Epsom Downs,South East,suburb,7274,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+ewell,Ewell,South East,suburb,27509,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+new-haw,New Haw,South East,suburb,5757,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+redhill,Redhill,South East,town,32516,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+reigate,Reigate,South East,town,23774,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+tadworth,Tadworth,South East,suburb,9522,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+walton-on-thames,Walton-on-Thames,South East,town,27016,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+west-molesey,West Molesey,South East,suburb,47144,Bundle subdomain,Bundle 22 - Walton-on-Thames & Area,,,,24.0
+chippenham,Chippenham,South West,town,36084,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+christchurch,Christchurch,South West,suburb,48973,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+clevedon,Clevedon,South West,town,21084,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+fishponds,Fishponds,South West,town,37575,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+frome,Frome,South West,town,27904,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+kingswood,Kingswood,South West,town,40734,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+portishead,Portishead,South West,town,26351,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+yate,Yate,South West,town,28352,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+yeovil,Yeovil,South West,town,50170,Bundle subdomain,Bundle 23 - Yate & Area,,,,14.0
+crowborough,Crowborough,South East,town,21990,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+deal,Deal,South East,town,28992,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+folkestone,Folkestone,South East,town,51987,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+hailsham,Hailsham,South East,suburb,22560,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+haywards-heath,Haywards Heath,South East,town,40186,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+horley,Horley,South East,town,27067,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+royal-tunbridge-wells,Royal Tunbridge Wells,South East,town,51215,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+seaford,Seaford,South East,suburb,23865,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+tonbridge,Tonbridge,South East,suburb,36136,Bundle subdomain,Bundle 24 - Folkestone & Area,,,,16.0
+bognor-regis,Bognor Regis,South East,suburb,68443,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+burgess-hill,Burgess Hill,South East,town,33352,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+chichester,Chichester,South East,town,31709,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+hedge-end,Hedge End,South East,town,23195,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+portslade,Portslade,South East,town,19921,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+rustington,Rustington,South East,town,33885,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
+ryde,Ryde,South East,town,24094,Bundle subdomain,Bundle 25 - Bognor Regis & Area,,,,22.0
