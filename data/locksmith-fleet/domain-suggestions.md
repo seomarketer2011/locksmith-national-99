@@ -159,7 +159,7 @@ Naming follows the live fleet conventions: `{brand}{city}locksmiths.co.uk` for i
 | Bundle 16 - Wellingborough & Area | `truebolt-locksmiths.co.uk` | wellingborough, hitchin, dunstable, letchworth, st-neots, rushden, harpenden, kempston, biggleswade |
 | Bundle 17 - Clacton-on-Sea & Area | `surebolt-locksmiths.co.uk` | clacton-on-sea, bury-st-edmunds, rayleigh, wickford, witham, felixstowe, sudbury, maldon, harwich |
 | Bundle 18 - Banbury & Area | `boltright-locksmiths.co.uk` | banbury, bletchley, leighton-buzzard, newbury, bicester, didcot, thatcham |
-| Bundle 19 - Brentwood & Area | `gatelok-locksmiths.co.uk` | brentwood, cheshunt, hatfield, bishop-s-stortford, hoddesdon, billericay, loughton, hertford, potters-bar |
+| Bundle 19 - Brentwood & Area | `gatelok-locksmiths.co.uk` | brentwood, cheshunt, hatfield, bishops-stortford, hoddesdon, billericay, loughton, hertford, potters-bar |
 | Bundle 20 - Camberley & Area | `guardlok-locksmiths.co.uk` | camberley, windsor, bushey, egham, rickmansworth, ascot, staines-upon-thames, berkhamsted, hazlemere |
 | Bundle 21 - Yeovil & Area | `vaultlok-locksmiths.co.uk` | yeovil, christchurch, kingswood, fishponds, chippenham, yate, frome, portishead, clevedon |
 | Bundle 22 - Folkestone & Area | `keyguard-locksmiths.co.uk` | folkestone, ramsgate, canvey-island, whitstable, deal, broadstairs, south-benfleet |
