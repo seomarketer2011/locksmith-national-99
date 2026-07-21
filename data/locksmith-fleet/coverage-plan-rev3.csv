@@ -13,8 +13,8 @@ peterborough,Peterborough,East of England,town,190592,Individual (second site �
 bolton,Bolton,North West,major-city,184077,Individual (new market),Individual website,,,12.0,,latchwave-locksmithsbolton.co.uk
 swindon,Swindon,South West,town,183687,Individual (new market),Individual website,Bundle 19 - Didcot & Area,,13.0,,keypeakswindon-locksmiths.co.uk
 southend-on-sea,Southend-on-Sea,East of England,city,182295,Individual (new market),Individual website,,,14.0,,lockpeaksouthend-locksmith.co.uk
-warrington,Warrington,North West,major-city,174968,Individual (second site — subdomain stays live),Individual website,,warrington.boltman-locksmiths.co.uk,15.0,,boltpeaklocksmith-warrington.co.uk
-oxford,Oxford,South East,city,170799,Individual (second site — subdomain stays live),Individual website,,oxford.boltfix-locksmiths.co.uk,16.0,,latchpeaklocksmiths-oxford.co.uk
+warrington,Warrington,North West,major-city,174968,Individual (second site — subdomain stays live),Individual website,,warrington.boltman-locksmiths.co.uk,15.0,,boltpeaklocksmithwarrington.co.uk
+oxford,Oxford,South East,city,170799,Individual (second site — subdomain stays live),Individual website,,oxford.boltfix-locksmiths.co.uk,16.0,,latchpeak-locksmiths-oxford.co.uk
 sunderland,Sunderland,North East,major-city,168323,Individual (second site — subdomain stays live),Individual website,,sunderland.boltlok-locksmiths.co.uk,17.0,,keypointsunderlandlocksmiths.co.uk
 slough,Slough,South East,town,166868,Individual (second site — subdomain stays live),Individual website,,slough.boltpro-locksmiths.co.uk,18.0,,lockpointsloughlocksmith.co.uk
 brighton,Brighton,South East,town,165275,Individual (new market),Individual website,Bundle 25 - Hove & Area,,19.0,,boltpointlocksmithbrighton.co.uk
@@ -29,8 +29,8 @@ watford,Watford,East of England,town,131336,Individual (new market),Individual w
 colchester,Colchester,East of England,major-city,130259,Individual (new market),Individual website,,,28.0,,latchlink-locksmithscolchester.co.uk
 blackburn,Blackburn,North West,town,124958,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,29.0,,keymateblackburn-locksmiths.co.uk
 crawley,Crawley,South East,city,120567,Individual (new market),Individual website,,,30.0,,lockmatecrawley-locksmith.co.uk
-gloucester,Gloucester,South West,city,118562,Individual (new market),Individual website,,,31.0,,boltmatelocksmith-gloucester.co.uk
-stockport,Stockport,North West,major-city,117925,Individual (new market),Individual website,,,32.0,,latchmatelocksmiths-stockport.co.uk
+gloucester,Gloucester,South West,city,118562,Individual (new market),Individual website,,,31.0,,boltmate-locksmithgloucester.co.uk
+stockport,Stockport,North West,major-city,117925,Individual (new market),Individual website,,,32.0,,latchmatelocksmithsstockport.co.uk
 basingstoke,Basingstoke,South East,suburb,117211,Individual (new market),Individual website,Bundle 19 - Didcot & Area,,33.0,,keymaxbasingstokelocksmiths.co.uk
 cheltenham,Cheltenham,South West,city,115941,Individual (second site — subdomain stays live),Individual website,,cheltenham.steelok-locksmiths.co.uk,34.0,,lockmaxcheltenhamlocksmith.co.uk
 basildon,Basildon,East of England,city,115935,Individual (new market),Individual website,,,35.0,,boltmaxlocksmithbasildon.co.uk
@@ -45,8 +45,8 @@ gillingham,Gillingham,South East,city,108485,Individual (new market),Individual 
 salford,Salford,North West,major-city,108431,Individual (new market),Individual website,,,44.0,,latchcraft-locksmithssalford.co.uk
 solihull,Solihull,West Midlands,major-city,107754,Individual (new market),Individual website,,,45.0,,keydashsolihull-locksmiths.co.uk
 st-helens,St Helens,North West,town,107684,Individual (new market),Individual website,Bundle 08 - Widnes & Area,,46.0,,lockdashsthelens-locksmith.co.uk
-worcester,Worcester,West Midlands,city,105439,Individual (new market),Individual website,,,47.0,,boltdashlocksmith-worcester.co.uk
-west-bromwich,West Bromwich,West Midlands,town,103099,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,48.0,,latchdashlocksmiths-westbromwich.co.uk
+worcester,Worcester,West Midlands,city,105439,Individual (new market),Individual website,,,47.0,,boltdash-locksmith-worcester.co.uk
+west-bromwich,West Bromwich,West Midlands,town,103099,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,48.0,,latchdash-locksmithswestbromwich.co.uk
 eastbourne,Eastbourne,South East,city,99171,Individual (new market),Individual website,,,49.0,,keyedgeeastbournelocksmiths.co.uk
 wakefield,Wakefield,Yorkshire and The Humber,major-city,97871,Individual (new market),Individual website,,,50.0,,lockedgewakefieldlocksmith.co.uk
 wythenshawe,Wythenshawe,North West,town,97665,Individual (new market),Individual website,Bundle 09 - Macclesfield & Area,,51.0,,boltedgelocksmithwythenshawe.co.uk
@@ -61,8 +61,8 @@ royal-sutton-coldfield,Royal Sutton Coldfield,West Midlands,city,93392,Individua
 darlington,Darlington,North East,city,93022,Individual (new market),Individual website,,,60.0,,latchgate-locksmithsdarlington.co.uk
 chester,Chester,North West,town,92756,Individual (second site — subdomain stays live),Individual website,,chester.shield-locksmiths.co.uk,61.0,,keygridchester-locksmiths.co.uk
 hove,Hove,South East,town,91900,Individual (new market),Individual website,Bundle 25 - Hove & Area,,62.0,,lockgridhove-locksmith.co.uk
-hastings,Hastings,South East,city,91497,Individual (second site — subdomain stays live),Individual website,,hastings.shieldx-locksmiths.co.uk,63.0,,boltgridlocksmith-hastings.co.uk
-nuneaton,Nuneaton,West Midlands,town,88818,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,64.0,,latchgridlocksmiths-nuneaton.co.uk
+hastings,Hastings,South East,city,91497,Individual (second site — subdomain stays live),Individual website,,hastings.shieldx-locksmiths.co.uk,63.0,,boltgridlocksmithhastings.co.uk
+nuneaton,Nuneaton,West Midlands,town,88818,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,64.0,,latchgrid-locksmiths-nuneaton.co.uk
 halifax,Halifax,Yorkshire and The Humber,town,88111,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,65.0,,keyhavenhalifaxlocksmiths.co.uk
 hartlepool,Hartlepool,North East,city,88001,Individual (new market),Individual website,,,66.0,,lockhavenhartlepoollocksmith.co.uk
 aylesbury,Aylesbury,South East,town,87966,Individual (second site — subdomain stays live),Individual website,,aylesbury.boltman-locksmiths.co.uk,67.0,,bolthavenlocksmithaylesbury.co.uk
@@ -77,8 +77,8 @@ redditch,Redditch,West Midlands,city,81634,Individual (new market),Individual we
 wigan,Wigan,North West,major-city,81580,Individual (new market),Individual website,,,76.0,,latchking-locksmithswigan.co.uk
 scunthorpe,Scunthorpe,Yorkshire and The Humber,town,81286,Individual (new market),Individual website,Bundle 05 - Beverley & Area,,77.0,,keynodescunthorpe-locksmiths.co.uk
 bury,Bury,North West,town,81115,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,78.0,,locknodebury-locksmith.co.uk
-bracknell,Bracknell,South East,town,78662,Individual (new market),Individual website,Bundle 21 - Bracknell & Area,,79.0,,boltnodelocksmith-bracknell.co.uk
-burnley,Burnley,North West,town,78266,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,80.0,,latchnodelocksmiths-burnley.co.uk
+bracknell,Bracknell,South East,town,78662,Individual (new market),Individual website,Bundle 21 - Bracknell & Area,,79.0,,boltnode-locksmithbracknell.co.uk
+burnley,Burnley,North West,town,78266,Individual (new market),Individual website,Bundle 03 - Burnley & Area,,80.0,,latchnodelocksmithsburnley.co.uk
 rugby,Rugby,West Midlands,city,78130,Individual (new market),Individual website,,,81.0,,keynestrugbylocksmiths.co.uk
 guildford,Guildford,South East,city,77870,Individual (new market),Individual website,,,82.0,,locknestguildfordlocksmith.co.uk
 chatham,Chatham,South East,town,76956,Individual (new market),Individual website,Bundle 20 - Chatham & Area,,83.0,,boltnestlocksmithchatham.co.uk
@@ -93,8 +93,8 @@ crewe,Crewe,North West,town,74116,Individual (new market),Individual website,Bun
 south-shields,South Shields,North East,town,73326,Individual (new market),Individual website,Bundle 01 - Ashington & Area,,92.0,,latchquest-locksmithssouthshields.co.uk
 stafford,Stafford,West Midlands,city,71695,Individual (new market),Individual website,,,93.0,,keyrisestafford-locksmiths.co.uk
 rotherham,Rotherham,Yorkshire and The Humber,major-city,71535,Individual (new market),Individual website,,,94.0,,lockriserotherham-locksmith.co.uk
-barnsley,Barnsley,Yorkshire and The Humber,major-city,71394,Individual (new market),Individual website,,,95.0,,boltriselocksmith-barnsley.co.uk
-walsall,Walsall,West Midlands,major-city,70777,Individual (new market),Individual website,,,96.0,,latchriselocksmiths-walsall.co.uk
+barnsley,Barnsley,Yorkshire and The Humber,major-city,71394,Individual (new market),Individual website,,,95.0,,boltrise-locksmith-barnsley.co.uk
+walsall,Walsall,West Midlands,major-city,70777,Individual (new market),Individual website,,,96.0,,latchrise-locksmithswalsall.co.uk
 dartford,Dartford,South East,suburb,69131,Individual (new market),Individual website,Bundle 20 - Chatham & Area,,97.0,,keyrootdartfordlocksmiths.co.uk
 bognor-regis,Bognor Regis,South East,suburb,68443,Individual (new market),Individual website,Bundle 25 - Hove & Area,,98.0,,lockrootbognorregislocksmith.co.uk
 corby,Corby,East Midlands,town,68164,Individual (new market),Individual website,Bundle 11 - Grantham & Area,,99.0,,boltrootlocksmithcorby.co.uk
@@ -109,8 +109,8 @@ margate,Margate,South East,town,63315,Individual (new market),Individual website
 kettering,Kettering,East Midlands,town,63149,Individual (new market),Individual website,Bundle 14 - Wellingborough & Area,,108.0,,latchserve-locksmithskettering.co.uk
 cannock,Cannock,West Midlands,suburb,63057,Individual (new market),Individual website,Bundle 12 - Rugeley & Area,,109.0,,keysmartcannock-locksmiths.co.uk
 sale,Sale,North West,town,62545,Individual (new market),Individual website,Bundle 09 - Macclesfield & Area,,110.0,,locksmartsale-locksmith.co.uk
-runcorn,Runcorn,North West,town,61641,Individual (second site — subdomain stays live),Individual website,,runcorn.shield-locksmiths.co.uk,111.0,,boltsmartlocksmith-runcorn.co.uk
-farnborough,Farnborough,South East,suburb,60665,Individual (second site — subdomain stays live),Individual website,,farnborough.shieldx-locksmiths.co.uk,112.0,,latchsmartlocksmiths-farnborough.co.uk
+runcorn,Runcorn,North West,town,61641,Individual (second site — subdomain stays live),Individual website,,runcorn.shield-locksmiths.co.uk,111.0,,boltsmartlocksmithruncorn.co.uk
+farnborough,Farnborough,South East,suburb,60665,Individual (second site — subdomain stays live),Individual website,,farnborough.shieldx-locksmiths.co.uk,112.0,,latchsmart-locksmiths-farnborough.co.uk
 tynemouth,Tynemouth,North East,suburb,60611,Individual (new market),Individual website,Bundle 01 - Ashington & Area,,113.0,,keysparktynemouthlocksmiths.co.uk
 halesowen,Halesowen,West Midlands,town,60103,Individual (new market),Individual website,Bundle 15 - Kidderminster & Area,,114.0,,locksparkhalesowenlocksmith.co.uk
 canterbury,Canterbury,South East,city,55107,Individual (new market),Individual website,,,115.0,,boltsparklocksmithcanterbury.co.uk
