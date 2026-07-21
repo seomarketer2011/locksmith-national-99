@@ -6,136 +6,138 @@ All registrations go through **Cloudflare Registrar** (at-cost pricing, ~£4/yr 
 
 Naming follows the live fleet conventions: `{brand}{city}locksmiths.co.uk` for individual sites, `{brand}-locksmiths.co.uk` for bundle hubs. Every brand token is unique across the fleet, and second-site brands never match the hub brand of the live subdomain they compete with.
 
+Individual-site domains rotate evenly through four structures so the fleet does not share one footprint: `{brand}{city}locksmiths`, `{brand}{city}locksmith`, `{brand}locksmith{city}`, `{brand}locksmiths{city}` (32/32/31/31). Bundle hubs keep the `{brand}-locksmiths.co.uk` structure.
+
 ## A. Individual sites — 126 domains (build-priority order)
 
 | # | Location | Suggested Domain | Note |
 |---|----------|------------------|------|
 | 1 | Newcastle upon Tyne | `keystarnewcastlelocksmiths.co.uk` |  |
-| 2 | Derby | `lockstarderbylocksmiths.co.uk` |  |
-| 3 | Kingston upon Hull | `boltstarhulllocksmiths.co.uk` |  |
-| 4 | Stoke-on-Trent | `latchstarstokeontrentlocksmiths.co.uk` | second site vs `stoke-on-trent.surelok-locksmiths.co.uk` |
+| 2 | Derby | `lockstarderbylocksmith.co.uk` |  |
+| 3 | Kingston upon Hull | `boltstarlocksmithhull.co.uk` |  |
+| 4 | Stoke-on-Trent | `latchstarlocksmithsstokeontrent.co.uk` | second site vs `stoke-on-trent.surelok-locksmiths.co.uk` |
 | 5 | Northampton | `keyzonenorthamptonlocksmiths.co.uk` |  |
-| 6 | Wolverhampton | `lockzonewolverhamptonlocksmiths.co.uk` |  |
-| 7 | Luton | `boltzonelutonlocksmiths.co.uk` |  |
-| 8 | Reading | `latchzonereadinglocksmiths.co.uk` |  |
+| 6 | Wolverhampton | `lockzonewolverhamptonlocksmith.co.uk` |  |
+| 7 | Luton | `boltzonelocksmithluton.co.uk` |  |
+| 8 | Reading | `latchzonelocksmithsreading.co.uk` |  |
 | 9 | Milton Keynes | `keywavemiltonkeyneslocksmiths.co.uk` |  |
-| 10 | Bournemouth | `lockwavebournemouthlocksmiths.co.uk` | second site vs `bournemouth.shield-locksmiths.co.uk` |
-| 11 | Peterborough | `boltwavepeterboroughlocksmiths.co.uk` | second site vs `peterborough.shieldx-locksmiths.co.uk` |
-| 12 | Bolton | `latchwaveboltonlocksmiths.co.uk` |  |
+| 10 | Bournemouth | `lockwavebournemouthlocksmith.co.uk` | second site vs `bournemouth.shield-locksmiths.co.uk` |
+| 11 | Peterborough | `boltwavelocksmithpeterborough.co.uk` | second site vs `peterborough.shieldx-locksmiths.co.uk` |
+| 12 | Bolton | `latchwavelocksmithsbolton.co.uk` |  |
 | 13 | Swindon | `keypeakswindonlocksmiths.co.uk` |  |
-| 14 | Southend-on-Sea | `lockpeaksouthendlocksmiths.co.uk` |  |
-| 15 | Warrington | `boltpeakwarringtonlocksmiths.co.uk` | second site vs `warrington.boltman-locksmiths.co.uk` |
-| 16 | Oxford | `latchpeakoxfordlocksmiths.co.uk` | second site vs `oxford.boltfix-locksmiths.co.uk` |
+| 14 | Southend-on-Sea | `lockpeaksouthendlocksmith.co.uk` |  |
+| 15 | Warrington | `boltpeaklocksmithwarrington.co.uk` | second site vs `warrington.boltman-locksmiths.co.uk` |
+| 16 | Oxford | `latchpeaklocksmithsoxford.co.uk` | second site vs `oxford.boltfix-locksmiths.co.uk` |
 | 17 | Sunderland | `keypointsunderlandlocksmiths.co.uk` | second site vs `sunderland.boltlok-locksmiths.co.uk` |
-| 18 | Slough | `lockpointsloughlocksmiths.co.uk` | second site vs `slough.boltpro-locksmiths.co.uk` |
-| 19 | Brighton | `boltpointbrightonlocksmiths.co.uk` |  |
-| 20 | Telford | `latchpointtelfordlocksmiths.co.uk` |  |
+| 18 | Slough | `lockpointsloughlocksmith.co.uk` | second site vs `slough.boltpro-locksmiths.co.uk` |
+| 19 | Brighton | `boltpointlocksmithbrighton.co.uk` |  |
+| 20 | Telford | `latchpointlocksmithstelford.co.uk` |  |
 | 21 | Cambridge | `keylinecambridgelocksmiths.co.uk` |  |
-| 22 | Ipswich | `locklineipswichlocksmiths.co.uk` |  |
-| 23 | Middlesbrough | `boltlinemiddlesbroughlocksmiths.co.uk` |  |
-| 24 | York | `latchlineyorklocksmiths.co.uk` |  |
+| 22 | Ipswich | `locklineipswichlocksmith.co.uk` |  |
+| 23 | Middlesbrough | `boltlinelocksmithmiddlesbrough.co.uk` |  |
+| 24 | York | `latchlinelocksmithsyork.co.uk` |  |
 | 25 | Huddersfield | `keylinkhuddersfieldlocksmiths.co.uk` |  |
-| 26 | Poole | `locklinkpoolelocksmiths.co.uk` |  |
-| 27 | Watford | `boltlinkwatfordlocksmiths.co.uk` |  |
-| 28 | Colchester | `latchlinkcolchesterlocksmiths.co.uk` |  |
+| 26 | Poole | `locklinkpoolelocksmith.co.uk` |  |
+| 27 | Watford | `boltlinklocksmithwatford.co.uk` |  |
+| 28 | Colchester | `latchlinklocksmithscolchester.co.uk` |  |
 | 29 | Blackburn | `keymateblackburnlocksmiths.co.uk` |  |
-| 30 | Crawley | `lockmatecrawleylocksmiths.co.uk` |  |
-| 31 | Gloucester | `boltmategloucesterlocksmiths.co.uk` |  |
-| 32 | Stockport | `latchmatestockportlocksmiths.co.uk` |  |
+| 30 | Crawley | `lockmatecrawleylocksmith.co.uk` |  |
+| 31 | Gloucester | `boltmatelocksmithgloucester.co.uk` |  |
+| 32 | Stockport | `latchmatelocksmithsstockport.co.uk` |  |
 | 33 | Basingstoke | `keymaxbasingstokelocksmiths.co.uk` |  |
-| 34 | Cheltenham | `lockmaxcheltenhamlocksmiths.co.uk` | second site vs `cheltenham.steelok-locksmiths.co.uk` |
-| 35 | Basildon | `boltmaxbasildonlocksmiths.co.uk` |  |
-| 36 | Gateshead | `latchmaxgatesheadlocksmiths.co.uk` | second site vs `gateshead.suresec-locksmiths.co.uk` |
+| 34 | Cheltenham | `lockmaxcheltenhamlocksmith.co.uk` | second site vs `cheltenham.steelok-locksmiths.co.uk` |
+| 35 | Basildon | `boltmaxlocksmithbasildon.co.uk` |  |
+| 36 | Gateshead | `latchmaxlocksmithsgateshead.co.uk` | second site vs `gateshead.suresec-locksmiths.co.uk` |
 | 37 | Worthing | `keycrewworthinglocksmiths.co.uk` | second site vs `worthing.trulock-locksmiths.co.uk` |
-| 38 | Rochdale | `lockcrewrochdalelocksmiths.co.uk` | second site vs `rochdale.toplock-locksmiths.co.uk` |
-| 39 | Oldham | `boltcrewoldhamlocksmiths.co.uk` |  |
-| 40 | Chelmsford | `latchcrewchelmsfordlocksmiths.co.uk` |  |
+| 38 | Rochdale | `lockcrewrochdalelocksmith.co.uk` | second site vs `rochdale.toplock-locksmiths.co.uk` |
+| 39 | Oldham | `boltcrewlocksmitholdham.co.uk` |  |
+| 40 | Chelmsford | `latchcrewlocksmithschelmsford.co.uk` |  |
 | 41 | Birkenhead | `keycraftbirkenheadlocksmiths.co.uk` |  |
-| 42 | Maidstone | `lockcraftmaidstonelocksmiths.co.uk` |  |
-| 43 | Gillingham | `boltcraftgillinghamlocksmiths.co.uk` |  |
-| 44 | Salford | `latchcraftsalfordlocksmiths.co.uk` |  |
+| 42 | Maidstone | `lockcraftmaidstonelocksmith.co.uk` |  |
+| 43 | Gillingham | `boltcraftlocksmithgillingham.co.uk` |  |
+| 44 | Salford | `latchcraftlocksmithssalford.co.uk` |  |
 | 45 | Solihull | `keydashsolihulllocksmiths.co.uk` |  |
-| 46 | St Helens | `lockdashsthelenslocksmiths.co.uk` |  |
-| 47 | Worcester | `boltdashworcesterlocksmiths.co.uk` |  |
-| 48 | West Bromwich | `latchdashwestbromwichlocksmiths.co.uk` |  |
+| 46 | St Helens | `lockdashsthelenslocksmith.co.uk` |  |
+| 47 | Worcester | `boltdashlocksmithworcester.co.uk` |  |
+| 48 | West Bromwich | `latchdashlocksmithswestbromwich.co.uk` |  |
 | 49 | Eastbourne | `keyedgeeastbournelocksmiths.co.uk` |  |
-| 50 | Wakefield | `lockedgewakefieldlocksmiths.co.uk` |  |
-| 51 | Wythenshawe | `boltedgewythenshawelocksmiths.co.uk` |  |
-| 52 | Bedford | `latchedgebedfordlocksmiths.co.uk` |  |
+| 50 | Wakefield | `lockedgewakefieldlocksmith.co.uk` |  |
+| 51 | Wythenshawe | `boltedgelocksmithwythenshawe.co.uk` |  |
+| 52 | Bedford | `latchedgelocksmithsbedford.co.uk` |  |
 | 53 | Hemel Hempstead | `keycorehemelhempsteadlocksmiths.co.uk` | second site vs `hemelhempstead.surelok-locksmiths.co.uk` |
-| 54 | Preston | `lockcoreprestonlocksmiths.co.uk` |  |
-| 55 | Stevenage | `boltcorestevenagelocksmiths.co.uk` |  |
-| 56 | Southport | `latchcoresouthportlocksmiths.co.uk` |  |
+| 54 | Preston | `lockcoreprestonlocksmith.co.uk` |  |
+| 55 | Stevenage | `boltcorelocksmithstevenage.co.uk` |  |
+| 56 | Southport | `latchcorelocksmithssouthport.co.uk` |  |
 | 57 | Bath | `keygatebathlocksmiths.co.uk` |  |
-| 58 | Harlow | `lockgateharlowlocksmiths.co.uk` |  |
-| 59 | Royal Sutton Coldfield | `boltgatesuttoncoldfieldlocksmiths.co.uk` |  |
-| 60 | Darlington | `latchgatedarlingtonlocksmiths.co.uk` |  |
+| 58 | Harlow | `lockgateharlowlocksmith.co.uk` |  |
+| 59 | Royal Sutton Coldfield | `boltgatelocksmithsuttoncoldfield.co.uk` |  |
+| 60 | Darlington | `latchgatelocksmithsdarlington.co.uk` |  |
 | 61 | Chester | `keygridchesterlocksmiths.co.uk` | second site vs `chester.shield-locksmiths.co.uk` |
-| 62 | Hove | `lockgridhovelocksmiths.co.uk` |  |
-| 63 | Hastings | `boltgridhastingslocksmiths.co.uk` | second site vs `hastings.shieldx-locksmiths.co.uk` |
-| 64 | Nuneaton | `latchgridnuneatonlocksmiths.co.uk` |  |
+| 62 | Hove | `lockgridhovelocksmith.co.uk` |  |
+| 63 | Hastings | `boltgridlocksmithhastings.co.uk` | second site vs `hastings.shieldx-locksmiths.co.uk` |
+| 64 | Nuneaton | `latchgridlocksmithsnuneaton.co.uk` |  |
 | 65 | Halifax | `keyhavenhalifaxlocksmiths.co.uk` |  |
-| 66 | Hartlepool | `lockhavenhartlepoollocksmiths.co.uk` |  |
-| 67 | Aylesbury | `bolthavenaylesburylocksmiths.co.uk` | second site vs `aylesbury.boltman-locksmiths.co.uk` |
-| 68 | Doncaster | `latchhavendoncasterlocksmiths.co.uk` | second site vs `doncaster.boltfix-locksmiths.co.uk` |
+| 66 | Hartlepool | `lockhavenhartlepoollocksmith.co.uk` |  |
+| 67 | Aylesbury | `bolthavenlocksmithaylesbury.co.uk` | second site vs `aylesbury.boltman-locksmiths.co.uk` |
+| 68 | Doncaster | `latchhavenlocksmithsdoncaster.co.uk` | second site vs `doncaster.boltfix-locksmiths.co.uk` |
 | 69 | Grimsby | `keyjetgrimsbylocksmiths.co.uk` | second site vs `grimsby.boltlok-locksmiths.co.uk` |
-| 70 | Wallasey | `lockjetwallaseylocksmiths.co.uk` | second site vs `wallasey.boltpro-locksmiths.co.uk` |
-| 71 | Stockton-on-Tees | `boltjetstocktonlocksmiths.co.uk` |  |
-| 72 | Weston-super-Mare | `latchjetwestonsupermarelocksmiths.co.uk` |  |
+| 70 | Wallasey | `lockjetwallaseylocksmith.co.uk` | second site vs `wallasey.boltpro-locksmiths.co.uk` |
+| 71 | Stockton-on-Tees | `boltjetlocksmithstockton.co.uk` |  |
+| 72 | Weston-super-Mare | `latchjetlocksmithswestonsupermare.co.uk` |  |
 | 73 | High Wycombe | `keykinghighwycombelocksmiths.co.uk` |  |
-| 74 | Ashford | `lockkingashfordlocksmiths.co.uk` |  |
-| 75 | Redditch | `boltkingredditchlocksmiths.co.uk` |  |
-| 76 | Wigan | `latchkingwiganlocksmiths.co.uk` |  |
+| 74 | Ashford | `lockkingashfordlocksmith.co.uk` |  |
+| 75 | Redditch | `boltkinglocksmithredditch.co.uk` |  |
+| 76 | Wigan | `latchkinglocksmithswigan.co.uk` |  |
 | 77 | Scunthorpe | `keynodescunthorpelocksmiths.co.uk` |  |
-| 78 | Bury | `locknodeburylocksmiths.co.uk` |  |
-| 79 | Bracknell | `boltnodebracknelllocksmiths.co.uk` |  |
-| 80 | Burnley | `latchnodeburnleylocksmiths.co.uk` |  |
+| 78 | Bury | `locknodeburylocksmith.co.uk` |  |
+| 79 | Bracknell | `boltnodelocksmithbracknell.co.uk` |  |
+| 80 | Burnley | `latchnodelocksmithsburnley.co.uk` |  |
 | 81 | Rugby | `keynestrugbylocksmiths.co.uk` |  |
-| 82 | Guildford | `locknestguildfordlocksmiths.co.uk` |  |
-| 83 | Chatham | `boltnestchathamlocksmiths.co.uk` |  |
-| 84 | Newcastle-under-Lyme | `latchnestnewcastleunderlymelocksmiths.co.uk` |  |
+| 82 | Guildford | `locknestguildfordlocksmith.co.uk` |  |
+| 83 | Chatham | `boltnestlocksmithchatham.co.uk` |  |
+| 84 | Newcastle-under-Lyme | `latchnestlocksmithsnewcastleunderlyme.co.uk` |  |
 | 85 | Chesterfield | `keypulsechesterfieldlocksmiths.co.uk` |  |
-| 86 | Burton upon Trent | `lockpulseburtonontrentlocksmiths.co.uk` | second site vs `burtonupontrent.steelok-locksmiths.co.uk` |
-| 87 | Tamworth | `boltpulsetamworthlocksmiths.co.uk` | second site vs `tamworth.suresec-locksmiths.co.uk` |
-| 88 | Woking | `latchpulsewokinglocksmiths.co.uk` | second site vs `woking.trulock-locksmiths.co.uk` |
+| 86 | Burton upon Trent | `lockpulseburtonontrentlocksmith.co.uk` | second site vs `burtonupontrent.steelok-locksmiths.co.uk` |
+| 87 | Tamworth | `boltpulselocksmithtamworth.co.uk` | second site vs `tamworth.suresec-locksmiths.co.uk` |
+| 88 | Woking | `latchpulselocksmithswoking.co.uk` | second site vs `woking.trulock-locksmiths.co.uk` |
 | 89 | St Albans | `keyqueststalbanslocksmiths.co.uk` | second site vs `stalbans.toplock-locksmiths.co.uk` |
-| 90 | Harrogate | `lockquestharrogatelocksmiths.co.uk` |  |
-| 91 | Crewe | `boltquestcrewelocksmiths.co.uk` |  |
-| 92 | South Shields | `latchquestsouthshieldslocksmiths.co.uk` |  |
+| 90 | Harrogate | `lockquestharrogatelocksmith.co.uk` |  |
+| 91 | Crewe | `boltquestlocksmithcrewe.co.uk` |  |
+| 92 | South Shields | `latchquestlocksmithssouthshields.co.uk` |  |
 | 93 | Stafford | `keyrisestaffordlocksmiths.co.uk` |  |
-| 94 | Rotherham | `lockriserotherhamlocksmiths.co.uk` |  |
-| 95 | Barnsley | `boltrisebarnsleylocksmiths.co.uk` |  |
-| 96 | Walsall | `latchrisewalsalllocksmiths.co.uk` |  |
+| 94 | Rotherham | `lockriserotherhamlocksmith.co.uk` |  |
+| 95 | Barnsley | `boltriselocksmithbarnsley.co.uk` |  |
+| 96 | Walsall | `latchriselocksmithswalsall.co.uk` |  |
 | 97 | Dartford | `keyrootdartfordlocksmiths.co.uk` |  |
-| 98 | Bognor Regis | `lockrootbognorregislocksmiths.co.uk` |  |
-| 99 | Corby | `boltrootcorbylocksmiths.co.uk` |  |
-| 100 | Maidenhead | `latchrootmaidenheadlocksmiths.co.uk` |  |
+| 98 | Bognor Regis | `lockrootbognorregislocksmith.co.uk` |  |
+| 99 | Corby | `boltrootlocksmithcorby.co.uk` |  |
+| 100 | Maidenhead | `latchrootlocksmithsmaidenhead.co.uk` |  |
 | 101 | Rochester | `keyrouterochesterlocksmiths.co.uk` |  |
-| 102 | Ellesmere Port | `lockrouteellesmereportlocksmiths.co.uk` |  |
-| 103 | Loughborough | `boltrouteloughboroughlocksmiths.co.uk` | second site vs `loughborough.surelok-locksmiths.co.uk` |
-| 104 | Dudley | `latchroutedudleylocksmiths.co.uk` |  |
+| 102 | Ellesmere Port | `lockrouteellesmereportlocksmith.co.uk` |  |
+| 103 | Loughborough | `boltroutelocksmithloughborough.co.uk` | second site vs `loughborough.surelok-locksmiths.co.uk` |
+| 104 | Dudley | `latchroutelocksmithsdudley.co.uk` |  |
 | 105 | Dewsbury | `keyservedewsburylocksmiths.co.uk` |  |
-| 106 | Mansfield | `lockservemansfieldlocksmiths.co.uk` |  |
-| 107 | Margate | `boltservemargatelocksmiths.co.uk` |  |
-| 108 | Kettering | `latchserveketteringlocksmiths.co.uk` |  |
+| 106 | Mansfield | `lockservemansfieldlocksmith.co.uk` |  |
+| 107 | Margate | `boltservelocksmithmargate.co.uk` |  |
+| 108 | Kettering | `latchservelocksmithskettering.co.uk` |  |
 | 109 | Cannock | `keysmartcannocklocksmiths.co.uk` |  |
-| 110 | Sale | `locksmartsalelocksmiths.co.uk` |  |
-| 111 | Runcorn | `boltsmartruncornlocksmiths.co.uk` | second site vs `runcorn.shield-locksmiths.co.uk` |
-| 112 | Farnborough | `latchsmartfarnboroughlocksmiths.co.uk` | second site vs `farnborough.shieldx-locksmiths.co.uk` |
+| 110 | Sale | `locksmartsalelocksmith.co.uk` |  |
+| 111 | Runcorn | `boltsmartlocksmithruncorn.co.uk` | second site vs `runcorn.shield-locksmiths.co.uk` |
+| 112 | Farnborough | `latchsmartlocksmithsfarnborough.co.uk` | second site vs `farnborough.shieldx-locksmiths.co.uk` |
 | 113 | Tynemouth | `keysparktynemouthlocksmiths.co.uk` |  |
-| 114 | Halesowen | `locksparkhalesowenlocksmiths.co.uk` |  |
-| 115 | Canterbury | `boltsparkcanterburylocksmiths.co.uk` |  |
-| 116 | Wokingham | `latchsparkwokinghamlocksmiths.co.uk` |  |
+| 114 | Halesowen | `locksparkhalesowenlocksmith.co.uk` |  |
+| 115 | Canterbury | `boltsparklocksmithcanterbury.co.uk` |  |
+| 116 | Wokingham | `latchsparklocksmithswokingham.co.uk` |  |
 | 117 | Horsham | `keyspothorshamlocksmiths.co.uk` |  |
-| 118 | Winchester | `lockspotwinchesterlocksmiths.co.uk` |  |
-| 119 | Braintree | `boltspotbraintreelocksmiths.co.uk` |  |
-| 120 | Fareham | `latchspotfarehamlocksmiths.co.uk` |  |
+| 118 | Winchester | `lockspotwinchesterlocksmith.co.uk` |  |
+| 119 | Braintree | `boltspotlocksmithbraintree.co.uk` |  |
+| 120 | Fareham | `latchspotlocksmithsfareham.co.uk` |  |
 | 121 | Chorley | `keysprintchorleylocksmiths.co.uk` |  |
-| 122 | Warwick | `locksprintwarwicklocksmiths.co.uk` |  |
-| 123 | Dover | `boltsprintdoverlocksmiths.co.uk` |  |
-| 124 | Lichfield | `latchsprintlichfieldlocksmiths.co.uk` |  |
+| 122 | Warwick | `locksprintwarwicklocksmith.co.uk` |  |
+| 123 | Dover | `boltsprintlocksmithdover.co.uk` |  |
+| 124 | Lichfield | `latchsprintlocksmithslichfield.co.uk` |  |
 | 125 | Morley | `keysquadmorleylocksmiths.co.uk` |  |
-| 126 | Stroud | `locksquadstroudlocksmiths.co.uk` |  |
+| 126 | Stroud | `locksquadstroudlocksmith.co.uk` |  |
 
 ## B. Bundle hubs — 26 domains (bundle order, north → south)
 
