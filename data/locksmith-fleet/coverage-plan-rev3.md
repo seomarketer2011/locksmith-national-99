@@ -1,17 +1,17 @@
-# Coverage plan rev 3 — master build list
+# Coverage plan rev 3 — master build list (FINAL: 60k threshold)
 
 Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against `data/locksmith-fleet/sites.json` (99 live sites, zero drift).
 
 ## Decision rule
 
-- **Threshold: population ≥ 70,000 gets its own website**, applied across all 407 locations regardless of current status.
-- **Individual website (new market)**: every unbuilt `city`/`major-city` from rev 2, plus any town ≥ 70,000 (23 towns promoted out of the old bundles).
-- **Individual website (second site)**: the 22 live *subdomain* sites in 70k+ towns each also get a brand-new individual-domain site — fresh brand, completely different content, distinct NAP — while the existing subdomain site **stays live** and competes alongside it.
-- **Subdomain bundles**: the remaining 221 sub-70k towns re-clustered from scratch **by geographic locality** (geocoded, distance-based clustering — not the rev-2 bundles) into 27 bundles of 7–9. Average bundle spread ~32 miles. Each bundle = one new hub brand domain; bundles are numbered north → south. The idle `doorfix-locksmiths.co.uk` hub can serve as the first bundle's brand.
+- **Threshold: population ≥ 60,000 gets its own website**, applied across all 407 locations regardless of current status.
+- **Individual website (new market)**: every unbuilt `city`/`major-city` from rev 2, plus any town ≥ 60,000 (37 towns promoted out of the old bundles).
+- **Individual website (second site)**: the 25 live *subdomain* sites in 60k+ towns each also get a brand-new individual-domain site — fresh brand, completely different content, distinct NAP — while the existing subdomain site **stays live** and competes alongside it.
+- **Subdomain bundles**: the remaining 207 sub-60k towns clustered **by geographic locality** (geocoded, distance-based) into 26 bundles of 7–9 subdomains. Average bundle spread ~33 miles. Each bundle = one new hub brand domain; bundles are numbered north → south. The idle `doorfix-locksmiths.co.uk` hub can serve as the first bundle's brand.
 
-**Totals: 109 individual sites to build (87 new-market + 22 second-site) + 221 bundle subdomains in 27 bundles = 330 builds.**
+**Totals: 126 individual sites to build (101 new-market + 25 second-site) + 207 bundle subdomains in 26 bundles = 333 builds.**
 
-## A. Individual websites — 109 sites, in build-priority order (population desc)
+## A. Individual websites — 126 sites, in build-priority order (population desc)
 
 | # | Location | Region | Type | Population | Note |
 |---|----------|--------|------|-----------:|------|
@@ -111,27 +111,43 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | 94 | Rotherham | Yorkshire and The Humber | major-city | 71,535 |  |
 | 95 | Barnsley | Yorkshire and The Humber | major-city | 71,394 |  |
 | 96 | Walsall | West Midlands | major-city | 70,777 |  |
-| 97 | Dudley | West Midlands | major-city | 64,277 |  |
-| 98 | Canterbury | South East | city | 55,107 |  |
-| 99 | Wokingham | South East | city | 50,320 |  |
-| 100 | Horsham | South East | city | 50,211 |  |
-| 101 | Winchester | South East | city | 48,486 |  |
-| 102 | Braintree | East of England | city | 43,179 |  |
-| 103 | Fareham | South East | city | 42,633 |  |
-| 104 | Chorley | North West | city | 39,539 | borderline — small, could demote to a bundle |
-| 105 | Warwick | West Midlands | city | 36,673 | borderline — small, could demote to a bundle |
-| 106 | Dover | South East | city | 36,349 | borderline — small, could demote to a bundle |
-| 107 | Lichfield | West Midlands | city | 32,586 | borderline — small, could demote to a bundle |
-| 108 | Morley | Yorkshire and The Humber | city | 32,562 | borderline — small, could demote to a bundle |
-| 109 | Stroud | South West | city | 26,073 | borderline — small, could demote to a bundle |
+| 97 | Dartford | South East | suburb | 69,131 | promoted from old Bundle 20 |
+| 98 | Bognor Regis | South East | suburb | 68,443 | promoted from old Bundle 25 |
+| 99 | Corby | East Midlands | town | 68,164 | promoted from old Bundle 11 |
+| 100 | Maidenhead | South East | town | 67,391 | promoted from old Bundle 21 |
+| 101 | Rochester | South East | town | 67,279 | promoted from old Bundle 20 |
+| 102 | Ellesmere Port | North West | town | 65,425 | promoted from old Bundle 08 |
+| 103 | Loughborough | East Midlands | suburb | 64,850 | SECOND SITE — keep `loughborough.surelok-locksmiths.co.uk` live; new brand, all-new content |
+| 104 | Dudley | West Midlands | major-city | 64,277 |  |
+| 105 | Dewsbury | Yorkshire and The Humber | town | 63,730 | promoted from old Bundle 02 |
+| 106 | Mansfield | East Midlands | town | 63,448 | promoted from old Bundle 10 |
+| 107 | Margate | South East | town | 63,315 | promoted from old Bundle 18 |
+| 108 | Kettering | East Midlands | town | 63,149 | promoted from old Bundle 14 |
+| 109 | Cannock | West Midlands | suburb | 63,057 | promoted from old Bundle 12 |
+| 110 | Sale | North West | town | 62,545 | promoted from old Bundle 09 |
+| 111 | Runcorn | North West | town | 61,641 | SECOND SITE — keep `runcorn.shield-locksmiths.co.uk` live; new brand, all-new content |
+| 112 | Farnborough | South East | suburb | 60,665 | SECOND SITE — keep `farnborough.shieldx-locksmiths.co.uk` live; new brand, all-new content |
+| 113 | Tynemouth | North East | suburb | 60,611 | promoted from old Bundle 01 |
+| 114 | Halesowen | West Midlands | town | 60,103 | promoted from old Bundle 15 |
+| 115 | Canterbury | South East | city | 55,107 |  |
+| 116 | Wokingham | South East | city | 50,320 |  |
+| 117 | Horsham | South East | city | 50,211 |  |
+| 118 | Winchester | South East | city | 48,486 |  |
+| 119 | Braintree | East of England | city | 43,179 |  |
+| 120 | Fareham | South East | city | 42,633 |  |
+| 121 | Chorley | North West | city | 39,539 | borderline — small, could demote to a bundle |
+| 122 | Warwick | West Midlands | city | 36,673 | borderline — small, could demote to a bundle |
+| 123 | Dover | South East | city | 36,349 | borderline — small, could demote to a bundle |
+| 124 | Lichfield | West Midlands | city | 32,586 | borderline — small, could demote to a bundle |
+| 125 | Morley | Yorkshire and The Humber | city | 32,562 | borderline — small, could demote to a bundle |
+| 126 | Stroud | South West | city | 26,073 | borderline — small, could demote to a bundle |
 
-## B. Subdomain bundles — 27 hub domains, numbered north → south
+## B. Subdomain bundles — 26 hub domains, numbered north → south
 
-### Bundle 01 - Tynemouth & Area — 8 subdomains, combined pop 271,740, max spread 22 mi
+### Bundle 01 - Wallsend & Area — 7 subdomains, combined pop 211,129, max spread 22 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Tynemouth | North East | suburb | 60,611 |
 | Wallsend | North East | town | 45,351 |
 | Whitley Bay | North East | town | 36,876 |
 | Cramlington | North East | suburb | 28,846 |
@@ -165,29 +181,29 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Darwen | North West | town | 27,897 |
 | Penwortham | North West | town | 20,489 |
 
-### Bundle 04 - Dewsbury & Area — 9 subdomains, combined pop 293,476, max spread 29 mi
+### Bundle 04 - Keighley & Area — 9 subdomains, combined pop 251,600, max spread 29 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Dewsbury | Yorkshire and The Humber | town | 63,730 |
 | Keighley | Yorkshire and The Humber | town | 48,754 |
 | Chadderton | North West | town | 37,602 |
 | Heywood | North West | town | 29,724 |
 | Stalybridge | North West | town | 26,850 |
 | Royton | North West | suburb | 22,997 |
-| Bingley | Yorkshire and The Humber | town | 21,334 |
+| Ossett | Yorkshire and The Humber | town | 21,854 |
 | Bramley | Yorkshire and The Humber | town | 21,334 |
+| Bingley | Yorkshire and The Humber | town | 21,334 |
 | Dukinfield | North West | town | 21,151 |
 
-### Bundle 05 - Pontefract & Area — 8 subdomains, combined pop 185,857, max spread 64 mi
+### Bundle 05 - Worksop & Area — 8 subdomains, combined pop 207,438, max spread 61 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
+| Worksop | East Midlands | town | 43,435 |
 | Pontefract | Yorkshire and The Humber | town | 32,982 |
 | Beverley | Yorkshire and The Humber | town | 30,933 |
 | Cleethorpes | Yorkshire and The Humber | town | 29,660 |
 | Gainsborough | East Midlands | town | 21,899 |
-| Ossett | Yorkshire and The Humber | town | 21,854 |
 | Rothwell | Yorkshire and The Humber | town | 20,964 |
 | Goole | Yorkshire and The Humber | town | 20,173 |
 | Wickersley | Yorkshire and The Humber | town | 7,392 |
@@ -234,12 +250,10 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Reddish | North West | town | 22,189 |
 | Old Trafford | North West | town | 21,442 |
 
-### Bundle 09 - Ellesmere Port & Area — 9 subdomains, combined pop 366,286, max spread 36 mi
+### Bundle 09 - Widnes & Area — 7 subdomains, combined pop 238,316, max spread 35 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Ellesmere Port | North West | town | 65,425 |
-| Sale | North West | town | 62,545 |
 | Widnes | North West | town | 59,938 |
 | Altrincham | North West | town | 49,672 |
 | Winsford | North West | town | 32,522 |
@@ -248,19 +262,19 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Brownhills | West Midlands | town | 21,238 |
 | Hazel Grove | North West | suburb | 20,163 |
 
-### Bundle 10 - Mansfield & Area — 7 subdomains, combined pop 260,141, max spread 42 mi
+### Bundle 10 - Macclesfield & Area — 7 subdomains, combined pop 199,598, max spread 42 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Mansfield | East Midlands | town | 63,448 |
 | Macclesfield | North West | town | 54,352 |
-| Worksop | East Midlands | town | 43,435 |
 | Sutton in Ashfield | East Midlands | town | 36,435 |
+| Rugeley | West Midlands | town | 26,149 |
 | Kirkby-in-Ashfield | East Midlands | town | 21,262 |
 | Dronfield | East Midlands | town | 21,161 |
+| Ripley | East Midlands | suburb | 20,191 |
 | Buxton | East Midlands | suburb | 20,048 |
 
-### Bundle 11 - Beeston & Area — 8 subdomains, combined pop 252,832, max spread 23 mi
+### Bundle 11 - Beeston & Area — 7 subdomains, combined pop 232,641, max spread 20 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
@@ -271,7 +285,6 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Heanor | East Midlands | town | 24,264 |
 | Clifton | East Midlands | town | 22,936 |
 | Coalville | East Midlands | suburb | 21,975 |
-| Ripley | East Midlands | suburb | 20,191 |
 
 ### Bundle 12 - Grantham & Area — 8 subdomains, combined pop 233,383, max spread 53 mi
 
@@ -286,109 +299,108 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Oadby | East Midlands | suburb | 24,039 |
 | Stamford | East Midlands | town | 20,745 |
 
-### Bundle 13 - Cannock & Area — 7 subdomains, combined pop 303,155, max spread 33 mi
-
-| Location | Region | Type | Population |
-|----------|--------|------|-----------:|
-| Cannock | West Midlands | suburb | 63,057 |
-| Smethwick | West Midlands | town | 56,343 |
-| Carlton | East Midlands | suburb | 53,555 |
-| Hinckley | East Midlands | suburb | 50,729 |
-| Bedworth | West Midlands | suburb | 31,083 |
-| Rugeley | West Midlands | town | 26,149 |
-| Kenilworth | West Midlands | town | 22,239 |
-
-### Bundle 14 - Kingswinford & Area — 9 subdomains, combined pop 352,163, max spread 8 mi
+### Bundle 13 - Kingswinford & Area — 7 subdomains, combined pop 267,923, max spread 8 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
 | Kingswinford | West Midlands | suburb | 51,900 |
 | Willenhall | West Midlands | town | 49,582 |
 | Tipton | West Midlands | town | 47,202 |
-| Oldbury | West Midlands | town | 45,188 |
-| Rowley Regis | West Midlands | town | 39,052 |
 | Bilston | West Midlands | town | 34,631 |
 | Brierley Hill | West Midlands | town | 32,311 |
 | Sedgley | West Midlands | town | 31,976 |
 | Wednesbury | West Midlands | town | 20,321 |
 
-### Bundle 15 - Corby & Area — 7 subdomains, combined pop 295,409, max spread 33 mi
+### Bundle 14 - Smethwick & Area — 7 subdomains, combined pop 298,189, max spread 28 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Corby | East Midlands | town | 68,164 |
-| Kettering | East Midlands | town | 63,149 |
-| Wellingborough | East Midlands | town | 54,421 |
-| St Neots | East of England | town | 33,262 |
-| Rushden | East Midlands | town | 31,689 |
-| Kempston | East of England | suburb | 22,779 |
-| Biggleswade | East of England | town | 21,945 |
+| Smethwick | West Midlands | town | 56,343 |
+| Carlton | East Midlands | suburb | 53,555 |
+| Hinckley | East Midlands | suburb | 50,729 |
+| Oldbury | West Midlands | town | 45,188 |
+| Rowley Regis | West Midlands | town | 39,052 |
+| Bedworth | West Midlands | suburb | 31,083 |
+| Kenilworth | West Midlands | town | 22,239 |
 
-### Bundle 16 - Halesowen & Area — 9 subdomains, combined pop 350,880, max spread 45 mi
+### Bundle 15 - Kidderminster & Area — 7 subdomains, combined pop 238,736, max spread 44 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Halesowen | West Midlands | town | 60,103 |
 | Kidderminster | West Midlands | town | 57,567 |
 | Stourbridge | West Midlands | town | 56,961 |
-| Banbury | South East | town | 52,041 |
 | Evesham | West Midlands | town | 28,256 |
 | Stratford-upon-Avon | West Midlands | town | 28,112 |
 | Droitwich Spa | West Midlands | town | 26,413 |
 | Quedgeley and Hardwicke | South West | suburb | 21,125 |
 | Stourport-on-Severn | West Midlands | town | 20,302 |
 
-### Bundle 17 - Clacton-on-Sea & Area — 8 subdomains, combined pop 245,995, max spread 46 mi
+### Bundle 16 - Wellingborough & Area — 9 subdomains, combined pop 298,771, max spread 36 mi
+
+| Location | Region | Type | Population |
+|----------|--------|------|-----------:|
+| Wellingborough | East Midlands | town | 54,421 |
+| Hitchin | East of England | suburb | 35,220 |
+| Dunstable | East of England | town | 34,498 |
+| Letchworth | East of England | suburb | 33,993 |
+| St Neots | East of England | town | 33,262 |
+| Rushden | East Midlands | town | 31,689 |
+| Harpenden | East of England | town | 30,964 |
+| Kempston | East of England | suburb | 22,779 |
+| Biggleswade | East of England | town | 21,945 |
+
+### Bundle 17 - Clacton-on-Sea & Area — 9 subdomains, combined pop 273,528, max spread 46 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
 | Clacton-on-Sea | East of England | suburb | 53,190 |
 | Bury St Edmunds | East of England | town | 41,279 |
 | Rayleigh | East of England | suburb | 32,383 |
+| Wickford | East of England | town | 27,533 |
 | Witham | East of England | suburb | 27,395 |
 | Felixstowe | East of England | town | 24,218 |
 | Sudbury | East of England | suburb | 23,922 |
 | Maldon | East of England | suburb | 23,389 |
 | Harwich | East of England | town | 20,219 |
 
-### Bundle 18 - Bletchley & Area — 9 subdomains, combined pop 313,653, max spread 29 mi
+### Bundle 18 - Banbury & Area — 7 subdomains, combined pop 279,942, max spread 48 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
+| Banbury | South East | town | 52,041 |
 | Bletchley | South East | town | 45,018 |
 | Leighton Buzzard | East of England | town | 42,736 |
-| Hatfield | East of England | town | 41,561 |
-| Hitchin | East of England | suburb | 35,220 |
-| Dunstable | East of England | town | 34,498 |
-| Letchworth | East of England | suburb | 33,993 |
-| Harpenden | East of England | town | 30,964 |
-| Bushey | East of England | suburb | 28,427 |
-| Berkhamsted | East of England | town | 21,236 |
+| Newbury | South East | town | 42,262 |
+| Bicester | South East | town | 37,748 |
+| Didcot | South East | town | 34,600 |
+| Thatcham | South East | suburb | 25,537 |
 
-### Bundle 19 - Brentwood & Area — 9 subdomains, combined pop 327,704, max spread 31 mi
+### Bundle 19 - Brentwood & Area — 9 subdomains, combined pop 341,732, max spread 29 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
 | Brentwood | East of England | town | 55,339 |
 | Cheshunt | East of England | suburb | 43,694 |
+| Hatfield | East of England | town | 41,561 |
 | Bishop's Stortford | East of England | town | 40,916 |
 | Hoddesdon | East of England | suburb | 40,615 |
 | Billericay | East of England | town | 34,068 |
 | Loughton | East of England | town | 33,338 |
 | Hertford | East of England | town | 28,807 |
-| Wickford | East of England | town | 27,533 |
 | Potters Bar | East of England | suburb | 23,394 |
 
-### Bundle 20 - Maidenhead & Area — 7 subdomains, combined pop 253,834, max spread 40 mi
+### Bundle 20 - Camberley & Area — 9 subdomains, combined pop 237,648, max spread 30 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Maidenhead | South East | town | 67,391 |
-| Newbury | South East | town | 42,262 |
-| Bicester | South East | town | 37,748 |
-| Didcot | South East | town | 34,600 |
+| Camberley | South East | suburb | 36,787 |
+| Windsor | South East | town | 31,569 |
+| Bushey | East of England | suburb | 28,427 |
+| Egham | South East | suburb | 28,003 |
 | Rickmansworth | East of England | suburb | 26,290 |
-| Thatcham | South East | suburb | 25,537 |
+| Ascot | South East | town | 24,003 |
+| Staines-upon-Thames | South East | town | 21,327 |
+| Berkhamsted | East of England | town | 21,236 |
 | Hazlemere | South East | suburb | 20,006 |
 
 ### Bundle 21 - Yeovil & Area — 9 subdomains, combined pop 317,227, max spread 60 mi
@@ -405,73 +417,59 @@ Source: `locksmithcoverageplanrev2withpopulation.xlsx` cross-referenced against 
 | Portishead | South West | town | 26,351 |
 | Clevedon | South West | town | 21,084 |
 
-### Bundle 22 - Camberley & Area — 9 subdomains, combined pop 176,895, max spread 14 mi
+### Bundle 22 - Folkestone & Area — 7 subdomains, combined pop 235,940, max spread 43 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Camberley | South East | suburb | 36,787 |
-| Windsor | South East | town | 31,569 |
-| Egham | South East | suburb | 28,003 |
-| Ascot | South East | town | 24,003 |
-| Staines-upon-Thames | South East | town | 21,327 |
-| Sandhurst | South East | town | 20,220 |
-| New Haw | South East | suburb | 5,757 |
-| West Byfleet | South East | town | 5,626 |
-| Sheerwater | South East | suburb | 3,603 |
-
-### Bundle 23 - Dartford & Area — 9 subdomains, combined pop 345,676, max spread 32 mi
-
-| Location | Region | Type | Population |
-|----------|--------|------|-----------:|
-| Dartford | South East | suburb | 69,131 |
-| Rochester | South East | town | 67,279 |
-| Royal Tunbridge Wells | South East | town | 51,215 |
-| Tonbridge | South East | suburb | 36,136 |
-| Northfleet | South East | town | 29,892 |
-| Sevenoaks | South East | town | 26,474 |
-| Larkfield | South East | suburb | 26,147 |
-| South Ockendon | East of England | suburb | 22,441 |
-| South Benfleet | East of England | suburb | 16,961 |
-
-### Bundle 24 - Margate & Area — 7 subdomains, combined pop 282,294, max spread 41 mi
-
-| Location | Region | Type | Population |
-|----------|--------|------|-----------:|
-| Margate | South East | town | 63,315 |
 | Folkestone | South East | town | 51,987 |
 | Ramsgate | South East | town | 42,031 |
 | Canvey Island | East of England | town | 38,004 |
 | Whitstable | South East | town | 32,185 |
 | Deal | South East | town | 28,992 |
 | Broadstairs | South East | suburb | 25,780 |
+| South Benfleet | East of England | suburb | 16,961 |
 
-### Bundle 25 - West Molesey & Area — 9 subdomains, combined pop 237,679, max spread 18 mi
+### Bundle 23 - West Molesey & Area — 9 subdomains, combined pop 169,308, max spread 13 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
 | West Molesey | South East | suburb | 47,144 |
 | Epsom | South East | town | 35,857 |
-| Redhill | South East | town | 32,516 |
 | Ewell | South East | suburb | 27,509 |
-| Horley | South East | town | 27,067 |
 | Walton-on-Thames | South East | town | 27,016 |
-| Reigate | South East | town | 23,774 |
 | Tadworth | South East | suburb | 9,522 |
 | Epsom Downs | South East | suburb | 7,274 |
+| New Haw | South East | suburb | 5,757 |
+| West Byfleet | South East | town | 5,626 |
+| Sheerwater | South East | suburb | 3,603 |
 
-### Bundle 26 - Bognor Regis & Area — 7 subdomains, combined pop 237,544, max spread 42 mi
+### Bundle 24 - Royal Tunbridge Wells & Area — 9 subdomains, combined pop 275,662, max spread 30 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
-| Bognor Regis | South East | suburb | 68,443 |
+| Royal Tunbridge Wells | South East | town | 51,215 |
+| Tonbridge | South East | suburb | 36,136 |
+| Redhill | South East | town | 32,516 |
+| Northfleet | South East | town | 29,892 |
+| Horley | South East | town | 27,067 |
+| Sevenoaks | South East | town | 26,474 |
+| Larkfield | South East | suburb | 26,147 |
+| Reigate | South East | town | 23,774 |
+| South Ockendon | East of England | suburb | 22,441 |
+
+### Bundle 25 - Fleet & Area — 7 subdomains, combined pop 189,321, max spread 45 mi
+
+| Location | Region | Type | Population |
+|----------|--------|------|-----------:|
 | Fleet | South East | town | 37,800 |
 | Chichester | South East | town | 31,709 |
 | Woodley | South East | suburb | 28,019 |
 | Ash and Ash Vale | South East | suburb | 24,284 |
 | Ryde | South East | town | 24,094 |
 | Hedge End | South East | town | 23,195 |
+| Sandhurst | South East | town | 20,220 |
 
-### Bundle 27 - Haywards Heath & Area — 7 subdomains, combined pop 195,759, max spread 34 mi
+### Bundle 26 - Haywards Heath & Area — 7 subdomains, combined pop 195,759, max spread 34 mi
 
 | Location | Region | Type | Population |
 |----------|--------|------|-----------:|
