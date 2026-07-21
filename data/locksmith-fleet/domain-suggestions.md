@@ -2,6 +2,8 @@
 
 All suggested domains were checked via DNS on 2026-07-21 and returned NXDOMAIN (no registration found). DNS is a strong but not perfect signal — the registrar will confirm at purchase time.
 
+All registrations go through **Cloudflare Registrar** (at-cost pricing, ~£4/yr for .co.uk), which keeps registration, DNS and Pages deployment in the same Cloudflare account — subdomain/CNAME setup for the bundle hubs and custom-domain binding for the Pages projects need no external DNS changes.
+
 Naming follows the live fleet conventions: `{brand}{city}locksmiths.co.uk` for individual sites, `{brand}-locksmiths.co.uk` for bundle hubs. Every brand token is unique across the fleet, and second-site brands never match the hub brand of the live subdomain they compete with.
 
 ## A. Individual sites — 126 domains (build-priority order)
