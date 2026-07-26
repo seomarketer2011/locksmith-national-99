@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/Safe opening.png";
 import lock from "../assets/services/Safe_opening.png";
@@ -26,36 +27,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Safe Opening in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Same-Day Safe Opening in {{location}} • Damage-Minimising Techniques First • Regain Access Quickly • Fully Insured • Upfront Quote Before Any Drilling Starts Today.`}
+  points={["No call-out fee", "Upfront quote before work", "Access regained today"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border bg-gray-50  px-6 py-3">
-    
-        <span class="font-semibold px-3">Same-day service</span>
-    
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-    
-        <span class="px-3">No call-out fee</span>
-    
-        <span class="px-3">Upfront quote before work</span>
-    
-        <span class="px-3">Access regained today</span>
-    
-      </div>
-    </div>
-    
-    
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Safe Opening in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Same-Day Safe Opening in {{location}} • Damage-Minimising Techniques First • Regain Access Quickly •
-      Fully Insured • Upfront Quote Before Any Drilling Starts Today.`}
-        </p>
-
     <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">
         We open safes when keys are lost or codes fail, helping you regain access the same day.
@@ -75,48 +59,11 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </div>
 </section>
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Professional safe opening service for locked safes"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Safe Opening in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            If you're locked out of a safe in {{location}}, the priority is simple: restore access quickly, legally, and with minimal damage where possible. {{name}} provides professional safe opening services for domestic and commercial customers, covering common lockout scenarios such as forgotten combinations, electronic keypad faults, battery failure lockouts, lost keys, and mechanisms that have jammed even with the correct code. Our reliable safe opening services are performed by expert safe locksmiths, ensuring trustworthy and professional solutions for every situation.
-          </p>
-          <p>
-            Safe opening isn't a one-size-fits-all job. The method depends on the safe type (electronic keypad, mechanical combination, key-operated, fire safe), the symptom (dead keypad, stiff handle, bolts seized, code accepted but won't open), and the safe's security level. We take a non-destructive-first approach wherever it's realistic, aiming to open your safe without causing damage whenever possible, and we'll explain the options in plain terms before any work begins, including time expectations and the main price factors such as complexity, out-of-hours attendance, and whether parts or repairs are required afterwards.
-          </p>
-          <p>
-            Because safe access can involve valuables, sensitive documents, or business-critical items, we also operate with clear authorisation and proof of ownership checks and offer discreet attendance across {{location}} and surrounding areas.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔐</span>
-            Emergency Safe Opening
-          </a>
-         
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>If you're locked out of a safe in {{location}}, the priority is simple: restore access quickly, legally, and with minimal damage where possible. {{name}} provides professional safe opening services for domestic and commercial customers, covering common lockout scenarios such as forgotten combinations, electronic keypad faults, battery failure lockouts, lost keys, and mechanisms that have jammed even with the correct code. Our reliable safe opening services are performed by expert safe locksmiths, ensuring trustworthy and professional solutions for every situation.</p>
+      <p>Safe opening isn't a one-size-fits-all job. The method depends on the safe type (electronic keypad, mechanical combination, key-operated, fire safe), the symptom (dead keypad, stiff handle, bolts seized, code accepted but won't open), and the safe's security level. We take a non-destructive-first approach wherever it's realistic, aiming to open your safe without causing damage whenever possible, and we'll explain the options in plain terms before any work begins, including time expectations and the main price factors such as complexity, out-of-hours attendance, and whether parts or repairs are required afterwards.</p>
+      <p>Because safe access can involve valuables, sensitive documents, or business-critical items, we also operate with clear authorisation and proof of ownership checks and offer discreet attendance across {{location}} and surrounding areas.</p>
     </div>
   </section>
 

@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/Locked out of house image.png";
 import lock from "../assets/services/Locked out of house.png";
@@ -27,39 +28,20 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Locked Out in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `24/7 Lockout Help in {{location}} • Non-Destructive Entry First • Keep Locks Working Where Possible • DBS Checked Technician • Upfront Price Before Work Begins.`}
+  points={["30–60 min response", "No call-out fee", "Back inside fast"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
     <!-- Top info bar -->
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">30–60 min response</span>
-        
-        <span class="px-3">No call-out fee</span>
-        
-        <span class="px-3">Back inside fast</span>
-        
-      </div>
-    </div>
-
     <!-- Main content -->
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+        <div class="w-full">
       <div>
-        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
-          Locked Out in {{location}}
-        </h1>
-
-        <p class="mt-4 text-gray-600 text-base">
-          {heroParagraph || `24/7 Lockout Help in {{location}} • Non-Destructive Entry First • Keep Locks Working Where Possible •
-          DBS Checked Technician • Upfront Price Before Work Begins.`}
-        </p>
-
         <!-- Feature cards -->
         <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div class="rounded-xl border border-gray-200 p-5">
@@ -109,45 +91,10 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
     </div>
   </div>
 </section>
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Emergency lockout service - professional locksmith assistance"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Locked Out in <span class="text-amber-400">{{location}}</span>?
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            Being locked out is stressful, especially when it happens at the worst possible time. If you're locked out in {{location}}, the priority is simple: get you back inside quickly, safely, and with as little disruption as possible. When faced with a locked door, it's important to keep the lock intact whenever possible, using non-destructive entry methods. A professional locksmith focuses on non-destructive entry first, uses the right method for your door and lock type, and gives you a clear idea of ETA and the main price factors before work starts.
-          </p>
-          <p>
-            Lockouts in {{location}} aren't always just "lost keys". It could be a door that's slammed shut, a key left inside, a snapped key, or a uPVC multipoint mechanism that's failed even though you've got the right key. The right approach depends on what's actually happened at the door. That's why a proper locksmith-led lockout service starts with a quick, practical diagnosis—then chooses the safest entry route. Calling a professional, insured locksmith is recommended for safe entry.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔑</span>
-            Emergency Lockout Help
-          </a>
-         
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>Being locked out is stressful, especially when it happens at the worst possible time. If you're locked out in {{location}}, the priority is simple: get you back inside quickly, safely, and with as little disruption as possible. When faced with a locked door, it's important to keep the lock intact whenever possible, using non-destructive entry methods. A professional locksmith focuses on non-destructive entry first, uses the right method for your door and lock type, and gives you a clear idea of ETA and the main price factors before work starts.</p>
+      <p>Lockouts in {{location}} aren't always just "lost keys". It could be a door that's slammed shut, a key left inside, a snapped key, or a uPVC multipoint mechanism that's failed even though you've got the right key. The right approach depends on what's actually happened at the door. That's why a proper locksmith-led lockout service starts with a quick, practical diagnosis—then chooses the safest entry route. Calling a professional, insured locksmith is recommended for safe entry.</p>
     </div>
   </section>
 

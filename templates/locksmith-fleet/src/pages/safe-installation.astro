@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/Safe installation.png";
 import lock from "../assets/services/floor_safe_installation.png";
@@ -26,34 +27,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Safe Installation in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Safe Installation Quotes in {{location}} • Choose Size and Fixing Method • Transparent Pricing • Written Quote Available • Secure Anchoring and Tidy Finish.`}
+  points={["Transparent pricing", "Written quote available", "Safe fixed securely"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3">Get a quote today</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">Transparent pricing</span>
-        
-        <span class="px-3">Written quote available</span>
-        
-        <span class="px-3">Safe fixed securely</span>
-        
-      </div>
-    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Safe Installation in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Safe Installation Quotes in {{location}} • Choose Size and Fixing Method • Transparent Pricing •
-      Written Quote Available • Secure Anchoring and Tidy Finish.`}
-        </p>
-
         <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">
         Secure safe installation in homes and businesses using suitable wall or floor fixings.
@@ -73,39 +59,10 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </div>
 </section>
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Professional safe installation and anchoring service"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Safe Installation in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            A security safe is only as good as the way it's fitted. Even a high-grade safe can become a "carry-out" target if it isn't anchored correctly, positioned sensibly, and installed into the right part of the building fabric. The position of the safe is crucial for both security and usability, ensuring it is accessible when needed but protected from easy discovery or removal. A professional safe installation in {{location}} is designed to do three things at once: reduce the chance of removal, reduce the chance of leverage attacks, and leave you with clear evidence of what's been installed and how it's been secured.
-          </p>
-          <p>
-            At {{name}}, safe installation is treated as a security project rather than a quick fix. That means starting with the right questions (what you're protecting and what risk you're designing against), choosing a location that balances concealment and practicality, and fixing the safe into a substrate that can actually hold it under attack. Where relevant, we also help you align the safe's rating and "cash rating" expectations with insurer requirements and insurance requirements, so you're not left with the wrong product in the wrong place or lacking coverage.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          
-        
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>A security safe is only as good as the way it's fitted. Even a high-grade safe can become a "carry-out" target if it isn't anchored correctly, positioned sensibly, and installed into the right part of the building fabric. The position of the safe is crucial for both security and usability, ensuring it is accessible when needed but protected from easy discovery or removal. A professional safe installation in {{location}} is designed to do three things at once: reduce the chance of removal, reduce the chance of leverage attacks, and leave you with clear evidence of what's been installed and how it's been secured.</p>
+      <p>At {{name}}, safe installation is treated as a security project rather than a quick fix. That means starting with the right questions (what you're protecting and what risk you're designing against), choosing a location that balances concealment and practicality, and fixing the safe into a substrate that can actually hold it under attack. Where relevant, we also help you align the safe's rating and "cash rating" expectations with insurer requirements and insurance requirements, so you're not left with the wrong product in the wrong place or lacking coverage.</p>
     </div>
   </section>
 

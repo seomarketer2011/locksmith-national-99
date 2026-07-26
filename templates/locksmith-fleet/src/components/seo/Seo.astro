@@ -36,7 +36,7 @@ const jsonLD = jsonLDGenerator({
   faqs,
 });
 
-const ogImage = image?.src || "/og.png";
+const ogImage = new URL(image?.src || "/og.png", Astro.site).toString();
 const ogImageAlt = image?.alt || "{{name}}";
 ---
 

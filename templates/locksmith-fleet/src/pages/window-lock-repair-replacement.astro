@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/window lock repair.png";
 import lock from "../assets/services/window lock replacement 1.png";
@@ -26,33 +27,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Window Lock Repair & Replacement in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Window Lock Options in {{location}} • Repair or Replace for Smooth Closing • Transparent Pricing • Written Quote Available • Clean Workmanship With Minimal Disruption.`}
+  points={["Transparent pricing", "Written quote available", "Windows lock securely"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3">Get a quote today</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">Transparent pricing</span>
-        
-        <span class="px-3">Written quote available</span>
-        
-        <span class="px-3">Windows lock securely</span>
-        
-      </div>
-    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Window Lock Repair & Replacement in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Window Lock Options in {{location}} • Repair or Replace for Smooth Closing • Transparent Pricing • Written Quote Available • Clean Workmanship With Minimal Disruption.`}
-        </p>
-
     <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">Repair or replace window locks for safe closing and ventilation.</div>
       <div class="border rounded-xl p-5">Parts matched to window type and tested for smooth operation.</div>
@@ -64,51 +51,12 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </div>
 </section>
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Professional window lock repair and replacement service"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Window Lock Repair & Replacement in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            A window that won't lock properly is more than an annoyance — it's a security risk, a comfort issue, and often the reason a window won't close cleanly. If your window won't lock, won't close, feels jammed or stiff, has a key stuck in the lock, or the handle has snapped or spins without engaging, the underlying problem is usually a worn mechanism, a failed gearbox, a broken spindle, or simple misalignment that stops the locking points meeting the keep.
-          </p>
-          <p>
-            Most modern uPVC windows are fitted with multi-point locking systems that attach at several points. These systems contain several moving parts that facilitate operation and can sometimes be the source of issues.
-          </p>
-          <p>
-            With window lock repair and replacement in {{location}}, the aim is always the same: restore smooth operation and secure engagement without unnecessary disruption. Repairs and replacements are designed to ensure your window lock provides reliable security and peace of mind. Many faults can be fixed by replacing a failed handle, adjusting alignment, changing the keep/striker plate, or swapping the internal locking mechanism — often without replacing the whole window. Where parts are beyond repair, the right replacement matched to your window type (commonly uPVC casements) gets you back to a window that closes firmly and locks confidently.
-          </p>
-          <p>
-            {{name}} focuses on practical outcomes: a window that pulls in, aligns, and locks properly, with sensible options when you've lost keys or can't turn the key at all. You'll get a clear "repair vs replace" recommendation, realistic lead times (including same-day options when possible), and workmanship that's checked before we leave — so the window doesn't just lock once, it keeps working reliably.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔒</span>
-            Call for Window Lock Repair
-          </a>
-        
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>A window that won't lock properly is more than an annoyance — it's a security risk, a comfort issue, and often the reason a window won't close cleanly. If your window won't lock, won't close, feels jammed or stiff, has a key stuck in the lock, or the handle has snapped or spins without engaging, the underlying problem is usually a worn mechanism, a failed gearbox, a broken spindle, or simple misalignment that stops the locking points meeting the keep.</p>
+      <p>Most modern uPVC windows are fitted with multi-point locking systems that attach at several points. These systems contain several moving parts that facilitate operation and can sometimes be the source of issues.</p>
+      <p>With window lock repair and replacement in {{location}}, the aim is always the same: restore smooth operation and secure engagement without unnecessary disruption. Repairs and replacements are designed to ensure your window lock provides reliable security and peace of mind. Many faults can be fixed by replacing a failed handle, adjusting alignment, changing the keep/striker plate, or swapping the internal locking mechanism — often without replacing the whole window. Where parts are beyond repair, the right replacement matched to your window type (commonly uPVC casements) gets you back to a window that closes firmly and locks confidently.</p>
+      <p>{{name}} focuses on practical outcomes: a window that pulls in, aligns, and locks properly, with sensible options when you've lost keys or can't turn the key at all. You'll get a clear "repair vs replace" recommendation, realistic lead times (including same-day options when possible), and workmanship that's checked before we leave — so the window doesn't just lock once, it keeps working reliably.</p>
     </div>
   </section>
 

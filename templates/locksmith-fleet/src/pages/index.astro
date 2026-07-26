@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import hero from "../assets/services/Broken key in lock.png"
 import lock from "../assets/services/broken_key in lock.png"
 import lock1 from "../assets/services/Lockpicking locksmith.png"
@@ -64,40 +65,21 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="photo"
+  titlePre="Locksmith in"
+  titleHighlight="{{location}}"
+  titlePost=" — at your door in 30–60 minutes"
+  sub={heroParagraph}
+  points={["Non-destructive entry first", "Price confirmed before any work starts", "No call-out fee, ever"]}
+  image={hero}
+  imageAlt={`Professional locksmith service in {{location}}`}
+/>
+
 <section class="w-full bg-white">
-  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <!-- Top info bar -->
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3 text-gray-900">Call Us 24/7</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">Rapid Response (30–60 Mins)</span>
-        
-        <span class="px-3">No Call-Out Fee</span>
-        
-        <span class="px-3">24/7 Locksmith Help</span>
-        
-      </div>
-    </div>
-
-    <!-- Main content -->
-    <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
-      <div>
-        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
-          Local Locksmith in {{location}}
-        </h1>
-
-        <p class="mt-4 text-gray-600 text-base">
-          {heroParagraph}
-        </p>
-
+  <div class="max-w-6xl mx-auto px-4 py-12">
         <!-- Feature cards -->
-        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           <div class="rounded-xl border border-gray-200 p-5">
             <h3 class="font-semibold text-gray-900">
               24/7 Emergency Locksmith Help
@@ -134,84 +116,11 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
             </p>
           </div>
         </div>
-
-        <!-- CTA -->
-        <button
-          class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4"
-        >
-        <a  href="tel:{{phone_tel}}">
-          Call Now for Locksmith
-        </a>
-         
-        </button>
-      </div>
-    </div>
   </div>
 </section>
-  <!-- Hero Section with Background Image -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <!-- Background Image + Gradient Overlay -->
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt={`Professional locksmith service in {{location}}`}
-        width={1200}
-        height={600}
-        loading="eager"
-        fetchpriority="high"
-        class="w-full h-full object-cover brightness-75 contrast-125"
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/60 via-neutral-900/40 to-amber-500/20"></div>
-    </div>
-  
-    <!-- Hero Content -->
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-        
-        <!-- Text Section -->
-        <div class="space-y-6">
-          <h2 class="text-4xl md:text-6xl lg:text-7xl font-extrabold leading-tight">
-            Locksmith in <span class="text-amber-400">{{location}}</span>
-          </h2>
-          <p class="text-2xl font-semibold text-amber-300">Local Locksmithing Services</p>
-  
-          <div class="mt-6 text-lg text-neutral-300 leading-relaxed space-y-4">
-            <p>
-              Locked out? Key snapped? Need your locks changed today? {{name}} is a trusted locksmith company providing a fast, professional locksmith service in {{location}} for homes and businesses. As a leading local locksmith company, we are committed to delivering reliable and high-quality security solutions.
-            </p>
-            <p>
-              The locksmith industry is vast and ever-growing, covering domestic and commercial service to meet a wide range of security needs.
-            </p>
-            <p>
-              From emergency call-outs to planned lock upgrades, we aim to get you secure again quickly—with clear communication and practical advice. Our comprehensive services include all locksmith expertise. We are dedicated to enhancing your home security with expert assessments and the latest security products.
-            </p>
-          </div>
-  
-          <!-- Buttons -->
-          <div class="mt-10 flex flex-col sm:flex-row gap-4">
-            <a
-              href="tel:{{phone_tel}}"
-              class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-2xl font-bold text-lg shadow-lg hover:bg-amber-400 transition-all duration-300 hover:scale-[1.03] hover:shadow-amber-500/30"
-            >
-              <span class="text-xl">📞</span>
-              Call Emergency 24/7
-            </a>
-         
-          </div>
-        </div>
-  
-   
-  
-      </div>
-    </div>
-  </section>
-  
-
-  <!-- Trust Indicators -->
- 
 
   <!-- Locksmith services we offer in [location] -->
-  <section class="py-24 bg-white">
+  <section id="services" class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-6">
       <div class="max-w-4xl mx-auto text-center">
         <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">

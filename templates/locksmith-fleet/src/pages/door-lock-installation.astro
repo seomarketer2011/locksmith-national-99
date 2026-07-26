@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/Door lock installation 1.png";
 import lock from "../assets/services/Door lock installtion.png";
@@ -28,39 +29,20 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   description={metaDescription}
 >
 <!-- Door Lock Installation Hero Section (Tailwind CSS) -->
+<Hero
+  variant="light"
+  titlePre="Door Lock Installation in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Get Options and Transparent Pricing in {{location}} • New Lock Installation to Suit Your Door • Neat Finish • Written Quote Available • Work Guaranteed.`}
+  points={["Transparent pricing", "Written quote available", "Upgrade security properly"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
     <!-- Top info bar -->
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3 text-gray-900">Get a quote today</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">Transparent pricing</span>
-        
-        <span class="px-3">Written quote available</span>
-        
-        <span class="px-3">Upgrade security properly</span>
-        
-      </div>
-    </div>
-
     <!-- Main content -->
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+        <div class="w-full">
       <div>
-        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
-          Door Lock Installation in {{location}}
-        </h1>
-
-        <p class="mt-4 text-gray-600 text-base">
-          {heroParagraph || `Get Options and Transparent Pricing in {{location}} • New Lock Installation to Suit Your Door •
-          Neat Finish • Written Quote Available • Work Guaranteed.`}
-        </p>
-
         <!-- Feature cards -->
         <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div class="rounded-xl border border-gray-200 p-5">
@@ -107,54 +89,13 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   </div>
 </section>
 
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Professional door lock installation service"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Door Lock Installation in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            A properly fitted lock should do two things at once: make the door secure, and make it effortless to use every day. Door lock installation in {{location}} isn't just "swap the cylinder and go" — it's matching the right lock to the right door, measuring correctly, fitting cleanly, and leaving you with a smooth action that won't start sticking a week later. Changing locks is a key step for home security, especially when moving into a new house, as it helps ensure that only you have access to your property.
-          </p>
-          <p>
-            {{name}} provides door lock installation, lock replacement and lock upgrades for homes and small commercial premises. That includes euro cylinder fitting and correct sizing, uPVC multipoint lock installation, timber mortice lock installation, and emergency lock fitting after break-ins or damage. Where it makes sense, we can improve security at the same time with anti-snap cylinders, upgraded handles and other options designed to reduce common attack methods like snapping, drilling and picking. Our installation service provides extra security and peace of mind, and is recommended for those without DIY experience, especially for complex or high-security locks.
-          </p>
-          <p>
-            Most problems we see in the real world come down to compatibility: the wrong cylinder length, the wrong centre measurement on a multipoint system, a tired gearbox, or a door that's dropped slightly and is forcing the lock to bind. That's why every job starts with straightforward checks and accurate measurements (including the cylinder length, backset, the door's edge, and relevant door/lock dimensions), as well as considering the door's surface for proper lock fit, before anything is fitted.
-          </p>
-          <p>
-            You'll also get clear expectations around price factors (lock grade, door type, urgency and any making-good), and a clean handover: the lock tested, keys checked, and documentation available where you need it for a landlord, insurer, or facilities file.
-          </p>
-          <p>
-            Hiring an MLA-approved locksmith ensures the lock is installed to a high standard, providing peace of mind and maximum security.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔧</span>
-            Call for Installation Quote
-          </a>
-     
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>A properly fitted lock should do two things at once: make the door secure, and make it effortless to use every day. Door lock installation in {{location}} isn't just "swap the cylinder and go" — it's matching the right lock to the right door, measuring correctly, fitting cleanly, and leaving you with a smooth action that won't start sticking a week later. Changing locks is a key step for home security, especially when moving into a new house, as it helps ensure that only you have access to your property.</p>
+      <p>{{name}} provides door lock installation, lock replacement and lock upgrades for homes and small commercial premises. That includes euro cylinder fitting and correct sizing, uPVC multipoint lock installation, timber mortice lock installation, and emergency lock fitting after break-ins or damage. Where it makes sense, we can improve security at the same time with anti-snap cylinders, upgraded handles and other options designed to reduce common attack methods like snapping, drilling and picking. Our installation service provides extra security and peace of mind, and is recommended for those without DIY experience, especially for complex or high-security locks.</p>
+      <p>Most problems we see in the real world come down to compatibility: the wrong cylinder length, the wrong centre measurement on a multipoint system, a tired gearbox, or a door that's dropped slightly and is forcing the lock to bind. That's why every job starts with straightforward checks and accurate measurements (including the cylinder length, backset, the door's edge, and relevant door/lock dimensions), as well as considering the door's surface for proper lock fit, before anything is fitted.</p>
+      <p>You'll also get clear expectations around price factors (lock grade, door type, urgency and any making-good), and a clean handover: the lock tested, keys checked, and documentation available where you need it for a landlord, insurer, or facilities file.</p>
+      <p>Hiring an MLA-approved locksmith ensures the lock is installed to a high standard, providing peace of mind and maximum security.</p>
     </div>
   </section>
 

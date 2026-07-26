@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import hero from "../assets/services/Door lock installation 1.png"
 import lock from "../assets/services/Door lock installtion.png"
 import { Image } from "astro:assets";
@@ -24,33 +25,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Door Lock Replacement in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Book Today, Replacement Fitted Today in {{location}} • New Locks Supplied and Installed • Tidy Finish • Parts Carried • Quote Confirmed Before We Begin.`}
+  points={["No call-out fee", "Upfront quote before work", "Secure lock fitted"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3">Same-day service</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">No call-out fee</span>
-        
-        <span class="px-3">Upfront quote before work</span>
-        
-        <span class="px-3">Secure lock fitted</span>
-        
-      </div>
-    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Door Lock Replacement in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Book Today, Replacement Fitted Today in {{location}} • New Locks Supplied and Installed • Tidy Finish • Parts Carried • Quote Confirmed Before We Begin.`}
-        </p>
-
     <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">Replace worn or damaged locks with secure new hardware.</div>
       <div class="border rounded-xl p-5">Old lock removed cleanly, new unit fitted precisely and aligned.</div>
@@ -63,54 +50,14 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </section>
 
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image 
-        src={hero} 
-        alt="Professional door lock replacement service"
-        class="w-full h-full object-cover opacity-30" width={1200} height={600} loading="eager" fetchpriority="high" />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl mx-left text-left">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Door Lock Replacement in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            If your door lock is sticking, your keys have gone missing, you've just moved home, or you're upgrading security after an attempted break-in, a proper door lock replacement is about more than swapping a barrel. The right solution depends on what type of lock you have (euro cylinder, mortice sashlock/deadlock, nightlatch, or a uPVC/composite multipoint system), what door it's fitted to (uPVC, composite, timber, aluminium), and what level of security you need for everyday peace of mind and insurance expectations. There is a wide range of door types and lock mechanisms available for different applications, including both domestic and commercial settings, so selecting the right lock for your specific door is crucial. In {{location}}, most replacements can be completed in a single visit once the lock type and measurements are confirmed, with options ranging from straightforward cylinder changes to gearbox or full multipoint repairs where the mechanism has failed.
-          </p>
-          <p>
-            Common lock types include euro lock cylinders, mortice locks, and night latches, which are frequently used on both front and back doors. Euro-lock cylinders are very popular and found on many different types of door locks and security applications. Night latches are also a common choice for front and back doors, offering convenience and security.
-          </p>
-          <p>
-            Mortice locks are normally fitted inside the door and are difficult to pick open.
-          </p>
-          <p>
-            A well-specified replacement should also improve resistance to common attack methods. Door locks and bolts are essential components for enhancing the security and privacy of any property. That often means choosing a cylinder with anti-snap, anti-bump, anti-pick and anti-drill performance—anti-snap euro cylinder locks have a much higher security rating because they cannot be picked—and ensuring it works as part of a complete door-set: the cylinder, handle, escutcheon/guard, keeps and alignment all matter. Durability and different levels of security are important factors to consider when selecting a lock, as higher security and more durable locks provide better long-term protection. Bolts and lock mechanisms are integral to the security of both front and back doors, and certain locks are designed to carry or support specific security features, such as those meeting BS3621 standards.
-          </p>
-          <p>
-            If you need an urgent fix, emergency and same-day replacements can secure the property quickly, including temporary securing after a break-in and careful consideration of whether a non-destructive approach is possible. After a break-in, it is important to secure both doors and windows to restore safety. If it's a planned upgrade, you can take the time to balance security, convenience and cost, including keyed-alike sets, thumbturn options, restricted keys, and smart lock retrofits.
-          </p>
-          <p>
-            Multi-point locking systems are designed to provide robust security for doors. British Standard locks are certified by the BSI and are stronger and more secure than non-British Standard locks. If you have just moved into a new home, the first thing to do is change your door locks.
-          </p>
-        </div>
-        
-        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔒</span>
-            Call for Replacement Quote
-          </a>
-       
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>If your door lock is sticking, your keys have gone missing, you've just moved home, or you're upgrading security after an attempted break-in, a proper door lock replacement is about more than swapping a barrel. The right solution depends on what type of lock you have (euro cylinder, mortice sashlock/deadlock, nightlatch, or a uPVC/composite multipoint system), what door it's fitted to (uPVC, composite, timber, aluminium), and what level of security you need for everyday peace of mind and insurance expectations. There is a wide range of door types and lock mechanisms available for different applications, including both domestic and commercial settings, so selecting the right lock for your specific door is crucial. In {{location}}, most replacements can be completed in a single visit once the lock type and measurements are confirmed, with options ranging from straightforward cylinder changes to gearbox or full multipoint repairs where the mechanism has failed.</p>
+      <p>Common lock types include euro lock cylinders, mortice locks, and night latches, which are frequently used on both front and back doors. Euro-lock cylinders are very popular and found on many different types of door locks and security applications. Night latches are also a common choice for front and back doors, offering convenience and security.</p>
+      <p>Mortice locks are normally fitted inside the door and are difficult to pick open.</p>
+      <p>A well-specified replacement should also improve resistance to common attack methods. Door locks and bolts are essential components for enhancing the security and privacy of any property. That often means choosing a cylinder with anti-snap, anti-bump, anti-pick and anti-drill performance—anti-snap euro cylinder locks have a much higher security rating because they cannot be picked—and ensuring it works as part of a complete door-set: the cylinder, handle, escutcheon/guard, keeps and alignment all matter. Durability and different levels of security are important factors to consider when selecting a lock, as higher security and more durable locks provide better long-term protection. Bolts and lock mechanisms are integral to the security of both front and back doors, and certain locks are designed to carry or support specific security features, such as those meeting BS3621 standards.</p>
+      <p>If you need an urgent fix, emergency and same-day replacements can secure the property quickly, including temporary securing after a break-in and careful consideration of whether a non-destructive approach is possible. After a break-in, it is important to secure both doors and windows to restore safety. If it's a planned upgrade, you can take the time to balance security, convenience and cost, including keyed-alike sets, thumbturn options, restricted keys, and smart lock retrofits.</p>
+      <p>Multi-point locking systems are designed to provide robust security for doors. British Standard locks are certified by the BSI and are stronger and more secure than non-British Standard locks. If you have just moved into a new home, the first thing to do is change your door locks.</p>
     </div>
   </section>
 

@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/Broken key in lock.png";
 import lock from "../assets/services/Broken key in lock.png";
@@ -28,40 +29,21 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 >
   <!-- Hero Section -->
    <!-- Broken Key Removal Hero Section (Tailwind CSS) -->
+<Hero
+  variant="light"
+  titlePre="Broken Key Removal in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `24/7 Rapid Key Extraction Across {{location}} • Protect Cylinders • Damage-Free Techniques • DBS Checked Technician • Fully Insured • Upfront Price Before Work Begins.`}
+  points={["30–60 min response", "No call-out fee", "Lock saved today"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
     <!-- Top info bar -->
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">30–60 min response</span>
-        
-        <span class="px-3">No call-out fee</span>
-        
-        <span class="px-3">Lock saved today</span>
-        
-      </div>
-    </div>
-
     <!-- Main grid -->
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+        <div class="w-full">
       <!-- Left content -->
       <div>
-        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
-          Broken Key Removal in {{location}}
-        </h1>
-
-        <p class="mt-4 text-gray-600 text-base">
-          {heroParagraph || `24/7 Rapid Key Extraction Across {{location}} • Protect Cylinders • Damage-Free Techniques •
-          DBS Checked Technician • Fully Insured • Upfront Price Before Work Begins.`}
-        </p>
-
         <!-- Feature cards -->
         <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div class="rounded-xl border border-gray-200 p-5">
@@ -132,47 +114,11 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   </div>
 </section>
 
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Emergency broken key removal service for snapped keys in locks"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Broken Key Removal in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            A snapped key is one of those problems that instantly becomes urgent — especially if you're locked out, the door won't secure properly, or the broken piece is jammed deep inside the lock. Broken key removal is about more than simply "pulling it out": the best outcome is safe extraction with minimal damage, while also avoiding further damage to the lock during the process, restoring smooth operation, and confirming whether the lock is still reliable afterwards.
-          </p>
-          <p>
-            In {{location}}, {{name}} provides emergency broken key extraction for common UK lock types, including uPVC doors with Euro cylinders and multi-point locking, mortice locks on timber doors, and night latches. The first step is a quick assessment of what's happened: whether the broken key is protruding or flush/buried, whether the lock is stiff or jammed, and whether the door is locked from inside or a key is left in the back. These details change the method, the time on site, and sometimes whether a cylinder replacement is the sensible next step. Various methods may be used depending on the situation, and selecting the best method is crucial for a successful outcome.
-          </p>
-          <p>
-            Where possible, extraction is done using non-destructive techniques and a drill-last approach. Specialist tools are used for safe and efficient removal, and having the necessary tools is essential for effective broken key removal. Once the fragment is removed, the lock is tested for smooth turning, alignment, and any internal damage (pins, cam, boltwork) that could cause another break or a future lockout. If a replacement is needed, it's usually the cylinder rather than the whole lock, and there are options that improve security and reduce the risk of repeat failures.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔑</span>
-            Emergency Key Extraction
-          </a>
-       
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>A snapped key is one of those problems that instantly becomes urgent — especially if you're locked out, the door won't secure properly, or the broken piece is jammed deep inside the lock. Broken key removal is about more than simply "pulling it out": the best outcome is safe extraction with minimal damage, while also avoiding further damage to the lock during the process, restoring smooth operation, and confirming whether the lock is still reliable afterwards.</p>
+      <p>In {{location}}, {{name}} provides emergency broken key extraction for common UK lock types, including uPVC doors with Euro cylinders and multi-point locking, mortice locks on timber doors, and night latches. The first step is a quick assessment of what's happened: whether the broken key is protruding or flush/buried, whether the lock is stiff or jammed, and whether the door is locked from inside or a key is left in the back. These details change the method, the time on site, and sometimes whether a cylinder replacement is the sensible next step. Various methods may be used depending on the situation, and selecting the best method is crucial for a successful outcome.</p>
+      <p>Where possible, extraction is done using non-destructive techniques and a drill-last approach. Specialist tools are used for safe and efficient removal, and having the necessary tools is essential for effective broken key removal. Once the fragment is removed, the lock is tested for smooth turning, alignment, and any internal damage (pins, cam, boltwork) that could cause another break or a future lockout. If a replacement is needed, it's usually the cylinder rather than the whole lock, and there are options that improve security and reduce the risk of repeat failures.</p>
     </div>
   </section>
 

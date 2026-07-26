@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import hero from "../assets/services/Broken lock repair.png"
 import lock from "../assets/services/door handle repair.png"
 import { Image } from "astro:assets";
@@ -24,33 +25,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle}
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Door Lock Repair in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Same-Day Door Lock Repair in {{location}} • Restore Smooth Operation • Correct Alignment and Security Checks • Parts Carried • Upfront Quote Before Work Starts.`}
+  points={["No call-out fee", "Upfront quote before work", "Smooth locking restored"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3">Same-day service</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">No call-out fee</span>
-        
-        <span class="px-3">Upfront quote before work</span>
-        
-        <span class="px-3">Smooth locking restored</span>
-        
-      </div>
-    </div>
-        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Door Lock Repair in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Same-Day Door Lock Repair in {{location}} • Restore Smooth Operation • Correct Alignment and Security Checks • Parts Carried • Upfront Quote Before Work Starts.`}
-        </p>
-
     <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">Repair stiff, loose, or failing locks to restore reliable locking.</div>
       <div class="border rounded-xl p-5">Diagnose faults, adjust alignment, replace worn parts, and test full cycle.</div>
@@ -63,42 +50,10 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </section>
 
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero} 
-        alt="Professional door lock repair service"
-        class="w-full h-full object-cover opacity-30" width={1200} height={600} loading="eager" fetchpriority="high" />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl mx-left text-left">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Door Lock Repair <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            If your door lock is jammed, your key won't turn, or the door won't lock properly, you need a repair that restores security fast — without guesswork. We provide door lock repair in {{location}} for homes, flats and businesses, with practical solutions for common lock faults and a clear explanation of what's needed.
-          </p>
-          <p>
-            Whether it's a quick adjustment, a replacement part, or a security upgrade after a break-in, we'll help you get the door working smoothly again and make sure the property is properly secured.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4 justify-left">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🔧</span>
-            Call for Repair Service
-          </a>
-         
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>If your door lock is jammed, your key won't turn, or the door won't lock properly, you need a repair that restores security fast — without guesswork. We provide door lock repair in {{location}} for homes, flats and businesses, with practical solutions for common lock faults and a clear explanation of what's needed.</p>
+      <p>Whether it's a quick adjustment, a replacement part, or a security upgrade after a break-in, we'll help you get the door working smoothly again and make sure the property is properly secured.</p>
     </div>
   </section>
 

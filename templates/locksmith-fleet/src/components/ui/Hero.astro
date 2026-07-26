@@ -1,0 +1,130 @@
+---
+import { Image } from "astro:assets";
+
+// One hero for every page: H1 + subhead + proof points on the left, the
+// dispatch card on the right. Two skins share the skeleton — the homepage
+// wears the dark photo treatment, service pages the light one.
+interface Props {
+  variant?: "photo" | "light";
+  titlePre: string;
+  titleHighlight?: string;
+  titlePost?: string;
+  sub: string;
+  points?: string[];
+  image?: any;
+  imageAlt?: string;
+}
+
+const {
+  variant = "light",
+  titlePre,
+  titleHighlight = "",
+  titlePost = "",
+  sub,
+  points = [],
+  image = null,
+  imageAlt = "",
+} = Astro.props;
+
+const isPhoto = variant === "photo";
+---
+
+<section class={isPhoto ? "relative bg-neutral-900 text-white overflow-hidden" : "bg-stone-50 border-b border-stone-200"}>
+  {isPhoto && image && (
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={image}
+        alt={imageAlt}
+        width={1600}
+        height={800}
+        loading="eager"
+        fetchpriority="high"
+        class="w-full h-full object-cover brightness-[.45]"
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/80 via-neutral-900/50 to-amber-500/10"></div>
+    </div>
+  )}
+
+  <div class="relative z-10 max-w-6xl mx-auto px-6 py-14 lg:py-20 grid grid-cols-1 lg:grid-cols-[1.35fr_1fr] gap-10 items-start">
+    <div>
+      <h1 class={`leading-tight [text-wrap:balance] ${isPhoto ? "text-4xl md:text-5xl lg:text-6xl font-extrabold" : "text-4xl md:text-5xl font-bold text-neutral-900"}`}>
+        {titlePre}
+        <span class={isPhoto ? "text-amber-400" : "[background:linear-gradient(transparent_62%,#fcd34d_62%)]"}>{titleHighlight}</span>
+        {titlePost && <span>{titlePost}</span>}
+      </h1>
+
+      <p class={`mt-5 text-base md:text-lg max-w-2xl ${isPhoto ? "text-neutral-300" : "text-stone-600"}`}>
+        {sub}
+      </p>
+
+      {points.length > 0 && (isPhoto ? (
+        <ul class="mt-6 space-y-2">
+          {points.map((p) => (
+            <li class="text-neutral-100">
+              <span class="text-amber-400 font-bold mr-2">✓</span>{p}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <div class="mt-6 flex flex-wrap gap-2">
+          {points.map((p) => (
+            <span class="bg-white border border-stone-200 text-stone-700 text-sm font-semibold rounded-full px-3.5 py-1.5">✓ {p}</span>
+          ))}
+        </div>
+      ))}
+
+      {isPhoto && (
+        <div class="mt-8 flex flex-col sm:flex-row gap-3">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-2 bg-amber-500 text-neutral-900 px-7 py-3.5 rounded-xl font-bold text-lg hover:bg-amber-400 transition-colors"
+          >
+            📞 Call {{phone}}
+          </a>
+          <a
+            href="#services"
+            class="inline-flex items-center justify-center gap-2 border-2 border-white/40 text-white px-6 py-3.5 rounded-xl font-semibold hover:bg-white/10 transition-colors"
+          >
+            See all services
+          </a>
+        </div>
+      )}
+    </div>
+
+    <aside class={`rounded-2xl p-6 ${isPhoto ? "bg-white/5 border border-white/15 backdrop-blur-sm" : "bg-neutral-900"}`}>
+      <h2 class="text-amber-400 text-xs font-bold uppercase tracking-widest mb-5">What happens when you call</h2>
+
+      <div class="space-y-4">
+        <div class="flex gap-3">
+          <span class="flex-none w-6 h-6 rounded-full bg-amber-500 text-neutral-900 font-extrabold text-xs flex items-center justify-center">1</span>
+          <p class={`text-sm leading-relaxed ${isPhoto ? "text-neutral-300" : "text-neutral-400"}`}>
+            <strong class="text-white font-semibold">Tell us what's happened.</strong> Lockout, snapped key, break-in — 30 seconds is enough.
+          </p>
+        </div>
+        <div class="flex gap-3">
+          <span class="flex-none w-6 h-6 rounded-full bg-amber-500 text-neutral-900 font-extrabold text-xs flex items-center justify-center">2</span>
+          <p class={`text-sm leading-relaxed ${isPhoto ? "text-neutral-300" : "text-neutral-400"}`}>
+            <strong class="text-white font-semibold">Get an ETA on the spot.</strong> Usually 30–60 minutes anywhere in {{location}}.
+          </p>
+        </div>
+        <div class="flex gap-3">
+          <span class="flex-none w-6 h-6 rounded-full bg-amber-500 text-neutral-900 font-extrabold text-xs flex items-center justify-center">3</span>
+          <p class={`text-sm leading-relaxed ${isPhoto ? "text-neutral-300" : "text-neutral-400"}`}>
+            <strong class="text-white font-semibold">Fixed price before work starts.</strong> You approve it, then we begin.
+          </p>
+        </div>
+      </div>
+
+      <a
+        href="tel:{{phone_tel}}"
+        class="mt-6 flex items-center justify-center gap-2 bg-amber-500 hover:bg-amber-400 transition-colors text-neutral-900 font-bold rounded-xl py-3.5"
+      >
+        📞 Call {{phone}}
+      </a>
+
+      <p class={`mt-4 pt-4 border-t text-xs text-center ${isPhoto ? "border-white/15 text-neutral-400" : "border-white/15 text-neutral-500"}`}>
+        No call-out fee · <span class="text-amber-400 font-semibold">You pay only for the work</span>
+      </p>
+    </aside>
+  </div>
+</section>

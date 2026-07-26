@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import Hero from "../components/ui/Hero.astro";
 import { Image } from "astro:assets";
 import hero from "../assets/services/door repair.png";
 import lock from "../assets/services/door repairs.png";
@@ -27,33 +28,19 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
   title={metaTitle},
   description={metaDescription}
 >
+<Hero
+  variant="light"
+  titlePre="Door Repairs in"
+  titleHighlight="{{location}}"
+  sub={heroParagraph || `Transparent Pricing for Door Repairs in {{location}} • Identify the Cause • Repair or Replace as Needed • Written Quote Available • Neat Workmanship Throughout.`}
+  points={["Transparent pricing", "Written quote available", "Door closing correctly"]}
+/>
+
 <section class="w-full bg-white">
   <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
-    <div class="flex justify-left mb-8">
-      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
-        
-        <span class="font-semibold px-3">Get a quote today</span>
-        
-        <span class="font-semibold text-amber-500 px-3">
-          {{phone}}
-        </span>
-        
-        <span class="px-3">Transparent pricing</span>
-        
-        <span class="px-3">Written quote available</span>
-        
-        <span class="px-3">Door closing correctly</span>
-        
-      </div>
-    </div>
-    <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+    <div class="w-full">
       <!-- Left content -->
       <div>
-    <h1 class="text-4xl font-bold">Door Repairs in {{location}}</h1>
-    <p class="mt-4 text-gray-600">
-          {heroParagraph || `Transparent Pricing for Door Repairs in {{location}} • Identify the Cause • Repair or Replace as Needed • Written Quote Available • Neat Workmanship Throughout.`}
-        </p>
-
     <div class="mt-8 grid sm:grid-cols-2 gap-4">
       <div class="border rounded-xl p-5">Repair doors that stick, drop, or don’t close properly.</div>
       <div class="border rounded-xl p-5">Correct hinges, frames, and keeps for proper sealing.</div>
@@ -66,48 +53,11 @@ const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) 
 </div>
 </section>
 
-  <!-- Hero Section -->
-  <section class="relative bg-neutral-900 text-white overflow-hidden">
-    <div class="absolute inset-0 z-0">
-      <Image
-        src={hero}
-        alt="Professional door repair service for uPVC, composite, and timber doors"
-        class="w-full h-full object-cover opacity-30"
-        width={1944}
-        height={800}
-      />
-      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
-    </div>
-    
-    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
-      <div class="max-w-3xl">
-        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-          Door Repair in <span class="text-amber-400">{{location}}</span>
-        </h2>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            A door that won’t lock, won’t close properly, or suddenly starts catching can turn into a security risk fast. In many cases, the problem isn’t the whole door — it’s alignment, a worn hinge, a failed euro cylinder, or a multipoint mechanism that’s started to bind. The right repair restores smooth closing, reliable locking, and a proper seal, without pushing you into an unnecessary replacement. For readers seeking guidance, expert advice is available to help you understand the best solutions for your door repair needs.
-          </p>
-          <p>
-            This Door Repairs service for {{location}} focuses on the faults that cause most call-outs: doors that won’t lock, doors that won’t close, stiff keys, dropped uPVC doors, broken handles and spindles, and multipoint locks that won’t engage. Repairs typically include adjustment and realignment, hinge work, handle and lock replacement, frame and threshold fixes, and draught-proofing (seals, gaskets, and weathering). Where there’s been a break-in attempt or the door won’t secure at all, the priority is making the property safe and restoring a dependable lock-up. Dedicated support is provided to all customers, including commercial and multi-site clients, ensuring tailored solutions for restaurants, offices, hotels, and more.
-          </p>
-          <p>
-            You’ll also get straightforward guidance on repair vs replacement, realistic timescales, and the main price factors (door type, parts required, urgency, and the severity of the fault). When parts are needed — such as a multipoint strip or a specific gearbox — the approach is to diagnose accurately first, then fit the right component, and finish with proper testing: close, latch, lock, and seal. All repairs are guaranteed for your peace of mind, and the efficient, streamlined process ensures minimal disruption. The service offers great value, combining affordability with high-quality workmanship, and repairing your door can help you save money by avoiding unnecessary replacements.
-          </p>
-        </div>
-        
-        <div class="mt-12 flex flex-col sm:flex-row gap-4">
-          <a
-            href="tel:{{phone_tel}}"
-            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
-          >
-            <span class="text-xl">🚪</span>
-            Call for Emergency Door Repair
-          </a>
-     
-        </div>
-      </div>
+  <section class="py-12 bg-white">
+    <div class="max-w-4xl mx-auto px-6 space-y-4 text-lg text-neutral-700">
+      <p>A door that won’t lock, won’t close properly, or suddenly starts catching can turn into a security risk fast. In many cases, the problem isn’t the whole door — it’s alignment, a worn hinge, a failed euro cylinder, or a multipoint mechanism that’s started to bind. The right repair restores smooth closing, reliable locking, and a proper seal, without pushing you into an unnecessary replacement. For readers seeking guidance, expert advice is available to help you understand the best solutions for your door repair needs.</p>
+      <p>This Door Repairs service for {{location}} focuses on the faults that cause most call-outs: doors that won’t lock, doors that won’t close, stiff keys, dropped uPVC doors, broken handles and spindles, and multipoint locks that won’t engage. Repairs typically include adjustment and realignment, hinge work, handle and lock replacement, frame and threshold fixes, and draught-proofing (seals, gaskets, and weathering). Where there’s been a break-in attempt or the door won’t secure at all, the priority is making the property safe and restoring a dependable lock-up. Dedicated support is provided to all customers, including commercial and multi-site clients, ensuring tailored solutions for restaurants, offices, hotels, and more.</p>
+      <p>You’ll also get straightforward guidance on repair vs replacement, realistic timescales, and the main price factors (door type, parts required, urgency, and the severity of the fault). When parts are needed — such as a multipoint strip or a specific gearbox — the approach is to diagnose accurately first, then fit the right component, and finish with proper testing: close, latch, lock, and seal. All repairs are guaranteed for your peace of mind, and the efficient, streamlined process ensures minimal disruption. The service offers great value, combining affordability with high-quality workmanship, and repairing your door can help you save money by avoiding unnecessary replacements.</p>
     </div>
   </section>
 
