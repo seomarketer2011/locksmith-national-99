@@ -5,15 +5,15 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
 ---
 
 <MainLayout
-  title={`Contact Us | Emergency Locksmith Services in {{location}} | Locksmith`}
-  description={`Contact {{name}} for emergency lockout service, lock changes, and security upgrades in {{location}}. 24/7 availability, fast response times, professional locksmith services.`}
+  title={`Contact Us - {{name}}`}
+  description={`Get in touch with {{name}} in {{location}}. Call us 24/7, or use our contact details to book lock changes, repairs and security upgrades.`}
 >
   <!-- Hero Section -->
   <section class="relative bg-neutral-900 text-white overflow-hidden">
     <div class="absolute inset-0 z-0">
       <Image
         src={contactHero}
-        alt="Contact professional locksmith services"
+        alt="Contact {{name}} in {{location}}"
         class="w-full h-full object-cover opacity-30"
         width={1944}
         height={800}
@@ -29,10 +29,10 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
         
         <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
           <p>
-            Need emergency lockout assistance, lock changes, or security upgrades in {{location}}? We're here to help 24/7. Whether you're locked out, need new locks installed, or want to upgrade your security, our professional locksmiths provide fast, reliable service with minimal disruption.
+            Locked out, need locks changed, or planning a security upgrade in {{location}}? We're here to help 24/7. Whatever the job, our professional locksmiths provide fast, reliable service with minimal disruption.
           </p>
           <p>
-            For urgent assistance, call our emergency line directly. For general inquiries or to schedule non-emergency services, you can use our contact form, email us, or give us a call during business hours.
+            For urgent help, call us directly any time of day or night. For general inquiries or to book a visit, you can use our contact form, email us, or give us a call.
           </p>
         </div>
         
@@ -42,7 +42,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
             class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
           >
             <span class="text-xl">📞</span>
-            Emergency Call: {{phone}}
+            Call Us 24/7: {{phone}}
           </a>
         </div>
       </div>
@@ -66,10 +66,10 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
               <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
                 <span class="text-3xl text-amber-600">📞</span>
               </div>
-              <h3 class="text-2xl font-bold text-neutral-900 mb-4">Emergency & Business Hours</h3>
+              <h3 class="text-2xl font-bold text-neutral-900 mb-4">Call Us 24/7</h3>
               <div class="space-y-3">
                 <div>
-                  <p class="text-lg font-semibold text-amber-600">24/7 Emergency Line</p>
+                  <p class="text-lg font-semibold text-amber-600">Our line is open day and night, including emergency call-outs</p>
                   <a href={`tel:{{phone_tel}}`} class="text-xl font-bold text-neutral-900 hover:text-amber-600 transition-colors">
                     {{phone}}
                   </a>
@@ -78,7 +78,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
                   <p class="text-neutral-600">Business Hours:</p>
                   <p class="font-medium">Monday - Sunday: 24hrs</p>
     
-                  <p class="text-sm text-neutral-500 mt-2">*Emergency service available 24/7</p>
+                  <p class="text-sm text-neutral-500 mt-2">*Open 24 hours, every day of the year</p>
                 </div>
               </div>
             </div>
@@ -111,8 +111,8 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
               <div class="flex items-start gap-3">
                 <span class="text-amber-400 mt-1">✓</span>
                 <div>
-                  <p class="font-medium">24/7 Emergency Service</p>
-                  <p class="text-neutral-300 text-sm">Always available when you need us most</p>
+                  <p class="font-medium">Available 24/7</p>
+                  <p class="text-neutral-300 text-sm">Always there when you need us most</p>
                 </div>
               </div>
   
@@ -156,7 +156,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
               </div>
               <div class="bg-white/20 backdrop-blur-sm rounded-xl p-4 text-center">
                 <p class="text-2xl font-bold">24/7</p>
-                <p class="text-sm">Emergency<br>Service</p>
+                <p class="text-sm">Always<br>Available</p>
               </div>
             </div>
             <a 
@@ -185,16 +185,16 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
               What areas do you cover in {{location}}?
             </h3>
             <p class="text-neutral-700">
-              We provide locksmith services across all of {{location}} and surrounding areas. Our mobile locksmiths can reach you quickly, typically within 30-60 minutes depending on your exact location and traffic conditions.
+              We cover all of {{location}} and the surrounding areas. Our mobile locksmiths can reach you quickly, typically within 30-60 minutes depending on your exact location and traffic conditions.
             </p>
           </div>
           
           <div class="bg-white rounded-2xl p-8 shadow-lg">
             <h3 class="text-xl font-bold text-neutral-900 mb-3">
-              How quickly can you respond to emergency calls?
+              How quickly can you get to me?
             </h3>
             <p class="text-neutral-700">
-              For emergency lockouts, we aim to be on-site within 30-60 minutes in {{location}}. We operate 24/7, so you can call us anytime - day or night, weekends, and holidays.
+              If you're locked out or need urgent help, we aim to be on-site within 30-60 minutes in {{location}}. We operate 24/7, so you can call us anytime - day or night, weekends, and holidays.
             </p>
           </div>
           
@@ -203,7 +203,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
               Do you provide quotes before starting work?
             </h3>
             <p class="text-neutral-700">
-              Yes, we always provide transparent pricing. For emergency situations, we'll give you a clear quote over the phone based on your situation. For scheduled work, we can provide free no-obligation quotes.
+              Yes, we always provide transparent pricing. For urgent call-outs, we'll give you a clear quote over the phone based on your situation. For scheduled work, we can provide free no-obligation quotes.
             </p>
           </div>
           
@@ -240,7 +240,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
       </h2>
       
       <p class="text-xl text-neutral-300 mb-12 max-w-2xl mx-auto">
-        Whether it's an emergency lockout, scheduled lock change, or security consultation, we're here to help. Contact {{name}} for professional locksmith services in {{location}}.
+        Whether you're locked out, booking a lock change, or planning a security upgrade, we're here to help. Contact {{name}} today - we cover all of {{location}} and the surrounding areas.
       </p>
       
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
