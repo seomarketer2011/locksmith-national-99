@@ -27,6 +27,9 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..", "..");
 const TEMPLATE_DIR = join(ROOT, "templates", "locksmith-fleet");
 const FLEET_JSON = join(ROOT, "data", "locksmith-fleet", "sites.json");
 const OUTPUT_ROOT = join(ROOT, "output", "locksmith-fleet");
+// Shared node_modules cache: the dependency tree is identical for every site,
+// so install once and copy locally instead of hitting the registry 99 times.
+const NM_CACHE = join(OUTPUT_ROOT, ".nm-cache");
 
 const TEXT_EXTS = new Set([
   ".astro", ".ts", ".tsx", ".js", ".jsx", ".mjs", ".cjs",
@@ -89,6 +92,14 @@ for (const site of selected) {
     }
     console.log(`  OK`);
     results.ok.push({ ...site, cfProject });
+    // Multi-site runs: drop the heavy build artefacts once deployed so 99
+    // scratch dirs don't exhaust the disk (node_modules is ~230 MB per site).
+    if (selected.length > 1 && !args.dry_run && !args.skip_deploy) {
+      const scratch = join(OUTPUT_ROOT, cfProject);
+      for (const dir of ["node_modules", ".astro"]) {
+        rmSync(join(scratch, dir), { recursive: true, force: true });
+      }
+    }
   } catch (err) {
     console.error(`  FAIL: ${err.message}`);
     results.failed.push({ ...site, error: err.message });
@@ -299,8 +310,15 @@ function slugify(s) {
 }
 
 function runBuild(scratch) {
-  console.log("  installing deps (npm install --no-audit --no-fund)…");
-  sh("npm", ["install", "--no-audit", "--no-fund", "--no-package-lock"], scratch);
+  const nm = join(scratch, "node_modules");
+  if (existsSync(NM_CACHE)) {
+    console.log("  reusing cached node_modules…");
+    cpSync(NM_CACHE, nm, { recursive: true, verbatimSymlinks: true });
+  } else {
+    console.log("  installing deps (npm install --no-audit --no-fund)…");
+    sh("npm", ["install", "--no-audit", "--no-fund", "--no-package-lock"], scratch);
+    cpSync(nm, NM_CACHE, { recursive: true, verbatimSymlinks: true });
+  }
   console.log("  building (astro build)…");
   sh("npx", ["astro", "build"], scratch);
   const dist = join(scratch, "dist");
