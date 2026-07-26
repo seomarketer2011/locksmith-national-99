@@ -75,6 +75,9 @@ for (const site of selected) {
   }
 
   try {
+    // Fleet projects are split across CF accounts (the default account is at
+    // its 100-project cap); sites carry cf_account_id when they live elsewhere.
+    const accountId = site.cf_account_id || process.env.CLOUDFLARE_ACCOUNT_ID;
     const scratch = join(OUTPUT_ROOT, cfProject);
     prepareScratch(scratch);
     substituteTokens(scratch, site);
@@ -85,10 +88,10 @@ for (const site of selected) {
     if (!args.dry_run) {
       runBuild(scratch);
       if (!args.skip_deploy) {
-        await ensureProductionBranch(cfProject);
-        runDeploy(scratch, cfProject);
+        await ensureProductionBranch(cfProject, accountId);
+        runDeploy(scratch, cfProject, accountId);
       }
-      if (args.fix_cname && !args.skip_deploy) await fixCname(site.domain, cfProject);
+      if (args.fix_cname && !args.skip_deploy) await fixCname(site.domain, cfProject, accountId);
     }
     console.log(`  OK`);
     results.ok.push({ ...site, cfProject });
@@ -325,20 +328,21 @@ function runBuild(scratch) {
   if (!existsSync(dist)) throw new Error("dist/ not produced by build");
 }
 
-function runDeploy(scratch, project) {
+function runDeploy(scratch, project, accountId) {
   console.log(`  deploying to CF Pages project '${project}'…`);
   sh("npx", ["wrangler", "pages", "deploy", "dist",
     "--project-name", project,
     "--branch", "main",
-    "--commit-dirty=true"], scratch);
+    "--commit-dirty=true"], scratch,
+    accountId ? { CLOUDFLARE_ACCOUNT_ID: accountId } : undefined);
 }
 
-function sh(cmd, args, cwd) {
-  const res = spawnSync(cmd, args, { cwd, stdio: "inherit", env: process.env });
+function sh(cmd, args, cwd, envOverride) {
+  const res = spawnSync(cmd, args, { cwd, stdio: "inherit", env: { ...process.env, ...envOverride } });
   if (res.status !== 0) throw new Error(`${cmd} ${args.join(" ")} exited with ${res.status}`);
 }
 
-async function fixCname(domain, project) {
+async function fixCname(domain, project, accountId = process.env.CLOUDFLARE_ACCOUNT_ID) {
   const email = process.env.CLOUDFLARE_EMAIL;
   const key = process.env.CLOUDFLARE_API_KEY;
   const token = process.env.CLOUDFLARE_API_TOKEN;
@@ -351,7 +355,6 @@ async function fixCname(domain, project) {
   const authHeaders = token
     ? { Authorization: `Bearer ${token}` }
     : { "X-Auth-Email": email, "X-Auth-Key": key };
-  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
 
   // Attach the custom domain to the CF Pages project (idempotent — CF returns "already exists" if attached).
   // This is required for SSL/HTTPS to be provisioned on first-time deploys.
@@ -429,8 +432,7 @@ function cfAuthHeaders() {
   return null;
 }
 
-async function ensureProductionBranch(project) {
-  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+async function ensureProductionBranch(project, accountId = process.env.CLOUDFLARE_ACCOUNT_ID) {
   const headers = cfAuthHeaders();
   if (!accountId || !headers) return; // no creds, skip silently
   const data = await cfGet(`/accounts/${accountId}/pages/projects/${project}`, headers);
