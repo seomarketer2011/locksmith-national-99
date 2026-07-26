@@ -364,9 +364,18 @@ async function fixCname(domain, project) {
   }
   if (!zoneId) throw new Error(`cname-fix: no zone found for ${domain}`);
 
+  // Resolve the project's real pages.dev subdomain — CF appends a suffix
+  // (e.g. project-3em.pages.dev) when the plain name is taken globally,
+  // so `${project}.pages.dev` can point at someone else's project.
+  let want = `${project}.pages.dev`;
+  if (accountId) {
+    const proj = await cfGet(`/accounts/${accountId}/pages/projects/${project}`, authHeaders);
+    const sub = proj?.result?.subdomain;
+    if (sub) want = sub.includes(".") ? sub : `${sub}.pages.dev`;
+  }
+
   // Find or create the apex CNAME.
   const recs = await cfGet(`/zones/${zoneId}/dns_records?name=${encodeURIComponent(domain)}&type=CNAME`, authHeaders);
-  const want = `${project}.pages.dev`;
   if (!recs.result || !recs.result.length) {
     // First-time deploy with no DNS record yet — create the CNAME proxied through CF.
     const created = await cfPost(`/zones/${zoneId}/dns_records`,

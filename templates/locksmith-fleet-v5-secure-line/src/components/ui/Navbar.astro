@@ -44,6 +44,13 @@ const menuitems = [
 ];
 ---
 
+<div class={`w-full text-xs sm:text-sm font-body ${isDarkHeader ? "bg-navy text-slate-300 border-b border-white/10" : "bg-paper text-ink/70 border-b border-line"}`}>
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-5 py-1.5">
+    <span>💳 All payments accepted — card, cash &amp; bank transfer</span>
+    <a href="tel:{{phone_tel}}" class="font-semibold whitespace-nowrap hover:underline">📞 {{phone}}</a>
+  </div>
+</div>
+
 <nav class={`w-full top-0 left-0 z-50 sticky ${headerBgClass} border-b ${headerRuleClass} font-body`}>
   <header class="mx-auto flex max-w-6xl flex-row justify-between items-center gap-4 px-5">
     <div class="flex items-center justify-between gap-4 w-full lg:w-auto">
