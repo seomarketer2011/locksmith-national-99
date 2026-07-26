@@ -6,7 +6,7 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
 
 <MainLayout
   title={`Contact Us - {{name}}`}
-  description={`Get in touch with {{name}} in {{location}}. Call us 24/7, or use our contact details to book lock changes, repairs and security upgrades.`}
+  description={`Get in touch with {{name}} in {{location}}. Call us 24/7, or email us to book lock changes, repairs and security upgrades.`}
 >
   <!-- Hero Section -->
   <section class="relative bg-neutral-900 text-white overflow-hidden">
@@ -20,22 +20,17 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
       />
       <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
     </div>
-    
+
     <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
       <div class="max-w-3xl">
         <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
           Contact <span class="text-amber-400">{{name}}</span>
         </h1>
-        
-        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
-          <p>
-            Locked out, need locks changed, or planning a security upgrade in {{location}}? We're here to help 24/7. Whatever the job, our professional locksmiths provide fast, reliable service with minimal disruption.
-          </p>
-          <p>
-            For urgent help, call us directly any time of day or night. For general inquiries or to book a visit, you can use our contact form, email us, or give us a call.
-          </p>
-        </div>
-        
+
+        <p class="mt-8 text-lg text-neutral-300 leading-relaxed">
+          The quickest way to reach us is by phone. You can also email us and we'll get back to you as soon as we can.
+        </p>
+
         <div class="mt-12 flex flex-col sm:flex-row gap-4">
           <a
             href={`tel:{{phone_tel}}`}
@@ -49,124 +44,70 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
     </div>
   </section>
 
-
-
-
-  <!-- Contact Form & Map Section -->
+  <!-- Contact Details Section -->
   <section class="py-24 bg-white">
     <div class="max-w-7xl mx-auto px-6">
-      <div class="grid lg:grid-cols-2 gap-16">
-        <!-- Contact Form -->
-     
-        
-        <!-- Map & Additional Info -->
-      
-            <!-- Phone Card -->
-            <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300 border border-neutral-200">
-              <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
-                <span class="text-3xl text-amber-600">📞</span>
-              </div>
-              <h3 class="text-2xl font-bold text-neutral-900 mb-4">Call Us 24/7</h3>
-              <div class="space-y-3">
-                <div>
-                  <p class="text-lg font-semibold text-amber-600">Our line is open day and night, including emergency call-outs</p>
-                  <a href={`tel:{{phone_tel}}`} class="text-xl font-bold text-neutral-900 hover:text-amber-600 transition-colors">
-                    {{phone}}
-                  </a>
-                </div>
-                <div class="pt-4 border-t border-neutral-200">
-                  <p class="text-neutral-600">Business Hours:</p>
-                  <p class="font-medium">Monday - Sunday: 24hrs</p>
-    
-                  <p class="text-sm text-neutral-500 mt-2">*Open 24 hours, every day of the year</p>
-                </div>
-              </div>
+      <div class="grid md:grid-cols-3 gap-8">
+        <!-- Phone Card -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300 border border-neutral-200">
+          <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
+            <span class="text-3xl text-amber-600">📞</span>
+          </div>
+          <h3 class="text-2xl font-bold text-neutral-900 mb-4">Phone</h3>
+          <div class="space-y-3">
+            <div>
+              <p class="text-neutral-600">Our line is open day and night, including emergency call-outs</p>
+              <a href={`tel:{{phone_tel}}`} class="text-xl font-bold text-neutral-900 hover:text-amber-600 transition-colors">
+                {{phone}}
+              </a>
             </div>
-          
-        
-          <!-- Map Placeholder -->
-          <div class="bg-neutral-100 rounded-2xl p-8">
-            <h3 class="text-2xl font-bold text-neutral-900 mb-6">Service Area: {{location}}</h3>
-        
-            <div class="mt-6 space-y-3">
-              <div class="flex items-center gap-3">
-                <span class="text-amber-600">✓</span>
-                <span>Full coverage of {{location}}</span>
-              </div>
-              <div class="flex items-center gap-3">
-                <span class="text-amber-600">✓</span>
-                <span>Typical response time: 30-60 minutes</span>
-              </div>
-              <div class="flex items-center gap-3">
-                <span class="text-amber-600">✓</span>
-                <span>Free quotes for scheduled work</span>
-              </div>
+            <div class="pt-4 border-t border-neutral-200">
+              <p class="text-neutral-600">Opening Hours:</p>
+              <p class="font-medium">Monday - Sunday: 24hrs</p>
+              <p class="text-sm text-neutral-500 mt-2">*Open 24 hours, every day of the year</p>
             </div>
           </div>
-          
-          <!-- Why Choose Us -->
-          <div class="bg-neutral-900 text-white rounded-2xl p-8">
-            <h3 class="text-2xl font-bold mb-6">Why Choose {{name}}</h3>
-            <div class="space-y-4">
-              <div class="flex items-start gap-3">
-                <span class="text-amber-400 mt-1">✓</span>
-                <div>
-                  <p class="font-medium">Available 24/7</p>
-                  <p class="text-neutral-300 text-sm">Always there when you need us most</p>
-                </div>
-              </div>
-  
-              <div class="flex items-start gap-3">
-                <span class="text-amber-400 mt-1">✓</span>
-                <div>
-                  <p class="font-medium">Non-Destructive Entry</p>
-                  <p class="text-neutral-300 text-sm">Minimal damage to your property</p>
-                </div>
-              </div>
-              <div class="flex items-start gap-3">
-                <span class="text-amber-400 mt-1">✓</span>
-                <div>
-                  <p class="font-medium">Fully Insured</p>
-                  <p class="text-neutral-300 text-sm">Peace of mind with comprehensive insurance</p>
-                </div>
-              </div>
-              <div class="flex items-start gap-3">
-                <span class="text-amber-400 mt-1">✓</span>
-                <div>
-                  <p class="font-medium">Transparent Pricing</p>
-                  <p class="text-neutral-300 text-sm">No hidden fees, clear quotes upfront</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Quick Response Card -->
-          <div class="bg-gradient-to-r from-amber-500 to-amber-600 text-neutral-900 rounded-2xl p-8">
-            <div class="flex items-center gap-4 mb-4">
-              <span class="text-3xl">⏱️</span>
-              <div>
-                <h4 class="text-xl font-bold">Fast Response Times</h4>
-                <p class="text-neutral-900/80">In {{location}} and surrounding areas</p>
-              </div>
-            </div>
-            <div class="grid grid-cols-2 gap-4">
-              <div class="bg-white/20 backdrop-blur-sm rounded-xl p-4 text-center">
-                <p class="text-2xl font-bold">30</p>
-                <p class="text-sm">Avg. Response<br>Minutes</p>
-              </div>
-              <div class="bg-white/20 backdrop-blur-sm rounded-xl p-4 text-center">
-                <p class="text-2xl font-bold">24/7</p>
-                <p class="text-sm">Always<br>Available</p>
-              </div>
-            </div>
-            <a 
-              href={`tel:{{phone_tel}}`}
-              class="mt-6 inline-flex items-center justify-center w-full bg-white text-neutral-900 px-6 py-3 rounded-xl font-bold hover:bg-neutral-100 transition-colors"
-            >
-              📞 Call Now: {{phone}}
-            </a>
-          </div>
+        </div>
 
+        <!-- Email Card -->
+        <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300 border border-neutral-200">
+          <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
+            <span class="text-3xl text-amber-600">✉️</span>
+          </div>
+          <h3 class="text-2xl font-bold text-neutral-900 mb-4">Email</h3>
+          <div class="space-y-3">
+            <p class="text-neutral-600">For general inquiries, quotes, and bookings:</p>
+            <a
+              href="#"
+              data-u="info"
+              data-d="{{domain}}"
+              class="text-xl font-bold text-neutral-900 hover:text-amber-600 transition-colors break-all"
+            >info [at] {{domain}}</a>
+            <p class="text-sm text-neutral-500">We aim to reply within one working day.</p>
+          </div>
+        </div>
+
+        <!-- Service Area Card -->
+        <div class="bg-neutral-100 rounded-2xl p-8">
+          <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
+            <span class="text-3xl text-amber-600">📍</span>
+          </div>
+          <h3 class="text-2xl font-bold text-neutral-900 mb-4">Service Area: {{location}}</h3>
+          <div class="space-y-3">
+            <div class="flex items-center gap-3">
+              <span class="text-amber-600">✓</span>
+              <span>Full coverage of {{location}}</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="text-amber-600">✓</span>
+              <span>Surrounding areas covered too</span>
+            </div>
+            <div class="flex items-center gap-3">
+              <span class="text-amber-600">✓</span>
+              <span>Free quotes for scheduled work</span>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
@@ -178,44 +119,26 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
         <h2 class="text-4xl md:text-5xl font-bold text-neutral-900 text-center mb-12">
           Frequently Asked Questions
         </h2>
-        
+
         <div class="space-y-6">
           <div class="bg-white rounded-2xl p-8 shadow-lg">
             <h3 class="text-xl font-bold text-neutral-900 mb-3">
-              What areas do you cover in {{location}}?
+              What areas do you cover?
             </h3>
             <p class="text-neutral-700">
-              We cover all of {{location}} and the surrounding areas. Our mobile locksmiths can reach you quickly, typically within 30-60 minutes depending on your exact location and traffic conditions.
+              We cover all of {{location}} and the surrounding areas. If you're not sure whether we cover your address, give us a call and we'll confirm.
             </p>
           </div>
-          
-          <div class="bg-white rounded-2xl p-8 shadow-lg">
-            <h3 class="text-xl font-bold text-neutral-900 mb-3">
-              How quickly can you get to me?
-            </h3>
-            <p class="text-neutral-700">
-              If you're locked out or need urgent help, we aim to be on-site within 30-60 minutes in {{location}}. We operate 24/7, so you can call us anytime - day or night, weekends, and holidays.
-            </p>
-          </div>
-          
+
           <div class="bg-white rounded-2xl p-8 shadow-lg">
             <h3 class="text-xl font-bold text-neutral-900 mb-3">
               Do you provide quotes before starting work?
             </h3>
             <p class="text-neutral-700">
-              Yes, we always provide transparent pricing. For urgent call-outs, we'll give you a clear quote over the phone based on your situation. For scheduled work, we can provide free no-obligation quotes.
+              Yes, we always provide transparent pricing. We'll give you a clear quote over the phone based on your situation, and for scheduled work we can provide free no-obligation quotes.
             </p>
           </div>
-          
-          <div class="bg-white rounded-2xl p-8 shadow-lg">
-            <h3 class="text-xl font-bold text-neutral-900 mb-3">
-              Are your locksmiths certified and insured?
-            </h3>
-            <p class="text-neutral-700">
-              All our locksmiths are Master Locksmiths Association (MLA) approved, fully vetted, and carry comprehensive insurance. We're committed to professional, reliable service you can trust.
-            </p>
-          </div>
-          
+
           <div class="bg-white rounded-2xl p-8 shadow-lg">
             <h3 class="text-xl font-bold text-neutral-900 mb-3">
               What payment methods do you accept?
@@ -229,20 +152,17 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
     </div>
   </section>
 
-  <!-- Service Hours -->
-
-
   <!-- Final CTA -->
   <section class="py-24 bg-gradient-to-br from-neutral-900 to-amber-900/30 text-white">
     <div class="max-w-4xl mx-auto px-6 text-center">
       <h2 class="text-4xl md:text-5xl font-bold mb-8">
         Get in Touch Today
       </h2>
-      
+
       <p class="text-xl text-neutral-300 mb-12 max-w-2xl mx-auto">
-        Whether you're locked out, booking a lock change, or planning a security upgrade, we're here to help. Contact {{name}} today - we cover all of {{location}} and the surrounding areas.
+        Give {{name}} a call or drop us an email - we're happy to help.
       </p>
-      
+
       <div class="flex flex-col sm:flex-row gap-4 justify-center">
         <a
           href={`tel:{{phone_tel}}`}
@@ -256,38 +176,42 @@ import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
   </section>
 </MainLayout>
 
+<script is:inline>
+  // Assemble the email address client-side so it never appears in the
+  // page source as scrapeable text.
+  document.querySelectorAll("[data-u][data-d]").forEach(function (el) {
+    var addr = el.getAttribute("data-u") + "@" + el.getAttribute("data-d");
+    el.setAttribute("href", "mailto:" + addr);
+    el.textContent = addr;
+  });
+</script>
+
 <style>
   * {
     scroll-behavior: smooth;
   }
-  
-  /* Form focus styles */
-  input:focus, textarea:focus, select:focus {
-    outline: none;
-    ring-width: 2px;
-  }
-  
+
   /* Smooth transitions */
   .transition-all {
     transition-property: all;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 300ms;
   }
-  
+
   /* Custom scrollbar */
   ::-webkit-scrollbar {
     width: 10px;
   }
-  
+
   ::-webkit-scrollbar-track {
     background: #f1f1f1;
   }
-  
+
   ::-webkit-scrollbar-thumb {
     background: #f59e0b;
     border-radius: 5px;
   }
-  
+
   ::-webkit-scrollbar-thumb:hover {
     background: #d97706;
   }
