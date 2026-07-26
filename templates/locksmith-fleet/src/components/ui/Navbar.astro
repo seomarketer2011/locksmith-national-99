@@ -5,7 +5,11 @@ const isDarkHeader = "{{color}}".toLowerCase().includes("black");
 
 const headerBgClass = isDarkHeader ? "bg-black" : "bg-white";
 const headerTextClass = isDarkHeader ? "text-white" : "text-black";
-const headerHoverTextClass = isDarkHeader ? "hover:text-gray-300" : "hover:text-gray-600";
+
+const phoneLabelClass = isDarkHeader ? "text-neutral-400" : "text-neutral-500";
+const phoneNumClass = isDarkHeader
+  ? "text-amber-400 hover:text-amber-300"
+  : "text-amber-600 hover:text-amber-500";
 
 const dropdownBgClass = isDarkHeader ? "bg-black border-gray-700" : "bg-white border-gray-200";
 const dropdownItemClass = isDarkHeader
@@ -48,15 +52,20 @@ const menuitems = [
 <div class={`w-full text-xs sm:text-sm ${isDarkHeader ? "bg-neutral-900 text-neutral-300 border-b border-neutral-800" : "bg-neutral-100 text-neutral-600 border-b border-neutral-200"}`}>
   <div class="flex items-center justify-between gap-3 px-6 md:px-32 py-1.5">
     <span>💳 All payments accepted — card, cash &amp; bank transfer</span>
-    <a href="tel:{{phone_tel}}" class="font-semibold whitespace-nowrap hover:underline">📞 {{phone}}</a>
+    <span class="whitespace-nowrap">{{location}} &amp; surrounding areas</span>
   </div>
 </div>
 
 <nav class={`w-full top-0 left-0 z-50 sticky ${headerBgClass}`}>
-  <header class="flex flex-col lg:flex-row justify-between items-center px-6 md:px-32">
-    <div class="flex w-full lg:w-auto items-center justify-between">
-      <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <img src={logo.src} alt="{{name}} logo" width={logo.width} height={logo.height} class="navbar-logo" loading="eager" />
+  <header class="flex justify-between items-center gap-4 px-6 md:px-32 py-2.5">
+    <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+      <img src={logo.src} alt="{{name}} logo" width={logo.width} height={logo.height} class="navbar-logo" loading="eager" />
+    </a>
+
+    <div class="flex items-center gap-3 sm:gap-5">
+      <a href="tel:{{phone_tel}}" class="text-right leading-tight">
+        <span class={`block text-[10px] sm:text-xs font-semibold uppercase tracking-[0.14em] ${phoneLabelClass}`}>Call us 24/7</span>
+        <span class={`block text-lg sm:text-2xl font-extrabold whitespace-nowrap transition-colors ${phoneNumClass}`}>📞 {{phone}}</span>
       </a>
 
       <details class="lg:hidden relative group">
@@ -108,48 +117,48 @@ const menuitems = [
         </div>
       </details>
     </div>
-
-    <nav class="hidden lg:flex lg:w-auto lg:mt-0 lg:items-center lg:space-x-8">
-      <ul class="font-medium flex flex-row space-x-8">
-        {menuitems.map((item) => (
-          <li class="relative group">
-            {item.hasDropdown ? (
-              <>
-                <button class={`flex items-center py-2 px-3 ${headerTextClass} ${headerHoverTextClass} transition-colors`}>
-                  {item.label}
-                  <svg class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                    <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
-                  </svg>
-                </button>
-
-                <div class={`absolute left-0 top-full mt-1 w-56 ${dropdownBgClass} border rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50`}>
-                  <ul class="py-2">
-                    {dropdownItems[item.label]?.map((subItem) => (
-                      <li>
-                        <a
-                          href={subItem.href}
-                          class={`block py-3 px-4 ${dropdownItemClass} transition-colors`}
-                        >
-                          {subItem.label}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </>
-            ) : (
-              <a
-                href={item.href}
-                class={`block py-2 px-3 ${headerTextClass} ${headerHoverTextClass} transition-colors`}
-              >
-                {item.label}
-              </a>
-            )}
-          </li>
-        ))}
-      </ul>
-    </nav>
   </header>
+
+  <div class="hidden lg:block w-full bg-amber-500">
+    <ul class="flex flex-row items-center gap-8 px-6 md:px-32 font-semibold text-sm text-neutral-900">
+      {menuitems.map((item) => (
+        <li class="relative group">
+          {item.hasDropdown ? (
+            <>
+              <button class="flex items-center py-2.5 hover:opacity-70 transition-opacity">
+                {item.label}
+                <svg class="w-4 h-4 ml-1 transition-transform group-hover:rotate-180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                </svg>
+              </button>
+
+              <div class={`absolute left-0 top-full mt-1 w-56 ${dropdownBgClass} border rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50`}>
+                <ul class="py-2">
+                  {dropdownItems[item.label]?.map((subItem) => (
+                    <li>
+                      <a
+                        href={subItem.href}
+                        class={`block py-3 px-4 font-medium ${dropdownItemClass} transition-colors`}
+                      >
+                        {subItem.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </>
+          ) : (
+            <a
+              href={item.href}
+              class="block py-2.5 hover:opacity-70 transition-opacity"
+            >
+              {item.label}
+            </a>
+          )}
+        </li>
+      ))}
+    </ul>
+  </div>
 </nav>
 
 <style is:inline>
@@ -169,18 +178,14 @@ const menuitems = [
   }
 
   .navbar-logo {
-    height: 100px !important;
+    height: 72px !important;
     width: auto !important;
-    max-height: 100px !important;
+    max-height: 72px !important;
     object-fit: contain !important;
     display: block !important;
   }
 
-  nav { height: 100px !important; }
-  header { height: 100px !important; }
-
   @media (max-width: 1024px) {
-    .navbar-logo { height: 70px !important; max-height: 70px !important; }
-    nav, header { height: 70px !important; }
+    .navbar-logo { height: 52px !important; max-height: 52px !important; }
   }
 </style>
