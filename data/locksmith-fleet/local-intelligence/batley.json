@@ -1,230 +1,208 @@
 {
-  "location": "Batley",
-  "neighborhoods": [
-    {
-      "name": "Savile Town",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "back-to-back"
-      ],
-      "notes": "historic textile quarter, listed buildings"
-    },
-    {
-      "name": "Chickenley",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Batley Carr",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Hanging Heaton",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Healey",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Earlsheaton",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Drighlington",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Ravensthorpe",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Birstall Smithies",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Bruntcliffe",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Eastborough",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Copley Hill",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Carlinghow",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Upper Batley",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "West Town",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Town End",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "back-to-back"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "back-to-back"
-    ],
-    "era": "predominantly Victorian and interwar with post-war estates",
-    "notable": "historic textile mill town with many period locks; significant post-war social housing stock"
+ "location": "Batley",
+ "neighborhoods": [
+  {
+   "name": "Savile Town",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "back-to-back"
+   ],
+   "notes": "historic textile quarter, listed buildings"
   },
-  "locksmith_relevant": [
-    "Victorian terraces and back-to-backs dominate; many have original rim locks and sash window fittings requiring specialist knowledge.",
-    "High density of period properties means older Yale and mortice lock repairs represent steady call volume across neighborhoods.",
-    "Post-war housing estates like Bruntcliffe contain numerous multi-unit blocks; uPVC door locks and communal entry systems common."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Batley",
-    "overpass": "OSM Overpass bbox query, 44 named areas",
-    "coords": {
-      "lat": 53.716564,
-      "lon": -1.6363856
-    }
+  {
+   "name": "Chickenley",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
   },
-  "generated_at": "2026-05-13T18:11:32.834Z",
-  "all_areas": [
-    "Adwalton",
-    "Batley Carr",
-    "Birks",
-    "Birstall Smithies",
-    "Boothroyd",
-    "Brookroyd",
-    "Brown Hill",
-    "Brownhill End",
-    "Bruntcliffe",
-    "Carlinghow",
-    "Chickenley",
-    "Chidswell",
-    "City",
-    "Copley Hill",
-    "Crackenedge",
-    "Cross Bank",
-    "Daw Green",
-    "Dewsbury Moor",
-    "Drighlington",
-    "Earlsheaton",
-    "Eastborough",
-    "Eightlands",
-    "Flatts",
-    "Greystone",
-    "Hanging Heaton",
-    "Healey",
-    "Hill Top Estate",
-    "Howden Clough",
-    "Lamplands",
-    "Morley Hole",
-    "Mount Pleasant",
-    "New Brighton",
-    "Nook",
-    "Nunroyd",
-    "Ravensthorpe",
-    "Savile Town",
-    "Soothill",
-    "Staincliffe",
-    "Town End",
-    "Troy Hill",
-    "Upper Batley",
-    "West Town",
-    "Westborough",
-    "White Lee"
-  ],
-  "geo": {
-    "latitude": 53.716564,
-    "longitude": -1.6363856
+  {
+   "name": "Batley Carr",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   },
-  "postcode_districts": [
-    "WF12",
-    "WF13",
-    "WF17"
-  ],
-  "postcode_meta": {
-    "WF13": {
-      "count": 10,
-      "sample": "WF13 3JR",
-      "admin": "Kirklees",
-      "via": "constituency=dewsbury and batley"
-    },
-    "WF17": {
-      "count": 14,
-      "sample": "WF17 7JP",
-      "admin": "Kirklees",
-      "via": "admin_ward=batley east"
-    },
-    "WF12": {
-      "count": 4,
-      "sample": "WF12 9NG",
-      "admin": "Kirklees",
-      "via": "constituency=dewsbury and batley"
-    }
+  {
+   "name": "Hanging Heaton",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Healey",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Earlsheaton",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Drighlington",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Ravensthorpe",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Birstall Smithies",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Bruntcliffe",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Eastborough",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Copley Hill",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Carlinghow",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Upper Batley",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "West Town",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Town End",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "back-to-back"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "back-to-back"
+  ],
+  "era": "predominantly Victorian and interwar with post-war estates",
+  "notable": "historic textile mill town with many period locks; significant post-war social housing stock"
+ },
+ "locksmith_relevant": [
+  "Victorian terraces and back-to-backs dominate; many have original rim locks and sash window fittings requiring specialist knowledge.",
+  "High density of period properties means older Yale and mortice lock repairs represent steady call volume across neighborhoods.",
+  "Post-war housing estates like Bruntcliffe contain numerous multi-unit blocks; uPVC door locks and communal entry systems common."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Batley",
+  "overpass": "OSM places within 8km filtered to verified postcode districts (WF12, WF13, WF17), 22 named areas",
+  "coords": {
+   "lat": 53.716564,
+   "lon": -1.6363856
+  }
+ },
+ "generated_at": "2026-05-13T18:11:32.834Z",
+ "all_areas": [
+  "Batley Carr",
+  "Birstall Smithies",
+  "Boothroyd",
+  "Brookroyd",
+  "Brown Hill",
+  "Brownhill End",
+  "Carlinghow",
+  "Chickenley",
+  "Cross Bank",
+  "Dewsbury Moor",
+  "Earlsheaton",
+  "Hanging Heaton",
+  "Healey",
+  "Howden Clough",
+  "Nook",
+  "Ravensthorpe",
+  "Savile Town",
+  "Soothill",
+  "Staincliffe",
+  "Thornhill",
+  "Thornhill Lees",
+  "Woodkirk"
+ ],
+ "geo": {
+  "latitude": 53.716564,
+  "longitude": -1.6363856
+ },
+ "postcode_districts": [
+  "WF12",
+  "WF13",
+  "WF17"
+ ],
+ "postcode_meta": {
+  "WF13": {
+   "count": 10,
+   "sample": "WF13 3JR",
+   "admin": "Kirklees",
+   "via": "constituency=dewsbury and batley"
+  },
+  "WF17": {
+   "count": 14,
+   "sample": "WF17 7JP",
+   "admin": "Kirklees",
+   "via": "admin_ward=batley east"
+  },
+  "WF12": {
+   "count": 4,
+   "sample": "WF12 9NG",
+   "admin": "Kirklees",
+   "via": "constituency=dewsbury and batley"
+  }
+ }
 }

@@ -1,216 +1,207 @@
 {
-  "location": "Atherton",
-  "neighborhoods": [
-    {
-      "name": "Hag Fold",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "older residential core"
-    },
-    {
-      "name": "Daisy Hill",
-      "era": "Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Daubhill",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Higher Folds",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Hindsford",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Hope Carr",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Howe Bridge",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Hunger Hill",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Middle Hulton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Over Hulton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Pennington",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Shakerley",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Westleigh",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Wingates",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Blackmoor",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Bedford",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Fernhill Gate",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Marsland Green",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "council estate"
-    ],
-    "era": "mixed Victorian and Edwardian with significant post-war council stock",
-    "notable": "Former mill-town character with strong terraced housing legacy; substantial post-1945 council estates in Hulton areas"
+ "location": "Atherton",
+ "neighborhoods": [
+  {
+   "name": "Hag Fold",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "older residential core"
   },
-  "locksmith_relevant": [
-    "Victorian terraces in Hag Fold, Daubhill and Hunger Hill often retain original mortice locks requiring specialist knowledge and period-appropriate repair.",
-    "Post-war council estates (Middle Hulton, Over Hulton, Westleigh, Hope Carr) see higher demand for emergency callouts and multi-unit building access systems.",
-    "Atherton's mixed-era stock means locksmiths must handle both heritage lever locks and modern uPVC window hardware across single roads."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Atherton",
-    "overpass": "OSM Overpass bbox query, 19 named areas",
-    "coords": {
-      "lat": 53.5249679,
-      "lon": -2.4905799
-    }
+  {
+   "name": "Daisy Hill",
+   "era": "Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
   },
-  "generated_at": "2026-05-13T18:07:33.564Z",
-  "all_areas": [
-    "Bedford",
-    "Blackmoor",
-    "Daisy Hill",
-    "Daubhill",
-    "Fernhill Gate",
-    "Hag Fold",
-    "Higher Folds",
-    "Hindsford",
-    "Hooten Gardens",
-    "Hope Carr",
-    "Howe Bridge",
-    "Hunger Hill",
-    "Marsland Green",
-    "Middle Hulton",
-    "Over Hulton",
-    "Pennington",
-    "Shakerley",
-    "Westleigh",
-    "Wingates"
-  ],
-  "geo": {
-    "latitude": 53.5249679,
-    "longitude": -2.4905799
+  {
+   "name": "Daubhill",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
   },
-  "postcode_districts": [
-    "M29",
-    "M46",
-    "WN7"
-  ],
-  "postcode_meta": {
-    "WN7": {
-      "count": 6,
-      "sample": "WN7 2NN",
-      "admin": "Wigan",
-      "via": "constituency=leigh and atherton"
-    },
-    "M46": {
-      "count": 3,
-      "sample": "M46 0GP",
-      "admin": "Wigan",
-      "via": "admin_ward=atherton south & lilford"
-    },
-    "M29": {
-      "count": 1,
-      "sample": "M29 8LG",
-      "admin": "Wigan",
-      "via": "constituency=leigh and atherton"
-    }
+  {
+   "name": "Higher Folds",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Hindsford",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Hope Carr",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Howe Bridge",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Hunger Hill",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Middle Hulton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Over Hulton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Pennington",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Shakerley",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Westleigh",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Wingates",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Blackmoor",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Bedford",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Fernhill Gate",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Marsland Green",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "council estate"
+  ],
+  "era": "mixed Victorian and Edwardian with significant post-war council stock",
+  "notable": "Former mill-town character with strong terraced housing legacy; substantial post-1945 council estates in Hulton areas"
+ },
+ "locksmith_relevant": [
+  "Victorian terraces in Hag Fold, Daubhill and Hunger Hill often retain original mortice locks requiring specialist knowledge and period-appropriate repair.",
+  "Post-war council estates (Middle Hulton, Over Hulton, Westleigh, Hope Carr) see higher demand for emergency callouts and multi-unit building access systems.",
+  "Atherton's mixed-era stock means locksmiths must handle both heritage lever locks and modern uPVC window hardware across single roads."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Atherton",
+  "overpass": "OSM places within 8km filtered to verified postcode districts (M29, M46, WN7), 10 named areas",
+  "coords": {
+   "lat": 53.5249679,
+   "lon": -2.4905799
+  }
+ },
+ "generated_at": "2026-05-13T18:07:33.564Z",
+ "all_areas": [
+  "Bedford",
+  "Blackmoor",
+  "Hag Fold",
+  "Higher Folds",
+  "Hindsford",
+  "Howe Bridge",
+  "Marsland Green",
+  "Pennington",
+  "Shakerley",
+  "Westleigh"
+ ],
+ "geo": {
+  "latitude": 53.5249679,
+  "longitude": -2.4905799
+ },
+ "postcode_districts": [
+  "M29",
+  "M46",
+  "WN7"
+ ],
+ "postcode_meta": {
+  "WN7": {
+   "count": 6,
+   "sample": "WN7 2NN",
+   "admin": "Wigan",
+   "via": "constituency=leigh and atherton"
+  },
+  "M46": {
+   "count": 3,
+   "sample": "M46 0GP",
+   "admin": "Wigan",
+   "via": "admin_ward=atherton south & lilford"
+  },
+  "M29": {
+   "count": 1,
+   "sample": "M29 8LG",
+   "admin": "Wigan",
+   "via": "constituency=leigh and atherton"
+  }
+ }
 }
