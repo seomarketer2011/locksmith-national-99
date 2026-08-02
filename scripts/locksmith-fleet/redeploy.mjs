@@ -255,6 +255,7 @@ async function maybeEnrich(scratch, site) {
       geo: intel.geo || null,
       postcode_districts: intel.postcode_districts || [],
       all_areas: intel.all_areas || [],
+      neighborhoods: (intel.neighborhoods || []).map(n => n.name).filter(Boolean),
       address: addressObj,   // { street, city, postcode, country } or null
     };
     const metaPath = join(scratch, "src", "data", "site-meta.json");
