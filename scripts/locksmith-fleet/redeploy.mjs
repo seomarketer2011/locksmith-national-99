@@ -55,6 +55,10 @@ if (args.domain) {
 } else {
   selected = fleet;
 }
+if (args.exclude) {
+  const excluded = new Set(String(args.exclude).split(",").map(s => s.trim()).filter(Boolean));
+  selected = selected.filter(s => !excluded.has(s.domain));
+}
 
 console.log(`Selected ${selected.length} site(s).`);
 if (args.dry_run) console.log("DRY RUN: substitute only, no build/deploy.");
@@ -83,8 +87,8 @@ for (const site of selected) {
     if (!args.dry_run) {
       runBuild(scratch);
       if (!args.skip_deploy) {
-        await ensureProductionBranch(cfProject);
-        runDeploy(scratch, cfProject);
+        const accountId = await ensureProductionBranch(cfProject);
+        runDeploy(scratch, cfProject, accountId);
       }
       if (args.fix_cname && !args.skip_deploy) await fixCname(site.domain, cfProject);
     }
@@ -309,16 +313,17 @@ function runBuild(scratch) {
   if (!existsSync(dist)) throw new Error("dist/ not produced by build");
 }
 
-function runDeploy(scratch, project) {
-  console.log(`  deploying to CF Pages project '${project}'…`);
+function runDeploy(scratch, project, accountId) {
+  console.log(`  deploying to CF Pages project '${project}'${accountId ? ` (account ${accountId.slice(0, 8)}…)` : ""}…`);
+  const env = accountId ? { ...process.env, CLOUDFLARE_ACCOUNT_ID: accountId } : process.env;
   sh("npx", ["wrangler", "pages", "deploy", "dist",
     "--project-name", project,
     "--branch", "main",
-    "--commit-dirty=true"], scratch);
+    "--commit-dirty=true"], scratch, env);
 }
 
-function sh(cmd, args, cwd) {
-  const res = spawnSync(cmd, args, { cwd, stdio: "inherit", env: process.env });
+function sh(cmd, args, cwd, env) {
+  const res = spawnSync(cmd, args, { cwd, stdio: "inherit", env: env || process.env });
   if (res.status !== 0) throw new Error(`${cmd} ${args.join(" ")} exited with ${res.status}`);
 }
 
@@ -404,24 +409,48 @@ function cfAuthHeaders() {
   return null;
 }
 
-async function ensureProductionBranch(project) {
-  const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
+// The fleet's Pages projects are split across more than one Cloudflare account.
+// Candidate accounts: env CLOUDFLARE_ACCOUNT_ID first, then any extras in
+// CLOUDFLARE_ACCOUNT_IDS (comma-separated). resolveAccount finds which one
+// actually holds the project so lookups and wrangler deploys target it.
+function candidateAccounts() {
+  const ids = [process.env.CLOUDFLARE_ACCOUNT_ID,
+    ...(process.env.CLOUDFLARE_ACCOUNT_IDS || "").split(",").map(s => s.trim())];
+  return [...new Set(ids.filter(Boolean))];
+}
+
+async function resolveAccount(project) {
   const headers = cfAuthHeaders();
-  if (!accountId || !headers) return; // no creds, skip silently
-  const data = await cfGet(`/accounts/${accountId}/pages/projects/${project}`, headers);
-  if (!data.success) {
-    // Project doesn't exist — create it with production_branch=main so the first deploy lands in production.
-    console.log(`  CF Pages project '${project}' not found, creating…`);
+  if (!headers) return null;
+  for (const acct of candidateAccounts()) {
+    const data = await cfGet(`/accounts/${acct}/pages/projects/${project}`, headers);
+    if (data.success) return { acct, data };
+  }
+  return null;
+}
+
+async function ensureProductionBranch(project) {
+  const headers = cfAuthHeaders();
+  if (!headers || candidateAccounts().length === 0) return null; // no creds, skip silently
+  const found = await resolveAccount(project);
+  if (!found) {
+    // Project doesn't exist in any known account — create it in the primary
+    // account with production_branch=main so the first deploy lands in production.
+    const accountId = candidateAccounts()[0];
+    console.log(`  CF Pages project '${project}' not found in any known account, creating in ${accountId.slice(0, 8)}…`);
     const created = await cfPost(`/accounts/${accountId}/pages/projects`,
       { name: project, production_branch: "main" }, headers);
     if (!created.success) {
       throw new Error(`CF project create failed: ${JSON.stringify(created.errors)}`);
     }
-    return;
+    return accountId;
   }
-  if (data.result?.production_branch === "main") return;
-  console.log(`  setting production_branch=main on CF Pages project '${project}'…`);
-  await cfPatch(`/accounts/${accountId}/pages/projects/${project}`, { production_branch: "main" }, headers);
+  const { acct, data } = found;
+  if (data.result?.production_branch !== "main") {
+    console.log(`  setting production_branch=main on CF Pages project '${project}'…`);
+    await cfPatch(`/accounts/${acct}/pages/projects/${project}`, { production_branch: "main" }, headers);
+  }
+  return acct;
 }
 
 async function cfPost(path, body, headers) {

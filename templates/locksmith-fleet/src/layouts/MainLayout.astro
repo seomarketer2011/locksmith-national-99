@@ -7,6 +7,11 @@ import { Image } from "astro:assets";
 
 const { ...props } = Astro.props;
 const address = "{{address}}";
+
+import siteMeta from "../data/site-meta.json";
+const footPostcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+const footNeighborhoods: string[] = (Array.isArray((siteMeta as any).neighborhoods) ? (siteMeta as any).neighborhoods : []).slice(0, 10);
+const year = new Date().getFullYear();
 ---
 
 <html lang="en-GB">
@@ -40,58 +45,88 @@ const address = "{{address}}";
 
     </main>
     <footer class="bg-black text-white">
-      <div class="max-w-7xl mx-auto px-6 py-12">
-        <!-- Top grid -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-10 items-center">
-          
-          <!-- Quick Links -->
-          <div class="text-center md:text-left">
-            <h3 class="text-lg font-semibold mb-4">Quick Links</h3>
-            <ul class="space-y-2">
-              <li><a href="/emergency-locksmith/" class="hover:underline">Emergency Locksmith</a></li>
-              <li><a href="/locked-out/" class="hover:underline">Locked Out</a></li>
-              <li><a href="/burglar-repair-service/" class="hover:underline">Burglar Repair Service</a></li>
-              <li><a href="/emergency-boarding-up/" class="hover:underline">Boarding Up</a></li>
-              <li><a href="/broken-key-removal/" class="hover:underline">Broken Key Removal</a></li>
-            </ul>
-          </div>
-      
-          <!-- Logo / Tagline -->
-          <div class="flex flex-col items-center justify-center order-first md:order-none">
+      <div class="max-w-7xl mx-auto px-6 py-14">
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-8 gap-y-10">
+
+          <!-- Company info -->
+          <div class="col-span-2 md:col-span-3 lg:col-span-1">
             <Image
               src={logo}
               alt="{{name}}"
-              width={200}
-              height={73}
+              width={170}
+              height={62}
               loading="lazy"
               class="mb-4"
             />
-            <p class="text-sm opacity-80">Your Local Locksmith Expert</p>
+            <p class="font-semibold">{{name}}</p>
+            {address && <p class="mt-2 text-sm text-neutral-300">{address}</p>}
+            <p class="mt-2 text-sm text-neutral-300">
+              <a href="tel:{{phone_tel}}" class="hover:text-amber-400">{{phone}}</a>
+            </p>
+            <p class="mt-3 text-sm text-neutral-400">Open 24 hours,<br/>Monday to Sunday</p>
           </div>
-      
-          <!-- Service Hours -->
-          <div class="w-fit mx-auto md:mx-0 md:ml-auto">
-            <div class="text-center md:text-left">
-              <h3 class="text-lg font-semibold mb-4">Service Hours</h3>
-              <p class="font-medium">Mon – Sun</p>
-              <p class="mb-2">24 Hour</p>
-              <p class="font-semibold">Emergency Service</p>
-              {address && (
-                <>
-                  <br/>
-                  <p class="font-semibold whitespace-nowrap">{address}</p>
-                </>
-              )}
-            </div>
+
+          <!-- Emergency Locksmiths -->
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-amber-500 mb-4">Emergency Locksmiths</h3>
+            <ul class="space-y-2 text-sm text-neutral-300">
+              <li><a href="/emergency-locksmith/" class="hover:text-white hover:underline">Emergency Locksmith</a></li>
+              <li><a href="/locked-out/" class="hover:text-white hover:underline">Locked Out</a></li>
+              <li><a href="/broken-key-removal/" class="hover:text-white hover:underline">Broken Key Removal</a></li>
+              <li><a href="/burglar-repair-service/" class="hover:text-white hover:underline">Burglar Repair Service</a></li>
+              <li><a href="/emergency-boarding-up/" class="hover:text-white hover:underline">Emergency Boarding Up</a></li>
+            </ul>
           </div>
-      
+
+          <!-- Lock Services -->
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-amber-500 mb-4">Lock Services</h3>
+            <ul class="space-y-2 text-sm text-neutral-300">
+              <li><a href="/lock-changes/" class="hover:text-white hover:underline">Lock Changes</a></li>
+              <li><a href="/lock-repairs/" class="hover:text-white hover:underline">Lock Repairs</a></li>
+              <li><a href="/door-lock-installation/" class="hover:text-white hover:underline">Door Lock Installation</a></li>
+              <li><a href="/door-lock-replacement/" class="hover:text-white hover:underline">Door Lock Replacement</a></li>
+              <li><a href="/door-repairs/" class="hover:text-white hover:underline">Door Repairs</a></li>
+              <li><a href="/window-lock-repair-replacement/" class="hover:text-white hover:underline">Window Lock Repair</a></li>
+            </ul>
+          </div>
+
+          <!-- Safes & Help -->
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-amber-500 mb-4">Safes &amp; Help</h3>
+            <ul class="space-y-2 text-sm text-neutral-300">
+              <li><a href="/safe-installation/" class="hover:text-white hover:underline">Safe Installation</a></li>
+              <li><a href="/safe-opening/" class="hover:text-white hover:underline">Safe Opening</a></li>
+              <li><a href="/contact/" class="hover:text-white hover:underline">Contact Us</a></li>
+            </ul>
+          </div>
+
+          <!-- Coverage -->
+          <div>
+            <h3 class="text-sm font-semibold uppercase tracking-wide text-amber-500 mb-4">Coverage Area</h3>
+            <p class="text-sm text-neutral-300">Serving {{location}} and the surrounding areas.</p>
+            {footPostcodes.length > 0 && (
+              <p class="mt-3 text-sm text-neutral-300"><span class="font-semibold text-white">Postcodes:</span> {footPostcodes.join(", ")}</p>
+            )}
+            {footNeighborhoods.length > 0 && (
+              <ul class="mt-3 space-y-1.5 text-sm text-neutral-300">
+                {footNeighborhoods.map((n) => (
+                  <li class="flex items-center gap-2"><span class="w-1 h-1 rounded-full bg-amber-500 shrink-0"></span>{n}</li>
+                ))}
+              </ul>
+            )}
+          </div>
+
         </div>
-      
+
         <!-- Divider -->
-        <div class="border-t border-white/20 mt-10 pt-6 text-center text-sm">
-          <a href="/cookie/" class="hover:underline">Cookie Policy</a>
-          <span class="mx-2">|</span>
-          <a href="/privacy/" class="hover:underline">Privacy Policy</a>
+        <div class="border-t border-white/15 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-neutral-400">
+          <p>© {year} {{name}}. All rights reserved.</p>
+          <p>
+            <a href="/cookie/" class="hover:text-white hover:underline">Cookie Policy</a>
+            <span class="mx-2">|</span>
+            <a href="/privacy/" class="hover:text-white hover:underline">Privacy Policy</a>
+          </p>
         </div>
       </div>
     </footer> </body>
