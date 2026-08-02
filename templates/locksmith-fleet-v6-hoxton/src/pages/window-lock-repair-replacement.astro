@@ -1,0 +1,1126 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/window lock repair.png";
+import lock from "../assets/services/window lock replacement 1.png";
+import lock2 from "../assets/services/Window lock replacement.png";
+import lock3 from "../assets/services/window lock repair.png";
+
+// Enrichment overlay for service: window-lock-repair-replacement
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "window-lock-repair-replacement";
+const metaTitle = e[`${slug}.meta.title`] ?? `Window Lock Repair & Replacement {{location}} | Fast, Secure Fixes `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency window lock repair in {{location}}. Window won't lock, close, or key stuck? Professional repair & replacement for uPVC windows. Espag, cockspur & multi-point locks. Same-day & emergency service.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3">Get a quote today</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">Transparent pricing</span>
+        
+        <span class="px-3">Written quote available</span>
+        
+        <span class="px-3">Windows lock securely</span>
+        
+      </div>
+    </div>
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+    <h1 class="text-4xl font-bold">Window Lock Repair & Replacement in {{location}}</h1>
+    <p class="mt-4 text-gray-600">
+          {heroParagraph || `Window Lock Options in {{location}} • Repair or Replace for Smooth Closing • Transparent Pricing • Written Quote Available • Clean Workmanship With Minimal Disruption.`}
+        </p>
+
+    <div class="mt-8 grid sm:grid-cols-2 gap-4">
+      <div class="border rounded-xl p-5">Repair or replace window locks for safe closing and ventilation.</div>
+      <div class="border rounded-xl p-5">Parts matched to window type and tested for smooth operation.</div>
+      <div class="border rounded-xl p-5">Transparent pricing with options and written quote available.</div>
+      <div class="border rounded-xl p-5">Secure fitting, work guaranteed, child-safety guidance provided.</div>
+    </div>
+    <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Call Now for Window Locks</a>
+  </div>
+</div>
+</div>
+</section>
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional window lock repair and replacement service"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Window Lock Repair & Replacement in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A window that won't lock properly is more than an annoyance — it's a security risk, a comfort issue, and often the reason a window won't close cleanly. If your window won't lock, won't close, feels jammed or stiff, has a key stuck in the lock, or the handle has snapped or spins without engaging, the underlying problem is usually a worn mechanism, a failed gearbox, a broken spindle, or simple misalignment that stops the locking points meeting the keep.
+          </p>
+          <p>
+            Most modern uPVC windows are fitted with multi-point locking systems that attach at several points. These systems contain several moving parts that facilitate operation and can sometimes be the source of issues.
+          </p>
+          <p>
+            With window lock repair and replacement in {{location}}, the aim is always the same: restore smooth operation and secure engagement without unnecessary disruption. Repairs and replacements are designed to ensure your window lock provides reliable security and peace of mind. Many faults can be fixed by replacing a failed handle, adjusting alignment, changing the keep/striker plate, or swapping the internal locking mechanism — often without replacing the whole window. Where parts are beyond repair, the right replacement matched to your window type (commonly uPVC casements) gets you back to a window that closes firmly and locks confidently.
+          </p>
+          <p>
+            {{name}} focuses on practical outcomes: a window that pulls in, aligns, and locks properly, with sensible options when you've lost keys or can't turn the key at all. You'll get a clear "repair vs replace" recommendation, realistic lead times (including same-day options when possible), and workmanship that's checked before we leave — so the window doesn't just lock once, it keeps working reliably.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔒</span>
+            Call for Window Lock Repair
+          </a>
+        
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Window Won't Lock: Common Causes -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Window won't lock or won't close in <span class="text-amber-500">{{location}}</span>? Common causes and quick wins
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              When a window won't lock, it's usually due to common issues that are easier to fix than they appear. A stiff handle, a lock that "almost" catches, or a key that won't turn is frequently caused by one of these issues. Understanding the reasons behind these lock malfunctions can help you identify the right solution quickly:
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Window lock repair for windows that won't lock or close"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Misalignment and dropped sashes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Misalignment and dropped sashes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Over time, hinges can settle and frames can shift slightly. That small movement is enough for the locking points to miss the keep. You may notice:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The handle needs extra force to move</li>
+            <li>The window rubs on the frame</li>
+            <li>The lock works only if you lift/push the sash</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Correcting alignment and making small adjustments can restore proper engagement without changing major parts.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Worn or failed locking components -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Worn or failed locking components
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the mechanism feels gritty, inconsistent, or the handle moves with no resistance, internal components may be worn or faulty:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Espagnolette (espag) gearboxes can fail</li>
+            <li>Locking points can become stiff or seized</li>
+            <li>Keeps/striker plates can distort or loosen</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Handle and spindle problems -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Handle and spindle problems
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A broken handle, a stripped spindle, or the wrong spindle length can make the lock unreliable. If the handle turns but nothing engages, the spindle or gearbox is often the culprit.
+          </p>
+          <p>
+            A good repair starts with diagnosing what's actually failing: alignment, handle/spindle, keeps, or the mechanism itself. Fixing the true cause prevents repeat issues.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Repair or Replace -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Repair or replace: what's best for your window lock?
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            The most important decision is whether you need a repair, a like-for-like replacement, or an upgraded component. For uPVC window locking mechanisms, repairs can often be made by changing the center gearbox, which is the part that usually fails. The right answer depends on the fault, the window type, and how quickly you need the window secure again. If replacement is necessary, there are replacement window lock gearboxes available specifically for uPVC windows to restore security and functionality.
+          </p>
+        </div>
+      </div>
+      
+      <!-- When repair makes sense -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When repair makes sense
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Repair is often the best route when:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The mechanism is sound but misaligned</li>
+            <li>The keep/striker plate is worn or incorrectly positioned</li>
+            <li>The lock is stiff due to minor seizure or poor engagement</li>
+            <li>The handle is loose but not fundamentally broken</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            These solutions typically restore function quickly and keep costs controlled.
+          </p>
+        </div>
+      </div>
+      
+      <!-- When replacement is the smarter option -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When replacement is the smarter option
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacement becomes more appropriate when:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The gearbox has failed (common on espag systems)</li>
+            <li>The handle/spindle is snapped or stripped</li>
+            <li>The key won't turn due to internal failure</li>
+            <li>Parts are excessively worn or unreliable after adjustment</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacing the right component is usually faster and more dependable than repeated tweaks.
+          </p>
+        </div>
+      </div>
+      
+      <!-- "Do I need a whole new window?" -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          "Do I need a whole new window?"
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            In most cases, no. Window lock repair and replacement is about restoring the locking hardware and alignment — not replacing frames or glazing unless there's separate damage. If a window can be made secure with correct parts and fitting, that's the priority.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC Window Lock Types -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            uPVC window lock repairs and the handle types you're most likely to have
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Most homes in the UK have uPVC casement windows, and the majority use one of these handle/lock setups. There is a variety of upvc window locking mechanisms available, including common types such as latch, deadbolt, and hook variants, to suit different window configurations and security needs. Identifying the type ensures the correct fit and avoids the common frustration of ordering the wrong part.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="uPVC window lock types: espagnolette, cockspur, and multi-point locks"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Espagnolette (espag) locks and handles -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Espagnolette (espag) locks and handles
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Often used on modern casements. The handle drives a spindle into a gearbox, moving locking points along the frame. Typical issues include stiff operation, worn gearboxes, and misalignment that stops full engagement.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Cockspur handles -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Cockspur handles
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Common on older uPVC windows. These clamp against a wedge block. The right step height and wedge alignment are critical; the wrong fit leads to poor security and awkward closing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Multi-point and shootbolt window locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Multi-point and shootbolt window locks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some windows have shootbolts or additional locking points. These systems can be very secure, but they're less forgiving when alignment is out, and they often rely on specific keeps and mechanism variants. When replacing a multi-point or shootbolt window lock, it's important to measure both the backset and the overall length of the window gearbox to ensure compatibility with your window's locking system.
+          </p>
+          <p>
+            We'll focus on accurate matching — not just "a handle that looks similar", but a handle and mechanism that works properly with your window's locking system.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Repair Process -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What happens during a window lock repair visit in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A reliable fix is about more than swapping a handle. A technician will inspect your window on site, identify the issue, and ensure the right repair is carried out. The goal is to make the window close cleanly, lock smoothly, and stay that way.
+          </p>
+          <p>
+            It's important to check your window locks, hinges, and handles every 3 to 6 months for any issues to maintain security and functionality.
+          </p>
+        </div>
+      </div>
+      
+      <!-- 1) Diagnosis and non-destructive opening -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          1) Diagnosis and non-destructive opening (when needed)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the window is locked shut with a failed mechanism, or you've lost keys, the first step is to regain access safely where possible. In many cases, the window can be opened without causing avoidable damage, allowing a proper repair or replacement from the inside.
+          </p>
+        </div>
+      </div>
+      
+      <!-- 2) Correct measuring and part matching -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          2) Correct measuring and part matching
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Getting the right components is crucial. To start, we measure or confirm:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <div class="space-y-3">
+              <li>Spindle length (especially on espag handles)</li>
+              <li>PZ centres (handle fixing positions)</li>
+              <li>Backset or mechanism dimensions</li>
+            </div>
+            <div class="space-y-3">
+              <li>Step height (cockspur handles)</li>
+              <li>Keep/striker sizing and positioning</li>
+            </div>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This "measure twice, fit once" approach prevents repeat visits and poor engagement.
+          </p>
+        </div>
+      </div>
+      
+      <!-- 3) Repair, replacement, and adjustment -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          3) Repair, replacement, and adjustment
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Work may include replacing the handle, changing a gearbox/mechanism, fitting a new keep/striker, and adjusting hinges/alignment so the locking points meet correctly. The end result should feel noticeably smoother and more secure.
+          </p>
+        </div>
+      </div>
+      
+      <!-- 4) Testing before completion -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          4) Testing before completion
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A proper job finishes with checks: the window closes without forcing, the handle turns cleanly, and the lock engages consistently. If the lock requires "just the right pressure" to work, it's not finished.
+          </p>
+          <p>
+            Where offered, parts and workmanship are backed by a clear guarantee so you know what's covered.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency and Same-Day Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency and same-day window lock repairs in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Some lock issues can't wait — particularly when the window won't secure at night, after a break-in attempt, or when a ground-floor window won't lock at all. Emergency support is often required after break-in attempts to quickly restore your home's security. We can help with urgent window lock repair as well as issues with door locks, including UPVC doors, composite doors, and patio doors. Emergency support focuses on restoring security first, then delivering the best long-term fix.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Emergency window lock repair service"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Common urgent scenarios -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Common urgent scenarios
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Key stuck in lock or key won't turn</li>
+            <li>Snapped key requiring safe extraction</li>
+            <li>Handle failure leaving the window unsecured</li>
+            <li>Lock jammed with the window part-open</li>
+            <li>A window that won't close due to misalignment</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- What "make secure" can involve -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What "make secure" can involve
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Depending on the fault, this could mean a quick replacement of a failed handle, re-aligning the sash so locking points meet, fitting a compatible keep/striker, or replacing a failed mechanism where the correct part is available.
+          </p>
+          <p>
+            Same-day options depend on the window type and parts required, but the priority is always a secure, workable window — not a temporary fix that fails again.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Security Outcomes and Upgrades -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Security outcomes and sensible upgrades after lock replacement
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Once your window locks properly again, you may want to consider whether the repaired setup meets your expectations for security and day-to-day use. Upgrading or replacing window locks can significantly improve home security and functionality. There is a wide range of security features on offer, including locks with anti-pick technology and advanced mechanisms designed to resist tampering. Qualified locksmiths can offer repairs for a range of window lock types, including uPVC locks, ensuring you have the right solution for your needs.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lockable handles and improved engagement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lockable handles and improved engagement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A properly fitted lockable handle and correctly aligned keeps can make a real difference. The most important "upgrade" is often simply ensuring the lock pulls the window in tightly and engages fully.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Additional security and safety options -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Additional security and safety options
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Depending on your window type and household needs, you may benefit from:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Child safety restrictors for ventilation with control</li>
+            <li>Improved keeps/strikers where the originals are worn</li>
+            <li>Additional anti-lift measures where appropriate</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Standards and reassurance -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Standards and reassurance (in plain English)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some people look for references like PAS 24, BS 7950, or Secured by Design when thinking about security. For most households, the practical test is simpler: the window closes cleanly, locks consistently, and doesn't rely on force or "wiggling" to engage. If you have insurer-specific requirements, it's worth checking what they actually ask for so the solution matches real-world expectations rather than marketing labels.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Price Factors -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Price factors for window lock repair and replacement in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Window lock jobs vary because window hardware varies. The cost of window lock repair or replacement depends on the style of the window. Qualified locksmiths in the UK charge an average of £65 per hour for window lock repairs. The most accurate pricing comes from identifying the lock type, the fault, and the parts needed — but you can usually anticipate the main price factors. For more detailed information, read our guide on locksmith costs and pricing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- The main price factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          The main price factors
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Type of lock/handle:</strong> espag, cockspur, shootbolt, sash</li>
+            <li><strong>Parts required:</strong> handle only vs gearbox/mechanism vs keeps</li>
+            <li><strong>Condition and alignment:</strong> simple adjustment vs hinge-related correction</li>
+            <li><strong>Urgency:</strong> routine appointment vs emergency attendance</li>
+            <li><strong>Number of windows:</strong> single repair vs multiple locks keyed or matched</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Repair vs replacement costs in practical terms -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Repair vs replacement costs in practical terms
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Minor alignment and keep replacement can be straightforward. Full mechanism replacements can be more involved, especially on specialist windows. The best value comes from doing the job once with correctly matched parts and proper testing — rather than repeated "almost fixed" adjustments.
+          </p>
+          <p>
+            If matching handle style/colour matters to you, that can influence part selection too, particularly for older windows where equivalents vary.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-neutral-50">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Window Lock Repair & Replacement Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Window won't lock / won't close — diagnosis + alignment adjustment
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Realign sash/hinges so locking points meet; no parts included
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Keep / striker plate replacement + alignment check
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Includes measuring/positioning; keep/striker part extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Espagnolette (espag) lockable handle replacement
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Correct spindle length + fixing centres checked; handle/parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Cockspur handle replacement (correct step height)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Wedge/step height matched for proper clamp; handle/parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Key stuck / snapped key extraction (window handle/lock)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Safe extraction where possible; replacement parts if damaged are extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC espag gearbox / internal locking mechanism replacement
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Like-for-like mechanism matched by measurements; parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Shootbolt / multi-point window lock mechanism replacement
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  More complex matching and fitting; parts extra and subject to availability
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Window locked shut / lock jammed — non-destructive opening + make secure
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Regain access where possible and restore basic security; parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Each additional window on the same visit (repair/replacement work)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Add-on per extra window; assumes first hour already billed on main job
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Window lock repair and replacement FAQs
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you fix a window lock without replacing the whole window?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes. Many issues are resolved by replacing the handle, the gearbox/mechanism, or the keep, plus correcting alignment so the lock engages properly.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What if I've lost my window keys?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                In many cases, the solution is a lockable handle replacement or a compatible locking component change. The right option depends on your window type and how it currently locks.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                My handle turns but the window won't lock — what does that mean?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                This commonly points to a stripped spindle, a failed gearbox, or misalignment where the locking points aren't meeting the keeps.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you match my existing handle style or colour?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Usually, yes — within the limits of what's available for your handle type. For older setups, the priority is correct fit and secure operation, then appearance.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you handle sash windows, tilt-and-turn, or timber windows?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                These can be covered, but hardware varies more than standard uPVC casements. The key is identifying the lock type and fitting the correct components for that specific window.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Why does my window lock feel stiff in cold weather?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Temperature changes can affect alignment and friction. If stiffness is persistent, it's worth addressing alignment and checking for wear rather than forcing the handle.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Maintenance Advice -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Looking after your repaired window lock
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A repaired or replaced lock should feel smooth and positive. To keep it that way, avoid forcing the handle, keep the tracks clean, and address early signs of misalignment (rubbing, catching, or needing extra pressure to lock). If the window starts to require "technique" to close, it usually means the alignment needs a small correction before it stresses the mechanism again.
+          </p>
+          <p>
+            An important part of maintaining your window lock and ensuring you choose a quality window lock repair company is reading online customer testimonials, as they can help you find trusted professionals in your area.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Need Window Lock Repair in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Window won't lock, close, or key stuck? We provide fast, professional window lock repair and replacement in {{location}} for all window types.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for same-day service or emergency repairs.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Call for Window Lock Repair
+          </a>
+      
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Door Lock Change -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-changes/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Full property lock change
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Change all locks across your property for complete security.
+        </p>
+      </div>
+    
+      <!-- Door Lock Installation -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-installation/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Install new door locks in {{location}}
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Professional installation of new locks on all door types.
+        </p>
+      </div>
+    
+      <!-- Door Lock Repair -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Door lock repair service
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair faulty, sticking, or damaged door locks.
+        </p>
+      </div>
+    
+      <!-- Door Lock Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Door lock replacements
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Replace old or failing locks with new, secure ones.
+        </p>
+      </div>
+    
+      <!-- Door Repairs -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Fix doors and frames
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair structural issues with doors, frames, and alignment.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Home
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  
+        href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Window Lock Repair</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

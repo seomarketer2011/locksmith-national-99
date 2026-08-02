@@ -1,0 +1,105 @@
+---
+import Navbar from "../components/ui/Navbar.astro";
+import MainHead from "./MainHead.astro";
+import logo from "../assets{{logo_url}}";
+import "../styles/global.css";
+import { Image } from "astro:assets";
+
+const { ...props } = Astro.props;
+const address = "{{address}}";
+---
+
+<html lang="en-GB">
+  <MainHead {...props} />
+  <body class="bg-white font-grotesk">
+    <!-- SVG Sprite -->
+    <svg xmlns="http://www.w3.org/2000/svg"  style="display:none;">
+      <symbol id="icon-check" width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+          clip-rule="evenodd"
+        />
+      </symbol>
+    </svg>
+
+    <!-- Preload Hero Image -->
+
+
+    <main>
+      <Navbar />
+
+      <!-- Above the fold -->
+      <slot name="hero" />
+
+      <!-- Below the fold sections -->
+      <div class="content-auto">
+        <slot />
+      </div>
+      
+
+    </main>
+    <footer class="bg-black text-white">
+      <div class="max-w-7xl mx-auto px-6 py-12">
+        <!-- Top grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-10 items-center">
+          
+          <!-- Quick Links -->
+          <div class="text-center md:text-left">
+            <h3 class="text-lg font-semibold mb-4">Quick Links</h3>
+            <ul class="space-y-2">
+              <li><a href="/emergency-locksmith/" class="hover:underline">Emergency Locksmith</a></li>
+              <li><a href="/locked-out/" class="hover:underline">Locked Out</a></li>
+              <li><a href="/burglar-repair-service/" class="hover:underline">Burglar Repair Service</a></li>
+              <li><a href="/emergency-boarding-up/" class="hover:underline">Boarding Up</a></li>
+              <li><a href="/broken-key-removal/" class="hover:underline">Broken Key Removal</a></li>
+            </ul>
+          </div>
+      
+          <!-- Logo / Tagline -->
+          <div class="flex flex-col items-center justify-center order-first md:order-none">
+            <Image
+              src={logo}
+              alt="{{name}}"
+              width={200}
+              height={73}
+              loading="lazy"
+              class="mb-4"
+            />
+            <p class="text-sm opacity-80">Your Local Locksmith Expert</p>
+          </div>
+      
+          <!-- Service Hours -->
+          <div class="w-fit mx-auto md:mx-0 md:ml-auto">
+            <div class="text-center md:text-left">
+              <h3 class="text-lg font-semibold mb-4">Service Hours</h3>
+              <p class="font-medium">Mon – Sun</p>
+              <p class="mb-2">24 Hour</p>
+              <p class="font-semibold">Emergency Service</p>
+              {address && (
+                <>
+                  <br/>
+                  <p class="font-semibold whitespace-nowrap">{address}</p>
+                </>
+              )}
+            </div>
+          </div>
+      
+        </div>
+      
+        <!-- Divider -->
+        <div class="border-t border-white/20 mt-10 pt-6 text-center text-sm">
+          <a href="/cookie/" class="hover:underline">Cookie Policy</a>
+          <span class="mx-2">|</span>
+          <a href="/privacy/" class="hover:underline">Privacy Policy</a>
+        </div>
+      </div>
+    </footer> </body>
+
+  <style>
+    .content-auto {
+      content-visibility: auto;
+      contain-intrinsic-size: 800px;
+    }
+  </style>
+</html>

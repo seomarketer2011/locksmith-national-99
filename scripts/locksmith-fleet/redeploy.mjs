@@ -24,7 +24,7 @@ import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..", "..");
-const TEMPLATE_DIR = join(ROOT, "templates", "locksmith-fleet");
+let TEMPLATE_DIR = join(ROOT, "templates", "locksmith-fleet");
 const FLEET_JSON = join(ROOT, "data", "locksmith-fleet", "sites.json");
 const OUTPUT_ROOT = join(ROOT, "output", "locksmith-fleet");
 
@@ -40,6 +40,7 @@ if (args.help || (!args.domain && !args.all && !args.deployable)) {
   process.exit(args.help ? 0 : 1);
 }
 
+if (args.template) TEMPLATE_DIR = resolve(ROOT, args.template);
 if (!existsSync(TEMPLATE_DIR)) die(`Template not found: ${TEMPLATE_DIR}`);
 if (!existsSync(FLEET_JSON)) die(`Fleet manifest not found: ${FLEET_JSON}`);
 

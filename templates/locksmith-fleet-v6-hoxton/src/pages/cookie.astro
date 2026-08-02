@@ -1,0 +1,87 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+---
+
+<MainLayout title="Cookie Policy">
+    <main class="container mx-auto px-4 py-8 max-w-4xl">
+        <header class="mb-12">
+            <h1 class="text-3xl md:text-4xl font-bold mb-4">Cookie Policy for {{name}}</h1>
+            <div class="flex items-center text-gray-600">
+                <span class="font-medium">Last updated:</span>
+                <span class="ml-2">{{policy_date}}</span>
+            </div>
+        </header>
+
+        <section class="mb-10">
+            <p class="text-lg leading-relaxed">
+                This Cookie Policy explains how <span class="font-semibold">{{name}}</span> ("we", "us") uses cookies and similar technologies on our website at <span class="font-semibold">https://{{domain}}</span> when you visit to find locksmith services in {{location}}.
+            </p>
+            <p class="text-lg leading-relaxed mt-4">
+                It should be read alongside our <a href="/privacy/" class="text-amber-600 underline">Privacy Policy</a>, which explains how we handle any personal data you provide.
+            </p>
+        </section>
+
+        <div class="border-t border-gray-300 my-10"></div>
+
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-6">What are cookies?</h2>
+            <p class="mb-4">
+                Cookies are small text files placed on your device by websites you visit. They are widely used to make sites work, to make them work more efficiently, and to provide information to the site owner.
+            </p>
+            <p>
+                Similar technologies — such as web beacons, pixels, local storage and session storage — may also be used for comparable purposes. We refer to all of these as "cookies" in this policy.
+            </p>
+        </section>
+
+        <div class="border-t border-gray-300 my-10"></div>
+
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-6">Cookies we use</h2>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Strictly necessary</h3>
+            <p class="mb-4">
+                These cookies are required for the site to function — for example, to remember your preferences during a single visit, or to keep the site secure. You can disable them in your browser, but parts of the site may not work as expected.
+            </p>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">Analytics (if enabled)</h3>
+            <p class="mb-4">
+                We may use anonymised analytics cookies (e.g. via Cloudflare or Google Analytics) to understand which pages are most useful and to improve the site. These cookies do not directly identify you. Where required by law we will ask for your consent before setting them.
+            </p>
+
+            <h3 class="text-xl font-semibold mt-6 mb-3">No advertising or third-party tracking</h3>
+            <p>
+                We do not use advertising cookies, retargeting cookies, or sell data to third-party marketers from this site.
+            </p>
+        </section>
+
+        <div class="border-t border-gray-300 my-10"></div>
+
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-6">Managing cookies</h2>
+            <p class="mb-4">
+                Most browsers allow you to view, manage, delete and block cookies through their settings. Visit <a href="https://www.aboutcookies.org" class="text-amber-600 underline" rel="noopener">aboutcookies.org</a> for step-by-step guidance for each major browser.
+            </p>
+            <p>
+                Blocking strictly necessary cookies may make parts of the site unavailable to you.
+            </p>
+        </section>
+
+        <div class="border-t border-gray-300 my-10"></div>
+
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-6">Changes to this policy</h2>
+            <p>
+                We may update this Cookie Policy from time to time to reflect changes in the way we use cookies or to comply with legal requirements. The "Last updated" date at the top of this page shows when it was most recently changed.
+            </p>
+        </section>
+
+        <div class="border-t border-gray-300 my-10"></div>
+
+        <section class="mb-10">
+            <h2 class="text-2xl font-bold mb-6">Contact</h2>
+            <p>
+                If you have questions about this Cookie Policy or how we use cookies, please <a href="/contact/" class="text-amber-600 underline">contact us</a>. You can also reach us on <a href="tel:{{phone_tel}}" class="text-amber-600 underline">{{phone}}</a>.
+            </p>
+        </section>
+    </main>
+</MainLayout>

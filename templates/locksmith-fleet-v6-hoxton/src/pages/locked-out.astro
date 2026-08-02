@@ -1,0 +1,1245 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Locked out of house image.png";
+import lock from "../assets/services/Locked out of house.png";
+import lock2 from "../assets/services/Locked out.png";
+import lock3 from "../assets/services/Locked out of house image.png";
+import lock4 from "../assets/services/Locked out of house.png";
+
+// Enrichment overlay for service: locked-out
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "locked-out";
+const metaTitle = e[`${slug}.meta.title`] ?? `Locked Out in {{location}}? | Fast, Damage-Minimising Emergency Lockout Service `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency lockout service in {{location}}. Lost keys? Locked out? We provide fast, non-destructive entry to get you back inside quickly. 24/7 emergency locksmith service for homes, flats & businesses.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <!-- Top info bar -->
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3 text-gray-900">Call us 24/7</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">30–60 min response</span>
+        
+        <span class="px-3">No call-out fee</span>
+        
+        <span class="px-3">Back inside fast</span>
+        
+      </div>
+    </div>
+
+    <!-- Main content -->
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold text-gray-900 leading-tight">
+          Locked Out in {{location}}
+        </h1>
+
+        <p class="mt-4 text-gray-600 text-base">
+          {heroParagraph || `24/7 Lockout Help in {{location}} • Non-Destructive Entry First • Keep Locks Working Where Possible •
+          DBS Checked Technician • Upfront Price Before Work Begins.`}
+        </p>
+
+        <!-- Feature cards -->
+        <div class="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Fast Access Restored
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We get you back inside quickly, then check the door and lock still work correctly.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Non-Destructive Entry
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              We use damage-free methods where possible, protecting uPVC, timber, and composite doors.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              Clear Upfront Pricing
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              You get a confirmed price before we start, with no call-out fee.
+            </p>
+          </div>
+
+          <div class="rounded-xl border border-gray-200 p-5">
+            <h3 class="font-semibold text-gray-900">
+              DBS Checked & Insured
+            </h3>
+            <p class="text-sm text-gray-600 mt-1">
+              DBS checked local technician, fully insured, spare cylinders and handles carried if needed.
+            </p>
+          </div>
+        </div>
+
+        <!-- CTA -->
+        <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Get Help If Locked Out</a>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Emergency lockout service - professional locksmith assistance"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Locked Out in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            Being locked out is stressful, especially when it happens at the worst possible time. If you're locked out in {{location}}, the priority is simple: get you back inside quickly, safely, and with as little disruption as possible. When faced with a locked door, it's important to keep the lock intact whenever possible, using non-destructive entry methods. A professional locksmith focuses on non-destructive entry first, uses the right method for your door and lock type, and gives you a clear idea of ETA and the main price factors before work starts.
+          </p>
+          <p>
+            Lockouts in {{location}} aren't always just "lost keys". It could be a door that's slammed shut, a key left inside, a snapped key, or a uPVC multipoint mechanism that's failed even though you've got the right key. The right approach depends on what's actually happened at the door. That's why a proper locksmith-led lockout service starts with a quick, practical diagnosis—then chooses the safest entry route. Calling a professional, insured locksmith is recommended for safe entry.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔑</span>
+            Emergency Lockout Help
+          </a>
+         
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Introduction to Lockout Services -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency Lockout Assistance in {{location}} – What We Help With
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Lockouts come in a few common patterns. The details matter because they affect the best entry method and the likely time on site. Taking proactive measures, such as leaving a spare key with a trusted person, can help prevent future lockouts and save time in emergencies.
+            </p>
+            <p>
+              Lost keys: The most common scenario. If you've lost your keys, first check if a friend, family member, or neighbour has a spare key you can use before calling a locksmith.
+            </p>
+            <p>
+              Broken key in lock: The key snaps off inside the lock, making it impossible to turn or remove.
+            </p>
+            <p>
+              Door slammed shut: Some doors lock automatically when closed, leaving you stranded outside.
+            </p>
+            <p>
+              Malfunctioning lock: Wear and tear or damage can cause locks to jam or fail.
+            </p>
+            <p>
+              For routine lockouts, do not call emergency services, as they only respond to genuine emergencies. Instead, professional locksmiths offer emergency services with quick response times to help you regain access and handle urgent security or repair needs.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Emergency lockout service for lost keys and locked doors"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Common Lockout Scenarios -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Common Lockout Scenarios We Handle
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Understanding your specific situation helps us choose the right approach for safe entry.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lost keys with no spare -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lost keys with no spare
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If your keys are genuinely missing, the goal is to regain entry and then decide whether you need to change the lock for security. If keys may be lost nearby, you might choose to keep the lock; if they've been lost in a public place, a lock change is often the safer option.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Key left inside or "key-in-door" -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Key left inside or "key-in-door"
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A key left in the internal side of the lock can stop another key from turning outside. In many cases, entry is still possible with a damage-minimising method, depending on cylinder type and door setup.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Door slammed shut -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Door slammed shut
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the latch has engaged and the door isn't deadlocked, entry can sometimes be achieved without replacing any parts. The exact method depends on whether it's a night latch set-up, a standard latch, or a door with additional security features.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Snapped key in the lock -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Snapped key in the lock
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A snapped key can leave a fragment in the cylinder that prevents operation. If you have a broken key stuck in the lock, avoid poking at it, as this can cause further damage and make extraction more difficult. The priority is to extract the broken piece where possible, and only replace parts if the cylinder or mechanism is damaged.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Lock jammed or seized -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Lock jammed or seized
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you are locked out in {{location}}, issues with the lock mechanism may be the cause of the problem. If the key won't turn or the lock feels "dead", the issue may be internal wear, misalignment, or a failed mechanism. In these situations, a professional locksmith will assess the lock mechanism to determine if entry can be gained non-destructively, or if a last-resort destructive method is required—followed by replacement and making safe.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Child or pet locked in -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Child or pet locked in
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If there's a safety risk, treat it as urgent. Explain the situation clearly when you call so response and method selection reflect the priority and the safest route back inside.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Response Time and Coverage -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Response Time and Coverage Across {{location}}
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For most people locked out, the key question is "How quickly can you get here?" A lockout service should give a realistic ETA for {{location}} based on where the locksmith is coming from and current conditions, not vague promises. Using a local locksmith ensures not only quicker arrival but also familiarity with the local community, which helps deliver more reliable and trusted service.
+          </p>
+          <p>
+            What can affect ETA?
+          </p>
+          <p>
+            Time of day and traffic conditions
+          </p>
+          <p>
+            Whether you're in central {{location}} or surrounding areas
+          </p>
+          <p>
+            Access constraints (gated blocks, communal entrances, restricted parking)
+          </p>
+          <p>
+            A reliable service will also explain what they need from you on arrival, particularly around proof of occupancy.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Non-Destructive Entry -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Non-Destructive Entry Comes First
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Most customers want the same thing: get in without drilling or damage. Non-destructive entry is the default approach whenever the lock and situation allow it. The goal is to keep the lock intact whenever possible, using specialized tools and techniques to preserve the lock's integrity. Professional locksmiths use non-destructive methods to open locks whenever possible. The method used depends on the lock type, security features, and what has actually failed.
+            </p>
+            <p>
+              What "non-destructive" usually means in practice:
+            </p>
+            <p>
+              Techniques designed to open the door without replacing the lock
+            </p>
+            <p>
+              Careful handling of the lock and door to avoid unnecessary damage
+            </p>
+            <p>
+              A clear explanation if the lock's condition or security design makes non-destructive entry unlikely
+            </p>
+            <p>
+              If a lock has failed internally, or the security level is high, our locksmiths will explain why non-destructive entry may not be possible before proceeding.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Non-destructive lock entry techniques"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door and Lock Types -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door and Lock Types We Commonly Open in {{location}}
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Different doors and locks behave differently during a lockout. Locksmiths are experienced in opening locks on various types of doors, including front door locks, high security locks, and window locks.
+          </p>
+          <p>
+            Professional fitting locks is crucial to ensure your door lock provides maximum security and complies with insurance and safety requirements.
+          </p>
+          <p>
+            In addition to lock installation services for various types of locks, locksmiths provide lock repair services to fix faults and extend the life of existing locks, as well as key cutting and domestic locksmith services for residential properties.
+          </p>
+        </div>
+      </div>
+      
+      <!-- uPVC doors and multipoint locking systems -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          uPVC doors and multipoint locking systems
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A frequent {{location}} lockout scenario is a multipoint failure: the handle lifts, but the door won't open; or the lock feels like it's turning without retracting anything. These systems can fail due to wear, alignment issues, or a broken gearbox.
+          </p>
+          <p>
+            What matters here is method and aftermath:
+          </p>
+          <p>
+            Entry approach depends on whether the door is fully locked or only partially engaged. For uPVC and multipoint systems, high quality locks are recommended to enhance security and durability.
+          </p>
+          <p>
+            If the mechanism has failed, you may need parts replaced after entry
+          </p>
+          <p>
+            If the door has dropped or misaligned, the underlying issue may need addressing to prevent repeat lockouts
+          </p>
+        </div>
+      </div>
+      
+      <!-- Euro cylinder locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Euro cylinder locks (including anti-snap cylinders)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many modern doors use euro cylinders, and some are designed to resist common attacks. That's good for security, but it can affect how straightforward a lockout is. The locksmith should identify the cylinder type and choose the safest method accordingly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Night latches and mortice locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Night latches and mortice locks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Night latches (often on older front doors) behave differently depending on whether the internal snib is engaged.
+          </p>
+          <p>
+            Mortice locks may require a different approach depending on whether the door is deadlocked and the condition of the lock case.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Composite and wooden doors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Composite and wooden doors
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Composite and timber doors are common across {{location}}. The locksmith should prioritise techniques that avoid damaging the door edge, frame, or lock furniture—especially if the door is well-fitted and security-rated.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- If the Lock Must Be Drilled -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          If the Lock Must Be Drilled: What Happens Next
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Sometimes drilling is the only practical route—typically where:
+          </p>
+          <p>
+            The lock has failed internally and won't respond to non-destructive methods
+          </p>
+          <p>
+            The door is deadlocked and security design prevents safe bypass
+          </p>
+          <p>
+            A damaged cylinder or jammed mechanism makes other options unsafe
+          </p>
+          <p>
+            When drilling is necessary, a competent service will:
+          </p>
+          <p>
+            Explain why it's needed and what will be replaced
+          </p>
+          <p>
+            Drill in a controlled way to regain entry
+          </p>
+          <p>
+            Fit a replacement lock or cylinder on the spot where possible
+          </p>
+          <p>
+            Ensure the door is left secure and functioning properly
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock Replacement After Entry -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Lock Replacement and Making Safe After Entry
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Not every lockout ends with a lock change—but when keys are missing, stolen, or a mechanism has failed, replacement is often the sensible next step. In these cases, it is crucial to change locks and install a new lock to ensure your property's security, especially after lost or stolen keys. Upgrading to a high security lock or high quality lock can also enhance protection and may be required for insurance compliance. Lock changes can often be completed quickly, sometimes within 30 minutes, depending on the locksmith's availability and location. Our professional locksmiths are equipped to handle both residential and commercial lockout situations.
+            </p>
+            <p>
+              When replacement is commonly recommended:
+            </p>
+            <p>
+              Keys stolen (or likely stolen)
+            </p>
+            <p>
+              Lost keys in a public place with identifiable address/keyring
+            </p>
+            <p>
+              Snapped key that has damaged the cylinder
+            </p>
+            <p>
+              Multipoint failure where parts are worn or broken
+            </p>
+            <p>
+              Making safe and securing the property
+            </p>
+            <p>
+              If parts are required or a full repair can't be completed immediately, the aim is to make the door secure and reduce risk until the final fix is completed. A locksmith should tell you exactly what's been done and what remains.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Lock replacement and security upgrades after lockout"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Proof of Occupancy and Authorisation -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Proof of Occupancy and Authorisation
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lockout services should take security seriously. Expect to be asked for proof you live there or have authorisation—especially if you've lost your keys and there's no one inside who can confirm access.
+          </p>
+          <p>
+            What counts as proof?
+            This can vary, but typically includes:
+          </p>
+          <p>
+            Photo ID with the address
+          </p>
+          <p>
+            A tenancy agreement or utility bill (digital can be acceptable)
+          </p>
+          <p>
+            Confirmation from a landlord/letting agent (where relevant)
+          </p>
+          <p>
+            If you're a tenant, it's also normal for locksmiths to ask about landlord permission depending on the situation and what work is needed after entry.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Price Factors for Lockouts -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Price Factors for Lockouts in {{location}}
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Locksmith cost can vary significantly depending on several factors, including the time of day, your location, and the complexity of the lockout situation. For example, emergency call-out prices are often higher during out-of-hours services, and additional costs may apply for materials supplied, delivery, congestion charges, or parking fees. The cost of an emergency locksmith in {{location}} for a lockout service typically starts from £59, with the final price confirmed upon arrival and based on the type of lock and the complexity of the issue.
+          </p>
+          <p>
+            When choosing a locksmith, it's important to look for competitive price options to ensure you get value for money. Many locksmiths in {{location}} offer a 'No Call Out Fee' policy, meaning you only pay for the service provided, while others may have a call out charge depending on the circumstances. Always request transparent pricing estimates upfront to avoid hidden fees or unexpected charges after the service is completed.
+          </p>
+          <p>
+            Lockout costs vary because not all lockouts are the same. A straightforward latch-only situation is different from a deadlocked door or a failed multipoint mechanism.
+          </p>
+          <p>
+            Main price factors:
+          </p>
+          <p>
+            Time of day (daytime vs late-night / weekends)
+          </p>
+          <p>
+            Lock type and security level (standard latch vs high-security cylinder)
+          </p>
+          <p>
+            Door type (especially uPVC multipoint systems)
+          </p>
+          <p>
+            Entry method required (non-destructive vs drilling)
+          </p>
+          <p>
+            Parts needed (replacement cylinder, mechanism components)
+          </p>
+          <p>
+            Complexity on site (misalignment, damage, seized components)
+          </p>
+          <p>
+            A trustworthy service explains these factors clearly so you understand what you're paying for, not just the final figure.
+          </p>
+        </div>
+      </div>
+
+      <!-- Pricing Table -->
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Door slammed shut (latch only, not deadlocked)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Non-destructive entry where possible; no parts included.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Key left inside / "key-in-door" lockout
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Damage-minimising entry where possible; depends on cylinder/door setup.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lost keys (no spare) — regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Proof of occupancy required; advice on next steps if keys may be found.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Snapped key in lock — extract fragment & regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Extraction first; replacement parts only if cylinder/mechanism is damaged (parts extra).
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Lock jammed or seized (key won't turn / feels "dead") — regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Assessment + safest entry route; underlying wear/misalignment can add complexity.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Deadlocked door (night latch/mortice) — regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Non-destructive attempted first; if drilling is required, see drill-out option (parts extra).
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  uPVC multipoint lockout (handle lifts/key turns but won't open) — regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Entry method depends on engagement state; failed gearbox/alignment issues may require parts after entry (parts extra).
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Smart lock / digital lockout — regain entry
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Safe entry first; battery/app/override issues assessed on site (parts/batteries extra if needed).
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Drill-out entry (last resort) + fit replacement cylinder to secure door
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Used when non-destructive entry isn't possible; replacement cylinder/lock parts extra.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Making safe after entry (temporary securing if full fix can't be completed) — add-on
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Additional labour after access is gained; materials/parts extra if required.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Flats and Communal Entrances -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Flats and Communal Entrances in {{location}}
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you're locked out of a flat, there can be extra constraints:
+          </p>
+          <p>
+            You may need to access a communal entrance before reaching your front door
+          </p>
+          <p>
+            Some buildings have managed access systems or concierge policies
+          </p>
+          <p>
+            Proof of occupancy may be more important where multiple dwellings share an entry
+          </p>
+          <p>
+            Locksmiths can assist with access control systems for both business premises and residential properties, ensuring secure and efficient entry management. Lockout locksmiths provide services to help regain access to homes, offices, and vehicles.
+          </p>
+          <p>
+            A locksmith can still help, but it's important to describe the building setup upfront so the response is properly planned.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Smart Locks and Digital Lockouts -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Smart Locks and Digital Lockouts
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Smart locks can fail in different ways—battery depletion, app access issues, or a mechanical override that's jammed. In a lockout, the priority is still safe entry, but you may also want:
+            </p>
+            <p>
+              Battery replacement and functional checks
+            </p>
+            <p>
+              Advice on avoiding repeat failures (notifications, scheduled battery changes)
+            </p>
+            <p>
+              Confirmation the mechanical override works as intended
+            </p>
+            <p>
+              All of our professional locksmiths in {{location}} are experienced in handling advanced security systems and alarm systems as part of their security upgrade services. They can offer comprehensive security upgrades, including the installation of digital locks, to enhance safety and prevent unauthorized access.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock4}
+              alt="Smart lock and digital lockout assistance"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to Do While Waiting -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          What to Do While You're Waiting
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A few practical steps can reduce risk and speed up resolution:
+          </p>
+          <p>
+            Check all entrances (front/back/patio) in case one is open
+          </p>
+          <p>
+            If you suspect keys are stolen, assume security risk and plan for a lock change
+          </p>
+          <p>
+            If it's a uPVC door and the handle feels loose or non-responsive, mention that—it may indicate a multipoint issue
+          </p>
+          <p>
+            Prepare proof of occupancy so entry can proceed smoothly on arrival
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Master Locksmiths Association -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Master Locksmiths Association and Quality Assurance
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            When you're facing an emergency lockout or need urgent locksmith services, choosing a locksmith you can trust is essential. That's where the Master Locksmiths Association (MLA) comes in—a respected industry body dedicated to upholding the highest standards of quality, professionalism, and security across all locksmith services in {{location}}.
+          </p>
+          <p>
+            MLA-approved locksmiths are fully vetted, expertly trained, and regularly inspected to ensure they deliver reliable service and outstanding customer satisfaction. Whether you need emergency locksmith services, lock repairs, lock replacement, or key cutting services, you can be confident that an MLA-approved locksmith will provide a fast response and a comprehensive range of solutions for both residential and commercial properties.
+          </p>
+          <p>
+            All of our locksmiths are members of the MLA and are committed to non-destructive entry wherever possible, using advanced techniques to open locks without unnecessary damage. They're equipped to handle all types of emergency lockouts, from lost keys to broken locks, and can supply and fit replacement locks or spare keys on the spot. Their expertise covers everything from lock opening and urgent lock repairs to key cutting and security upgrades, ensuring your property is left secure and fully functional.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Frequently Asked Questions About Being Locked Out in {{location}}
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you usually get in without changing the lock?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes—especially if the door isn't deadlocked and the lock is functioning normally. However, lost/stolen keys or internal lock failure can make replacement the safer or only option.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How long does a lockout appointment take?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Simple cases can be resolved quickly. More complex situations—like failed multipoint mechanisms—may take longer, especially if parts are needed after entry.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What if I've lost my keys and I'm worried someone could find them?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                That's a common reason for changing the cylinder or lock after entry, particularly if your keys were lost in a public place and could be linked to your address.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                I have a uPVC door and the key turns but it won't open—what does that mean?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It can indicate a multipoint mechanism issue (alignment, gearbox, or internal components). Entry may still be possible, but the door may need repair or parts replacement to prevent it happening again.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to Expect -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Locked Out in {{location}}: The Outcome You Should Expect
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A proper lockout service in {{location}} is about more than "opening a door". You should expect:
+          </p>
+          <p>
+            A high quality lockout service available 24/7, with emergency locksmith services designed to provide quick and reliable assistance, often responding within 30 minutes
+          </p>
+          <p>
+            The best professional locksmiths providing expert locksmithing services, ensuring your safety and satisfaction.
+          </p>
+          <p>
+            Master locksmiths, approved by the Master Locksmith Association, ready to help you gain entry quickly and safely using non-destructive techniques
+          </p>
+          <p>
+            A realistic ETA and clear scope of help
+          </p>
+          <p>
+            A non-destructive-first approach
+          </p>
+          <p>
+            Professional proof of occupancy checks
+          </p>
+          <p>
+            Clear explanation of price factors and what's required
+          </p>
+          <p>
+            Practical options after entry: replacement, rekeying, and making safe where needed
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Locked Out in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Lost keys? Locked out? Need emergency entry? We provide fast, non-destructive lockout service in {{location}} 24/7.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for immediate assistance or emergency lockout service.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Emergency Lockout Help
+          </a>
+         
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Emergency Locksmith -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-locksmith/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            24/7 locksmith in {{location}}
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Emergency locksmith services available around the clock.
+        </p>
+      </div>
+    
+      <!-- Broken Key Removal -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/broken-key-removal/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Key snapped in the lock
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Remove broken keys from locks without causing damage.
+        </p>
+      </div>
+    
+      <!-- Burglar Repair Service -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/burglar-repair-service/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Post break-in repairs
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Repair and secure your property after a burglary.
+        </p>
+      </div>
+    
+      <!-- Emergency Boarding Up -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/emergency-boarding-up/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Board up damaged entry points
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Emergency boarding for broken doors and windows.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Home page
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call 24/7 for Lockout Help</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

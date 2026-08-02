@@ -1,0 +1,1424 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/door repair.png";
+import lock from "../assets/services/door repairs.png";
+import lock2 from "../assets/services/door handle repair.png";
+import lock3 from "../assets/services/Upvc Patio door.png";
+import lock4 from "../assets/services/door repair.png";
+
+// Enrichment overlay for service: door-repairs
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "door-repairs";
+const metaTitle = e[`${slug}.meta.title`] ?? "Door Repair {{location}} | Fast, Secure Fixes for uPVC, Composite & Timber Doors ";
+const metaDescription = e[`${slug}.meta.description`] ?? `Emergency door repairs in {{location}}. Door won't lock, close, or is catching? Fast, professional repair service for uPVC, composite & timber doors. Hinge, lock, & alignment fixes. Same-day & emergency service available.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle},
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3">Get a quote today</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">Transparent pricing</span>
+        
+        <span class="px-3">Written quote available</span>
+        
+        <span class="px-3">Door closing correctly</span>
+        
+      </div>
+    </div>
+    <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+    <h1 class="text-4xl font-bold">Door Repairs in {{location}}</h1>
+    <p class="mt-4 text-gray-600">
+          {heroParagraph || `Transparent Pricing for Door Repairs in {{location}} • Identify the Cause • Repair or Replace as Needed • Written Quote Available • Neat Workmanship Throughout.`}
+        </p>
+
+    <div class="mt-8 grid sm:grid-cols-2 gap-4">
+      <div class="border rounded-xl p-5">Repair doors that stick, drop, or don’t close properly.</div>
+      <div class="border rounded-xl p-5">Correct hinges, frames, and keeps for proper sealing.</div>
+      <div class="border rounded-xl p-5">Transparent pricing with written quote after inspection.</div>
+      <div class="border rounded-xl p-5">Neat workmanship with advice to prevent future movement.</div>
+    </div>
+    <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Get Help With Door Repairs</a>
+  </div>
+</div>
+</div>
+</section>
+
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional door repair service for uPVC, composite, and timber doors"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Door Repair in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A door that won’t lock, won’t close properly, or suddenly starts catching can turn into a security risk fast. In many cases, the problem isn’t the whole door — it’s alignment, a worn hinge, a failed euro cylinder, or a multipoint mechanism that’s started to bind. The right repair restores smooth closing, reliable locking, and a proper seal, without pushing you into an unnecessary replacement. For readers seeking guidance, expert advice is available to help you understand the best solutions for your door repair needs.
+          </p>
+          <p>
+            This Door Repairs service for {{location}} focuses on the faults that cause most call-outs: doors that won’t lock, doors that won’t close, stiff keys, dropped uPVC doors, broken handles and spindles, and multipoint locks that won’t engage. Repairs typically include adjustment and realignment, hinge work, handle and lock replacement, frame and threshold fixes, and draught-proofing (seals, gaskets, and weathering). Where there’s been a break-in attempt or the door won’t secure at all, the priority is making the property safe and restoring a dependable lock-up. Dedicated support is provided to all customers, including commercial and multi-site clients, ensuring tailored solutions for restaurants, offices, hotels, and more.
+          </p>
+          <p>
+            You’ll also get straightforward guidance on repair vs replacement, realistic timescales, and the main price factors (door type, parts required, urgency, and the severity of the fault). When parts are needed — such as a multipoint strip or a specific gearbox — the approach is to diagnose accurately first, then fit the right component, and finish with proper testing: close, latch, lock, and seal. All repairs are guaranteed for your peace of mind, and the efficient, streamlined process ensures minimal disruption. The service offers great value, combining affordability with high-quality workmanship, and repairing your door can help you save money by avoiding unnecessary replacements.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🚪</span>
+            Call for Emergency Door Repair
+          </a>
+     
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Emergency Door Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Emergency door repairs in <span class="text-amber-500">{{location}}</span> when the door won’t secure
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              When a door won’t lock, you don’t just have an inconvenience — you have an immediate vulnerability. Emergency door repairs prioritise restoring security and safe access, whether the problem is a failed lock, a dropped door, or damage after a break-in attempt. Our efficient response ensures that customers facing urgent security issues receive prompt and reliable support from our skilled team of professionals. You can schedule an emergency appointment for immediate assistance, so your property is secure as quickly as possible.
+            </p>
+            <p>
+              A proper emergency response is less about rushing and more about being decisive: identify whether the fault is alignment, a failed euro cylinder, a jammed multipoint mechanism, or frame movement, then apply the fix that actually restores dependable locking (not a temporary “it sort of works” outcome).
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Emergency door repair service for doors that won't lock"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Common emergency scenarios -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Common emergency scenarios
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            The task of resolving these emergency scenarios is handled by experienced professionals:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Door won’t lock at all:</strong> multipoint not engaging, handle travel lost, gearbox failure, or door dropped on the keeps.</li>
+            <li><strong>Key snapped in the lock:</strong> extraction and assessment of whether the cylinder should be replaced.</li>
+            <li><strong>Lock stiff or seized:</strong> cylinder wear, debris ingress, incorrect alignment, or internal failure.</li>
+            <li><strong>Post-burglary damage:</strong> door edge split, keeps torn out, frame cracked, or lock area forced.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- What “make safe” looks like in practice -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What “make safe” looks like in practice
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Making safe usually means restoring a reliable lock-up, reinforcing compromised fixings, and ensuring the door closes cleanly and latches without forcing. If full restoration can’t be completed immediately due to parts availability, temporary securing measures can be used while keeping the door functional and secure.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why doors stop locking or closing properly -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Why doors stop locking or closing properly
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Most “door repair” problems boil down to one of three issues: alignment, hardware failure, or movement in the door/frame. Fixing the symptom without addressing the cause is why doors often fail again shortly after a quick adjustment. Changes by manufacturers can also affect the availability of replacement hardware parts, making it important to source compatible components or seek skilled adjustments.
+          </p>
+          <p>
+            Our advice: carefully observe how your door operates—check for sticking, gaps, or misalignment, and listen for unusual sounds. Identifying the root cause early can save you from more costly repairs or even full replacements down the line.
+          </p>
+          <p>
+            A correct diagnosis looks at how the door behaves through its full swing, where it contacts the frame, how the latch lines up, and whether the lock engages smoothly across all points. Similar alignment and hardware issues can affect windows as well as doors, so it's worth checking both if you notice problems. If you have glazed doors, pay attention to the quality of the glass during repairs, as high-quality glass improves durability and insulation. For enhanced security and energy efficiency, consider double glazing, which also helps with insulation and can reduce heat loss.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Signs it’s an alignment issue -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Signs it’s an alignment issue (not “just the lock”)
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The door locks only when you lift the handle hard—this may indicate that replacement parts do not match the existing door components, causing misalignment.</li>
+            <li>The latch hits the strike plate or needs a shove to close—ensure any new hardware matches the original to maintain proper alignment.</li>
+            <li>You can see uneven gaps around the frame—matching replacement parts to your current setup is crucial for a seamless repair.</li>
+            <li>The door catches at the top or bottom corner, especially in cold or wet weather—check that all components match and align correctly to prevent this issue.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Signs it’s a component failure -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Signs it’s a component failure
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Handle feels loose, droops, or won’t return</li>
+            <li>You can lift the handle but nothing engages</li>
+            <li>The key turns partially, then binds or stops</li>
+            <li>The door locks once, then fails intermittently</li>
+            <li>Faulty locks causing difficulty in locking or unlocking the door</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Movement causes that matter in the UK -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Movement causes that matter in the UK
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Seasonal swelling in timber, minor building movement, wear on hinges, and settlement around frames can all change how a door sits. A repair that accounts for this (adjustment plus restoring correct hardware function) is what keeps the fix stable.
+          </p>
+          <p>
+            Addressing movement issues promptly can save on more extensive repairs in the future.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- uPVC Door Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            uPVC door repairs in <span class="text-amber-500">{{location}}</span> for dropped doors and failing locks
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              uPVC doors are among the most common external doors in the UK, and they tend to fail in predictable ways: the door drops, the keeps no longer line up, and the multipoint lock starts to struggle. The result is usually a door that “almost locks” or needs force to close.
+            </p>
+            <p>
+              Our skilled team provides efficient and streamlined uPVC door repair services, ensuring minimal disruption for our customers, whether residential or commercial. We understand that changes by manufacturers can affect the availability and sourcing of replacement parts, so we use our expertise to find the best solutions. A good uPVC repair typically involves realignment and then correcting the hardware that’s been strained by misalignment — not just swapping one part and hoping. All repairs are guaranteed for your peace of mind, and we offer great value without compromising on quality. To get started, simply schedule an appointment for your uPVC door repair and experience our professional service.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="uPVC door repair for dropped doors and failing locks"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Dropped uPVC doors and hinge-side issues -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Dropped uPVC doors and hinge-side issues
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Dropped doors often show as catching, scraping, or a latch that won’t meet the keep cleanly. Repairs can include hinge adjustment, hinge replacement where worn—making sure to select replacement hinges that match the original components for a seamless repair—and restoring correct compression so the door seals without being forced.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Multipoint locking mechanism repair and replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Multipoint locking mechanism repair and replacement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Multipoint systems can fail at different points: the gearbox, internal springs, latch, hooks, rollers, or the strip itself. It's important to note that different manufacturers produce similar-looking parts, but these may not be interchangeable, so identifying the correct manufacturer is crucial for sourcing compatible replacements. The repair approach is to confirm whether the mechanism is genuinely failed or simply not engaging due to alignment.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Handles, spindles, and “lost movement” -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Handles, spindles, and “lost movement”
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the handle turns but the lock doesn’t engage, the spindle or internal drive can be worn. When replacing the handle set and spindle (or addressing the internal follower), it’s important to match the new handle set to your existing door hardware to ensure compatibility and maintain a seamless appearance. This can restore full engagement and stop the problem returning.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Composite and Timber Door Repairs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Composite and timber door repairs that restore fit, security, and weather protection
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Composite and timber doors have different failure patterns to uPVC. Composite doors can suffer from hardware wear and alignment issues, while wooden doors, known for their timeless elegance and durability, often show swelling, warping, or rot that affects fit and closing. Veneer doors are also a stylish and practical option for interiors, combining the natural look of wood with cost-effective and modern finishing options. Laminate and veneer are popular materials in modern door repairs, offering both aesthetic appeal and affordability.
+          </p>
+          <p>
+            The best repairs focus on restoring the door’s working geometry — closing smoothly, latching cleanly, locking reliably, and sealing against draughts and water. Wooden doors deserve professional attention to maintain their beauty, and our skilled team takes pride in delivering high-quality repairs for composite and timber doors. We are dedicated to meeting the needs of customers seeking reliable and expert door repair services.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Composite door repair -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Composite door repair: alignment plus hardware integrity
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Composite doors are strong, but if hinges or keeps shift, the locking can become stiff or inconsistent. Our composite door repair process is efficient and effective, involving hinge adjustment, keep realignment, handle replacement, and cylinder or multipoint work depending on the locking type.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Timber door repair -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Timber door repair: swelling, sticking, and frame interaction
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Wooden doors can bind due to moisture changes. These doors deserve professional restoration and expert care to maintain their timeless elegance and durability. A proper repair may involve hinge correction, easing where appropriate, restoring weather bars or seals, and addressing any soft spots or rot in the door edge or frame before it becomes a security issue. For those looking to upgrade or repair, veneer and laminate options can provide an aesthetically appealing and cost-effective solution, offering a sleek and modern finish.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Restoring a proper seal -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Restoring a proper seal
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For both composite and timber, sealing matters. Draughts, rattles, and water ingress often come down to tired seals, threshold issues, or a door that’s been pulled out of line by worn fixings. Restoring proper seals not only prevents these issues but also improves insulation and energy efficiency, helping to reduce heating costs and enhance your home's energy performance.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock Repairs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Lock repairs: euro cylinders, multipoint mechanisms, and failed latches
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Lock problems are often described as “the key won’t turn” or “it won’t lock”, but the fix depends on whether the fault is in the cylinder, the mechanism, the door alignment, or due to faulty locks.
+          </p>
+          <p>
+            Our skilled team provides efficient and thorough lock repairs by checking alignment first, then repairing or replacing the correct lock component, and finishing with smooth key action and reliable engagement.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Euro cylinder problems -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Euro cylinder problems (stiff key, key snapping risk, lock failure)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Euro cylinders can wear internally, become stiff, or fail suddenly. Different manufacturers produce euro cylinders with varying features and compatibility, so it's important to select a replacement that matches your door's requirements. If the key action is rough or inconsistent, replacement is often the best route — especially if there’s a risk of a key snapping. Where appropriate, upgrades to anti-snap cylinders can significantly improve security after a repair.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Multipoint lock issues -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Multipoint lock issues (uPVC and composite)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If the handle travel feels wrong, the mechanism may be failing. In other cases, it’s simply not lining up with the keeps due to a dropped door. Correct repairs separate these two so parts are replaced only when necessary.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Key snapped in lock -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Key snapped in lock: extraction and next steps
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Key extraction should be followed by checking for cylinder wear or damage. If the cylinder has been compromised, replacement avoids repeat incidents and improves reliability.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Hinges, Handles, and Alignment -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Hinges, handles, and alignment adjustments that stop doors catching and scraping
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A surprising amount of “door repair” is hinge and alignment work. If a door has dropped even slightly, it can strain the lock, damage the keeps, and create a cycle of recurring failures.
+          </p>
+          <p>
+            Our skilled team ensures that adjustments are efficient and precise, restoring proper function quickly. We carefully match any replacement parts, such as hinges or handles, to the original components for seamless compatibility and appearance. Quality adjustments aim for an even gap, smooth swing, and a latch that meets the keep without forcing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Hinge repair and replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Hinge repair and replacement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Worn hinges can cause sagging, rubbing, and misalignment. Repairs include tightening or replacing fixings, hinge replacement where worn—making sure to select replacement hinges that match the original design—and setting the door to the correct height and compression.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Handle replacement and spindle faults -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Handle replacement and spindle faults
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Loose handles, drooping handles, or handles that spin without engaging are common. When replacing a worn handle set, it is important to match the new handle to the existing door hardware to ensure compatibility and maintain a cohesive look. Correcting spindle length/fit can restore positive engagement and reduce stress on the mechanism.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Door adjustment: the “keeps don’t line up” problem -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Door adjustment: the “keeps don’t line up” problem
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where the latch and hooks don’t meet their keeps cleanly, the door can feel like it’s “nearly there”. Adjustment work restores alignment so the locking engages smoothly across all points.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Frame, Threshold, and Draught-Proofing -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Frame, threshold, and draught-proofing fixes in <span class="text-amber-500">{{location}}</span>
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              If the frame is damaged, loose, or distorted, even a brand-new lock can behave badly. Similarly, threshold and sealing issues can cause draughts, water ingress, and a door that never quite feels right. Proper draught-proofing and sealing not only address these issues but also improve insulation, which can save on energy bills by reducing heat loss.
+            </p>
+            <p>
+              Frame and threshold repairs tend to be high-value because they improve security, comfort, insulation, and long-term reliability in one go.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Door frame, threshold, and draught-proofing repairs"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Door frame repairs -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Door frame repairs (splits, softness, loose fixings)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Frame issues can show as keeps tearing out, movement when the door closes, or visible splits. Repairs may include reinforcing fixings, repairing damaged sections, and ensuring the lock keeps are anchored properly.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Threshold repair and replacement -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Threshold repair and replacement
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A damaged or poorly fitted threshold can let in water, create a trip edge, or stop the door sealing. Correcting the threshold helps the door close consistently and improves weather resistance.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Draught proofing and weatherproofing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Draught proofing and weatherproofing
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacing tired seals, gaskets, or brushes reduces draughts and rattles. Effective draught proofing also enhances insulation, helping to save on heating costs. More importantly, it helps the door close with correct compression so the lock doesn’t have to fight against misfit alignment.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Burglary Damage Repairs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Burglary damage repairs and temporary securing in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            After a forced entry attempt, the damage is rarely limited to one component. It can involve the lock area, door edge, keeps, and frame — and the door may still “close” while being fundamentally insecure.
+          </p>
+          <p>
+            Our skilled team provides an efficient and thorough repair process, restoring structure first, then hardware, then alignment and sealing.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Typical break-in damage points -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Typical break-in damage points
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Lock area forced:</strong> cylinder pulled, handle torn, or lock case damaged</li>
+            <li><strong>Keeps ripped out:</strong> screws stripped, frame cracked, or keeps bent</li>
+            <li><strong>Door edge split:</strong> reduced strength around latch/locks</li>
+            <li><strong>Frame movement:</strong> door can no longer hold compression or alignment</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Restoring security after damage -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Restoring security after damage
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Repairs often involve replacing compromised lock components (often cylinder and/or mechanism), reinforcing fixings and keeps, repairing or strengthening the frame area, and ensuring the door closes and locks reliably again. All repairs are guaranteed to restore your security and peace of mind.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Temporary securing -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Temporary securing when full repair can’t be completed immediately
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If specialist parts are needed, temporary securing can be used to keep the property safe while maintaining controlled access, then completing the final repair once parts are available.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Repair vs Replacement -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Repair vs replacement: how to decide for doors in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Not every door needs replacing — but not every door is worth repairing either. If you're unsure, expert advice can help you weigh your options and make the best decision for your situation.
+          </p>
+          <p>
+            A repair-first approach is often viable when the structure is sound and the issue is hardware, alignment, or seals. Choosing repair when appropriate can save money compared to a full replacement. Replacement becomes more sensible when the door or frame is fundamentally compromised.
+          </p>
+        </div>
+      </div>
+      
+      <!-- When repair is usually the right choice -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When repair is usually the right choice
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The door structure is sound, but locks/hinges/handles are failing—repairing these components can save you money compared to a full door replacement.</li>
+            <li>The door has dropped and needs realignment + mechanism correction—choosing repair in this case can help you save on unnecessary replacement costs.</li>
+            <li>Draughts and water ingress are from seals/threshold/compression issues—fixing these problems can save on energy bills by improving insulation.</li>
+            <li>The cylinder is worn and needs a straightforward replacement/upgrade—repairing or upgrading the cylinder can save you the expense of a new door.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- When replacement may be the better long-term route -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          When replacement may be the better long-term route
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Severe frame rot or widespread softness that undermines security</li>
+            <li>Repeated mechanism failures caused by an underlying structural problem</li>
+            <li>Significant warping or damage that cannot be stabilised reliably</li>
+            <li>Door and frame no longer allow safe, consistent locking engagement</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Avoiding false economy -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Avoiding false economy
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Replacing a cylinder won’t fix a door that’s dropped off its hinges. Likewise, repeated adjustments won’t solve a mechanism that has failed internally. Our advice is to carefully assess whether repair or replacement is the most cost-effective solution, as choosing the right option helps you avoid false economy, stops callbacks, and restores dependable daily use.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Timescales for Door Repairs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Timescales for door repairs in <span class="text-amber-500">{{location}}</span>: what can be fixed quickly and what may take longer
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many door repairs can be completed efficiently in a single visit — especially alignment work, cylinder replacement, handle repairs, hinge correction, and draught-seal replacement. Booking an appointment for door repairs is straightforward, ensuring a prompt assessment and quick turnaround. Others depend on parts availability, particularly certain multipoint mechanisms and gearboxes.
+          </p>
+          <p>
+            What matters most is setting expectations clearly: how long the on-site work typically takes, and when parts may require a return visit.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Typical job durations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Typical job durations
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Alignment / adjustment:</strong> often resolved efficiently within the visit once the cause is confirmed</li>
+            <li><strong>Cylinder / handle replacement:</strong> usually completed efficiently and quickly once the correct parts are chosen</li>
+            <li><strong>Multipoint mechanism repair:</strong> can be an efficient same-visit repair if parts are standard; longer if specialist parts are required</li>
+            <li><strong>Frame/threshold repairs:</strong> time varies with the extent of damage and reinforcement required, but efficient methods are used whenever possible</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Parts availability and lead times -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Parts availability and lead times
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some locks and multipoint systems have multiple variants that look similar but aren’t interchangeable. Accurate identification prevents repeat visits and avoids fitting the wrong component. If a specific part needs ordering, temporary securing or a stabilised workaround can keep the door safe and usable in the meantime.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Door Repair Price Factors -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door repair price factors and what affects cost in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Door repair costs vary because the “same symptom” can have different causes. A door that won’t lock might be a simple alignment correction — or it might need a new euro cylinder, a handle set, or a multipoint mechanism.
+          </p>
+          <p>
+            Choosing door repair offers great value, as it allows you to save money by fixing issues instead of paying for a full replacement. Clear price factors make it easier to understand what you’re paying for and why.
+          </p>
+        </div>
+      </div>
+      
+      <!-- The main price factors -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          The main price factors
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Door type:</strong> uPVC, composite, timber, internal vs external, double glazing (for glazed doors, double glazing can increase repair costs due to the complexity and materials involved)</li>
+            <li><strong>Fault severity:</strong> minor adjustment vs structural frame repair</li>
+            <li><strong>Parts required:</strong> cylinder, handles/spindle, hinges, multipoint mechanism, keeps, seals, glass (the type and quality of glass in glazed doors can significantly affect the price, especially for energy-efficient or specialist glass units)</li>
+            <li><strong>Urgency and timing:</strong> standard hours vs emergency/out-of-hours attendance</li>
+            <li><strong>Access and complexity:</strong> double doors, glazed panels, difficult keep alignment, previous poor repairs</li>
+            <li><strong>Damage context:</strong> burglary damage often involves multiple components and reinforcement</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Cost clarity: labour, parts, and any call-out element -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Cost clarity: labour, parts, and any call-out element
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A professional approach separates the work (diagnosis and labour) from parts, so it’s clear whether the cost is being driven by a specialist component or by the repair complexity.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Emergency pricing expectations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Emergency pricing expectations
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Out-of-hours work can cost more due to availability and urgency. The key is transparency: what’s being done to restore security now, and what (if anything) may be completed once parts are sourced.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-neutral-50">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Door Repair Pricing Guide for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Door alignment & adjustment (won’t close / catches / keeps don’t line up)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Realignment and functional testing; parts usually not required
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Dropped uPVC/composite door hinge adjustment (restore smooth closing & locking)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £74
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £124
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Hinge/keep tweaks and compression reset; replacement hinges extra if needed
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Hinge repair or hinge replacement (worn hinges causing sag/rub)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Fixings reinforced and door reset; hinges/packers extra if required
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Handle set replacement & spindle faults (loose/drooping/spinning handle)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Replace handle/spindle as needed and test engagement; parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Euro cylinder replacement (stiff key / seized cylinder / upgrade-ready)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Cylinder swap and smooth key action check; cylinder cost extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Key snapped in lock (extraction & safety check)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Extraction and assessment; cylinder replacement extra if damaged/worn
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Multipoint lock mechanism repair/replacement (gearbox/strip not engaging)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 45 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £104
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £174
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Diagnose alignment vs failure, fit correct mechanism where possible; specialist parts extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Threshold repair/adjustment (water ingress, trip edge, poor sealing)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Reseating/repair and seal improvement; replacement threshold/materials extra
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Burglary damage “make safe” & temporary securing
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Restore secure lock-up and reinforce fixings; boarding/extra hardware and parts extra
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What to Expect on the Day -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            What to expect on the day: inspection, repair, testing, and finish quality
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              A door repair should leave the door working smoothly and predictably — not “good enough if you lift the handle hard”. The process matters because it prevents repeat faults.
+            </p>
+            <p>
+              On the day, you can expect a professional team to arrive and carry out an efficient workflow: starting with diagnosis, then a repair that solves the underlying issue, followed by thorough testing and finish.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock4}
+              alt="Professional door repair inspection and testing process"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Step-by-step repair process -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Step-by-step repair process
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Efficient inspection and fault confirmation:</strong> alignment, latch/keep contact, lock operation, hinge condition, seal compression</li>
+            <li><strong>Efficient and thorough repair work:</strong> adjustment, component replacement, frame/threshold correction, sealing work</li>
+            <li><strong>Testing:</strong> close, latch, lock engagement across all points, key action, handle return, seal contact</li>
+            <li><strong>Tidy finish:</strong> secure fixings, correct keep placement, smooth operation without forcing</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Quality checks that prevent repeat problems -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Quality checks that prevent repeat problems
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Testing isn’t a formality. It confirms the repair under normal use conditions as part of our guaranteed process, so you’re not left compensating with extra force — the most common reason locks and mechanisms fail again.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Guarantees and workmanship expectations -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Guarantees and workmanship expectations
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where offered, a workmanship guarantee helps signal confidence in the repair approach — especially when the repair includes both alignment correction and hardware replacement.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Optional Security Upgrades -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Optional security upgrades after a repair
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Once a door is working properly, it’s often the best moment to improve security without changing the whole door. Our team has extensive expertise in providing security upgrades, ensuring that enhancements are both effective and professionally installed. Upgrades are most relevant when a cylinder is being replaced anyway, or when there’s been a break-in attempt.
+          </p>
+          <p>
+            These upgrades are not “extras for the sake of it” — they can reduce vulnerability and improve long-term reliability.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Common security improvements -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Common security improvements
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Anti-snap euro cylinder upgrades (where compatible)</li>
+            <li>Reinforced keeps and improved fixings in weak frame areas</li>
+            <li>Hinge-side security additions (where suitable)</li>
+            <li>Correcting door compression so the lock engages cleanly (reduces wear)</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Security and reliability go together -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Security and reliability go together
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A door that aligns correctly and locks smoothly is harder to defeat and less likely to fail under daily use. Many security issues start as simple misalignment and wear.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          FAQs for door repairs in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can a door that won’t lock always be repaired?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often, yes — but the repair depends on the cause. If the door has dropped, alignment and hinge work may restore locking without replacing the mechanism. If the cylinder or mechanism has failed internally, replacement of that component is usually required.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you repair doors that won’t close properly (catching or scraping)?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Yes — catching, scraping, and stiff closing are commonly caused by hinge wear, door drop, or frame movement. Adjustment and hinge repairs typically restore smooth closing and correct latch engagement.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What if the multipoint lock is the problem?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Multipoint systems can fail, but they can also appear to fail when the door is misaligned. Accurate diagnosis avoids unnecessary parts. If a mechanism is genuinely failed, the correct replacement depends on the exact type and variant.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What happens if parts aren’t available on the first visit?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                If a specialist part is needed, the door can often be stabilised and secured so it locks safely in the interim. The final repair is then completed once the correct component is sourced.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Is it a landlord or tenant responsibility?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                It depends on the cause and the tenancy agreement. General wear-and-tear hardware issues and essential security faults are commonly handled as landlord repairs, while tenant-caused damage may differ. Clear notes and photos can help support whichever route applies.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can I DIY a door repair?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Minor maintenance (like keeping seals clean and avoiding harsh force on handles) is fine. However, DIY on multipoint locks, cylinders, and alignment can easily worsen the issue or compromise security. If the door won’t lock reliably, it’s usually best treated as a security repair. Our advice: attempt only simple maintenance yourself, and seek professional help for complex or security-related door repair issues.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do you handle fire door repairs?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Fire doors are specialised because the door’s integrity and correct closing matter. If fire doors are part of the requirement (communal or commercial), repairs should focus on maintaining correct function and fit rather than casual adjustments. All fire door repairs are carried out by members of reputable trade organizations, ensuring compliance with industry standards and regulations.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                How can I prevent the problem coming back?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Avoid forcing handles, don’t lift the door by the handle to “make it lock”, and address early signs (stiff locking, uneven gaps, catching) before the mechanism wears out. Our advice is to perform periodic checks of hinges, fixings, and seals to reduce repeat failures and keep your door in good working condition.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Need Professional Door Repair in <span class="text-amber-400">{{location}}</span>?
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Door won't lock, close, or is catching? We provide fast, reliable door repair service in {{location}} for uPVC, composite, and timber doors.
+          </p>
+          <p class="mt-4 font-medium">
+            Call now for same-day service or emergency repairs.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Call for Door Repair
+          </a>
+        
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Door Lock Change -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-changes/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Change the locks after repairs
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Update locks following door repairs or security upgrades.
+        </p>
+      </div>
+    
+      <!-- Door Lock Installation -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-installation/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Install locks on repaired doors
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fit new locks onto recently repaired or replaced doors.
+        </p>
+      </div>
+    
+      <!-- Door Lock Repair -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/lock-repairs/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Repair damaged locks
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix locks that are damaged, sticking, or not working properly.
+        </p>
+      </div>
+    
+      <!-- Door Lock Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/door-lock-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Replace locks on warped doors
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Upgrade and replace locks on doors with alignment issues.
+        </p>
+      </div>
+    
+      <!-- Window Lock Repair/Replacement -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/window-lock-repair-replacement/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Window lock repairs
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Fix or replace damaged or ineffective window locks.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Back to homepage
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Door Repairs</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

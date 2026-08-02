@@ -1,0 +1,1222 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import hero from "../assets/services/Safe installation.png";
+import lock from "../assets/services/floor_safe_installation.png";
+import lock2 from "../assets/services/wall mounted safe installation.png";
+import lock3 from "../assets/services/Safe installation.png";
+
+// Enrichment overlay for service: safe-installation
+import enriched from "../data/enriched.json";
+const e: Record<string, any> = enriched as any;
+const slug = "safe-installation";
+const metaTitle = e[`${slug}.meta.title`] ?? `Safe Installation {{location}} | Professional Safe Fitting & Anchoring `;
+const metaDescription = e[`${slug}.meta.description`] ?? `Professional safe installation in {{location}}. Secure anchoring, anti-leverage positioning, insurance compliance. Wall safes, floor safes, freestanding safes. Survey, installation & documentation service.`;
+const heroParagraph: string | null = e[`${slug}.hero-paragraph`] ?? null;
+const localBody: string | null = e[`${slug}.local-context-body`] ?? null;
+const localFaqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`]) ? e[`${slug}.local-faqs`] : [];
+const localBodyParas = localBody ? localBody.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean) : [];
+const areasCovered: string[] = Array.isArray(e[`${slug}.areas-covered`]) ? e[`${slug}.areas-covered`] : [];
+import siteMeta from "../data/site-meta.json";
+const postcodes: string[] = Array.isArray((siteMeta as any).postcode_districts) ? (siteMeta as any).postcode_districts : [];
+
+---
+
+<MainLayout
+  title={metaTitle}
+  description={metaDescription}
+>
+<section class="w-full bg-white">
+  <div class="max-w-6xl mx-auto px-4 pt-6 pb-12">
+    <div class="flex justify-left mb-8">
+      <div class="flex flex-wrap items-center justify-center gap-y-2 text-sm rounded-full border border-gray-200 bg-gray-50 px-6 py-3 text-gray-700">
+        
+        <span class="font-semibold px-3">Get a quote today</span>
+        
+        <span class="font-semibold text-amber-500 px-3">
+          {{phone}}
+        </span>
+        
+        <span class="px-3">Transparent pricing</span>
+        
+        <span class="px-3">Written quote available</span>
+        
+        <span class="px-3">Safe fixed securely</span>
+        
+      </div>
+    </div>
+        <div class="grid grid-cols-1 lg:grid-cols-[65%_35%] gap-10 items-start">
+      <!-- Left content -->
+      <div>
+    <h1 class="text-4xl font-bold">Safe Installation in {{location}}</h1>
+    <p class="mt-4 text-gray-600">
+          {heroParagraph || `Safe Installation Quotes in {{location}} • Choose Size and Fixing Method • Transparent Pricing •
+      Written Quote Available • Secure Anchoring and Tidy Finish.`}
+        </p>
+
+        <div class="mt-8 grid sm:grid-cols-2 gap-4">
+      <div class="border rounded-xl p-5">
+        Secure safe installation in homes and businesses using suitable wall or floor fixings.
+      </div>
+      <div class="border rounded-xl p-5">
+        Correct positioning and anchoring with proper bolts and hidden fixings where possible.
+      </div>
+      <div class="border rounded-xl p-5">
+        Transparent pricing with a written quote covering fixing method and materials.
+      </div>
+      <div class="border rounded-xl p-5">
+        Fully insured installation, neat finish, and aftercare on codes, keys, and maintenance.
+      </div>
+    </div>
+    <a href="tel:{{phone_tel}}" class="mt-10 w-full rounded-xl bg-amber-500 hover:bg-amber-600 transition-colors text-white font-semibold py-4 flex items-center justify-center gap-2">Get Help With Safe Installation</a>
+  </div>
+</div>
+</div>
+</section>
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={hero}
+        alt="Professional safe installation and anchoring service"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h2 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Safe Installation in <span class="text-amber-400">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            A security safe is only as good as the way it's fitted. Even a high-grade safe can become a "carry-out" target if it isn't anchored correctly, positioned sensibly, and installed into the right part of the building fabric. The position of the safe is crucial for both security and usability, ensuring it is accessible when needed but protected from easy discovery or removal. A professional safe installation in {{location}} is designed to do three things at once: reduce the chance of removal, reduce the chance of leverage attacks, and leave you with clear evidence of what's been installed and how it's been secured.
+          </p>
+          <p>
+            At {{name}}, safe installation is treated as a security project rather than a quick fix. That means starting with the right questions (what you're protecting and what risk you're designing against), choosing a location that balances concealment and practicality, and fixing the safe into a substrate that can actually hold it under attack. Where relevant, we also help you align the safe's rating and "cash rating" expectations with insurer requirements and insurance requirements, so you're not left with the wrong product in the wrong place or lacking coverage.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          
+        
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What "Safe Installation" Actually Includes -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            What "safe installation" actually includes
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              A proper installation is a chain of steps. If any link is weak, the outcome is weaker. For complex or unique setups, it is important to discuss any special requirements and obtain necessary approvals in advance to ensure a safe installation.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock}
+              alt="Professional safe installation process and planning"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Pre-install survey and feasibility checks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Pre-install survey and feasibility checks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Before drilling happens, the installation should confirm:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Safe type and intended use (jewellery, documents, cash, watches, keys, controlled items, etc.)</li>
+            <li>Property constraints (wall construction, floor type, access route, stair turns, door widths)</li>
+            <li>Ideal placement (concealment, usability, and attack resistance)</li>
+            <li>Anchoring plan (fixing type, fixing points, and anti-leverage positioning)</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This survey is what stops common issues such as fixing a safe into timber studs, crumbly masonry, dot-and-dab plasterboard, or weak blockwork without the correct anchors. Seeking professional advice during the pre-install survey ensures all factors are properly considered for a safe installation and compliance with insurance requirements.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Secure placement planning -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Secure placement planning
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Where the safe goes is part of the security. A good location:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Avoids obvious "first look" areas</li>
+            <li>Minimises the space available for bars/tools to gain leverage</li>
+            <li>Balances convenience and security, ensuring the safe is practical enough for everyday use while still protecting your valuables</li>
+            <li>Accounts for door swing, shelving, and access comfort</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For many homes in {{location}}, the best outcome is a discreet location that also allows for solid anchoring into reliable masonry or concrete—rather than a "convenient" spot that can't take proper fixings.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safe Ratings and Insurer Expectations -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe ratings, cash ratings, and insurer expectations
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many people search for "safe installation" because they want confidence that the safe will protect valuables and satisfy insurance conditions. That starts with the safe itself. Choosing the correct grade of safe is essential to meet both security and insurance requirements.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Understanding security ratings -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Understanding security ratings (Eurograde and domestic cabinets)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Safes and secure cabinets are commonly sold under recognised standards. In simple terms:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Higher-rated safes are designed to withstand attack longer and with more aggressive tools, and are rigorously tested to meet security standards.</li>
+            <li>Lower-rated cabinets can still be useful, but they must be matched to the right risk level.</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you already own a safe, we'll confirm what you have and whether it's suitable for what you plan to store. If you're choosing a safe, we can guide you towards a rating that matches your use-case rather than paying for specification you don't need—or under-specifying and creating risk.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Cash rating and "what insurers usually want" -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Cash rating and "what insurers usually want"
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            "Cash rating" and "overnight cash rating" are often used as shorthand for how much an insurer may be willing to cover, but policies differ. The key is alignment:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The safe rating should suit the items you're protecting</li>
+            <li>The installation method (including anchoring) should match insurer expectations</li>
+            <li>The documentation should be clear enough to support a future claim</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Proper safe installation can sometimes result in a lower insurance premium, as insurers may recognize the added security and adjust your premium accordingly.
+          </p>
+          <p>
+            If you tell us what you're insuring and any insurer wording you've been given, we can help interpret the practical implications for installation in {{location}}.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Anchoring: The Critical Component -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="order-2 lg:order-1">
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Anchoring: the part that makes a safe hard to remove
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Most real-world failures come from weak anchoring or anchoring into the wrong material. "Bolted down" is not a guarantee on its own—the type of bolt used and the suitability of the fixings and substrate are essential for secure anchoring.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative order-1 lg:order-2">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock2}
+              alt="Professional safe anchoring and fixing methods"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-neutral-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Assessing the building fabric -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Assessing the building fabric in <span class="text-amber-500">{{location}}</span>
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Different homes and premises in {{location}} can have very different construction:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <div class="grid md:grid-cols-2 gap-6 text-left">
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Solid brick or block</li>
+              <li>Solid wall (such as concrete or load-bearing masonry)</li>
+              <li>Concrete floors or slabs</li>
+              <li>Suspended timber floors</li>
+            </ul>
+            <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+              <li>Modern stud walls and plasterboard systems</li>
+              <li>Older plaster, variable masonry, or renovated extensions</li>
+            </ul>
+          </div>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            We check what you're fixing into and choose an anchoring approach that suits it. The goal is anti-removal (stopping the safe being carried away) while also reducing the chance of leverage attacks.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Choosing the right fixings -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Choosing the right fixings (not just "what came in the box")
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many safes include basic fixings, but those are not always appropriate for every wall or floor type. Depending on the substrate and safe design, installation may use:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Heavy-duty masonry anchors</li>
+            <li>Fixing bolts as a standard method for securing safes</li>
+            <li>Through-bolting where appropriate</li>
+            <li>Chemical anchors in suitable masonry</li>
+            <li>Fixing patterns that maximise resistance and reduce leverage options</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Always follow the manufacturer's recommendations for installation to ensure safety, compliance, and insurance approval.
+          </p>
+          <p>
+            If installing over underfloor heating systems, special care is needed to avoid damaging pipes—consider using a concrete plinth or chemical fixings, and consult a professional for the best approach.
+          </p>
+          <p>
+            The right fixings, installed correctly and torqued properly, make a measurable difference to real security.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Anti-leverage positioning -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Anti-leverage positioning
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Even a well-bolted safe can be compromised more easily if there's room to attack it. Placement decisions often include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Tight fitting into cupboards or joinery (without compromising access)</li>
+            <li>Positioning to minimise tool purchase around the door edges</li>
+            <li>Avoiding "free-standing" gaps that invite levering</li>
+            <li>Ensuring a dedicated hole is used for secure fixing, especially for larger safes, by anchoring into concrete or timber floors for maximum stability</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Types of Safe Installation -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Types of safe installation we handle in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Different safe types need different fitting decisions. Selecting the best type of safe depends on your property's structure and your specific security needs, ensuring optimal protection and proper installation.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Freestanding safes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Freestanding safes (home and business)
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Most common for domestic and small commercial use. Focus areas:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Correct anchoring into floor or wall (or both)</li>
+            <li>Anti-leverage positioning</li>
+            <li>Access route planning (especially for heavier models)</li>
+            <li>For large safes, professional handling and installation is recommended due to their significant weight and security requirements.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Wall safes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Wall safes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Wall safes are popular for concealment, but the installation must be realistic about:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Wall depth and construction</li>
+            <li>Reinforcement and secure fixing</li>
+            <li>Discreet finishing and future access</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Wall safes are also a popular choice for office settings where secure, concealed storage is needed.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Floor safes and underfloor safes -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Floor safes and underfloor safes
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            More specialised and highly dependent on the property. A floor safe is a type of safe that is embedded into the floor structure, offering enhanced security by making it difficult to remove or tamper with. Floor safes are often installed during building or renovation, providing the added benefit of concealment and protection against theft. Considerations often include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Concrete and structural feasibility</li>
+            <li>Moisture protection and long-term corrosion risk</li>
+            <li>Practical access and concealment without making the safe unusable</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you're unsure which type suits your property in {{location}}, the survey stage is where we prevent expensive mismatches.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Lock Options and Secure Handover -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Lock options, programming, and secure handover
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            The lock is part of the security system, not just a way to open the door. One of the primary uses of safes is to protect money from theft or damage, in addition to securing other valuables like jewelry and important documents.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Key locks, mechanical combination, and electronic locks -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Key locks, mechanical combination, and electronic locks
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Each has pros and trade-offs:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Key locks:</strong> simple and reliable, but require strong key control</li>
+            <li><strong>Mechanical combination:</strong> no batteries, robust, but needs accurate use</li>
+            <li><strong>Electronic locks:</strong> convenient and fast, but depends on good code practice and battery planning</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Some safes also provide fire protection, helping to safeguard valuables during a fire by offering fire-resistant construction and ratings.
+          </p>
+          <p>
+            We'll set up the lock correctly, confirm smooth operation, and ensure you understand the safest way to use it day to day.
+          </p>
+        </div>
+      </div>
+      
+      <!-- Code changes and key control -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Code changes and key control
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Many lockouts and compromises happen because:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Default or guessable codes are kept</li>
+            <li>Codes are shared too widely</li>
+            <li>Spare keys are stored near the safe or in obvious places</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            A secure handover includes guidance on:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Choosing and changing codes safely</li>
+            <li>Who should hold access</li>
+            <li>How to store backups sensibly</li>
+            <li>Battery replacement habits for electronic locks (where relevant)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Discreet Installation and Access Planning -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+            Discreet installation and practical access planning
+          </h2>
+          
+          <div class="mt-8 space-y-6 text-lg text-neutral-700">
+            <p>
+              Safe installation can create security risk if it's handled casually. We treat discretion as part of the service, including discreet delivery as an essential step in the safe installation process.
+            </p>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <Image
+              src={lock3}
+              alt="Discreet safe installation and access planning"
+              class="w-full h-[500px] object-cover"
+              width={575}
+              height={370}
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-amber-900/30 to-transparent"></div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Discretion measures that matter -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Discretion measures that matter
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Depending on your needs, discretion can include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Minimising visibility of the safe during the visit</li>
+            <li>Keeping install details private</li>
+            <li>Sensible packaging and waste handling</li>
+            <li>No unnecessary photos that could reveal location</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Access constraints that affect the job -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          Access constraints that affect the job
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Practical access often drives both feasibility and price factors:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Stairs, tight hallways, narrow doorways</li>
+            <li>Parking distance and carry route</li>
+            <li>Floor protection and manoeuvring space</li>
+            <li>Weight handling requirements</li>
+            <li>Need for a lift or lifting equipment when handling heavy safes, especially in multi-storey buildings</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Planning this properly avoids last-minute surprises and helps the installation run smoothly.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Installation Evidence and Documentation -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Installation evidence and documentation
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If your goal is "installed properly" and "provable," evidence matters. Documenting professional installation is especially valuable, as it can serve as proof for future reference and insurance claims.
+          </p>
+        </div>
+      </div>
+      
+      <!-- What an evidence pack can include -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What an evidence pack can include
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            For many clients, especially where insurance is relevant, documentation may include:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Safe make/model and security rating details (where known)</li>
+            <li>Anchoring method summary</li>
+            <li>Photographs of the installation outcome (kept private and shared only with you, if requested)</li>
+            <li>Notes on location type (e.g., "anchored to solid masonry" / "anchored to concrete floor")</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This isn't paperwork for the sake of it—it's a practical record that supports peace of mind and can help if you ever need to demonstrate what's in place.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Removal, Relocation, and Re-installation -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Removal, relocation, and re-installation of existing safes
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you already have a safe that needs moving—within the same property or to a new address in {{location}}—the key is maintaining security throughout. Our team can assist with all aspects of safe removal, relocation, and re-installation, ensuring a smooth and secure process:
+          </p>
+        </div>
+      </div>
+      
+      <div class="mt-16 max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-8 text-left">
+          <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+            <li>Safe de-bolting without damaging the safe or structure</li>
+            <li>Safe handling with appropriate equipment</li>
+            <li>New location assessment and re-anchoring plan</li>
+          </ul>
+          <ul class="space-y-4 list-disc marker:text-amber-500 pl-5">
+            <li>Re-checking operation and alignment after re-fitting</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            This is often the moment where an older installation can be upgraded (for example, improving substrate choice or fixing method).
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Safe Installation Price Factors -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe installation price factors in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Safe installation costs vary because the security outcome depends on what you're fitting and what you're fixing it into. A proper quote should reflect the safe's resistance level, how it will be anchored, and any access or finishing work needed—rather than using a one-size-fits-all price.
+          </p>
+        </div>
+      </div>
+      
+      <!-- The main price factors for safe installation -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          The main price factors for safe installation
+        </h3>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li><strong>Safe grade and rating:</strong> Higher security safes (for example, Eurograde models) are typically heavier, more complex to position and anchor, and may need more time on-site. If you're aiming to meet an insurer requirement, the safe's rating and "cash rating" expectations can also influence the installation approach.</li>
+            <li><strong>Safe weight and dimensions:</strong> Heavier safes may require specialist handling equipment, additional manpower, and more time to manoeuvre safely—especially where there are stairs, tight turns, or limited space to work.</li>
+            <li><strong>Access and installation route:</strong> The practical route into the property is often a bigger cost driver than people expect. Narrow doorways, steps, long carry distances from parking, lift restrictions, or multiple flights of stairs can all add complexity.</li>
+            <li><strong>Substrate and fixing requirements:</strong> The wall or floor construction matters. Anchoring into solid masonry or concrete is different from dealing with blockwork, suspended timber floors, or modern plasterboard/stud walls. Some sites require heavier-duty fixings, alternative anchor points, or a revised placement plan to achieve the same anti-removal result.</li>
+            <li><strong>Making good and finish level:</strong> Some installs are purely functional (secure anchoring with minimal disturbance), while others need a neater finish—such as minor patching, cosmetic cover plates, cupboard adaptations, or discreet finishing around the safe. The more "invisible" you want the final result to be, the more time and materials may be involved.</li>
+          </ul>
+        </div>
+      </div>
+      
+      <!-- What a clear quote should include -->
+      <div class="mt-16 max-w-4xl mx-auto">
+        <h3 class="text-3xl font-bold text-neutral-900 text-center">
+          What a clear quote should include
+        </h3>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            To avoid surprises, it helps when pricing confirms:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>The safe type (freestanding, wall safe, floor safe) and intended location</li>
+            <li>The anchoring method and whether heavy-duty fixings are included</li>
+            <li>Any access assumptions (stairs, parking distance, tight spaces)</li>
+            <li>Whether making good or cosmetic finishing is included</li>
+            <li>Any optional extras like removal/relocation of an existing safe or discreet service requirements</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing Table -->
+  <section class="py-24 bg-neutral-50">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Safe Installation Pricing for <span class="text-amber-500">{{location}}</span>
+        </h2>
+      </div>
+
+      <div class="mt-16 max-w-7xl mx-auto">
+        <div class="overflow-x-auto rounded-2xl border border-neutral-200 shadow-lg">
+          <table class="min-w-full divide-y divide-neutral-200">
+            <thead class="bg-neutral-900">
+              <tr>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Service option
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Average on-site time
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Standard hours (7am–6pm) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Out-of-hours (6pm–7am) starting from
+                </th>
+                <th scope="col" class="px-6 py-4 text-left text-sm font-semibold text-white">
+                  Notes
+                </th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-neutral-200 bg-white">
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Pre-install survey & feasibility check (placement + anchoring plan)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £59
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £99
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Confirms substrate, access route and fixing approach; no drilling.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Freestanding safe installation (typical domestic/small business)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  1 hr 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £89
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £149
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Secure anchoring and anti-leverage positioning; safe supplied by you; fixings/materials extra if required.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Heavy/awkward freestanding safe installation (stairs/tight access)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs 15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £134
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £224
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Manoeuvring and secure re-positioning; may require additional handling precautions/equipment.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Wall safe installation (set into wall, secure fixing, tidy finish)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  3 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £179
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £299
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Subject to wall depth/construction; reinforcement/making-good may add time/materials.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Floor/underfloor safe installation (specialist, property-dependent)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  4 hrs 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £269
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £449
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Structural feasibility required; moisture protection/finishing may be additional.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  De-bolt & relocate safe within the same property (re-anchor)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  2 hrs
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £119
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £199
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Removal from existing fixings, move to new position, re-anchoring and operation check.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  De-bolt & relocate to a new address + re-install (two-site work)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  3 hrs 30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £209
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  £349
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Includes secure removal and re-anchoring at the new site; access and weight heavily affect time.
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Evidence pack / installation documentation (add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  15 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£15
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£25
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Anchoring summary plus photos if requested (shared privately).
+                </td>
+              </tr>
+              <tr class="hover:bg-amber-50 transition-colors">
+                <td class="px-6 py-4 text-sm text-neutral-900 font-medium">
+                  Minor making-good / cosmetic finishing (add-on)
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  30 mins
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£30
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  +£50
+                </td>
+                <td class="px-6 py-4 text-sm text-neutral-700">
+                  Small patching/covering around fixings or recess; materials extra where needed.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Common Installation Mistakes -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Common installation mistakes (and how to avoid them)
+        </h2>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            If you're comparing installers, these are the red flags that tend to lead to weak outcomes:
+          </p>
+        </div>
+        
+        <div class="mt-8 max-w-3xl mx-auto">
+          <ul class="space-y-4 text-left list-disc marker:text-amber-500 pl-5">
+            <li>Installing without confirming what the safe is being fixed into</li>
+            <li>Using generic fixings regardless of wall/floor type</li>
+            <li>Bolting into timber or plasterboard without a robust strategy</li>
+            <li>Leaving large gaps around the safe that encourage levering</li>
+            <li>Not changing electronic lock codes from defaults or not discussing key control</li>
+            <li>Treating discretion as an afterthought</li>
+          </ul>
+        </div>
+        
+        <div class="mt-8 space-y-6 text-lg text-neutral-700 text-left">
+          <p>
+            Improper installation can leave your valuables vulnerable to theft, as poorly secured safes are easier targets for criminals.
+          </p>
+          <p class="font-bold">
+            A safe is a long-term security investment. The installation should reflect that.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQs -->
+  <section class="bg-neutral-50 py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+          Frequently asked questions about safe installation in <span class="text-amber-500">{{location}}</span>
+        </h2>
+        
+        <div class="mt-12 max-w-3xl mx-auto">
+          <div class="space-y-8">
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Do all safes need to be bolted down?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Many do, especially lighter safes. The goal is preventing removal and leverage. According to safe weighing regulations and insurance requirements, safes weighing under 1000 kg typically require anchoring to ensure proper security and compliance. The exact requirement can depend on the safe's weight, design, and insurer expectations.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Can you install a safe in a flat or leasehold property?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Often yes, but it depends on permission rules and what you're allowed to drill into. Installation is generally more straightforward on the ground floor due to easier access and anchoring options. We'll help you understand realistic options during the survey stage.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                Is a wall safe always better because it's hidden?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                Not always. Concealment helps, but wall construction and fixing strength matter. A poorly installed wall safe can be easier to attack than a properly anchored freestanding safe. For optimal security and compliance, it is recommended to use qualified locksmiths for wall safe installation, as they have the expertise to ensure the safe is installed correctly and securely.
+              </p>
+            </div>
+            
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">
+                What if I forget the code or lose the key?
+              </h3>
+              <p class="mt-2 text-lg text-neutral-700">
+                We can advise on backup and access planning during handover so you reduce the risk of lockouts. If you lose your keys or codes, we can also supply replacement keys or codes if required. (If you already have a lockout issue, that's usually handled as a separate safe entry service.)
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="bg-neutral-900 text-white py-24">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <h2 class="text-4xl md:text-5xl font-bold">
+          Safe installation in <span class="text-amber-400">{{location}}</span> that prioritises real security
+        </h2>
+        
+        <div class="mt-8 text-xl text-neutral-300">
+          <p>
+            Safe installation is about outcomes: anti-removal anchoring, sensible placement, correct lock set-up, and clear evidence. Our company provides installation services for both domestic and commercial safes, ensuring that your investment—whether for home or business—is protected with the highest standards. If you want a safe fitted in {{location}} in a way that genuinely raises your security level—rather than simply placing a box in a cupboard—this is the approach that delivers it.
+          </p>
+        </div>
+        
+        <div class="mt-12  mb-4 flex flex-col sm:flex-row gap-4 justify-center">
+          <a
+            href="tel:{{phone_tel}}"
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">🔒</span>
+            Book Safe Installation Survey
+          </a>
+
+        </div>
+      </div>
+    </div>
+    <!-- Related Services Section -->
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-4xl md:text-5xl font-bold text-neutral-900">
+        Related Services
+      </h2>
+    </div>
+
+    <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Safe Opening -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/safe-opening/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Open a locked safe
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Professional safe opening service for locked or malfunctioning safes.
+        </p>
+      </div>
+    
+      <!-- Homepage -->
+      <div class="rounded-xl border border-neutral-200 p-6">
+        <a href="/" class="block group">
+          <h3 class="text-xl font-bold text-neutral-900 mb-3 group-hover:text-amber-600 transition-colors">
+            Back to home
+          </h3>
+        </a>
+        <p class="text-neutral-700">
+          Return to our main locksmith services.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+  </section>
+  <div class="lg:hidden sticky bottom-0 left-0 right-0 z-50">
+    <!-- Bottom bar background -->
+    <div class="bg-black py-3 px-4 border-t border-gray-800">
+      <div class="flex justify-center">
+        <!-- Button -->
+        <a  
+          href="tel:{{phone_tel}}"
+          class="w-full max-w-md bg-amber-500 hover:bg-amber-600 text-white font-semibold py-4 px-6 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 flex items-center justify-center gap-3"
+        >
+
+          <span class="text-lg">Call Now for Safe Installation</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  {localBodyParas.length > 0 && (
+    <section class="py-20 bg-neutral-50">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-6">In {{location}}</h2>
+        {localBodyParas.map((p) => (
+          <p class="text-lg text-neutral-700 leading-relaxed mb-4">{p}</p>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {localFaqs.length > 0 && (
+    <section class="py-20 bg-white">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-3xl md:text-4xl font-bold text-neutral-900 mb-10 text-center">Local FAQs</h2>
+        <div class="space-y-8">
+          {localFaqs.map((f) => (
+            <div class="text-left">
+              <h3 class="text-xl font-bold text-neutral-900">{f.q}</h3>
+              <p class="mt-2 text-lg text-neutral-700">{f.a}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+
+  {areasCovered.length > 0 && (
+    <section class="py-16 bg-neutral-50 border-t border-neutral-200">
+      <div class="max-w-4xl mx-auto px-6">
+        <h2 class="text-2xl md:text-3xl font-bold text-neutral-900 mb-6 text-center">Areas we cover in {{location}}</h2>
+        {postcodes.length > 0 && (
+          <p class="text-center text-neutral-700 mb-4 max-w-xl mx-auto text-sm"><strong>Postcode districts:</strong> {postcodes.join(" · ")}</p>
+        )}
+        <ul class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-6 gap-y-2 text-neutral-700 list-disc marker:text-amber-500 pl-5">
+          {areasCovered.map((a) => (
+            <li class="text-sm">{a}</li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )}
+
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  table th:first-child {
+    border-top-left-radius: 8px;
+  }
+  
+  table th:last-child {
+    border-top-right-radius: 8px;
+  }
+  
+  table tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+  }
+  
+  table tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+  }
+</style>

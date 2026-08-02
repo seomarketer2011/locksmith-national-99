@@ -1,0 +1,294 @@
+---
+import MainLayout from "../layouts/MainLayout.astro";
+import { Image } from "astro:assets";
+import contactHero from "../assets/pics/home_july-slide1psd_1944x.webp";
+---
+
+<MainLayout
+  title={`Contact Us | Emergency Locksmith Services in {{location}} | Locksmith`}
+  description={`Contact {{name}} for emergency lockout service, lock changes, and security upgrades in {{location}}. 24/7 availability, fast response times, professional locksmith services.`}
+>
+  <!-- Hero Section -->
+  <section class="relative bg-neutral-900 text-white overflow-hidden">
+    <div class="absolute inset-0 z-0">
+      <Image
+        src={contactHero}
+        alt="Contact professional locksmith services"
+        class="w-full h-full object-cover opacity-30"
+        width={1944}
+        height={800}
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-neutral-900/90 to-amber-500/20"></div>
+    </div>
+    
+    <div class="relative z-10 max-w-7xl mx-auto px-6 py-24 lg:py-32">
+      <div class="max-w-3xl">
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
+          Contact <span class="text-amber-400">{{name}}</span>
+        </h1>
+        
+        <div class="mt-8 space-y-4 text-lg text-neutral-300 leading-relaxed">
+          <p>
+            Need emergency lockout assistance, lock changes, or security upgrades in {{location}}? We're here to help 24/7. Whether you're locked out, need new locks installed, or want to upgrade your security, our professional locksmiths provide fast, reliable service with minimal disruption.
+          </p>
+          <p>
+            For urgent assistance, call our emergency line directly. For general inquiries or to schedule non-emergency services, you can use our contact form, email us, or give us a call during business hours.
+          </p>
+        </div>
+        
+        <div class="mt-12 flex flex-col sm:flex-row gap-4">
+          <a
+            href={`tel:{{phone_tel}}`}
+            class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+          >
+            <span class="text-xl">📞</span>
+            Emergency Call: {{phone}}
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+  <!-- Contact Form & Map Section -->
+  <section class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-16">
+        <!-- Contact Form -->
+     
+        
+        <!-- Map & Additional Info -->
+      
+            <!-- Phone Card -->
+            <div class="bg-white rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow duration-300 border border-neutral-200">
+              <div class="w-16 h-16 bg-amber-100 rounded-xl flex items-center justify-center mb-6">
+                <span class="text-3xl text-amber-600">📞</span>
+              </div>
+              <h3 class="text-2xl font-bold text-neutral-900 mb-4">Emergency & Business Hours</h3>
+              <div class="space-y-3">
+                <div>
+                  <p class="text-lg font-semibold text-amber-600">24/7 Emergency Line</p>
+                  <a href={`tel:{{phone_tel}}`} class="text-xl font-bold text-neutral-900 hover:text-amber-600 transition-colors">
+                    {{phone}}
+                  </a>
+                </div>
+                <div class="pt-4 border-t border-neutral-200">
+                  <p class="text-neutral-600">Business Hours:</p>
+                  <p class="font-medium">Monday - Sunday: 24hrs</p>
+    
+                  <p class="text-sm text-neutral-500 mt-2">*Emergency service available 24/7</p>
+                </div>
+              </div>
+            </div>
+          
+        
+          <!-- Map Placeholder -->
+          <div class="bg-neutral-100 rounded-2xl p-8">
+            <h3 class="text-2xl font-bold text-neutral-900 mb-6">Service Area: {{location}}</h3>
+        
+            <div class="mt-6 space-y-3">
+              <div class="flex items-center gap-3">
+                <span class="text-amber-600">✓</span>
+                <span>Full coverage of {{location}}</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="text-amber-600">✓</span>
+                <span>Typical response time: 30-60 minutes</span>
+              </div>
+              <div class="flex items-center gap-3">
+                <span class="text-amber-600">✓</span>
+                <span>Free quotes for scheduled work</span>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Why Choose Us -->
+          <div class="bg-neutral-900 text-white rounded-2xl p-8">
+            <h3 class="text-2xl font-bold mb-6">Why Choose {{name}}</h3>
+            <div class="space-y-4">
+              <div class="flex items-start gap-3">
+                <span class="text-amber-400 mt-1">✓</span>
+                <div>
+                  <p class="font-medium">24/7 Emergency Service</p>
+                  <p class="text-neutral-300 text-sm">Always available when you need us most</p>
+                </div>
+              </div>
+  
+              <div class="flex items-start gap-3">
+                <span class="text-amber-400 mt-1">✓</span>
+                <div>
+                  <p class="font-medium">Non-Destructive Entry</p>
+                  <p class="text-neutral-300 text-sm">Minimal damage to your property</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-400 mt-1">✓</span>
+                <div>
+                  <p class="font-medium">Fully Insured</p>
+                  <p class="text-neutral-300 text-sm">Peace of mind with comprehensive insurance</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3">
+                <span class="text-amber-400 mt-1">✓</span>
+                <div>
+                  <p class="font-medium">Transparent Pricing</p>
+                  <p class="text-neutral-300 text-sm">No hidden fees, clear quotes upfront</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Quick Response Card -->
+          <div class="bg-gradient-to-r from-amber-500 to-amber-600 text-neutral-900 rounded-2xl p-8">
+            <div class="flex items-center gap-4 mb-4">
+              <span class="text-3xl">⏱️</span>
+              <div>
+                <h4 class="text-xl font-bold">Fast Response Times</h4>
+                <p class="text-neutral-900/80">In {{location}} and surrounding areas</p>
+              </div>
+            </div>
+            <div class="grid grid-cols-2 gap-4">
+              <div class="bg-white/20 backdrop-blur-sm rounded-xl p-4 text-center">
+                <p class="text-2xl font-bold">30</p>
+                <p class="text-sm">Avg. Response<br>Minutes</p>
+              </div>
+              <div class="bg-white/20 backdrop-blur-sm rounded-xl p-4 text-center">
+                <p class="text-2xl font-bold">24/7</p>
+                <p class="text-sm">Emergency<br>Service</p>
+              </div>
+            </div>
+            <a 
+              href={`tel:{{phone_tel}}`}
+              class="mt-6 inline-flex items-center justify-center w-full bg-white text-neutral-900 px-6 py-3 rounded-xl font-bold hover:bg-neutral-100 transition-colors"
+            >
+              📞 Call Now: {{phone}}
+            </a>
+          </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="py-24 bg-neutral-50">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-4xl md:text-5xl font-bold text-neutral-900 text-center mb-12">
+          Frequently Asked Questions
+        </h2>
+        
+        <div class="space-y-6">
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <h3 class="text-xl font-bold text-neutral-900 mb-3">
+              What areas do you cover in {{location}}?
+            </h3>
+            <p class="text-neutral-700">
+              We provide locksmith services across all of {{location}} and surrounding areas. Our mobile locksmiths can reach you quickly, typically within 30-60 minutes depending on your exact location and traffic conditions.
+            </p>
+          </div>
+          
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <h3 class="text-xl font-bold text-neutral-900 mb-3">
+              How quickly can you respond to emergency calls?
+            </h3>
+            <p class="text-neutral-700">
+              For emergency lockouts, we aim to be on-site within 30-60 minutes in {{location}}. We operate 24/7, so you can call us anytime - day or night, weekends, and holidays.
+            </p>
+          </div>
+          
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <h3 class="text-xl font-bold text-neutral-900 mb-3">
+              Do you provide quotes before starting work?
+            </h3>
+            <p class="text-neutral-700">
+              Yes, we always provide transparent pricing. For emergency situations, we'll give you a clear quote over the phone based on your situation. For scheduled work, we can provide free no-obligation quotes.
+            </p>
+          </div>
+          
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <h3 class="text-xl font-bold text-neutral-900 mb-3">
+              Are your locksmiths certified and insured?
+            </h3>
+            <p class="text-neutral-700">
+              All our locksmiths are Master Locksmiths Association (MLA) approved, fully vetted, and carry comprehensive insurance. We're committed to professional, reliable service you can trust.
+            </p>
+          </div>
+          
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <h3 class="text-xl font-bold text-neutral-900 mb-3">
+              What payment methods do you accept?
+            </h3>
+            <p class="text-neutral-700">
+              We accept all major credit/debit cards, cash, and bank transfers. For commercial clients, we can also arrange invoicing with agreed payment terms.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Hours -->
+
+
+  <!-- Final CTA -->
+  <section class="py-24 bg-gradient-to-br from-neutral-900 to-amber-900/30 text-white">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+      <h2 class="text-4xl md:text-5xl font-bold mb-8">
+        Get in Touch Today
+      </h2>
+      
+      <p class="text-xl text-neutral-300 mb-12 max-w-2xl mx-auto">
+        Whether it's an emergency lockout, scheduled lock change, or security consultation, we're here to help. Contact {{name}} for professional locksmith services in {{location}}.
+      </p>
+      
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href={`tel:{{phone_tel}}`}
+          class="inline-flex items-center justify-center gap-3 bg-amber-500 text-neutral-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-amber-400 transition-all duration-300 shadow-lg hover:shadow-amber-500/25 hover:scale-[1.02]"
+        >
+          <span class="text-xl">📞</span>
+          Call {{phone}}
+        </a>
+      </div>
+    </div>
+  </section>
+</MainLayout>
+
+<style>
+  * {
+    scroll-behavior: smooth;
+  }
+  
+  /* Form focus styles */
+  input:focus, textarea:focus, select:focus {
+    outline: none;
+    ring-width: 2px;
+  }
+  
+  /* Smooth transitions */
+  .transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 300ms;
+  }
+  
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #f59e0b;
+    border-radius: 5px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #d97706;
+  }
+</style>
