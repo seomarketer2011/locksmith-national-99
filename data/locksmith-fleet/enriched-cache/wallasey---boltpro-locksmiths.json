@@ -1,339 +1,311 @@
 {
-  "meta.title": "Wallasey Locksmith | 24/7 Emergency Call-Out Service",
-  "meta.description": "Wallasey locksmith specializing in Victorian and period property locks, emergency call-outs, repairs, and security upgrades for homes.",
-  "home.hero-paragraph": "Wallasey locksmith lock services and professional locksmithing help are available 24/7 from our DBS checked team. We specialise in emergency lockouts, lock changes, and lock repairs for domestic and commercial properties. All work is fully insured with non-destructive entry methods. No call-out fee applies.",
-  "home.local-context-heading": "Specialist locks for Wallasey's period properties",
-  "home.local-context-body": "Wallasey's housing stock is predominantly Victorian and Edwardian, with significant interwar properties scattered across areas like Liscard and Bidston Hill. Period terraces and semi-detached homes often retain original sash windows and traditional lock mechanisms that require specialist knowledge to maintain and repair. Older properties frequently need multipoint lock upgrades, period-appropriate hardware replacement, or careful handling of worn mechanisms typical of properties over 100 years old.\n\nRental properties in Wallasey experience high tenant turnover, making lock changes and security updates routine maintenance tasks. Many period properties fall under conservation considerations or local heritage guidelines, which can affect choices for replacement door furniture and locking systems. Coastal salt-air exposure in areas near the seafront accelerates corrosion of locks and hinges, necessitating more frequent servicing and replacement than inland properties typically require.",
-  "home.local-faqs": [
-    {
-      "q": "Why do locks in New Brighton properties wear out faster than elsewhere in Wallasey?",
-      "a": "Seafront properties face constant salt-air exposure, which accelerates corrosion of metal locks and mechanisms. We recommend annual inspections and use marine-grade materials for coastal homes to prevent emergency lockouts."
-    },
-    {
-      "q": "Do Victorian terraces in Poulton need specialist lock fitting?",
-      "a": "Yes—many Victorian terraces retain original sash windows and period door furniture that require careful handling. Our locksmiths have experience working with period locks and can upgrade to modern multipoint systems while respecting the property's character."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Wallasey – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Wallasey. Locked out of Victorian terraces, sash windows? Fast response, non-destructive entry, snapped keys, post-break-in security.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Wallasey, our locksmiths specialise in locksmithing expertise for urgent situations. Whether you're locked out, have snapped a key, or need post-break-in repairs, our DBS checked team responds 24/7. We use non-destructive entry methods wherever possible to protect your property and get you back inside quickly.",
-  "emergency-locksmith.local-context-body": "Wallasey's older residential neighborhoods, including Claughton and Egremont, contain substantial Victorian and Edwardian terraced housing where emergency lockouts are common. Period properties often feature original sash windows and traditional door furniture, meaning lockouts frequently require careful handling of heritage locks and frames to avoid damage during emergency access.\n\nSeafront and near-coastal properties face accelerated lock wear due to salt-air corrosion, making mechanism failure and stuck locks a recurring issue in areas like New Brighton and Seacombe. High tenant turnover in Wallasey's rental stock compounds emergency call volume, particularly for multipoint lock failures and lock changes needed to meet compliance standards between occupancies.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Seacombe – how quickly can you arrive?",
-      "a": "We're based locally in Wallasey and typically arrive within 30–45 minutes for emergency lockouts across Seacombe and surrounding areas. Our locksmiths are trained to handle period locks on older terraces without causing damage to original door furniture."
-    },
-    {
-      "q": "My multipoint lock has jammed after salt-air corrosion – is this an emergency repair?",
-      "a": "Yes; seafront properties in Wallasey face accelerated wear from coastal weather, and a seized multipoint lock leaves you vulnerable. We offer 24/7 emergency callouts to unstick, repair, or replace corroded mechanisms and restore full security."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Wallasey | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Wallasey? Non-destructive entry for Victorian terraces, period properties & modern homes. Fast 24/7 emergency service. Call now.",
-  "locked-out.hero-paragraph": "When you're locked out in Wallasey, our experienced locksmith team specialises in rapid locksmithing solutions that get you back inside fast. Whether you've lost your keys, had them snap in the lock, or been accidentally shut out, we use non-destructive entry techniques to regain access without damage to your property.",
-  "locked-out.local-context-body": "Period properties in neighborhoods like Egremont and Poulton feature Victorian terraces with original or period-style door furniture that requires specialized non-destructive entry techniques. Older sash windows and period locks demand careful handling to avoid damage; standard forced-entry methods risk harm to heritage features. Frequent tenant turnovers in the area's rental stock create regular lockout calls requiring swift access without compromising period door frames or historic lock mechanisms.\n\nCoastal exposure in Wallasey accelerates corrosion of lock mechanisms, particularly in seafront areas. Salt air degrades internal pin stacks and creates jamming issues that complicate non-destructive entry; corroded locks often require manipulation skills beyond standard picking. The high proportion of original period locks means many properties lack modern cylinder standardization, making key-free access dependent on property-specific assessment rather than template solutions.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Claughton with an original sash window lock—can you open it without damage?",
-      "a": "Yes. Our locksmiths specialise in period properties and understand Victorian mechanisms; we use non-destructive techniques to manipulate or bypass original locks without harming frames or furniture. Call 0151 701 1003 for an emergency visit."
-    },
-    {
-      "q": "My seafront flat in Seacombe has a corroded multipoint lock after salt-air exposure—how quickly can you get me in?",
-      "a": "We attend lockouts across Wallasey within the hour. Coastal corrosion is common here; we'll gain entry non-destructively and assess whether the lock needs replacement for future reliability."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Wallasey – Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Wallasey Victorian & Edwardian properties. Snapped keys extracted from euro cylinders, mortice locks & night latches. Professional, non-destructive. 24/7.",
-  "broken-key-removal.hero-paragraph": "Our Wallasey locksmiths specialise in broken key removal using expert locksmithing techniques to resolve your problem safely. Whether you've experienced a sheared key or have one stuck in your euro cylinder or mortice lock, we employ non-destructive methods and precision key extractor tools to retrieve the broken piece without damaging your lock.",
-  "broken-key-removal.local-context-body": "Victorian and Edwardian terraces throughout Claughton and across Wallasey contain original mortice locks and period-fitted euro cylinders that are particularly prone to key breakage due to age-related wear and material brittleness. Older sash windows and solid timber doors in these properties require careful key extraction to avoid damage to historic lock mechanisms and door furniture, making specialist removal technique essential in this predominantly pre-1945 housing stock.\n\nCoastal properties in seafront areas experience accelerated corrosion from salt air, which weakens both key metal and cylinder mechanisms, increasing breakage frequency. Extraction work in rental properties—common across Wallasey's high-density older stock—must preserve locks intact where possible to avoid compliance issues with multipoint lock requirements and tenant deposit disputes.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Poulton terraces often jam keys in their locks?",
-      "a": "Victorian period locks in Poulton's terraced properties are typically narrower and shallower than modern euro cylinders, so keys can bind or snap if forced. We extract broken keys carefully without damaging the original lock mechanism, which is often irreplaceable."
-    },
-    {
-      "q": "How does sea salt air affect broken key removal in New Brighton properties?",
-      "a": "Seafront locks in New Brighton corrode internally, making cylinders brittle and keys more prone to snapping. When extraction is needed, we use specialist techniques to remove the broken piece without further deteriorating the weakened lock body."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Wallasey – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Wallasey covering Claughton & Egremont. Post-break-in lock changes, door repairs. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Our Wallasey locksmiths specialise in burglar repair and locksmithing services that restore your home's security after break-ins. Whether you're dealing with a smashed lock, forced entry damage, or a compromised door frame, we handle repairs to insurance-compliant standards. We fit TS007 anti-snap cylinders and BS3621 mortice locks to prevent future intrusions.",
-  "burglar-repair-service.local-context-body": "Break-ins to period properties across Wallasey—particularly the Victorian terraces of Egremont and Edwardian semis in Claughton—often damage original or period-style door furniture, frames, and multipoint locks. Post-break-in repair requires both structural reinstatement and lock replacement that matches insurance specifications while respecting the character of older housing stock. Rental properties with frequent turnover compound demand for rapid, compliant repairs following forced-entry incidents.\n\nCoastal salt-air exposure in Wallasey accelerates corrosion of replacement locks and mechanisms, making material selection critical for durability post-repair. Insurance assessments for break-in damage typically require documentation of lock type, frame condition, and compliance with current security standards—factors that demand careful inspection, particularly in properties with original timber frames or listed-building constraints. Swift turnaround with photographic evidence supports claim processing for landlords and homeowners alike.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you repair sash windows and period locks after a break-in in Victorian properties like those in Seacombe?",
-      "a": "Yes. Many of our Seacombe call-outs involve Victorian terraces with original sash windows and period locks that need specialist reinstatement. We source and fit heritage-compatible hardware to restore both security and character after forced entry."
-    },
-    {
-      "q": "Can you provide insurance-standard documentation for a burglary repair in New Brighton?",
-      "a": "Absolutely. We issue full condition reports, photographic evidence, and itemised repair schedules that meet insurer requirements for seaside properties in New Brighton and across Wallasey. Our work is compliant with all reinstatement standards."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Wallasey – Fast 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Wallasey for Victorian terraces and period properties. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Wallasey from our experienced locksmith team combines expert locksmithing with rapid response. Whether you're dealing with smashed windows or damaged doors, we secure your property using robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures your premises remains protected and insurance-compliant, giving you peace of mind when you need it most.",
-  "emergency-boarding-up.local-context-body": "Seafront properties in New Brighton and older terraced stock across Seacombe frequently sustain storm damage and break-in damage to period glazing and door frames. The prevalence of original sash windows and timber-framed doors in these Victorian and Edwardian properties means boarding-up work must account for period joinery and avoid unnecessary damage to listed features or original fittings that may require specialist restoration rather than replacement.\n\nCoastal exposure in areas near the ferry terminal and seafront accelerates deterioration of door and window frames; salt-air corrosion weakens timber and metalwork, making properties more vulnerable to forced entry and storm damage. Boarding-up work in Wallasey often requires rapid assessment of structural integrity around frames and hinges, as corroded fixings may fail under boarding loads or future weather stress, necessitating reinforcement or temporary bracing during the repair process.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Why do Victorian terrace properties in Egremont need specialist boarding up after a break-in?",
-      "a": "Victorian terraces have period-specific door frames and original joinery that can be damaged by standard boarding techniques. Our team uses sympathetic fixings and materials that protect the structural integrity of your sash windows and period architraves while securing the property immediately."
-    },
-    {
-      "q": "How quickly can you board up seafront properties in New Brighton after storm damage?",
-      "a": "We offer same-day emergency boarding for coastal properties affected by high winds or salt-air corrosion damage. Swift boarding prevents further water ingress and rust acceleration on your locks and metal fittings—critical in Wallasey's maritime climate."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Wallasey | Same-Day Service Available",
-  "lock-changes.meta.description": "Lock changes in Wallasey for Victorian & Edwardian properties. Lost keys, moving home, or security upgrades. Fast professional service. Call 0151 701 1003.",
-  "lock-changes.hero-paragraph": "Lock changes by our Wallasey locksmith team combine expert locksmithing with modern security standards to protect your property. Whether you're moving home, managing a tenancy turnover, or upgrading security, we install BS3621-approved mortice locks and TS007 anti-snap cylinders. Our technicians ensure every installation meets current industry specifications for lasting peace of mind.",
-  "lock-changes.local-context-body": "Lock changes in Wallasey reflect the area's mix of period and interwar housing. Edwardian semis in Liscard and Victorian terraces across Poulton frequently require lock replacement following lettings turnovers, key loss, or security upgrades. Older properties often retain original or period-style door furniture, meaning replacement locks must match aesthetic and mechanical compatibility with existing hardware and frames.\n\nCoastal salt-air exposure accelerates lock corrosion, particularly affecting seafront and near-seafront properties. Replacement work often involves addressing wear to internal mechanisms before new locks are fitted. Many properties in Wallasey's rental sector also require upgrades to multipoint locks for compliance with lettings standards, adding both technical and scheduling complexity to change-out jobs.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Egremont – should I replace the original locks?",
-      "a": "Yes, we'd recommend replacing old Victorian locks with modern multipoint locks for security and compliance, especially in rental properties. Our locksmiths have specialist experience with period properties and can fit new locks while preserving the character of original door furniture."
-    },
-    {
-      "q": "My seafront flat in New Brighton has corroded locks from salt air – can you replace them with something more durable?",
-      "a": "Absolutely – coastal corrosion is common in Wallasey's seafront areas. We can replace corroded locks with marine-grade or stainless steel mechanisms designed to withstand salt-air exposure and last much longer."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Wallasey – Same-Day Service Available",
-  "lock-repairs.meta.description": "Expert door lock repairs in Wallasey. Fix jammed locks, multipoint & mortice failures. Victorian terrace specialists. 24/7 emergency locksmith service.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs in Wallasey from our qualified locksmith specialists in locksmithing. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, our technicians deliver swift solutions. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably. All work comes with manufacturer warranty protection.",
-  "lock-repairs.local-context-body": "Wallasey's residential core is dominated by Victorian and Edwardian properties, where original mortice locks and period mechanisms remain commonplace. Egremont's dense terrace stock exemplifies this pattern, with many properties still fitted with traditional sash-window locks and front-door hardware that require specialist repair rather than replacement. Lock degradation accelerates in these older homes due to daily use and exposure; gearbox failures and worn night latches demand knowledge of heritage lock repair techniques.\n\nCoastal exposure compounds lock wear across the seafront and older inland areas alike. Salt-air corrosion affects mechanisms in New Brighton and Seacombe properties, while the high turnover of rental stock—particularly in converted Victorian terraces—drives frequent multipoint lock repairs for compliance and security upgrades. Many period doors are fitted with wood frames and traditional materials that dictate the approach to repair; replacement of internal components must preserve the original casing and aesthetic where possible.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do my Victorian sash window locks keep jamming in Seacombe properties?",
-      "a": "Victorian terraces in Seacombe often have original cast-iron or period-style locks that accumulate salt-air corrosion from proximity to the seafront, causing stiffness and binding. We specialise in cleaning, lubricating, and repairing these heritage mechanisms without damaging their character."
-    },
-    {
-      "q": "Do I need multipoint lock repairs if I'm renting out a property in Liscard?",
-      "a": "Yes—high turnover in Liscard's rental stock means multipoint locks on modern doors wear faster and are often required for landlord compliance. We repair failed gearboxes and latches quickly to keep your property secure between tenancies."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Wallasey – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Wallasey, Egremont & Claughton. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint upgrades for Victorian & Edwardian properties.",
-  "door-lock-installation.hero-paragraph": "Our Wallasey locksmith team specialises in professional door lock installation and locksmithing solutions tailored to your security needs. Whether you require new fittings for enhanced protection or upgrades to meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. Your home's security is our priority.",
-  "door-lock-installation.local-context-body": "Wallasey's older residential neighborhoods, particularly Claughton's Edwardian semi-detached properties, feature original or period-style door furniture that often requires careful replacement. Modern multipoint locks and BS3621 mortice fittings must be installed to match existing door frames without compromising the structural integrity or aesthetic character typical of these properties. Door lock installation here balances security compliance with preservation of period detailing.\n\nCoastal properties throughout the area, especially near seafront zones, face accelerated corrosion from salt air that degrades lock mechanisms faster than inland equivalents. TS007 anti-snap cylinders are increasingly specified during upgrades to address both security standards and environmental wear. High turnover in rental accommodation also drives demand for compliant multipoint systems, making lock installation a routine requirement for landlords meeting tenancy standards.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install locks on Victorian and Edwardian sash windows in Wallasey properties?",
-      "a": "Yes. Many terraces in Seacombe and New Brighton have original or period sash windows that require specialist handling. We fit period-appropriate locks and modern security cylinders without damaging heritage frames."
-    },
-    {
-      "q": "Why do seafront properties in New Brighton and Seacombe need lock replacement more often?",
-      "a": "Salt-air corrosion accelerates wear on locks and cylinders near the coast. We recommend upgrading to stainless-steel or marine-grade hardware and can install TS007 anti-snap cylinders designed to resist coastal weathering."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Wallasey – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Wallasey for Victorian terraces and period properties. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Wallasey locksmith team specialises in door lock replacement and locksmithing services tailored to your security needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we provide swift, professional solutions. All our work meets BS3621 standards, and we offer anti-snap upgrades for enhanced protection alongside like-for-like cylinder replacements.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Wallasey addresses wear across properties ranging from Victorian terraces in Seacombe to interwar semis on Bidston Hill. Period properties often retain original or heritage-style locks that require specialist handling during replacement; contemporary multipoint systems are increasingly common in rental properties where frequent tenant changeovers necessitate regular upgrades for security and compliance.\n\nCoastal exposure accelerates corrosion in seafront and near-seafront areas, where salt air degrades lock mechanisms faster than inland locations. Replacement work must account for this accelerated wear cycle and the prevalence of period door frames that may require careful fitting to accommodate modern lock bodies without damage to original joinery or cosmetic finishes.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace locks in Poulton need specialist replacement?",
-      "a": "Victorian terraces in Poulton often have original or period-style door furniture with non-standard measurements and heritage finishes. Our locksmiths are experienced in sourcing compatible replacements that match the era and preserve the character of your property while meeting modern security standards."
-    },
-    {
-      "q": "How often should seafront properties in New Brighton replace their locks?",
-      "a": "Salt-air corrosion in New Brighton accelerates lock wear and mechanism deterioration compared to inland Wallasey properties. We recommend inspection every 12–18 months and proactive replacement if you notice stiffness, rust, or difficulty turning your key to avoid emergency lockouts."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Wallasey – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Wallasey & Seacombe. Victorian & Edwardian doors, uPVC alignment, composite realignment, handle repair & hardware fixes.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Wallasey from our skilled locksmiths combine expert locksmithing with structural solutions. Whether your door is dropping, catching, or failing to close properly, we specialise in hinge adjustment and frame alignment across uPVC, composite and timber doors. Our technicians diagnose the root cause and restore full functionality.",
-  "door-repairs.local-context-body": "Wallasey's housing stock—particularly the Victorian terraces of Seacombe and Edwardian semis across the borough—frequently requires door repair attention. Period properties often exhibit frame settling and wood movement that cause doors to drop or misalign over decades. Original timber frames, common in pre-1945 housing, swell and warp with seasonal moisture changes, making adjustment and rehang work routine maintenance rather than exceptional repair.\n\nCoastal properties near the seafront experience accelerated deterioration from salt-air exposure, affecting door hardware and hinges. Older rental stock turnover generates demand for door adjustment following tenant changes and wear-and-tear cycles. Many period doors feature traditional mortice locks and period-appropriate hardware that require specialist knowledge to repair without damage—standard modern techniques may compromise original components or period authenticity.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Poulton need specialist repair?",
-      "a": "Victorian terraces in Poulton often have original timber frames and period locks that have settled unevenly over decades—simple realignment won't work without understanding the property's age and construction. Our locksmiths are trained to repair dropped doors and hardware on these older properties without forcing mechanisms or damaging period features."
-    },
-    {
-      "q": "How does coastal weather affect door repairs in New Brighton?",
-      "a": "Salt air and moisture accelerate corrosion of locks, hinges, and multipoint mechanisms on seafront properties around New Brighton's promenade. We specialise in repairing salt-damaged door hardware and realigning doors affected by swelling timber—common issues in this Edwardian resort area."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Wallasey – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Wallasey. Espagnolette & shootbolt locks fixed on Victorian sash windows, period properties & modern uPVC frames.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Wallasey demands expert locksmith locksmithing knowledge. Our technicians diagnose and resolve windows that won't lock, addressing broken handles and failed espagnolette mechanisms. We fit insurance-compliant replacements, ensuring your home security meets industry standards and functions reliably.",
-  "window-lock-repair-replacement.local-context-body": "Properties across Liscard and Seacombe retain original sash windows fitted with period espagnolette locks and shootbolts, now often stiff or corroded after decades of use. Replacement of these mechanisms requires understanding both the original hardware and modern compliance needs. Edwardian semi-detached homes in particular frequently present worn catches and seized rods that demand specialist handling to avoid damage to period glazing and frames.\n\nCoastal salt-air exposure accelerates corrosion of window lock components, especially on properties near the seafront and elevated sites like Bidston Hill. Salt ingress into shootbolt mechanisms causes binding and rust accumulation faster than inland areas experience. Rental properties with multiple occupancies also see accelerated wear from frequent operation and variable maintenance standards, making routine inspection and timely replacement essential for security and tenant safety compliance.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks in Victorian terraces around Poulton need specialist attention?",
-      "a": "Victorian sash windows in Poulton's older terraces often have original or period-style espagnolette locks that require careful handling to avoid damage to the frame. Our locksmiths have the expertise to repair these heritage locks or fit sympathetic replacements that maintain the character of your property."
-    },
-    {
-      "q": "How does coastal weather affect window locks in New Brighton?",
-      "a": "Salt air and moisture in New Brighton accelerate corrosion of shootbolt and espagnolette mechanisms, causing them to seize or fail prematurely. We recommend regular inspection and can replace corroded locks with coastal-grade fittings designed to resist weathering."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Wallasey – Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Wallasey for Victorian & Edwardian homes. Secure anchoring, insurance documentation, wall & freestanding safes fitted professionally.",
-  "safe-installation.hero-paragraph": "Safe installation services in Wallasey by our experienced locksmith specialists combine expert locksmithing with secure positioning techniques. Whether you need a new safe secured or require insurance approval through AiS certification, our technicians employ floor anchoring and wall mounting methods to ensure your valuables remain protected. We specialise in safes rated to Eurograde standards for residential and commercial clients.",
-  "safe-installation.local-context-body": "Seafront properties in New Brighton and older Edwardian villas throughout the area often require secure storage solutions for valuables vulnerable to coastal weather and aging infrastructure. Period semis and terraces in Noctorum similarly demand careful safe installation that respects original joinery and plasterwork while providing reliable anchoring into solid walls—a balance between security and preservation of period character.\n\nSalt-air corrosion in coastal zones accelerates deterioration of internal fixtures, making properly anchored safes essential for long-term protection. Installation work must account for the varied wall construction in pre-1945 properties; Victorian and Edwardian terraces often contain rubble-filled cavity walls or lath-and-plaster partitions that require specialist fixing techniques and structural assessment before load-bearing installation can proceed safely.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Claughton need specialist safe installation?",
-      "a": "Victorian terraces have solid brick walls but often contain period plumbing and wiring that must be located before wall-mounting a safe. Our surveyors know the typical layout of Claughton properties and can identify the safest anchor points without damaging original features or utilities."
-    },
-    {
-      "q": "Do seafront properties in New Brighton need different safe anchoring because of salt air?",
-      "a": "Yes. Coastal corrosion accelerates bolt and fastener degradation in New Brighton and Seacombe. We use marine-grade stainless steel fixings and recommend annual checks to ensure your safe remains securely anchored against salt-air wear."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Wallasey – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Wallasey for lost keys, combinations & lockouts. Non-destructive methods for Victorian & Edwardian properties. Domestic & commercial safes.",
-  "safe-opening.hero-paragraph": "Our Wallasey locksmith team specialises in safe opening using expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we use combination dial manipulation and precision tools to regain access without damage. Fast, professional service available across the area.",
-  "safe-opening.local-context-body": "Period properties across Seacombe and Liscard frequently house older safes—many installed decades ago in Victorian and Edwardian terraces. Tenant turnover in the rental sector means combination records are often lost or unavailable, leaving occupants locked out of their own security boxes. Safe opening becomes urgent when documents, valuables or keys are secured inside and the original paperwork has disappeared.\n\nCoastal properties face accelerated corrosion of safe mechanisms due to salt-air exposure, particularly in New Brighton where seafront location compounds wear on internal tumblers and locking pins. Non-destructive opening requires specialist knowledge of older safe designs; many period homes contain vintage models where standard modern techniques risk permanent damage to irreplaceable mechanisms.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Egremont with a period safe built into the wall—the combination is lost. Can you open it without damage?",
-      "a": "Yes. Our non-destructive safe opening service is ideal for period properties in Egremont and across Wallasey's Victorian stock. We specialise in careful manipulation and specialist tools that preserve both the safe and the original joinery around it."
-    },
-    {
-      "q": "Our rental property in Poulton has a tenant lockout from an old safe—how quickly can you help?",
-      "a": "We offer same-day emergency safe opening for landlords managing the high tenant turnover common in Poulton's working-class Victorian terraces. Call 0151 701 1003 and we'll attend with non-destructive equipment to regain access without costly damage."
-    }
-  ],
-  "home.areas-covered": [
-    "Bidston Hill",
-    "Claughton",
-    "Egremont",
-    "Liscard",
-    "New Brighton",
-    "Noctorum",
-    "Poulton",
-    "Seacombe"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Claughton",
-    "Poulton",
-    "Egremont",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "locked-out.areas-covered": [
-    "Noctorum",
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Seacombe",
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Liscard",
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Bidston Hill"
-  ],
-  "lock-changes.areas-covered": [
-    "Egremont",
-    "Poulton",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "lock-repairs.areas-covered": [
-    "Bidston Hill",
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard"
-  ],
-  "door-lock-installation.areas-covered": [
-    "New Brighton",
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "door-repairs.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "safe-installation.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ],
-  "safe-opening.areas-covered": [
-    "Poulton",
-    "Egremont",
-    "Claughton",
-    "Noctorum",
-    "Seacombe",
-    "New Brighton",
-    "Liscard",
-    "Bidston Hill"
-  ]
+ "meta.title": "Wallasey Locksmith | 24/7 Emergency Call-Out Service",
+ "meta.description": "Wallasey locksmith specializing in Victorian and period property locks, emergency call-outs, repairs, and security upgrades for homes.",
+ "home.hero-paragraph": "Wallasey locksmith lock services and professional locksmithing help are available 24/7 from our DBS checked team. We specialise in emergency lockouts, lock changes, and lock repairs for domestic and commercial properties. All work is fully insured with non-destructive entry methods. No call-out fee applies.",
+ "home.local-context-heading": "Specialist locks for Wallasey's period properties",
+ "home.local-context-body": "Wallasey's housing stock is predominantly Victorian and Edwardian, with significant interwar properties scattered across areas like Liscard and Bidston Hill. Period terraces and semi-detached homes often retain original sash windows and traditional lock mechanisms that require specialist knowledge to maintain and repair. Older properties frequently need multipoint lock upgrades, period-appropriate hardware replacement, or careful handling of worn mechanisms typical of properties over 100 years old.\n\nRental properties in Wallasey experience high tenant turnover, making lock changes and security updates routine maintenance tasks. Many period properties fall under conservation considerations or local heritage guidelines, which can affect choices for replacement door furniture and locking systems. Coastal salt-air exposure in areas near the seafront accelerates corrosion of locks and hinges, necessitating more frequent servicing and replacement than inland properties typically require.",
+ "home.local-faqs": [
+  {
+   "q": "Why do locks in New Brighton properties wear out faster than elsewhere in Wallasey?",
+   "a": "Seafront properties face constant salt-air exposure, which accelerates corrosion of metal locks and mechanisms. We recommend annual inspections and use marine-grade materials for coastal homes to prevent emergency lockouts."
+  },
+  {
+   "q": "Do Victorian terraces in Poulton need specialist lock fitting?",
+   "a": "Yes\u2014many Victorian terraces retain original sash windows and period door furniture that require careful handling. Our locksmiths have experience working with period locks and can upgrade to modern multipoint systems while respecting the property's character."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Wallasey \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Wallasey. Locked out of Victorian terraces, sash windows? Fast response, non-destructive entry, snapped keys, post-break-in security.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Wallasey, our locksmiths specialise in locksmithing expertise for urgent situations. Whether you're locked out, have snapped a key, or need post-break-in repairs, our DBS checked team responds 24/7. We use non-destructive entry methods wherever possible to protect your property and get you back inside quickly.",
+ "emergency-locksmith.local-context-body": "Wallasey's older residential neighborhoods, including Claughton and Egremont, contain substantial Victorian and Edwardian terraced housing where emergency lockouts are common. Period properties often feature original sash windows and traditional door furniture, meaning lockouts frequently require careful handling of heritage locks and frames to avoid damage during emergency access.\n\nSeafront and near-coastal properties face accelerated lock wear due to salt-air corrosion, making mechanism failure and stuck locks a recurring issue in areas like New Brighton and Seacombe. High tenant turnover in Wallasey's rental stock compounds emergency call volume, particularly for multipoint lock failures and lock changes needed to meet compliance standards between occupancies.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Seacombe \u2013 how quickly can you arrive?",
+   "a": "We're based locally in Wallasey and typically arrive within 30\u201345 minutes for emergency lockouts across Seacombe and surrounding areas. Our locksmiths are trained to handle period locks on older terraces without causing damage to original door furniture."
+  },
+  {
+   "q": "My multipoint lock has jammed after salt-air corrosion \u2013 is this an emergency repair?",
+   "a": "Yes; seafront properties in Wallasey face accelerated wear from coastal weather, and a seized multipoint lock leaves you vulnerable. We offer 24/7 emergency callouts to unstick, repair, or replace corroded mechanisms and restore full security."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Wallasey | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Wallasey? Non-destructive entry for Victorian terraces, period properties & modern homes. Fast 24/7 emergency service. Call now.",
+ "locked-out.hero-paragraph": "When you're locked out in Wallasey, our experienced locksmith team specialises in rapid locksmithing solutions that get you back inside fast. Whether you've lost your keys, had them snap in the lock, or been accidentally shut out, we use non-destructive entry techniques to regain access without damage to your property.",
+ "locked-out.local-context-body": "Period properties in neighborhoods like Egremont and Poulton feature Victorian terraces with original or period-style door furniture that requires specialized non-destructive entry techniques. Older sash windows and period locks demand careful handling to avoid damage; standard forced-entry methods risk harm to heritage features. Frequent tenant turnovers in the area's rental stock create regular lockout calls requiring swift access without compromising period door frames or historic lock mechanisms.\n\nCoastal exposure in Wallasey accelerates corrosion of lock mechanisms, particularly in seafront areas. Salt air degrades internal pin stacks and creates jamming issues that complicate non-destructive entry; corroded locks often require manipulation skills beyond standard picking. The high proportion of original period locks means many properties lack modern cylinder standardization, making key-free access dependent on property-specific assessment rather than template solutions.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Claughton with an original sash window lock\u2014can you open it without damage?",
+   "a": "Yes. Our locksmiths specialise in period properties and understand Victorian mechanisms; we use non-destructive techniques to manipulate or bypass original locks without harming frames or furniture. Call 0151 701 1003 for an emergency visit."
+  },
+  {
+   "q": "My seafront flat in Seacombe has a corroded multipoint lock after salt-air exposure\u2014how quickly can you get me in?",
+   "a": "We attend lockouts across Wallasey within the hour. Coastal corrosion is common here; we'll gain entry non-destructively and assess whether the lock needs replacement for future reliability."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Wallasey \u2013 Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Wallasey Victorian & Edwardian properties. Snapped keys extracted from euro cylinders, mortice locks & night latches. Professional, non-destructive. 24/7.",
+ "broken-key-removal.hero-paragraph": "Our Wallasey locksmiths specialise in broken key removal using expert locksmithing techniques to resolve your problem safely. Whether you've experienced a sheared key or have one stuck in your euro cylinder or mortice lock, we employ non-destructive methods and precision key extractor tools to retrieve the broken piece without damaging your lock.",
+ "broken-key-removal.local-context-body": "Victorian and Edwardian terraces throughout Claughton and across Wallasey contain original mortice locks and period-fitted euro cylinders that are particularly prone to key breakage due to age-related wear and material brittleness. Older sash windows and solid timber doors in these properties require careful key extraction to avoid damage to historic lock mechanisms and door furniture, making specialist removal technique essential in this predominantly pre-1945 housing stock.\n\nCoastal properties in seafront areas experience accelerated corrosion from salt air, which weakens both key metal and cylinder mechanisms, increasing breakage frequency. Extraction work in rental properties\u2014common across Wallasey's high-density older stock\u2014must preserve locks intact where possible to avoid compliance issues with multipoint lock requirements and tenant deposit disputes.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Poulton terraces often jam keys in their locks?",
+   "a": "Victorian period locks in Poulton's terraced properties are typically narrower and shallower than modern euro cylinders, so keys can bind or snap if forced. We extract broken keys carefully without damaging the original lock mechanism, which is often irreplaceable."
+  },
+  {
+   "q": "How does sea salt air affect broken key removal in New Brighton properties?",
+   "a": "Seafront locks in New Brighton corrode internally, making cylinders brittle and keys more prone to snapping. When extraction is needed, we use specialist techniques to remove the broken piece without further deteriorating the weakened lock body."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Wallasey \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Wallasey covering Claughton & Egremont. Post-break-in lock changes, door repairs. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Our Wallasey locksmiths specialise in burglar repair and locksmithing services that restore your home's security after break-ins. Whether you're dealing with a smashed lock, forced entry damage, or a compromised door frame, we handle repairs to insurance-compliant standards. We fit TS007 anti-snap cylinders and BS3621 mortice locks to prevent future intrusions.",
+ "burglar-repair-service.local-context-body": "Break-ins to period properties across Wallasey\u2014particularly the Victorian terraces of Egremont and Edwardian semis in Claughton\u2014often damage original or period-style door furniture, frames, and multipoint locks. Post-break-in repair requires both structural reinstatement and lock replacement that matches insurance specifications while respecting the character of older housing stock. Rental properties with frequent turnover compound demand for rapid, compliant repairs following forced-entry incidents.\n\nCoastal salt-air exposure in Wallasey accelerates corrosion of replacement locks and mechanisms, making material selection critical for durability post-repair. Insurance assessments for break-in damage typically require documentation of lock type, frame condition, and compliance with current security standards\u2014factors that demand careful inspection, particularly in properties with original timber frames or listed-building constraints. Swift turnaround with photographic evidence supports claim processing for landlords and homeowners alike.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you repair sash windows and period locks after a break-in in Victorian properties like those in Seacombe?",
+   "a": "Yes. Many of our Seacombe call-outs involve Victorian terraces with original sash windows and period locks that need specialist reinstatement. We source and fit heritage-compatible hardware to restore both security and character after forced entry."
+  },
+  {
+   "q": "Can you provide insurance-standard documentation for a burglary repair in New Brighton?",
+   "a": "Absolutely. We issue full condition reports, photographic evidence, and itemised repair schedules that meet insurer requirements for seaside properties in New Brighton and across Wallasey. Our work is compliant with all reinstatement standards."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Wallasey \u2013 Fast 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Wallasey for Victorian terraces and period properties. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Wallasey from our experienced locksmith team combines expert locksmithing with rapid response. Whether you're dealing with smashed windows or damaged doors, we secure your property using robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures your premises remains protected and insurance-compliant, giving you peace of mind when you need it most.",
+ "emergency-boarding-up.local-context-body": "Seafront properties in New Brighton and older terraced stock across Seacombe frequently sustain storm damage and break-in damage to period glazing and door frames. The prevalence of original sash windows and timber-framed doors in these Victorian and Edwardian properties means boarding-up work must account for period joinery and avoid unnecessary damage to listed features or original fittings that may require specialist restoration rather than replacement.\n\nCoastal exposure in areas near the ferry terminal and seafront accelerates deterioration of door and window frames; salt-air corrosion weakens timber and metalwork, making properties more vulnerable to forced entry and storm damage. Boarding-up work in Wallasey often requires rapid assessment of structural integrity around frames and hinges, as corroded fixings may fail under boarding loads or future weather stress, necessitating reinforcement or temporary bracing during the repair process.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Why do Victorian terrace properties in Egremont need specialist boarding up after a break-in?",
+   "a": "Victorian terraces have period-specific door frames and original joinery that can be damaged by standard boarding techniques. Our team uses sympathetic fixings and materials that protect the structural integrity of your sash windows and period architraves while securing the property immediately."
+  },
+  {
+   "q": "How quickly can you board up seafront properties in New Brighton after storm damage?",
+   "a": "We offer same-day emergency boarding for coastal properties affected by high winds or salt-air corrosion damage. Swift boarding prevents further water ingress and rust acceleration on your locks and metal fittings\u2014critical in Wallasey's maritime climate."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Wallasey | Same-Day Service Available",
+ "lock-changes.meta.description": "Lock changes in Wallasey for Victorian & Edwardian properties. Lost keys, moving home, or security upgrades. Fast professional service. Call 0151 701 1003.",
+ "lock-changes.hero-paragraph": "Lock changes by our Wallasey locksmith team combine expert locksmithing with modern security standards to protect your property. Whether you're moving home, managing a tenancy turnover, or upgrading security, we install BS3621-approved mortice locks and TS007 anti-snap cylinders. Our technicians ensure every installation meets current industry specifications for lasting peace of mind.",
+ "lock-changes.local-context-body": "Lock changes in Wallasey reflect the area's mix of period and interwar housing. Edwardian semis in Liscard and Victorian terraces across Poulton frequently require lock replacement following lettings turnovers, key loss, or security upgrades. Older properties often retain original or period-style door furniture, meaning replacement locks must match aesthetic and mechanical compatibility with existing hardware and frames.\n\nCoastal salt-air exposure accelerates lock corrosion, particularly affecting seafront and near-seafront properties. Replacement work often involves addressing wear to internal mechanisms before new locks are fitted. Many properties in Wallasey's rental sector also require upgrades to multipoint locks for compliance with lettings standards, adding both technical and scheduling complexity to change-out jobs.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Egremont \u2013 should I replace the original locks?",
+   "a": "Yes, we'd recommend replacing old Victorian locks with modern multipoint locks for security and compliance, especially in rental properties. Our locksmiths have specialist experience with period properties and can fit new locks while preserving the character of original door furniture."
+  },
+  {
+   "q": "My seafront flat in New Brighton has corroded locks from salt air \u2013 can you replace them with something more durable?",
+   "a": "Absolutely \u2013 coastal corrosion is common in Wallasey's seafront areas. We can replace corroded locks with marine-grade or stainless steel mechanisms designed to withstand salt-air exposure and last much longer."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Wallasey \u2013 Same-Day Service Available",
+ "lock-repairs.meta.description": "Expert door lock repairs in Wallasey. Fix jammed locks, multipoint & mortice failures. Victorian terrace specialists. 24/7 emergency locksmith service.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs in Wallasey from our qualified locksmith specialists in locksmithing. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, our technicians deliver swift solutions. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably. All work comes with manufacturer warranty protection.",
+ "lock-repairs.local-context-body": "Wallasey's residential core is dominated by Victorian and Edwardian properties, where original mortice locks and period mechanisms remain commonplace. Egremont's dense terrace stock exemplifies this pattern, with many properties still fitted with traditional sash-window locks and front-door hardware that require specialist repair rather than replacement. Lock degradation accelerates in these older homes due to daily use and exposure; gearbox failures and worn night latches demand knowledge of heritage lock repair techniques.\n\nCoastal exposure compounds lock wear across the seafront and older inland areas alike. Salt-air corrosion affects mechanisms in New Brighton and Seacombe properties, while the high turnover of rental stock\u2014particularly in converted Victorian terraces\u2014drives frequent multipoint lock repairs for compliance and security upgrades. Many period doors are fitted with wood frames and traditional materials that dictate the approach to repair; replacement of internal components must preserve the original casing and aesthetic where possible.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do my Victorian sash window locks keep jamming in Seacombe properties?",
+   "a": "Victorian terraces in Seacombe often have original cast-iron or period-style locks that accumulate salt-air corrosion from proximity to the seafront, causing stiffness and binding. We specialise in cleaning, lubricating, and repairing these heritage mechanisms without damaging their character."
+  },
+  {
+   "q": "Do I need multipoint lock repairs if I'm renting out a property in Liscard?",
+   "a": "Yes\u2014high turnover in Liscard's rental stock means multipoint locks on modern doors wear faster and are often required for landlord compliance. We repair failed gearboxes and latches quickly to keep your property secure between tenancies."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Wallasey \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Wallasey, Egremont & Claughton. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint upgrades for Victorian & Edwardian properties.",
+ "door-lock-installation.hero-paragraph": "Our Wallasey locksmith team specialises in professional door lock installation and locksmithing solutions tailored to your security needs. Whether you require new fittings for enhanced protection or upgrades to meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. Your home's security is our priority.",
+ "door-lock-installation.local-context-body": "Wallasey's older residential neighborhoods, particularly Claughton's Edwardian semi-detached properties, feature original or period-style door furniture that often requires careful replacement. Modern multipoint locks and BS3621 mortice fittings must be installed to match existing door frames without compromising the structural integrity or aesthetic character typical of these properties. Door lock installation here balances security compliance with preservation of period detailing.\n\nCoastal properties throughout the area, especially near seafront zones, face accelerated corrosion from salt air that degrades lock mechanisms faster than inland equivalents. TS007 anti-snap cylinders are increasingly specified during upgrades to address both security standards and environmental wear. High turnover in rental accommodation also drives demand for compliant multipoint systems, making lock installation a routine requirement for landlords meeting tenancy standards.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install locks on Victorian and Edwardian sash windows in Wallasey properties?",
+   "a": "Yes. Many terraces in Seacombe and New Brighton have original or period sash windows that require specialist handling. We fit period-appropriate locks and modern security cylinders without damaging heritage frames."
+  },
+  {
+   "q": "Why do seafront properties in New Brighton and Seacombe need lock replacement more often?",
+   "a": "Salt-air corrosion accelerates wear on locks and cylinders near the coast. We recommend upgrading to stainless-steel or marine-grade hardware and can install TS007 anti-snap cylinders designed to resist coastal weathering."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Wallasey \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Wallasey for Victorian terraces and period properties. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Wallasey locksmith team specialises in door lock replacement and locksmithing services tailored to your security needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we provide swift, professional solutions. All our work meets BS3621 standards, and we offer anti-snap upgrades for enhanced protection alongside like-for-like cylinder replacements.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Wallasey addresses wear across properties ranging from Victorian terraces in Seacombe to interwar semis on Bidston Hill. Period properties often retain original or heritage-style locks that require specialist handling during replacement; contemporary multipoint systems are increasingly common in rental properties where frequent tenant changeovers necessitate regular upgrades for security and compliance.\n\nCoastal exposure accelerates corrosion in seafront and near-seafront areas, where salt air degrades lock mechanisms faster than inland locations. Replacement work must account for this accelerated wear cycle and the prevalence of period door frames that may require careful fitting to accommodate modern lock bodies without damage to original joinery or cosmetic finishes.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace locks in Poulton need specialist replacement?",
+   "a": "Victorian terraces in Poulton often have original or period-style door furniture with non-standard measurements and heritage finishes. Our locksmiths are experienced in sourcing compatible replacements that match the era and preserve the character of your property while meeting modern security standards."
+  },
+  {
+   "q": "How often should seafront properties in New Brighton replace their locks?",
+   "a": "Salt-air corrosion in New Brighton accelerates lock wear and mechanism deterioration compared to inland Wallasey properties. We recommend inspection every 12\u201318 months and proactive replacement if you notice stiffness, rust, or difficulty turning your key to avoid emergency lockouts."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Wallasey \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Wallasey & Seacombe. Victorian & Edwardian doors, uPVC alignment, composite realignment, handle repair & hardware fixes.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Wallasey from our skilled locksmiths combine expert locksmithing with structural solutions. Whether your door is dropping, catching, or failing to close properly, we specialise in hinge adjustment and frame alignment across uPVC, composite and timber doors. Our technicians diagnose the root cause and restore full functionality.",
+ "door-repairs.local-context-body": "Wallasey's housing stock\u2014particularly the Victorian terraces of Seacombe and Edwardian semis across the borough\u2014frequently requires door repair attention. Period properties often exhibit frame settling and wood movement that cause doors to drop or misalign over decades. Original timber frames, common in pre-1945 housing, swell and warp with seasonal moisture changes, making adjustment and rehang work routine maintenance rather than exceptional repair.\n\nCoastal properties near the seafront experience accelerated deterioration from salt-air exposure, affecting door hardware and hinges. Older rental stock turnover generates demand for door adjustment following tenant changes and wear-and-tear cycles. Many period doors feature traditional mortice locks and period-appropriate hardware that require specialist knowledge to repair without damage\u2014standard modern techniques may compromise original components or period authenticity.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Poulton need specialist repair?",
+   "a": "Victorian terraces in Poulton often have original timber frames and period locks that have settled unevenly over decades\u2014simple realignment won't work without understanding the property's age and construction. Our locksmiths are trained to repair dropped doors and hardware on these older properties without forcing mechanisms or damaging period features."
+  },
+  {
+   "q": "How does coastal weather affect door repairs in New Brighton?",
+   "a": "Salt air and moisture accelerate corrosion of locks, hinges, and multipoint mechanisms on seafront properties around New Brighton's promenade. We specialise in repairing salt-damaged door hardware and realigning doors affected by swelling timber\u2014common issues in this Edwardian resort area."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Wallasey \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Wallasey. Espagnolette & shootbolt locks fixed on Victorian sash windows, period properties & modern uPVC frames.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Wallasey demands expert locksmith locksmithing knowledge. Our technicians diagnose and resolve windows that won't lock, addressing broken handles and failed espagnolette mechanisms. We fit insurance-compliant replacements, ensuring your home security meets industry standards and functions reliably.",
+ "window-lock-repair-replacement.local-context-body": "Properties across Liscard and Seacombe retain original sash windows fitted with period espagnolette locks and shootbolts, now often stiff or corroded after decades of use. Replacement of these mechanisms requires understanding both the original hardware and modern compliance needs. Edwardian semi-detached homes in particular frequently present worn catches and seized rods that demand specialist handling to avoid damage to period glazing and frames.\n\nCoastal salt-air exposure accelerates corrosion of window lock components, especially on properties near the seafront and elevated sites like Bidston Hill. Salt ingress into shootbolt mechanisms causes binding and rust accumulation faster than inland areas experience. Rental properties with multiple occupancies also see accelerated wear from frequent operation and variable maintenance standards, making routine inspection and timely replacement essential for security and tenant safety compliance.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks in Victorian terraces around Poulton need specialist attention?",
+   "a": "Victorian sash windows in Poulton's older terraces often have original or period-style espagnolette locks that require careful handling to avoid damage to the frame. Our locksmiths have the expertise to repair these heritage locks or fit sympathetic replacements that maintain the character of your property."
+  },
+  {
+   "q": "How does coastal weather affect window locks in New Brighton?",
+   "a": "Salt air and moisture in New Brighton accelerate corrosion of shootbolt and espagnolette mechanisms, causing them to seize or fail prematurely. We recommend regular inspection and can replace corroded locks with coastal-grade fittings designed to resist weathering."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Wallasey \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Wallasey for Victorian & Edwardian homes. Secure anchoring, insurance documentation, wall & freestanding safes fitted professionally.",
+ "safe-installation.hero-paragraph": "Safe installation services in Wallasey by our experienced locksmith specialists combine expert locksmithing with secure positioning techniques. Whether you need a new safe secured or require insurance approval through AiS certification, our technicians employ floor anchoring and wall mounting methods to ensure your valuables remain protected. We specialise in safes rated to Eurograde standards for residential and commercial clients.",
+ "safe-installation.local-context-body": "Seafront properties in New Brighton and older Edwardian villas throughout the area often require secure storage solutions for valuables vulnerable to coastal weather and aging infrastructure. Period semis and terraces in Noctorum similarly demand careful safe installation that respects original joinery and plasterwork while providing reliable anchoring into solid walls\u2014a balance between security and preservation of period character.\n\nSalt-air corrosion in coastal zones accelerates deterioration of internal fixtures, making properly anchored safes essential for long-term protection. Installation work must account for the varied wall construction in pre-1945 properties; Victorian and Edwardian terraces often contain rubble-filled cavity walls or lath-and-plaster partitions that require specialist fixing techniques and structural assessment before load-bearing installation can proceed safely.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Claughton need specialist safe installation?",
+   "a": "Victorian terraces have solid brick walls but often contain period plumbing and wiring that must be located before wall-mounting a safe. Our surveyors know the typical layout of Claughton properties and can identify the safest anchor points without damaging original features or utilities."
+  },
+  {
+   "q": "Do seafront properties in New Brighton need different safe anchoring because of salt air?",
+   "a": "Yes. Coastal corrosion accelerates bolt and fastener degradation in New Brighton and Seacombe. We use marine-grade stainless steel fixings and recommend annual checks to ensure your safe remains securely anchored against salt-air wear."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Wallasey \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Wallasey for lost keys, combinations & lockouts. Non-destructive methods for Victorian & Edwardian properties. Domestic & commercial safes.",
+ "safe-opening.hero-paragraph": "Our Wallasey locksmith team specialises in safe opening using expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we use combination dial manipulation and precision tools to regain access without damage. Fast, professional service available across the area.",
+ "safe-opening.local-context-body": "Period properties across Seacombe and Liscard frequently house older safes\u2014many installed decades ago in Victorian and Edwardian terraces. Tenant turnover in the rental sector means combination records are often lost or unavailable, leaving occupants locked out of their own security boxes. Safe opening becomes urgent when documents, valuables or keys are secured inside and the original paperwork has disappeared.\n\nCoastal properties face accelerated corrosion of safe mechanisms due to salt-air exposure, particularly in New Brighton where seafront location compounds wear on internal tumblers and locking pins. Non-destructive opening requires specialist knowledge of older safe designs; many period homes contain vintage models where standard modern techniques risk permanent damage to irreplaceable mechanisms.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Egremont with a period safe built into the wall\u2014the combination is lost. Can you open it without damage?",
+   "a": "Yes. Our non-destructive safe opening service is ideal for period properties in Egremont and across Wallasey's Victorian stock. We specialise in careful manipulation and specialist tools that preserve both the safe and the original joinery around it."
+  },
+  {
+   "q": "Our rental property in Poulton has a tenant lockout from an old safe\u2014how quickly can you help?",
+   "a": "We offer same-day emergency safe opening for landlords managing the high tenant turnover common in Poulton's working-class Victorian terraces. Call 0151 701 1003 and we'll attend with non-destructive equipment to regain access without costly damage."
+  }
+ ],
+ "home.areas-covered": [
+  "Egremont",
+  "Leasowe",
+  "Liscard",
+  "New Brighton",
+  "Poulton",
+  "Seacombe"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "locked-out.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Seacombe",
+  "Poulton",
+  "Egremont",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Liscard",
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Leasowe"
+ ],
+ "lock-changes.areas-covered": [
+  "Egremont",
+  "Poulton",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "lock-repairs.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "door-lock-installation.areas-covered": [
+  "New Brighton",
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "Liscard",
+  "Leasowe"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "door-repairs.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "safe-installation.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ],
+ "safe-opening.areas-covered": [
+  "Poulton",
+  "Egremont",
+  "Seacombe",
+  "New Brighton",
+  "Liscard",
+  "Leasowe"
+ ]
 }

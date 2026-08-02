@@ -1,163 +1,157 @@
 {
-  "location": "Washington",
-  "neighborhoods": [
-    {
-      "name": "Albany",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential suburban area"
-    },
-    {
-      "name": "Concord",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "mixed housing density"
-    },
-    {
-      "name": "Mount Pleasant",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential character"
-    },
-    {
-      "name": "Oxclose",
-      "era": "1960s",
-      "types": [
-        "council estate",
-        "flat"
-      ],
-      "notes": "high-density multi-unit properties"
-    },
-    {
-      "name": "Penshaw",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "historic village character within town"
-    },
-    {
-      "name": "Portobello",
-      "era": "post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "residential suburban area"
-    },
-    {
-      "name": "Springwell",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "mixed residential community"
-    },
-    {
-      "name": "Sulgrave",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established suburban district"
-    },
-    {
-      "name": "Vigo",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "council estate"
-    ],
-    "era": "predominantly post-war with interwar pockets",
-    "notable": "Mix of 1960s high-density flats and traditional suburban semis; significant council housing stock reflects industrial heritage"
+ "location": "Washington",
+ "neighborhoods": [
+  {
+   "name": "Albany",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential suburban area"
   },
-  "locksmith_relevant": [
-    "Post-war semis dominate; uPVC frames and modern locks require specialist knowledge of non-traditional mechanisms.",
-    "Council estates like Oxclose have multiple flat units; master key systems and communal entrance security are frequent callouts.",
-    "Older interwar properties in Mount Pleasant may retain period locks; period-appropriate repairs and heritage compliance necessary."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Washington",
-    "overpass": "OSM Overpass bbox query, 9 named areas",
-    "coords": {
-      "lat": 54.898614,
-      "lon": -1.528827
-    }
+  {
+   "name": "Concord",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "mixed housing density"
   },
-  "generated_at": "2026-05-13T12:31:44.238Z",
-  "all_areas": [
-    "Albany",
-    "Concord",
-    "Mount Pleasant",
-    "Oxclose",
-    "Penshaw",
-    "Portobello",
-    "Springwell",
-    "Sulgrave",
-    "Vigo"
-  ],
-  "geo": {
-    "latitude": 54.898614,
-    "longitude": -1.528827
+  {
+   "name": "Mount Pleasant",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential character"
   },
-  "postcode_districts": [
-    "DH3",
-    "DH4",
-    "NE37",
-    "NE38",
-    "NE9"
-  ],
-  "postcode_meta": {
-    "DH3": {
-      "count": 2,
-      "sample": "DH3 2HR",
-      "admin": "Gateshead",
-      "via": "constituency=washington and gateshead south"
-    },
-    "NE37": {
-      "count": 3,
-      "sample": "NE37 2SU",
-      "admin": "Sunderland",
-      "via": "admin_ward=washington north"
-    },
-    "NE38": {
-      "count": 1,
-      "sample": "NE38 0JE",
-      "admin": "Sunderland",
-      "via": "admin_ward=washington south"
-    },
-    "NE9": {
-      "count": 1,
-      "sample": "NE9 7RQ",
-      "admin": "Sunderland",
-      "via": "admin_ward=washington west"
-    },
-    "DH4": {
-      "count": 1,
-      "sample": "DH4 7SF",
-      "admin": "Sunderland",
-      "via": "admin_ward=washington east"
-    }
+  {
+   "name": "Oxclose",
+   "era": "1960s",
+   "types": [
+    "council estate",
+    "flat"
+   ],
+   "notes": "high-density multi-unit properties"
+  },
+  {
+   "name": "Penshaw",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "historic village character within town"
+  },
+  {
+   "name": "Portobello",
+   "era": "post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "residential suburban area"
+  },
+  {
+   "name": "Springwell",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "mixed residential community"
+  },
+  {
+   "name": "Sulgrave",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established suburban district"
+  },
+  {
+   "name": "Vigo",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "council estate"
+  ],
+  "era": "predominantly post-war with interwar pockets",
+  "notable": "Mix of 1960s high-density flats and traditional suburban semis; significant council housing stock reflects industrial heritage"
+ },
+ "locksmith_relevant": [
+  "Post-war semis dominate; uPVC frames and modern locks require specialist knowledge of non-traditional mechanisms.",
+  "Council estates like Oxclose have multiple flat units; master key systems and communal entrance security are frequent callouts.",
+  "Older interwar properties in Mount Pleasant may retain period locks; period-appropriate repairs and heritage compliance necessary."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Washington",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Washington, 3 named areas",
+  "coords": {
+   "lat": 54.898614,
+   "lon": -1.528827
+  }
+ },
+ "generated_at": "2026-05-13T12:31:44.238Z",
+ "all_areas": [
+  "Albany",
+  "Concord",
+  "Sulgrave"
+ ],
+ "geo": {
+  "latitude": 54.898614,
+  "longitude": -1.528827
+ },
+ "postcode_districts": [
+  "DH3",
+  "DH4",
+  "NE37",
+  "NE38",
+  "NE9"
+ ],
+ "postcode_meta": {
+  "DH3": {
+   "count": 2,
+   "sample": "DH3 2HR",
+   "admin": "Gateshead",
+   "via": "constituency=washington and gateshead south"
+  },
+  "NE37": {
+   "count": 3,
+   "sample": "NE37 2SU",
+   "admin": "Sunderland",
+   "via": "admin_ward=washington north"
+  },
+  "NE38": {
+   "count": 1,
+   "sample": "NE38 0JE",
+   "admin": "Sunderland",
+   "via": "admin_ward=washington south"
+  },
+  "NE9": {
+   "count": 1,
+   "sample": "NE9 7RQ",
+   "admin": "Sunderland",
+   "via": "admin_ward=washington west"
+  },
+  "DH4": {
+   "count": 1,
+   "sample": "DH4 7SF",
+   "admin": "Sunderland",
+   "via": "admin_ward=washington east"
+  }
+ }
 }

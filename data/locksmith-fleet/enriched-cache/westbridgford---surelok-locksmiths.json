@@ -1,352 +1,269 @@
 {
-  "meta.title": "Locksmith West Bridgford | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted locksmith in West Bridgford serving Victorian terraces, Edwardian homes and modern properties. Emergency call-outs, lock repairs and security solutions.",
-  "home.hero-paragraph": "West Bridgford locksmith services specialising in expert locksmithing and emergency lock help. We handle lockouts, lock changes and security upgrades across the area. All work is completed using non-destructive entry methods by our DBS-checked technicians. Available 24/7 with no call-out fees and fully insured for your peace of mind.",
-  "home.local-context-heading": "Locksmith services across West Bridgford's mixed properties",
-  "home.local-context-body": "West Bridgford's housing stock ranges from Victorian terraces in conservation areas like St Ann's to post-war semis across Forest Fields. Period properties require specialist lock knowledge—sash windows, original mortice locks, and listed-building restrictions mean standard modern fittings often won't comply. Older properties frequently need period-appropriate repair or sympathetic upgrades rather than replacement.\n\nHigh student HMO presence in areas like The Meadows creates specific security needs. Landlords of multi-occupancy properties must ensure compliant locks on individual rooms and communal doors; emergency access situations are common during term transitions. Conservation-listed properties add another layer—any lock work may need conservation-area approval, making early consultation with a specialist locksmith essential.",
-  "home.local-faqs": [
-    {
-      "q": "Do you work on Victorian sash windows and period locks in conservation areas like The Park?",
-      "a": "Yes. We specialise in period-appropriate locks and sash window security for listed properties and conservation areas across West Bridgford. We understand the restrictions on modern fittings and can advise on sympathetic solutions that comply with conservation requirements."
-    },
-    {
-      "q": "Can you help with emergency lock-outs at student properties in Meadows and Forest Fields?",
-      "a": "Absolutely. We handle frequent student lock-outs and emergency access calls across the HMO hotspots. Call 0115 735 1302 for same-day response to get you back inside quickly."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith West Bridgford | 24/7 Response",
-  "emergency-locksmith.meta.description": "Emergency locksmith West Bridgford 24/7. Locked out, snapped keys, broken locks? Fast response for Victorian terraces, flats & period properties. Call 0115 735 1302 now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in West Bridgford brings professional locksmithing expertise to urgent situations round the clock. Whether you're locked out of your home, dealing with a snapped key, or need post-break-in repairs, our DBS-checked technicians respond 24/7 with non-destructive entry methods to resolve your crisis quickly and safely.",
-  "emergency-locksmith.local-context-body": "Victorian terraces in central West Bridgford and newer semi-detached properties in Edwalton both present distinct emergency access challenges. Period properties often feature original locks and sash-window catches that require careful handling during lockouts, while modern developments typically use standardized cylinder locks and composite doors that demand different technical approaches. The mix means emergency call-outs span both heritage properties requiring specialist knowledge and contemporary homes needing rapid standard solutions.\n\nConservation-area listings create practical constraints during emergency work in central wards. Many lockouts occur in listed properties where modern security fitting or forced entry must preserve period features and comply with planning restrictions. Emergency locksmiths operating in West Bridgford must balance speed of access with awareness of these heritage protections, sometimes requiring alternative entry methods rather than standard drilling or frame damage that would be permissible elsewhere.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in central West Bridgford—how quickly can you get the door open without damaging the period features?",
-      "a": "We arrive within 30 minutes for emergency calls and use specialist techniques for Victorian sash locks and original door frames, avoiding damage to listed or conservation-area properties. Our team understands period-appropriate security so your home's character stays intact."
-    },
-    {
-      "q": "It's 2 a.m. and I'm a student in the Meadows with a snapped key—do you really operate 24/7?",
-      "a": "Yes, we're on call round the clock for emergencies like yours. We'll be with you fast and can rekey or replace the lock the same night, getting you back inside without the hassle of waiting until morning."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in West Bridgford? Victorian Property Specialists",
-  "locked-out.meta.description": "Locked out in West Bridgford? Surelok provides fast, non-destructive emergency entry for Victorian terraces, flats & homes. 24/7 locksmith service.",
-  "locked-out.hero-paragraph": "When you're locked out in West Bridgford, our locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we employ non-destructive entry techniques to regain access without damaging your door or frame.",
-  "locked-out.local-context-body": "Properties in Silverdale's interwar semi-detached homes and the Victorian villas of The Park frequently present locked-out situations with period-appropriate fixtures that require specialist non-destructive techniques. The mix of original sash windows and traditional door mechanisms across West Bridgford means access recovery often demands tools and knowledge specific to older properties rather than standard modern approaches.\n\nConservation-area listings in central wards impose restrictions on forced entry methods; many properties cannot tolerate damage that would compromise period features or breach heritage consent. Locksmiths must assess each property's listing status and use techniques compatible with original joinery and hardware, adding complexity to what might otherwise be straightforward emergency access work.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Sneinton – will you damage the sash windows or period locks?",
-      "a": "No. Our locksmiths specialise in non-destructive entry on period properties and understand Victorian locks and sash mechanisms. We'll use specialist tools to open your door without damaging listed features, which is essential in Sneinton's conservation area."
-    },
-    {
-      "q": "I'm a student in the Meadows and my keys are inside – how quickly can you get here?",
-      "a": "We offer emergency same-day lockout calls across West Bridgford, including the Meadows student areas. Call 0115 735 1302 and we'll dispatch a technician for fast, non-destructive access without landlord delays."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal West Bridgford – Fast Service",
-  "broken-key-removal.meta.description": "Broken key removal in West Bridgford – expert extraction from euro cylinders, mortice locks & night latches. Victorian terraces & modern homes covered.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in West Bridgford requires a skilled locksmith trained in professional locksmithing techniques to extract the fragment safely. Our technicians use specialist key extractor tools and broken-key probes to retrieve snapped or sheared keys from mortice locks and euro cylinders. We prioritise non-destructive methods to preserve your lock's integrity and avoid costly replacements.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent call-out in West Bridgford's older residential areas, particularly among the Victorian terraces and Edwardian semi-detached properties in Lady Bay. These period homes often retain original mortice locks and night latches, where key fracture—especially at the shank—demands swift, non-destructive removal to preserve the mechanism. Properties in conservation areas require particular care to avoid damage during extraction, adding technical precision to an already delicate task.\n\nThe high density of listed and conservation-protected properties across West Bridgford means locksmiths must balance extraction speed with period-appropriate lock preservation. Many Victorian and Edwardian doors feature cast-iron or steel cylinders that corrode over decades, making keys more brittle and prone to snapping under pressure. Modern euro cylinder designs are less common in central wards, so specialist tools suited to older mortice work and night latches are essential for efficient removal without forcing or damaging the lock body itself.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Sneinton often have broken keys stuck in their locks?",
-      "a": "Victorian period locks in Sneinton's dense terraced properties use softer metals that fatigue faster than modern euro cylinders, especially in sash-window night latches exposed to weather and frequent use. Our technicians carry specialist extractors designed for period lock geometries to remove snapped keys without damaging the original mechanism—essential for conservation-listed properties."
-    },
-    {
-      "q": "Can you remove a broken key from a mortice lock in a listed building in St Ann's without needing to replace the whole lock?",
-      "a": "Yes—St Ann's conservation area restrictions mean we prioritise key extraction and lock preservation over replacement. We use non-destructive removal techniques for mortice locks to keep period-appropriate hardware intact, then return you the extracted key fragments so you can have a new one cut to the same profile."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service West Bridgford | Victorian & Modern Homes",
-  "burglar-repair-service.meta.description": "Burglar repair service in West Bridgford. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and modern properties. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our West Bridgford locksmiths specialise in burglar repair and locksmithing services for properties affected by forced entry. Following a break-in, we assess damage to doors and locks, then restore security using reinforced door solutions and TS007 anti-snap cylinders. All work meets insurance-compliant standards, ensuring your home is properly protected.",
-  "burglar-repair-service.local-context-body": "Post-break-in lock and door repair in West Bridgford must accommodate diverse property ages and construction. Semi-detached homes in Colwick and Victorian terraces in central areas present distinct challenges: older properties often feature period-appropriate frames and traditional locks that require careful reinstatement, while newer builds in Edwalton typically have modern composite doors and euro-cylinder systems. Break-in damage assessment therefore depends heavily on property era and original specification.\n\nListed properties and conservation-area restrictions significantly affect burglar repair work across West Bridgford's central wards. Replacement doors and locks on heritage properties must meet planning and conservation officer approval; modern uPVC or aluminium cannot simply substitute period timber frames. Locksmiths and repair contractors must source period-matching materials and finishes, extending timescales and requiring specialist knowledge to ensure insurance-quality reinstatement that satisfies both security standards and heritage requirements.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Can you repair Victorian sash windows and period locks after a break-in in central West Bridgford?",
-      "a": "Yes. Our locksmiths specialise in period-appropriate repairs for Victorian properties common in central wards, including sash windows and traditional locks that comply with conservation-area restrictions. We'll reinstate your security to insurance standard while respecting listed-property requirements."
-    },
-    {
-      "q": "How quickly can you attend an emergency break-in repair in Forest Fields or Thorneywood?",
-      "a": "We offer same-day emergency call-outs across West Bridgford, including Forest Fields and Thorneywood. We'll assess structural damage, repair or replace locks and doors, and provide you with a full insurance-quality report on the day."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up West Bridgford | Victorian Homes",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in West Bridgford – same-day secure boarding of broken doors and windows after break-ins, storms or accidents in Victorian terraces and period properties.",
-  "emergency-boarding-up.hero-paragraph": "Our West Bridgford locksmith team specialises in emergency boarding up, combining expert locksmithing with rapid response to secure your property. Whether you're facing smashed windows, damaged doors, or broken glazing, we install robust plywood boards and security screws to create a weatherproof temporary seal. Available 24/7 and fully insurance-compliant, we're here when you need us most.",
-  "emergency-boarding-up.local-context-body": "Emergency boarding up in West Bridgford addresses break-ins and weather damage across a diverse housing stock. Semi-detached properties in Forest Fields and Thorneywood frequently require rapid re-securing after forced-entry incidents, while Victorian terraces in central areas demand careful handling of original sash windows and period joinery. The high student HMO concentration in Forest Fields creates seasonal peaks in emergency call-outs, particularly during transition periods when properties turn over rapidly.\n\nListed properties and conservation-area designations significantly shape boarding-up approaches across West Bridgford. Temporary securing must avoid permanent damage to historic fabric, and materials must be sympathetic to period character. Modern flat-fronted aluminium frames predominate in post-war estates, simplifying temporary fixings, whereas Victorian properties often feature ornate surrounds that require specialist assessment before any boarding method is selected.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian sash windows after break-ins, and can you do it without damaging the frame?",
-      "a": "Yes—Victorian terraces in central West Bridgford have period features that need careful handling. We use protective boarding techniques that secure the opening safely without causing further damage to listed or heritage frames, then advise on appropriate restoration contractors."
-    },
-    {
-      "q": "How quickly can you board up a property in The Meadows or Forest Fields after a break-in?",
-      "a": "We're based locally in West Bridgford and aim for same-day emergency response to student accommodation and rental properties across these areas. Given high turnover in HMOs, we understand the urgency and keep boarding materials on hand for rapid deployment."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes West Bridgford | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in West Bridgford for moved-in homeowners, lost keys & upgrades. Victorian terraces & modern properties. Fast professional service.",
-  "lock-changes.hero-paragraph": "Professional lock changes in West Bridgford from our experienced locksmith specialists combine modern locksmithing techniques with trusted security standards. Whether you're moving home, upgrading security, or managing tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
-  "lock-changes.local-context-body": "Lock changes in West Bridgford respond to the area's mixed housing stock. Victorian terraces in Sneinton and semi-detached properties across the ward frequently require lock replacement following house moves or key loss. Period properties dominate central areas, and their older lock mechanisms often need upgrading to modern security standards or matching to original fittings when maintaining period character.\n\nConservation-area listings significantly shape lock-change work in West Bridgford. Many central properties fall within protected zones where external alterations, including new lock styles or door hardware, must align with conservation guidelines. Locksmiths must verify listed-building status and sometimes source period-appropriate locks rather than standardised modern replacements, adding both technical knowledge and specification time to routine change-outs.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in central West Bridgford – do I need specialist lock-changing work?",
-      "a": "Yes. Victorian sash windows and period locks often require bespoke approaches; our locksmiths understand period-appropriate fittings and can source compatible replacements that respect your property's character while upgrading security."
-    },
-    {
-      "q": "We're letting our property in The Meadows to students – how often should we change locks between tenancies?",
-      "a": "We recommend changing locks after each tenant move-out, especially in high-turnover HMO areas like The Meadows, to ensure only current occupants hold keys and maintain full security control of the property."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs West Bridgford – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in West Bridgford for Victorian terraces, sash windows & modern homes. Emergency multipoint, mortice & night latch fixes. 24/7 available.",
-  "lock-repairs.hero-paragraph": "Our West Bridgford locksmith specialises in lock repairs and locksmithing solutions for residential and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the issue efficiently. Our technicians perform mortice maintenance and multipoint servicing to restore full functionality, all backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "West Bridgford's mix of Victorian terraces in areas like Sneinton and semi-detached properties across the city means lock repairs frequently address period mechanisms—mortice locks, night latches, and traditional gearbox systems common to 19th-century construction. These older locks often fail through wear rather than damage, requiring careful dismantling and component replacement rather than full substitution.\n\nConservation-area density in central wards introduces a practical constraint: many listed properties cannot have locks replaced with modern multipoint systems without planning consent. Repairs that restore original lock function or fit period-appropriate replacements become the standard approach, particularly in properties with sash windows and original timber doors where structural integrity and aesthetic consistency matter.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in The Park often need specialist lock repair?",
-      "a": "Victorian properties in The Park's conservation area typically have period-appropriate sash locks and fasteners that require specialist knowledge to repair without damaging listed features. Surelok's locksmiths understand conservation restrictions and can restore these mechanisms to working order while maintaining period authenticity."
-    },
-    {
-      "q": "What should I do if my multipoint lock fails in a student HMO in the Meadows?",
-      "a": "Multipoint lock failures are common in high-turnover student properties across the Meadows. Call Surelok on 0115 735 1302 for emergency repair or replacement—we respond quickly to prevent security breaches and can install robust, tenant-friendly systems suited to shared housing."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation West Bridgford | Victorian Homes",
-  "door-lock-installation.meta.description": "Door lock installation in West Bridgford. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Period-property specialists for Victorian terraces and listed homes.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in West Bridgford by our experienced locksmith team specialises in locksmithing to the highest standards. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders. Our technicians ensure reliable, secure fitting every time.",
-  "door-lock-installation.local-context-body": "Door lock installation across West Bridgford addresses the needs of properties spanning Victorian terraces in conservation areas like St Ann's through to semi-detached homes in The Meadows. Each property type presents distinct fitting requirements: period terraces often retain original door frames requiring careful mortice installation, while post-war stock typically accommodates modern multipoint systems more straightforwardly. BS3621 mortice locks remain the standard for older properties, whereas contemporary anti-snap TS007 cylinders suit newer builds and security-conscious replacements across the locality.\n\nConservation-area listings in central West Bridgford impose restrictions on visible security hardware; locksmiths must frequently specify period-appropriate locks that meet modern security standards without altering original door aesthetics. Student accommodation density in areas like Forest Fields drives demand for robust multipoint locks on HMO properties, where high tenant turnover necessitates reliable, maintainable systems. Material variation—wooden frames predominate in Victorian stock, uPVC in post-war estates—directly affects cylinder selection and installation methodology.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you fit anti-snap cylinders to Victorian properties in Hockley and similar period terraces?",
-      "a": "Yes. We install TS007 anti-snap cylinders that meet modern security standards while respecting the constraints of listed and conservation-area properties common in Hockley's historic industrial-residential streets. We ensure fittings are period-appropriate and compliant with local planning requirements."
-    },
-    {
-      "q": "Can you install BS3621 mortice locks quickly for student lets in shared houses?",
-      "a": "Absolutely. High turnover in student HMOs across the city means we prioritise rapid, reliable BS3621 mortice lock installation and multipoint upgrades to meet landlord safety requirements and manage lock-out callouts efficiently."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement West Bridgford | Victorian Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in West Bridgford, including Victorian terraces and period properties. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Professional door lock replacement in West Bridgford from our expert locksmith team combines traditional locksmithing craftsmanship with modern security solutions. Whether you've experienced a failed lock, lost your keys, or are moving home, we perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
-  "door-lock-replacement.local-context-body": "Properties across West Bridgford—from Victorian terraces in conservation areas to modern developments like Edwalton—present varied lock-replacement scenarios. Interwar semi-detached homes in Thorneywood typically feature standard mortice locks suited to straightforward replacement, while period properties demand careful specification to preserve architectural character and comply with heritage restrictions.\n\nListed buildings and conservation-designated properties require door lock replacements that respect original joinery and aesthetic standards. Locksmiths working in these areas must verify whether modern security upgrades need conservation-area consent, and often source period-appropriate locks or finishes that match existing ironmongery rather than forcing contemporary fittings into historic door frames.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in central West Bridgford—can you replace my period lock without damaging the door?",
-      "a": "Yes. Victorian terraces need specialist care; we can swap your lock while preserving the original door furniture and mechanisms, or upgrade to a modern lock fitted discreetly within the existing frame. We understand conservation-area requirements and period-appropriate fitting."
-    },
-    {
-      "q": "My Edwardian semi in Bakersfield has a broken lock—do I need a full door replacement?",
-      "a": "No. We'll replace just the lock cylinder or mechanism, matching the style and size of your existing fitting. For Edwardian properties, this keeps your door authentic and avoids unnecessary expense or structural work."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs West Bridgford | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in West Bridgford: uPVC, composite & timber doors. Expert alignment, hardware fixes for Victorian terraces & modern homes.",
-  "door-repairs.hero-paragraph": "Professional door repairs in West Bridgford from our expert locksmiths combine decades of locksmithing experience with practical solutions. Whether your door is dropping, catching, or won't close properly, our technicians handle hinge adjustment, frame alignment, and multipoint realignment on uPVC, composite, and timber doors with precision and care.",
-  "door-repairs.local-context-body": "Victorian terraces throughout West Bridgford's central conservation areas feature original timber frames and period hardware that frequently suffer from settlement-related misalignment. Semi-detached properties in Colwick, many dating from the post-war rebuild, experience similar dropped-door problems as foundations shift over decades. These older structures require careful assessment to distinguish between cosmetic adjustment and structural remediation before hardware repair or replacement can proceed.\n\nListed properties in conservation zones present specific constraints on door repairs. Period-appropriate materials and finishes must be maintained where properties hold designation, ruling out standard modern replacements. Older timber doors in these properties are prone to warping and swelling, particularly where original joinery has deteriorated, making skilled carpentry essential alongside locksmith expertise.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows and doors in Sneinton need specialist repair?",
-      "a": "Victorian terraces in Sneinton often have original timber sash windows and period door frames that can drop or misalign over time due to settling. Surelok's locksmiths understand traditional joinery and can repair or adjust these without compromising the original character—essential for properties in conservation areas."
-    },
-    {
-      "q": "My student flat door in The Meadows won't close properly—can you help quickly?",
-      "a": "Yes. The high turnover of student lets in The Meadows means dropped doors and misaligned frames are common. We offer emergency and same-day door repair to get your rental property secure and compliant again, minimizing tenant issues and void periods."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair for Victorian Homes West Bridgford",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in West Bridgford. Espagnolette & shootbolt locks fixed on Victorian sash windows & modern frames.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement services in West Bridgford from our expert locksmith team combine traditional locksmithing skills with modern solutions. Whether you're dealing with windows that won't lock or broken handles, we diagnose and repair espagnolette mechanisms and shootbolt locks to restore security. All work meets insurance-compliant standards, ensuring your home protection.",
-  "window-lock-repair-replacement.local-context-body": "Sash windows are prevalent in West Bridgford's Victorian terraces, particularly in central conservation areas, where period espagnolette locks require careful handling and specialist replacement parts. Modern estates like Compton Acres feature contemporary casement windows with shootbolt mechanisms that demand different repair approaches. Both property types present distinct technical challenges that shape local demand for window lock services.\n\nListed-building status affects a significant proportion of West Bridgford properties, restricting lock replacements to period-appropriate designs that maintain conservation compliance. Espagnolette and shootbolt failures in older properties often require sourcing heritage-specification components rather than standard modern fittings. This regulatory context means window lock repair work frequently involves consultation with conservation officers and careful material matching rather than straightforward like-for-like replacement.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in West Bridgford's central conservation areas need specialist window lock repair?",
-      "a": "Victorian terraces in central West Bridgford often have period-appropriate espagnolette and shootbolt locks that require specialist knowledge to repair or replace without breaching conservation restrictions. We understand the listed-property rules and can source or fit locks that maintain the original character while restoring security."
-    },
-    {
-      "q": "How quickly can you repair window locks for student rentals in The Meadows and Forest Fields?",
-      "a": "High student turnover in these areas means we offer fast emergency window lock repair and replacement—often same-day callouts—to minimise vacant property vulnerability and help landlords meet rapid turnaround demands between tenancies."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation West Bridgford | Victorian Property Safes",
-  "safe-installation.meta.description": "Safe installation in West Bridgford for Victorian properties & conservation areas. Professional anchoring, insurance documentation, wall & floor safes.",
-  "safe-installation.hero-paragraph": "Safe installation in West Bridgford from our expert locksmith team combines precision locksmithing with permanent security solutions. We specialise in floor anchoring and wall mounting techniques that meet Eurograde standards, ensuring your new safe gains insurance approval. Proper anti-leverage positioning is essential for protecting high-value items, and our certified locksmiths assess each installation to guarantee maximum protection.",
-  "safe-installation.local-context-body": "Period properties in St Ann's and throughout West Bridgford's conservation areas present particular requirements for safe installation. Victorian terraces and listed buildings demand careful positioning to avoid structural damage to original plasterwork and load-bearing walls. Modern freestanding safes suit these properties well, requiring no permanent fixings, whilst wall-mounted options necessitate specialist assessment of wall composition and listed-building consent protocols.\n\nConservation-area restrictions in central West Bridgford mean that safe installation often cannot involve visible external anchoring or modifications to period facades. Internal placement becomes the practical focus, with floor safes embedded behind period flooring requiring specialist carpentry knowledge to preserve original floorboards and joists. Insurance documentation must account for these heritage considerations, as standard fitting methods may not be acceptable under conservation guidelines or building insurance terms.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed Victorian properties in Sneinton and Hockley?",
-      "a": "Yes. We understand conservation restrictions on listed properties and install safes using period-appropriate fixing methods that won't damage original fabric. We'll advise on discreet placement and provide full documentation for insurance purposes."
-    },
-    {
-      "q": "Can you anchor a safe in a Victorian terrace with solid walls?",
-      "a": "Absolutely. Victorian terraces in central West Bridgford often have thick brick and stone walls ideal for secure anchoring. We survey the wall structure first, use appropriate fixings, and ensure your safe meets insurer requirements with certified installation documentation."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening West Bridgford – Fast, Trusted Service",
-  "safe-opening.meta.description": "Safe opening in West Bridgford for lost combinations, keys & lockouts. Non-destructive methods for Victorian & modern properties. 24/7 available.",
-  "safe-opening.hero-paragraph": "Our West Bridgford locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use precision dial manipulation to regain access without damage. Fast, professional safe opening for homes and businesses across West Bridgford.",
-  "safe-opening.local-context-body": "Safe-deposit boxes and home safes feature prominently in West Bridgford's period properties, particularly the Victorian villas and semi-detached homes of The Park conservation area, where valuable documents and heirlooms are routinely secured behind lost combinations or missing keys. Edwardian terraces in Lady Bay similarly present safe-opening demand, often involving antique or mid-century models where manufacturer records have long since disappeared.\n\nListed-building status across many of West Bridgford's central properties means safe removal or relocation work must proceed without damage to period walls, plasterwork or joinery—non-destructive opening techniques are therefore essential rather than optional. Additionally, interwar semi-detached properties in Silverdale frequently house safes installed during mid-twentieth-century renovations, which may now be inaccessible due to combination fade or key loss spanning decades of ownership changes.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm renting a flat in The Meadows and can't find the combination to my safe – what's your process?",
-      "a": "We specialise in non-destructive safe opening for student and rental properties across The Meadows. Our technicians will attempt to recover or reset your combination without damage, preserving your deposit and the landlord's asset."
-    },
-    {
-      "q": "Do you handle safes in Victorian properties with listed-building restrictions?",
-      "a": "Yes – we understand West Bridgford's conservation requirements and can open safes in listed Victorian terraces without causing alterations that breach planning consent. We'll document our method and liaise with conservation teams if needed."
-    }
-  ],
-  "home.areas-covered": [
-    "Abbey Park",
-    "Bakersfield",
-    "Colwick",
-    "Compton Acres",
-    "Edwalton",
-    "Forest Fields",
-    "Gamston",
-    "Hockley",
-    "Lace Market",
-    "Lady Bay",
-    "Rainbow Quarter",
-    "Ruddington",
-    "Sharphill",
-    "Silverdale",
-    "Sneinton",
-    "St Ann's",
-    "The Meadows",
-    "The Park",
-    "Thorneywood",
-    "Tollerton",
-    "Wilford"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Compton Acres",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ],
-  "locked-out.areas-covered": [
-    "Sharphill",
-    "Abbey Park",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Sneinton",
-    "Forest Fields",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Silverdale"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Thorneywood",
-    "Silverdale",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Hockley",
-    "Tollerton",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ],
-  "lock-changes.areas-covered": [
-    "Bakersfield",
-    "Lady Bay",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields"
-  ],
-  "lock-repairs.areas-covered": [
-    "The Park",
-    "Ruddington",
-    "Rainbow Quarter",
-    "The Meadows",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Edwalton",
-    "St Ann's",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Wilford",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ],
-  "door-repairs.areas-covered": [
-    "The Meadows",
-    "Rainbow Quarter",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale",
-    "Bakersfield"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Colwick",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Forest Fields",
-    "Silverdale",
-    "Bakersfield"
-  ],
-  "safe-installation.areas-covered": [
-    "Lace Market",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ],
-  "safe-opening.areas-covered": [
-    "Gamston",
-    "Rainbow Quarter",
-    "The Meadows",
-    "The Park",
-    "Hockley",
-    "Colwick",
-    "Forest Fields",
-    "Silverdale"
-  ]
+ "meta.title": "Locksmith West Bridgford | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted locksmith in West Bridgford serving Victorian terraces, Edwardian homes and modern properties. Emergency call-outs, lock repairs and security solutions.",
+ "home.hero-paragraph": "West Bridgford locksmith services specialising in expert locksmithing and emergency lock help. We handle lockouts, lock changes and security upgrades across the area. All work is completed using non-destructive entry methods by our DBS-checked technicians. Available 24/7 with no call-out fees and fully insured for your peace of mind.",
+ "home.local-context-heading": "Locksmith services across West Bridgford's mixed properties",
+ "home.local-context-body": "West Bridgford's housing stock ranges from Victorian terraces in conservation areas like St Ann's to post-war semis across Forest Fields. Period properties require specialist lock knowledge\u2014sash windows, original mortice locks, and listed-building restrictions mean standard modern fittings often won't comply. Older properties frequently need period-appropriate repair or sympathetic upgrades rather than replacement.\n\nHigh student HMO presence in areas like The Meadows creates specific security needs. Landlords of multi-occupancy properties must ensure compliant locks on individual rooms and communal doors; emergency access situations are common during term transitions. Conservation-listed properties add another layer\u2014any lock work may need conservation-area approval, making early consultation with a specialist locksmith essential.",
+ "home.local-faqs": [
+  {
+   "q": "Do you work on Victorian sash windows and period locks in conservation areas like The Park?",
+   "a": "Yes. We specialise in period-appropriate locks and sash window security for listed properties and conservation areas across West Bridgford. We understand the restrictions on modern fittings and can advise on sympathetic solutions that comply with conservation requirements."
+  },
+  {
+   "q": "Can you help with emergency lock-outs at student properties in Meadows and Forest Fields?",
+   "a": "Absolutely. We handle frequent student lock-outs and emergency access calls across the HMO hotspots. Call 0115 735 1302 for same-day response to get you back inside quickly."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith West Bridgford | 24/7 Response",
+ "emergency-locksmith.meta.description": "Emergency locksmith West Bridgford 24/7. Locked out, snapped keys, broken locks? Fast response for Victorian terraces, flats & period properties. Call 0115 735 1302 now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in West Bridgford brings professional locksmithing expertise to urgent situations round the clock. Whether you're locked out of your home, dealing with a snapped key, or need post-break-in repairs, our DBS-checked technicians respond 24/7 with non-destructive entry methods to resolve your crisis quickly and safely.",
+ "emergency-locksmith.local-context-body": "Victorian terraces in central West Bridgford and newer semi-detached properties in Edwalton both present distinct emergency access challenges. Period properties often feature original locks and sash-window catches that require careful handling during lockouts, while modern developments typically use standardized cylinder locks and composite doors that demand different technical approaches. The mix means emergency call-outs span both heritage properties requiring specialist knowledge and contemporary homes needing rapid standard solutions.\n\nConservation-area listings create practical constraints during emergency work in central wards. Many lockouts occur in listed properties where modern security fitting or forced entry must preserve period features and comply with planning restrictions. Emergency locksmiths operating in West Bridgford must balance speed of access with awareness of these heritage protections, sometimes requiring alternative entry methods rather than standard drilling or frame damage that would be permissible elsewhere.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in central West Bridgford\u2014how quickly can you get the door open without damaging the period features?",
+   "a": "We arrive within 30 minutes for emergency calls and use specialist techniques for Victorian sash locks and original door frames, avoiding damage to listed or conservation-area properties. Our team understands period-appropriate security so your home's character stays intact."
+  },
+  {
+   "q": "It's 2 a.m. and I'm a student in the Meadows with a snapped key\u2014do you really operate 24/7?",
+   "a": "Yes, we're on call round the clock for emergencies like yours. We'll be with you fast and can rekey or replace the lock the same night, getting you back inside without the hassle of waiting until morning."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in West Bridgford? Victorian Property Specialists",
+ "locked-out.meta.description": "Locked out in West Bridgford? Surelok provides fast, non-destructive emergency entry for Victorian terraces, flats & homes. 24/7 locksmith service.",
+ "locked-out.hero-paragraph": "When you're locked out in West Bridgford, our locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we employ non-destructive entry techniques to regain access without damaging your door or frame.",
+ "locked-out.local-context-body": "Properties in Silverdale's interwar semi-detached homes and the Victorian villas of The Park frequently present locked-out situations with period-appropriate fixtures that require specialist non-destructive techniques. The mix of original sash windows and traditional door mechanisms across West Bridgford means access recovery often demands tools and knowledge specific to older properties rather than standard modern approaches.\n\nConservation-area listings in central wards impose restrictions on forced entry methods; many properties cannot tolerate damage that would compromise period features or breach heritage consent. Locksmiths must assess each property's listing status and use techniques compatible with original joinery and hardware, adding complexity to what might otherwise be straightforward emergency access work.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Sneinton \u2013 will you damage the sash windows or period locks?",
+   "a": "No. Our locksmiths specialise in non-destructive entry on period properties and understand Victorian locks and sash mechanisms. We'll use specialist tools to open your door without damaging listed features, which is essential in Sneinton's conservation area."
+  },
+  {
+   "q": "I'm a student in the Meadows and my keys are inside \u2013 how quickly can you get here?",
+   "a": "We offer emergency same-day lockout calls across West Bridgford, including the Meadows student areas. Call 0115 735 1302 and we'll dispatch a technician for fast, non-destructive access without landlord delays."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal West Bridgford \u2013 Fast Service",
+ "broken-key-removal.meta.description": "Broken key removal in West Bridgford \u2013 expert extraction from euro cylinders, mortice locks & night latches. Victorian terraces & modern homes covered.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in West Bridgford requires a skilled locksmith trained in professional locksmithing techniques to extract the fragment safely. Our technicians use specialist key extractor tools and broken-key probes to retrieve snapped or sheared keys from mortice locks and euro cylinders. We prioritise non-destructive methods to preserve your lock's integrity and avoid costly replacements.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent call-out in West Bridgford's older residential areas, particularly among the Victorian terraces and Edwardian semi-detached properties in Lady Bay. These period homes often retain original mortice locks and night latches, where key fracture\u2014especially at the shank\u2014demands swift, non-destructive removal to preserve the mechanism. Properties in conservation areas require particular care to avoid damage during extraction, adding technical precision to an already delicate task.\n\nThe high density of listed and conservation-protected properties across West Bridgford means locksmiths must balance extraction speed with period-appropriate lock preservation. Many Victorian and Edwardian doors feature cast-iron or steel cylinders that corrode over decades, making keys more brittle and prone to snapping under pressure. Modern euro cylinder designs are less common in central wards, so specialist tools suited to older mortice work and night latches are essential for efficient removal without forcing or damaging the lock body itself.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Sneinton often have broken keys stuck in their locks?",
+   "a": "Victorian period locks in Sneinton's dense terraced properties use softer metals that fatigue faster than modern euro cylinders, especially in sash-window night latches exposed to weather and frequent use. Our technicians carry specialist extractors designed for period lock geometries to remove snapped keys without damaging the original mechanism\u2014essential for conservation-listed properties."
+  },
+  {
+   "q": "Can you remove a broken key from a mortice lock in a listed building in St Ann's without needing to replace the whole lock?",
+   "a": "Yes\u2014St Ann's conservation area restrictions mean we prioritise key extraction and lock preservation over replacement. We use non-destructive removal techniques for mortice locks to keep period-appropriate hardware intact, then return you the extracted key fragments so you can have a new one cut to the same profile."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service West Bridgford | Victorian & Modern Homes",
+ "burglar-repair-service.meta.description": "Burglar repair service in West Bridgford. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and modern properties. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our West Bridgford locksmiths specialise in burglar repair and locksmithing services for properties affected by forced entry. Following a break-in, we assess damage to doors and locks, then restore security using reinforced door solutions and TS007 anti-snap cylinders. All work meets insurance-compliant standards, ensuring your home is properly protected.",
+ "burglar-repair-service.local-context-body": "Post-break-in lock and door repair in West Bridgford must accommodate diverse property ages and construction. Semi-detached homes in Colwick and Victorian terraces in central areas present distinct challenges: older properties often feature period-appropriate frames and traditional locks that require careful reinstatement, while newer builds in Edwalton typically have modern composite doors and euro-cylinder systems. Break-in damage assessment therefore depends heavily on property era and original specification.\n\nListed properties and conservation-area restrictions significantly affect burglar repair work across West Bridgford's central wards. Replacement doors and locks on heritage properties must meet planning and conservation officer approval; modern uPVC or aluminium cannot simply substitute period timber frames. Locksmiths and repair contractors must source period-matching materials and finishes, extending timescales and requiring specialist knowledge to ensure insurance-quality reinstatement that satisfies both security standards and heritage requirements.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Can you repair Victorian sash windows and period locks after a break-in in central West Bridgford?",
+   "a": "Yes. Our locksmiths specialise in period-appropriate repairs for Victorian properties common in central wards, including sash windows and traditional locks that comply with conservation-area restrictions. We'll reinstate your security to insurance standard while respecting listed-property requirements."
+  },
+  {
+   "q": "How quickly can you attend an emergency break-in repair in Forest Fields or Thorneywood?",
+   "a": "We offer same-day emergency call-outs across West Bridgford, including Forest Fields and Thorneywood. We'll assess structural damage, repair or replace locks and doors, and provide you with a full insurance-quality report on the day."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up West Bridgford | Victorian Homes",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in West Bridgford \u2013 same-day secure boarding of broken doors and windows after break-ins, storms or accidents in Victorian terraces and period properties.",
+ "emergency-boarding-up.hero-paragraph": "Our West Bridgford locksmith team specialises in emergency boarding up, combining expert locksmithing with rapid response to secure your property. Whether you're facing smashed windows, damaged doors, or broken glazing, we install robust plywood boards and security screws to create a weatherproof temporary seal. Available 24/7 and fully insurance-compliant, we're here when you need us most.",
+ "emergency-boarding-up.local-context-body": "Emergency boarding up in West Bridgford addresses break-ins and weather damage across a diverse housing stock. Semi-detached properties in Forest Fields and Thorneywood frequently require rapid re-securing after forced-entry incidents, while Victorian terraces in central areas demand careful handling of original sash windows and period joinery. The high student HMO concentration in Forest Fields creates seasonal peaks in emergency call-outs, particularly during transition periods when properties turn over rapidly.\n\nListed properties and conservation-area designations significantly shape boarding-up approaches across West Bridgford. Temporary securing must avoid permanent damage to historic fabric, and materials must be sympathetic to period character. Modern flat-fronted aluminium frames predominate in post-war estates, simplifying temporary fixings, whereas Victorian properties often feature ornate surrounds that require specialist assessment before any boarding method is selected.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian sash windows after break-ins, and can you do it without damaging the frame?",
+   "a": "Yes\u2014Victorian terraces in central West Bridgford have period features that need careful handling. We use protective boarding techniques that secure the opening safely without causing further damage to listed or heritage frames, then advise on appropriate restoration contractors."
+  },
+  {
+   "q": "How quickly can you board up a property in The Meadows or Forest Fields after a break-in?",
+   "a": "We're based locally in West Bridgford and aim for same-day emergency response to student accommodation and rental properties across these areas. Given high turnover in HMOs, we understand the urgency and keep boarding materials on hand for rapid deployment."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes West Bridgford | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in West Bridgford for moved-in homeowners, lost keys & upgrades. Victorian terraces & modern properties. Fast professional service.",
+ "lock-changes.hero-paragraph": "Professional lock changes in West Bridgford from our experienced locksmith specialists combine modern locksmithing techniques with trusted security standards. Whether you're moving home, upgrading security, or managing tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
+ "lock-changes.local-context-body": "Lock changes in West Bridgford respond to the area's mixed housing stock. Victorian terraces in Sneinton and semi-detached properties across the ward frequently require lock replacement following house moves or key loss. Period properties dominate central areas, and their older lock mechanisms often need upgrading to modern security standards or matching to original fittings when maintaining period character.\n\nConservation-area listings significantly shape lock-change work in West Bridgford. Many central properties fall within protected zones where external alterations, including new lock styles or door hardware, must align with conservation guidelines. Locksmiths must verify listed-building status and sometimes source period-appropriate locks rather than standardised modern replacements, adding both technical knowledge and specification time to routine change-outs.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in central West Bridgford \u2013 do I need specialist lock-changing work?",
+   "a": "Yes. Victorian sash windows and period locks often require bespoke approaches; our locksmiths understand period-appropriate fittings and can source compatible replacements that respect your property's character while upgrading security."
+  },
+  {
+   "q": "We're letting our property in The Meadows to students \u2013 how often should we change locks between tenancies?",
+   "a": "We recommend changing locks after each tenant move-out, especially in high-turnover HMO areas like The Meadows, to ensure only current occupants hold keys and maintain full security control of the property."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs West Bridgford \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in West Bridgford for Victorian terraces, sash windows & modern homes. Emergency multipoint, mortice & night latch fixes. 24/7 available.",
+ "lock-repairs.hero-paragraph": "Our West Bridgford locksmith specialises in lock repairs and locksmithing solutions for residential and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the issue efficiently. Our technicians perform mortice maintenance and multipoint servicing to restore full functionality, all backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "West Bridgford's mix of Victorian terraces in areas like Sneinton and semi-detached properties across the city means lock repairs frequently address period mechanisms\u2014mortice locks, night latches, and traditional gearbox systems common to 19th-century construction. These older locks often fail through wear rather than damage, requiring careful dismantling and component replacement rather than full substitution.\n\nConservation-area density in central wards introduces a practical constraint: many listed properties cannot have locks replaced with modern multipoint systems without planning consent. Repairs that restore original lock function or fit period-appropriate replacements become the standard approach, particularly in properties with sash windows and original timber doors where structural integrity and aesthetic consistency matter.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in The Park often need specialist lock repair?",
+   "a": "Victorian properties in The Park's conservation area typically have period-appropriate sash locks and fasteners that require specialist knowledge to repair without damaging listed features. Surelok's locksmiths understand conservation restrictions and can restore these mechanisms to working order while maintaining period authenticity."
+  },
+  {
+   "q": "What should I do if my multipoint lock fails in a student HMO in the Meadows?",
+   "a": "Multipoint lock failures are common in high-turnover student properties across the Meadows. Call Surelok on 0115 735 1302 for emergency repair or replacement\u2014we respond quickly to prevent security breaches and can install robust, tenant-friendly systems suited to shared housing."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation West Bridgford | Victorian Homes",
+ "door-lock-installation.meta.description": "Door lock installation in West Bridgford. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Period-property specialists for Victorian terraces and listed homes.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in West Bridgford by our experienced locksmith team specialises in locksmithing to the highest standards. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders. Our technicians ensure reliable, secure fitting every time.",
+ "door-lock-installation.local-context-body": "Door lock installation across West Bridgford addresses the needs of properties spanning Victorian terraces in conservation areas like St Ann's through to semi-detached homes in The Meadows. Each property type presents distinct fitting requirements: period terraces often retain original door frames requiring careful mortice installation, while post-war stock typically accommodates modern multipoint systems more straightforwardly. BS3621 mortice locks remain the standard for older properties, whereas contemporary anti-snap TS007 cylinders suit newer builds and security-conscious replacements across the locality.\n\nConservation-area listings in central West Bridgford impose restrictions on visible security hardware; locksmiths must frequently specify period-appropriate locks that meet modern security standards without altering original door aesthetics. Student accommodation density in areas like Forest Fields drives demand for robust multipoint locks on HMO properties, where high tenant turnover necessitates reliable, maintainable systems. Material variation\u2014wooden frames predominate in Victorian stock, uPVC in post-war estates\u2014directly affects cylinder selection and installation methodology.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you fit anti-snap cylinders to Victorian properties in Hockley and similar period terraces?",
+   "a": "Yes. We install TS007 anti-snap cylinders that meet modern security standards while respecting the constraints of listed and conservation-area properties common in Hockley's historic industrial-residential streets. We ensure fittings are period-appropriate and compliant with local planning requirements."
+  },
+  {
+   "q": "Can you install BS3621 mortice locks quickly for student lets in shared houses?",
+   "a": "Absolutely. High turnover in student HMOs across the city means we prioritise rapid, reliable BS3621 mortice lock installation and multipoint upgrades to meet landlord safety requirements and manage lock-out callouts efficiently."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement West Bridgford | Victorian Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in West Bridgford, including Victorian terraces and period properties. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Professional door lock replacement in West Bridgford from our expert locksmith team combines traditional locksmithing craftsmanship with modern security solutions. Whether you've experienced a failed lock, lost your keys, or are moving home, we perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
+ "door-lock-replacement.local-context-body": "Properties across West Bridgford\u2014from Victorian terraces in conservation areas to modern developments like Edwalton\u2014present varied lock-replacement scenarios. Interwar semi-detached homes in Thorneywood typically feature standard mortice locks suited to straightforward replacement, while period properties demand careful specification to preserve architectural character and comply with heritage restrictions.\n\nListed buildings and conservation-designated properties require door lock replacements that respect original joinery and aesthetic standards. Locksmiths working in these areas must verify whether modern security upgrades need conservation-area consent, and often source period-appropriate locks or finishes that match existing ironmongery rather than forcing contemporary fittings into historic door frames.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in central West Bridgford\u2014can you replace my period lock without damaging the door?",
+   "a": "Yes. Victorian terraces need specialist care; we can swap your lock while preserving the original door furniture and mechanisms, or upgrade to a modern lock fitted discreetly within the existing frame. We understand conservation-area requirements and period-appropriate fitting."
+  },
+  {
+   "q": "My Edwardian semi in Bakersfield has a broken lock\u2014do I need a full door replacement?",
+   "a": "No. We'll replace just the lock cylinder or mechanism, matching the style and size of your existing fitting. For Edwardian properties, this keeps your door authentic and avoids unnecessary expense or structural work."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs West Bridgford | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in West Bridgford: uPVC, composite & timber doors. Expert alignment, hardware fixes for Victorian terraces & modern homes.",
+ "door-repairs.hero-paragraph": "Professional door repairs in West Bridgford from our expert locksmiths combine decades of locksmithing experience with practical solutions. Whether your door is dropping, catching, or won't close properly, our technicians handle hinge adjustment, frame alignment, and multipoint realignment on uPVC, composite, and timber doors with precision and care.",
+ "door-repairs.local-context-body": "Victorian terraces throughout West Bridgford's central conservation areas feature original timber frames and period hardware that frequently suffer from settlement-related misalignment. Semi-detached properties in Colwick, many dating from the post-war rebuild, experience similar dropped-door problems as foundations shift over decades. These older structures require careful assessment to distinguish between cosmetic adjustment and structural remediation before hardware repair or replacement can proceed.\n\nListed properties in conservation zones present specific constraints on door repairs. Period-appropriate materials and finishes must be maintained where properties hold designation, ruling out standard modern replacements. Older timber doors in these properties are prone to warping and swelling, particularly where original joinery has deteriorated, making skilled carpentry essential alongside locksmith expertise.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows and doors in Sneinton need specialist repair?",
+   "a": "Victorian terraces in Sneinton often have original timber sash windows and period door frames that can drop or misalign over time due to settling. Surelok's locksmiths understand traditional joinery and can repair or adjust these without compromising the original character\u2014essential for properties in conservation areas."
+  },
+  {
+   "q": "My student flat door in The Meadows won't close properly\u2014can you help quickly?",
+   "a": "Yes. The high turnover of student lets in The Meadows means dropped doors and misaligned frames are common. We offer emergency and same-day door repair to get your rental property secure and compliant again, minimizing tenant issues and void periods."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair for Victorian Homes West Bridgford",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in West Bridgford. Espagnolette & shootbolt locks fixed on Victorian sash windows & modern frames.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement services in West Bridgford from our expert locksmith team combine traditional locksmithing skills with modern solutions. Whether you're dealing with windows that won't lock or broken handles, we diagnose and repair espagnolette mechanisms and shootbolt locks to restore security. All work meets insurance-compliant standards, ensuring your home protection.",
+ "window-lock-repair-replacement.local-context-body": "Sash windows are prevalent in West Bridgford's Victorian terraces, particularly in central conservation areas, where period espagnolette locks require careful handling and specialist replacement parts. Modern estates like Compton Acres feature contemporary casement windows with shootbolt mechanisms that demand different repair approaches. Both property types present distinct technical challenges that shape local demand for window lock services.\n\nListed-building status affects a significant proportion of West Bridgford properties, restricting lock replacements to period-appropriate designs that maintain conservation compliance. Espagnolette and shootbolt failures in older properties often require sourcing heritage-specification components rather than standard modern fittings. This regulatory context means window lock repair work frequently involves consultation with conservation officers and careful material matching rather than straightforward like-for-like replacement.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in West Bridgford's central conservation areas need specialist window lock repair?",
+   "a": "Victorian terraces in central West Bridgford often have period-appropriate espagnolette and shootbolt locks that require specialist knowledge to repair or replace without breaching conservation restrictions. We understand the listed-property rules and can source or fit locks that maintain the original character while restoring security."
+  },
+  {
+   "q": "How quickly can you repair window locks for student rentals in The Meadows and Forest Fields?",
+   "a": "High student turnover in these areas means we offer fast emergency window lock repair and replacement\u2014often same-day callouts\u2014to minimise vacant property vulnerability and help landlords meet rapid turnaround demands between tenancies."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation West Bridgford | Victorian Property Safes",
+ "safe-installation.meta.description": "Safe installation in West Bridgford for Victorian properties & conservation areas. Professional anchoring, insurance documentation, wall & floor safes.",
+ "safe-installation.hero-paragraph": "Safe installation in West Bridgford from our expert locksmith team combines precision locksmithing with permanent security solutions. We specialise in floor anchoring and wall mounting techniques that meet Eurograde standards, ensuring your new safe gains insurance approval. Proper anti-leverage positioning is essential for protecting high-value items, and our certified locksmiths assess each installation to guarantee maximum protection.",
+ "safe-installation.local-context-body": "Period properties in St Ann's and throughout West Bridgford's conservation areas present particular requirements for safe installation. Victorian terraces and listed buildings demand careful positioning to avoid structural damage to original plasterwork and load-bearing walls. Modern freestanding safes suit these properties well, requiring no permanent fixings, whilst wall-mounted options necessitate specialist assessment of wall composition and listed-building consent protocols.\n\nConservation-area restrictions in central West Bridgford mean that safe installation often cannot involve visible external anchoring or modifications to period facades. Internal placement becomes the practical focus, with floor safes embedded behind period flooring requiring specialist carpentry knowledge to preserve original floorboards and joists. Insurance documentation must account for these heritage considerations, as standard fitting methods may not be acceptable under conservation guidelines or building insurance terms.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed Victorian properties in Sneinton and Hockley?",
+   "a": "Yes. We understand conservation restrictions on listed properties and install safes using period-appropriate fixing methods that won't damage original fabric. We'll advise on discreet placement and provide full documentation for insurance purposes."
+  },
+  {
+   "q": "Can you anchor a safe in a Victorian terrace with solid walls?",
+   "a": "Absolutely. Victorian terraces in central West Bridgford often have thick brick and stone walls ideal for secure anchoring. We survey the wall structure first, use appropriate fixings, and ensure your safe meets insurer requirements with certified installation documentation."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening West Bridgford \u2013 Fast, Trusted Service",
+ "safe-opening.meta.description": "Safe opening in West Bridgford for lost combinations, keys & lockouts. Non-destructive methods for Victorian & modern properties. 24/7 available.",
+ "safe-opening.hero-paragraph": "Our West Bridgford locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use precision dial manipulation to regain access without damage. Fast, professional safe opening for homes and businesses across West Bridgford.",
+ "safe-opening.local-context-body": "Safe-deposit boxes and home safes feature prominently in West Bridgford's period properties, particularly the Victorian villas and semi-detached homes of The Park conservation area, where valuable documents and heirlooms are routinely secured behind lost combinations or missing keys. Edwardian terraces in Lady Bay similarly present safe-opening demand, often involving antique or mid-century models where manufacturer records have long since disappeared.\n\nListed-building status across many of West Bridgford's central properties means safe removal or relocation work must proceed without damage to period walls, plasterwork or joinery\u2014non-destructive opening techniques are therefore essential rather than optional. Additionally, interwar semi-detached properties in Silverdale frequently house safes installed during mid-twentieth-century renovations, which may now be inaccessible due to combination fade or key loss spanning decades of ownership changes.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm renting a flat in The Meadows and can't find the combination to my safe \u2013 what's your process?",
+   "a": "We specialise in non-destructive safe opening for student and rental properties across The Meadows. Our technicians will attempt to recover or reset your combination without damage, preserving your deposit and the landlord's asset."
+  },
+  {
+   "q": "Do you handle safes in Victorian properties with listed-building restrictions?",
+   "a": "Yes \u2013 we understand West Bridgford's conservation requirements and can open safes in listed Victorian terraces without causing alterations that breach planning consent. We'll document our method and liaise with conservation teams if needed."
+  }
+ ],
+ "home.areas-covered": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Compton Acres",
+  "Abbey Park",
+  "Lady Bay"
+ ],
+ "locked-out.areas-covered": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Compton Acres",
+  "Lady Bay",
+  "Abbey Park"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Lady Bay",
+  "Abbey Park",
+  "Compton Acres"
+ ],
+ "lock-changes.areas-covered": [
+  "Lady Bay",
+  "Compton Acres",
+  "Abbey Park"
+ ],
+ "lock-repairs.areas-covered": [
+  "Lady Bay",
+  "Abbey Park",
+  "Compton Acres"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Lady Bay",
+  "Abbey Park",
+  "Compton Acres"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "door-repairs.areas-covered": [
+  "Compton Acres",
+  "Lady Bay",
+  "Abbey Park"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "safe-installation.areas-covered": [
+  "Compton Acres",
+  "Lady Bay",
+  "Abbey Park"
+ ],
+ "safe-opening.areas-covered": [
+  "Lady Bay",
+  "Abbey Park",
+  "Compton Acres"
+ ]
 }

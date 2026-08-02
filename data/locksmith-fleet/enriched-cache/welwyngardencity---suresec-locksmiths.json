@@ -1,348 +1,353 @@
 {
-  "meta.title": "Locksmith Welwyn Garden City | Local Locksmithing 24/7",
-  "meta.description": "Trusted locksmith in Welwyn Garden City serving interwar and post-war homes. Emergency lock repairs, changes, security upgrades, and period property specialists.",
-  "home.hero-paragraph": "Welwyn Garden City locksmith services specialising in locksmithing and expert lock assistance are available when you need them most. We handle emergency lockouts, lock changes and security upgrades with non-destructive entry techniques. Our DBS checked technicians operate 24/7, fully insured, with no call-out fees for genuine emergencies.",
-  "home.local-context-heading": "Securing Welwyn Garden City's Mixed Housing Stock",
-  "home.local-context-body": "Welwyn Garden City's mix of interwar garden city properties and post-war suburban stock creates distinct locksmith demands. Period homes feature original sash windows and heritage locks requiring specialist handling, while semis across areas like Knightsfield often need security upgrades on frames not designed for modern hardware. Many post-war properties lack adequate additional locks, making multi-lock installations a routine requirement.\n\nProperties in the planned estate layout frequently require consistent security solutions across similar door frames and lock mechanisms. Landlords managing multiple units should verify whether HMO licensing applies, as shared accommodation may trigger specific security requirements including compliant locks on communal doors. Original frames in older properties sometimes present challenges when fitting modern locks, necessitating careful assessment before installation.",
-  "home.local-faqs": [
-    {
-      "q": "Do you work on original sash windows and period locks in Welwyn's interwar properties?",
-      "a": "Yes. Many homes in the historic town centre and original garden city core feature 1920s–30s sash windows and period locks that need specialist handling. We have experience with these original frames and can upgrade security without compromising period features."
-    },
-    {
-      "q": "I have a post-war semi in Digswell or Lemsford—can you add extra locks to my older frames?",
-      "a": "Absolutely. Post-war semis across the planned estate often need security upgrades on frames not originally designed for modern multi-point locks. We assess your frame type and fit additional locks or reinforce existing ones to meet current security standards."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Welwyn Garden City | 24/7 Lockouts",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Welwyn Garden City. Locked out? Key snapped? Fast response, lock repairs & replacements for Peartree semis and all properties.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Welwyn Garden City combines expert locksmithing with rapid response to get you back inside. Whether you're locked out, have a snapped key, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Welwyn Garden City often involve the post-war semis that dominate areas like Hatfield Hyde, where aging original locks and worn door frames create frequent callout scenarios. The planned estate layout means multiple similar properties within short distances, reducing response times for urgent lockouts, snapped keys, and doors that won't secure after attempted break-ins.\n\nPeriod properties across the city, particularly the interwar villas in Oaklands, frequently present complications for emergency work due to original sash window catches and heritage lock mechanisms that require specialist handling. Modern multi-point locks retrofitted to older door frames can jam unpredictably, and many householders discover security vulnerabilities only after lockouts occur, necessitating rapid assessment of both immediate access and subsequent reinforcement options.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my interwar semi in Hall Grove—will you damage my original sash windows or period locks?",
-      "a": "No. Our locksmiths are trained in handling original 1920s-30s fixtures common throughout Hall Grove and other heritage parts of Welwyn Garden City. We use non-destructive entry methods and specialist tools to preserve period joinery and locks wherever possible."
-    },
-    {
-      "q": "My post-war semi in Panshanger has been broken into. Can you attend urgently and upgrade my locks the same day?",
-      "a": "Yes. We operate 24/7 emergency callouts across Panshanger and similar post-war suburban areas. After securing your property and assessing damage, we can fit additional locks and modern security hardware to your existing frames on the same visit."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Welwyn Garden City | 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Welwyn Garden City? Fast non-destructive entry for homes & semis. Lost or snapped keys? Emergency locksmith available 24/7.",
-  "locked-out.hero-paragraph": "When you're locked out in Welwyn Garden City, our experienced locksmiths specialise in locksmithing techniques that restore your access quickly. Whether you've lost your keys, had them lock inside, or suffered a snapped key, we use non-destructive entry methods to gain access without causing damage to your property.",
-  "locked-out.local-context-body": "Properties in Handside and across the planned estate frequently feature original sash windows and period frames alongside later modifications. Semi-detached homes built in the interwar decades often retain their initial lock mechanisms, which require specialist non-destructive techniques when residents are locked out. Post-war additions to the housing stock sometimes present different challenges, with varied frame materials and lock fitments that demand tailored entry approaches.\n\nMany of the older terrace and semi-detached properties in Welwyn Garden City's core areas lack modern multi-point locking systems, meaning single-lock entry points are common. This affects lockout callout strategy, as the distinction between original period hardware and later replacements determines whether traditional lock-picking or non-destructive frame techniques are most appropriate. Listed-building status on some interwar properties also restricts the methods available for safe, compliant entry without damage to original joinery.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my interwar semi in Stanborough—will you damage my original sash windows or period locks?",
-      "a": "No. Our locksmiths specialise in non-destructive entry on period properties common across Welwyn Garden City's 1920s–30s garden city stock. We'll manipulate or pick your original locks safely rather than force frames or glazing."
-    },
-    {
-      "q": "How quickly can you get to a lockout in Knightsfield or Haldens?",
-      "a": "We're based locally in Welwyn Garden City and typically attend lockouts across our post-war semi-detached suburbs within 30–45 minutes. Call 01707 568057 and we'll give you a precise ETA."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Welwyn Garden City | Semi-Detached Homes",
-  "broken-key-removal.meta.description": "Broken key removal in Welwyn Garden City for period and modern homes. Expert extraction from euro cylinders, mortice locks & night latches. Fast professional service.",
-  "broken-key-removal.hero-paragraph": "Our Welwyn Garden City locksmith specialises in broken key removal using expert locksmithing techniques. Whether you're dealing with a snapped or sheared key stuck in your lock, we employ non-destructive methods and precision key extractor tools to safely retrieve the fragments. We handle euro cylinders and mortice locks with equal competence, restoring access without unnecessary damage.",
-  "broken-key-removal.local-context-body": "Welwyn Garden City's interwar properties in areas like Handside feature original mortice locks and period door frames that demand specialist extraction technique. Post-war semis across Peartree and beyond, while structurally sound, often retain aging euro cylinders prone to key breakage from wear. The planned estate's consistent housing stock means broken key callouts follow predictable patterns tied to lock age and material fatigue across comparable properties.\n\nMany of the city's original 1920s–30s doors incorporate hardwood frames and period hardware where cylinder removal requires careful handling to avoid cosmetic or structural damage. Post-war properties present a different challenge: cheap replacement cylinders fitted to original frames can jam or fracture keys more readily, and distinguishing between salvageable locks and those requiring full replacement is common on callouts across the suburban stock.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do interwar sash windows in Welwyn Garden City properties often need broken key removal?",
-      "a": "Original 1920s–30s garden city homes frequently feature period sash window locks with delicate internal mechanisms; a snapped key can jam easily in these older euro cylinders. We extract broken keys without damaging the authentic frame or lock body, preserving your period property's character."
-    },
-    {
-      "q": "I'm renting a post-war semi in Stanborough—can you remove a broken key from my night latch?",
-      "a": "Yes, broken key removal from night latches is a common callout across Stanborough's post-war semis. We'll extract the snapped key cleanly and check the lock cylinder isn't damaged before you need to hand keys back to your landlord."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Welwyn Garden City | Post-Break-in Locks",
-  "burglar-repair-service.meta.description": "Burglar repair service in Welwyn Garden City. Post-break-in lock changes, door repairs and security upgrades for semis and period homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair in Welwyn Garden City requires expert locksmith attention, and our locksmithing specialists understand forced entry damage thoroughly. We assess structural integrity and recommend solutions such as door reinforcement or TS007 anti-snap cylinders to restore security. All work meets insurance-compliant standards, ensuring your property protection is comprehensive and certified to current safety requirements.",
-  "burglar-repair-service.local-context-body": "Post-war semi-detached homes across Hatfield Hyde and beyond frequently present security vulnerabilities following break-ins. Original frames and outdated lock mechanisms are common in this stock, requiring prompt assessment and reinforcement. Burglar repair work here typically involves replacing compromised locks, repairing frame damage, and installing additional security measures to meet insurance requirements and prevent further entry attempts on similar neighbouring properties.\n\nMany interwar properties in Hall Grove retain period sash windows and original door furniture, which complicates post-break-in repairs. Locksmiths must balance insurance-standard reinstatement with preservation of period features where listed-building status or conservation guidelines apply. Frame condition after forced entry often determines whether repair is viable or replacement necessary—a critical consideration given the age and construction methods of much Welwyn Garden City's residential stock.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Can you repair sash windows after a break-in on interwar properties like those in Oaklands?",
-      "a": "Yes. Original sash frames in Welwyn Garden City's 1920s-30s homes require specialist handling during repair. We're experienced in reinstating period locks and frames to insurance-quality standard without compromising the window's integrity or period character."
-    },
-    {
-      "q": "How quickly can you repair and upgrade security on post-war semis after a break-in?",
-      "a": "We typically attend within hours for emergency board-up and damage assessment on properties like those in The Ryde and Wilshere Park. We then handle frame repair, lock replacement, and additional security installation—all documented for your insurance claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Welwyn Garden City | Semis & Period Homes",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Welwyn Garden City—same-day response for smashed doors, windows. Secures semis, terraces after break-ins, storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Our emergency boarding up locksmith service in Welwyn Garden City combines expert locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises using heavy-duty plywood boards and security screws. Our 24/7 response ensures your property remains weatherproof and insurance-compliant when you need it most.",
-  "emergency-boarding-up.local-context-body": "The planned estate layout across Welwyn Garden City means emergency boarding calls often cluster among similar property types. Semi-detached homes in The Ryde and comparable post-war suburbs frequently require rapid window and door boarding following break-ins or severe weather. The standardised construction of these properties allows swift assessment and boarding application, though frame condition varies considerably depending on maintenance history and age.\n\nMany of the interwar properties throughout the garden city feature timber sash windows and period door frames that demand careful handling during boarding. Modern plywood and metal fixings can damage original joinery, and listed-building status in some streets restricts boarding methods; temporary protection must be coordinated with local authority notification before permanent repairs proceed. Post-war properties generally accept standard boarding techniques more readily, though older frames may require additional reinforcement to hold fixings securely.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Why do I need specialist boarding up for my interwar sash windows in Welwyn Garden City?",
-      "a": "Original 1920s-30s properties across the garden city have period frames that are easily damaged by standard boarding methods. Our team understands how to secure these without causing further harm to the wood or glazing bars, preserving the integrity of your home while keeping it safe."
-    },
-    {
-      "q": "How quickly can you board up a break-in at a post-war semi in The Ryde?",
-      "a": "We're based locally in Welwyn Garden City and aim to attend emergency boarding jobs within 1-2 hours. Post-war semis are common across The Ryde, so we carry standard materials and understand the typical door and window configurations, meaning faster response and setup."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Welwyn Garden City | Semi-Detached Homes",
-  "lock-changes.meta.description": "Lock changes in Welwyn Garden City for new homes, lost keys & security upgrades. Serving Birchwood, The Ryde & period properties across the area.",
-  "lock-changes.hero-paragraph": "Lock changes in Welwyn Garden City require a skilled locksmith with expertise in locksmithing to ensure your property security. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders that meet modern standards. Our technicians specialise in multipoint mechanisms and euro cylinder replacement for both residential and commercial premises.",
-  "lock-changes.local-context-body": "Lock changes in Welwyn Garden City frequently address security upgrades across the post-war semi-detached stock that characterizes much of Stanborough and surrounding areas. Many homeowners moving into these properties discover original or outdated locks inadequate for modern security needs, making lock replacement a priority during handovers. The garden city's residential consistency means locksmiths encounter similar door frames and lock installations across multiple properties, enabling efficient service delivery for both individual households and landlords managing multiple units.\n\nThe interwar properties interspersed throughout the planned estate often retain period-appropriate locks and timber sash windows that require careful handling during replacement work. Older frames may need reinforcement or specialist attention to accommodate modern locking mechanisms without compromising original joinery. Post-war semis typically feature standard domestic door hardware, though variations in frame construction and age mean lock changes sometimes necessitate minor adjustments to ensure proper fit and operation.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "Do you handle lock changes on original sash windows in interwar properties across Welwyn Garden City?",
-      "a": "Yes. Many homes in the garden city's original 1920s–30s stock have period locks and frames that need specialist care. We're experienced in safely replacing these without damaging the sashes, and can source period-appropriate hardware where needed."
-    },
-    {
-      "q": "I've just moved into a post-war semi in The Ryde and want to upgrade the locks—how quickly can you fit new ones?",
-      "a": "We offer same-day lock changes on post-war semis throughout Welwyn Garden City, including The Ryde. Most standard replacements take 30–60 minutes, and we can fit multiple locks if you want to secure older door frames with additional security."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Welwyn Garden City – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Lock repairs in Welwyn Garden City for interwar & post-war homes. Expert multipoint, mortice & night latch fixes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs in Welwyn Garden City from our experienced locksmith specialising in locksmithing solutions. Whether you're dealing with stiff locks, jammed mechanisms, or keys that won't turn smoothly, our technicians provide precise gearbox repair and mortice maintenance. All work comes with manufacturer warranty for complete peace of mind.",
-  "lock-repairs.local-context-body": "Stanborough's post-war semis frequently present worn multipoint locks and night latches that have reached the end of their service life. These homes typically feature original or early-replacement door frames and hardware installed decades ago, making gearbox repairs and mortice lock restoration common requirements across the neighbourhood's consistent housing stock.\n\nMany properties across the planned estate retain aluminium or steel frames from the 1950s–70s that can complicate lock repair work. Original sash windows and period doors in interwar properties demand knowledge of traditional lock mechanisms; modern replacement parts don't always align with older frame tolerances, requiring careful assessment before repair or replacement decisions are made.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do the original sash windows in Welwyn's interwar properties need specialist lock repair?",
-      "a": "Many homes in Welwyn's historic garden city core feature period sash windows with traditional mortice locks that require careful handling to avoid damage. Our locksmiths have the knowledge to repair these original mechanisms without compromising the character or security of your property."
-    },
-    {
-      "q": "My semi-detached in Handside has a broken multipoint lock on the front door—how quickly can you repair it?",
-      "a": "We typically attend lock repairs across Handside and similar post-war semis within hours. Multipoint lock repairs are one of our most common callouts in the area, so we carry the right parts and expertise to get you secure again fast."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Welwyn Garden City | Semis & Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Welwyn Garden City & Handside. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for period and modern homes.",
-  "door-lock-installation.hero-paragraph": "Our door lock installation locksmithing service in Welwyn Garden City ensures your property benefits from professional expertise. Whether you're upgrading security with TS007 anti-snap cylinders, fitting new locks to meet insurance requirements, or installing BS3621 mortice locks, our locksmiths deliver reliable solutions. We assess your needs and install systems that protect your home to current security standards.",
-  "door-lock-installation.local-context-body": "The mixed housing stock across Welwyn Garden City—from original 1920s–30s properties to substantial post-war suburban expansion—creates varied door lock installation requirements. Semi-detached homes in areas like Knightsfield (1960s stock) typically feature standard timber frames compatible with modern BS3621 mortice locks and TS007 anti-snap cylinders, though many lack adequate security provision and benefit from multipoint upgrades. Period interwar properties elsewhere on the estate often retain original frames requiring careful assessment before fitting modern hardware.\n\nInstallations across the planned estate frequently encounter timber doors of varying thickness and condition; period properties may have narrower stile widths that limit mortice lock positioning, while post-war semis generally accommodate standard fittings without complication. Listed-building status applies to some original garden city properties, requiring compliance with conservation guidelines before lock installation work proceeds. The prevalence of older single-cylinder locks in post-war housing means demand for anti-snap upgrades is consistently high across the residential base.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install locks on the original sash windows in Handside interwar properties?",
-      "a": "Yes. We specialise in fitting locks to period sash windows found throughout Handside and similar 1920s–30s properties. Our fitters understand the careful handling these original frames require to avoid damage while ensuring secure, functional installation."
-    },
-    {
-      "q": "Can you upgrade locks on the post-war semis in Peartree that don't have modern security?",
-      "a": "Absolutely. Many Peartree post-war semis lack adequate modern security. We fit TS007 anti-snap cylinders and multipoint locks to strengthen older frames, and can advise on additional locks where your current setup is outdated."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Welwyn Garden City | Semis & Period Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in Welwyn Garden City & Handside. Like-for-like swaps or security upgrades. Period & modern homes. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our Welwyn Garden City locksmith specialises in professional door lock replacement and locksmithing services tailored to your security needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift solutions. We perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
-  "door-lock-replacement.local-context-body": "Wilshere Park's 1960s semis and the interwar properties around Oaklands both commonly require door lock replacement due to age-related wear and security concerns. Original period locks on older homes often become unreliable, whilst post-war suburban stock frequently lacks modern security provision. Lock upgrades across these neighborhoods typically involve both straightforward like-for-like swaps on existing frames and specification of higher-security cylinders to meet contemporary standards.\n\nMany properties in Welwyn Garden City feature timber-framed doors from their original build period, which can complicate fitting modern locks if frame damage or misalignment has occurred. Listed interwar homes in particular may require locks that preserve period aesthetics while meeting functional requirements, necessitating careful assessment before replacement to avoid unnecessary structural alteration to original joinery.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have an original 1920s sash window lock in my interwar Welwyn Garden City home—can you replace it with something modern?",
-      "a": "Yes. We specialise in replacing period locks on original interwar properties across Welwyn Garden City without damaging sash frames or period joinery. We'll source a compatible modern lock that fits your existing frame and upgrades security."
-    },
-    {
-      "q": "We're in a post-war semi in Panshanger and the front door lock is worn out—how quickly can you replace it?",
-      "a": "We offer same-day door lock replacement for post-war semis like yours throughout Panshanger and the wider area. Call 01707 568057 to book, and we'll attend with stock locks ready to swap."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Welwyn Garden City | Semi-Detached Homes",
-  "door-repairs.meta.description": "Door repairs in Welwyn Garden City for period and modern homes. Misaligned doors, hardware fixes, sash windows. Serving Oaklands, Wilshere Park.",
-  "door-repairs.hero-paragraph": "Door repairs in Welwyn Garden City are handled by our experienced locksmith team, drawing on expert locksmithing knowledge to restore your doors to full working order. Whether your uPVC, composite or timber door is dropping, catching, or won't close properly, we diagnose and fix the underlying cause. Our technicians perform hinge adjustment, frame alignment and multipoint realignment to eliminate draughts and ensure smooth operation.",
-  "door-repairs.local-context-body": "Welwyn Garden City's mixed housing stock creates varied door repair demands. The interwar villas and semi-detached properties of Hall Grove often feature original timber frames and period hardware that require careful alignment and specialist handling. Post-war semis in Panshanger, by contrast, typically have lighter frames prone to dropping and misalignment from settlement and wear, necessitating frame reinforcement alongside hardware adjustment.\n\nOriginal 1920s–30s properties frequently retain period locks, sash furniture, and non-standard frame dimensions that complicate modern repairs. Many post-war homes lack proper frame bracing or hinges rated for contemporary door weights, meaning door repairs often involve upgrading hardware to contemporary standards while preserving existing joinery integrity—a consideration particularly relevant across the estate's substantial suburban expansion areas.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Haldens semis often drop or become misaligned?",
-      "a": "1960s semi-detached homes in Haldens commonly experience door drop due to timber frame settlement and wear on original hinges over decades. We repair and rehang doors to restore proper alignment and smooth operation on frames that have naturally shifted."
-    },
-    {
-      "q": "Can you repair the original sash window frames on my interwar Welwyn Garden City property?",
-      "a": "Yes—our team has specialist experience with period wooden frames and original hardware found in the garden city's 1920s-30s properties. We carefully repair and adjust sash windows and their associated door hardware without compromising the period character of your home."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Welwyn Garden City – Same-Day",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Welwyn Garden City. Espagnolette & shootbolt locks fixed on period homes & post-war semis. Emergency callouts available.",
-  "window-lock-repair-replacement.hero-paragraph": "Our expert locksmiths in Welwyn Garden City specialise in window lock repair and replacement, combining traditional locksmithing with modern techniques. Whether your windows won't lock or handles have broken, we diagnose and repair espagnolette mechanisms and shootbolt locks to restore full security. All work meets insurance-compliant standards, ensuring your home remains properly protected.",
-  "window-lock-repair-replacement.local-context-body": "Interwar properties in Hall Grove feature original sash windows with period-appropriate locks requiring specialist handling during repair or replacement. Post-war semis across Hatfield Hyde typically have standard casement windows with espagnolette mechanisms that wear heavily with age, making lock renewal a common maintenance need across the estate's consistent housing types.\n\nMany of Welwyn Garden City's 1920s–30s homes retain listed-building status or conservation-area designation, which restricts lock replacement to sympathetic designs matching original specifications. Older wooden frames often need reinforcement work alongside lock fitting, as decades of movement and weather exposure compromise the structural integrity necessary to support modern shootbolt systems securely.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash windows in Welwyn Garden City's interwar properties need specialist window lock repair?",
-      "a": "Original 1920s-30s sash windows in the garden city's period homes often have delicate frames and heritage espagnolette locks that require careful handling and specialist knowledge to repair without damage. We understand these older mechanisms and can restore or replace them while respecting the integrity of your property."
-    },
-    {
-      "q": "My semi-detached in The Ryde has a broken shootbolt lock—is this a common problem?",
-      "a": "Yes; post-war semis across The Ryde and similar estates frequently experience shootbolt lock failure due to age and frame movement. We regularly repair and upgrade these locks on comparable properties, and can advise on reinforcing older window frames if needed."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Welwyn Garden City | Professional Fitting",
-  "safe-installation.meta.description": "Safe installation in Welwyn Garden City for interwar homes & post-war semis. Expert anchoring, insurance documentation & secure positioning.",
-  "safe-installation.hero-paragraph": "Safe installation in Welwyn Garden City by our experienced locksmith specialists combines precision locksmithing with secure placement. Whether you need a new safe fitted or require AiS approved positioning for insurance purposes, we ensure proper floor anchoring and wall mounting to prevent theft. Our technicians assess each location carefully to guarantee your valuables remain protected.",
-  "safe-installation.local-context-body": "Properties in Haldens and other 1960s suburbs feature solid brick semis with consistent wall construction, making them straightforward for wall-safe installation. Detached homes in Birchwood offer additional flexibility for floor safes or freestanding units. The post-war housing stock generally tolerates cavity wall penetration well, though older interwar properties require structural assessment before anchoring work begins.\n\nMany original 1920s–30s properties retain plaster-over-brick internal walls that need careful drilling to avoid damage. Insurance requirements in Welwyn Garden City typically mandate anchoring certification for high-value installations, so documentation of fixing methods and wall integrity becomes essential. Post-war construction standards make modern cavity anchors reliable, but period properties often need bespoke mounting solutions.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in the older interwar properties typical of Welwyn Garden City's original garden city homes?",
-      "a": "Yes, we have extensive experience fitting safes in 1920s–30s period properties across the planned estate. We take care to work with original plasterwork, joists and wall construction, and ensure all anchoring is sympathetic to these older structures while meeting modern insurance requirements."
-    },
-    {
-      "q": "Can you install a safe in a post-war semi like those common in Peartree and Stanborough?",
-      "a": "Absolutely. Most post-war semis in those areas have standard cavity walls and solid floor construction that are straightforward for safe installation. We'll assess your specific property, recommend wall or floor mounting, and provide the insurance documentation your provider requires."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Welwyn Garden City – Fast Local Service",
-  "safe-opening.meta.description": "Safe opening in Welwyn Garden City for lost keys, combinations & lockouts. Non-destructive service for homes in Oaklands, Hatfield Hyde & beyond.",
-  "safe-opening.hero-paragraph": "Our Welwyn Garden City locksmith team specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians use precision combination dial manipulation and advanced opening techniques to resolve your situation quickly and professionally.",
-  "safe-opening.local-context-body": "Safe deposits and home safes are common in Welwyn Garden City's detached properties and period homes around Welwyn, where original interwar construction often includes built-in wall safes or Victorian-era strongboxes. Homeowners in these established neighbourhoods frequently require non-destructive opening when combinations have been lost or keys misplaced over decades of ownership, making the service particularly relevant across the garden city's varied residential stock.\n\nMany properties in Handside and surrounding interwar terraces feature safes installed during the mid-20th century with mechanical combination locks that lack modern reset mechanisms. Non-destructive opening requires knowledge of period lock engineering and careful handling to avoid damage to original plasterwork and joinery, particularly in properties with listed-building status or conservation area protections common to the planned estate's heritage core.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've lost the combination to a safe in my interwar home in Welwyn Garden City – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties across Welwyn Garden City, including the original 1920s–30s homes common in areas like Birchwood and The Ryde. We'll manipulate the lock carefully to preserve both the safe and your home's character."
-    },
-    {
-      "q": "My post-war semi in Wilshere Park has a safe I can't access – how quickly can you help?",
-      "a": "We offer same-day safe opening for Welwyn Garden City residents; call 01707 568057 to book. Many post-war properties like those in Wilshere Park have safes with worn or forgotten combinations, and we can open them non-destructively without disturbing your walls or fixtures."
-    }
-  ],
-  "home.areas-covered": [
-    "Birchwood",
-    "Burnham Green",
-    "Digswell",
-    "Haldens",
-    "Hall Grove",
-    "Handside",
-    "Hatfield Garden Village",
-    "Hatfield Hyde",
-    "Knightsfield",
-    "Lemsford",
-    "Oaklands",
-    "Panshanger",
-    "Peartree",
-    "Stanborough",
-    "The Ryde",
-    "Welwyn",
-    "Wilshere Park"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "The Ryde",
-    "Hatfield Garden Village",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside"
-  ],
-  "locked-out.areas-covered": [
-    "Welwyn",
-    "Lemsford",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Burnham Green",
-    "Hall Grove",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Panshanger",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Digswell",
-    "Haldens",
-    "Knightsfield",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde",
-    "Panshanger"
-  ],
-  "lock-changes.areas-covered": [
-    "Knightsfield",
-    "Haldens",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde",
-    "Panshanger"
-  ],
-  "lock-repairs.areas-covered": [
-    "Stanborough",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Birchwood",
-    "Handside",
-    "The Ryde",
-    "Panshanger"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Peartree",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Oaklands",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde"
-  ],
-  "door-repairs.areas-covered": [
-    "Wilshere Park",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Hatfield Hyde",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "Handside",
-    "The Ryde"
-  ],
-  "safe-installation.areas-covered": [
-    "Handside",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Birchwood",
-    "The Ryde",
-    "Panshanger"
-  ],
-  "safe-opening.areas-covered": [
-    "Birchwood",
-    "Haldens",
-    "Knightsfield",
-    "Digswell",
-    "Stanborough",
-    "Handside",
-    "The Ryde",
-    "Panshanger"
-  ]
+ "meta.title": "Locksmith Welwyn Garden City | Local Locksmithing 24/7",
+ "meta.description": "Trusted locksmith in Welwyn Garden City serving interwar and post-war homes. Emergency lock repairs, changes, security upgrades, and period property specialists.",
+ "home.hero-paragraph": "Welwyn Garden City locksmith services specialising in locksmithing and expert lock assistance are available when you need them most. We handle emergency lockouts, lock changes and security upgrades with non-destructive entry techniques. Our DBS checked technicians operate 24/7, fully insured, with no call-out fees for genuine emergencies.",
+ "home.local-context-heading": "Securing Welwyn Garden City's Mixed Housing Stock",
+ "home.local-context-body": "Welwyn Garden City's mix of interwar garden city properties and post-war suburban stock creates distinct locksmith demands. Period homes feature original sash windows and heritage locks requiring specialist handling, while semis across areas like Knightsfield often need security upgrades on frames not designed for modern hardware. Many post-war properties lack adequate additional locks, making multi-lock installations a routine requirement.\n\nProperties in the planned estate layout frequently require consistent security solutions across similar door frames and lock mechanisms. Landlords managing multiple units should verify whether HMO licensing applies, as shared accommodation may trigger specific security requirements including compliant locks on communal doors. Original frames in older properties sometimes present challenges when fitting modern locks, necessitating careful assessment before installation.",
+ "home.local-faqs": [
+  {
+   "q": "Do you work on original sash windows and period locks in Welwyn's interwar properties?",
+   "a": "Yes. Many homes in the historic town centre and original garden city core feature 1920s\u201330s sash windows and period locks that need specialist handling. We have experience with these original frames and can upgrade security without compromising period features."
+  },
+  {
+   "q": "I have a post-war semi in Digswell or Lemsford\u2014can you add extra locks to my older frames?",
+   "a": "Absolutely. Post-war semis across the planned estate often need security upgrades on frames not originally designed for modern multi-point locks. We assess your frame type and fit additional locks or reinforce existing ones to meet current security standards."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Welwyn Garden City | 24/7 Lockouts",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Welwyn Garden City. Locked out? Key snapped? Fast response, lock repairs & replacements for Peartree semis and all properties.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Welwyn Garden City combines expert locksmithing with rapid response to get you back inside. Whether you're locked out, have a snapped key, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Welwyn Garden City often involve the post-war semis that dominate areas like Hatfield Hyde, where aging original locks and worn door frames create frequent callout scenarios. The planned estate layout means multiple similar properties within short distances, reducing response times for urgent lockouts, snapped keys, and doors that won't secure after attempted break-ins.\n\nPeriod properties across the city, particularly the interwar villas in Oaklands, frequently present complications for emergency work due to original sash window catches and heritage lock mechanisms that require specialist handling. Modern multi-point locks retrofitted to older door frames can jam unpredictably, and many householders discover security vulnerabilities only after lockouts occur, necessitating rapid assessment of both immediate access and subsequent reinforcement options.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my interwar semi in Hall Grove\u2014will you damage my original sash windows or period locks?",
+   "a": "No. Our locksmiths are trained in handling original 1920s-30s fixtures common throughout Hall Grove and other heritage parts of Welwyn Garden City. We use non-destructive entry methods and specialist tools to preserve period joinery and locks wherever possible."
+  },
+  {
+   "q": "My post-war semi in Panshanger has been broken into. Can you attend urgently and upgrade my locks the same day?",
+   "a": "Yes. We operate 24/7 emergency callouts across Panshanger and similar post-war suburban areas. After securing your property and assessing damage, we can fit additional locks and modern security hardware to your existing frames on the same visit."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Welwyn Garden City | 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Welwyn Garden City? Fast non-destructive entry for homes & semis. Lost or snapped keys? Emergency locksmith available 24/7.",
+ "locked-out.hero-paragraph": "When you're locked out in Welwyn Garden City, our experienced locksmiths specialise in locksmithing techniques that restore your access quickly. Whether you've lost your keys, had them lock inside, or suffered a snapped key, we use non-destructive entry methods to gain access without causing damage to your property.",
+ "locked-out.local-context-body": "Properties in Handside and across the planned estate frequently feature original sash windows and period frames alongside later modifications. Semi-detached homes built in the interwar decades often retain their initial lock mechanisms, which require specialist non-destructive techniques when residents are locked out. Post-war additions to the housing stock sometimes present different challenges, with varied frame materials and lock fitments that demand tailored entry approaches.\n\nMany of the older terrace and semi-detached properties in Welwyn Garden City's core areas lack modern multi-point locking systems, meaning single-lock entry points are common. This affects lockout callout strategy, as the distinction between original period hardware and later replacements determines whether traditional lock-picking or non-destructive frame techniques are most appropriate. Listed-building status on some interwar properties also restricts the methods available for safe, compliant entry without damage to original joinery.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my interwar semi in Stanborough\u2014will you damage my original sash windows or period locks?",
+   "a": "No. Our locksmiths specialise in non-destructive entry on period properties common across Welwyn Garden City's 1920s\u201330s garden city stock. We'll manipulate or pick your original locks safely rather than force frames or glazing."
+  },
+  {
+   "q": "How quickly can you get to a lockout in Knightsfield or Haldens?",
+   "a": "We're based locally in Welwyn Garden City and typically attend lockouts across our post-war semi-detached suburbs within 30\u201345 minutes. Call 01707 568057 and we'll give you a precise ETA."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Welwyn Garden City | Semi-Detached Homes",
+ "broken-key-removal.meta.description": "Broken key removal in Welwyn Garden City for period and modern homes. Expert extraction from euro cylinders, mortice locks & night latches. Fast professional service.",
+ "broken-key-removal.hero-paragraph": "Our Welwyn Garden City locksmith specialises in broken key removal using expert locksmithing techniques. Whether you're dealing with a snapped or sheared key stuck in your lock, we employ non-destructive methods and precision key extractor tools to safely retrieve the fragments. We handle euro cylinders and mortice locks with equal competence, restoring access without unnecessary damage.",
+ "broken-key-removal.local-context-body": "Welwyn Garden City's interwar properties in areas like Handside feature original mortice locks and period door frames that demand specialist extraction technique. Post-war semis across Peartree and beyond, while structurally sound, often retain aging euro cylinders prone to key breakage from wear. The planned estate's consistent housing stock means broken key callouts follow predictable patterns tied to lock age and material fatigue across comparable properties.\n\nMany of the city's original 1920s\u201330s doors incorporate hardwood frames and period hardware where cylinder removal requires careful handling to avoid cosmetic or structural damage. Post-war properties present a different challenge: cheap replacement cylinders fitted to original frames can jam or fracture keys more readily, and distinguishing between salvageable locks and those requiring full replacement is common on callouts across the suburban stock.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do interwar sash windows in Welwyn Garden City properties often need broken key removal?",
+   "a": "Original 1920s\u201330s garden city homes frequently feature period sash window locks with delicate internal mechanisms; a snapped key can jam easily in these older euro cylinders. We extract broken keys without damaging the authentic frame or lock body, preserving your period property's character."
+  },
+  {
+   "q": "I'm renting a post-war semi in Stanborough\u2014can you remove a broken key from my night latch?",
+   "a": "Yes, broken key removal from night latches is a common callout across Stanborough's post-war semis. We'll extract the snapped key cleanly and check the lock cylinder isn't damaged before you need to hand keys back to your landlord."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Welwyn Garden City | Post-Break-in Locks",
+ "burglar-repair-service.meta.description": "Burglar repair service in Welwyn Garden City. Post-break-in lock changes, door repairs and security upgrades for semis and period homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair in Welwyn Garden City requires expert locksmith attention, and our locksmithing specialists understand forced entry damage thoroughly. We assess structural integrity and recommend solutions such as door reinforcement or TS007 anti-snap cylinders to restore security. All work meets insurance-compliant standards, ensuring your property protection is comprehensive and certified to current safety requirements.",
+ "burglar-repair-service.local-context-body": "Post-war semi-detached homes across Hatfield Hyde and beyond frequently present security vulnerabilities following break-ins. Original frames and outdated lock mechanisms are common in this stock, requiring prompt assessment and reinforcement. Burglar repair work here typically involves replacing compromised locks, repairing frame damage, and installing additional security measures to meet insurance requirements and prevent further entry attempts on similar neighbouring properties.\n\nMany interwar properties in Hall Grove retain period sash windows and original door furniture, which complicates post-break-in repairs. Locksmiths must balance insurance-standard reinstatement with preservation of period features where listed-building status or conservation guidelines apply. Frame condition after forced entry often determines whether repair is viable or replacement necessary\u2014a critical consideration given the age and construction methods of much Welwyn Garden City's residential stock.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Can you repair sash windows after a break-in on interwar properties like those in Oaklands?",
+   "a": "Yes. Original sash frames in Welwyn Garden City's 1920s-30s homes require specialist handling during repair. We're experienced in reinstating period locks and frames to insurance-quality standard without compromising the window's integrity or period character."
+  },
+  {
+   "q": "How quickly can you repair and upgrade security on post-war semis after a break-in?",
+   "a": "We typically attend within hours for emergency board-up and damage assessment on properties like those in The Ryde and Wilshere Park. We then handle frame repair, lock replacement, and additional security installation\u2014all documented for your insurance claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Welwyn Garden City | Semis & Period Homes",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Welwyn Garden City\u2014same-day response for smashed doors, windows. Secures semis, terraces after break-ins, storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Our emergency boarding up locksmith service in Welwyn Garden City combines expert locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises using heavy-duty plywood boards and security screws. Our 24/7 response ensures your property remains weatherproof and insurance-compliant when you need it most.",
+ "emergency-boarding-up.local-context-body": "The planned estate layout across Welwyn Garden City means emergency boarding calls often cluster among similar property types. Semi-detached homes in The Ryde and comparable post-war suburbs frequently require rapid window and door boarding following break-ins or severe weather. The standardised construction of these properties allows swift assessment and boarding application, though frame condition varies considerably depending on maintenance history and age.\n\nMany of the interwar properties throughout the garden city feature timber sash windows and period door frames that demand careful handling during boarding. Modern plywood and metal fixings can damage original joinery, and listed-building status in some streets restricts boarding methods; temporary protection must be coordinated with local authority notification before permanent repairs proceed. Post-war properties generally accept standard boarding techniques more readily, though older frames may require additional reinforcement to hold fixings securely.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Why do I need specialist boarding up for my interwar sash windows in Welwyn Garden City?",
+   "a": "Original 1920s-30s properties across the garden city have period frames that are easily damaged by standard boarding methods. Our team understands how to secure these without causing further harm to the wood or glazing bars, preserving the integrity of your home while keeping it safe."
+  },
+  {
+   "q": "How quickly can you board up a break-in at a post-war semi in The Ryde?",
+   "a": "We're based locally in Welwyn Garden City and aim to attend emergency boarding jobs within 1-2 hours. Post-war semis are common across The Ryde, so we carry standard materials and understand the typical door and window configurations, meaning faster response and setup."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Welwyn Garden City | Semi-Detached Homes",
+ "lock-changes.meta.description": "Lock changes in Welwyn Garden City for new homes, lost keys & security upgrades. Serving Birchwood, The Ryde & period properties across the area.",
+ "lock-changes.hero-paragraph": "Lock changes in Welwyn Garden City require a skilled locksmith with expertise in locksmithing to ensure your property security. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders that meet modern standards. Our technicians specialise in multipoint mechanisms and euro cylinder replacement for both residential and commercial premises.",
+ "lock-changes.local-context-body": "Lock changes in Welwyn Garden City frequently address security upgrades across the post-war semi-detached stock that characterizes much of Stanborough and surrounding areas. Many homeowners moving into these properties discover original or outdated locks inadequate for modern security needs, making lock replacement a priority during handovers. The garden city's residential consistency means locksmiths encounter similar door frames and lock installations across multiple properties, enabling efficient service delivery for both individual households and landlords managing multiple units.\n\nThe interwar properties interspersed throughout the planned estate often retain period-appropriate locks and timber sash windows that require careful handling during replacement work. Older frames may need reinforcement or specialist attention to accommodate modern locking mechanisms without compromising original joinery. Post-war semis typically feature standard domestic door hardware, though variations in frame construction and age mean lock changes sometimes necessitate minor adjustments to ensure proper fit and operation.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "Do you handle lock changes on original sash windows in interwar properties across Welwyn Garden City?",
+   "a": "Yes. Many homes in the garden city's original 1920s\u201330s stock have period locks and frames that need specialist care. We're experienced in safely replacing these without damaging the sashes, and can source period-appropriate hardware where needed."
+  },
+  {
+   "q": "I've just moved into a post-war semi in The Ryde and want to upgrade the locks\u2014how quickly can you fit new ones?",
+   "a": "We offer same-day lock changes on post-war semis throughout Welwyn Garden City, including The Ryde. Most standard replacements take 30\u201360 minutes, and we can fit multiple locks if you want to secure older door frames with additional security."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Welwyn Garden City \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Lock repairs in Welwyn Garden City for interwar & post-war homes. Expert multipoint, mortice & night latch fixes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs in Welwyn Garden City from our experienced locksmith specialising in locksmithing solutions. Whether you're dealing with stiff locks, jammed mechanisms, or keys that won't turn smoothly, our technicians provide precise gearbox repair and mortice maintenance. All work comes with manufacturer warranty for complete peace of mind.",
+ "lock-repairs.local-context-body": "Stanborough's post-war semis frequently present worn multipoint locks and night latches that have reached the end of their service life. These homes typically feature original or early-replacement door frames and hardware installed decades ago, making gearbox repairs and mortice lock restoration common requirements across the neighbourhood's consistent housing stock.\n\nMany properties across the planned estate retain aluminium or steel frames from the 1950s\u201370s that can complicate lock repair work. Original sash windows and period doors in interwar properties demand knowledge of traditional lock mechanisms; modern replacement parts don't always align with older frame tolerances, requiring careful assessment before repair or replacement decisions are made.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do the original sash windows in Welwyn's interwar properties need specialist lock repair?",
+   "a": "Many homes in Welwyn's historic garden city core feature period sash windows with traditional mortice locks that require careful handling to avoid damage. Our locksmiths have the knowledge to repair these original mechanisms without compromising the character or security of your property."
+  },
+  {
+   "q": "My semi-detached in Handside has a broken multipoint lock on the front door\u2014how quickly can you repair it?",
+   "a": "We typically attend lock repairs across Handside and similar post-war semis within hours. Multipoint lock repairs are one of our most common callouts in the area, so we carry the right parts and expertise to get you secure again fast."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Welwyn Garden City | Semis & Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Welwyn Garden City & Handside. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for period and modern homes.",
+ "door-lock-installation.hero-paragraph": "Our door lock installation locksmithing service in Welwyn Garden City ensures your property benefits from professional expertise. Whether you're upgrading security with TS007 anti-snap cylinders, fitting new locks to meet insurance requirements, or installing BS3621 mortice locks, our locksmiths deliver reliable solutions. We assess your needs and install systems that protect your home to current security standards.",
+ "door-lock-installation.local-context-body": "The mixed housing stock across Welwyn Garden City\u2014from original 1920s\u201330s properties to substantial post-war suburban expansion\u2014creates varied door lock installation requirements. Semi-detached homes in areas like Knightsfield (1960s stock) typically feature standard timber frames compatible with modern BS3621 mortice locks and TS007 anti-snap cylinders, though many lack adequate security provision and benefit from multipoint upgrades. Period interwar properties elsewhere on the estate often retain original frames requiring careful assessment before fitting modern hardware.\n\nInstallations across the planned estate frequently encounter timber doors of varying thickness and condition; period properties may have narrower stile widths that limit mortice lock positioning, while post-war semis generally accommodate standard fittings without complication. Listed-building status applies to some original garden city properties, requiring compliance with conservation guidelines before lock installation work proceeds. The prevalence of older single-cylinder locks in post-war housing means demand for anti-snap upgrades is consistently high across the residential base.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install locks on the original sash windows in Handside interwar properties?",
+   "a": "Yes. We specialise in fitting locks to period sash windows found throughout Handside and similar 1920s\u201330s properties. Our fitters understand the careful handling these original frames require to avoid damage while ensuring secure, functional installation."
+  },
+  {
+   "q": "Can you upgrade locks on the post-war semis in Peartree that don't have modern security?",
+   "a": "Absolutely. Many Peartree post-war semis lack adequate modern security. We fit TS007 anti-snap cylinders and multipoint locks to strengthen older frames, and can advise on additional locks where your current setup is outdated."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Welwyn Garden City | Semis & Period Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in Welwyn Garden City & Handside. Like-for-like swaps or security upgrades. Period & modern homes. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our Welwyn Garden City locksmith specialises in professional door lock replacement and locksmithing services tailored to your security needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift solutions. We perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
+ "door-lock-replacement.local-context-body": "Wilshere Park's 1960s semis and the interwar properties around Oaklands both commonly require door lock replacement due to age-related wear and security concerns. Original period locks on older homes often become unreliable, whilst post-war suburban stock frequently lacks modern security provision. Lock upgrades across these neighborhoods typically involve both straightforward like-for-like swaps on existing frames and specification of higher-security cylinders to meet contemporary standards.\n\nMany properties in Welwyn Garden City feature timber-framed doors from their original build period, which can complicate fitting modern locks if frame damage or misalignment has occurred. Listed interwar homes in particular may require locks that preserve period aesthetics while meeting functional requirements, necessitating careful assessment before replacement to avoid unnecessary structural alteration to original joinery.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have an original 1920s sash window lock in my interwar Welwyn Garden City home\u2014can you replace it with something modern?",
+   "a": "Yes. We specialise in replacing period locks on original interwar properties across Welwyn Garden City without damaging sash frames or period joinery. We'll source a compatible modern lock that fits your existing frame and upgrades security."
+  },
+  {
+   "q": "We're in a post-war semi in Panshanger and the front door lock is worn out\u2014how quickly can you replace it?",
+   "a": "We offer same-day door lock replacement for post-war semis like yours throughout Panshanger and the wider area. Call 01707 568057 to book, and we'll attend with stock locks ready to swap."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Welwyn Garden City | Semi-Detached Homes",
+ "door-repairs.meta.description": "Door repairs in Welwyn Garden City for period and modern homes. Misaligned doors, hardware fixes, sash windows. Serving Oaklands, Wilshere Park.",
+ "door-repairs.hero-paragraph": "Door repairs in Welwyn Garden City are handled by our experienced locksmith team, drawing on expert locksmithing knowledge to restore your doors to full working order. Whether your uPVC, composite or timber door is dropping, catching, or won't close properly, we diagnose and fix the underlying cause. Our technicians perform hinge adjustment, frame alignment and multipoint realignment to eliminate draughts and ensure smooth operation.",
+ "door-repairs.local-context-body": "Welwyn Garden City's mixed housing stock creates varied door repair demands. The interwar villas and semi-detached properties of Hall Grove often feature original timber frames and period hardware that require careful alignment and specialist handling. Post-war semis in Panshanger, by contrast, typically have lighter frames prone to dropping and misalignment from settlement and wear, necessitating frame reinforcement alongside hardware adjustment.\n\nOriginal 1920s\u201330s properties frequently retain period locks, sash furniture, and non-standard frame dimensions that complicate modern repairs. Many post-war homes lack proper frame bracing or hinges rated for contemporary door weights, meaning door repairs often involve upgrading hardware to contemporary standards while preserving existing joinery integrity\u2014a consideration particularly relevant across the estate's substantial suburban expansion areas.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Haldens semis often drop or become misaligned?",
+   "a": "1960s semi-detached homes in Haldens commonly experience door drop due to timber frame settlement and wear on original hinges over decades. We repair and rehang doors to restore proper alignment and smooth operation on frames that have naturally shifted."
+  },
+  {
+   "q": "Can you repair the original sash window frames on my interwar Welwyn Garden City property?",
+   "a": "Yes\u2014our team has specialist experience with period wooden frames and original hardware found in the garden city's 1920s-30s properties. We carefully repair and adjust sash windows and their associated door hardware without compromising the period character of your home."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Welwyn Garden City \u2013 Same-Day",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Welwyn Garden City. Espagnolette & shootbolt locks fixed on period homes & post-war semis. Emergency callouts available.",
+ "window-lock-repair-replacement.hero-paragraph": "Our expert locksmiths in Welwyn Garden City specialise in window lock repair and replacement, combining traditional locksmithing with modern techniques. Whether your windows won't lock or handles have broken, we diagnose and repair espagnolette mechanisms and shootbolt locks to restore full security. All work meets insurance-compliant standards, ensuring your home remains properly protected.",
+ "window-lock-repair-replacement.local-context-body": "Interwar properties in Hall Grove feature original sash windows with period-appropriate locks requiring specialist handling during repair or replacement. Post-war semis across Hatfield Hyde typically have standard casement windows with espagnolette mechanisms that wear heavily with age, making lock renewal a common maintenance need across the estate's consistent housing types.\n\nMany of Welwyn Garden City's 1920s\u201330s homes retain listed-building status or conservation-area designation, which restricts lock replacement to sympathetic designs matching original specifications. Older wooden frames often need reinforcement work alongside lock fitting, as decades of movement and weather exposure compromise the structural integrity necessary to support modern shootbolt systems securely.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash windows in Welwyn Garden City's interwar properties need specialist window lock repair?",
+   "a": "Original 1920s-30s sash windows in the garden city's period homes often have delicate frames and heritage espagnolette locks that require careful handling and specialist knowledge to repair without damage. We understand these older mechanisms and can restore or replace them while respecting the integrity of your property."
+  },
+  {
+   "q": "My semi-detached in The Ryde has a broken shootbolt lock\u2014is this a common problem?",
+   "a": "Yes; post-war semis across The Ryde and similar estates frequently experience shootbolt lock failure due to age and frame movement. We regularly repair and upgrade these locks on comparable properties, and can advise on reinforcing older window frames if needed."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Welwyn Garden City | Professional Fitting",
+ "safe-installation.meta.description": "Safe installation in Welwyn Garden City for interwar homes & post-war semis. Expert anchoring, insurance documentation & secure positioning.",
+ "safe-installation.hero-paragraph": "Safe installation in Welwyn Garden City by our experienced locksmith specialists combines precision locksmithing with secure placement. Whether you need a new safe fitted or require AiS approved positioning for insurance purposes, we ensure proper floor anchoring and wall mounting to prevent theft. Our technicians assess each location carefully to guarantee your valuables remain protected.",
+ "safe-installation.local-context-body": "Properties in Haldens and other 1960s suburbs feature solid brick semis with consistent wall construction, making them straightforward for wall-safe installation. Detached homes in Birchwood offer additional flexibility for floor safes or freestanding units. The post-war housing stock generally tolerates cavity wall penetration well, though older interwar properties require structural assessment before anchoring work begins.\n\nMany original 1920s\u201330s properties retain plaster-over-brick internal walls that need careful drilling to avoid damage. Insurance requirements in Welwyn Garden City typically mandate anchoring certification for high-value installations, so documentation of fixing methods and wall integrity becomes essential. Post-war construction standards make modern cavity anchors reliable, but period properties often need bespoke mounting solutions.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in the older interwar properties typical of Welwyn Garden City's original garden city homes?",
+   "a": "Yes, we have extensive experience fitting safes in 1920s\u201330s period properties across the planned estate. We take care to work with original plasterwork, joists and wall construction, and ensure all anchoring is sympathetic to these older structures while meeting modern insurance requirements."
+  },
+  {
+   "q": "Can you install a safe in a post-war semi like those common in Peartree and Stanborough?",
+   "a": "Absolutely. Most post-war semis in those areas have standard cavity walls and solid floor construction that are straightforward for safe installation. We'll assess your specific property, recommend wall or floor mounting, and provide the insurance documentation your provider requires."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Welwyn Garden City \u2013 Fast Local Service",
+ "safe-opening.meta.description": "Safe opening in Welwyn Garden City for lost keys, combinations & lockouts. Non-destructive service for homes in Oaklands, Hatfield Hyde & beyond.",
+ "safe-opening.hero-paragraph": "Our Welwyn Garden City locksmith team specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians use precision combination dial manipulation and advanced opening techniques to resolve your situation quickly and professionally.",
+ "safe-opening.local-context-body": "Safe deposits and home safes are common in Welwyn Garden City's detached properties and period homes around Welwyn, where original interwar construction often includes built-in wall safes or Victorian-era strongboxes. Homeowners in these established neighbourhoods frequently require non-destructive opening when combinations have been lost or keys misplaced over decades of ownership, making the service particularly relevant across the garden city's varied residential stock.\n\nMany properties in Handside and surrounding interwar terraces feature safes installed during the mid-20th century with mechanical combination locks that lack modern reset mechanisms. Non-destructive opening requires knowledge of period lock engineering and careful handling to avoid damage to original plasterwork and joinery, particularly in properties with listed-building status or conservation area protections common to the planned estate's heritage core.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've lost the combination to a safe in my interwar home in Welwyn Garden City \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties across Welwyn Garden City, including the original 1920s\u201330s homes common in areas like Birchwood and The Ryde. We'll manipulate the lock carefully to preserve both the safe and your home's character."
+  },
+  {
+   "q": "My post-war semi in Wilshere Park has a safe I can't access \u2013 how quickly can you help?",
+   "a": "We offer same-day safe opening for Welwyn Garden City residents; call 01707 568057 to book. Many post-war properties like those in Wilshere Park have safes with worn or forgotten combinations, and we can open them non-destructively without disturbing your walls or fixtures."
+  }
+ ],
+ "home.areas-covered": [
+  "Digswell",
+  "Haldens",
+  "Hall Grove",
+  "Handside",
+  "Hatfield Hyde",
+  "Knightsfield",
+  "Lemsford",
+  "Panshanger",
+  "Peartree"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Lemsford",
+  "Panshanger",
+  "Peartree",
+  "Hall Grove",
+  "Hatfield Hyde"
+ ],
+ "locked-out.areas-covered": [
+  "Lemsford",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Panshanger",
+  "Peartree"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Hall Grove",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Hatfield Hyde",
+  "Lemsford",
+  "Panshanger",
+  "Peartree"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Panshanger",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Peartree",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Lemsford"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Digswell",
+  "Haldens",
+  "Knightsfield",
+  "Handside",
+  "Panshanger",
+  "Peartree",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Lemsford"
+ ],
+ "lock-changes.areas-covered": [
+  "Knightsfield",
+  "Haldens",
+  "Digswell",
+  "Handside",
+  "Panshanger",
+  "Hatfield Hyde",
+  "Lemsford",
+  "Peartree",
+  "Hall Grove"
+ ],
+ "lock-repairs.areas-covered": [
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Panshanger",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Lemsford",
+  "Peartree"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Peartree",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Lemsford",
+  "Panshanger",
+  "Hall Grove",
+  "Hatfield Hyde"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Hatfield Hyde",
+  "Lemsford",
+  "Panshanger",
+  "Peartree",
+  "Hall Grove"
+ ],
+ "door-repairs.areas-covered": [
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Lemsford",
+  "Panshanger",
+  "Peartree"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Hatfield Hyde",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Lemsford",
+  "Panshanger",
+  "Peartree",
+  "Hall Grove"
+ ],
+ "safe-installation.areas-covered": [
+  "Handside",
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Panshanger",
+  "Peartree",
+  "Hall Grove",
+  "Hatfield Hyde",
+  "Lemsford"
+ ],
+ "safe-opening.areas-covered": [
+  "Haldens",
+  "Knightsfield",
+  "Digswell",
+  "Handside",
+  "Panshanger",
+  "Lemsford",
+  "Peartree",
+  "Hall Grove",
+  "Hatfield Hyde"
+ ]
 }
