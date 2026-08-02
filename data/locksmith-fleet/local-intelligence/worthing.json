@@ -1,144 +1,143 @@
 {
-  "location": "Worthing",
-  "neighborhoods": [
-    {
-      "name": "Broadwater",
-      "era": "Victorian/Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established residential area"
-    },
-    {
-      "name": "Durrington",
-      "era": "interwar/post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area"
-    },
-    {
-      "name": "Findon Valley",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ],
-      "notes": "newer residential development"
-    },
-    {
-      "name": "Goring-by-Sea",
-      "era": "Edwardian/interwar",
-      "types": [
-        "villa",
-        "detached",
-        "flat"
-      ],
-      "notes": "coastal resort character, holiday lets"
-    },
-    {
-      "name": "High Salvington",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established hillside area"
-    },
-    {
-      "name": "Salvington",
-      "era": "interwar/post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential suburb"
-    },
-    {
-      "name": "Sompting",
-      "era": "mixed",
-      "types": [
-        "terrace",
-        "semi-detached",
-        "new-build"
-      ],
-      "notes": "mixed ages from Victorian to modern"
-    },
-    {
-      "name": "West Worthing",
-      "era": "Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established seafront/near-seafront area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "detached"
-    ],
-    "era": "predominantly Victorian-Edwardian with significant interwar/post-war expansion",
-    "notable": "Coastal resort legacy with holiday lets; strong Victorian/Edwardian housing stock vulnerable to period lock wear."
+ "location": "Worthing",
+ "neighborhoods": [
+  {
+   "name": "Broadwater",
+   "era": "Victorian/Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established residential area"
   },
-  "locksmith_relevant": [
-    "Worthing's extensive Victorian-Edwardian housing stock features older sash windows and original mortice locks requiring specialist servicing.",
-    "Goring-by-Sea and coastal areas see high holiday let turnover, driving frequent lock changes and emergency access callouts.",
-    "Post-war semis in Durrington and Salvington commonly need upvc door lock repairs and modern security upgrades."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Worthing",
-    "overpass": "OSM Overpass bbox query, 8 named areas",
-    "coords": {
-      "lat": 50.8115402,
-      "lon": -0.3699697
-    }
+  {
+   "name": "Durrington",
+   "era": "interwar/post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area"
   },
-  "generated_at": "2026-05-13T12:24:56.488Z",
-  "all_areas": [
-    "Broadwater",
-    "Durrington",
-    "Findon Valley",
-    "Goring-by-Sea",
-    "High Salvington",
-    "Salvington",
-    "Sompting",
-    "West Worthing"
-  ],
-  "geo": {
-    "latitude": 50.8115402,
-    "longitude": -0.3699697
+  {
+   "name": "Findon Valley",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ],
+   "notes": "newer residential development"
   },
-  "postcode_districts": [
-    "BN11",
-    "BN12",
-    "BN13",
-    "BN14"
-  ],
-  "postcode_meta": {
-    "BN12": {
-      "count": 1,
-      "sample": "BN12 4PE",
-      "admin": "Worthing"
-    },
-    "BN13": {
-      "count": 3,
-      "sample": "BN13 2NP",
-      "admin": "Worthing"
-    },
-    "BN14": {
-      "count": 2,
-      "sample": "BN14 0HE",
-      "admin": "Worthing"
-    },
-    "BN11": {
-      "count": 1,
-      "sample": "BN11 4LF",
-      "admin": "Worthing"
-    }
+  {
+   "name": "Goring-by-Sea",
+   "era": "Edwardian/interwar",
+   "types": [
+    "villa",
+    "detached",
+    "flat"
+   ],
+   "notes": "coastal resort character, holiday lets"
+  },
+  {
+   "name": "High Salvington",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established hillside area"
+  },
+  {
+   "name": "Salvington",
+   "era": "interwar/post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential suburb"
+  },
+  {
+   "name": "Sompting",
+   "era": "mixed",
+   "types": [
+    "terrace",
+    "semi-detached",
+    "new-build"
+   ],
+   "notes": "mixed ages from Victorian to modern"
+  },
+  {
+   "name": "West Worthing",
+   "era": "Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established seafront/near-seafront area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "detached"
+  ],
+  "era": "predominantly Victorian-Edwardian with significant interwar/post-war expansion",
+  "notable": "Coastal resort legacy with holiday lets; strong Victorian/Edwardian housing stock vulnerable to period lock wear."
+ },
+ "locksmith_relevant": [
+  "Worthing's extensive Victorian-Edwardian housing stock features older sash windows and original mortice locks requiring specialist servicing.",
+  "Goring-by-Sea and coastal areas see high holiday let turnover, driving frequent lock changes and emergency access callouts.",
+  "Post-war semis in Durrington and Salvington commonly need upvc door lock repairs and modern security upgrades."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Worthing",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Worthing admin area), 7 named areas",
+  "coords": {
+   "lat": 50.8115402,
+   "lon": -0.3699697
+  }
+ },
+ "generated_at": "2026-05-13T12:24:56.488Z",
+ "all_areas": [
+  "Broadwater",
+  "Durrington",
+  "Findon Valley",
+  "Goring-by-Sea",
+  "High Salvington",
+  "Salvington",
+  "West Worthing"
+ ],
+ "geo": {
+  "latitude": 50.8115402,
+  "longitude": -0.3699697
+ },
+ "postcode_districts": [
+  "BN11",
+  "BN12",
+  "BN13",
+  "BN14"
+ ],
+ "postcode_meta": {
+  "BN12": {
+   "count": 1,
+   "sample": "BN12 4PE",
+   "admin": "Worthing"
+  },
+  "BN13": {
+   "count": 3,
+   "sample": "BN13 2NP",
+   "admin": "Worthing"
+  },
+  "BN14": {
+   "count": 2,
+   "sample": "BN14 0HE",
+   "admin": "Worthing"
+  },
+  "BN11": {
+   "count": 1,
+   "sample": "BN11 4LF",
+   "admin": "Worthing"
+  }
+ }
 }
