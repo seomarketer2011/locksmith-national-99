@@ -156,7 +156,7 @@
  ],
  "sources": {
   "nominatim": "https://nominatim.openstreetmap.org/search?q=Atherton",
-  "overpass": "OSM places within 8km filtered to verified postcode districts (M29, M46, WN7), 10 named areas",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Atherton, 5 named areas",
   "coords": {
    "lat": 53.5249679,
    "lon": -2.4905799
@@ -164,16 +164,11 @@
  },
  "generated_at": "2026-05-13T18:07:33.564Z",
  "all_areas": [
-  "Bedford",
-  "Blackmoor",
   "Hag Fold",
-  "Higher Folds",
   "Hindsford",
   "Howe Bridge",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley",
-  "Westleigh"
+  "Over Hulton",
+  "Shakerley"
  ],
  "geo": {
   "latitude": 53.5249679,

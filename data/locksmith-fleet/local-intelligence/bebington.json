@@ -122,7 +122,7 @@
  ],
  "sources": {
   "nominatim": "https://nominatim.openstreetmap.org/search?q=Bebington",
-  "overpass": "OSM places within 8km filtered to verified postcode districts (CH63), 10 named areas",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Bebington, 11 named areas",
   "coords": {
    "lat": 53.3503775,
    "lon": -3.005598
@@ -130,15 +130,16 @@
  },
  "generated_at": "2026-05-13T12:32:19.602Z",
  "all_areas": [
-  "Brimstage",
+  "Bromborough Pool",
+  "Eastham Village",
+  "Heathfield",
   "Higher Bebington",
   "Larchwood",
   "Lower Bebington",
-  "Raby",
-  "Raby Mere",
+  "Port Sunlight",
+  "Poulton",
   "Spital",
   "Stanton",
-  "Thornton Hough",
   "Woodhey"
  ],
  "geo": {

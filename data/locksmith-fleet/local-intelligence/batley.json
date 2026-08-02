@@ -145,7 +145,7 @@
  ],
  "sources": {
   "nominatim": "https://nominatim.openstreetmap.org/search?q=Batley",
-  "overpass": "OSM places within 8km filtered to verified postcode districts (WF12, WF13, WF17), 22 named areas",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Batley, 13 named areas",
   "coords": {
    "lat": 53.716564,
    "lon": -1.6363856
@@ -155,26 +155,17 @@
  "all_areas": [
   "Batley Carr",
   "Birstall Smithies",
-  "Boothroyd",
   "Brookroyd",
   "Brown Hill",
   "Brownhill End",
   "Carlinghow",
-  "Chickenley",
   "Cross Bank",
-  "Dewsbury Moor",
-  "Earlsheaton",
   "Hanging Heaton",
   "Healey",
   "Howden Clough",
   "Nook",
-  "Ravensthorpe",
-  "Savile Town",
   "Soothill",
-  "Staincliffe",
-  "Thornhill",
-  "Thornhill Lees",
-  "Woodkirk"
+  "Staincliffe"
  ],
  "geo": {
   "latitude": 53.716564,

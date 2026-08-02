@@ -197,73 +197,87 @@
   }
  ],
  "home.areas-covered": [
-  "Ash",
-  "Ash Vale",
+  "Cargate",
+  "East End",
+  "Gun Hill Park",
   "North Town"
  ],
  "emergency-locksmith.areas-covered": [
-  "Ash",
-  "Ash Vale",
-  "North Town"
+  "North Town",
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
  ],
  "locked-out.areas-covered": [
   "North Town",
-  "Ash",
-  "Ash Vale"
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "broken-key-removal.areas-covered": [
-  "Ash",
-  "Ash Vale",
-  "North Town"
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "burglar-repair-service.areas-covered": [
-  "Ash Vale",
   "North Town",
-  "Ash"
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "emergency-boarding-up.areas-covered": [
   "North Town",
-  "Ash",
-  "Ash Vale"
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "lock-changes.areas-covered": [
-  "Ash Vale",
   "North Town",
-  "Ash"
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
  ],
  "lock-repairs.areas-covered": [
   "North Town",
-  "Ash",
-  "Ash Vale"
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "door-lock-installation.areas-covered": [
   "North Town",
-  "Ash",
-  "Ash Vale"
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
  ],
  "door-lock-replacement.areas-covered": [
-  "Ash",
-  "Ash Vale",
-  "North Town"
+  "North Town",
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
  ],
  "door-repairs.areas-covered": [
-  "Ash Vale",
   "North Town",
-  "Ash"
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "window-lock-repair-replacement.areas-covered": [
-  "Ash",
-  "Ash Vale",
-  "North Town"
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
  ],
  "safe-installation.areas-covered": [
-  "Ash Vale",
   "North Town",
-  "Ash"
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
  ],
  "safe-opening.areas-covered": [
   "North Town",
-  "Ash",
-  "Ash Vale"
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
  ]
 }

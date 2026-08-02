@@ -197,158 +197,101 @@
   }
  ],
  "home.areas-covered": [
-  "Bedford",
-  "Blackmoor",
   "Hag Fold",
-  "Higher Folds",
   "Hindsford",
   "Howe Bridge",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley",
-  "Westleigh"
+  "Over Hulton",
+  "Shakerley"
  ],
  "emergency-locksmith.areas-covered": [
-  "Blackmoor",
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley"
+  "Shakerley",
+  "Over Hulton"
  ],
  "locked-out.areas-covered": [
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
   "Shakerley",
-  "Westleigh"
+  "Over Hulton"
  ],
  "broken-key-removal.areas-covered": [
-  "Higher Folds",
-  "Bedford",
   "Howe Bridge",
   "Hag Fold",
-  "Blackmoor",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley"
+  "Shakerley",
+  "Over Hulton"
  ],
  "burglar-repair-service.areas-covered": [
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
-  "Pennington",
   "Shakerley",
-  "Westleigh",
-  "Blackmoor",
-  "Hag Fold",
-  "Hindsford"
- ],
- "emergency-boarding-up.areas-covered": [
-  "Bedford",
-  "Marsland Green",
-  "Howe Bridge",
-  "Higher Folds",
-  "Hag Fold",
-  "Pennington",
-  "Shakerley",
-  "Westleigh",
-  "Blackmoor"
- ],
- "lock-changes.areas-covered": [
-  "Westleigh",
-  "Bedford",
-  "Howe Bridge",
-  "Higher Folds",
-  "Blackmoor",
   "Hag Fold",
   "Hindsford",
-  "Marsland Green",
-  "Pennington"
+  "Over Hulton"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Howe Bridge",
+  "Hag Fold",
+  "Shakerley",
+  "Hindsford",
+  "Over Hulton"
+ ],
+ "lock-changes.areas-covered": [
+  "Howe Bridge",
+  "Hag Fold",
+  "Hindsford",
+  "Shakerley",
+  "Over Hulton"
  ],
  "lock-repairs.areas-covered": [
   "Shakerley",
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
-  "Marsland Green",
-  "Pennington",
-  "Westleigh",
-  "Blackmoor"
+  "Hindsford",
+  "Over Hulton"
  ],
  "door-lock-installation.areas-covered": [
   "Hindsford",
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
-  "Marsland Green",
-  "Pennington",
   "Shakerley",
-  "Westleigh"
+  "Over Hulton"
  ],
  "door-lock-replacement.areas-covered": [
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
-  "Blackmoor",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley"
+  "Shakerley",
+  "Over Hulton"
  ],
  "door-repairs.areas-covered": [
   "Howe Bridge",
-  "Bedford",
-  "Higher Folds",
   "Hag Fold",
   "Shakerley",
-  "Westleigh",
-  "Blackmoor",
   "Hindsford",
-  "Marsland Green"
+  "Over Hulton"
  ],
  "window-lock-repair-replacement.areas-covered": [
   "Hag Fold",
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
   "Shakerley",
-  "Westleigh"
+  "Over Hulton"
  ],
  "safe-installation.areas-covered": [
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
-  "Blackmoor",
   "Hindsford",
-  "Marsland Green",
-  "Pennington",
-  "Shakerley"
+  "Shakerley",
+  "Over Hulton"
  ],
  "safe-opening.areas-covered": [
-  "Pennington",
-  "Bedford",
   "Howe Bridge",
-  "Higher Folds",
   "Hag Fold",
   "Shakerley",
-  "Westleigh",
-  "Blackmoor",
-  "Hindsford"
+  "Hindsford",
+  "Over Hulton"
  ]
 }

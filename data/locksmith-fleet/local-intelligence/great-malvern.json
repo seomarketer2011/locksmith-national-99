@@ -1,111 +1,108 @@
 {
-  "location": "Great Malvern",
-  "neighborhoods": [
-    {
-      "name": "Great Malvern",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "town centre and conservation area; listed buildings"
-    },
-    {
-      "name": "Barnard's Green",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "suburban residential; established commuter area"
-    },
-    {
-      "name": "Malvern Link",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic railway suburb; mixed residential"
-    },
-    {
-      "name": "West Malvern",
-      "era": "mixed Victorian and Edwardian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "hillside properties; period character homes"
-    },
-    {
-      "name": "North Malvern",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    },
-    {
-      "name": "Wyche",
-      "era": "mixed Victorian and interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Link Top",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "villa",
-      "terrace"
-    ],
-    "era": "predominantly Victorian and Edwardian",
-    "notable": "Significant conservation area with listed period properties; many original sash windows and period doors requiring specialist lock knowledge."
+ "location": "Great Malvern",
+ "neighborhoods": [
+  {
+   "name": "Great Malvern",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "town centre and conservation area; listed buildings"
   },
-  "locksmith_relevant": [
-    "Victorian villas dominate; many retain original mortice locks and period hardware needing skilled servicing, not replacement.",
-    "Conservation area status means listed building locks often require Heritage approval before changes; locksmiths must understand legal constraints.",
-    "Hillside properties in West Malvern and elevated areas prone to weather damage on exterior locks and exposed ironwork."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Great%20Malvern",
-    "overpass": "OSM Overpass bbox query, 7 named areas",
-    "coords": {
-      "lat": 52.1109798,
-      "lon": -2.3285836
-    }
+  {
+   "name": "Barnard's Green",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "suburban residential; established commuter area"
   },
-  "generated_at": "2026-05-13T18:05:14.196Z",
-  "all_areas": [
-    "Barnard's Green",
-    "Great Malvern",
-    "Link Top",
-    "Malvern Link",
-    "North Malvern",
-    "West Malvern",
-    "Wyche"
-  ],
-  "geo": {
-    "latitude": 52.1109798,
-    "longitude": -2.3285836
+  {
+   "name": "Malvern Link",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic railway suburb; mixed residential"
   },
-  "postcode_districts": [
-    "WR13"
-  ],
-  "postcode_meta": {
-    "WR13": {
-      "count": 1,
-      "sample": "WR13 5YX",
-      "admin": "Malvern Hills",
-      "via": "admin_ward=great malvern"
-    }
+  {
+   "name": "West Malvern",
+   "era": "mixed Victorian and Edwardian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "hillside properties; period character homes"
+  },
+  {
+   "name": "North Malvern",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
+  },
+  {
+   "name": "Wyche",
+   "era": "mixed Victorian and interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Link Top",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "villa",
+   "terrace"
+  ],
+  "era": "predominantly Victorian and Edwardian",
+  "notable": "Significant conservation area with listed period properties; many original sash windows and period doors requiring specialist lock knowledge."
+ },
+ "locksmith_relevant": [
+  "Victorian villas dominate; many retain original mortice locks and period hardware needing skilled servicing, not replacement.",
+  "Conservation area status means listed building locks often require Heritage approval before changes; locksmiths must understand legal constraints.",
+  "Hillside properties in West Malvern and elevated areas prone to weather damage on exterior locks and exposed ironwork."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Great%20Malvern",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Great Malvern, 4 named areas",
+  "coords": {
+   "lat": 52.1109798,
+   "lon": -2.3285836
+  }
+ },
+ "generated_at": "2026-05-13T18:05:14.196Z",
+ "all_areas": [
+  "Barnard's Green",
+  "Malvern Link",
+  "North Malvern",
+  "West Malvern"
+ ],
+ "geo": {
+  "latitude": 52.1109798,
+  "longitude": -2.3285836
+ },
+ "postcode_districts": [
+  "WR13"
+ ],
+ "postcode_meta": {
+  "WR13": {
+   "count": 1,
+   "sample": "WR13 5YX",
+   "admin": "Malvern Hills",
+   "via": "admin_ward=great malvern"
+  }
+ }
 }

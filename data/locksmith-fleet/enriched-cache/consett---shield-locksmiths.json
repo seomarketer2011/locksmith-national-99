@@ -1,213 +1,297 @@
 {
-  "meta.title": "Emergency Locksmith in Consett | 24/7 Response",
-  "meta.description": "Shield Locksmiths Consett: emergency locksmith services for Victorian terraces, post-war estates, and modern homes. 24/7 call-outs, repairs, rekeying.",
-  "home.hero-paragraph": "Consett locksmith lock services deliver professional locksmithing help when you need it most. We specialise in emergency lockouts, lock changes, and lock repairs across the area. Our DBS-checked technicians offer 24/7 call-outs with non-destructive entry methods and no hidden fees, ensuring your security and peace of mind.",
-  "home.local-context-heading": "Locksmith work across Consett's housing eras",
-  "home.local-context-body": "Consett's housing stock—terraced Victorian properties from the steel industry era, post-war council estates, and 1960s–70s semi-detached suburbs—creates distinct locksmith needs. Period properties often feature original mortice locks and heavy timber frames requiring specialist attention, while the substantial council housing stock typically relies on older pin-tumbler systems. Semi-detached neighborhoods built during suburban expansion generally have standard Yale and Chubb mechanisms, generating regular rekeying and cylinder replacement work.\n\nLandlords managing multiple properties should note that Consett's conservation areas may restrict certain lock replacements on Victorian and Edwardian terraces without planning approval. Council estate properties frequently present non-standard door types and frame conditions that complicate standard lock fitting. Understanding whether a property requires period-appropriate restoration or modern security upgrades influences both cost and timeline for any locksmith work.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terraced house in Consett has an original period lock – can you help with that?",
-      "a": "Yes, we specialise in period locks and mechanisms found in Consett's steel industry-era properties. We can repair, rekey, or replace Victorian and Edwardian locks while preserving the character of your original timber doors."
-    },
-    {
-      "q": "I live in one of Consett's post-war council estates and my mortice lock is sticking – is this common?",
-      "a": "Absolutely – many residents in Consett's council estates still use older pin-tumbler and mortice systems that can wear over time. We offer reliable repairs and upgrades to modern cylinders if you'd prefer increased security and easier maintenance."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Consett – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Consett. Locked out of terraced homes or council estates? Fast response, non-destructive entry, urgent repairs and replacements available now.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Consett, our locksmiths bring expert locksmithing skills to resolve lockouts and snapped keys around the clock. Our DBS-checked technicians arrive 24/7 to handle lock troubles, using non-destructive entry methods wherever possible to protect your property. Whether you're locked out or need post-break-in repairs, we respond rapidly to get you back inside.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts across Consett's mixed housing stock present distinct challenges. Victorian terraced properties from the steel industry era often feature heavy timber frames and period locks that require careful handling during forced entry, while post-war council estates house residents with older mortice and pin-tumbler systems prone to mechanical failure. Semi-detached suburbs built during the 1960s–70s expansion typically have standard Yale and Chubb cylinders, but age-related wear on these mechanisms frequently triggers urgent call-outs.\n\nThe prevalence of non-standard locks in Consett's older terraced housing means emergency work often cannot rely on standard replacement cylinders or quick-fix solutions. Post-war council properties commonly feature original or long-installed mortice locks that demand specialist knowledge to open without damage, particularly when residents are locked out and need rapid access without structural harm to period door frames.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terraced house in Consett's steel works area – will you be able to open it without damage?",
-      "a": "Yes. Victorian and Edwardian terraces often have period locks and heavy timber frames that require specialist knowledge to open safely. Our emergency locksmiths are trained to work with these non-standard mechanisms and will prioritise preserving your original door and frame."
-    },
-    {
-      "q": "My council estate property door won't lock properly – is this an emergency locksmith issue?",
-      "a": "Absolutely. Many properties on Consett's post-war council estates still use older pin-tumbler or mortice systems that can jam or fail suddenly. We offer 24/7 emergency repair and replacement to restore security quickly, whether it's a mechanical fault or a snapped key."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Consett | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Consett? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. Emergency service for terraced homes, council estates & flats.",
-  "locked-out.hero-paragraph": "When you're locked out in Consett, our locksmiths specialise in rapid locksmithing solutions to get you back inside. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry techniques to regain access without damage to your property. Our technicians arrive quickly to resolve your emergency.",
-  "locked-out.local-context-body": "Lockouts across Consett's council estates and semi-detached suburbs present distinct challenges. Many properties from the 1960s–70s expansion feature standard Yale and Chubb cylinders, where non-destructive entry is straightforward; however, older pin-tumbler mortice systems in Victorian terraces from the steel industry era demand specialist knowledge to avoid damage to period mechanisms and heavy timber door frames.\n\nAccess timing matters significantly in Consett's housing mix. Council estate properties often have communal entry systems or shared hallways, requiring coordination with landlords or managing agents during lockouts. Victorian and Edwardian properties typically feature solid wood doors with original frames that cannot tolerate forced entry techniques, making non-destructive methods not just preferable but essential to preserve the building's integrity.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Consett – will you damage my period door frame?",
-      "a": "No. Our locksmiths specialise in non-destructive entry for period properties common across Consett's steel industry-era housing. We use specialist techniques to preserve original timber frames and period locks, then reopen without force."
-    },
-    {
-      "q": "I'm locked out of my council house on one of Consett's post-war estates – how quickly can you get me in?",
-      "a": "We typically arrive within 30–60 minutes across Consett's estates. Most council properties use older mortice or pin-tumbler systems we can open non-destructively; call 01207 763119 now with your address and we'll confirm availability."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Consett – Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Consett terraced & semi-detached homes. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Consett requires specialist locksmith expertise and understanding of locksmithing principles. When keys snap or shear inside locks—whether in mortice locks or euro cylinders—our technicians employ non-destructive extraction methods using precision tools. We'll retrieve your broken key without damaging the lock mechanism, restoring full access quickly and professionally.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent call-out across Consett's post-war council estates and 1960s semi-detached suburbs, where older pin-tumbler and mortice locks remain commonplace. Victorian terraces from the steel industry era present additional complexity: their heavy timber frames and period locks often require careful removal techniques to avoid damage to non-standard mechanisms.\n\nEuro cylinders fitted to modern composite doors dominate the semi-detached housing stock, making cylinder extraction straightforward in most cases. However, many council estate properties retain original mortice locks and night latches with corroded internals, where snapped keys are prone to fragment further during removal attempts. Hard water deposits and decades of use mean extraction often requires patience and specialist tools to prevent lock damage.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My key has snapped in the mortice lock of my Victorian terraced house in Consett – can you extract it without damaging the door frame?",
-      "a": "Yes. Victorian terraces from Consett's steel industry era often have heavy timber frames and period mortice locks that require careful extraction technique. We specialise in removing broken keys from these older mechanisms without forcing or splitting the wood around the lock body."
-    },
-    {
-      "q": "A key broke inside my council estate flat's night latch – how quickly can you attend?",
-      "a": "We can usually attend same-day in Consett's post-war council estates. Night latch extractions are straightforward when done correctly, and we'll have you back in without needing to replace the entire lock unless internal damage has occurred."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Consett – 24/7 Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Consett. Post-break-in lock changes, door repairs and reinstatement for Victorian terraces, council estates and semis.",
-  "burglar-repair-service.hero-paragraph": "Our Consett locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We restore security through door reinforcement and installation of TS007 anti-snap cylinders, ensuring your home meets insurance-compliant standards. Rapid response to break-ins and expert damage assessment keep your property secure.",
-  "burglar-repair-service.local-context-body": "Burglaries affecting Consett's Victorian terraces and post-war council estates demand swift, compliant reinstatement. Period properties in older neighborhoods often feature original timber frames and non-standard lock mechanisms that require careful assessment during repair—forcing or replacing inappropriately can compromise structural integrity and period authenticity. Council estate properties typically need rapid-turnaround cylinder replacement and mortice lock repair, with residents relying on insurance claims to cover costs.\n\nMany Victorian and Edwardian properties in Consett carry heritage considerations that affect repair methodology. Locksmiths must establish whether properties fall under any conservation designation before installing modern cylinders or reinforcing door frames, as inappropriate modern hardware can breach planning consent. Additionally, the prevalence of older timber doors across the housing stock means frame damage assessment is routine—wood rot, splintering, and hinge failure often accompany break-in damage and must be addressed alongside lock reinstatement to meet insurance standards.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you repair Victorian terraces after break-ins, or just replace locks?",
-      "a": "We repair both locks and doors on Consett's Victorian steel-era terraces—many have period timber frames and heavy original mechanisms that need specialist restoration, not just replacement. We'll reinstate your property to insurance-standard while preserving period features where possible."
-    },
-    {
-      "q": "Can you fix break-ins on council estate properties with older mortice locks?",
-      "a": "Yes, we regularly repair post-war council estate properties across Consett that use traditional mortice and pin-tumbler systems. We'll secure damaged frames and mechanisms quickly to insurance standards, often on the same day."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Consett – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Consett – same-day service for smashed doors, windows & terraced properties after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Our Consett locksmith team specialises in emergency boarding up services, combining expert locksmithing and rapid response to secure your property. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we install robust plywood boards with security screws and weatherproof seals. Available 24/7 and fully insurance-compliant, we restore your building's security when you need it most.",
-  "emergency-boarding-up.local-context-body": "Break-ins and storm damage affecting Consett's housing stock require rapid boarding up across diverse property types. Victorian and Edwardian terraces from the steel works era, particularly in older neighborhoods, feature heavy timber frames and period door construction that demand careful securing to avoid further structural damage. Post-war council estates and 1960s–70s semi-detached properties throughout the town experience similar incidents, with boarding needs varying significantly between original timber doors and later UPVC replacements.\n\nMany of Consett's older properties, especially Victorian terraces, sit within areas of historic or architectural interest where boarding methods must avoid damage to original joinery and period features. Council estate properties often present access challenges due to shared communal areas and landlord notification requirements. The prevalence of original timber frames across much of the town's housing stock means boarding work frequently requires specialist fixings and techniques to prevent further deterioration or compromise to the property's structural integrity.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian terraces differently after break-ins?",
-      "a": "Yes—Victorian terraces from Consett's steel industry era often have original timber frames and period architraves that need careful protection. We use materials and methods that secure your property without damaging the historic joinery, then fit temporary boarding that's sympathetic to the original character of your home."
-    },
-    {
-      "q": "How quickly can you board up a property on the post-war council estates?",
-      "a": "We're based in Consett and typically attend emergency boarding calls on council estate properties within 30–60 minutes of your call. Given the high volume of properties on these estates, we keep stock of standard board sizes ready for the most common door and window dimensions found in post-war housing."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Consett | Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Consett for terraced & semi-detached homes. Lost keys? Moving house? Fast professional replacement of Yale, Chubb & mortice locks.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Consett from a qualified locksmith specialising in locksmithing for residential and commercial properties. Whether you're moving home, experiencing lost keys, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property. Our technicians ensure swift, reliable installation to current security standards.",
-  "lock-changes.local-context-body": "Lock changes across Consett reflect the town's diverse residential mix. Semi-detached homes built during the 1960s–70s expansion typically require straightforward cylinder replacements on Yale or Chubb systems, while Victorian terraces from the steel industry era often need bespoke solutions due to period mortice locks and heavy timber frames that demand specialist fitting knowledge and careful handling.\n\nMany properties throughout Consett's council estates retain older pin-tumbler or mortice lock systems rather than modern cylinders, meaning lock change work frequently involves adapting to non-standard mechanisms and door constructions. Original timber frames in period properties can complicate installation, requiring locksmiths to work carefully around swollen wood or deteriorated door edges, particularly in terraced properties where tight spacing limits access.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Consett's steel works area – do I need specialist lock changes?",
-      "a": "Yes, many Victorian and Edwardian terraces in Consett feature period locks and heavy timber frames that require specialist knowledge. We're experienced in replacing these without damaging original woodwork, and can fit modern security upgrades to suit period properties."
-    },
-    {
-      "q": "What's the typical cost to change locks on a 1960s semi-detached in Consett?",
-      "a": "Most 1960s–70s semis in Consett's suburbs use standard Yale or Chubb locks, making lock changes straightforward and cost-effective. Contact us on 01207 763119 for a free quote tailored to your property type."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Consett – Same-Day Service",
-  "lock-repairs.meta.description": "Lock repairs in Consett for Victorian terraces, council estates & modern homes. Mortice, multipoint & night latch fixes. Emergency service available.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs in Consett delivered by our experienced locksmith and locksmithing professionals. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the fault promptly. Our technicians undertake mortice maintenance and multipoint servicing to restore full functionality, backed by manufacturer warranty on all work completed.",
-  "lock-repairs.local-context-body": "Consett's terraced and semi-detached properties require varied lock repair expertise. Victorian steel-industry terraces feature heavy timber frames and period mortice locks prone to wear; post-war semi-detached homes across the 1960s–70s suburbs typically use standard Yale and Chubb mechanisms that develop common mechanical faults. Council estate properties often retain older pin-tumbler and night latch systems, where repair rather than replacement remains the cost-effective choice for many residents.\n\nMultipoint lock failures are particularly common in Consett's post-war housing stock, where expanding doors and frame settlement create misalignment issues. Victorian terraces present additional challenges: original timber shrinkage and non-standard gearbox mechanisms mean repairs demand knowledge of period lock construction. Availability of replacement parts and compliance with the property's original specification often determines whether repair or upgrade is the practical solution.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Consett has a sticking mortice lock – is it worth repairing?",
-      "a": "Yes – Victorian and Edwardian terraces from Consett's steel works era often have period locks worth preserving. We specialise in mortice lock repair and can restore functionality without replacing original hardware."
-    },
-    {
-      "q": "The multipoint lock on my 1960s semi-detached keeps jamming. Can you fix it?",
-      "a": "Absolutely. Post-war semi-detached properties across Consett commonly experience multipoint lock wear; we repair gearbox and multipoint mechanisms to restore smooth operation and security."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Consett | Fast Local Service",
-  "door-lock-installation.meta.description": "Door lock installation in Consett for terraced homes, semi-detached properties & council estates. BS3621 mortice locks, TS007 anti-snap cylinders fitted by specialists.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Consett from our experienced locksmith team specialises in quality locksmithing solutions tailored to your needs. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property. Our technicians ensure every installation meets current security standards.",
-  "door-lock-installation.local-context-body": "Consett's semi-detached suburbs, built during the 1960s–70s expansion, represent a significant proportion of properties requiring door lock installation. Many of these homes retain original Yale and Chubb mechanisms from their construction period, making cylinder replacement and upgrade to modern BS3621 mortice locks a common requirement as residents modernise security.\n\nVictorian and Edwardian terraces from Consett's steel industry era present distinct installation challenges due to their heavy timber frames and non-standard door apertures. Fitting contemporary anti-snap cylinders or multipoint systems to these period properties often requires careful measurement and occasional door adjustment to accommodate modern lock casings without compromising the structural integrity of original woodwork.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace from Consett's steel works era with an original heavy timber door – can you fit a modern mortice lock?",
-      "a": "Yes – our BS3621 mortice locks are designed to work with period timber frames and original door construction. We'll assess the door thickness and wood condition first to ensure a proper fit without compromising the door's structural integrity."
-    },
-    {
-      "q": "My council estate property still has the original pin-tumbler lock from the 1960s – what's the best upgrade?",
-      "a": "A TS007 anti-snap cylinder replacement is ideal for post-war council housing; it's a direct swap that dramatically improves security without requiring major door modifications, and it's approved by most insurers."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Consett – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Consett for terraced homes, council estates & semis. Like-for-like swaps or security upgrades. Same-day available.",
-  "door-lock-replacement.hero-paragraph": "When you need door lock replacement in Consett, our experienced locksmith brings professional locksmithing expertise to every job. Whether your lock has failed, you've lost keys, or you're moving home, we install BS3621 certified locks and offer anti-snap upgrades for enhanced security. Our like-for-like cylinder swaps ensure seamless fitting to your existing door.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Consett addresses wear and failure across a mixed housing stock. Victorian terraces from the steel industry era often retain original period locks requiring specialist removal and careful reinstallation to preserve door integrity. Post-war council estates and 1960s–70s semi-detached suburbs dominate the town's residential areas, where standard Yale and Chubb cylinder replacements form the bulk of call-outs as these systems reach end-of-life.\n\nPeriod properties in Consett frequently present non-standard door frames and timber construction that complicate straightforward cylinder swaps. Older mortice locks common in council housing stock may require precise measurement and sourcing of compatible mechanisms, especially where door thickness or lock positioning falls outside modern specifications. Even routine replacements on post-war estates benefit from knowledge of local construction standards to ensure proper fit and security function.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace from Consett's steel industry era with an original period lock. Can you replace it with a modern lock without damaging the door frame?",
-      "a": "Yes. We specialise in replacing period locks on Victorian and Edwardian terraces across Consett. We can fit a modern cylinder or mortice lock while carefully preserving your original timber door and frame—or restore the period mechanism if you prefer authenticity."
-    },
-    {
-      "q": "My council estate property still has the original pin-tumbler lock from the 1960s–70s. Is it worth upgrading, and how long does replacement take?",
-      "a": "Absolutely worth upgrading for security and reliability. Most council estate lock replacements on Consett's post-war estates take 30–45 minutes; we can fit a modern Yale or Chubb cylinder same-day and discuss keying options with your neighbours if needed."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs in Consett – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Consett for terraced homes, council estates & semis. uPVC alignment, timber easing, handle repair & hardware replacement.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Consett from our experienced locksmith team specialising in locksmithing solutions. Whether your door has dropped, won't close properly, or is letting in draughts, we diagnose and repair the underlying issues. Our technicians handle hinge adjustment and frame alignment across uPVC, composite, and timber doors, restoring smooth operation and security to your home.",
-  "door-repairs.local-context-body": "Consett's post-war council estates and 1960s semi-detached suburbs frequently present door alignment and hardware issues stemming from decades of settlement and wear. Timber frames in these properties—particularly in the terraced neighborhoods—often drop or warp, causing doors to bind against frames or leave unsightly gaps. Standard Yale and Chubb locks fitted during the 1960s–70s expansion now require adjustment or full replacement as hinges loosen and door weight shifts.\n\nProperties across Consett built before the 1980s commonly feature original mortice and pin-tumbler systems housed in heavy timber doors. Repairs to these doors demand attention to both the frame integrity and the lock mechanism itself; modern cylinder replacements may require careful fitting to avoid damaging period joinery. Settlement patterns in older stock mean misalignment repair often runs parallel to lock servicing, requiring coordinated work on hardware, hinges, and door casings.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Consett often drop or misalign?",
-      "a": "Many of Consett's Victorian and Edwardian terraces from the steel works era have heavy timber frames and original period hinges that settle and warp over time. We specialise in realigning and repairing these period doors, plus sourcing compatible hardware that matches the original character."
-    },
-    {
-      "q": "Do you repair dropped doors on post-war council estate properties?",
-      "a": "Yes—Consett's post-war estates have a substantial proportion of council housing where door frames and hinges commonly drop due to age and use. We fix sagging doors, replace worn hinges, and adjust frames to ensure smooth operation and security."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Consett – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Consett. Expert fixes for espagnolette & shootbolt locks on period timber frames & modern uPVC windows.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Consett locksmith specialises in window lock repair and replacement services, combining traditional locksmithing expertise with modern solutions. We address common issues including windows that won't lock and broken handles, repairing or replacing espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home security is properly restored.",
-  "window-lock-repair-replacement.local-context-body": "Consett's Victorian terraces and post-war semi-detached properties depend heavily on functional window locks for security and weatherproofing. Period properties from the steel industry era often feature original timber sash windows with traditional bolt mechanisms, while 1960s–70s suburban homes typically have aluminium or uPVC frames fitted with espagnolette locks. Both types experience wear from decades of use and exposure to the North East climate, making window lock repair and replacement a routine requirement across the town's distinct housing eras.\n\nMany of Consett's older terraced properties retain timber-framed windows that demand careful handling during lock servicing, as frames can be warped or fragile. Post-war council estates and suburban semis frequently use standard espagnolette or shootbolt systems that may be difficult to source as direct replacements if mechanisms are obsolete. Local engineers must often adapt or source compatible heritage components for period properties, or upgrade to modern locking systems that match existing frame specifications without requiring window replacement.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks fail so often in Consett's post-war council estates?",
-      "a": "Many properties from the 1960s–1970s council housing stock have original espagnolette and shootbolt locks that have corroded or worn after decades of use. Shield Locksmiths can inspect, repair, or replace these with modern equivalents while respecting the original door and frame integrity."
-    },
-    {
-      "q": "Can you repair period window locks on Victorian terraces from Consett's steel works era?",
-      "a": "Yes. Victorian and Edwardian terraces often have non-standard or decorative window fasteners that require specialist knowledge to repair safely. We assess whether restoration or replacement with compatible hardware is the best solution for your period property."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Consett – Trusted Local Service",
-  "safe-installation.meta.description": "Safe installation in Consett for terraced homes, semis & council estates. Wall, floor & freestanding safes with proper anchoring & insurance docs.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Consett from our expert locksmith team combines years of locksmithing experience with proper security practice. Whether you're securing a new safe for insurance approval or require AiS-approved positioning, we ensure floor anchoring and wall mounting are executed to the highest standards. Our technicians guarantee your valuables remain protected.",
-  "safe-installation.local-context-body": "Safe installation in Consett requires tailored approaches across the town's varied housing stock. Victorian terraces from the steel industry era often feature solid brick construction ideal for wall-safe anchoring, while 1960s–70s semi-detached properties typically have standard cavity walls requiring different fixing methods. Council estates present additional considerations, with many properties featuring non-standard wall compositions that demand structural assessment before installation.\n\nLocal properties frequently retain original timber door frames and period construction materials, which can complicate floor-safe positioning and cable routing. Many older Consett homes lack modern electrical infrastructure suitable for electronic safes, necessitating careful planning around existing wiring and building fabric. Proper anchoring in post-war properties often requires specialist knowledge of concrete and brick composition common to the era.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian terraces typical of Consett's steel industry era?",
-      "a": "Yes, we regularly install safes in Victorian and Edwardian terraces throughout Consett. We understand the structural challenges of period properties—solid brick walls, uneven floors, and listed building considerations—and ensure proper anchoring without compromising your home's character."
-    },
-    {
-      "q": "What's involved in safe installation for council estate properties in Consett?",
-      "a": "We install safes in post-war council estates across Consett, working with concrete block walls and standard floor construction common to these properties. We'll advise on the best location for weight distribution and anchoring, then provide full insurance documentation once fitted."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Consett – Fast & Trusted Service",
-  "safe-opening.meta.description": "Safe opening in Consett for lost keys, combinations & lockouts. Non-destructive opening of domestic & commercial safes. Council estates & period properties.",
-  "safe-opening.hero-paragraph": "Professional safe opening in Consett by our experienced locksmiths combines expert locksmithing with non-destructive techniques to regain access to your valuables. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, our specialists use combination dial manipulation and other precision methods to open your safe without damage. Fast, reliable service across Consett.",
-  "safe-opening.local-context-body": "Older safes are common fixtures in Consett's Victorian terraces and council estate properties, where residents often retain vintage security equipment alongside period locks and heavy timber frames. Safe opening requests in these areas frequently involve lost combinations or corroded mechanisms that predate modern cylinder technology, requiring non-destructive expertise to preserve both the safe and surrounding brickwork or joinery.\n\nMany of Consett's post-war properties feature safes installed during the 1960s–1970s expansion, when pin-tumbler and mortice-based locking systems dominated domestic security. Age-related degradation of internal mechanisms—corrosion, spring fatigue, dial wear—is common in these safes, and non-destructive opening often depends on understanding older engineering standards that differ substantially from contemporary designs.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Consett and found a locked safe with no combination – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties across Consett's Victorian and Edwardian housing stock. We'll assess the mechanism and use specialist techniques to regain access while preserving the safe's integrity."
-    },
-    {
-      "q": "We rent a property on one of Consett's post-war council estates and the safe was left by the previous tenant – what are our options?",
-      "a": "We can open the safe non-destructively if you've lost the combination or keys, and we'll provide documentation of the work for your landlord or letting agent. This is a common situation across Consett's council estate properties, and we handle it regularly."
-    }
-  ],
-  "home.areas-covered": [],
-  "emergency-locksmith.areas-covered": [],
-  "locked-out.areas-covered": [],
-  "broken-key-removal.areas-covered": [],
-  "burglar-repair-service.areas-covered": [],
-  "emergency-boarding-up.areas-covered": [],
-  "lock-changes.areas-covered": [],
-  "lock-repairs.areas-covered": [],
-  "door-lock-installation.areas-covered": [],
-  "door-lock-replacement.areas-covered": [],
-  "door-repairs.areas-covered": [],
-  "window-lock-repair-replacement.areas-covered": [],
-  "safe-installation.areas-covered": [],
-  "safe-opening.areas-covered": []
+ "meta.title": "Emergency Locksmith in Consett | 24/7 Response",
+ "meta.description": "Shield Locksmiths Consett: emergency locksmith services for Victorian terraces, post-war estates, and modern homes. 24/7 call-outs, repairs, rekeying.",
+ "home.hero-paragraph": "Consett locksmith lock services deliver professional locksmithing help when you need it most. We specialise in emergency lockouts, lock changes, and lock repairs across the area. Our DBS-checked technicians offer 24/7 call-outs with non-destructive entry methods and no hidden fees, ensuring your security and peace of mind.",
+ "home.local-context-heading": "Locksmith work across Consett's housing eras",
+ "home.local-context-body": "Consett's housing stock\u2014terraced Victorian properties from the steel industry era, post-war council estates, and 1960s\u201370s semi-detached suburbs\u2014creates distinct locksmith needs. Period properties often feature original mortice locks and heavy timber frames requiring specialist attention, while the substantial council housing stock typically relies on older pin-tumbler systems. Semi-detached neighborhoods built during suburban expansion generally have standard Yale and Chubb mechanisms, generating regular rekeying and cylinder replacement work.\n\nLandlords managing multiple properties should note that Consett's conservation areas may restrict certain lock replacements on Victorian and Edwardian terraces without planning approval. Council estate properties frequently present non-standard door types and frame conditions that complicate standard lock fitting. Understanding whether a property requires period-appropriate restoration or modern security upgrades influences both cost and timeline for any locksmith work.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terraced house in Consett has an original period lock \u2013 can you help with that?",
+   "a": "Yes, we specialise in period locks and mechanisms found in Consett's steel industry-era properties. We can repair, rekey, or replace Victorian and Edwardian locks while preserving the character of your original timber doors."
+  },
+  {
+   "q": "I live in one of Consett's post-war council estates and my mortice lock is sticking \u2013 is this common?",
+   "a": "Absolutely \u2013 many residents in Consett's council estates still use older pin-tumbler and mortice systems that can wear over time. We offer reliable repairs and upgrades to modern cylinders if you'd prefer increased security and easier maintenance."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Consett \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Consett. Locked out of terraced homes or council estates? Fast response, non-destructive entry, urgent repairs and replacements available now.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Consett, our locksmiths bring expert locksmithing skills to resolve lockouts and snapped keys around the clock. Our DBS-checked technicians arrive 24/7 to handle lock troubles, using non-destructive entry methods wherever possible to protect your property. Whether you're locked out or need post-break-in repairs, we respond rapidly to get you back inside.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts across Consett's mixed housing stock present distinct challenges. Victorian terraced properties from the steel industry era often feature heavy timber frames and period locks that require careful handling during forced entry, while post-war council estates house residents with older mortice and pin-tumbler systems prone to mechanical failure. Semi-detached suburbs built during the 1960s\u201370s expansion typically have standard Yale and Chubb cylinders, but age-related wear on these mechanisms frequently triggers urgent call-outs.\n\nThe prevalence of non-standard locks in Consett's older terraced housing means emergency work often cannot rely on standard replacement cylinders or quick-fix solutions. Post-war council properties commonly feature original or long-installed mortice locks that demand specialist knowledge to open without damage, particularly when residents are locked out and need rapid access without structural harm to period door frames.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terraced house in Consett's steel works area \u2013 will you be able to open it without damage?",
+   "a": "Yes. Victorian and Edwardian terraces often have period locks and heavy timber frames that require specialist knowledge to open safely. Our emergency locksmiths are trained to work with these non-standard mechanisms and will prioritise preserving your original door and frame."
+  },
+  {
+   "q": "My council estate property door won't lock properly \u2013 is this an emergency locksmith issue?",
+   "a": "Absolutely. Many properties on Consett's post-war council estates still use older pin-tumbler or mortice systems that can jam or fail suddenly. We offer 24/7 emergency repair and replacement to restore security quickly, whether it's a mechanical fault or a snapped key."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Consett | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Consett? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. Emergency service for terraced homes, council estates & flats.",
+ "locked-out.hero-paragraph": "When you're locked out in Consett, our locksmiths specialise in rapid locksmithing solutions to get you back inside. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry techniques to regain access without damage to your property. Our technicians arrive quickly to resolve your emergency.",
+ "locked-out.local-context-body": "Lockouts across Consett's council estates and semi-detached suburbs present distinct challenges. Many properties from the 1960s\u201370s expansion feature standard Yale and Chubb cylinders, where non-destructive entry is straightforward; however, older pin-tumbler mortice systems in Victorian terraces from the steel industry era demand specialist knowledge to avoid damage to period mechanisms and heavy timber door frames.\n\nAccess timing matters significantly in Consett's housing mix. Council estate properties often have communal entry systems or shared hallways, requiring coordination with landlords or managing agents during lockouts. Victorian and Edwardian properties typically feature solid wood doors with original frames that cannot tolerate forced entry techniques, making non-destructive methods not just preferable but essential to preserve the building's integrity.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Consett \u2013 will you damage my period door frame?",
+   "a": "No. Our locksmiths specialise in non-destructive entry for period properties common across Consett's steel industry-era housing. We use specialist techniques to preserve original timber frames and period locks, then reopen without force."
+  },
+  {
+   "q": "I'm locked out of my council house on one of Consett's post-war estates \u2013 how quickly can you get me in?",
+   "a": "We typically arrive within 30\u201360 minutes across Consett's estates. Most council properties use older mortice or pin-tumbler systems we can open non-destructively; call 01207 763119 now with your address and we'll confirm availability."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Consett \u2013 Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Consett terraced & semi-detached homes. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Consett requires specialist locksmith expertise and understanding of locksmithing principles. When keys snap or shear inside locks\u2014whether in mortice locks or euro cylinders\u2014our technicians employ non-destructive extraction methods using precision tools. We'll retrieve your broken key without damaging the lock mechanism, restoring full access quickly and professionally.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent call-out across Consett's post-war council estates and 1960s semi-detached suburbs, where older pin-tumbler and mortice locks remain commonplace. Victorian terraces from the steel industry era present additional complexity: their heavy timber frames and period locks often require careful removal techniques to avoid damage to non-standard mechanisms.\n\nEuro cylinders fitted to modern composite doors dominate the semi-detached housing stock, making cylinder extraction straightforward in most cases. However, many council estate properties retain original mortice locks and night latches with corroded internals, where snapped keys are prone to fragment further during removal attempts. Hard water deposits and decades of use mean extraction often requires patience and specialist tools to prevent lock damage.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My key has snapped in the mortice lock of my Victorian terraced house in Consett \u2013 can you extract it without damaging the door frame?",
+   "a": "Yes. Victorian terraces from Consett's steel industry era often have heavy timber frames and period mortice locks that require careful extraction technique. We specialise in removing broken keys from these older mechanisms without forcing or splitting the wood around the lock body."
+  },
+  {
+   "q": "A key broke inside my council estate flat's night latch \u2013 how quickly can you attend?",
+   "a": "We can usually attend same-day in Consett's post-war council estates. Night latch extractions are straightforward when done correctly, and we'll have you back in without needing to replace the entire lock unless internal damage has occurred."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Consett \u2013 24/7 Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Consett. Post-break-in lock changes, door repairs and reinstatement for Victorian terraces, council estates and semis.",
+ "burglar-repair-service.hero-paragraph": "Our Consett locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We restore security through door reinforcement and installation of TS007 anti-snap cylinders, ensuring your home meets insurance-compliant standards. Rapid response to break-ins and expert damage assessment keep your property secure.",
+ "burglar-repair-service.local-context-body": "Burglaries affecting Consett's Victorian terraces and post-war council estates demand swift, compliant reinstatement. Period properties in older neighborhoods often feature original timber frames and non-standard lock mechanisms that require careful assessment during repair\u2014forcing or replacing inappropriately can compromise structural integrity and period authenticity. Council estate properties typically need rapid-turnaround cylinder replacement and mortice lock repair, with residents relying on insurance claims to cover costs.\n\nMany Victorian and Edwardian properties in Consett carry heritage considerations that affect repair methodology. Locksmiths must establish whether properties fall under any conservation designation before installing modern cylinders or reinforcing door frames, as inappropriate modern hardware can breach planning consent. Additionally, the prevalence of older timber doors across the housing stock means frame damage assessment is routine\u2014wood rot, splintering, and hinge failure often accompany break-in damage and must be addressed alongside lock reinstatement to meet insurance standards.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you repair Victorian terraces after break-ins, or just replace locks?",
+   "a": "We repair both locks and doors on Consett's Victorian steel-era terraces\u2014many have period timber frames and heavy original mechanisms that need specialist restoration, not just replacement. We'll reinstate your property to insurance-standard while preserving period features where possible."
+  },
+  {
+   "q": "Can you fix break-ins on council estate properties with older mortice locks?",
+   "a": "Yes, we regularly repair post-war council estate properties across Consett that use traditional mortice and pin-tumbler systems. We'll secure damaged frames and mechanisms quickly to insurance standards, often on the same day."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Consett \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Consett \u2013 same-day service for smashed doors, windows & terraced properties after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Our Consett locksmith team specialises in emergency boarding up services, combining expert locksmithing and rapid response to secure your property. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we install robust plywood boards with security screws and weatherproof seals. Available 24/7 and fully insurance-compliant, we restore your building's security when you need it most.",
+ "emergency-boarding-up.local-context-body": "Break-ins and storm damage affecting Consett's housing stock require rapid boarding up across diverse property types. Victorian and Edwardian terraces from the steel works era, particularly in older neighborhoods, feature heavy timber frames and period door construction that demand careful securing to avoid further structural damage. Post-war council estates and 1960s\u201370s semi-detached properties throughout the town experience similar incidents, with boarding needs varying significantly between original timber doors and later UPVC replacements.\n\nMany of Consett's older properties, especially Victorian terraces, sit within areas of historic or architectural interest where boarding methods must avoid damage to original joinery and period features. Council estate properties often present access challenges due to shared communal areas and landlord notification requirements. The prevalence of original timber frames across much of the town's housing stock means boarding work frequently requires specialist fixings and techniques to prevent further deterioration or compromise to the property's structural integrity.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian terraces differently after break-ins?",
+   "a": "Yes\u2014Victorian terraces from Consett's steel industry era often have original timber frames and period architraves that need careful protection. We use materials and methods that secure your property without damaging the historic joinery, then fit temporary boarding that's sympathetic to the original character of your home."
+  },
+  {
+   "q": "How quickly can you board up a property on the post-war council estates?",
+   "a": "We're based in Consett and typically attend emergency boarding calls on council estate properties within 30\u201360 minutes of your call. Given the high volume of properties on these estates, we keep stock of standard board sizes ready for the most common door and window dimensions found in post-war housing."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Consett | Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Consett for terraced & semi-detached homes. Lost keys? Moving house? Fast professional replacement of Yale, Chubb & mortice locks.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Consett from a qualified locksmith specialising in locksmithing for residential and commercial properties. Whether you're moving home, experiencing lost keys, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property. Our technicians ensure swift, reliable installation to current security standards.",
+ "lock-changes.local-context-body": "Lock changes across Consett reflect the town's diverse residential mix. Semi-detached homes built during the 1960s\u201370s expansion typically require straightforward cylinder replacements on Yale or Chubb systems, while Victorian terraces from the steel industry era often need bespoke solutions due to period mortice locks and heavy timber frames that demand specialist fitting knowledge and careful handling.\n\nMany properties throughout Consett's council estates retain older pin-tumbler or mortice lock systems rather than modern cylinders, meaning lock change work frequently involves adapting to non-standard mechanisms and door constructions. Original timber frames in period properties can complicate installation, requiring locksmiths to work carefully around swollen wood or deteriorated door edges, particularly in terraced properties where tight spacing limits access.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Consett's steel works area \u2013 do I need specialist lock changes?",
+   "a": "Yes, many Victorian and Edwardian terraces in Consett feature period locks and heavy timber frames that require specialist knowledge. We're experienced in replacing these without damaging original woodwork, and can fit modern security upgrades to suit period properties."
+  },
+  {
+   "q": "What's the typical cost to change locks on a 1960s semi-detached in Consett?",
+   "a": "Most 1960s\u201370s semis in Consett's suburbs use standard Yale or Chubb locks, making lock changes straightforward and cost-effective. Contact us on 01207 763119 for a free quote tailored to your property type."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Consett \u2013 Same-Day Service",
+ "lock-repairs.meta.description": "Lock repairs in Consett for Victorian terraces, council estates & modern homes. Mortice, multipoint & night latch fixes. Emergency service available.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs in Consett delivered by our experienced locksmith and locksmithing professionals. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the fault promptly. Our technicians undertake mortice maintenance and multipoint servicing to restore full functionality, backed by manufacturer warranty on all work completed.",
+ "lock-repairs.local-context-body": "Consett's terraced and semi-detached properties require varied lock repair expertise. Victorian steel-industry terraces feature heavy timber frames and period mortice locks prone to wear; post-war semi-detached homes across the 1960s\u201370s suburbs typically use standard Yale and Chubb mechanisms that develop common mechanical faults. Council estate properties often retain older pin-tumbler and night latch systems, where repair rather than replacement remains the cost-effective choice for many residents.\n\nMultipoint lock failures are particularly common in Consett's post-war housing stock, where expanding doors and frame settlement create misalignment issues. Victorian terraces present additional challenges: original timber shrinkage and non-standard gearbox mechanisms mean repairs demand knowledge of period lock construction. Availability of replacement parts and compliance with the property's original specification often determines whether repair or upgrade is the practical solution.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Consett has a sticking mortice lock \u2013 is it worth repairing?",
+   "a": "Yes \u2013 Victorian and Edwardian terraces from Consett's steel works era often have period locks worth preserving. We specialise in mortice lock repair and can restore functionality without replacing original hardware."
+  },
+  {
+   "q": "The multipoint lock on my 1960s semi-detached keeps jamming. Can you fix it?",
+   "a": "Absolutely. Post-war semi-detached properties across Consett commonly experience multipoint lock wear; we repair gearbox and multipoint mechanisms to restore smooth operation and security."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Consett | Fast Local Service",
+ "door-lock-installation.meta.description": "Door lock installation in Consett for terraced homes, semi-detached properties & council estates. BS3621 mortice locks, TS007 anti-snap cylinders fitted by specialists.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Consett from our experienced locksmith team specialises in quality locksmithing solutions tailored to your needs. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property. Our technicians ensure every installation meets current security standards.",
+ "door-lock-installation.local-context-body": "Consett's semi-detached suburbs, built during the 1960s\u201370s expansion, represent a significant proportion of properties requiring door lock installation. Many of these homes retain original Yale and Chubb mechanisms from their construction period, making cylinder replacement and upgrade to modern BS3621 mortice locks a common requirement as residents modernise security.\n\nVictorian and Edwardian terraces from Consett's steel industry era present distinct installation challenges due to their heavy timber frames and non-standard door apertures. Fitting contemporary anti-snap cylinders or multipoint systems to these period properties often requires careful measurement and occasional door adjustment to accommodate modern lock casings without compromising the structural integrity of original woodwork.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace from Consett's steel works era with an original heavy timber door \u2013 can you fit a modern mortice lock?",
+   "a": "Yes \u2013 our BS3621 mortice locks are designed to work with period timber frames and original door construction. We'll assess the door thickness and wood condition first to ensure a proper fit without compromising the door's structural integrity."
+  },
+  {
+   "q": "My council estate property still has the original pin-tumbler lock from the 1960s \u2013 what's the best upgrade?",
+   "a": "A TS007 anti-snap cylinder replacement is ideal for post-war council housing; it's a direct swap that dramatically improves security without requiring major door modifications, and it's approved by most insurers."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Consett \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Consett for terraced homes, council estates & semis. Like-for-like swaps or security upgrades. Same-day available.",
+ "door-lock-replacement.hero-paragraph": "When you need door lock replacement in Consett, our experienced locksmith brings professional locksmithing expertise to every job. Whether your lock has failed, you've lost keys, or you're moving home, we install BS3621 certified locks and offer anti-snap upgrades for enhanced security. Our like-for-like cylinder swaps ensure seamless fitting to your existing door.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Consett addresses wear and failure across a mixed housing stock. Victorian terraces from the steel industry era often retain original period locks requiring specialist removal and careful reinstallation to preserve door integrity. Post-war council estates and 1960s\u201370s semi-detached suburbs dominate the town's residential areas, where standard Yale and Chubb cylinder replacements form the bulk of call-outs as these systems reach end-of-life.\n\nPeriod properties in Consett frequently present non-standard door frames and timber construction that complicate straightforward cylinder swaps. Older mortice locks common in council housing stock may require precise measurement and sourcing of compatible mechanisms, especially where door thickness or lock positioning falls outside modern specifications. Even routine replacements on post-war estates benefit from knowledge of local construction standards to ensure proper fit and security function.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace from Consett's steel industry era with an original period lock. Can you replace it with a modern lock without damaging the door frame?",
+   "a": "Yes. We specialise in replacing period locks on Victorian and Edwardian terraces across Consett. We can fit a modern cylinder or mortice lock while carefully preserving your original timber door and frame\u2014or restore the period mechanism if you prefer authenticity."
+  },
+  {
+   "q": "My council estate property still has the original pin-tumbler lock from the 1960s\u201370s. Is it worth upgrading, and how long does replacement take?",
+   "a": "Absolutely worth upgrading for security and reliability. Most council estate lock replacements on Consett's post-war estates take 30\u201345 minutes; we can fit a modern Yale or Chubb cylinder same-day and discuss keying options with your neighbours if needed."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs in Consett \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Consett for terraced homes, council estates & semis. uPVC alignment, timber easing, handle repair & hardware replacement.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Consett from our experienced locksmith team specialising in locksmithing solutions. Whether your door has dropped, won't close properly, or is letting in draughts, we diagnose and repair the underlying issues. Our technicians handle hinge adjustment and frame alignment across uPVC, composite, and timber doors, restoring smooth operation and security to your home.",
+ "door-repairs.local-context-body": "Consett's post-war council estates and 1960s semi-detached suburbs frequently present door alignment and hardware issues stemming from decades of settlement and wear. Timber frames in these properties\u2014particularly in the terraced neighborhoods\u2014often drop or warp, causing doors to bind against frames or leave unsightly gaps. Standard Yale and Chubb locks fitted during the 1960s\u201370s expansion now require adjustment or full replacement as hinges loosen and door weight shifts.\n\nProperties across Consett built before the 1980s commonly feature original mortice and pin-tumbler systems housed in heavy timber doors. Repairs to these doors demand attention to both the frame integrity and the lock mechanism itself; modern cylinder replacements may require careful fitting to avoid damaging period joinery. Settlement patterns in older stock mean misalignment repair often runs parallel to lock servicing, requiring coordinated work on hardware, hinges, and door casings.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Consett often drop or misalign?",
+   "a": "Many of Consett's Victorian and Edwardian terraces from the steel works era have heavy timber frames and original period hinges that settle and warp over time. We specialise in realigning and repairing these period doors, plus sourcing compatible hardware that matches the original character."
+  },
+  {
+   "q": "Do you repair dropped doors on post-war council estate properties?",
+   "a": "Yes\u2014Consett's post-war estates have a substantial proportion of council housing where door frames and hinges commonly drop due to age and use. We fix sagging doors, replace worn hinges, and adjust frames to ensure smooth operation and security."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Consett \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Consett. Expert fixes for espagnolette & shootbolt locks on period timber frames & modern uPVC windows.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Consett locksmith specialises in window lock repair and replacement services, combining traditional locksmithing expertise with modern solutions. We address common issues including windows that won't lock and broken handles, repairing or replacing espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home security is properly restored.",
+ "window-lock-repair-replacement.local-context-body": "Consett's Victorian terraces and post-war semi-detached properties depend heavily on functional window locks for security and weatherproofing. Period properties from the steel industry era often feature original timber sash windows with traditional bolt mechanisms, while 1960s\u201370s suburban homes typically have aluminium or uPVC frames fitted with espagnolette locks. Both types experience wear from decades of use and exposure to the North East climate, making window lock repair and replacement a routine requirement across the town's distinct housing eras.\n\nMany of Consett's older terraced properties retain timber-framed windows that demand careful handling during lock servicing, as frames can be warped or fragile. Post-war council estates and suburban semis frequently use standard espagnolette or shootbolt systems that may be difficult to source as direct replacements if mechanisms are obsolete. Local engineers must often adapt or source compatible heritage components for period properties, or upgrade to modern locking systems that match existing frame specifications without requiring window replacement.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks fail so often in Consett's post-war council estates?",
+   "a": "Many properties from the 1960s\u20131970s council housing stock have original espagnolette and shootbolt locks that have corroded or worn after decades of use. Shield Locksmiths can inspect, repair, or replace these with modern equivalents while respecting the original door and frame integrity."
+  },
+  {
+   "q": "Can you repair period window locks on Victorian terraces from Consett's steel works era?",
+   "a": "Yes. Victorian and Edwardian terraces often have non-standard or decorative window fasteners that require specialist knowledge to repair safely. We assess whether restoration or replacement with compatible hardware is the best solution for your period property."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Consett \u2013 Trusted Local Service",
+ "safe-installation.meta.description": "Safe installation in Consett for terraced homes, semis & council estates. Wall, floor & freestanding safes with proper anchoring & insurance docs.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Consett from our expert locksmith team combines years of locksmithing experience with proper security practice. Whether you're securing a new safe for insurance approval or require AiS-approved positioning, we ensure floor anchoring and wall mounting are executed to the highest standards. Our technicians guarantee your valuables remain protected.",
+ "safe-installation.local-context-body": "Safe installation in Consett requires tailored approaches across the town's varied housing stock. Victorian terraces from the steel industry era often feature solid brick construction ideal for wall-safe anchoring, while 1960s\u201370s semi-detached properties typically have standard cavity walls requiring different fixing methods. Council estates present additional considerations, with many properties featuring non-standard wall compositions that demand structural assessment before installation.\n\nLocal properties frequently retain original timber door frames and period construction materials, which can complicate floor-safe positioning and cable routing. Many older Consett homes lack modern electrical infrastructure suitable for electronic safes, necessitating careful planning around existing wiring and building fabric. Proper anchoring in post-war properties often requires specialist knowledge of concrete and brick composition common to the era.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian terraces typical of Consett's steel industry era?",
+   "a": "Yes, we regularly install safes in Victorian and Edwardian terraces throughout Consett. We understand the structural challenges of period properties\u2014solid brick walls, uneven floors, and listed building considerations\u2014and ensure proper anchoring without compromising your home's character."
+  },
+  {
+   "q": "What's involved in safe installation for council estate properties in Consett?",
+   "a": "We install safes in post-war council estates across Consett, working with concrete block walls and standard floor construction common to these properties. We'll advise on the best location for weight distribution and anchoring, then provide full insurance documentation once fitted."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Consett \u2013 Fast & Trusted Service",
+ "safe-opening.meta.description": "Safe opening in Consett for lost keys, combinations & lockouts. Non-destructive opening of domestic & commercial safes. Council estates & period properties.",
+ "safe-opening.hero-paragraph": "Professional safe opening in Consett by our experienced locksmiths combines expert locksmithing with non-destructive techniques to regain access to your valuables. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, our specialists use combination dial manipulation and other precision methods to open your safe without damage. Fast, reliable service across Consett.",
+ "safe-opening.local-context-body": "Older safes are common fixtures in Consett's Victorian terraces and council estate properties, where residents often retain vintage security equipment alongside period locks and heavy timber frames. Safe opening requests in these areas frequently involve lost combinations or corroded mechanisms that predate modern cylinder technology, requiring non-destructive expertise to preserve both the safe and surrounding brickwork or joinery.\n\nMany of Consett's post-war properties feature safes installed during the 1960s\u20131970s expansion, when pin-tumbler and mortice-based locking systems dominated domestic security. Age-related degradation of internal mechanisms\u2014corrosion, spring fatigue, dial wear\u2014is common in these safes, and non-destructive opening often depends on understanding older engineering standards that differ substantially from contemporary designs.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Consett and found a locked safe with no combination \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties across Consett's Victorian and Edwardian housing stock. We'll assess the mechanism and use specialist techniques to regain access while preserving the safe's integrity."
+  },
+  {
+   "q": "We rent a property on one of Consett's post-war council estates and the safe was left by the previous tenant \u2013 what are our options?",
+   "a": "We can open the safe non-destructively if you've lost the combination or keys, and we'll provide documentation of the work for your landlord or letting agent. This is a common situation across Consett's council estate properties, and we handle it regularly."
+  }
+ ],
+ "home.areas-covered": [
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill"
+ ],
+ "locked-out.areas-covered": [
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown"
+ ],
+ "lock-changes.areas-covered": [
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge"
+ ],
+ "lock-repairs.areas-covered": [
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside"
+ ],
+ "door-repairs.areas-covered": [
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge"
+ ],
+ "safe-installation.areas-covered": [
+  "Benfieldside",
+  "Bridgehill",
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown"
+ ],
+ "safe-opening.areas-covered": [
+  "Delves Lane",
+  "Shotley Bridge",
+  "Templetown",
+  "Benfieldside",
+  "Bridgehill"
+ ]
 }

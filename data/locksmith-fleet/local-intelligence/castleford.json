@@ -1,196 +1,178 @@
 {
-  "location": "Castleford",
-  "neighborhoods": [
-    {
-      "name": "Glasshoughton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terraced"
-      ],
-      "notes": "high residential density"
-    },
-    {
-      "name": "Whitwood",
-      "era": "interwar",
-      "types": [
-        "terraced",
-        "semi-detached"
-      ],
-      "notes": "former mining community"
-    },
-    {
-      "name": "Wheldon",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Hightown",
-      "era": "Victorian",
-      "types": [
-        "terraced"
-      ],
-      "notes": "central older stock"
-    },
-    {
-      "name": "Ackton",
-      "era": "interwar",
-      "types": [
-        "terraced",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Airedale",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Cutsyke",
-      "era": "interwar",
-      "types": [
-        "terraced"
-      ]
-    },
-    {
-      "name": "Wheldale",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "New Fryston",
-      "era": "interwar",
-      "types": [
-        "terraced"
-      ],
-      "notes": "mining heritage area"
-    },
-    {
-      "name": "Allerton Bywater",
-      "era": "Victorian",
-      "types": [
-        "terraced",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Ledston",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terraced",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "North Featherstone",
-      "era": "interwar",
-      "types": [
-        "terraced",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Townville",
-      "era": "interwar",
-      "types": [
-        "terraced"
-      ]
-    },
-    {
-      "name": "Whitwood Mere",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Snydale",
-      "era": "interwar",
-      "types": [
-        "terraced"
-      ],
-      "notes": "former mining area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terraced",
-      "semi-detached",
-      "council estate"
-    ],
-    "era": "predominantly interwar and post-war with Victorian terrace stock",
-    "notable": "Former mining town with older working-class housing stock; many period locks on original properties requiring specialist attention"
+ "location": "Castleford",
+ "neighborhoods": [
+  {
+   "name": "Glasshoughton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terraced"
+   ],
+   "notes": "high residential density"
   },
-  "locksmith_relevant": [
-    "Older terraced and semi-detached stock across Whitwood, Ackton, and Hightown often retain original period locks needing expertise.",
-    "Post-war council estates (Wheldon, Glasshoughton) have standardised door mechanisms; bulk servicing and rekeying opportunities common.",
-    "Mining heritage areas show higher concentrations of older properties with worn locking mechanisms; preventative maintenance and upgrades drive local demand."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Castleford",
-    "overpass": "OSM Overpass bbox query, 24 named areas",
-    "coords": {
-      "lat": 53.7262305,
-      "lon": -1.3517218
-    }
+  {
+   "name": "Whitwood",
+   "era": "interwar",
+   "types": [
+    "terraced",
+    "semi-detached"
+   ],
+   "notes": "former mining community"
   },
-  "generated_at": "2026-05-13T18:02:22.854Z",
-  "all_areas": [
-    "Ackton",
-    "Airedale",
-    "Allerton Bywater",
-    "Cutsyke",
-    "Glasshoughton",
-    "Great Preston",
-    "Half Acres",
-    "Hightown",
-    "Hollinhurst",
-    "Ledston",
-    "Lower Mickletown",
-    "Marl Pits",
-    "Micklefields",
-    "New Fryston",
-    "North Featherstone",
-    "Red Hill",
-    "Round Hill",
-    "Snydale",
-    "Townville",
-    "Wheldale",
-    "Wheldon",
-    "Whitwood",
-    "Whitwood Mere",
-    "Woodend"
-  ],
-  "geo": {
-    "latitude": 53.7262305,
-    "longitude": -1.3517218
+  {
+   "name": "Wheldon",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ]
   },
-  "postcode_districts": [
-    "WF10",
-    "WF8"
-  ],
-  "postcode_meta": {
-    "WF10": {
-      "count": 14,
-      "sample": "WF10 5TY",
-      "admin": "Wakefield",
-      "via": "constituency=pontefract, castleford and knottingley"
-    },
-    "WF8": {
-      "count": 1,
-      "sample": "WF8 4BU",
-      "admin": "Wakefield",
-      "via": "constituency=pontefract, castleford and knottingley"
-    }
+  {
+   "name": "Hightown",
+   "era": "Victorian",
+   "types": [
+    "terraced"
+   ],
+   "notes": "central older stock"
+  },
+  {
+   "name": "Ackton",
+   "era": "interwar",
+   "types": [
+    "terraced",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Airedale",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Cutsyke",
+   "era": "interwar",
+   "types": [
+    "terraced"
+   ]
+  },
+  {
+   "name": "Wheldale",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "New Fryston",
+   "era": "interwar",
+   "types": [
+    "terraced"
+   ],
+   "notes": "mining heritage area"
+  },
+  {
+   "name": "Allerton Bywater",
+   "era": "Victorian",
+   "types": [
+    "terraced",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Ledston",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terraced",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "North Featherstone",
+   "era": "interwar",
+   "types": [
+    "terraced",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Townville",
+   "era": "interwar",
+   "types": [
+    "terraced"
+   ]
+  },
+  {
+   "name": "Whitwood Mere",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Snydale",
+   "era": "interwar",
+   "types": [
+    "terraced"
+   ],
+   "notes": "former mining area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terraced",
+   "semi-detached",
+   "council estate"
+  ],
+  "era": "predominantly interwar and post-war with Victorian terrace stock",
+  "notable": "Former mining town with older working-class housing stock; many period locks on original properties requiring specialist attention"
+ },
+ "locksmith_relevant": [
+  "Older terraced and semi-detached stock across Whitwood, Ackton, and Hightown often retain original period locks needing expertise.",
+  "Post-war council estates (Wheldon, Glasshoughton) have standardised door mechanisms; bulk servicing and rekeying opportunities common.",
+  "Mining heritage areas show higher concentrations of older properties with worn locking mechanisms; preventative maintenance and upgrades drive local demand."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Castleford",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Castleford, 6 named areas",
+  "coords": {
+   "lat": 53.7262305,
+   "lon": -1.3517218
+  }
+ },
+ "generated_at": "2026-05-13T18:02:22.854Z",
+ "all_areas": [
+  "Airedale",
+  "Cutsyke",
+  "Glasshoughton",
+  "Micklefields",
+  "Wheldon",
+  "Whitwood"
+ ],
+ "geo": {
+  "latitude": 53.7262305,
+  "longitude": -1.3517218
+ },
+ "postcode_districts": [
+  "WF10",
+  "WF8"
+ ],
+ "postcode_meta": {
+  "WF10": {
+   "count": 14,
+   "sample": "WF10 5TY",
+   "admin": "Wakefield",
+   "via": "constituency=pontefract, castleford and knottingley"
+  },
+  "WF8": {
+   "count": 1,
+   "sample": "WF8 4BU",
+   "admin": "Wakefield",
+   "via": "constituency=pontefract, castleford and knottingley"
+  }
+ }
 }

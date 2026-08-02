@@ -144,7 +144,7 @@
  ],
  "sources": {
   "nominatim": "https://nominatim.openstreetmap.org/search?q=Aldershot",
-  "overpass": "OSM places within 8km filtered to verified postcode districts (GU11, GU12, GU14), 3 named areas",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Aldershot, 4 named areas",
   "coords": {
    "lat": 51.2494169,
    "lon": -0.7630148
@@ -152,8 +152,9 @@
  },
  "generated_at": "2026-05-13T18:07:02.786Z",
  "all_areas": [
-  "Ash",
-  "Ash Vale",
+  "Cargate",
+  "East End",
+  "Gun Hill Park",
   "North Town"
  ],
  "geo": {

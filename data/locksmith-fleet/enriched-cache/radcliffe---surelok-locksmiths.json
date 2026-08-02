@@ -1,352 +1,269 @@
 {
-  "meta.title": "Locksmith Radcliffe | Local Locksmithing Service 24/7",
-  "meta.description": "Surelok Locksmiths Radcliffe: emergency call-outs, lock repairs and security for Victorian terraces, semis and commercial properties across town.",
-  "home.hero-paragraph": "Radcliffe locksmith services specialising in locksmithing and expert lock help are available around the clock. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and operate 24/7, ensuring rapid response whenever you need us.",
-  "home.local-context-heading": "Radcliffe's Victorian Mills to Modern Suburbs",
-  "home.local-context-body": "Radcliffe's Victorian terraces in Bank Top and Buckley Wells feature period locks and sash windows that require specialist attention. Sash cords wear, mortice locks jam, and period ironwork needs careful handling to preserve character. Post-war semis in newer suburbs have standard mortice locks suited to straightforward servicing. The density of rental properties across town means landlords frequently need emergency access solutions and multi-unit key systems.\n\nHigh-density terraced areas present particular challenges for HMO conversions, where multiple locks and access control become essential compliance matters. Conservation considerations apply to listed properties and period features in older neighborhoods; any lock replacement or modification should preserve original aesthetics where possible. Standard door types across Radcliffe—panelled timber doors in Victorian stock, hollow-core in modern semis—determine both lock compatibility and repair approach.",
-  "home.local-faqs": [
-    {
-      "q": "Do you service Victorian sash windows and period locks in properties like those in Warth Fold and Ainsworth?",
-      "a": "Yes, we specialise in servicing period locks and sash window mechanisms common in Radcliffe's Victorian terraced properties. These older mechanisms often require specialist knowledge, and we can advise on repair versus replacement to preserve your home's character."
-    },
-    {
-      "q": "We manage several rental properties across Radcliffe—what emergency lockout services do you offer?",
-      "a": "We provide rapid emergency callouts for multi-unit access issues, which is essential given the high density of rental properties across the town. We can arrange keying solutions and re-access for landlords and managing agents 24/7."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Radcliffe | Victorian Terraces 24/7",
-  "emergency-locksmith.meta.description": "Emergency locksmith Radcliffe – 24/7 lockouts, snapped keys & urgent repairs. Fast response for Victorian terraces, semis & rental properties. Call now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Radcliffe offers expert locksmithing and rapid response to lockouts, snapped keys, and doors that won't lock. Operating 24/7, our DBS-checked technicians specialise in non-destructive entry methods to restore access quickly and safely. We handle post-break-in repairs and secure your property with professional care.",
-  "emergency-locksmith.local-context-body": "Radcliffe's high concentration of rental properties across neighborhoods like Chapel Field and Elton means emergency lockouts are a frequent occurrence, particularly in multi-unit terraced buildings where landlords require rapid access solutions. Post-war semis in Clifton also generate urgent callouts from homeowners locked out of standard mortice-lock properties, especially during evenings and weekends when regular locksmiths are unavailable.\n\nVictorian terraces throughout the town feature period locks and sash window mechanisms that require specialized knowledge during emergency situations. Rapid response to these properties demands familiarity with older security hardware and the care needed to avoid damaging listed features, particularly when forced entry becomes necessary to restore immediate access.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Buckley Wells—how quickly can you arrive?",
-      "a": "We're based in Radcliffe and typically reach Victorian terraces in Buckley Wells within 30–45 minutes for emergency lockouts. Our technicians carry specialist tools for period locks and sash windows common to mill-area housing, so we can often open your door without damage."
-    },
-    {
-      "q": "My rental property in Bank Top had a break-in overnight—what do you offer for emergency security?",
-      "a": "We provide same-day emergency lock changes and door security upgrades for rental properties across Radcliffe, including traditional terraced streets like Bank Top. Call 0161 985 0038 immediately and we'll attend 24/7 to secure your property and fit new locks if needed."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Radcliffe | 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Radcliffe? Fast non-destructive entry for Victorian terraces, semis & flats. Lost or snapped keys? Emergency 24/7 service. Call 0161 985 0038.",
-  "locked-out.hero-paragraph": "When you're locked out in Radcliffe, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free approach ensures your property remains secure and intact.",
-  "locked-out.local-context-body": "Fishpool's interwar semi-detached properties typically feature standard mortice locks that respond well to non-destructive entry techniques, making locked-out calls in these neighborhoods straightforward for experienced locksmiths. The high density of rental properties across Radcliffe means emergency access situations frequently involve multiple occupants and landlord protocols, requiring swift resolution without property damage.\n\nVictorian terraces in Elton often present additional complexity due to period sash windows and older lock mechanisms that demand careful handling during non-destructive entry. The prevalence of listed properties and period features across town means locksmiths must verify building status before attempting entry, as some properties carry restrictions on drilling or forcing that would otherwise speed up the process.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Buckley Wells – can you open it without damaging the original sash windows or period frames?",
-      "a": "Yes, our locksmiths specialise in non-destructive entry on period properties like your Buckley Wells terrace. We use techniques that preserve original joinery and historic features while safely regaining access to your home."
-    },
-    {
-      "q": "I rent a property in Chapel Field and my keys are snapped inside – how quickly can Surelok help?",
-      "a": "We offer emergency callouts across Chapel Field and surrounding areas. As a high-density rental neighbourhood, we understand landlords and tenants need fast access; we'll typically attend within the hour to resolve your lockout non-destructively."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Radcliffe – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Radcliffe: expert extraction from euro cylinders, mortice locks & night latches. Fast professional service for Victorian terraces & modern semis.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Radcliffe requires a skilled locksmith with expertise in locksmithing to extract fragments safely from your lock. Our technicians utilise specialised key extractor tools and broken-key probes to retrieve snapped or sheared keys without damaging euro cylinders or mortice locks. We prioritise non-destructive methods to preserve your lock's integrity and function.",
-  "broken-key-removal.local-context-body": "Radcliffe's mix of Victorian terraces in Irwell Bank and interwar semis across Park Lane means broken key removal addresses two distinct lock profiles. Period properties feature traditional mortice locks prone to key fracture from wear, while newer semis typically have euro cylinders in standard doors. Rental properties throughout town generate frequent callouts when keys snap in communal or multiple-occupancy access points.\n\nThe density of terraced housing with original joinery creates practical constraints: period frames and doors often sit unevenly after decades of settlement, causing keys to bind and snap under pressure. Quick extraction becomes essential in rental blocks where multiple tenants depend on single entry routes. Euro cylinder removal in these properties requires care to avoid damage to non-standard door furniture common in older conversions.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My key snapped in the euro cylinder of my Victorian terrace in Gigg – can you remove it without damaging the lock?",
-      "a": "Yes, we specialise in extracting broken keys from euro cylinders in Victorian properties like those throughout Gigg. We use specialist removal techniques that preserve the cylinder, so you won't need a full replacement."
-    },
-    {
-      "q": "I'm a landlord with rental properties in Hollins and one tenant's key broke in a mortice lock – what's the fastest solution?",
-      "a": "We offer emergency broken key removal from mortice locks, which is common in the terraced housing throughout Hollins. We can extract the key and get the lock working again on the same day, minimising tenant downtime."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Radcliffe | Victorian & Terrace",
-  "burglar-repair-service.meta.description": "Burglar repair service in Radcliffe covering Victorian terraces and modern semis. Post-break-in lock changes, door repairs, insurance-compliant work.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair services in Radcliffe from our experienced locksmiths combine practical locksmithing expertise with damage assessment and restoration. We specialise in repairing forced entry damage, reinforcing compromised doors, and installing TS007 anti-snap cylinders to prevent future break-ins. Our work meets insurance-compliant standards, ensuring your property security is restored to full specification.",
-  "burglar-repair-service.local-context-body": "Chapel Field's interwar semi-detached properties often feature original timber frames and period joinery that require careful handling during post-break-in repairs. Burglar damage in these properties typically involves forced locks, splintered door frames, and compromised sash window mechanisms—each demanding specialist reinstatement to match insurance specifications and preserve the structural integrity of the original build.\n\nRadcliffe's significant rental property sector means many burglar repairs must satisfy landlord insurance requirements and, in multi-unit buildings, coordinate access reinstatement with tenancy agreements. Victorian terraces in Buckley Wells present additional complications: period mortice locks often need sourcing to match existing hardware, and lime mortar around door frames can be damaged during forced entry, requiring period-appropriate pointing and restoration before final lock installation.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle insurance-standard repairs for Victorian terrace break-ins in areas like Ainsworth?",
-      "a": "Yes, we specialise in post-break-in lock and door repairs that meet insurance reinstatement standards. For Victorian terraces with period sash windows and traditional locks, we ensure repairs preserve the original character while restoring full security."
-    },
-    {
-      "q": "Can you repair rental properties quickly after a break-in in Radcliffe?",
-      "a": "Absolutely—we understand the high density of rental properties across Radcliffe means rapid turnaround is essential. We provide emergency callouts and insurance-quality repairs to get multi-unit buildings secure and compliant without delay."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Radcliffe – Fast Response 24/7",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Radcliffe. Same-day boarding of smashed doors and windows in Victorian terraces and semis to secure your property.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Radcliffe from our locksmith specialists combines expert locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, our team installs secure plywood boards and weatherproof temporary seals around the clock. All work meets insurance-compliant standards to safeguard your premises immediately.",
-  "emergency-boarding-up.local-context-body": "Victorian terraces across Ainsworth feature period sash windows and traditional glazing that require careful handling during emergency boarding. The density of rental properties throughout Radcliffe creates frequent demand for rapid boarding-up responses, particularly following break-ins where landlords must secure units quickly to meet tenancy obligations and insurance requirements.\n\nPeriod properties in these areas often have listed-building restrictions that affect boarding methodology; contractors must use reversible techniques that avoid permanent damage to original frames and joinery. Standard mortice locks common to post-war semi-detached properties in outlying areas present different securing challenges when doors are compromised, requiring adapted boarding approaches to ensure effective temporary security.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can Surelok board up a Victorian terrace in Warth Fold after a break-in?",
-      "a": "We typically arrive within 1–2 hours for emergency callouts across Radcliffe, including Victorian properties in Warth Fold. Our team is experienced with the period sash windows and door frames common in terraced homes, ensuring secure, damage-minimising boarding that protects your property until permanent repairs are arranged."
-    },
-    {
-      "q": "Do you offer emergency boarding for rental properties in Radcliffe?",
-      "a": "Yes—the high density of rental stock across Radcliffe means we regularly handle emergency boarding for landlords and letting agents in areas like Ringley and Redvales. We work quickly to secure doors and windows after storm damage or break-ins, and can coordinate directly with property managers to minimise tenant disruption."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Radcliffe | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Radcliffe for Victorian terraces & modern homes. Lost keys, moving house, security upgrades. Fast professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Radcliffe require a skilled locksmith with modern locksmithing expertise to ensure your property remains secure. Whether you're moving home, changing tenancy, or upgrading security, we fit high-specification cylinders including TS007 anti-snap models and BS3621 mortice locks that meet current standards and provide lasting protection.",
-  "lock-changes.local-context-body": "Properties across Warth Fold and Ainsworth feature a mix of Victorian terraces and semi-detached homes, many of which retain original period locks alongside later upgrades. Lock changes in these established residential areas often involve replacing worn period mechanisms or updating security after property changes, reflecting the age and turnover of the housing stock.\n\nThe high proportion of rental properties throughout Radcliffe means lock changes are frequently required to meet tenancy standards and landlord obligations between occupants. Mortice locks on post-war semis and period rim locks on older terraces require different replacement approaches, and locksmiths working in the area must be equipped to handle both modern cylinder locks and traditional mechanisms depending on the property's age and construction.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Ainsworth – do I need specialist lock replacement?",
-      "a": "Yes, Victorian properties often have period-specific locks and sash window furniture that require specialist knowledge to replace safely without damaging the original frame. Our team at Surelok can source and fit compatible locks that maintain security while respecting your home's character."
-    },
-    {
-      "q": "We're renting out a property in Redvales with multiple units – what's the best approach for lock changes between tenants?",
-      "a": "For multi-unit rental properties, we recommend keyed-alike mortice locks on all units for streamlined management and emergency access. We can coordinate bulk lock changes quickly to meet turnaround times between tenants and ensure consistent security across your portfolio."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Radcliffe | Victorian & Modern Homes",
-  "lock-repairs.meta.description": "Expert lock repairs in Radcliffe for Victorian terraces, semis & rentals. Fix multipoint, mortice & night latch locks. 24/7 emergency callouts available.",
-  "lock-repairs.hero-paragraph": "Our expert locksmiths in Radcliffe specialise in lock repairs and locksmithing solutions for homes and businesses. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem promptly. Our work includes mortice maintenance and multipoint servicing, all backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Redvales' post-war semi-detached properties typically feature standard mortice locks that wear predictably over time, making lock repair a routine service across the suburb. The interwar terraced housing in Ringley presents similar patterns, though these older properties sometimes require attention to night latches and gearbox mechanisms that have seen decades of use.\n\nThe high proportion of rental properties throughout Radcliffe means many lock repairs are driven by tenant turnover and access issues rather than planned maintenance. Landlords and managing agents frequently request emergency callouts for failed multipoint locks on rental units, where rapid repair or replacement is essential to avoid void periods and compliance gaps.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Irwell Bank has a sticking sash window lock—can you repair it?",
-      "a": "Yes, we specialise in repairing period locks on Victorian properties across Radcliffe, including sash window mechanisms and traditional mortice locks common in riverside mill-heritage terraces like Irwell Bank. Call us on 0161 985 0038 for a same-day repair estimate."
-    },
-    {
-      "q": "The multipoint lock on my rental property in Hollins keeps jamming—what's involved in repair?",
-      "a": "Multipoint lock repairs typically involve cleaning, adjusting the gearbox, or replacing worn components; we handle these quickly to minimise tenant downtime in high-density terraced areas like Hollins. We're familiar with the rental property turnover in Radcliffe and offer fast emergency callouts."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Radcliffe | Victorian Terraces",
-  "door-lock-installation.meta.description": "Door lock installation in Radcliffe, Clifton & Chapel Field. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for terraces and semis.",
-  "door-lock-installation.hero-paragraph": "Our expert locksmith team in Radcliffe specialises in door lock installation and professional locksmithing services tailored to your security needs. Whether you require new fittings following a house move, a security upgrade with TS007 anti-snap cylinders, or installation to meet insurance requirements, we deliver reliable solutions meeting current British Standards. Our technicians ensure proper fitting and optimal performance every time.",
-  "door-lock-installation.local-context-body": "Clifton's post-war semi-detached properties typically feature standard mortice locks that benefit from upgrade to BS3621-approved mechanisms, while older Victorian terraces in Buckley Wells often retain period locks requiring specialist handling during replacement. The density of rental properties across Radcliffe creates consistent demand for compliant lock installations that meet landlord safety standards and insurance requirements.\n\nListed-building status affects a proportion of Radcliffe's Victorian housing stock, particularly in mill-town areas, necessitating sympathetic lock fitting that preserves original door materials and aesthetics. Modern anti-snap cylinder technology (TS007 standard) is increasingly specified for both domestic and commercial properties, reflecting heightened security awareness among owner-occupiers and business operators in the town.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Ainsworth need specialist lock installation?",
-      "a": "Victorian terraces often have period-specific door frames and sash windows that require careful handling during lock fitting. Our technicians are experienced in installing modern BS3621 mortice locks and TS007 anti-snap cylinders in these older properties without damaging original woodwork."
-    },
-    {
-      "q": "What lock solution do you recommend for rental properties across Radcliffe?",
-      "a": "Given the high density of rental properties in areas like Bank Top, we recommend multipoint lock systems combined with TS007 anti-snap cylinders for improved security and ease of access management. This protects both your tenants and your investment with modern, compliant hardware."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Radcliffe – Fast Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Radcliffe. Serving Victorian terraces and modern semis with like-for-like swaps or security upgrades. Same-day available.",
-  "door-lock-replacement.hero-paragraph": "Our Radcliffe locksmith specialises in door lock replacement and modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved mechanisms and offer anti-snap upgrades for enhanced security. Our like-for-like cylinder swaps ensure minimal disruption to your door frame whilst delivering dependable protection.",
-  "door-lock-replacement.local-context-body": "Bank Top's Victorian terraces often retain original period locks that may need upgrading for security or replacing after wear. Similarly, semi-detached properties in Black Lane typically feature standard mortice locks suitable for straightforward replacement. Door lock replacement across Radcliffe ranges from like-for-like swaps on functional doors to security upgrades on rental properties, where landlords frequently require emergency callouts following tenant changes or lock failures.\n\nThe high proportion of rental housing in Radcliffe means many door lock replacements occur on short timescales to meet tenancy turnovers. Victorian and interwar properties frequently present variations in door frame depth and lock-case sizing, requiring locksmiths to assess period-appropriate specifications before ordering replacement hardware. Post-war semi-detached properties generally accommodate standard modern locks without complications, allowing faster installation times.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Warth Fold with an original sash window lock that's worn out—can you replace it with a modern equivalent?",
-      "a": "Yes, we specialise in period lock replacement for Victorian properties across Radcliffe. We can source a like-for-like replacement that matches your original, or upgrade to a more secure modern mortice lock if preferred—call us on 0161 985 0038 to discuss your options."
-    },
-    {
-      "q": "We're landlords with several rental properties in Ainsworth—how often should we replace tenant door locks?",
-      "a": "We recommend replacing locks after each tenant turnover and whenever a lock shows signs of wear or damage. Given the high density of rental stock in Ainsworth, our emergency callout service can also handle urgent replacements if a tenant reports a faulty lock."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Radcliffe | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Radcliffe including Victorian terraces. Misaligned doors, hardware fixes, sash windows & composite door realignment.",
-  "door-repairs.hero-paragraph": "Our Radcliffe locksmith team specialises in door repairs and locksmithing solutions for homes across the area. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Common problems like misaligned frames and worn hinges respond well to our hinge adjustment and multipoint realignment techniques.",
-  "door-repairs.local-context-body": "Radcliffe's Victorian terraces, particularly in Hollins, frequently require door repairs due to age-related settling and warping of original timber frames. Period sash windows and entrance doors in these properties often drop or misalign as foundations shift slightly over decades. Post-war semi-detached homes in Outwood present different challenges, typically involving standard mortice locks and hinges that wear under regular domestic use.\n\nThe high proportion of rental properties across town means many door repairs involve multiple units requiring coordinated access solutions and swift turnaround to minimise tenant disruption. Victorian properties often feature non-standard door widths and threshold heights, necessitating careful measurement and bespoke hardware sourcing rather than off-the-shelf replacements.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Gigg often drop or become misaligned?",
-      "a": "Victorian properties settle unevenly over time, and the timber frames in Gigg's terraces can warp with age and moisture changes. We specialise in realigning these period doors and adjusting hinges to restore smooth operation without forcing them."
-    },
-    {
-      "q": "Do you repair doors on rental properties in Radcliffe?",
-      "a": "Yes—we handle emergency callouts for landlords and managing agents across Radcliffe's high-density rental stock, including misaligned doors, broken hardware, and damage from multiple tenancies. We can often visit same-day to prevent tenant disputes or security issues."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Radcliffe – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Radcliffe. Espagnolette and shootbolt locks fixed on Victorian terraces, semis & modern homes. Emergency callouts.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Radcliffe locksmith team specialises in window lock repair and replacement, applying expert locksmithing techniques to secure your home. We address common issues like windows that won't lock and broken handles, working with espagnolette mechanisms and shootbolt locks. All fitting meets insurance-compliant standards, ensuring your windows function reliably and safely.",
-  "window-lock-repair-replacement.local-context-body": "Dense terraced streets in Hollins and Irwell Bank retain original sash windows with period-appropriate locks that require specialist attention. Many of these Victorian frames have worn espagnolette mechanisms or shootbolt failures common to older designs. Window lock repair in these areas demands knowledge of heritage fitments alongside modern replacements where original hardware is beyond service.\n\nRadcliffe's high proportion of rental properties means window locks often service multiple occupancies, with landlord requirements for functional security across shared access points. Post-war semis in Outwood typically feature standard mortice locks on frames, but older terraces often present corrosion and frame movement affecting lock alignment—factors that influence both repair feasibility and replacement specification.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Gigg need specialist window lock repair?",
-      "a": "Victorian sash windows use period-specific espagnolette and shootbolt mechanisms that differ from modern locks; our technicians are trained to repair and replace these heritage fittings without damaging the original frames, which is essential for properties in Gigg and similar Victorian terraces across Radcliffe."
-    },
-    {
-      "q": "How quickly can you replace a broken window lock on rental properties in Radcliffe?",
-      "a": "We offer emergency same-day callouts for landlords and letting agents managing the high density of rental properties across Radcliffe, including multi-unit terraces in areas like Elton; we can attend, diagnose, and fit replacement espagnolette or shootbolt locks to get properties secure fast."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Radcliffe | Victorian & Modern Homes",
-  "safe-installation.meta.description": "Safe installation in Radcliffe for Victorian terraces and modern homes. Secure anchoring, insurance-compliant positioning. Professional fitting.",
-  "safe-installation.hero-paragraph": "Our Radcliffe locksmith team specialises in safe installation using expert locksmithing techniques to secure your valuables. Whether you're purchasing a new safe or need insurance approval documentation, we ensure proper floor anchoring and wall mounting for maximum protection. All installations meet Eurograde and AiS approved standards, guaranteeing your cash rating requirements are met.",
-  "safe-installation.local-context-body": "Victorian terraces in Elton and semi-detached properties across Fishpool represent Radcliffe's mixed housing stock, each with distinct safe-installation requirements. Terraced homes often feature solid brick walls suitable for wall-mounted safes, while interwar semis typically have cavity construction requiring different anchoring approaches. The high proportion of rental properties throughout the town creates additional demand for secure storage solutions, particularly in multi-unit buildings where landlords need documented security measures.\n\nListed-building consent may be required for properties in Radcliffe's Victorian areas, particularly where wall penetration is necessary for safe installation. Period properties frequently feature original plasterwork and lime mortar that demand specialist drilling techniques to avoid structural damage, adding complexity to the fitting process compared to post-war construction.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Buckley Wells need specialist safe installation?",
-      "a": "Victorian terraced walls are often thinner and built with softer brick and lime mortar, requiring careful assessment before wall-mounted safe installation to ensure proper anchoring and structural integrity. Our team surveys the wall composition first to recommend floor or freestanding options if needed, and provides full insurance documentation for peace of mind."
-    },
-    {
-      "q": "What safe installation options work best for rental properties across Radcliffe?",
-      "a": "High-density rental properties in areas like Chapel Field benefit from freestanding safes or portable floor-mounted units that don't require permanent wall fixtures, making them tenant-friendly while still meeting insurance requirements. We handle the anchoring, certification, and documentation landlords and tenants need."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Radcliffe – Fast, Trusted Local Service",
-  "safe-opening.meta.description": "Safe opening in Radcliffe: non-destructive access to domestic & commercial safes. Lost keys, combinations, lockouts. Serving Victorian terraces & modern homes.",
-  "safe-opening.hero-paragraph": "Our Radcliffe locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians manipulate combination dials with precision, ensuring your valuables remain secure and your safe fully operational.",
-  "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Radcliffe's Victorian terraces, particularly in Irwell Bank where period properties frequently house older mechanical safes alongside heritage fixtures. Rental properties across the town often contain safes installed by landlords or previous occupants, creating situations where current residents require access without original keys or documentation. Safe opening calls reflect both residential lockouts and the need to recover access to valuables in properties spanning from Victorian terraces to post-war suburban homes.\n\nRadcliffe's density of rental housing means safe opening requests frequently involve properties where documentation has been lost or transferred between multiple occupants. Victorian-era safes in terraced properties often feature combination locks that corrode or jam due to age and moisture exposure, particularly in riverside mill-heritage areas like Irwell Bank. Non-destructive opening requires assessment of safe condition and lock mechanism type before proceeding, with older models sometimes requiring specialist knowledge of period manufacturing standards.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm a landlord with rental properties across Radcliffe—can you open a tenant's safe without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for landlords managing high-density rental stock across Radcliffe. We'll recover access to lost combinations or keys without damaging the safe, preserving its value and your tenant relations."
-    },
-    {
-      "q": "We have an old safe in our Victorian terrace in Elton with a lost key—can you help?",
-      "a": "Absolutely. Many Victorian properties in Elton still have period safes that require specialist handling. We use non-destructive techniques to open them, whether the combination is lost or the key has gone missing."
-    }
-  ],
-  "home.areas-covered": [
-    "Ainsworth",
-    "Bank Top",
-    "Black Lane",
-    "Blackford Bridge",
-    "Buckley Wells",
-    "Chapel Field",
-    "Clifton",
-    "Clifton Green",
-    "Elton",
-    "Fishpool",
-    "Gigg",
-    "Hollins",
-    "Irwell Bank",
-    "Kilcoby",
-    "Outwood",
-    "Outwood Gate",
-    "Park Lane",
-    "Redvales",
-    "Ringley",
-    "Warth Fold",
-    "Woodhill Fold"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Ringley",
-    "Black Lane",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ],
-  "locked-out.areas-covered": [
-    "Woodhill Fold",
-    "Chapel Field",
-    "Warth Fold",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Blackford Bridge",
-    "Ainsworth",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Kilcoby",
-    "Clifton Green",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Redvales",
-    "Buckley Wells",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins"
-  ],
-  "lock-changes.areas-covered": [
-    "Warth Fold",
-    "Park Lane",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ],
-  "lock-repairs.areas-covered": [
-    "Irwell Bank",
-    "Bank Top",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Hollins",
-    "Ainsworth"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Outwood",
-    "Clifton",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Outwood Gate",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ],
-  "door-repairs.areas-covered": [
-    "Fishpool",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Elton",
-    "Warth Fold",
-    "Chapel Field",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top",
-    "Ainsworth"
-  ],
-  "safe-installation.areas-covered": [
-    "Hollins",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Bank Top",
-    "Ainsworth"
-  ],
-  "safe-opening.areas-covered": [
-    "Gigg",
-    "Warth Fold",
-    "Chapel Field",
-    "Elton",
-    "Black Lane",
-    "Irwell Bank",
-    "Hollins",
-    "Bank Top"
-  ]
+ "meta.title": "Locksmith Radcliffe | Local Locksmithing Service 24/7",
+ "meta.description": "Surelok Locksmiths Radcliffe: emergency call-outs, lock repairs and security for Victorian terraces, semis and commercial properties across town.",
+ "home.hero-paragraph": "Radcliffe locksmith services specialising in locksmithing and expert lock help are available around the clock. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and operate 24/7, ensuring rapid response whenever you need us.",
+ "home.local-context-heading": "Radcliffe's Victorian Mills to Modern Suburbs",
+ "home.local-context-body": "Radcliffe's Victorian terraces in Bank Top and Buckley Wells feature period locks and sash windows that require specialist attention. Sash cords wear, mortice locks jam, and period ironwork needs careful handling to preserve character. Post-war semis in newer suburbs have standard mortice locks suited to straightforward servicing. The density of rental properties across town means landlords frequently need emergency access solutions and multi-unit key systems.\n\nHigh-density terraced areas present particular challenges for HMO conversions, where multiple locks and access control become essential compliance matters. Conservation considerations apply to listed properties and period features in older neighborhoods; any lock replacement or modification should preserve original aesthetics where possible. Standard door types across Radcliffe\u2014panelled timber doors in Victorian stock, hollow-core in modern semis\u2014determine both lock compatibility and repair approach.",
+ "home.local-faqs": [
+  {
+   "q": "Do you service Victorian sash windows and period locks in properties like those in Warth Fold and Ainsworth?",
+   "a": "Yes, we specialise in servicing period locks and sash window mechanisms common in Radcliffe's Victorian terraced properties. These older mechanisms often require specialist knowledge, and we can advise on repair versus replacement to preserve your home's character."
+  },
+  {
+   "q": "We manage several rental properties across Radcliffe\u2014what emergency lockout services do you offer?",
+   "a": "We provide rapid emergency callouts for multi-unit access issues, which is essential given the high density of rental properties across the town. We can arrange keying solutions and re-access for landlords and managing agents 24/7."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Radcliffe | Victorian Terraces 24/7",
+ "emergency-locksmith.meta.description": "Emergency locksmith Radcliffe \u2013 24/7 lockouts, snapped keys & urgent repairs. Fast response for Victorian terraces, semis & rental properties. Call now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Radcliffe offers expert locksmithing and rapid response to lockouts, snapped keys, and doors that won't lock. Operating 24/7, our DBS-checked technicians specialise in non-destructive entry methods to restore access quickly and safely. We handle post-break-in repairs and secure your property with professional care.",
+ "emergency-locksmith.local-context-body": "Radcliffe's high concentration of rental properties across neighborhoods like Chapel Field and Elton means emergency lockouts are a frequent occurrence, particularly in multi-unit terraced buildings where landlords require rapid access solutions. Post-war semis in Clifton also generate urgent callouts from homeowners locked out of standard mortice-lock properties, especially during evenings and weekends when regular locksmiths are unavailable.\n\nVictorian terraces throughout the town feature period locks and sash window mechanisms that require specialized knowledge during emergency situations. Rapid response to these properties demands familiarity with older security hardware and the care needed to avoid damaging listed features, particularly when forced entry becomes necessary to restore immediate access.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Buckley Wells\u2014how quickly can you arrive?",
+   "a": "We're based in Radcliffe and typically reach Victorian terraces in Buckley Wells within 30\u201345 minutes for emergency lockouts. Our technicians carry specialist tools for period locks and sash windows common to mill-area housing, so we can often open your door without damage."
+  },
+  {
+   "q": "My rental property in Bank Top had a break-in overnight\u2014what do you offer for emergency security?",
+   "a": "We provide same-day emergency lock changes and door security upgrades for rental properties across Radcliffe, including traditional terraced streets like Bank Top. Call 0161 985 0038 immediately and we'll attend 24/7 to secure your property and fit new locks if needed."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Radcliffe | 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Radcliffe? Fast non-destructive entry for Victorian terraces, semis & flats. Lost or snapped keys? Emergency 24/7 service. Call 0161 985 0038.",
+ "locked-out.hero-paragraph": "When you're locked out in Radcliffe, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free approach ensures your property remains secure and intact.",
+ "locked-out.local-context-body": "Fishpool's interwar semi-detached properties typically feature standard mortice locks that respond well to non-destructive entry techniques, making locked-out calls in these neighborhoods straightforward for experienced locksmiths. The high density of rental properties across Radcliffe means emergency access situations frequently involve multiple occupants and landlord protocols, requiring swift resolution without property damage.\n\nVictorian terraces in Elton often present additional complexity due to period sash windows and older lock mechanisms that demand careful handling during non-destructive entry. The prevalence of listed properties and period features across town means locksmiths must verify building status before attempting entry, as some properties carry restrictions on drilling or forcing that would otherwise speed up the process.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Buckley Wells \u2013 can you open it without damaging the original sash windows or period frames?",
+   "a": "Yes, our locksmiths specialise in non-destructive entry on period properties like your Buckley Wells terrace. We use techniques that preserve original joinery and historic features while safely regaining access to your home."
+  },
+  {
+   "q": "I rent a property in Chapel Field and my keys are snapped inside \u2013 how quickly can Surelok help?",
+   "a": "We offer emergency callouts across Chapel Field and surrounding areas. As a high-density rental neighbourhood, we understand landlords and tenants need fast access; we'll typically attend within the hour to resolve your lockout non-destructively."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Radcliffe \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Radcliffe: expert extraction from euro cylinders, mortice locks & night latches. Fast professional service for Victorian terraces & modern semis.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Radcliffe requires a skilled locksmith with expertise in locksmithing to extract fragments safely from your lock. Our technicians utilise specialised key extractor tools and broken-key probes to retrieve snapped or sheared keys without damaging euro cylinders or mortice locks. We prioritise non-destructive methods to preserve your lock's integrity and function.",
+ "broken-key-removal.local-context-body": "Radcliffe's mix of Victorian terraces in Irwell Bank and interwar semis across Park Lane means broken key removal addresses two distinct lock profiles. Period properties feature traditional mortice locks prone to key fracture from wear, while newer semis typically have euro cylinders in standard doors. Rental properties throughout town generate frequent callouts when keys snap in communal or multiple-occupancy access points.\n\nThe density of terraced housing with original joinery creates practical constraints: period frames and doors often sit unevenly after decades of settlement, causing keys to bind and snap under pressure. Quick extraction becomes essential in rental blocks where multiple tenants depend on single entry routes. Euro cylinder removal in these properties requires care to avoid damage to non-standard door furniture common in older conversions.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My key snapped in the euro cylinder of my Victorian terrace in Gigg \u2013 can you remove it without damaging the lock?",
+   "a": "Yes, we specialise in extracting broken keys from euro cylinders in Victorian properties like those throughout Gigg. We use specialist removal techniques that preserve the cylinder, so you won't need a full replacement."
+  },
+  {
+   "q": "I'm a landlord with rental properties in Hollins and one tenant's key broke in a mortice lock \u2013 what's the fastest solution?",
+   "a": "We offer emergency broken key removal from mortice locks, which is common in the terraced housing throughout Hollins. We can extract the key and get the lock working again on the same day, minimising tenant downtime."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Radcliffe | Victorian & Terrace",
+ "burglar-repair-service.meta.description": "Burglar repair service in Radcliffe covering Victorian terraces and modern semis. Post-break-in lock changes, door repairs, insurance-compliant work.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair services in Radcliffe from our experienced locksmiths combine practical locksmithing expertise with damage assessment and restoration. We specialise in repairing forced entry damage, reinforcing compromised doors, and installing TS007 anti-snap cylinders to prevent future break-ins. Our work meets insurance-compliant standards, ensuring your property security is restored to full specification.",
+ "burglar-repair-service.local-context-body": "Chapel Field's interwar semi-detached properties often feature original timber frames and period joinery that require careful handling during post-break-in repairs. Burglar damage in these properties typically involves forced locks, splintered door frames, and compromised sash window mechanisms\u2014each demanding specialist reinstatement to match insurance specifications and preserve the structural integrity of the original build.\n\nRadcliffe's significant rental property sector means many burglar repairs must satisfy landlord insurance requirements and, in multi-unit buildings, coordinate access reinstatement with tenancy agreements. Victorian terraces in Buckley Wells present additional complications: period mortice locks often need sourcing to match existing hardware, and lime mortar around door frames can be damaged during forced entry, requiring period-appropriate pointing and restoration before final lock installation.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle insurance-standard repairs for Victorian terrace break-ins in areas like Ainsworth?",
+   "a": "Yes, we specialise in post-break-in lock and door repairs that meet insurance reinstatement standards. For Victorian terraces with period sash windows and traditional locks, we ensure repairs preserve the original character while restoring full security."
+  },
+  {
+   "q": "Can you repair rental properties quickly after a break-in in Radcliffe?",
+   "a": "Absolutely\u2014we understand the high density of rental properties across Radcliffe means rapid turnaround is essential. We provide emergency callouts and insurance-quality repairs to get multi-unit buildings secure and compliant without delay."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Radcliffe \u2013 Fast Response 24/7",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Radcliffe. Same-day boarding of smashed doors and windows in Victorian terraces and semis to secure your property.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Radcliffe from our locksmith specialists combines expert locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, our team installs secure plywood boards and weatherproof temporary seals around the clock. All work meets insurance-compliant standards to safeguard your premises immediately.",
+ "emergency-boarding-up.local-context-body": "Victorian terraces across Ainsworth feature period sash windows and traditional glazing that require careful handling during emergency boarding. The density of rental properties throughout Radcliffe creates frequent demand for rapid boarding-up responses, particularly following break-ins where landlords must secure units quickly to meet tenancy obligations and insurance requirements.\n\nPeriod properties in these areas often have listed-building restrictions that affect boarding methodology; contractors must use reversible techniques that avoid permanent damage to original frames and joinery. Standard mortice locks common to post-war semi-detached properties in outlying areas present different securing challenges when doors are compromised, requiring adapted boarding approaches to ensure effective temporary security.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can Surelok board up a Victorian terrace in Warth Fold after a break-in?",
+   "a": "We typically arrive within 1\u20132 hours for emergency callouts across Radcliffe, including Victorian properties in Warth Fold. Our team is experienced with the period sash windows and door frames common in terraced homes, ensuring secure, damage-minimising boarding that protects your property until permanent repairs are arranged."
+  },
+  {
+   "q": "Do you offer emergency boarding for rental properties in Radcliffe?",
+   "a": "Yes\u2014the high density of rental stock across Radcliffe means we regularly handle emergency boarding for landlords and letting agents in areas like Ringley and Redvales. We work quickly to secure doors and windows after storm damage or break-ins, and can coordinate directly with property managers to minimise tenant disruption."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Radcliffe | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Radcliffe for Victorian terraces & modern homes. Lost keys, moving house, security upgrades. Fast professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Radcliffe require a skilled locksmith with modern locksmithing expertise to ensure your property remains secure. Whether you're moving home, changing tenancy, or upgrading security, we fit high-specification cylinders including TS007 anti-snap models and BS3621 mortice locks that meet current standards and provide lasting protection.",
+ "lock-changes.local-context-body": "Properties across Warth Fold and Ainsworth feature a mix of Victorian terraces and semi-detached homes, many of which retain original period locks alongside later upgrades. Lock changes in these established residential areas often involve replacing worn period mechanisms or updating security after property changes, reflecting the age and turnover of the housing stock.\n\nThe high proportion of rental properties throughout Radcliffe means lock changes are frequently required to meet tenancy standards and landlord obligations between occupants. Mortice locks on post-war semis and period rim locks on older terraces require different replacement approaches, and locksmiths working in the area must be equipped to handle both modern cylinder locks and traditional mechanisms depending on the property's age and construction.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Ainsworth \u2013 do I need specialist lock replacement?",
+   "a": "Yes, Victorian properties often have period-specific locks and sash window furniture that require specialist knowledge to replace safely without damaging the original frame. Our team at Surelok can source and fit compatible locks that maintain security while respecting your home's character."
+  },
+  {
+   "q": "We're renting out a property in Redvales with multiple units \u2013 what's the best approach for lock changes between tenants?",
+   "a": "For multi-unit rental properties, we recommend keyed-alike mortice locks on all units for streamlined management and emergency access. We can coordinate bulk lock changes quickly to meet turnaround times between tenants and ensure consistent security across your portfolio."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Radcliffe | Victorian & Modern Homes",
+ "lock-repairs.meta.description": "Expert lock repairs in Radcliffe for Victorian terraces, semis & rentals. Fix multipoint, mortice & night latch locks. 24/7 emergency callouts available.",
+ "lock-repairs.hero-paragraph": "Our expert locksmiths in Radcliffe specialise in lock repairs and locksmithing solutions for homes and businesses. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem promptly. Our work includes mortice maintenance and multipoint servicing, all backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Redvales' post-war semi-detached properties typically feature standard mortice locks that wear predictably over time, making lock repair a routine service across the suburb. The interwar terraced housing in Ringley presents similar patterns, though these older properties sometimes require attention to night latches and gearbox mechanisms that have seen decades of use.\n\nThe high proportion of rental properties throughout Radcliffe means many lock repairs are driven by tenant turnover and access issues rather than planned maintenance. Landlords and managing agents frequently request emergency callouts for failed multipoint locks on rental units, where rapid repair or replacement is essential to avoid void periods and compliance gaps.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Irwell Bank has a sticking sash window lock\u2014can you repair it?",
+   "a": "Yes, we specialise in repairing period locks on Victorian properties across Radcliffe, including sash window mechanisms and traditional mortice locks common in riverside mill-heritage terraces like Irwell Bank. Call us on 0161 985 0038 for a same-day repair estimate."
+  },
+  {
+   "q": "The multipoint lock on my rental property in Hollins keeps jamming\u2014what's involved in repair?",
+   "a": "Multipoint lock repairs typically involve cleaning, adjusting the gearbox, or replacing worn components; we handle these quickly to minimise tenant downtime in high-density terraced areas like Hollins. We're familiar with the rental property turnover in Radcliffe and offer fast emergency callouts."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Radcliffe | Victorian Terraces",
+ "door-lock-installation.meta.description": "Door lock installation in Radcliffe, Clifton & Chapel Field. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for terraces and semis.",
+ "door-lock-installation.hero-paragraph": "Our expert locksmith team in Radcliffe specialises in door lock installation and professional locksmithing services tailored to your security needs. Whether you require new fittings following a house move, a security upgrade with TS007 anti-snap cylinders, or installation to meet insurance requirements, we deliver reliable solutions meeting current British Standards. Our technicians ensure proper fitting and optimal performance every time.",
+ "door-lock-installation.local-context-body": "Clifton's post-war semi-detached properties typically feature standard mortice locks that benefit from upgrade to BS3621-approved mechanisms, while older Victorian terraces in Buckley Wells often retain period locks requiring specialist handling during replacement. The density of rental properties across Radcliffe creates consistent demand for compliant lock installations that meet landlord safety standards and insurance requirements.\n\nListed-building status affects a proportion of Radcliffe's Victorian housing stock, particularly in mill-town areas, necessitating sympathetic lock fitting that preserves original door materials and aesthetics. Modern anti-snap cylinder technology (TS007 standard) is increasingly specified for both domestic and commercial properties, reflecting heightened security awareness among owner-occupiers and business operators in the town.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Ainsworth need specialist lock installation?",
+   "a": "Victorian terraces often have period-specific door frames and sash windows that require careful handling during lock fitting. Our technicians are experienced in installing modern BS3621 mortice locks and TS007 anti-snap cylinders in these older properties without damaging original woodwork."
+  },
+  {
+   "q": "What lock solution do you recommend for rental properties across Radcliffe?",
+   "a": "Given the high density of rental properties in areas like Bank Top, we recommend multipoint lock systems combined with TS007 anti-snap cylinders for improved security and ease of access management. This protects both your tenants and your investment with modern, compliant hardware."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Radcliffe \u2013 Fast Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Radcliffe. Serving Victorian terraces and modern semis with like-for-like swaps or security upgrades. Same-day available.",
+ "door-lock-replacement.hero-paragraph": "Our Radcliffe locksmith specialises in door lock replacement and modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved mechanisms and offer anti-snap upgrades for enhanced security. Our like-for-like cylinder swaps ensure minimal disruption to your door frame whilst delivering dependable protection.",
+ "door-lock-replacement.local-context-body": "Bank Top's Victorian terraces often retain original period locks that may need upgrading for security or replacing after wear. Similarly, semi-detached properties in Black Lane typically feature standard mortice locks suitable for straightforward replacement. Door lock replacement across Radcliffe ranges from like-for-like swaps on functional doors to security upgrades on rental properties, where landlords frequently require emergency callouts following tenant changes or lock failures.\n\nThe high proportion of rental housing in Radcliffe means many door lock replacements occur on short timescales to meet tenancy turnovers. Victorian and interwar properties frequently present variations in door frame depth and lock-case sizing, requiring locksmiths to assess period-appropriate specifications before ordering replacement hardware. Post-war semi-detached properties generally accommodate standard modern locks without complications, allowing faster installation times.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Warth Fold with an original sash window lock that's worn out\u2014can you replace it with a modern equivalent?",
+   "a": "Yes, we specialise in period lock replacement for Victorian properties across Radcliffe. We can source a like-for-like replacement that matches your original, or upgrade to a more secure modern mortice lock if preferred\u2014call us on 0161 985 0038 to discuss your options."
+  },
+  {
+   "q": "We're landlords with several rental properties in Ainsworth\u2014how often should we replace tenant door locks?",
+   "a": "We recommend replacing locks after each tenant turnover and whenever a lock shows signs of wear or damage. Given the high density of rental stock in Ainsworth, our emergency callout service can also handle urgent replacements if a tenant reports a faulty lock."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Radcliffe | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Radcliffe including Victorian terraces. Misaligned doors, hardware fixes, sash windows & composite door realignment.",
+ "door-repairs.hero-paragraph": "Our Radcliffe locksmith team specialises in door repairs and locksmithing solutions for homes across the area. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Common problems like misaligned frames and worn hinges respond well to our hinge adjustment and multipoint realignment techniques.",
+ "door-repairs.local-context-body": "Radcliffe's Victorian terraces, particularly in Hollins, frequently require door repairs due to age-related settling and warping of original timber frames. Period sash windows and entrance doors in these properties often drop or misalign as foundations shift slightly over decades. Post-war semi-detached homes in Outwood present different challenges, typically involving standard mortice locks and hinges that wear under regular domestic use.\n\nThe high proportion of rental properties across town means many door repairs involve multiple units requiring coordinated access solutions and swift turnaround to minimise tenant disruption. Victorian properties often feature non-standard door widths and threshold heights, necessitating careful measurement and bespoke hardware sourcing rather than off-the-shelf replacements.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Gigg often drop or become misaligned?",
+   "a": "Victorian properties settle unevenly over time, and the timber frames in Gigg's terraces can warp with age and moisture changes. We specialise in realigning these period doors and adjusting hinges to restore smooth operation without forcing them."
+  },
+  {
+   "q": "Do you repair doors on rental properties in Radcliffe?",
+   "a": "Yes\u2014we handle emergency callouts for landlords and managing agents across Radcliffe's high-density rental stock, including misaligned doors, broken hardware, and damage from multiple tenancies. We can often visit same-day to prevent tenant disputes or security issues."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Radcliffe \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Radcliffe. Espagnolette and shootbolt locks fixed on Victorian terraces, semis & modern homes. Emergency callouts.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Radcliffe locksmith team specialises in window lock repair and replacement, applying expert locksmithing techniques to secure your home. We address common issues like windows that won't lock and broken handles, working with espagnolette mechanisms and shootbolt locks. All fitting meets insurance-compliant standards, ensuring your windows function reliably and safely.",
+ "window-lock-repair-replacement.local-context-body": "Dense terraced streets in Hollins and Irwell Bank retain original sash windows with period-appropriate locks that require specialist attention. Many of these Victorian frames have worn espagnolette mechanisms or shootbolt failures common to older designs. Window lock repair in these areas demands knowledge of heritage fitments alongside modern replacements where original hardware is beyond service.\n\nRadcliffe's high proportion of rental properties means window locks often service multiple occupancies, with landlord requirements for functional security across shared access points. Post-war semis in Outwood typically feature standard mortice locks on frames, but older terraces often present corrosion and frame movement affecting lock alignment\u2014factors that influence both repair feasibility and replacement specification.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Gigg need specialist window lock repair?",
+   "a": "Victorian sash windows use period-specific espagnolette and shootbolt mechanisms that differ from modern locks; our technicians are trained to repair and replace these heritage fittings without damaging the original frames, which is essential for properties in Gigg and similar Victorian terraces across Radcliffe."
+  },
+  {
+   "q": "How quickly can you replace a broken window lock on rental properties in Radcliffe?",
+   "a": "We offer emergency same-day callouts for landlords and letting agents managing the high density of rental properties across Radcliffe, including multi-unit terraces in areas like Elton; we can attend, diagnose, and fit replacement espagnolette or shootbolt locks to get properties secure fast."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Radcliffe | Victorian & Modern Homes",
+ "safe-installation.meta.description": "Safe installation in Radcliffe for Victorian terraces and modern homes. Secure anchoring, insurance-compliant positioning. Professional fitting.",
+ "safe-installation.hero-paragraph": "Our Radcliffe locksmith team specialises in safe installation using expert locksmithing techniques to secure your valuables. Whether you're purchasing a new safe or need insurance approval documentation, we ensure proper floor anchoring and wall mounting for maximum protection. All installations meet Eurograde and AiS approved standards, guaranteeing your cash rating requirements are met.",
+ "safe-installation.local-context-body": "Victorian terraces in Elton and semi-detached properties across Fishpool represent Radcliffe's mixed housing stock, each with distinct safe-installation requirements. Terraced homes often feature solid brick walls suitable for wall-mounted safes, while interwar semis typically have cavity construction requiring different anchoring approaches. The high proportion of rental properties throughout the town creates additional demand for secure storage solutions, particularly in multi-unit buildings where landlords need documented security measures.\n\nListed-building consent may be required for properties in Radcliffe's Victorian areas, particularly where wall penetration is necessary for safe installation. Period properties frequently feature original plasterwork and lime mortar that demand specialist drilling techniques to avoid structural damage, adding complexity to the fitting process compared to post-war construction.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Buckley Wells need specialist safe installation?",
+   "a": "Victorian terraced walls are often thinner and built with softer brick and lime mortar, requiring careful assessment before wall-mounted safe installation to ensure proper anchoring and structural integrity. Our team surveys the wall composition first to recommend floor or freestanding options if needed, and provides full insurance documentation for peace of mind."
+  },
+  {
+   "q": "What safe installation options work best for rental properties across Radcliffe?",
+   "a": "High-density rental properties in areas like Chapel Field benefit from freestanding safes or portable floor-mounted units that don't require permanent wall fixtures, making them tenant-friendly while still meeting insurance requirements. We handle the anchoring, certification, and documentation landlords and tenants need."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Radcliffe \u2013 Fast, Trusted Local Service",
+ "safe-opening.meta.description": "Safe opening in Radcliffe: non-destructive access to domestic & commercial safes. Lost keys, combinations, lockouts. Serving Victorian terraces & modern homes.",
+ "safe-opening.hero-paragraph": "Our Radcliffe locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians manipulate combination dials with precision, ensuring your valuables remain secure and your safe fully operational.",
+ "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Radcliffe's Victorian terraces, particularly in Irwell Bank where period properties frequently house older mechanical safes alongside heritage fixtures. Rental properties across the town often contain safes installed by landlords or previous occupants, creating situations where current residents require access without original keys or documentation. Safe opening calls reflect both residential lockouts and the need to recover access to valuables in properties spanning from Victorian terraces to post-war suburban homes.\n\nRadcliffe's density of rental housing means safe opening requests frequently involve properties where documentation has been lost or transferred between multiple occupants. Victorian-era safes in terraced properties often feature combination locks that corrode or jam due to age and moisture exposure, particularly in riverside mill-heritage areas like Irwell Bank. Non-destructive opening requires assessment of safe condition and lock mechanism type before proceeding, with older models sometimes requiring specialist knowledge of period manufacturing standards.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm a landlord with rental properties across Radcliffe\u2014can you open a tenant's safe without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for landlords managing high-density rental stock across Radcliffe. We'll recover access to lost combinations or keys without damaging the safe, preserving its value and your tenant relations."
+  },
+  {
+   "q": "We have an old safe in our Victorian terrace in Elton with a lost key\u2014can you help?",
+   "a": "Absolutely. Many Victorian properties in Elton still have period safes that require specialist handling. We use non-destructive techniques to open them, whether the combination is lost or the key has gone missing."
+  }
+ ],
+ "home.areas-covered": [
+  "Black Lane",
+  "Chapel Field",
+  "Outwood Gate"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Black Lane",
+  "Chapel Field",
+  "Outwood Gate"
+ ],
+ "locked-out.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "lock-changes.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "lock-repairs.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Outwood Gate",
+  "Chapel Field",
+  "Black Lane"
+ ],
+ "door-repairs.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "safe-installation.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ],
+ "safe-opening.areas-covered": [
+  "Chapel Field",
+  "Black Lane",
+  "Outwood Gate"
+ ]
 }

@@ -1,255 +1,241 @@
 {
-  "meta.title": "Locksmith Ormskirk | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted Ormskirk locksmith serving Victorian terraces, student rentals and Aughton homes. Emergency callouts, repairs, rekeying and security upgrades.",
-  "home.hero-paragraph": "Ormskirk locksmith services specialising in professional locksmithing and expert lock assistance are available when you need them most. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry methods. Our DBS-checked technicians operate 24/7 and are fully insured, ensuring reliable help whenever disaster strikes.",
-  "home.local-context-heading": "Securing Ormskirk's Victorian and Modern Homes",
-  "home.local-context-body": "Ormskirk's Victorian and Edwardian terraces, particularly concentrated in Town Green, commonly require specialist lock repair and replacement work. Period sash windows and original door mechanisms in these conservation-area properties need sympathetic handling to preserve their character while meeting modern security standards. Semi-detached and detached homes across Aughton and surrounding areas often need lock upgrades and reinforcement to existing wooden doors without structural damage.\n\nLandlords managing rental properties in Ormskirk face specific security considerations, especially given the high student population and HMO activity around Edge Hill University. Multi-occupancy properties require coordinated rekeying and access control solutions compliant with letting standards. Listed buildings and conservation-designated homes need locksmiths experienced in working with period features; unsuitable modern interventions can breach planning consent and damage property value.",
-  "home.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Town Green – can you replace my original lock without damaging the door?",
-      "a": "Yes. Our locksmiths specialise in sympathetic lock replacement on period properties within the conservation area, preserving original doors while upgrading to modern security. We understand the heritage requirements and can advise on listed-building-compliant solutions."
-    },
-    {
-      "q": "We're a student HMO in Ormskirk – do you offer rekeying for multi-occupancy properties?",
-      "a": "Absolutely. We provide fast emergency callouts and bulk rekeying services for rental properties and HMOs, including master key systems and access upgrades to meet modern letting standards."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Ormskirk – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Ormskirk. Locked out of your Victorian terrace or home? Fast response, key extraction, lock repairs & non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Ormskirk, our experienced locksmiths bring professional locksmithing expertise to every call. We specialise in rapid response to lockouts, snapped keys, and doors that won't secure properly. Our DBS-checked technicians use non-destructive entry methods whenever possible, available 24/7 to resolve your situation quickly and with minimal damage.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Aughton's semi-detached and detached homes often involve modern composite or uPVC doors where lock mechanisms can jam or fail without warning. The residential suburb's family-oriented character means daytime lockouts are frequent, particularly when keys are mislaid during school runs or work commutes. Post-war construction in the area typically features straightforward lock systems that respond well to rapid replacement or repair.\n\nTown Green's conservation area presents distinct challenges for emergency work: many period properties retain original Victorian and Edwardian doors with heritage locks that cannot be forced or replaced without listed-building consent. Emergency callouts here require sympathetic handling to preserve original mechanisms where possible, or swift sourcing of period-appropriate replacement locks that satisfy conservation requirements whilst restoring access.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Town Green – will you damage the original door or sash windows?",
-      "a": "No. We specialise in non-destructive entry on period properties, and understand Town Green's conservation area requirements. We'll gain access safely without harming original joinery or listed features, then advise on sympathetic lock upgrades if needed."
-    },
-    {
-      "q": "It's 2 a.m. and my student house near Edge Hill has been broken into – can you attend tonight and rekey the locks?",
-      "a": "Yes, we're available 24/7 for emergency callouts. We'll assess the damage, make the property secure immediately, and can rekey or replace locks the same night. Multi-occupancy rekeying is common in Ormskirk rentals, and we'll ensure all tenants get new keys quickly."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Ormskirk | Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Ormskirk? Fast non-destructive entry for Victorian terraces, flats & homes. Lost keys or locked out? 24/7 emergency locksmith service available now.",
-  "locked-out.hero-paragraph": "When you're locked out in Ormskirk, our experienced locksmiths specialise in locksmithing techniques that restore your access quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry methods to regain entry without damage to your door or frame. Our damage-free approach means you can return home with minimal disruption.",
-  "locked-out.local-context-body": "Town Green's conservation area contains period properties where original locks and sash windows demand non-destructive entry techniques that preserve historic fabric. Semi-detached homes across Aughton similarly require careful handling to avoid damage to original joinery and door frames when keys are lost or snapped. Locked-out calls spike during student moves and rental transitions, reflecting high turnover in multi-occupancy properties throughout the town.\n\nListed buildings in the conservation area impose strict constraints on entry methods; force or drilling may breach planning controls and conservation covenants. Many Victorian terraces feature mortice locks and period ironmongery that require specialist knowledge to manipulate without damage. Post-war suburban properties tend toward simpler cylinder locks, but age-related wear on mechanisms is common and complicates non-destructive access.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Town Green – will non-destructive entry damage my original door?",
-      "a": "No. Our non-destructive techniques are ideal for period properties in the Town Green conservation area, preserving original doors and frames without drilling or forcing. We'll access your home safely while protecting the character of your listed building."
-    },
-    {
-      "q": "It's after hours and I'm locked out near Edge Hill University – how quickly can you attend?",
-      "a": "We offer emergency locked-out callouts across Ormskirk, including student accommodation areas. Call 01695 366011 and we'll dispatch a technician to regain entry fast, minimising disruption to your rental property or home."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Ormskirk | Victorian Terrace Experts",
-  "broken-key-removal.meta.description": "Broken key removal service in Ormskirk. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7 for Victorian & Edwardian properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Ormskirk requires a locksmith with genuine locksmithing expertise to extract snapped or sheared keys safely from your lock. Our technicians employ specialist key extractor tools and broken-key probes to access stuck keys without damaging your mechanism, whether it's a mortice lock or euro cylinder. We prioritise non-destructive methods throughout.",
-  "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks occur frequently across Ormskirk's housing stock, particularly in the Victorian and Edwardian terraces of Town Green where original doors and period locks remain common. Semi-detached properties in Aughton also present regular callouts, as do the numerous HMO conversions serving Edge Hill University's student population, where high tenant turnover and wear on shared entrance locks drive demand for swift key extraction without lock damage.\n\nListed buildings and conservation-area properties in Town Green require sympathetic removal techniques to preserve original lock mechanisms and avoid damage to historic door frames. Many of Ormskirk's older terraces feature mortice locks and night latches that demand specialist extraction tools and expertise; rushed or improper removal can compromise the lock's function or necessitate costly replacement incompatible with period architecture.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My Victorian terrace in Town Green has a broken key stuck in the original mortice lock—can you remove it without damaging the period ironwork?",
-      "a": "Yes. We specialise in sympathetic key extraction from original mortice locks in listed Victorian properties across Town Green's conservation area, using techniques that preserve heritage fittings and avoid unnecessary replacement."
-    },
-    {
-      "q": "A tenant's key snapped in the euro cylinder of our Aughton rental property—how quickly can you attend?",
-      "a": "We offer same-day emergency callouts across Aughton and the wider Ormskirk area; our locksmiths can extract the broken key and restore access to your multi-occupancy property rapidly, minimising tenant disruption."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Ormskirk | Victorian Door & Lock Repair",
-  "burglar-repair-service.meta.description": "Burglar repair service in Ormskirk. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period properties. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Our Ormskirk locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We assess broken locks, compromised frames and smashed doors, then restore security using insurance-compliant solutions. Door reinforcement and TS007 anti-snap cylinders ensure your home meets current protection standards and prevents future break-ins.",
-  "burglar-repair-service.local-context-body": "Properties across Aughton's semi-detached homes and Town Green's terraced streets experience break-ins requiring swift, compliant reinstatement. Post-break-in damage to original doors, frames, and lock mechanisms is common in Ormskirk's mixed Victorian and post-war housing stock. Burglar repair work must restore security without compromising the structural integrity or aesthetic character that defines these residential neighborhoods.\n\nTown Green's conservation area designation means repairs to listed buildings and period properties must follow sympathetic standards; replacement locks and reinforced frames cannot alter original joinery or architectural detail. Standard insurance assessors require documented reinstatement to pre-loss condition, making familiarity with period lock types, timber door repair, and compliance photography essential for work in Ormskirk's protected areas.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Can you repair Victorian sash window locks after a break-in in Town Green?",
-      "a": "Yes. Our burglary repair service includes sympathetic restoration of period locks and frames in the Town Green conservation area, ensuring your listed building meets both insurance requirements and conservation standards without compromising original character."
-    },
-    {
-      "q": "Do you handle emergency rekeying for student rental properties in Ormskirk after a break-in?",
-      "a": "Absolutely. We provide same-day emergency callouts and insurance-quality rekeying for multi-occupancy rentals across Ormskirk, including terraced properties in Aughton and the town centre, with full documentation for landlord and tenant records."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Ormskirk | Victorian Properties",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Ormskirk—same-day secure boarding of smashed doors and windows in Victorian terraces and period properties after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Ormskirk from our experienced locksmith specialists combines essential locksmithing expertise with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our team secures your premises using robust plywood boards and security screws. We operate 24/7 and ensure all work meets insurance-compliant standards, providing weatherproof temporary seals until permanent repairs are arranged.",
-  "emergency-boarding-up.local-context-body": "Ormskirk's stock of Victorian and Edwardian terraced properties, particularly those in Town Green's conservation area, presents specific boarding-up challenges after break-ins or storm damage. Period sash windows and original timber door frames require careful handling to avoid further structural damage during emergency securing, while semi-detached homes in Aughton demand rapid response to prevent weather ingress into adjoining properties.\n\nListed-building status across much of Town Green means boarding-up work must preserve original joinery and avoid permanent damage to historic fabric. Emergency securing of broken windows in period properties often requires temporary measures that respect conservation guidelines, delaying full repair assessment until listed-building consent procedures can be completed alongside insurance claims.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Can you board up a Victorian sash window in Town Green without damaging the listed building?",
-      "a": "Yes. Our emergency boarding specialists understand conservation area requirements and will board up your sash window securely while protecting the original frame and glazing bars from further damage. We'll ensure the boarding is sympathetic to the period character and can be removed cleanly once repairs are arranged."
-    },
-    {
-      "q": "How quickly can you board up a broken door on a student rental property in Ormskirk?",
-      "a": "We offer same-day emergency boarding callouts across Ormskirk, including student accommodation and multi-occupancy properties. We'll secure your door immediately to protect the property and your tenants, and can coordinate with your landlord or letting agent as needed."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Ormskirk – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Ormskirk for lost keys, moves & upgrades. Specialist Victorian & Edwardian door work. Fast professional service.",
-  "lock-changes.hero-paragraph": "Our Ormskirk locksmith specialises in professional lock changes using skilled locksmithing techniques. Whether you're moving home, upgrading security, or managing a tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Each installation meets current security standards, ensuring your home receives the highest-quality protection available.",
-  "lock-changes.local-context-body": "Aughton's semi-detached homes and the Victorian terraces throughout Town Green represent the majority of residential stock where lock changes are undertaken. Moving home, key loss, and security upgrades drive consistent demand across both owner-occupied and rental properties. The mixed era of properties—from period construction to post-war builds—means lock replacement work spans original mortice locks through to modern euro cylinders, with each requiring appropriately matched hardware.\n\nListed buildings and properties within Town Green's conservation area require sympathetic lock installation that preserves original door casings and period joinery. HMO properties connected to Edge Hill University activity frequently need rekeying and multi-occupancy lock upgrades to meet rental standards and manage tenant changeover. Material compatibility—particularly with original wooden doors and frames common to Victorian stock—influences material selection and installation approach.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "Do you replace locks on Victorian terrace doors without damaging the original frame?",
-      "a": "Yes—our locksmiths specialise in fitting modern locks to period properties across Ormskirk's Victorian and Edwardian terraces, including those in Town Green conservation area, using sympathetic methods that preserve original joinery and comply with listed-building requirements."
-    },
-    {
-      "q": "How quickly can you rekey locks for student rentals and multi-occupancy properties in Ormskirk?",
-      "a": "We offer rapid rekeying and lock changes for HMOs and rental properties around Edge Hill University, typically completing work on the same day to ensure tenants have secure access and landlords can reset security between occupants."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Ormskirk | Victorian & Terrace Door Locks",
-  "lock-repairs.meta.description": "Lock repair in Ormskirk for Victorian terraces & modern homes. Expert fixes for multipoint, mortice & night latch locks. 24/7 emergency callouts.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Ormskirk by our experienced locksmith team specialise in locksmithing solutions for domestic and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the issue efficiently. Our technicians undertake mortice maintenance and multipoint servicing, backed by manufacturer warranty on all work completed.",
-  "lock-repairs.local-context-body": "The terraced properties dominating Town Green's conservation area frequently retain original mortice locks and night latches that require specialist repair rather than replacement. These period mechanisms, common across Ormskirk's Victorian and Edwardian housing stock, often fail due to wear and corroded internal components, necessitating gearbox and latch pin work that preserves the aesthetic integrity of listed frontages.\n\nListed building status in the town centre conservation area restricts lock replacement options, making repair of existing multipoint and mortice systems the preferred approach. Many of these locks contain wear patterns specific to their age and material composition, requiring technicians familiar with period hardware tolerances and sympathetic to original door fabric—a consideration that extends across Aughton's older semi-detached stock as well.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Town Green has a stiff mortice lock – can you repair it without damaging the original door?",
-      "a": "Yes. Victorian mortice locks are common in Town Green's conservation area, and we specialise in sympathetic repair that preserves period doors. We'll clean, adjust, or replace internal components while keeping the original fabric intact."
-    },
-    {
-      "q": "Our student house near Edge Hill needs an emergency multipoint lock repair – how quickly can you attend?",
-      "a": "We offer same-day emergency callouts across Ormskirk, including multi-occupancy rentals and student properties. Multipoint locks are essential for security in shared homes, and we'll diagnose and repair gearbox or latch faults promptly."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Ormskirk | Victorian Terraces",
-  "door-lock-installation.meta.description": "Door lock installation in Ormskirk, including Victorian terraces. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted by experts.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Ormskirk from our experienced locksmith team combines expert locksmithing with modern security. Whether you need new fittings after a house move, a security upgrade, or to meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your home effectively.",
-  "door-lock-installation.local-context-body": "Ormskirk's mixed Victorian and Edwardian housing stock, particularly the terraced properties of Town Green and semi-detached homes across Aughton, frequently requires door lock installation to meet modern security standards. Original doors on these properties often need reinforcement or replacement locks without structural damage, making sympathetic installation critical for period homes while maintaining security compliance.\n\nProperties in the Town Green conservation area present specific constraints for lock installation work, as listed-building status and period features demand careful specification and fitting methods. Across the town's rental properties and student accommodation, BS3621 mortice locks and TS007 anti-snap cylinders are increasingly fitted to meet landlord insurance requirements and security expectations, particularly in multi-occupancy homes around Edge Hill University.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Can you fit new locks to my Victorian terrace in Town Green without damaging the original door frame?",
-      "a": "Yes. Our locksmiths specialise in sympathetic lock installation on period properties in Ormskirk's conservation areas. We use techniques that preserve original joinery and can advise on BS3621 mortice locks that suit heritage doors."
-    },
-    {
-      "q": "I rent a student house near Edge Hill—what locks do you recommend for a multi-occupancy property?",
-      "a": "We recommend TS007 anti-snap cylinders paired with BS3621 mortice locks for shared rentals, ensuring each tenant has independent access while meeting modern security standards. This setup is ideal for the high-turnover student properties common in Ormskirk."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Ormskirk – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Ormskirk for Victorian terraces and modern homes. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our Ormskirk locksmith team specialises in door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we can help. We fit BS3621-approved cylinders and offer anti-snap upgrades to enhance your security. Fast, professional service across Ormskirk and surrounding areas.",
-  "door-lock-replacement.local-context-body": "Town Green's conservation area contains many original Victorian and Edwardian terraces where door lock replacement must balance security needs with period authenticity. Specialist sympathetic replacement is often required to preserve the character of listed buildings, while maintaining functional access. Semi-detached properties in Aughton similarly benefit from lock upgrades that modernise security without compromising original door materials and aesthetics.\n\nListed building consent requirements in Town Green mean lock replacement work sometimes involves consultation with conservation officers, particularly when original hardware is present. HMO properties across the town frequently require multiple lock replacements to meet rental safety standards, and student accommodation turnover drives regular rekeying and upgrade cycles. Victorian terrace doors commonly need reinforcement alongside lock installation to prevent damage to period joinery.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Town Green with an original sash window lock that's broken. Can you replace it without damaging the frame?",
-      "a": "Yes – we specialise in sympathetic lock replacement on period properties in Ormskirk's conservation areas. We'll match or carefully upgrade your original lock to preserve the character of your listed building while restoring security and function."
-    },
-    {
-      "q": "We're a landlord with several student rental properties in Ormskirk. How quickly can you replace locks between tenancies?",
-      "a": "We offer same-day and emergency callouts across Ormskirk, including Aughton and Town Green. We can rekey or replace locks on multiple properties efficiently, and we're familiar with the security upgrades needed for multi-occupancy HMOs around Edge Hill University."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Ormskirk | Victorian Terraces & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Ormskirk for Victorian terraces and period homes. uPVC alignment, timber door easing, handle repair and hardware replacement.",
-  "door-repairs.hero-paragraph": "Our Ormskirk locksmith team specialises in door repairs and locksmithing services for domestic and commercial properties. Whether your door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. We handle hinge adjustment and multipoint realignment on uPVC, composite and timber doors with precision and care.",
-  "door-repairs.local-context-body": "Misaligned and dropped doors are particularly common in Ormskirk's older housing stock. Semi-detached Victorian and Edwardian properties in Town Green frequently develop door settlement issues as timber frames shift with age, and original doors in these period properties often require careful realignment to preserve their character while restoring function.\n\nConservation area status in Town Green means door repairs must respect listed-building requirements; replacement hardware and adjustments cannot compromise original features. Throughout Ormskirk's rental properties, door security and alignment take on added importance due to high student occupancy and frequent tenancy changes, making prompt repair and reinforcement a practical necessity for both landlords and managing agents.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Can you repair original sash windows and period door frames in Town Green without damaging the conservation area listing?",
-      "a": "Yes. We specialise in sympathetic repairs to Victorian and Edwardian doors and frames that comply with conservation area requirements. We can reinforce or replace locks and hardware on listed properties while preserving original character."
-    },
-    {
-      "q": "My Victorian terrace door in Aughton has dropped and won't close properly—what's involved?",
-      "a": "We'll assess the frame alignment and hinge wear (common in older properties) and either adjust or replace hardware as needed. Most Victorian terraces respond well to professional realignment without requiring full frame replacement."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement | Ormskirk",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Ormskirk. Espagnolette and shootbolt locks fixed on Victorian sash windows and modern frames. Emergency callouts available.",
-  "window-lock-repair-replacement.hero-paragraph": "Our expert locksmiths in Ormskirk provide comprehensive window lock repair and replacement services, combining traditional locksmithing with modern expertise. Whether your windows won't lock, handles are broken, or espagnolette mechanisms have failed, we restore security efficiently. All installations meet insurance compliance standards, ensuring your home remains fully protected.",
-  "window-lock-repair-replacement.local-context-body": "Period sash windows throughout Town Green's conservation area and scattered across Ormskirk's Victorian terraces frequently retain original espagnolette locks that have corroded or seized through decades of use. Semi-detached properties in Aughton similarly feature traditional window hardware requiring specialist repair or sympathetic replacement to maintain both functionality and character.\n\nListed buildings and properties within conservation areas demand careful attention to lock replacement specifications and installation methods. Many original window frames cannot tolerate modern shootbolt mechanisms without structural alteration, necessitating sourcing period-appropriate hardware or bespoke solutions that comply with local planning guidance whilst restoring secure operation.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash windows in Town Green conservation area need specialist lock repair?",
-      "a": "Period sash windows in Ormskirk's Town Green conservation area often have original espagnolette and shootbolt locks that require sympathetic repair to preserve listed building status. We specialise in restoring these heritage locks without damaging the timber frames or violating conservation requirements."
-    },
-    {
-      "q": "How can I upgrade window locks on Victorian terraces in Aughton without damaging original doors?",
-      "a": "Many Victorian and Edwardian terraces across Aughton have fragile original joinery; we can fit modern shootbolt and espagnolette locks or reinforced replacements with minimal invasive work, ensuring security without structural compromise."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Ormskirk – Fast & Trusted Service",
-  "safe-installation.meta.description": "Professional safe installation in Ormskirk for Victorian terraces & period homes. Secure anchoring, insurance compliance. Wall, floor & freestanding safes.",
-  "safe-installation.hero-paragraph": "Safe installation in Ormskirk by our experienced locksmith team combines expert locksmithing with secure placement techniques. We specialise in floor anchoring and wall mounting to ensure your safe remains immovable against leverage attacks. Whether you're securing a new safe or meeting insurance approval requirements, our technicians work to Eurograde and AiS approved standards for complete peace of mind.",
-  "safe-installation.local-context-body": "Aughton's detached properties and the semi-detached homes scattered throughout the town provide ideal conditions for safe installation work. Homeowners in these residential suburbs typically require secure storage for valuables, documents and cash, with wall and floor-mounted safes commonly fitted into studies, bedrooms and utility areas where anchoring can be properly concealed and load-bearing walls accessed without structural compromise.\n\nListed buildings within Town Green's conservation area require specialist consideration during safe installation. Wall penetration and fixings must be assessed by installers familiar with conservation area regulations, and floor-mounted safes need careful placement to avoid damage to period features or original joinery. Insurance documentation is particularly important in Ormskirk given the prevalence of rental properties and multi-occupancy houses, where audit trails and professional certification protect both landlords and tenants.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian terraces without damaging period features?",
-      "a": "Yes. Many properties in Town Green and across Ormskirk have original joinery and listed features; we use specialist anchoring techniques that avoid structural damage to walls, floors and skirting, and provide full insurance documentation for peace of mind."
-    },
-    {
-      "q": "Can you install safes quickly for student rentals and HMOs?",
-      "a": "Absolutely. With high rental density around Edge Hill University, we offer rapid safe installation for multi-occupancy properties in Aughton and town centre areas, complete with proper anchoring and landlord-compliant insurance certificates."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Ormskirk | Victorian Homes & Period Properties",
-  "safe-opening.meta.description": "Safe opening service in Ormskirk for lost keys, combinations & lockouts. Non-destructive opening of domestic & commercial safes across Town Green & Aughton.",
-  "safe-opening.hero-paragraph": "Our Ormskirk locksmiths specialise in safe opening and expert locksmithing for domestic and commercial clients. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use non-destructive opening techniques to regain access without damage. Our technicians combine dial manipulation skills with modern methods to resolve issues efficiently and professionally.",
-  "safe-opening.local-context-body": "Safe deposit boxes and domestic safes are common in Aughton's detached family homes and throughout the town's Victorian and Edwardian housing stock, where valuable documents, jewellery and heirlooms are routinely stored. Lost combinations and misplaced keys present regular challenges for homeowners needing swift, non-destructive access without waiting for manufacturers or risking damage to the safe itself.\n\nTown Green's conservation area designation means safes housed in listed buildings require particular care during opening work. Non-destructive techniques are essential here not only to preserve the safe but to comply with conservation area restrictions, making specialist locksmith intervention preferable to amateur attempts or cutting methods that could compromise both the fixture and the property's protected status.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Town Green with an old safe I can't open – can you help without damaging the property?",
-      "a": "Yes – our non-destructive safe opening techniques preserve both the safe and your listed property's integrity, which is essential in Town Green's conservation area. We'll recover your access without the need for drilling or forcing."
-    },
-    {
-      "q": "Our student HMO in Aughton has a built-in safe with a lost combination – how quickly can you open it?",
-      "a": "We offer emergency callout service across Aughton and can typically access safes the same day using specialist non-destructive methods, minimising disruption to your rental property and tenants."
-    }
-  ],
-  "home.areas-covered": [
-    "Aughton",
-    "Town Green"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "locked-out.areas-covered": [
-    "Aughton",
-    "Town Green"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "lock-changes.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "lock-repairs.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "door-repairs.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "safe-installation.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ],
-  "safe-opening.areas-covered": [
-    "Town Green",
-    "Aughton"
-  ]
+ "meta.title": "Locksmith Ormskirk | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted Ormskirk locksmith serving Victorian terraces, student rentals and Aughton homes. Emergency callouts, repairs, rekeying and security upgrades.",
+ "home.hero-paragraph": "Ormskirk locksmith services specialising in professional locksmithing and expert lock assistance are available when you need them most. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry methods. Our DBS-checked technicians operate 24/7 and are fully insured, ensuring reliable help whenever disaster strikes.",
+ "home.local-context-heading": "Securing Ormskirk's Victorian and Modern Homes",
+ "home.local-context-body": "Ormskirk's Victorian and Edwardian terraces, particularly concentrated in Town Green, commonly require specialist lock repair and replacement work. Period sash windows and original door mechanisms in these conservation-area properties need sympathetic handling to preserve their character while meeting modern security standards. Semi-detached and detached homes across Aughton and surrounding areas often need lock upgrades and reinforcement to existing wooden doors without structural damage.\n\nLandlords managing rental properties in Ormskirk face specific security considerations, especially given the high student population and HMO activity around Edge Hill University. Multi-occupancy properties require coordinated rekeying and access control solutions compliant with letting standards. Listed buildings and conservation-designated homes need locksmiths experienced in working with period features; unsuitable modern interventions can breach planning consent and damage property value.",
+ "home.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Town Green \u2013 can you replace my original lock without damaging the door?",
+   "a": "Yes. Our locksmiths specialise in sympathetic lock replacement on period properties within the conservation area, preserving original doors while upgrading to modern security. We understand the heritage requirements and can advise on listed-building-compliant solutions."
+  },
+  {
+   "q": "We're a student HMO in Ormskirk \u2013 do you offer rekeying for multi-occupancy properties?",
+   "a": "Absolutely. We provide fast emergency callouts and bulk rekeying services for rental properties and HMOs, including master key systems and access upgrades to meet modern letting standards."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Ormskirk \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Ormskirk. Locked out of your Victorian terrace or home? Fast response, key extraction, lock repairs & non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Ormskirk, our experienced locksmiths bring professional locksmithing expertise to every call. We specialise in rapid response to lockouts, snapped keys, and doors that won't secure properly. Our DBS-checked technicians use non-destructive entry methods whenever possible, available 24/7 to resolve your situation quickly and with minimal damage.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Aughton's semi-detached and detached homes often involve modern composite or uPVC doors where lock mechanisms can jam or fail without warning. The residential suburb's family-oriented character means daytime lockouts are frequent, particularly when keys are mislaid during school runs or work commutes. Post-war construction in the area typically features straightforward lock systems that respond well to rapid replacement or repair.\n\nTown Green's conservation area presents distinct challenges for emergency work: many period properties retain original Victorian and Edwardian doors with heritage locks that cannot be forced or replaced without listed-building consent. Emergency callouts here require sympathetic handling to preserve original mechanisms where possible, or swift sourcing of period-appropriate replacement locks that satisfy conservation requirements whilst restoring access.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Town Green \u2013 will you damage the original door or sash windows?",
+   "a": "No. We specialise in non-destructive entry on period properties, and understand Town Green's conservation area requirements. We'll gain access safely without harming original joinery or listed features, then advise on sympathetic lock upgrades if needed."
+  },
+  {
+   "q": "It's 2 a.m. and my student house near Edge Hill has been broken into \u2013 can you attend tonight and rekey the locks?",
+   "a": "Yes, we're available 24/7 for emergency callouts. We'll assess the damage, make the property secure immediately, and can rekey or replace locks the same night. Multi-occupancy rekeying is common in Ormskirk rentals, and we'll ensure all tenants get new keys quickly."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Ormskirk | Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Ormskirk? Fast non-destructive entry for Victorian terraces, flats & homes. Lost keys or locked out? 24/7 emergency locksmith service available now.",
+ "locked-out.hero-paragraph": "When you're locked out in Ormskirk, our experienced locksmiths specialise in locksmithing techniques that restore your access quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry methods to regain entry without damage to your door or frame. Our damage-free approach means you can return home with minimal disruption.",
+ "locked-out.local-context-body": "Town Green's conservation area contains period properties where original locks and sash windows demand non-destructive entry techniques that preserve historic fabric. Semi-detached homes across Aughton similarly require careful handling to avoid damage to original joinery and door frames when keys are lost or snapped. Locked-out calls spike during student moves and rental transitions, reflecting high turnover in multi-occupancy properties throughout the town.\n\nListed buildings in the conservation area impose strict constraints on entry methods; force or drilling may breach planning controls and conservation covenants. Many Victorian terraces feature mortice locks and period ironmongery that require specialist knowledge to manipulate without damage. Post-war suburban properties tend toward simpler cylinder locks, but age-related wear on mechanisms is common and complicates non-destructive access.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Town Green \u2013 will non-destructive entry damage my original door?",
+   "a": "No. Our non-destructive techniques are ideal for period properties in the Town Green conservation area, preserving original doors and frames without drilling or forcing. We'll access your home safely while protecting the character of your listed building."
+  },
+  {
+   "q": "It's after hours and I'm locked out near Edge Hill University \u2013 how quickly can you attend?",
+   "a": "We offer emergency locked-out callouts across Ormskirk, including student accommodation areas. Call 01695 366011 and we'll dispatch a technician to regain entry fast, minimising disruption to your rental property or home."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Ormskirk | Victorian Terrace Experts",
+ "broken-key-removal.meta.description": "Broken key removal service in Ormskirk. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7 for Victorian & Edwardian properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Ormskirk requires a locksmith with genuine locksmithing expertise to extract snapped or sheared keys safely from your lock. Our technicians employ specialist key extractor tools and broken-key probes to access stuck keys without damaging your mechanism, whether it's a mortice lock or euro cylinder. We prioritise non-destructive methods throughout.",
+ "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks occur frequently across Ormskirk's housing stock, particularly in the Victorian and Edwardian terraces of Town Green where original doors and period locks remain common. Semi-detached properties in Aughton also present regular callouts, as do the numerous HMO conversions serving Edge Hill University's student population, where high tenant turnover and wear on shared entrance locks drive demand for swift key extraction without lock damage.\n\nListed buildings and conservation-area properties in Town Green require sympathetic removal techniques to preserve original lock mechanisms and avoid damage to historic door frames. Many of Ormskirk's older terraces feature mortice locks and night latches that demand specialist extraction tools and expertise; rushed or improper removal can compromise the lock's function or necessitate costly replacement incompatible with period architecture.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My Victorian terrace in Town Green has a broken key stuck in the original mortice lock\u2014can you remove it without damaging the period ironwork?",
+   "a": "Yes. We specialise in sympathetic key extraction from original mortice locks in listed Victorian properties across Town Green's conservation area, using techniques that preserve heritage fittings and avoid unnecessary replacement."
+  },
+  {
+   "q": "A tenant's key snapped in the euro cylinder of our Aughton rental property\u2014how quickly can you attend?",
+   "a": "We offer same-day emergency callouts across Aughton and the wider Ormskirk area; our locksmiths can extract the broken key and restore access to your multi-occupancy property rapidly, minimising tenant disruption."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Ormskirk | Victorian Door & Lock Repair",
+ "burglar-repair-service.meta.description": "Burglar repair service in Ormskirk. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period properties. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Our Ormskirk locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We assess broken locks, compromised frames and smashed doors, then restore security using insurance-compliant solutions. Door reinforcement and TS007 anti-snap cylinders ensure your home meets current protection standards and prevents future break-ins.",
+ "burglar-repair-service.local-context-body": "Properties across Aughton's semi-detached homes and Town Green's terraced streets experience break-ins requiring swift, compliant reinstatement. Post-break-in damage to original doors, frames, and lock mechanisms is common in Ormskirk's mixed Victorian and post-war housing stock. Burglar repair work must restore security without compromising the structural integrity or aesthetic character that defines these residential neighborhoods.\n\nTown Green's conservation area designation means repairs to listed buildings and period properties must follow sympathetic standards; replacement locks and reinforced frames cannot alter original joinery or architectural detail. Standard insurance assessors require documented reinstatement to pre-loss condition, making familiarity with period lock types, timber door repair, and compliance photography essential for work in Ormskirk's protected areas.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Can you repair Victorian sash window locks after a break-in in Town Green?",
+   "a": "Yes. Our burglary repair service includes sympathetic restoration of period locks and frames in the Town Green conservation area, ensuring your listed building meets both insurance requirements and conservation standards without compromising original character."
+  },
+  {
+   "q": "Do you handle emergency rekeying for student rental properties in Ormskirk after a break-in?",
+   "a": "Absolutely. We provide same-day emergency callouts and insurance-quality rekeying for multi-occupancy rentals across Ormskirk, including terraced properties in Aughton and the town centre, with full documentation for landlord and tenant records."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Ormskirk | Victorian Properties",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Ormskirk\u2014same-day secure boarding of smashed doors and windows in Victorian terraces and period properties after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Ormskirk from our experienced locksmith specialists combines essential locksmithing expertise with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our team secures your premises using robust plywood boards and security screws. We operate 24/7 and ensure all work meets insurance-compliant standards, providing weatherproof temporary seals until permanent repairs are arranged.",
+ "emergency-boarding-up.local-context-body": "Ormskirk's stock of Victorian and Edwardian terraced properties, particularly those in Town Green's conservation area, presents specific boarding-up challenges after break-ins or storm damage. Period sash windows and original timber door frames require careful handling to avoid further structural damage during emergency securing, while semi-detached homes in Aughton demand rapid response to prevent weather ingress into adjoining properties.\n\nListed-building status across much of Town Green means boarding-up work must preserve original joinery and avoid permanent damage to historic fabric. Emergency securing of broken windows in period properties often requires temporary measures that respect conservation guidelines, delaying full repair assessment until listed-building consent procedures can be completed alongside insurance claims.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Can you board up a Victorian sash window in Town Green without damaging the listed building?",
+   "a": "Yes. Our emergency boarding specialists understand conservation area requirements and will board up your sash window securely while protecting the original frame and glazing bars from further damage. We'll ensure the boarding is sympathetic to the period character and can be removed cleanly once repairs are arranged."
+  },
+  {
+   "q": "How quickly can you board up a broken door on a student rental property in Ormskirk?",
+   "a": "We offer same-day emergency boarding callouts across Ormskirk, including student accommodation and multi-occupancy properties. We'll secure your door immediately to protect the property and your tenants, and can coordinate with your landlord or letting agent as needed."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Ormskirk \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Ormskirk for lost keys, moves & upgrades. Specialist Victorian & Edwardian door work. Fast professional service.",
+ "lock-changes.hero-paragraph": "Our Ormskirk locksmith specialises in professional lock changes using skilled locksmithing techniques. Whether you're moving home, upgrading security, or managing a tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Each installation meets current security standards, ensuring your home receives the highest-quality protection available.",
+ "lock-changes.local-context-body": "Aughton's semi-detached homes and the Victorian terraces throughout Town Green represent the majority of residential stock where lock changes are undertaken. Moving home, key loss, and security upgrades drive consistent demand across both owner-occupied and rental properties. The mixed era of properties\u2014from period construction to post-war builds\u2014means lock replacement work spans original mortice locks through to modern euro cylinders, with each requiring appropriately matched hardware.\n\nListed buildings and properties within Town Green's conservation area require sympathetic lock installation that preserves original door casings and period joinery. HMO properties connected to Edge Hill University activity frequently need rekeying and multi-occupancy lock upgrades to meet rental standards and manage tenant changeover. Material compatibility\u2014particularly with original wooden doors and frames common to Victorian stock\u2014influences material selection and installation approach.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "Do you replace locks on Victorian terrace doors without damaging the original frame?",
+   "a": "Yes\u2014our locksmiths specialise in fitting modern locks to period properties across Ormskirk's Victorian and Edwardian terraces, including those in Town Green conservation area, using sympathetic methods that preserve original joinery and comply with listed-building requirements."
+  },
+  {
+   "q": "How quickly can you rekey locks for student rentals and multi-occupancy properties in Ormskirk?",
+   "a": "We offer rapid rekeying and lock changes for HMOs and rental properties around Edge Hill University, typically completing work on the same day to ensure tenants have secure access and landlords can reset security between occupants."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Ormskirk | Victorian & Terrace Door Locks",
+ "lock-repairs.meta.description": "Lock repair in Ormskirk for Victorian terraces & modern homes. Expert fixes for multipoint, mortice & night latch locks. 24/7 emergency callouts.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Ormskirk by our experienced locksmith team specialise in locksmithing solutions for domestic and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the issue efficiently. Our technicians undertake mortice maintenance and multipoint servicing, backed by manufacturer warranty on all work completed.",
+ "lock-repairs.local-context-body": "The terraced properties dominating Town Green's conservation area frequently retain original mortice locks and night latches that require specialist repair rather than replacement. These period mechanisms, common across Ormskirk's Victorian and Edwardian housing stock, often fail due to wear and corroded internal components, necessitating gearbox and latch pin work that preserves the aesthetic integrity of listed frontages.\n\nListed building status in the town centre conservation area restricts lock replacement options, making repair of existing multipoint and mortice systems the preferred approach. Many of these locks contain wear patterns specific to their age and material composition, requiring technicians familiar with period hardware tolerances and sympathetic to original door fabric\u2014a consideration that extends across Aughton's older semi-detached stock as well.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Town Green has a stiff mortice lock \u2013 can you repair it without damaging the original door?",
+   "a": "Yes. Victorian mortice locks are common in Town Green's conservation area, and we specialise in sympathetic repair that preserves period doors. We'll clean, adjust, or replace internal components while keeping the original fabric intact."
+  },
+  {
+   "q": "Our student house near Edge Hill needs an emergency multipoint lock repair \u2013 how quickly can you attend?",
+   "a": "We offer same-day emergency callouts across Ormskirk, including multi-occupancy rentals and student properties. Multipoint locks are essential for security in shared homes, and we'll diagnose and repair gearbox or latch faults promptly."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Ormskirk | Victorian Terraces",
+ "door-lock-installation.meta.description": "Door lock installation in Ormskirk, including Victorian terraces. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted by experts.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Ormskirk from our experienced locksmith team combines expert locksmithing with modern security. Whether you need new fittings after a house move, a security upgrade, or to meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your home effectively.",
+ "door-lock-installation.local-context-body": "Ormskirk's mixed Victorian and Edwardian housing stock, particularly the terraced properties of Town Green and semi-detached homes across Aughton, frequently requires door lock installation to meet modern security standards. Original doors on these properties often need reinforcement or replacement locks without structural damage, making sympathetic installation critical for period homes while maintaining security compliance.\n\nProperties in the Town Green conservation area present specific constraints for lock installation work, as listed-building status and period features demand careful specification and fitting methods. Across the town's rental properties and student accommodation, BS3621 mortice locks and TS007 anti-snap cylinders are increasingly fitted to meet landlord insurance requirements and security expectations, particularly in multi-occupancy homes around Edge Hill University.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Can you fit new locks to my Victorian terrace in Town Green without damaging the original door frame?",
+   "a": "Yes. Our locksmiths specialise in sympathetic lock installation on period properties in Ormskirk's conservation areas. We use techniques that preserve original joinery and can advise on BS3621 mortice locks that suit heritage doors."
+  },
+  {
+   "q": "I rent a student house near Edge Hill\u2014what locks do you recommend for a multi-occupancy property?",
+   "a": "We recommend TS007 anti-snap cylinders paired with BS3621 mortice locks for shared rentals, ensuring each tenant has independent access while meeting modern security standards. This setup is ideal for the high-turnover student properties common in Ormskirk."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Ormskirk \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Ormskirk for Victorian terraces and modern homes. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our Ormskirk locksmith team specialises in door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we can help. We fit BS3621-approved cylinders and offer anti-snap upgrades to enhance your security. Fast, professional service across Ormskirk and surrounding areas.",
+ "door-lock-replacement.local-context-body": "Town Green's conservation area contains many original Victorian and Edwardian terraces where door lock replacement must balance security needs with period authenticity. Specialist sympathetic replacement is often required to preserve the character of listed buildings, while maintaining functional access. Semi-detached properties in Aughton similarly benefit from lock upgrades that modernise security without compromising original door materials and aesthetics.\n\nListed building consent requirements in Town Green mean lock replacement work sometimes involves consultation with conservation officers, particularly when original hardware is present. HMO properties across the town frequently require multiple lock replacements to meet rental safety standards, and student accommodation turnover drives regular rekeying and upgrade cycles. Victorian terrace doors commonly need reinforcement alongside lock installation to prevent damage to period joinery.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Town Green with an original sash window lock that's broken. Can you replace it without damaging the frame?",
+   "a": "Yes \u2013 we specialise in sympathetic lock replacement on period properties in Ormskirk's conservation areas. We'll match or carefully upgrade your original lock to preserve the character of your listed building while restoring security and function."
+  },
+  {
+   "q": "We're a landlord with several student rental properties in Ormskirk. How quickly can you replace locks between tenancies?",
+   "a": "We offer same-day and emergency callouts across Ormskirk, including Aughton and Town Green. We can rekey or replace locks on multiple properties efficiently, and we're familiar with the security upgrades needed for multi-occupancy HMOs around Edge Hill University."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Ormskirk | Victorian Terraces & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Ormskirk for Victorian terraces and period homes. uPVC alignment, timber door easing, handle repair and hardware replacement.",
+ "door-repairs.hero-paragraph": "Our Ormskirk locksmith team specialises in door repairs and locksmithing services for domestic and commercial properties. Whether your door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. We handle hinge adjustment and multipoint realignment on uPVC, composite and timber doors with precision and care.",
+ "door-repairs.local-context-body": "Misaligned and dropped doors are particularly common in Ormskirk's older housing stock. Semi-detached Victorian and Edwardian properties in Town Green frequently develop door settlement issues as timber frames shift with age, and original doors in these period properties often require careful realignment to preserve their character while restoring function.\n\nConservation area status in Town Green means door repairs must respect listed-building requirements; replacement hardware and adjustments cannot compromise original features. Throughout Ormskirk's rental properties, door security and alignment take on added importance due to high student occupancy and frequent tenancy changes, making prompt repair and reinforcement a practical necessity for both landlords and managing agents.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Can you repair original sash windows and period door frames in Town Green without damaging the conservation area listing?",
+   "a": "Yes. We specialise in sympathetic repairs to Victorian and Edwardian doors and frames that comply with conservation area requirements. We can reinforce or replace locks and hardware on listed properties while preserving original character."
+  },
+  {
+   "q": "My Victorian terrace door in Aughton has dropped and won't close properly\u2014what's involved?",
+   "a": "We'll assess the frame alignment and hinge wear (common in older properties) and either adjust or replace hardware as needed. Most Victorian terraces respond well to professional realignment without requiring full frame replacement."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement | Ormskirk",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Ormskirk. Espagnolette and shootbolt locks fixed on Victorian sash windows and modern frames. Emergency callouts available.",
+ "window-lock-repair-replacement.hero-paragraph": "Our expert locksmiths in Ormskirk provide comprehensive window lock repair and replacement services, combining traditional locksmithing with modern expertise. Whether your windows won't lock, handles are broken, or espagnolette mechanisms have failed, we restore security efficiently. All installations meet insurance compliance standards, ensuring your home remains fully protected.",
+ "window-lock-repair-replacement.local-context-body": "Period sash windows throughout Town Green's conservation area and scattered across Ormskirk's Victorian terraces frequently retain original espagnolette locks that have corroded or seized through decades of use. Semi-detached properties in Aughton similarly feature traditional window hardware requiring specialist repair or sympathetic replacement to maintain both functionality and character.\n\nListed buildings and properties within conservation areas demand careful attention to lock replacement specifications and installation methods. Many original window frames cannot tolerate modern shootbolt mechanisms without structural alteration, necessitating sourcing period-appropriate hardware or bespoke solutions that comply with local planning guidance whilst restoring secure operation.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash windows in Town Green conservation area need specialist lock repair?",
+   "a": "Period sash windows in Ormskirk's Town Green conservation area often have original espagnolette and shootbolt locks that require sympathetic repair to preserve listed building status. We specialise in restoring these heritage locks without damaging the timber frames or violating conservation requirements."
+  },
+  {
+   "q": "How can I upgrade window locks on Victorian terraces in Aughton without damaging original doors?",
+   "a": "Many Victorian and Edwardian terraces across Aughton have fragile original joinery; we can fit modern shootbolt and espagnolette locks or reinforced replacements with minimal invasive work, ensuring security without structural compromise."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Ormskirk \u2013 Fast & Trusted Service",
+ "safe-installation.meta.description": "Professional safe installation in Ormskirk for Victorian terraces & period homes. Secure anchoring, insurance compliance. Wall, floor & freestanding safes.",
+ "safe-installation.hero-paragraph": "Safe installation in Ormskirk by our experienced locksmith team combines expert locksmithing with secure placement techniques. We specialise in floor anchoring and wall mounting to ensure your safe remains immovable against leverage attacks. Whether you're securing a new safe or meeting insurance approval requirements, our technicians work to Eurograde and AiS approved standards for complete peace of mind.",
+ "safe-installation.local-context-body": "Aughton's detached properties and the semi-detached homes scattered throughout the town provide ideal conditions for safe installation work. Homeowners in these residential suburbs typically require secure storage for valuables, documents and cash, with wall and floor-mounted safes commonly fitted into studies, bedrooms and utility areas where anchoring can be properly concealed and load-bearing walls accessed without structural compromise.\n\nListed buildings within Town Green's conservation area require specialist consideration during safe installation. Wall penetration and fixings must be assessed by installers familiar with conservation area regulations, and floor-mounted safes need careful placement to avoid damage to period features or original joinery. Insurance documentation is particularly important in Ormskirk given the prevalence of rental properties and multi-occupancy houses, where audit trails and professional certification protect both landlords and tenants.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian terraces without damaging period features?",
+   "a": "Yes. Many properties in Town Green and across Ormskirk have original joinery and listed features; we use specialist anchoring techniques that avoid structural damage to walls, floors and skirting, and provide full insurance documentation for peace of mind."
+  },
+  {
+   "q": "Can you install safes quickly for student rentals and HMOs?",
+   "a": "Absolutely. With high rental density around Edge Hill University, we offer rapid safe installation for multi-occupancy properties in Aughton and town centre areas, complete with proper anchoring and landlord-compliant insurance certificates."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Ormskirk | Victorian Homes & Period Properties",
+ "safe-opening.meta.description": "Safe opening service in Ormskirk for lost keys, combinations & lockouts. Non-destructive opening of domestic & commercial safes across Town Green & Aughton.",
+ "safe-opening.hero-paragraph": "Our Ormskirk locksmiths specialise in safe opening and expert locksmithing for domestic and commercial clients. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use non-destructive opening techniques to regain access without damage. Our technicians combine dial manipulation skills with modern methods to resolve issues efficiently and professionally.",
+ "safe-opening.local-context-body": "Safe deposit boxes and domestic safes are common in Aughton's detached family homes and throughout the town's Victorian and Edwardian housing stock, where valuable documents, jewellery and heirlooms are routinely stored. Lost combinations and misplaced keys present regular challenges for homeowners needing swift, non-destructive access without waiting for manufacturers or risking damage to the safe itself.\n\nTown Green's conservation area designation means safes housed in listed buildings require particular care during opening work. Non-destructive techniques are essential here not only to preserve the safe but to comply with conservation area restrictions, making specialist locksmith intervention preferable to amateur attempts or cutting methods that could compromise both the fixture and the property's protected status.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Town Green with an old safe I can't open \u2013 can you help without damaging the property?",
+   "a": "Yes \u2013 our non-destructive safe opening techniques preserve both the safe and your listed property's integrity, which is essential in Town Green's conservation area. We'll recover your access without the need for drilling or forcing."
+  },
+  {
+   "q": "Our student HMO in Aughton has a built-in safe with a lost combination \u2013 how quickly can you open it?",
+   "a": "We offer emergency callout service across Aughton and can typically access safes the same day using specialist non-destructive methods, minimising disruption to your rental property and tenants."
+  }
+ ],
+ "home.areas-covered": [
+  "Town Green"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Town Green"
+ ],
+ "locked-out.areas-covered": [
+  "Town Green"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Town Green"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Town Green"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Town Green"
+ ],
+ "lock-changes.areas-covered": [
+  "Town Green"
+ ],
+ "lock-repairs.areas-covered": [
+  "Town Green"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Town Green"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Town Green"
+ ],
+ "door-repairs.areas-covered": [
+  "Town Green"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Town Green"
+ ],
+ "safe-installation.areas-covered": [
+  "Town Green"
+ ],
+ "safe-opening.areas-covered": [
+  "Town Green"
+ ]
 }

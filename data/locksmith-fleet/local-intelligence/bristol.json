@@ -1,405 +1,337 @@
 {
-  "location": "Bristol",
-  "neighborhoods": [
-    {
-      "name": "City Centre",
-      "era": "mixed Victorian to modern",
-      "types": [
-        "flat",
-        "converted warehouse"
-      ],
-      "notes": "high foot traffic, retail premises"
-    },
-    {
-      "name": "Clifton",
-      "era": "Georgian",
-      "types": [
-        "villa",
-        "terrace"
-      ],
-      "notes": "conservation area, listed buildings, affluent"
-    },
-    {
-      "name": "Clifton Village",
-      "era": "Victorian",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "conservation area, high-value properties"
-    },
-    {
-      "name": "Bedminster",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "working-class residential, student HMO density"
-    },
-    {
-      "name": "Southville",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "gentrifying area, rental market"
-    },
-    {
-      "name": "Fishponds",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "suburban, family homes"
-    },
-    {
-      "name": "Horfield",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban, residential"
-    },
-    {
-      "name": "Hartcliffe",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "large estate, high security demand"
-    },
-    {
-      "name": "Hengrove",
-      "era": "post-war",
-      "types": [
-        "council estate"
-      ],
-      "notes": "estate area, family housing"
-    },
-    {
-      "name": "Easton",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "diverse, student HMO area"
-    },
-    {
-      "name": "Stokes Croft",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "young demographic, rented accommodation"
-    },
-    {
-      "name": "Bishopston",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mixed residential and commercial"
-    },
-    {
-      "name": "Cotham",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "villa"
-      ],
-      "notes": "conservation area, student lettings"
-    },
-    {
-      "name": "Henleaze",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "affluent suburban, low-turnover properties"
-    },
-    {
-      "name": "Hotwells",
-      "era": "Georgian to Victorian",
-      "types": [
-        "converted warehouse",
-        "flat"
-      ],
-      "notes": "waterfront redevelopment, heritage"
-    },
-    {
-      "name": "Kingsdown",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "conservation area, student area"
-    },
-    {
-      "name": "Brentry",
-      "era": "interwar to post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban, family housing"
-    },
-    {
-      "name": "Southmead",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "suburban estate area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian terrace",
-      "semi-detached",
-      "flat",
-      "post-war estate"
-    ],
-    "era": "mixed Victorian and post-war, with Georgian conservation cores",
-    "notable": "High student HMO density in inner suburbs (Bedminster, Easton, Cotham). Strong period property stock in Clifton and city-centre conservation areas requiring specialist heritage lock care."
+ "location": "Bristol",
+ "neighborhoods": [
+  {
+   "name": "City Centre",
+   "era": "mixed Victorian to modern",
+   "types": [
+    "flat",
+    "converted warehouse"
+   ],
+   "notes": "high foot traffic, retail premises"
   },
-  "locksmith_relevant": [
-    "Bristol's dense Victorian terrace stock across Bedminster, Easton, and Bishopston demands expertise in period pin-tumbler locks and sash-window security.",
-    "Large post-war council estates (Hartcliffe, Southmead) generate sustained rekeying and access-control demand from housing associations.",
-    "Clifton and Hotwells conservation areas contain listed properties requiring approved locksmiths; heritage locks and sympathetic repair work essential."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bristol",
-    "overpass": "OSM Overpass bbox query, 123 named areas",
-    "coords": {
-      "lat": 51.4538022,
-      "lon": -2.5972985
-    }
+  {
+   "name": "Clifton",
+   "era": "Georgian",
+   "types": [
+    "villa",
+    "terrace"
+   ],
+   "notes": "conservation area, listed buildings, affluent"
   },
-  "generated_at": "2026-05-13T12:03:56.602Z",
-  "all_areas": [
-    "Abbots Leigh",
-    "Ashley Down",
-    "Ashton Gate",
-    "Ashton Vale",
-    "Avonmouth",
-    "Baptist Mills",
-    "Barrow Gurney",
-    "Barton Hill",
-    "Beaufort Park",
-    "Bedminster",
-    "Bedminster Down",
-    "Berwick Green",
-    "Bishopston",
-    "Bishopsworth",
-    "Bower Ashton",
-    "Brabazon",
-    "Brentry",
-    "Brislington",
-    "Broadmead",
-    "Broomhill",
-    "Canon's Marsh",
-    "Catbrain",
-    "Charlton Hayes",
-    "Cheswick",
-    "City Centre",
-    "Clifton",
-    "Clifton Village",
-    "Cliftonwood",
-    "Conham",
-    "Coombe Dingle",
-    "Cotham",
-    "Crew's Hole",
-    "Cribbs Triangle",
-    "Cumberland Basin",
-    "Dundry",
-    "Easter Compton",
-    "Easton",
-    "Easton in Gordano",
-    "Eastville",
-    "Failand",
-    "Finzels Reach",
-    "Fishponds",
-    "Flax Bourton",
-    "Frenchay",
-    "Golden Hill",
-    "Greenbank",
-    "Hallen",
-    "Ham Green",
-    "Hambrook",
-    "Hanham",
-    "Harry Stoke",
-    "Hartcliffe",
-    "Headley Park",
-    "Henbury",
-    "Hengrove",
-    "Henleaze",
-    "Hillfields",
-    "Horfield",
-    "Hotwells",
-    "Kingsdown",
-    "Knowle",
-    "Knowle Park",
-    "Knowle West",
-    "Laurel Hill",
-    "Lawrence Hill",
-    "Lawrence Weston",
-    "Leigh Woods",
-    "Little Stoke",
-    "Lockleaze",
-    "Lodway",
-    "Long Ashton",
-    "Manor Farm",
-    "Montpelier",
-    "Newtown",
-    "Northville",
-    "Oatley Park",
-    "Old City",
-    "Old Market",
-    "Over",
-    "Paintworks",
-    "Pigsty Hill",
-    "Pill",
-    "Queen Charlton",
-    "Redcliffe",
-    "Redfield",
-    "Redland",
-    "Repton Grange",
-    "Sea Mills",
-    "Shirehampton",
-    "Sneyd Park",
-    "Southmead",
-    "Southville",
-    "Speedwell",
-    "Spike Island",
-    "St Agnes",
-    "St Andrew's",
-    "St Anne's",
-    "St George",
-    "St Jude's",
-    "St Paul's",
-    "St Philip's",
-    "St Philip's Marsh",
-    "St Werburgh's",
-    "Stapleton",
-    "Stockwood",
-    "Stoke Bishop",
-    "Stoke Gifford",
-    "Stoke Park",
-    "Stokes Croft",
-    "Temple Quarter",
-    "The Dings",
-    "The Haw Wood",
-    "Totterdown",
-    "Tyndall's Park",
-    "Upper Knowle",
-    "Wapping Wharf",
-    "Westbury Park",
-    "Westbury on Trym",
-    "Whitchurch",
-    "Whitehall",
-    "Windmill Hill",
-    "Withywood",
-    "Woodlands"
-  ],
-  "geo": {
-    "latitude": 51.4538022,
-    "longitude": -2.5972985
+  {
+   "name": "Clifton Village",
+   "era": "Victorian",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "conservation area, high-value properties"
   },
-  "postcode_districts": [
-    "BS1",
-    "BS10",
-    "BS11",
-    "BS13",
-    "BS14",
-    "BS16",
-    "BS2",
-    "BS3",
-    "BS4",
-    "BS5",
-    "BS6",
-    "BS7",
-    "BS8",
-    "BS9"
-  ],
-  "postcode_meta": {
-    "BS11": {
-      "count": 3,
-      "sample": "BS11 9EG",
-      "admin": "Bristol, City of"
-    },
-    "BS8": {
-      "count": 6,
-      "sample": "BS8 3ET",
-      "admin": "Bristol, City of"
-    },
-    "BS7": {
-      "count": 5,
-      "sample": "BS7 0DE",
-      "admin": "Bristol, City of"
-    },
-    "BS5": {
-      "count": 12,
-      "sample": "BS5 6SR",
-      "admin": "Bristol, City of"
-    },
-    "BS10": {
-      "count": 5,
-      "sample": "BS10 7AQ",
-      "admin": "Bristol, City of"
-    },
-    "BS9": {
-      "count": 6,
-      "sample": "BS9 3DU",
-      "admin": "Bristol, City of"
-    },
-    "BS1": {
-      "count": 10,
-      "sample": "BS1 6GE",
-      "admin": "Bristol, City of"
-    },
-    "BS2": {
-      "count": 8,
-      "sample": "BS2 9YD",
-      "admin": "Bristol, City of"
-    },
-    "BS6": {
-      "count": 6,
-      "sample": "BS6 7BX",
-      "admin": "Bristol, City of"
-    },
-    "BS16": {
-      "count": 3,
-      "sample": "BS16 2JB",
-      "admin": "Bristol, City of"
-    },
-    "BS3": {
-      "count": 6,
-      "sample": "BS3 3DF",
-      "admin": "Bristol, City of"
-    },
-    "BS4": {
-      "count": 9,
-      "sample": "BS4 4BW",
-      "admin": "Bristol, City of"
-    },
-    "BS14": {
-      "count": 2,
-      "sample": "BS14 8QQ",
-      "admin": "Bristol, City of"
-    },
-    "BS13": {
-      "count": 5,
-      "sample": "BS13 0TB",
-      "admin": "Bristol, City of"
-    }
+  {
+   "name": "Bedminster",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "working-class residential, student HMO density"
+  },
+  {
+   "name": "Southville",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "gentrifying area, rental market"
+  },
+  {
+   "name": "Fishponds",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "suburban, family homes"
+  },
+  {
+   "name": "Horfield",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban, residential"
+  },
+  {
+   "name": "Hartcliffe",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "large estate, high security demand"
+  },
+  {
+   "name": "Hengrove",
+   "era": "post-war",
+   "types": [
+    "council estate"
+   ],
+   "notes": "estate area, family housing"
+  },
+  {
+   "name": "Easton",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "diverse, student HMO area"
+  },
+  {
+   "name": "Stokes Croft",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "young demographic, rented accommodation"
+  },
+  {
+   "name": "Bishopston",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mixed residential and commercial"
+  },
+  {
+   "name": "Cotham",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "villa"
+   ],
+   "notes": "conservation area, student lettings"
+  },
+  {
+   "name": "Henleaze",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "affluent suburban, low-turnover properties"
+  },
+  {
+   "name": "Hotwells",
+   "era": "Georgian to Victorian",
+   "types": [
+    "converted warehouse",
+    "flat"
+   ],
+   "notes": "waterfront redevelopment, heritage"
+  },
+  {
+   "name": "Kingsdown",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "conservation area, student area"
+  },
+  {
+   "name": "Brentry",
+   "era": "interwar to post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban, family housing"
+  },
+  {
+   "name": "Southmead",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "suburban estate area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian terrace",
+   "semi-detached",
+   "flat",
+   "post-war estate"
+  ],
+  "era": "mixed Victorian and post-war, with Georgian conservation cores",
+  "notable": "High student HMO density in inner suburbs (Bedminster, Easton, Cotham). Strong period property stock in Clifton and city-centre conservation areas requiring specialist heritage lock care."
+ },
+ "locksmith_relevant": [
+  "Bristol's dense Victorian terrace stock across Bedminster, Easton, and Bishopston demands expertise in period pin-tumbler locks and sash-window security.",
+  "Large post-war council estates (Hartcliffe, Southmead) generate sustained rekeying and access-control demand from housing associations.",
+  "Clifton and Hotwells conservation areas contain listed properties requiring approved locksmiths; heritage locks and sympathetic repair work essential."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Bristol",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within City of Bristol), 55 named areas",
+  "coords": {
+   "lat": 51.4538022,
+   "lon": -2.5972985
+  }
+ },
+ "generated_at": "2026-05-13T12:03:56.602Z",
+ "all_areas": [
+  "Ashley Down",
+  "Ashton Gate",
+  "Ashton Vale",
+  "Avonmouth",
+  "Barton Hill",
+  "Bedminster",
+  "Bedminster Down",
+  "Bishopston",
+  "Bishopsworth",
+  "Brentry",
+  "Brislington",
+  "Broadmead",
+  "City Centre",
+  "Clifton",
+  "Coombe Dingle",
+  "Cotham",
+  "Easton",
+  "Eastville",
+  "Fishponds",
+  "Hartcliffe",
+  "Henbury",
+  "Hengrove",
+  "Henleaze",
+  "Horfield",
+  "Hotwells",
+  "Kingsdown",
+  "Knowle",
+  "Lawrence Weston",
+  "Lockleaze",
+  "Montpelier",
+  "Redcliffe",
+  "Redfield",
+  "Redland",
+  "Sea Mills",
+  "Shirehampton",
+  "Sneyd Park",
+  "Southmead",
+  "Southville",
+  "Speedwell",
+  "Spike Island",
+  "St Andrew's",
+  "St Anne's",
+  "St George",
+  "St Paul's",
+  "St Philip's",
+  "St Philip's Marsh",
+  "St Werburgh's",
+  "Stapleton",
+  "Stockwood",
+  "Stoke Bishop",
+  "Totterdown",
+  "Westbury Park",
+  "Westbury on Trym",
+  "Whitehall",
+  "Withywood"
+ ],
+ "geo": {
+  "latitude": 51.4538022,
+  "longitude": -2.5972985
+ },
+ "postcode_districts": [
+  "BS1",
+  "BS10",
+  "BS11",
+  "BS13",
+  "BS14",
+  "BS16",
+  "BS2",
+  "BS3",
+  "BS4",
+  "BS5",
+  "BS6",
+  "BS7",
+  "BS8",
+  "BS9"
+ ],
+ "postcode_meta": {
+  "BS11": {
+   "count": 3,
+   "sample": "BS11 9EG",
+   "admin": "Bristol, City of"
+  },
+  "BS8": {
+   "count": 6,
+   "sample": "BS8 3ET",
+   "admin": "Bristol, City of"
+  },
+  "BS7": {
+   "count": 5,
+   "sample": "BS7 0DE",
+   "admin": "Bristol, City of"
+  },
+  "BS5": {
+   "count": 12,
+   "sample": "BS5 6SR",
+   "admin": "Bristol, City of"
+  },
+  "BS10": {
+   "count": 5,
+   "sample": "BS10 7AQ",
+   "admin": "Bristol, City of"
+  },
+  "BS9": {
+   "count": 6,
+   "sample": "BS9 3DU",
+   "admin": "Bristol, City of"
+  },
+  "BS1": {
+   "count": 10,
+   "sample": "BS1 6GE",
+   "admin": "Bristol, City of"
+  },
+  "BS2": {
+   "count": 8,
+   "sample": "BS2 9YD",
+   "admin": "Bristol, City of"
+  },
+  "BS6": {
+   "count": 6,
+   "sample": "BS6 7BX",
+   "admin": "Bristol, City of"
+  },
+  "BS16": {
+   "count": 3,
+   "sample": "BS16 2JB",
+   "admin": "Bristol, City of"
+  },
+  "BS3": {
+   "count": 6,
+   "sample": "BS3 3DF",
+   "admin": "Bristol, City of"
+  },
+  "BS4": {
+   "count": 9,
+   "sample": "BS4 4BW",
+   "admin": "Bristol, City of"
+  },
+  "BS14": {
+   "count": 2,
+   "sample": "BS14 8QQ",
+   "admin": "Bristol, City of"
+  },
+  "BS13": {
+   "count": 5,
+   "sample": "BS13 0TB",
+   "admin": "Bristol, City of"
+  }
+ }
 }

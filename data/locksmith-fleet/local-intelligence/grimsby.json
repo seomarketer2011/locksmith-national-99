@@ -1,200 +1,202 @@
 {
-  "location": "Grimsby",
-  "neighborhoods": [
-    {
-      "name": "East Marsh",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "historic working-class area, terraced housing predominant"
-    },
-    {
-      "name": "West Marsh",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "similar vintage to East Marsh, tighter street layouts"
-    },
-    {
-      "name": "Old Clee",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "original Grimsby settlement, older property stock"
-    },
-    {
-      "name": "New Clee",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "suburban expansion phase, varied property ages"
-    },
-    {
-      "name": "Scartho",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "commuter suburb, better-maintained residential area"
-    },
-    {
-      "name": "Weelsby",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "modern"
-      ],
-      "notes": "residential, mixed modern and older stock"
-    },
-    {
-      "name": "Nunsthorpe",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban estate character"
-    },
-    {
-      "name": "Beacon Hill",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "elevated residential area, varied property types"
-    },
-    {
-      "name": "Holme Hill",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "sloping topography, established residential district"
-    },
-    {
-      "name": "Yarborough",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "suburban character with green spaces"
-    },
-    {
-      "name": "Grange",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Littlefield",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Wellow",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "flat"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "flat"
-    ],
-    "era": "predominantly pre-1945 (Victorian/Edwardian core) with post-war suburban expansion",
-    "notable": "High density Victorian terraces in East/West Marsh create multiple-occupancy lock challenges. Fishing port heritage means older, tighter-built properties with traditional mechanisms."
+ "location": "Grimsby",
+ "neighborhoods": [
+  {
+   "name": "East Marsh",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "historic working-class area, terraced housing predominant"
   },
-  "locksmith_relevant": [
-    "East and West Marsh terraces have shared entry walls and period locks requiring specialist knowledge of old mechanisms.",
-    "Post-war suburbs (Scartho, Nunsthorpe, Weelsby) feature semi-detached stock with standard modern locks; high turnover from private rental.",
-    "Grimsby's fishing industry legacy means many older properties lack updated security; emergency callouts for heritage locks are common."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Grimsby",
-    "overpass": "OSM Overpass bbox query, 13 named areas",
-    "coords": {
-      "lat": 53.5671407,
-      "lon": -0.0788045
-    }
+  {
+   "name": "West Marsh",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "similar vintage to East Marsh, tighter street layouts"
   },
-  "generated_at": "2026-05-13T12:33:02.165Z",
-  "all_areas": [
-    "Beacon Hill",
-    "East Marsh",
-    "Grange",
-    "Holme Hill",
-    "Littlefield",
-    "New Clee",
-    "Nunsthorpe",
-    "Old Clee",
-    "Scartho",
-    "Weelsby",
-    "Wellow",
-    "West Marsh",
-    "Yarborough"
-  ],
-  "geo": {
-    "latitude": 53.5671407,
-    "longitude": -0.0788045
+  {
+   "name": "Old Clee",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "original Grimsby settlement, older property stock"
   },
-  "postcode_districts": [
-    "DN31",
-    "DN32",
-    "DN33",
-    "DN34",
-    "DN35"
-  ],
-  "postcode_meta": {
-    "DN32": {
-      "count": 5,
-      "sample": "DN32 8LP",
-      "admin": "North East Lincolnshire",
-      "via": "constituency=great grimsby and cleethorpes"
-    },
-    "DN34": {
-      "count": 2,
-      "sample": "DN34 4BU",
-      "admin": "North East Lincolnshire",
-      "via": "constituency=great grimsby and cleethorpes"
-    },
-    "DN33": {
-      "count": 1,
-      "sample": "DN33 1HA",
-      "admin": "North East Lincolnshire",
-      "via": "constituency=great grimsby and cleethorpes"
-    },
-    "DN35": {
-      "count": 1,
-      "sample": "DN35 9ET",
-      "admin": "North East Lincolnshire",
-      "via": "constituency=great grimsby and cleethorpes"
-    },
-    "DN31": {
-      "count": 1,
-      "sample": "DN31 2QG",
-      "admin": "North East Lincolnshire",
-      "via": "constituency=great grimsby and cleethorpes"
-    }
+  {
+   "name": "New Clee",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "suburban expansion phase, varied property ages"
+  },
+  {
+   "name": "Scartho",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "commuter suburb, better-maintained residential area"
+  },
+  {
+   "name": "Weelsby",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "modern"
+   ],
+   "notes": "residential, mixed modern and older stock"
+  },
+  {
+   "name": "Nunsthorpe",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban estate character"
+  },
+  {
+   "name": "Beacon Hill",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "elevated residential area, varied property types"
+  },
+  {
+   "name": "Holme Hill",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "sloping topography, established residential district"
+  },
+  {
+   "name": "Yarborough",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "suburban character with green spaces"
+  },
+  {
+   "name": "Grange",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Littlefield",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Wellow",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "flat"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "flat"
+  ],
+  "era": "predominantly pre-1945 (Victorian/Edwardian core) with post-war suburban expansion",
+  "notable": "High density Victorian terraces in East/West Marsh create multiple-occupancy lock challenges. Fishing port heritage means older, tighter-built properties with traditional mechanisms."
+ },
+ "locksmith_relevant": [
+  "East and West Marsh terraces have shared entry walls and period locks requiring specialist knowledge of old mechanisms.",
+  "Post-war suburbs (Scartho, Nunsthorpe, Weelsby) feature semi-detached stock with standard modern locks; high turnover from private rental.",
+  "Grimsby's fishing industry legacy means many older properties lack updated security; emergency callouts for heritage locks are common."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Grimsby",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Grimsby, 15 named areas",
+  "coords": {
+   "lat": 53.5671407,
+   "lon": -0.0788045
+  }
+ },
+ "generated_at": "2026-05-13T12:33:02.165Z",
+ "all_areas": [
+  "East Marsh",
+  "Grange",
+  "Great Coates",
+  "Holme Hill",
+  "Littlefield",
+  "New Clee",
+  "Nunsthorpe",
+  "Old Clee",
+  "Scartho",
+  "The Willows",
+  "Weelsby",
+  "Wellow",
+  "West Marsh",
+  "Wybers Wood",
+  "Yarborough"
+ ],
+ "geo": {
+  "latitude": 53.5671407,
+  "longitude": -0.0788045
+ },
+ "postcode_districts": [
+  "DN31",
+  "DN32",
+  "DN33",
+  "DN34",
+  "DN35"
+ ],
+ "postcode_meta": {
+  "DN32": {
+   "count": 5,
+   "sample": "DN32 8LP",
+   "admin": "North East Lincolnshire",
+   "via": "constituency=great grimsby and cleethorpes"
+  },
+  "DN34": {
+   "count": 2,
+   "sample": "DN34 4BU",
+   "admin": "North East Lincolnshire",
+   "via": "constituency=great grimsby and cleethorpes"
+  },
+  "DN33": {
+   "count": 1,
+   "sample": "DN33 1HA",
+   "admin": "North East Lincolnshire",
+   "via": "constituency=great grimsby and cleethorpes"
+  },
+  "DN35": {
+   "count": 1,
+   "sample": "DN35 9ET",
+   "admin": "North East Lincolnshire",
+   "via": "constituency=great grimsby and cleethorpes"
+  },
+  "DN31": {
+   "count": 1,
+   "sample": "DN31 2QG",
+   "admin": "North East Lincolnshire",
+   "via": "constituency=great grimsby and cleethorpes"
+  }
+ }
 }

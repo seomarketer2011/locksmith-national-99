@@ -1,412 +1,258 @@
 {
-  "location": "Chester",
-  "neighborhoods": [
-    {
-      "name": "City Centre",
-      "era": "medieval to Victorian",
-      "types": [
-        "period flat",
-        "listed building",
-        "mixed-use"
-      ],
-      "notes": "conservation area, Roman walls, high tourist footfall"
-    },
-    {
-      "name": "Blacon",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "1950s social housing, high density"
-    },
-    {
-      "name": "Garden City",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "planned estate, tree-lined avenues"
-    },
-    {
-      "name": "Garden Village",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "early suburban development"
-    },
-    {
-      "name": "Christleton",
-      "era": "Victorian to interwar",
-      "types": [
-        "semi-detached",
-        "detached",
-        "villa"
-      ],
-      "notes": "affluent commuter village"
-    },
-    {
-      "name": "Guilden Sutton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "commuter belt, modern extensions common"
-    },
-    {
-      "name": "Boughton Heath",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "working-class terraces"
-    },
-    {
-      "name": "Great Boughton",
-      "era": "Victorian to Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area"
-    },
-    {
-      "name": "Broughton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential commuter area"
-    },
-    {
-      "name": "Ashton Hayes",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "period cottage"
-      ],
-      "notes": "rural village character"
-    },
-    {
-      "name": "Farndon",
-      "era": "Georgian to Victorian",
-      "types": [
-        "detached",
-        "period cottage"
-      ],
-      "notes": "riverside setting, conservation area"
-    },
-    {
-      "name": "Chester Business Park",
-      "era": "modern",
-      "types": [
-        "commercial",
-        "modern flat"
-      ],
-      "notes": "new commercial district, modern security concerns"
-    },
-    {
-      "name": "Cheshire Oaks",
-      "era": "modern",
-      "types": [
-        "retail park",
-        "modern flat"
-      ],
-      "notes": "outlet shopping, newer residential"
-    },
-    {
-      "name": "Acton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "mixed social housing"
-    },
-    {
-      "name": "Gresford",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mining village heritage"
-    },
-    {
-      "name": "Aston",
-      "era": "Victorian to Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban development"
-    },
-    {
-      "name": "Dodleston",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "period cottage"
-      ],
-      "notes": "rural village"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached",
-      "period flat"
-    ],
-    "era": "mixed Victorian and post-war, with medieval city core",
-    "notable": "historic Roman and medieval walls central; rapid 1950s–70s council expansion (Blacon); affluent commuter belt to south and west"
+ "location": "Chester",
+ "neighborhoods": [
+  {
+   "name": "City Centre",
+   "era": "medieval to Victorian",
+   "types": [
+    "period flat",
+    "listed building",
+    "mixed-use"
+   ],
+   "notes": "conservation area, Roman walls, high tourist footfall"
   },
-  "locksmith_relevant": [
-    "Chester's medieval City Centre contains listed properties with original period locks and sash windows requiring specialist knowledge and care.",
-    "Large 1950s council estates (Blacon, Acton) feature uniform lock systems; bulk rekeying and master key systems are common locksmith jobs.",
-    "Commuter villages (Christleton, Guilden Sutton, Farndon) have older mixed properties; owners frequently upgrade security in rural settings with isolated homes."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Chester",
-    "overpass": "OSM Overpass bbox query, 164 named areas",
-    "coords": {
-      "lat": 53.1908873,
-      "lon": -2.8908955
-    }
+  {
+   "name": "Blacon",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "1950s social housing, high density"
   },
-  "generated_at": "2026-05-13T12:18:52.553Z",
-  "all_areas": [
-    "Abbot's Mead",
-    "Abermorddu",
-    "Acton",
-    "Aldford",
-    "Ashton Hayes",
-    "Aston",
-    "Aston Park",
-    "Backford",
-    "Barton",
-    "Bersham",
-    "Bickerton",
-    "Blacon",
-    "Blacon Point",
-    "Borras Park",
-    "Boughton Heath",
-    "Bradley",
-    "Bretton",
-    "Brimstage",
-    "Broughton",
-    "Brown Heath",
-    "Brown Knowl",
-    "Bryn Cefn",
-    "Bryn Offa",
-    "Brynteg",
-    "Burton",
-    "Caego",
-    "Caergwrle",
-    "Caia Park",
-    "Caldy Valley",
-    "Capenhurst",
-    "Cefn-y-bedd",
-    "Cerney",
-    "Cheshire Oaks",
-    "Chester Business Park",
-    "Christleton",
-    "Churton",
-    "City Centre",
-    "Clutton",
-    "Coed-y-Glyn",
-    "Crewe by Farndon",
-    "Croes Eneurys",
-    "Darland",
-    "Ddôl",
-    "Dodleston",
-    "Dukesfield",
-    "Dunham on the Hill",
-    "Eastham Village",
-    "Eccleston",
-    "Elton",
-    "Ewloe",
-    "Farndon",
-    "Felin Puleston",
-    "Garden City",
-    "Garden Village",
-    "Great Barrow",
-    "Great Boughton",
-    "Great Sutton",
-    "Gresford",
-    "Guilden Sutton",
-    "Gwersyllt",
-    "Hale",
-    "Hampton Heath",
-    "Handbridge",
-    "Harthill",
-    "Hawarden",
-    "Heathfield",
-    "Helsby",
-    "High Grove",
-    "Higher Kinnerton",
-    "Higher Runcorn",
-    "Higher Shotton",
-    "Hightown",
-    "Holt",
-    "Hoole",
-    "Hope",
-    "Horton Green",
-    "Hough Green",
-    "Huntington",
-    "King's Mills",
-    "Lache",
-    "Lavister",
-    "Lea-by-Backford",
-    "Little Acton",
-    "Little Sutton",
-    "Littleton",
-    "Llay",
-    "Maesydre",
-    "Mancot",
-    "Manley",
-    "Marford",
-    "Mickle Trafford",
-    "Mollington",
-    "Moss",
-    "Moston",
-    "Mouldsworth",
-    "Ness",
-    "New Broughton",
-    "Newton",
-    "Newtown",
-    "Northgate Village",
-    "Offa",
-    "Oscroft",
-    "Overpool",
-    "Pandy",
-    "Pen-y-ffordd",
-    "Pentre",
-    "Pentre Bach",
-    "Pentre Broughton",
-    "Pentre Maelor",
-    "Plas Coch",
-    "Poulton",
-    "Puddington",
-    "Pulford",
-    "Queens Park",
-    "Queensferry",
-    "Raby",
-    "Raby Mere",
-    "Rhosddu",
-    "Rhosnesni",
-    "Rhosrobin",
-    "Rhostyllen",
-    "Rossett",
-    "Rossmore Estate",
-    "Rowton",
-    "Runcorn Heath",
-    "Saighton",
-    "Saltney",
-    "Saltney Ferry",
-    "Sandycroft",
-    "Saughall",
-    "Sealand",
-    "Shocklach",
-    "Shotwick",
-    "Southsea",
-    "Speke",
-    "Spital",
-    "Stanney Oaks",
-    "Stansty",
-    "Stanton",
-    "Stoak",
-    "Summerhill",
-    "Sydallt",
-    "Tanyfron",
-    "Tarvin",
-    "Tattenhall",
-    "The Coliseum",
-    "The Dunks",
-    "Thornton Hough",
-    "Thornton le Moors",
-    "Tilston",
-    "Trevalyn",
-    "Upton",
-    "Upton Heath",
-    "Vicars Cross",
-    "Waverton",
-    "West Bank",
-    "Westfield",
-    "Westminster Park",
-    "Weston",
-    "Weston Point",
-    "Westwood Park",
-    "Whitby",
-    "Willaston",
-    "Wolverham"
-  ],
-  "geo": {
-    "latitude": 53.1908873,
-    "longitude": -2.8908955
+  {
+   "name": "Garden City",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "planned estate, tree-lined avenues"
   },
-  "postcode_districts": [
-    "CH1",
-    "CH2",
-    "CH3",
-    "CH4",
-    "CH64",
-    "CH65",
-    "CH66",
-    "SY14",
-    "WA6"
-  ],
-  "postcode_meta": {
-    "CH3": {
-      "count": 22,
-      "sample": "CH3 7DG",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH2": {
-      "count": 7,
-      "sample": "CH2 2DT",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH1": {
-      "count": 9,
-      "sample": "CH1 3HU",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH4": {
-      "count": 8,
-      "sample": "CH4 7QJ",
-      "admin": "Cheshire West and Chester"
-    },
-    "WA6": {
-      "count": 2,
-      "sample": "WA6 0LX",
-      "admin": "Cheshire West and Chester"
-    },
-    "SY14": {
-      "count": 3,
-      "sample": "SY14 7HU",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH66": {
-      "count": 3,
-      "sample": "CH66 2WS",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH65": {
-      "count": 6,
-      "sample": "CH65 9LS",
-      "admin": "Cheshire West and Chester"
-    },
-    "CH64": {
-      "count": 3,
-      "sample": "CH64 5SS",
-      "admin": "Cheshire West and Chester"
-    }
+  {
+   "name": "Garden Village",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "early suburban development"
+  },
+  {
+   "name": "Christleton",
+   "era": "Victorian to interwar",
+   "types": [
+    "semi-detached",
+    "detached",
+    "villa"
+   ],
+   "notes": "affluent commuter village"
+  },
+  {
+   "name": "Guilden Sutton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "commuter belt, modern extensions common"
+  },
+  {
+   "name": "Boughton Heath",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "working-class terraces"
+  },
+  {
+   "name": "Great Boughton",
+   "era": "Victorian to Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area"
+  },
+  {
+   "name": "Broughton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential commuter area"
+  },
+  {
+   "name": "Ashton Hayes",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "period cottage"
+   ],
+   "notes": "rural village character"
+  },
+  {
+   "name": "Farndon",
+   "era": "Georgian to Victorian",
+   "types": [
+    "detached",
+    "period cottage"
+   ],
+   "notes": "riverside setting, conservation area"
+  },
+  {
+   "name": "Chester Business Park",
+   "era": "modern",
+   "types": [
+    "commercial",
+    "modern flat"
+   ],
+   "notes": "new commercial district, modern security concerns"
+  },
+  {
+   "name": "Cheshire Oaks",
+   "era": "modern",
+   "types": [
+    "retail park",
+    "modern flat"
+   ],
+   "notes": "outlet shopping, newer residential"
+  },
+  {
+   "name": "Acton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "mixed social housing"
+  },
+  {
+   "name": "Gresford",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mining village heritage"
+  },
+  {
+   "name": "Aston",
+   "era": "Victorian to Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban development"
+  },
+  {
+   "name": "Dodleston",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "period cottage"
+   ],
+   "notes": "rural village"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached",
+   "period flat"
+  ],
+  "era": "mixed Victorian and post-war, with medieval city core",
+  "notable": "historic Roman and medieval walls central; rapid 1950s\u201370s council expansion (Blacon); affluent commuter belt to south and west"
+ },
+ "locksmith_relevant": [
+  "Chester's medieval City Centre contains listed properties with original period locks and sash windows requiring specialist knowledge and care.",
+  "Large 1950s council estates (Blacon, Acton) feature uniform lock systems; bulk rekeying and master key systems are common locksmith jobs.",
+  "Commuter villages (Christleton, Guilden Sutton, Farndon) have older mixed properties; owners frequently upgrade security in rural settings with isolated homes."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Chester",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within City of Chester), 10 named areas",
+  "coords": {
+   "lat": 53.1908873,
+   "lon": -2.8908955
+  }
+ },
+ "generated_at": "2026-05-13T12:18:52.553Z",
+ "all_areas": [
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park"
+ ],
+ "geo": {
+  "latitude": 53.1908873,
+  "longitude": -2.8908955
+ },
+ "postcode_districts": [
+  "CH1",
+  "CH2",
+  "CH3",
+  "CH4",
+  "CH64",
+  "CH65",
+  "CH66",
+  "SY14",
+  "WA6"
+ ],
+ "postcode_meta": {
+  "CH3": {
+   "count": 22,
+   "sample": "CH3 7DG",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH2": {
+   "count": 7,
+   "sample": "CH2 2DT",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH1": {
+   "count": 9,
+   "sample": "CH1 3HU",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH4": {
+   "count": 8,
+   "sample": "CH4 7QJ",
+   "admin": "Cheshire West and Chester"
+  },
+  "WA6": {
+   "count": 2,
+   "sample": "WA6 0LX",
+   "admin": "Cheshire West and Chester"
+  },
+  "SY14": {
+   "count": 3,
+   "sample": "SY14 7HU",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH66": {
+   "count": 3,
+   "sample": "CH66 2WS",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH65": {
+   "count": 6,
+   "sample": "CH65 9LS",
+   "admin": "Cheshire West and Chester"
+  },
+  "CH64": {
+   "count": 3,
+   "sample": "CH64 5SS",
+   "admin": "Cheshire West and Chester"
+  }
+ }
 }

@@ -1,105 +1,99 @@
 {
-  "location": "Stanford-le-Hope",
-  "neighborhoods": [
-    {
-      "name": "Corringham",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terraced"
-      ],
-      "notes": "established residential suburb"
-    },
-    {
-      "name": "East Tilbury",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "industrial heritage area"
-    },
-    {
-      "name": "Horndon On The Hill",
-      "era": "Victorian",
-      "types": [
-        "period cottage",
-        "listed"
-      ],
-      "notes": "conservation area, elevated position"
-    },
-    {
-      "name": "Linford",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terraced"
-      ],
-      "notes": "residential expansion zone"
-    },
-    {
-      "name": "Mucking",
-      "era": "post-war",
-      "types": [
-        "scattered residential"
-      ],
-      "notes": "industrial and agricultural heritage"
-    },
-    {
-      "name": "The Bonners",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ],
-      "notes": "recent development phase"
-    },
-    {
-      "name": "West Tilbury",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terraced"
-      ],
-      "notes": "riverside proximity"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terraced",
-      "council estate"
-    ],
-    "era": "mixed interwar and post-war",
-    "notable": "Thames-side industrial town with 1930s–1950s residential expansion; mix of period and modern properties"
+ "location": "Stanford-le-Hope",
+ "neighborhoods": [
+  {
+   "name": "Corringham",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terraced"
+   ],
+   "notes": "established residential suburb"
   },
-  "locksmith_relevant": [
-    "Interwar semis and terraces dominate; many original timber frames and period locks need specialist servicing.",
-    "Industrial heritage properties in East Tilbury and Mucking often have heavy-duty security requirements.",
-    "Conservation area listings (Horndon) restrict lock upgrades; heritage-compliant solutions essential for listed work."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Stanford-le-Hope",
-    "overpass": "OSM Overpass bbox query, 7 named areas",
-    "coords": {
-      "lat": 51.5138172,
-      "lon": 0.4252037
-    }
+  {
+   "name": "East Tilbury",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "industrial heritage area"
   },
-  "generated_at": "2026-05-13T18:12:46.328Z",
-  "all_areas": [
-    "Corringham",
-    "East Tilbury",
-    "Horndon On The Hill",
-    "Linford",
-    "Mucking",
-    "The Bonners",
-    "West Tilbury"
-  ],
-  "geo": {
-    "latitude": 51.5138172,
-    "longitude": 0.4252037
+  {
+   "name": "Horndon On The Hill",
+   "era": "Victorian",
+   "types": [
+    "period cottage",
+    "listed"
+   ],
+   "notes": "conservation area, elevated position"
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Linford",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terraced"
+   ],
+   "notes": "residential expansion zone"
+  },
+  {
+   "name": "Mucking",
+   "era": "post-war",
+   "types": [
+    "scattered residential"
+   ],
+   "notes": "industrial and agricultural heritage"
+  },
+  {
+   "name": "The Bonners",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ],
+   "notes": "recent development phase"
+  },
+  {
+   "name": "West Tilbury",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terraced"
+   ],
+   "notes": "riverside proximity"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terraced",
+   "council estate"
+  ],
+  "era": "mixed interwar and post-war",
+  "notable": "Thames-side industrial town with 1930s\u20131950s residential expansion; mix of period and modern properties"
+ },
+ "locksmith_relevant": [
+  "Interwar semis and terraces dominate; many original timber frames and period locks need specialist servicing.",
+  "Industrial heritage properties in East Tilbury and Mucking often have heavy-duty security requirements.",
+  "Conservation area listings (Horndon) restrict lock upgrades; heritage-compliant solutions essential for listed work."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Stanford-le-Hope",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Stanford-le-Hope, 1 named areas",
+  "coords": {
+   "lat": 51.5138172,
+   "lon": 0.4252037
+  }
+ },
+ "generated_at": "2026-05-13T18:12:46.328Z",
+ "all_areas": [
+  "Corringham"
+ ],
+ "geo": {
+  "latitude": 51.5138172,
+  "longitude": 0.4252037
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

@@ -1,347 +1,297 @@
 {
-  "meta.title": "Locksmith Abingdon-on-Thames | Local Locksmithing 24/7",
-  "meta.description": "Trusted locksmith in Abingdon-on-Thames serving Victorian terraces, modern semis, and riverside properties. Emergency repairs, lock changes, and specialist period ironmongery care.",
-  "home.hero-paragraph": "Our Abingdon-on-Thames locksmith offers professional locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and security upgrades. All our engineers are DBS checked and fully insured, with 24/7 availability. Non-destructive entry methods protect your property whilst resolving your lock problems quickly.",
-  "home.local-context-heading": "Locks for Historic and Modern Abingdon",
-  "home.local-context-body": "Abingdon-on-Thames has a varied housing stock spanning Victorian terraces to modern semis. Period properties in Sutton Courtenay and similar conservation areas often retain original locks and latches that require specialist servicing rather than replacement due to listed-status restrictions. Post-war semis in Wootton typically feature uPVC doors with cylinder locks needing routine maintenance and occasional repair. Lock condition varies significantly by era and materials used.\n\nRiverside properties across the town are exposed to damp conditions that accelerate corrosion of ironmongery and wooden window frames. Older sash windows and period metalwork need regular attention to prevent binding and rust. Landlords managing multiple properties should verify lock compliance with current tenancy standards, particularly if doors have been modified or upgraded. Local conservation rules may restrict certain lock types in designated areas.",
-  "home.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Drayton with a listed-status restriction. Can you help with my lock without damaging the property?",
-      "a": "Yes—we specialise in period locks and listed-property modifications across Drayton's conservation area. We'll assess your existing ironmongery and advise on sympathetic upgrades that comply with heritage restrictions."
-    },
-    {
-      "q": "Our post-war semi in Shippon has a sticking uPVC door and the cylinder lock won't turn smoothly. What's the issue?",
-      "a": "Modern cylinder locks in uPVC doors often jam due to misalignment or internal corrosion, especially in our damp Thames-side climate. We'll service or replace the cylinder and check door frame alignment to restore smooth operation."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Abingdon-on-Thames | 24/7 UPVC",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Abingdon-on-Thames. Locked out? Key snapped? Fast response for uPVC doors, period locks & post-break-in security. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Abingdon-on-Thames combines skilled locksmithing with rapid response times to resolve urgent access problems. Whether you're locked out of your home, have snapped a key in the lock, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to minimise damage and restore your security promptly.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Abingdon-on-Thames are frequent across the town's mixed housing stock, particularly affecting the post-war semis of Peachcroft and newer detached homes where modern cylinder locks and uPVC doors dominate. Older Victorian and Edwardian terraces in Drayton also generate urgent callouts, though these often involve period locks that require careful handling and specialist knowledge to avoid damage.\n\nProperties in conservation areas and listed buildings present specific constraints for emergency response. Historic properties frequently have restrictions on lock modifications or replacement, meaning technicians must prioritise non-destructive entry methods and work within listed-building consent rules. Thames-side locations add an additional consideration: corrosion of older ironmongery from damp exposure can cause locks to jam or fail suddenly, particularly in winter months.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my semi in Peachcroft and my uPVC door won't budge—how quickly can you get here?",
-      "a": "We're based in Abingdon-on-Thames and respond to emergency lockouts across Peachcroft and surrounding areas within the hour, 24/7. Post-war semis with uPVC doors are our bread and butter, so we'll have you back inside fast without forcing damage."
-    },
-    {
-      "q": "My Victorian terrace in Radley has a snapped key in the lock—do you handle period locks without damaging listed features?",
-      "a": "Yes; we specialise in period locks and understand Radley's mix of Victorian and modern properties, including conservation rules. We'll extract the snapped key carefully and advise on secure replacement options that comply with any listed-status requirements."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Abingdon-on-Thames? Emergency Entry | Suresec",
-  "locked-out.meta.description": "Locked out in Abingdon-on-Thames? Fast non-destructive entry for lost or snapped keys. Specialist service for Victorian terraces and modern homes. 24/7 emergency locksmith.",
-  "locked-out.hero-paragraph": "When you're locked out in Abingdon-on-Thames, our experienced locksmiths specialise in locksmithing techniques that regain entry without damage. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive methods to open your door quickly. Our damage-free approach means you'll face no costly repairs after we've helped.",
-  "locked-out.local-context-body": "Locked-out situations across Abingdon-on-Thames present distinct challenges by neighbourhood type. Wootton's post-war semis typically feature uPVC doors with modern cylinder locks—straightforward non-destructive entry—whereas older terraces in Sutton Courtenay often retain original wooden frames and period hardware, requiring gentler techniques to avoid damage to heritage joinery. Semi-detached properties dominate the interwar and post-war suburban belt, where key loss frequently triggers calls for swift re-entry without forcing doors or frames.\n\nListed-building status in conservation areas such as riverside Sutton Courtenay restricts entry methods; any work must preserve original lock mechanisms and door fabric, ruling out drilling or destructive cylinder removal. Damp conditions along Thames-side properties can swell wooden frames or corrode traditional ironmongery, complicating non-destructive manipulation and extending entry time. Modern cylinder locks in newer properties generally respond faster to specialist techniques, but age and environmental exposure across mixed-era housing means entry approach must be tailored to property era and condition.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Drayton—will you damage the listed door frame if you need to get me in?",
-      "a": "No. We specialise in non-destructive entry for period properties, and we're familiar with listed-status restrictions in Drayton and Sutton Courtenay. We'll use manipulation and specialist techniques to open your door without alteration, then advise on any lock upgrades that comply with conservation guidelines."
-    },
-    {
-      "q": "My key snapped in the lock of my Wootton semi—how quickly can you get me back inside without replacing the whole cylinder?",
-      "a": "We can typically extract the broken key and re-pin or manipulate your uPVC door lock non-destructively within the hour. Call 01235 372119 now, and we'll confirm our ETA and advise whether your modern cylinder can be salvaged or needs swift replacement."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Abingdon-on-Thames – Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Abingdon-on-Thames: expert extraction from euro cylinders, mortice locks & night latches. Fast service for period terraces & modern homes.",
-  "broken-key-removal.hero-paragraph": "Broken key removal is a specialised locksmithing service that our Abingdon-on-Thames locksmith team handles with precision every day. Whether you're dealing with a snapped key stuck firmly in your mortice lock or euro cylinder, we employ non-destructive extraction methods using professional key extractor tools to retrieve the fragment safely without damaging your lock mechanism.",
-  "broken-key-removal.local-context-body": "Period terrace properties in Drayton and conservation-area cottages around Appleford-on-Thames frequently house original mortice locks and night latches where key breakage occurs during seasonal movement or wear. Post-war semis in Wootton present a different profile: modern cylinder locks on uPVC doors see broken-key incidents often linked to misalignment or material brittleness in older polyvinyl frames. Both scenarios demand swift extraction to restore access without forcing the mechanism.\n\nListed-status properties throughout the historic riverside core impose constraints on lock replacement; extraction without damage becomes critical where substituting the entire fitting risks conservation-area consent delays. Damp conditions near the Thames accelerate corrosion in older ironmongery, making keys more prone to fracture during removal attempts. Specialist tools and knowledge of period lock internals are therefore standard requirements for safe broken-key work across Abingdon's mixed housing age range.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "I've snapped my key in a period lock in my Sutton Courtenay terrace – can you remove it without damaging the listed ironmongery?",
-      "a": "Yes. Our technicians are experienced with Victorian and period mortice locks common in Sutton Courtenay's conservation area, and we use gentle extraction methods to avoid damage to original fittings—essential when listed-status restrictions apply to modifications."
-    },
-    {
-      "q": "A key broke off in my uPVC door cylinder at our Radley semi – how quickly can you get it out?",
-      "a": "We offer same-day broken key removal for modern euro cylinders in post-war semis across Radley. We'll extract the snapped key cleanly and replace or re-key the cylinder if needed, minimising disruption to your home."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Abingdon-on-Thames | Terrace Lock Repair",
-  "burglar-repair-service.meta.description": "Burglar repair service in Abingdon-on-Thames & Culham. Post-break-in lock changes, door repairs. Insurance-compliant reinstatement for period and modern properties.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair and locksmithing services in Abingdon-on-Thames from our experienced locksmith team specialise in restoring security after break-ins. Following forced entry, we assess damage to doors and locks, then recommend solutions such as door reinforcement or TS007 anti-snap cylinder installation. Our work meets insurance-compliant standards, ensuring your home is properly protected.",
-  "burglar-repair-service.local-context-body": "Break-ins across Abingdon-on-Thames affect properties ranging from Victorian terraces to modern semis, each requiring tailored repair solutions. In Sutton Courtenay's riverside conservation area, older cottages and terraced properties often sustain damage to period joinery and traditional locks during forced entry, demanding careful reinstatement that respects original features. Post-war semis in outer neighbourhoods typically require straightforward cylinder lock replacement and uPVC door frame repairs, reflecting their more standardised construction.\n\nListed-building status in conservation zones creates compliance requirements for lock and door repairs that fall outside standard reinstatement work. Properties in historic areas cannot simply be fitted with modern security hardware without listed-building consent; repair specifications must align with period-appropriate materials and aesthetics. Additionally, Thames-side damp affects wooden frames and ironmongery across the city, meaning corrosion assessment forms part of damage evaluation even when break-in damage appears superficial.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my terrace in Sutton Courtenay, can you repair my period locks without breaching listed-building rules?",
-      "a": "Yes. Our burglary repair team specialises in heritage properties within conservation areas and works with listed-status restrictions in mind. We'll restore your security while ensuring any replacements comply with local planning requirements."
-    },
-    {
-      "q": "My uPVC door in Upper Radley was forced during a break-in—how quickly can you repair it to insurance standard?",
-      "a": "We attend post-break-in emergencies across Abingdon within hours and provide full insurance-quality reinstatement of uPVC frames and modern cylinder locks common to interwar semis. Your claim paperwork is supported with certified repair documentation."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Abingdon-on-Thames | Suresec",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Abingdon-on-Thames. Secure smashed doors and windows same-day, ideal for Victorian terraces and post-war semis in Peachcroft.",
-  "emergency-boarding-up.hero-paragraph": "Our emergency boarding up service in Abingdon-on-Thames is delivered by experienced locksmiths trained in professional locksmithing standards. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 response ensures rapid, insurance-compliant protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Post-war semis across Peachcroft commonly feature uPVC-framed doors and windows that fracture rather than shatter cleanly during break-ins or severe weather. Emergency boarding in these properties requires rapid assessment of frame integrity, as damaged uPVC frames often cannot support temporary fixings without reinforcement. Terrace properties in Drayton, many within conservation areas, present different challenges: older wooden frames and period glazing demand careful handling to avoid further heritage damage during emergency cover-up work.\n\nListed-building status in Drayton's conservation area adds procedural complexity to boarding operations. Temporary coverings must be non-destructive and reversible where possible, as permanent modifications risk violating listed-property restrictions. Additionally, Thames-side damp conditions mean that hastily boarded windows trap moisture against deteriorating sashes and ironmongery; emergency boarding specifications must account for ventilation and protective wrapping to prevent accelerated corrosion during the repair period.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Can you board up listed properties in Drayton and Sutton Courtenay after a break-in without damaging period features?",
-      "a": "Yes—we specialise in sensitive boarding up of historic terrace properties in conservation areas, using methods that protect original frames and comply with listed-building restrictions. We'll secure your property quickly while avoiding damage that would require council consent to repair."
-    },
-    {
-      "q": "How quickly can you board up uPVC doors on post-war semis in Peachcroft or Wootton after storm damage?",
-      "a": "We offer same-day emergency boarding for modern properties across Peachcroft, Wootton, and Radley. Our team carries materials suited to uPVC frames and standard modern cylinders, so we can secure your home and arrange permanent repairs without delay."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Abingdon-on-Thames | Period & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Abingdon-on-Thames for moving home, lost keys & security upgrades. Specialists in period properties & modern uPVC doors across Drayton & Peachcroft.",
-  "lock-changes.hero-paragraph": "Our locksmiths in Abingdon-on-Thames specialise in lock changes and expert locksmithing to keep your property secure. Whether you're moving home, changing locks after lost keys, or upgrading to TS007 anti-snap cylinders, we install BS3621 mortice locks and euro cylinders to the highest standards. Fast, professional service across the town.",
-  "lock-changes.local-context-body": "Lock changes in Abingdon-on-Thames reflect the town's mixed housing profile. Properties in Radley range from Victorian terraces to modern detached homes, each presenting different lock replacement requirements. Newer builds in Radley Park typically feature contemporary uPVC doors with standard cylinder locks, while older terraces demand period-appropriate hardware or specialist solutions when listed-building consent applies.\n\nThames-side properties and conservation-area homes in Sutton Courtenay often involve listed-status considerations that restrict lock modifications. Homeowners replacing locks after a move or key loss must verify whether the property falls within a conservation boundary; doing so affects material choice and installation method. Corrosion from riverside damp also accelerates wear on ironmongery, making lock replacement more frequent in waterside locations.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Drayton – do I need specialist help changing the locks?",
-      "a": "Yes; many properties in Drayton's conservation area have listed status, which may restrict lock modifications without consent. We're experienced with period locks and can advise on compliant replacements before you proceed."
-    },
-    {
-      "q": "We're upgrading security on our post-war semi in Peachcroft – what modern locks do you recommend?",
-      "a": "Modern cylinder locks and uPVC door hardware are ideal for Peachcroft semis and offer excellent security with minimal disruption. We'll fit them quickly and ensure they're properly aligned with your existing frame."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Abingdon-on-Thames | Period & Modern",
-  "lock-repairs.meta.description": "Expert lock repairs in Abingdon-on-Thames for period terraces & modern homes. Multipoint, mortice & cylinder locks fixed. 24/7 emergency service available.",
-  "lock-repairs.hero-paragraph": "Our lock repairs service in Abingdon-on-Thames combines skilled locksmith expertise with modern locksmithing techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, we diagnose and fix the problem efficiently. Our mortice maintenance and multipoint servicing work comes backed by manufacturer warranty, ensuring your locks function reliably for years.",
-  "lock-repairs.local-context-body": "Abingdon-on-Thames's mixed housing stock creates varied lock repair demand. Victorian and Edwardian terraces in Drayton frequently require mortice lock attention, particularly where listed-building status restricts replacement options. Post-war semis across Peachcroft commonly present multipoint lock failures on uPVC doors, where gearbox wear is widespread. Night latch repairs span both property types, reflecting the town's age diversity.\n\nConservation area properties in central locations impose constraints on lock repair methodology. Listed terraces often cannot accommodate modern cylinders without consent, requiring specialist mortice restoration rather than straightforward component swap. Thames-side damp exposure accelerates corrosion of traditional ironmongery, demanding regular maintenance cycles and appropriate material selection to prevent premature gearbox failure.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Sutton Courtenay has a stiff mortice lock – can you repair it without replacing it?",
-      "a": "Yes. We specialise in mortice lock repair and can often restore period locks to working order, which is essential in conservation areas where replacements must match original specifications. We'll assess wear, clean internal gearboxes, and apply appropriate lubricants without damaging listed-status protections."
-    },
-    {
-      "q": "The multipoint lock on my uPVC door in Wootton is jamming – is this repairable?",
-      "a": "Absolutely. Multipoint locks on post-war semis commonly jam due to frame settling or gearbox wear. We'll diagnose whether it's a simple adjustment, internal gearbox repair, or cylinder replacement, often restoring full function in a single visit."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Abingdon-on-Thames | Terrace & Semi Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Abingdon-on-Thames. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for period properties in Drayton.",
-  "door-lock-installation.hero-paragraph": "Our expert locksmiths in Abingdon-on-Thames specialise in door lock installation and locksmithing work that meets modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting BS3621 mortice locks, or installing multipoint mechanisms for enhanced protection, we ensure your installation meets insurance requirements and building regulations. Fast, professional service across the area.",
-  "door-lock-installation.local-context-body": "Abingdon-on-Thames's interwar and post-war housing—particularly semi-detached properties in Northcourt and newer suburban neighbourhoods—frequently require standard cylinder lock installation on uPVC composite doors. These properties typically benefit from straightforward TS007 anti-snap cylinder upgrades and multipoint locking systems, which provide reliable security without structural complications. Victorian and Edwardian terraces in conservation areas like Drayton present different requirements, where mortice locks must often be fitted to original timber frames with careful attention to period aesthetics and listed-building consent.\n\nListed-property status in Drayton and similar riverside conservation zones means lock installation work may require planning approval or conservation officer sign-off before proceeding. Older timber doors—common throughout the town's historic core—often exhibit warping or moisture damage from Thames-side damp, necessitating frame adjustment or door rehang before a new lock can function reliably. Modern properties across the town's post-war suburbs pose fewer restrictions, though uPVC door reinforcement plates are routinely needed to support heavier multipoint mechanisms safely.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "We have a listed terrace in Sutton Courtenay – can you fit a new lock without planning consent issues?",
-      "a": "Yes. Listed properties in Sutton Courtenay's conservation area often need careful handling, but modern BS3621 mortice locks can usually be fitted to existing doors without requiring consent, provided the lock case matches period proportions. We'll assess your specific door and advise on any conservation officer notification before work begins."
-    },
-    {
-      "q": "Our semi-detached in Upper Radley has an old uPVC door – what lock should we install?",
-      "a": "We'd recommend a TS007 anti-snap cylinder in your uPVC door frame, as these are designed for the composite and plastic frames common across Upper Radley's interwar semis. This gives you high security without the expense of replacing the door itself."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Abingdon-on-Thames | Victorian Terraces",
-  "door-lock-replacement.meta.description": "Door lock replacement in Abingdon-on-Thames. Upgrade or swap locks on uPVC doors across Wootton and post-war semis. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our door lock replacement service in Abingdon-on-Thames uses expert locksmithing techniques to secure your home. Whether you've lost keys, experienced a failed lock, or are moving home, we install BS3621-approved mechanisms. We specialise in like-for-like cylinder swaps and anti-snap upgrades to ensure your property meets modern security standards.",
-  "door-lock-replacement.local-context-body": "Door lock replacement across Abingdon-on-Thames varies significantly by area. Properties in Upper Radley's interwar semi-detached stock typically house modern cylinder locks that wear predictably and swap straightforwardly. By contrast, riverside conservation properties in Sutton Courtenay often retain period ironmongery where replacement must respect listed-building consent requirements, necessitating heritage-appropriate specifications or specialist matching work.\n\nDamp conditions near the Thames accelerate corrosion in external ironmongery, making lock mechanisms stiff or unreliable sooner than in drier locations. Many older properties feature wooden external doors prone to swelling in wet weather, which can affect lock alignment and cylinder fit during replacement. Modern uPVC doors in post-war neighbourhoods rarely present fitting complications, but period properties may require careful measurement and adaptation to accommodate historical frame variations.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Drayton with a period lock – can you replace it without affecting my listed status?",
-      "a": "Yes. We specialise in period-appropriate lock replacements for historic properties and work within listed-building restrictions. We'll advise on compliant options and handle the swap to preserve your property's character."
-    },
-    {
-      "q": "Our uPVC door in Wootton has a worn cylinder lock – do you do straightforward replacements?",
-      "a": "Absolutely. Modern cylinder locks in uPVC frames are our bread and butter across post-war semis in Wootton and similar neighbourhoods. We'll match your existing spec and fit a reliable replacement quickly."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Abingdon-on-Thames | Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Abingdon-on-Thames for period terraces and modern uPVC doors. Fast realignment, hardware fixes and damage repair by local experts.",
-  "door-repairs.hero-paragraph": "Our Abingdon-on-Thames locksmith team specialises in door repairs and locksmithing solutions for residential and commercial properties. Whether your door is dropping, catching, or won't close properly, we diagnose and resolve the issue through hinge adjustment, frame alignment, and multipoint realignment. We work expertly with uPVC, composite, and timber doors to restore full functionality and security.",
-  "door-repairs.local-context-body": "Northcourt's interwar semi-detached homes and the post-war semis dotting Peachcroft frequently experience door misalignment and hardware wear typical of their age and construction. Wooden frames in these properties often settle over decades, causing dropped doors and binding that requires realignment of hinges and frames. uPVC replacements in post-war stock bring different stresses—locking mechanisms and handles wear more visibly, and frame deflection can trap or jam doors unexpectedly.\n\nHistoric terrace properties near the riverside conservation areas often carry listed-building restrictions that limit replacement options; repairs must preserve original joinery and hardware wherever possible. Modern cylinder locks and composite doors in newer builds respond differently to settlement and weathering than period ironmongery, requiring specialist knowledge of material compatibility and structural stress patterns common to mixed-era neighbourhoods.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Drayton's Victorian terraces need specialist repair?",
-      "a": "Many properties in Drayton's conservation area are listed, which means door repairs and modifications require careful handling to preserve original features and comply with planning restrictions. Our locksmiths understand these constraints and can repair period ironmongery and wooden frames without triggering conservation issues."
-    },
-    {
-      "q": "My uPVC door in Shippon keeps dropping—is this common?",
-      "a": "Yes, post-war semis across Shippon and similar neighbourhoods frequently experience dropped uPVC doors as hinges settle over time. We can realign and adjust modern cylinder locks and hinges to restore smooth operation and security."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair in Drayton & Abingdon-on-Thames",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Abingdon-on-Thames. Espagnolette and shootbolt locks fixed for period properties and post-war semis across Wootton and beyond.",
-  "window-lock-repair-replacement.hero-paragraph": "Our experienced Abingdon-on-Thames locksmith specialises in window lock repair and replacement, applying expert locksmithing techniques to restore your home security. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we diagnose and repair faults efficiently. All our work meets insurance-compliant fitting standards, ensuring your property remains properly protected.",
-  "window-lock-repair-replacement.local-context-body": "Window lock repairs in Abingdon-on-Thames address two distinct housing cohorts. Radley's mixture of Victorian terraces and modern properties contains both traditional sash windows with period shootbolt locks and contemporary uPVC frames fitted with espagnolette mechanisms. Post-war semis in Peachcroft typically feature aluminium or uPVC windows where espagnolette lock failure is common due to wear on the locking cams and striker plates. Both neighbourhood types require prompt attention to maintain security and weatherproofing.\n\nThames-side damp exposure significantly affects window lock longevity across older properties near the riverside core. Corrosion of metal shootbolts and espagnolette components accelerates in moisture-prone environments, necessitating specialist cleaning, lubrication, or replacement rather than simple adjustment. Properties with listed status in conservation areas may also impose restrictions on lock material or finish changes, requiring locksmiths to source period-appropriate or sympathetic replacements rather than modern alternatives.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash windows in riverside properties around Appleford-on-Thames need specialist window lock attention?",
-      "a": "Thames-side damp can cause corrosion and stiffening of traditional espagnolette and shootbolt locks on wooden sash windows. Suresec provides specialist cleaning, lubrication, and replacement of period ironmongery to restore smooth operation and prevent water ingress."
-    },
-    {
-      "q": "Can you repair or replace window locks on listed properties in Drayton without breaching conservation rules?",
-      "a": "Yes—many historic terrace properties in Drayton have conservation-area restrictions on modifications. We source period-appropriate locks and handle replacements in compliance with local requirements, ensuring your sash or casement locks meet both security and heritage standards."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Abingdon-on-Thames – Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation in Abingdon-on-Thames & Wootton. Wall, floor and freestanding safes with secure anchoring and insurance documentation.",
-  "safe-installation.hero-paragraph": "Our Abingdon-on-Thames locksmith team specialises in safe installation using professional locksmithing techniques tailored to your security needs. Whether you require floor anchoring, wall mounting, or anti-leverage positioning, we ensure proper placement for maximum protection. Many clients choose our service for insurance approval and to meet Eurograde standards, guaranteeing your valuables remain secure.",
-  "safe-installation.local-context-body": "Properties across Shippon's post-war semi-detached homes and the Victorian terraces of Drayton present distinct safe installation challenges. Modern semis typically offer straightforward wall and floor anchoring into solid construction, while period terraces—particularly those within conservation areas—require careful assessment of masonry condition and listed-building consent pathways before wall-mounted safes can be securely fitted.\n\nListed-status properties in Drayton and surrounding historic areas often necessitate pre-installation liaison with conservation officers, as visible safe fittings or structural modifications may require formal approval. Additionally, older terraced properties frequently feature solid brick and lime mortar that demands specialist drilling techniques to ensure proper anchoring without compromising structural integrity or triggering damp issues common to Thames-side locations.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed properties in Drayton and other conservation areas?",
-      "a": "Yes. We're experienced with listed-property restrictions in Drayton's conservation area and can advise on anchor points and fixing methods that comply with planning requirements before installation begins."
-    },
-    {
-      "q": "What's the best safe anchoring solution for the post-war semis in Peachcroft and Wootton?",
-      "a": "We typically recommend floor safes or heavy-duty wall anchoring into masonry; the cavity-wall construction in these semis requires proper survey first to ensure secure fixing and insurance compliance."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Abingdon-on-Thames | Period Property Safes",
-  "safe-opening.meta.description": "Safe opening in Abingdon-on-Thames for lost keys, combinations, lockouts. Non-destructive service for period properties and modern homes across Sunningwell and beyond.",
-  "safe-opening.hero-paragraph": "When you need safe opening in Abingdon-on-Thames, our experienced locksmith team brings specialist locksmithing expertise to every job. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening techniques to access your safe without damage. Our certified locksmiths prioritise preserving your property whilst delivering swift, reliable solutions.",
-  "safe-opening.local-context-body": "Safe opening demand in Abingdon-on-Thames reflects the town's mixed property portfolio. Detached homes in Appleford-on-Thames—often owner-occupied rural properties—frequently house domestic safes where keys or combinations have been misfiled or lost over years. Post-war semis across Culham similarly contain wall-mounted or floor safes installed during renovation phases, requiring non-destructive access when documentation becomes unavailable.\n\nListed-building status affects safe opening procedures across Abingdon's historic core and conservation areas. Properties in Drayton and Sutton Courtenay with period ironmongery and listed restrictions cannot tolerate destructive opening methods; specialists must employ manipulation and non-invasive techniques to preserve original safes and surrounding fixtures, particularly where safes are integrated into older joinery or masonry.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I have a safe in my listed property in Drayton but lost the combination—can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening using specialist tools and manipulation techniques that won't mark or alter your safe, which is essential for listed properties where modifications are restricted. We'll regain access to your safe while preserving its condition and your property's heritage status."
-    },
-    {
-      "q": "My safe's lock has corroded due to damp from our Thames-side location—can you still open it?",
-      "a": "Absolutely. Corrosion is common in riverside and damp-prone areas of Abingdon; we handle corroded and seized safe locks regularly using specialist de-corrosion and non-destructive opening methods. Once open, we can service the lock and recommend treatments to prevent future moisture damage."
-    }
-  ],
-  "home.areas-covered": [
-    "Appleford-on-Thames",
-    "Caldecott",
-    "Culham",
-    "Drayton",
-    "Lamborough Hill",
-    "Long Furlong",
-    "Northcourt",
-    "Peachcroft",
-    "Radley",
-    "Radley Park",
-    "Shippon",
-    "Sunningwell",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Wildmoor",
-    "Wootton"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Lamborough Hill",
-    "Wildmoor",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley"
-  ],
-  "locked-out.areas-covered": [
-    "Culham",
-    "Sutton Courtenay",
-    "Drayton",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Radley Park"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Radley",
-    "Culham",
-    "Radley Park"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Long Furlong",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham",
-    "Radley Park"
-  ],
-  "lock-changes.areas-covered": [
-    "Shippon",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "lock-repairs.areas-covered": [
-    "Northcourt",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Caldecott",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Radley",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Culham",
-    "Radley Park"
-  ],
-  "door-repairs.areas-covered": [
-    "Wootton",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Radley Park",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ],
-  "safe-installation.areas-covered": [
-    "Upper Radley",
-    "Drayton",
-    "Sutton Courtenay",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham",
-    "Radley Park"
-  ],
-  "safe-opening.areas-covered": [
-    "Peachcroft",
-    "Drayton",
-    "Sutton Courtenay",
-    "Upper Radley",
-    "Appleford-on-Thames",
-    "Sunningwell",
-    "Radley",
-    "Culham"
-  ]
+ "meta.title": "Locksmith Abingdon-on-Thames | Local Locksmithing 24/7",
+ "meta.description": "Trusted locksmith in Abingdon-on-Thames serving Victorian terraces, modern semis, and riverside properties. Emergency repairs, lock changes, and specialist period ironmongery care.",
+ "home.hero-paragraph": "Our Abingdon-on-Thames locksmith offers professional locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and security upgrades. All our engineers are DBS checked and fully insured, with 24/7 availability. Non-destructive entry methods protect your property whilst resolving your lock problems quickly.",
+ "home.local-context-heading": "Locks for Historic and Modern Abingdon",
+ "home.local-context-body": "Abingdon-on-Thames has a varied housing stock spanning Victorian terraces to modern semis. Period properties in Sutton Courtenay and similar conservation areas often retain original locks and latches that require specialist servicing rather than replacement due to listed-status restrictions. Post-war semis in Wootton typically feature uPVC doors with cylinder locks needing routine maintenance and occasional repair. Lock condition varies significantly by era and materials used.\n\nRiverside properties across the town are exposed to damp conditions that accelerate corrosion of ironmongery and wooden window frames. Older sash windows and period metalwork need regular attention to prevent binding and rust. Landlords managing multiple properties should verify lock compliance with current tenancy standards, particularly if doors have been modified or upgraded. Local conservation rules may restrict certain lock types in designated areas.",
+ "home.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Drayton with a listed-status restriction. Can you help with my lock without damaging the property?",
+   "a": "Yes\u2014we specialise in period locks and listed-property modifications across Drayton's conservation area. We'll assess your existing ironmongery and advise on sympathetic upgrades that comply with heritage restrictions."
+  },
+  {
+   "q": "Our post-war semi in Shippon has a sticking uPVC door and the cylinder lock won't turn smoothly. What's the issue?",
+   "a": "Modern cylinder locks in uPVC doors often jam due to misalignment or internal corrosion, especially in our damp Thames-side climate. We'll service or replace the cylinder and check door frame alignment to restore smooth operation."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Abingdon-on-Thames | 24/7 UPVC",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Abingdon-on-Thames. Locked out? Key snapped? Fast response for uPVC doors, period locks & post-break-in security. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Abingdon-on-Thames combines skilled locksmithing with rapid response times to resolve urgent access problems. Whether you're locked out of your home, have snapped a key in the lock, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to minimise damage and restore your security promptly.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Abingdon-on-Thames are frequent across the town's mixed housing stock, particularly affecting the post-war semis of Peachcroft and newer detached homes where modern cylinder locks and uPVC doors dominate. Older Victorian and Edwardian terraces in Drayton also generate urgent callouts, though these often involve period locks that require careful handling and specialist knowledge to avoid damage.\n\nProperties in conservation areas and listed buildings present specific constraints for emergency response. Historic properties frequently have restrictions on lock modifications or replacement, meaning technicians must prioritise non-destructive entry methods and work within listed-building consent rules. Thames-side locations add an additional consideration: corrosion of older ironmongery from damp exposure can cause locks to jam or fail suddenly, particularly in winter months.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my semi in Peachcroft and my uPVC door won't budge\u2014how quickly can you get here?",
+   "a": "We're based in Abingdon-on-Thames and respond to emergency lockouts across Peachcroft and surrounding areas within the hour, 24/7. Post-war semis with uPVC doors are our bread and butter, so we'll have you back inside fast without forcing damage."
+  },
+  {
+   "q": "My Victorian terrace in Radley has a snapped key in the lock\u2014do you handle period locks without damaging listed features?",
+   "a": "Yes; we specialise in period locks and understand Radley's mix of Victorian and modern properties, including conservation rules. We'll extract the snapped key carefully and advise on secure replacement options that comply with any listed-status requirements."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Abingdon-on-Thames? Emergency Entry | Suresec",
+ "locked-out.meta.description": "Locked out in Abingdon-on-Thames? Fast non-destructive entry for lost or snapped keys. Specialist service for Victorian terraces and modern homes. 24/7 emergency locksmith.",
+ "locked-out.hero-paragraph": "When you're locked out in Abingdon-on-Thames, our experienced locksmiths specialise in locksmithing techniques that regain entry without damage. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive methods to open your door quickly. Our damage-free approach means you'll face no costly repairs after we've helped.",
+ "locked-out.local-context-body": "Locked-out situations across Abingdon-on-Thames present distinct challenges by neighbourhood type. Wootton's post-war semis typically feature uPVC doors with modern cylinder locks\u2014straightforward non-destructive entry\u2014whereas older terraces in Sutton Courtenay often retain original wooden frames and period hardware, requiring gentler techniques to avoid damage to heritage joinery. Semi-detached properties dominate the interwar and post-war suburban belt, where key loss frequently triggers calls for swift re-entry without forcing doors or frames.\n\nListed-building status in conservation areas such as riverside Sutton Courtenay restricts entry methods; any work must preserve original lock mechanisms and door fabric, ruling out drilling or destructive cylinder removal. Damp conditions along Thames-side properties can swell wooden frames or corrode traditional ironmongery, complicating non-destructive manipulation and extending entry time. Modern cylinder locks in newer properties generally respond faster to specialist techniques, but age and environmental exposure across mixed-era housing means entry approach must be tailored to property era and condition.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Drayton\u2014will you damage the listed door frame if you need to get me in?",
+   "a": "No. We specialise in non-destructive entry for period properties, and we're familiar with listed-status restrictions in Drayton and Sutton Courtenay. We'll use manipulation and specialist techniques to open your door without alteration, then advise on any lock upgrades that comply with conservation guidelines."
+  },
+  {
+   "q": "My key snapped in the lock of my Wootton semi\u2014how quickly can you get me back inside without replacing the whole cylinder?",
+   "a": "We can typically extract the broken key and re-pin or manipulate your uPVC door lock non-destructively within the hour. Call 01235 372119 now, and we'll confirm our ETA and advise whether your modern cylinder can be salvaged or needs swift replacement."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Abingdon-on-Thames \u2013 Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Abingdon-on-Thames: expert extraction from euro cylinders, mortice locks & night latches. Fast service for period terraces & modern homes.",
+ "broken-key-removal.hero-paragraph": "Broken key removal is a specialised locksmithing service that our Abingdon-on-Thames locksmith team handles with precision every day. Whether you're dealing with a snapped key stuck firmly in your mortice lock or euro cylinder, we employ non-destructive extraction methods using professional key extractor tools to retrieve the fragment safely without damaging your lock mechanism.",
+ "broken-key-removal.local-context-body": "Period terrace properties in Drayton and conservation-area cottages around Appleford-on-Thames frequently house original mortice locks and night latches where key breakage occurs during seasonal movement or wear. Post-war semis in Wootton present a different profile: modern cylinder locks on uPVC doors see broken-key incidents often linked to misalignment or material brittleness in older polyvinyl frames. Both scenarios demand swift extraction to restore access without forcing the mechanism.\n\nListed-status properties throughout the historic riverside core impose constraints on lock replacement; extraction without damage becomes critical where substituting the entire fitting risks conservation-area consent delays. Damp conditions near the Thames accelerate corrosion in older ironmongery, making keys more prone to fracture during removal attempts. Specialist tools and knowledge of period lock internals are therefore standard requirements for safe broken-key work across Abingdon's mixed housing age range.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "I've snapped my key in a period lock in my Sutton Courtenay terrace \u2013 can you remove it without damaging the listed ironmongery?",
+   "a": "Yes. Our technicians are experienced with Victorian and period mortice locks common in Sutton Courtenay's conservation area, and we use gentle extraction methods to avoid damage to original fittings\u2014essential when listed-status restrictions apply to modifications."
+  },
+  {
+   "q": "A key broke off in my uPVC door cylinder at our Radley semi \u2013 how quickly can you get it out?",
+   "a": "We offer same-day broken key removal for modern euro cylinders in post-war semis across Radley. We'll extract the snapped key cleanly and replace or re-key the cylinder if needed, minimising disruption to your home."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Abingdon-on-Thames | Terrace Lock Repair",
+ "burglar-repair-service.meta.description": "Burglar repair service in Abingdon-on-Thames & Culham. Post-break-in lock changes, door repairs. Insurance-compliant reinstatement for period and modern properties.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair and locksmithing services in Abingdon-on-Thames from our experienced locksmith team specialise in restoring security after break-ins. Following forced entry, we assess damage to doors and locks, then recommend solutions such as door reinforcement or TS007 anti-snap cylinder installation. Our work meets insurance-compliant standards, ensuring your home is properly protected.",
+ "burglar-repair-service.local-context-body": "Break-ins across Abingdon-on-Thames affect properties ranging from Victorian terraces to modern semis, each requiring tailored repair solutions. In Sutton Courtenay's riverside conservation area, older cottages and terraced properties often sustain damage to period joinery and traditional locks during forced entry, demanding careful reinstatement that respects original features. Post-war semis in outer neighbourhoods typically require straightforward cylinder lock replacement and uPVC door frame repairs, reflecting their more standardised construction.\n\nListed-building status in conservation zones creates compliance requirements for lock and door repairs that fall outside standard reinstatement work. Properties in historic areas cannot simply be fitted with modern security hardware without listed-building consent; repair specifications must align with period-appropriate materials and aesthetics. Additionally, Thames-side damp affects wooden frames and ironmongery across the city, meaning corrosion assessment forms part of damage evaluation even when break-in damage appears superficial.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my terrace in Sutton Courtenay, can you repair my period locks without breaching listed-building rules?",
+   "a": "Yes. Our burglary repair team specialises in heritage properties within conservation areas and works with listed-status restrictions in mind. We'll restore your security while ensuring any replacements comply with local planning requirements."
+  },
+  {
+   "q": "My uPVC door in Upper Radley was forced during a break-in\u2014how quickly can you repair it to insurance standard?",
+   "a": "We attend post-break-in emergencies across Abingdon within hours and provide full insurance-quality reinstatement of uPVC frames and modern cylinder locks common to interwar semis. Your claim paperwork is supported with certified repair documentation."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Abingdon-on-Thames | Suresec",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Abingdon-on-Thames. Secure smashed doors and windows same-day, ideal for Victorian terraces and post-war semis in Peachcroft.",
+ "emergency-boarding-up.hero-paragraph": "Our emergency boarding up service in Abingdon-on-Thames is delivered by experienced locksmiths trained in professional locksmithing standards. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 response ensures rapid, insurance-compliant protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Post-war semis across Peachcroft commonly feature uPVC-framed doors and windows that fracture rather than shatter cleanly during break-ins or severe weather. Emergency boarding in these properties requires rapid assessment of frame integrity, as damaged uPVC frames often cannot support temporary fixings without reinforcement. Terrace properties in Drayton, many within conservation areas, present different challenges: older wooden frames and period glazing demand careful handling to avoid further heritage damage during emergency cover-up work.\n\nListed-building status in Drayton's conservation area adds procedural complexity to boarding operations. Temporary coverings must be non-destructive and reversible where possible, as permanent modifications risk violating listed-property restrictions. Additionally, Thames-side damp conditions mean that hastily boarded windows trap moisture against deteriorating sashes and ironmongery; emergency boarding specifications must account for ventilation and protective wrapping to prevent accelerated corrosion during the repair period.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Can you board up listed properties in Drayton and Sutton Courtenay after a break-in without damaging period features?",
+   "a": "Yes\u2014we specialise in sensitive boarding up of historic terrace properties in conservation areas, using methods that protect original frames and comply with listed-building restrictions. We'll secure your property quickly while avoiding damage that would require council consent to repair."
+  },
+  {
+   "q": "How quickly can you board up uPVC doors on post-war semis in Peachcroft or Wootton after storm damage?",
+   "a": "We offer same-day emergency boarding for modern properties across Peachcroft, Wootton, and Radley. Our team carries materials suited to uPVC frames and standard modern cylinders, so we can secure your home and arrange permanent repairs without delay."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Abingdon-on-Thames | Period & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Abingdon-on-Thames for moving home, lost keys & security upgrades. Specialists in period properties & modern uPVC doors across Drayton & Peachcroft.",
+ "lock-changes.hero-paragraph": "Our locksmiths in Abingdon-on-Thames specialise in lock changes and expert locksmithing to keep your property secure. Whether you're moving home, changing locks after lost keys, or upgrading to TS007 anti-snap cylinders, we install BS3621 mortice locks and euro cylinders to the highest standards. Fast, professional service across the town.",
+ "lock-changes.local-context-body": "Lock changes in Abingdon-on-Thames reflect the town's mixed housing profile. Properties in Radley range from Victorian terraces to modern detached homes, each presenting different lock replacement requirements. Newer builds in Radley Park typically feature contemporary uPVC doors with standard cylinder locks, while older terraces demand period-appropriate hardware or specialist solutions when listed-building consent applies.\n\nThames-side properties and conservation-area homes in Sutton Courtenay often involve listed-status considerations that restrict lock modifications. Homeowners replacing locks after a move or key loss must verify whether the property falls within a conservation boundary; doing so affects material choice and installation method. Corrosion from riverside damp also accelerates wear on ironmongery, making lock replacement more frequent in waterside locations.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Drayton \u2013 do I need specialist help changing the locks?",
+   "a": "Yes; many properties in Drayton's conservation area have listed status, which may restrict lock modifications without consent. We're experienced with period locks and can advise on compliant replacements before you proceed."
+  },
+  {
+   "q": "We're upgrading security on our post-war semi in Peachcroft \u2013 what modern locks do you recommend?",
+   "a": "Modern cylinder locks and uPVC door hardware are ideal for Peachcroft semis and offer excellent security with minimal disruption. We'll fit them quickly and ensure they're properly aligned with your existing frame."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Abingdon-on-Thames | Period & Modern",
+ "lock-repairs.meta.description": "Expert lock repairs in Abingdon-on-Thames for period terraces & modern homes. Multipoint, mortice & cylinder locks fixed. 24/7 emergency service available.",
+ "lock-repairs.hero-paragraph": "Our lock repairs service in Abingdon-on-Thames combines skilled locksmith expertise with modern locksmithing techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, we diagnose and fix the problem efficiently. Our mortice maintenance and multipoint servicing work comes backed by manufacturer warranty, ensuring your locks function reliably for years.",
+ "lock-repairs.local-context-body": "Abingdon-on-Thames's mixed housing stock creates varied lock repair demand. Victorian and Edwardian terraces in Drayton frequently require mortice lock attention, particularly where listed-building status restricts replacement options. Post-war semis across Peachcroft commonly present multipoint lock failures on uPVC doors, where gearbox wear is widespread. Night latch repairs span both property types, reflecting the town's age diversity.\n\nConservation area properties in central locations impose constraints on lock repair methodology. Listed terraces often cannot accommodate modern cylinders without consent, requiring specialist mortice restoration rather than straightforward component swap. Thames-side damp exposure accelerates corrosion of traditional ironmongery, demanding regular maintenance cycles and appropriate material selection to prevent premature gearbox failure.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Sutton Courtenay has a stiff mortice lock \u2013 can you repair it without replacing it?",
+   "a": "Yes. We specialise in mortice lock repair and can often restore period locks to working order, which is essential in conservation areas where replacements must match original specifications. We'll assess wear, clean internal gearboxes, and apply appropriate lubricants without damaging listed-status protections."
+  },
+  {
+   "q": "The multipoint lock on my uPVC door in Wootton is jamming \u2013 is this repairable?",
+   "a": "Absolutely. Multipoint locks on post-war semis commonly jam due to frame settling or gearbox wear. We'll diagnose whether it's a simple adjustment, internal gearbox repair, or cylinder replacement, often restoring full function in a single visit."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Abingdon-on-Thames | Terrace & Semi Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Abingdon-on-Thames. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for period properties in Drayton.",
+ "door-lock-installation.hero-paragraph": "Our expert locksmiths in Abingdon-on-Thames specialise in door lock installation and locksmithing work that meets modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting BS3621 mortice locks, or installing multipoint mechanisms for enhanced protection, we ensure your installation meets insurance requirements and building regulations. Fast, professional service across the area.",
+ "door-lock-installation.local-context-body": "Abingdon-on-Thames's interwar and post-war housing\u2014particularly semi-detached properties in Northcourt and newer suburban neighbourhoods\u2014frequently require standard cylinder lock installation on uPVC composite doors. These properties typically benefit from straightforward TS007 anti-snap cylinder upgrades and multipoint locking systems, which provide reliable security without structural complications. Victorian and Edwardian terraces in conservation areas like Drayton present different requirements, where mortice locks must often be fitted to original timber frames with careful attention to period aesthetics and listed-building consent.\n\nListed-property status in Drayton and similar riverside conservation zones means lock installation work may require planning approval or conservation officer sign-off before proceeding. Older timber doors\u2014common throughout the town's historic core\u2014often exhibit warping or moisture damage from Thames-side damp, necessitating frame adjustment or door rehang before a new lock can function reliably. Modern properties across the town's post-war suburbs pose fewer restrictions, though uPVC door reinforcement plates are routinely needed to support heavier multipoint mechanisms safely.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "We have a listed terrace in Sutton Courtenay \u2013 can you fit a new lock without planning consent issues?",
+   "a": "Yes. Listed properties in Sutton Courtenay's conservation area often need careful handling, but modern BS3621 mortice locks can usually be fitted to existing doors without requiring consent, provided the lock case matches period proportions. We'll assess your specific door and advise on any conservation officer notification before work begins."
+  },
+  {
+   "q": "Our semi-detached in Upper Radley has an old uPVC door \u2013 what lock should we install?",
+   "a": "We'd recommend a TS007 anti-snap cylinder in your uPVC door frame, as these are designed for the composite and plastic frames common across Upper Radley's interwar semis. This gives you high security without the expense of replacing the door itself."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Abingdon-on-Thames | Victorian Terraces",
+ "door-lock-replacement.meta.description": "Door lock replacement in Abingdon-on-Thames. Upgrade or swap locks on uPVC doors across Wootton and post-war semis. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our door lock replacement service in Abingdon-on-Thames uses expert locksmithing techniques to secure your home. Whether you've lost keys, experienced a failed lock, or are moving home, we install BS3621-approved mechanisms. We specialise in like-for-like cylinder swaps and anti-snap upgrades to ensure your property meets modern security standards.",
+ "door-lock-replacement.local-context-body": "Door lock replacement across Abingdon-on-Thames varies significantly by area. Properties in Upper Radley's interwar semi-detached stock typically house modern cylinder locks that wear predictably and swap straightforwardly. By contrast, riverside conservation properties in Sutton Courtenay often retain period ironmongery where replacement must respect listed-building consent requirements, necessitating heritage-appropriate specifications or specialist matching work.\n\nDamp conditions near the Thames accelerate corrosion in external ironmongery, making lock mechanisms stiff or unreliable sooner than in drier locations. Many older properties feature wooden external doors prone to swelling in wet weather, which can affect lock alignment and cylinder fit during replacement. Modern uPVC doors in post-war neighbourhoods rarely present fitting complications, but period properties may require careful measurement and adaptation to accommodate historical frame variations.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Drayton with a period lock \u2013 can you replace it without affecting my listed status?",
+   "a": "Yes. We specialise in period-appropriate lock replacements for historic properties and work within listed-building restrictions. We'll advise on compliant options and handle the swap to preserve your property's character."
+  },
+  {
+   "q": "Our uPVC door in Wootton has a worn cylinder lock \u2013 do you do straightforward replacements?",
+   "a": "Absolutely. Modern cylinder locks in uPVC frames are our bread and butter across post-war semis in Wootton and similar neighbourhoods. We'll match your existing spec and fit a reliable replacement quickly."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Abingdon-on-Thames | Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Abingdon-on-Thames for period terraces and modern uPVC doors. Fast realignment, hardware fixes and damage repair by local experts.",
+ "door-repairs.hero-paragraph": "Our Abingdon-on-Thames locksmith team specialises in door repairs and locksmithing solutions for residential and commercial properties. Whether your door is dropping, catching, or won't close properly, we diagnose and resolve the issue through hinge adjustment, frame alignment, and multipoint realignment. We work expertly with uPVC, composite, and timber doors to restore full functionality and security.",
+ "door-repairs.local-context-body": "Northcourt's interwar semi-detached homes and the post-war semis dotting Peachcroft frequently experience door misalignment and hardware wear typical of their age and construction. Wooden frames in these properties often settle over decades, causing dropped doors and binding that requires realignment of hinges and frames. uPVC replacements in post-war stock bring different stresses\u2014locking mechanisms and handles wear more visibly, and frame deflection can trap or jam doors unexpectedly.\n\nHistoric terrace properties near the riverside conservation areas often carry listed-building restrictions that limit replacement options; repairs must preserve original joinery and hardware wherever possible. Modern cylinder locks and composite doors in newer builds respond differently to settlement and weathering than period ironmongery, requiring specialist knowledge of material compatibility and structural stress patterns common to mixed-era neighbourhoods.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Drayton's Victorian terraces need specialist repair?",
+   "a": "Many properties in Drayton's conservation area are listed, which means door repairs and modifications require careful handling to preserve original features and comply with planning restrictions. Our locksmiths understand these constraints and can repair period ironmongery and wooden frames without triggering conservation issues."
+  },
+  {
+   "q": "My uPVC door in Shippon keeps dropping\u2014is this common?",
+   "a": "Yes, post-war semis across Shippon and similar neighbourhoods frequently experience dropped uPVC doors as hinges settle over time. We can realign and adjust modern cylinder locks and hinges to restore smooth operation and security."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair in Drayton & Abingdon-on-Thames",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Abingdon-on-Thames. Espagnolette and shootbolt locks fixed for period properties and post-war semis across Wootton and beyond.",
+ "window-lock-repair-replacement.hero-paragraph": "Our experienced Abingdon-on-Thames locksmith specialises in window lock repair and replacement, applying expert locksmithing techniques to restore your home security. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we diagnose and repair faults efficiently. All our work meets insurance-compliant fitting standards, ensuring your property remains properly protected.",
+ "window-lock-repair-replacement.local-context-body": "Window lock repairs in Abingdon-on-Thames address two distinct housing cohorts. Radley's mixture of Victorian terraces and modern properties contains both traditional sash windows with period shootbolt locks and contemporary uPVC frames fitted with espagnolette mechanisms. Post-war semis in Peachcroft typically feature aluminium or uPVC windows where espagnolette lock failure is common due to wear on the locking cams and striker plates. Both neighbourhood types require prompt attention to maintain security and weatherproofing.\n\nThames-side damp exposure significantly affects window lock longevity across older properties near the riverside core. Corrosion of metal shootbolts and espagnolette components accelerates in moisture-prone environments, necessitating specialist cleaning, lubrication, or replacement rather than simple adjustment. Properties with listed status in conservation areas may also impose restrictions on lock material or finish changes, requiring locksmiths to source period-appropriate or sympathetic replacements rather than modern alternatives.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash windows in riverside properties around Appleford-on-Thames need specialist window lock attention?",
+   "a": "Thames-side damp can cause corrosion and stiffening of traditional espagnolette and shootbolt locks on wooden sash windows. Suresec provides specialist cleaning, lubrication, and replacement of period ironmongery to restore smooth operation and prevent water ingress."
+  },
+  {
+   "q": "Can you repair or replace window locks on listed properties in Drayton without breaching conservation rules?",
+   "a": "Yes\u2014many historic terrace properties in Drayton have conservation-area restrictions on modifications. We source period-appropriate locks and handle replacements in compliance with local requirements, ensuring your sash or casement locks meet both security and heritage standards."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Abingdon-on-Thames \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation in Abingdon-on-Thames & Wootton. Wall, floor and freestanding safes with secure anchoring and insurance documentation.",
+ "safe-installation.hero-paragraph": "Our Abingdon-on-Thames locksmith team specialises in safe installation using professional locksmithing techniques tailored to your security needs. Whether you require floor anchoring, wall mounting, or anti-leverage positioning, we ensure proper placement for maximum protection. Many clients choose our service for insurance approval and to meet Eurograde standards, guaranteeing your valuables remain secure.",
+ "safe-installation.local-context-body": "Properties across Shippon's post-war semi-detached homes and the Victorian terraces of Drayton present distinct safe installation challenges. Modern semis typically offer straightforward wall and floor anchoring into solid construction, while period terraces\u2014particularly those within conservation areas\u2014require careful assessment of masonry condition and listed-building consent pathways before wall-mounted safes can be securely fitted.\n\nListed-status properties in Drayton and surrounding historic areas often necessitate pre-installation liaison with conservation officers, as visible safe fittings or structural modifications may require formal approval. Additionally, older terraced properties frequently feature solid brick and lime mortar that demands specialist drilling techniques to ensure proper anchoring without compromising structural integrity or triggering damp issues common to Thames-side locations.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed properties in Drayton and other conservation areas?",
+   "a": "Yes. We're experienced with listed-property restrictions in Drayton's conservation area and can advise on anchor points and fixing methods that comply with planning requirements before installation begins."
+  },
+  {
+   "q": "What's the best safe anchoring solution for the post-war semis in Peachcroft and Wootton?",
+   "a": "We typically recommend floor safes or heavy-duty wall anchoring into masonry; the cavity-wall construction in these semis requires proper survey first to ensure secure fixing and insurance compliance."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Abingdon-on-Thames | Period Property Safes",
+ "safe-opening.meta.description": "Safe opening in Abingdon-on-Thames for lost keys, combinations, lockouts. Non-destructive service for period properties and modern homes across Sunningwell and beyond.",
+ "safe-opening.hero-paragraph": "When you need safe opening in Abingdon-on-Thames, our experienced locksmith team brings specialist locksmithing expertise to every job. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening techniques to access your safe without damage. Our certified locksmiths prioritise preserving your property whilst delivering swift, reliable solutions.",
+ "safe-opening.local-context-body": "Safe opening demand in Abingdon-on-Thames reflects the town's mixed property portfolio. Detached homes in Appleford-on-Thames\u2014often owner-occupied rural properties\u2014frequently house domestic safes where keys or combinations have been misfiled or lost over years. Post-war semis across Culham similarly contain wall-mounted or floor safes installed during renovation phases, requiring non-destructive access when documentation becomes unavailable.\n\nListed-building status affects safe opening procedures across Abingdon's historic core and conservation areas. Properties in Drayton and Sutton Courtenay with period ironmongery and listed restrictions cannot tolerate destructive opening methods; specialists must employ manipulation and non-invasive techniques to preserve original safes and surrounding fixtures, particularly where safes are integrated into older joinery or masonry.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I have a safe in my listed property in Drayton but lost the combination\u2014can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening using specialist tools and manipulation techniques that won't mark or alter your safe, which is essential for listed properties where modifications are restricted. We'll regain access to your safe while preserving its condition and your property's heritage status."
+  },
+  {
+   "q": "My safe's lock has corroded due to damp from our Thames-side location\u2014can you still open it?",
+   "a": "Absolutely. Corrosion is common in riverside and damp-prone areas of Abingdon; we handle corroded and seized safe locks regularly using specialist de-corrosion and non-destructive opening methods. Once open, we can service the lock and recommend treatments to prevent future moisture damage."
+  }
+ ],
+ "home.areas-covered": [
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Wildmoor",
+  "Northcourt",
+  "Peachcroft",
+  "Caldecott",
+  "Long Furlong"
+ ],
+ "locked-out.areas-covered": [
+  "Peachcroft",
+  "Wildmoor",
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor",
+  "Caldecott"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor"
+ ],
+ "lock-changes.areas-covered": [
+  "Wildmoor",
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft"
+ ],
+ "lock-repairs.areas-covered": [
+  "Northcourt",
+  "Long Furlong",
+  "Peachcroft",
+  "Wildmoor",
+  "Caldecott"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Caldecott",
+  "Wildmoor",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor",
+  "Caldecott"
+ ],
+ "door-repairs.areas-covered": [
+  "Peachcroft",
+  "Wildmoor",
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Wildmoor",
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft"
+ ],
+ "safe-installation.areas-covered": [
+  "Caldecott",
+  "Long Furlong",
+  "Northcourt",
+  "Peachcroft",
+  "Wildmoor"
+ ],
+ "safe-opening.areas-covered": [
+  "Peachcroft",
+  "Northcourt",
+  "Wildmoor",
+  "Caldecott",
+  "Long Furlong"
+ ]
 }

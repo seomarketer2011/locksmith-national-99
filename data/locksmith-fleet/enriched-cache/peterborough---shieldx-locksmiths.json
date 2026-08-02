@@ -1,435 +1,411 @@
 {
-  "meta.title": "Peterborough Locksmith | Emergency Call-Out 24/7",
-  "meta.description": "Emergency locksmith in Peterborough covering Victorian terraces, council estates and new-build homes. 24/7 call-outs, rekeying, repairs and upgrades.",
-  "home.hero-paragraph": "Peterborough locksmith services covering locksmithing and lock assistance across the city. We specialise in emergency lockouts, lock changes, and security upgrades for homes and businesses. All our engineers are DBS checked and fully insured, with 24/7 availability and non-destructive entry methods to protect your property.",
-  "home.local-context-heading": "Locksmith work across Peterborough's mixed neighborhoods",
-  "home.local-context-body": "Peterborough's mixed housing stock—from Victorian terraces in the city centre to post-war council estates like Dogsthorpe and newer developments in Hampton Vale—creates varied lock maintenance needs. Older properties often require rekeying due to tenant turnover, while period locks in conservation areas need specialist handling. Modern new-builds feature composite doors and smart locks demanding up-to-date technical knowledge. Regular lock checks help prevent security gaps across these different property types.\n\nHigh HMO density in student areas and rental zones means landlords must ensure compliant access and security standards. Listed buildings and conservation properties have restrictions on lock modifications that affect emergency entry procedures. Composite doors on newer estates require compatible cylinders and fitting techniques. Local locksmith services familiar with Peterborough's varied property characteristics can advise on appropriate solutions for each building type.",
-  "home.local-faqs": [
-    {
-      "q": "I'm renting a property in Millfield and my landlord wants the locks changed before I move in—how quickly can you help?",
-      "a": "We understand Millfield's high tenant turnover creates urgent rekeying needs; we typically attend within 24 hours for rental properties and can often complete the work same-day. Call 01733 699047 to book an emergency appointment."
-    },
-    {
-      "q": "My Victorian terraced house in the city centre is listed—can you help with period locks without damaging the property?",
-      "a": "Yes; our locksmiths are experienced with historic locks in Peterborough's conservation zone and understand listed building restrictions. We can repair, maintain, or carefully upgrade period mechanisms while preserving character—contact us on 01733 699047 for a site visit."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Peterborough – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Peterborough. Locked out? Key snapped? Fast response to Victorian terraces, modern homes and council estates. Non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmiths in Peterborough specialise in locksmithing solutions available around the clock. Whether you're locked out of your home, have snapped a key in the cylinder, or need post-break-in repairs, our DBS-checked technicians respond promptly using non-destructive entry methods. We're here when you need us most.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts occur frequently across Peterborough's council estates and rental properties, where high tenant turnover and aging lock mechanisms create urgent access issues. Estates like New Werrington contain mixed lock types installed over decades, complicating rapid diagnosis during callouts. Composite doors in newer developments such as Cardea require different techniques than traditional timber frames, meaning emergency responders must carry diverse tools and knowledge.\n\nListed building status in Peterborough's conservation zones and Victorian terraces restricts destructive entry methods, requiring locksmiths to use non-invasive techniques or obtain consent before forcing locks. Period properties often feature original mortice locks that demand specialist handling, whereas HMO properties in Millfield typically have multiple keyed deadbolts per unit, increasing complexity during emergency re-access situations.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my terraced house in Helpston and can't find my key—how quickly can you arrive?",
-      "a": "We operate 24/7 and typically respond within 30–60 minutes across Peterborough including Helpston. For period properties with listed building restrictions, we're trained to open Victorian locks without damage—essential in conservation areas where forced entry can breach planning conditions."
-    },
-    {
-      "q": "My composite door in Cardea won't lock after I forced it shut—is this an emergency?",
-      "a": "Yes, and it's common in newer builds like Cardea and Hampton Vale where composite doors and modern mechanisms can jam under pressure. We carry specialist tools for these systems and can usually restore full function on the same visit, ensuring your home is secure again quickly."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Peterborough | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Peterborough? Fast non-destructive entry for lost or snapped keys. Available 24/7 across Victorian terraces, council estates & new builds.",
-  "locked-out.hero-paragraph": "When you're locked out in Peterborough, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or a door has slammed shut, we use non-destructive entry methods to regain access without causing damage to your property.",
-  "locked-out.local-context-body": "Terraced properties in Eastgate and semi-detached homes across Chesterton frequently present locked-out situations, particularly where older single-cylinder locks predominate. High tenant turnover in these areas, combined with period properties that may lack modern key-holding services, creates consistent demand for rapid non-destructive entry. Student housing and HMOs intensify this pressure, with multiple occupants increasing the likelihood of keys left inside or lost in transit.\n\nListed building status affects locked-out responses in Peterborough's conservation zones, especially around Market Place and the Victorian core. Forced entry or damage to period door furniture can breach planning restrictions, requiring locksmiths to employ careful techniques compatible with heritage preservation. Composite doors fitted to modern estate properties (Cardea, Hampton Vale) present different constraints, demanding knowledge of their specific lock mechanisms to avoid damage during non-destructive access.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my terraced house in the city centre conservation zone—can you get me in without damaging the period door?",
-      "a": "Yes, we specialise in non-destructive entry for historic properties. Listed building doors in Peterborough's conservation areas require careful handling, and we have the expertise to pick or manipulate period locks without forcing, then advise on any listed building consent if rekeying is needed."
-    },
-    {
-      "q": "My key snapped inside the lock of my rented flat in Millfield—how quickly can you help?",
-      "a": "We offer emergency same-day callouts across Millfield and can extract broken keys without damaging the lock cylinder, which is especially important for tenanted properties where you'll need the lock returned intact for your deposit."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Peterborough – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Peterborough's modern estates & Victorian terraces. Expert extraction from euro cylinders, mortice locks & night latches, 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Peterborough requires a skilled locksmith trained in precise locksmithing techniques. Whether you're dealing with a snapped key in a mortice lock or a sheared key stuck in a euro cylinder, our technicians use specialist key extractor tools and broken-key probes to retrieve the fragment safely. We employ non-destructive methods wherever possible to preserve your lock and avoid costly replacement.",
-  "broken-key-removal.local-context-body": "Peterborough's council estates in Millfield and Dogsthorpe feature older euro cylinders and mortice locks that are particularly prone to key fracture, especially given high tenant turnover and wear on aging mechanisms. Semi-detached properties across New England also present common broken key scenarios, where keys snap during forceful turning on stiffened locks. These areas generate steady demand for extraction work.\n\nVictorian terraced properties in the Eastgate conservation zone require extra care during broken key removal, as many contain period locks with restricted access points and listed-building status limits aggressive extraction techniques. Locksmiths must often employ specialist tools to avoid damaging historic lock casings, adding complexity to what might otherwise be straightforward cylinder removal elsewhere in the city.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do I need professional key extraction in Millfield properties?",
-      "a": "Millfield's 1960s–70s council estates often have older euro cylinders and mortice locks that are more prone to key snapping due to wear. Attempting DIY removal risks internal damage, making professional extraction essential to preserve the lock and avoid costly replacement."
-    },
-    {
-      "q": "Can you remove a broken key from a listed building lock in Peterborough's conservation zone?",
-      "a": "Yes. Historic terraces and listed properties in the city centre often contain period locks and mortice mechanisms with specific restrictions on replacement. We extract broken keys carefully to maintain compliance with conservation requirements and preserve original ironwork."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Peterborough – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Peterborough. Post-break-in lock changes, door repairs and security upgrades for terraced and council properties. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Peterborough locksmiths specialise in burglar repair and locksmithing services following forced entry or break-ins. We assess damage to doors and locks, then restore security using insurance-compliant solutions such as TS007 anti-snap cylinders and BS3621 mortice locks. Door reinforcement ensures your property meets current security standards and deters future intrusion.",
-  "burglar-repair-service.local-context-body": "Burglary repairs in Peterborough span a diverse housing landscape. Lynch Wood's detached and semi-detached homes often require full lock cylinder and strike plate replacement following forced-entry damage, while the city's significant rental stock—particularly in areas like New Werrington—sees frequent post-break-in reinstatement work driven by tenant turnover and insurance claim requirements. Property condition varies widely, from modern composite doors needing specialist frame realignment to older wooden frames requiring carpentry alongside lockwork.\n\nHistoric properties in Peterborough's conservation zones present particular repair considerations. Listed buildings in the city centre cannot have locks replaced with modern equivalents without conservation officer approval, meaning repairs must often restore period-appropriate mechanisms or require special dispensation. Additionally, insurance valuers commonly require evidence of lock upgrades to British Standard specifications post-incident, making documentation and certification part of the repair specification across all property types.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle insurance-quality repairs for break-ins on modern composite doors in new-build areas like Cardea?",
-      "a": "Yes. Our burglar repair service includes full reinstatement of composite doors and smart lock systems found in Cardea's new-build flats, with documentation suitable for insurance claims. We're familiar with the specific mechanisms in modern installations and can restore them to pre-loss condition quickly."
-    },
-    {
-      "q": "Can you repair period locks in listed Victorian terraces after a break-in without breaching conservation rules?",
-      "a": "Yes. We understand Peterborough's conservation zone restrictions and listed building requirements in the historic city centre and Victorian terraces. Our burglar repairs respect period-appropriate lock styles and materials, and we'll liaise with conservation officers if needed to ensure compliance."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Peterborough – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Peterborough. Same-day boarding of smashed doors and windows after break-ins or storm damage. Serving Eastgate, New England and across the city.",
-  "emergency-boarding-up.hero-paragraph": "Our Peterborough locksmiths specialise in emergency boarding up, combining skilled locksmithing with rapid response to protect your property. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure the area using robust plywood boards and security screws. All work meets insurance-compliant standards and is available 24/7 to minimise further damage and unauthorised access.",
-  "emergency-boarding-up.local-context-body": "Properties across Hampton Vale and Cardea—predominantly new-build composites and modern glazing—require boarding solutions compatible with contemporary door frames and integrated smart-lock systems. Older semi-detached stock in Bretton, by contrast, typically features traditional timber frames and standard locks, demanding different securing techniques. Both property types see emergency boarding demand following break-ins or weather damage, though access points and material compatibility vary significantly.\n\nListed buildings and conservation-zone properties in Peterborough's historic core impose restrictions on temporary boarding methods; securing period windows and doors without causing further damage requires knowledge of heritage protections. High HMO density in student-occupied terraces means boarding work often involves landlord notification, tenancy compliance, and rapid turnaround to restore rental security. Weather exposure across newer estates also drives demand, particularly where composite door seals have failed under storm conditions.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up listed building windows in Peterborough's conservation zones?",
-      "a": "Yes. Our team understands the restrictions on historic properties in the city centre and Victorian terraces—we use temporary boarding methods that comply with listed building rules and won't damage period features while protecting your property after break-in or storm damage."
-    },
-    {
-      "q": "Can you board up composite doors on new-build properties in Hampton Vale and Cardea?",
-      "a": "Absolutely. Modern composite doors in Peterborough's new developments require careful handling to avoid frame damage; we use protective boarding techniques that secure your home without compromising the door frame, then help arrange proper replacement."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Peterborough | Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Peterborough for moves, lost keys & security upgrades. Serving Victorian terraces, council estates & new-build areas like Hampton Vale with expert service.",
-  "lock-changes.hero-paragraph": "Professional lock changes from Peterborough locksmiths who specialise in locksmithing for homes and businesses. Whether you're moving house, replacing lost keys, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure your new locks meet current security standards.",
-  "lock-changes.local-context-body": "Lock changes in Peterborough address the needs of a diverse housing stock spanning terraced Victorian properties in the city centre through to semi-detached homes in established suburbs like Longthorpe. High tenant turnover in rental properties, particularly across Millfield's council estates and HMO concentrations, drives consistent demand for rekeying when occupancy changes. Homeowners moving into period properties or modern builds alike require lock replacement as a security baseline, whether for peace of mind after key loss or as part of a planned upgrade.\n\nListed building status in Peterborough's conservation zones requires specialist attention to period locks; replacements must preserve historic character while meeting modern security standards. Newer properties in expansion areas feature composite doors and contemporary locking mechanisms that differ substantially from traditional mortice locks found in older council stock, necessitating knowledge of both heritage and contemporary hardware to complete work safely and to local building control expectations.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a terraced house in the city centre conservation zone – can you change my locks without affecting the listed building status?",
-      "a": "Yes, we're experienced with period locks in Peterborough's historic terraces and conservation areas. We'll ensure any replacement complies with listed building restrictions while upgrading your security."
-    },
-    {
-      "q": "We're renting a property in Millfield and the landlord wants the locks changed between tenants – how quickly can you do this?",
-      "a": "We offer same-day lock changes for rental properties across Peterborough's council estates, including Millfield. High tenant turnover is common, so we're equipped to turn around rekeying work fast to meet your letting schedule."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Peterborough – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Peterborough covering multipoint, mortice & night latch failures. Emergency service for Victorian terraces, council estates & modern homes.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Peterborough by our experienced locksmith team specialising in locksmithing solutions. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, our technicians deliver reliable repairs backed by manufacturer warranty. We handle everything from mortice maintenance to multipoint servicing, restoring your locks to full working order.",
-  "lock-repairs.local-context-body": "Peterborough's mixed housing stock demands varied lock repair expertise. Older council estates such as Millfield feature worn multipoint and mortice locks on semi-detached properties where regular tenant turnover accelerates mechanical wear. Victorian terraces in the historic core present different challenges, with period night latches and traditional gearbox mechanisms requiring specialist handling alongside listed-building consent protocols.\n\nModern composite doors in new-build areas like Cardea often integrate multipoint systems with non-standard gearbox designs, while period properties demand careful mortice lock repair to avoid damage. Listed-building conservation rules in the city centre restrict replacement options, making skilled repair of original mechanisms essential rather than removal and fitting of new units.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do multipoint locks fail so often in Peterborough's newer estates like Cardea?",
-      "a": "Modern composite doors in new-build areas experience higher stress on multipoint mechanisms due to settlement and temperature fluctuations. Our technicians specialise in diagnosing and repairing these systems before they jam completely, avoiding costly door replacement."
-    },
-    {
-      "q": "Can you repair period mortice locks in listed properties in Eastgate without breaking conservation rules?",
-      "a": "Yes—we understand Peterborough's listed building restrictions and can restore original mortice locks to full working order while maintaining their character. This is essential for Victorian terraces in the conservation zone where modern replacements aren't permitted."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Peterborough – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Peterborough – BS3621 mortice locks, anti-snap cylinders & multipoint fittings. Serving Eastgate, New England & across the city.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Peterborough by our experienced locksmith specialists combines skilled locksmithing with robust security solutions. Whether you're upgrading locks to meet insurance requirements or installing new fittings, we fit BS3621 mortice locks and TS007 anti-snap cylinders to ensure your property meets current security standards. Our work is thorough, reliable, and built to last.",
-  "door-lock-installation.local-context-body": "Modern new-build areas like Hampton Vale feature composite doors and contemporary frame specifications that require precise fitting of multipoint locks and TS007 anti-snap cylinders. Older semi-detached properties in Dogsthorpe, typical of Peterborough's post-war council estates, often retain traditional wooden frames where BS3621 mortice locks remain the standard upgrade, particularly as rental properties cycle through tenants requiring security updates.\n\nVictorian terraces and listed buildings in the city centre present fitting constraints absent from newer estates. Conservation area properties frequently require listed-building consent before lock installation, and period frame dimensions may necessitate custom or heritage-specification locks rather than standard modern cylinders. Installers must verify conservation status and frame material compatibility before commencing work.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install anti-snap cylinders on the older mortice locks in Eastgate's Victorian terraces?",
-      "a": "Yes, we regularly upgrade period locks in Eastgate's listed properties with TS007 anti-snap cylinders that meet modern security standards while respecting conservation requirements. We're familiar with the access restrictions in the historic core and ensure compliance with listed building consent where needed."
-    },
-    {
-      "q": "Can you fit multipoint locks to the composite doors in new-build areas like Cardea and Hampton Vale?",
-      "a": "Absolutely—we specialise in installing multipoint systems on modern composite doors throughout Peterborough's new estates. These doors require precise fitting to work correctly, and we have the expertise to handle the specialist hardware these properties use."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Peterborough – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Peterborough for Victorian terraces & modern homes. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Peterborough from our expert locksmith team combines modern locksmithing techniques with trusted craftsmanship. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades to enhance security. Our like-for-like replacements ensure seamless fit and lasting protection for your property.",
-  "door-lock-replacement.local-context-body": "Victorian terraces in the city centre and period properties across the conservation zone often require specialist lock replacement that respects listed-building restrictions. Semi-detached and terraced homes throughout Lynch Wood represent another common call-out category, where standard cylinder locks and mortice locks frequently need upgrading or direct replacement after wear or security concerns.\n\nPeterborough's expanding rental market—particularly HMO properties in student-dense areas—creates steady demand for lock changes due to tenant turnover and regulatory compliance requirements. Composite doors on newer builds in Cardea require compatible lock mechanisms and careful installation to avoid door frame damage, while older council stock may use non-standard measurements or period fittings that complicate sourcing direct replacements.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in the city centre – can you replace my lock without damaging the door frame?",
-      "a": "Yes. Victorian properties often have period ironwork and listed building constraints, so we use specialist techniques to preserve your original frame during replacement. We'll ensure any new lock fits heritage standards if your property is in a conservation zone."
-    },
-    {
-      "q": "My rental property in Millfield has high tenant turnover – what's the quickest lock replacement option?",
-      "a": "We offer same-day like-for-like lock swaps, which is ideal for council estate properties where rekeying happens frequently. We can fit compatible modern locks that match your existing door setup without requiring frame modification."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Peterborough – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Peterborough including composite doors in Cardea, uPVC alignment, gearbox replacement, handle repair and timber door easing.",
-  "door-repairs.hero-paragraph": "Our Peterborough locksmiths specialise in door repairs and locksmithing solutions for domestic and commercial properties. Whether your uPVC, composite or timber door has dropped, caught or won't close properly, our technicians diagnose and repair issues through hinge adjustment, frame alignment and multipoint realignment. We attend emergency call-outs across Peterborough and the surrounding area.",
-  "door-repairs.local-context-body": "Door misalignment and frame damage are common in Peterborough's older council estates, particularly New Werrington where post-war semi-detached properties experience settling and timber movement after decades. Composite doors in newer developments like Cardea require different repair approaches than traditional timber frames, reflecting the city's mixed-era housing stock and the varied demands placed on door hardware across terraced, semi-detached and detached properties.\n\nListed building status affects door repairs in Peterborough's Victorian conservation zones and historic terraces around Helpston, where replacements or structural alterations may require conservation officer approval before work proceeds. HMO properties throughout the city also fall under stricter fire safety regulations, meaning door closing mechanisms and frame integrity carry legal weight beyond cosmetic repair.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Millfield properties need frequent realignment?",
-      "a": "Many Millfield council estates were built in the 1960s–70s, and older timber frames in semi-detached properties settle over time, causing doors to drop or misalign. High tenant turnover also means wear on hinges and frames accumulates faster—we specialise in realigning and rehanging doors to restore smooth operation."
-    },
-    {
-      "q": "Can you repair composite doors in new-build areas like Cardea?",
-      "a": "Yes. Modern developments such as Cardea feature composite doors that require specialist knowledge to repair correctly without damaging the frame or hardware. We handle misaligned composite doors, hardware replacement, and adjustments to ensure they close and lock properly."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Peterborough – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Peterborough. Espagnolette & shootbolt locks fixed on uPVC, aluminium & timber windows. Serving Millfield & across the city.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Peterborough requires specialist locksmithing knowledge to ensure proper function and security. Our locksmiths diagnose common issues like windows that won't lock or broken handles, repairing or replacing espagnolette mechanisms and shootbolt locks as needed. All work meets insurance-compliant standards, protecting your home and giving you peace of mind.",
-  "window-lock-repair-replacement.local-context-body": "Window lock failures affect Peterborough's varied stock differently depending on property age and tenure. Semi-detached homes in Lynch Wood typically feature standard espagnolette locks on uPVC frames, while older council properties in New Werrington house a mixture of period shootbolt mechanisms and modern replacements. Rental properties across the city experience accelerated wear due to tenant turnover, making window lock repair and replacement a frequent maintenance need.\n\nHistoric properties in the city centre and conservation areas present additional complexity for window lock work. Listed building status often restricts replacement options, requiring repairs that preserve original mechanisms or use sympathetic heritage-approved locks. Conversely, newer estates demand familiarity with contemporary composite door and window frames, where modern locking systems must integrate correctly with different material specifications and frame depths.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks fail so often in Peterborough's older council estates like Millfield and Dogsthorpe?",
-      "a": "Decades of use and tenant turnover in these post-war estates mean espagnolette and shootbolt locks wear faster than in newer properties. We replace failed locks with modern, durable equivalents that handle frequent use and are easier to operate for successive tenants."
-    },
-    {
-      "q": "Do I need specialist knowledge to repair window locks on composite doors in Hampton Vale and Cardea?",
-      "a": "Yes—these modern new-build areas use composite frames and contemporary locking mechanisms that differ from traditional timber windows. Our technicians are trained on these systems and can repair or replace shootbolts and espagnolettes without damaging the frame or invalidating warranties."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Peterborough – Fast Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Peterborough including wall, floor and freestanding safes. Anchoring, insurance documentation and compliance for listed buildings.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Peterborough from a locksmith specialising in locksmithing ensures your valuables are properly secured. Our technicians handle floor anchoring and wall mounting to AiS approved standards, meeting insurance requirements for new safes. We assess your premises and position units to prevent anti-leverage attacks, guaranteeing Eurograde protection tailored to your cash rating needs.",
-  "safe-installation.local-context-body": "Peterborough's rental and council properties—particularly the semi-detached homes across Millfield and Dogsthorpe—frequently require safe installation to protect tenant deposits, documents, and valuables. High turnover in these areas creates demand for secure, fixed storage that landlords can control independently of occupancy changes. Terraced properties in the city centre also benefit from built-in safes where space and access points are limited.\n\nListed building status and conservation zone restrictions in Peterborough's historic core require safe installers to plan wall and floor anchoring carefully, as structural work needs approval from local heritage officers. Post-war council estates often present concrete block or cavity walls that demand different fixing methods than Victorian brick, affecting installation time and equipment selection. Insurance documentation becomes essential given the range of property ages and ownership structures across the city.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do many Millfield landlords choose safe installation for their rental properties?",
-      "a": "With high tenant turnover common in Millfield's council estates and HMOs, a securely installed safe protects your valuables and documents independently of who occupies the property. Our installation includes full insurance documentation, giving you peace of mind across tenancy changes."
-    },
-    {
-      "q": "Can you install safes in the listed Victorian properties around Peterborough's historic centre?",
-      "a": "Yes—we're experienced with period properties and listed building restrictions in the conservation zone. We'll advise on discreet, compliant anchoring methods that preserve period features while meeting insurance requirements for your safe."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Peterborough – Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Peterborough: lost keys, combinations, jammed safes. Non-destructive methods for domestic and commercial safes across Lynch Wood, Fengate and beyond.",
-  "safe-opening.hero-paragraph": "Our Peterborough locksmith team specialises in safe opening using advanced locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access without damaging your safe. Fast, reliable service for domestic and commercial clients across the area.",
-  "safe-opening.local-context-body": "Peterborough's stock of rental properties and council estates—particularly in Millfield and post-war areas like Chesterton—frequently generates safe-opening calls when tenants lose combinations or keys to bedroom safes and storage boxes. Terraced and semi-detached homes in these neighborhoods often contain older mechanical safes that lack digital override options, requiring specialist non-destructive techniques to preserve the unit and its contents.\n\nListed buildings and conservation-area properties in Eastgate and around Market Place present additional constraints: damage to period fixtures during safe opening can trigger planning enforcement action, so locksmiths must balance speed with preservation of historic fabric. Many Victorian terraces also feature safes built into original joinery or walls, where access routes are confined and drilling risks adjacent plasterwork or structural elements.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've got a safe locked in my Victorian terrace in the city centre — can you open it without damaging the door frame?",
-      "a": "Yes. Our non-destructive safe opening techniques are ideal for period properties and listed buildings where damage restrictions apply. We'll recover access to your safe without affecting the original fabric of your home."
-    },
-    {
-      "q": "We're renting a flat in Cardea and lost the combination to the built-in safe — how quickly can you help?",
-      "a": "We can attend same-day in most cases and open modern composite-door safes without destruction, so you won't face replacement costs or landlord disputes. Call us on 01733 699047 to book."
-    }
-  ],
-  "home.areas-covered": [
-    "Ailsworth",
-    "Alwalton",
-    "Ashton",
-    "BGL Park",
-    "Bainton",
-    "Baston",
-    "Braceborough",
-    "Bury",
-    "Cardea",
-    "Castor",
-    "Chesterton",
-    "Deeping Gate",
-    "Deeping St James",
-    "Deeping St Nicholas",
-    "Dogsthorpe",
-    "Eastfield",
-    "Eastgate",
-    "Elton",
-    "Etton",
-    "Eye",
-    "Farcet",
-    "Fengate",
-    "Folksworth",
-    "Frognall",
-    "Fulbridge",
-    "Glatton",
-    "Glinton",
-    "Great Gidding",
-    "Great Raveley",
-    "Greatford",
-    "Gunthorpe",
-    "Haddon",
-    "Halfleet",
-    "Hampton",
-    "Hampton Gardens",
-    "Hampton Hargate",
-    "Hampton Vale",
-    "Helpston",
-    "Holme",
-    "Horsegate",
-    "Kate's Bridge Cottages",
-    "Langtoft",
-    "Little Gidding",
-    "Longthorpe",
-    "Luddington in the Brook",
-    "Lutton",
-    "Lynch Wood",
-    "Manor Drive",
-    "Marholm",
-    "Market Place",
-    "Maxey",
-    "Millfield",
-    "Morborne",
-    "Netherton",
-    "New England",
-    "New Fletton",
-    "New Werrington",
-    "Newark",
-    "Newborough",
-    "North Bretton",
-    "Northborough",
-    "Old Fletton",
-    "Orton",
-    "Orton Goldhay",
-    "Orton Longueville",
-    "Orton Malborne",
-    "Orton Northgate",
-    "Orton Southgate",
-    "Orton Waterville",
-    "Orton Wistow",
-    "Ortongate Centre",
-    "Parnwell",
-    "Paston",
-    "Peakirk",
-    "Pondersbridge",
-    "Ramsey Heights",
-    "Ramsey Mereside",
-    "Ramsey Saint Mary's",
-    "Ravensthorpe",
-    "Sawtry",
-    "South Bretton",
-    "Stanground",
-    "Steeple Gidding",
-    "Stibbington",
-    "Stilton",
-    "Sutton",
-    "Tallington",
-    "Thorney",
-    "Thurning",
-    "Towngate",
-    "Ufford",
-    "Upton",
-    "Upwood",
-    "Walton",
-    "Water Newton",
-    "Welland",
-    "Werrington Village",
-    "West Deeping",
-    "West Town",
-    "Westwood",
-    "Wilsthorpe",
-    "Winwick",
-    "Woodston",
-    "Woodwalton"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Millfield",
-    "Elton",
-    "Woodston",
-    "Ramsey Mereside",
-    "Hampton Hargate",
-    "Orton Wistow",
-    "Great Raveley",
-    "Folksworth"
-  ],
-  "locked-out.areas-covered": [
-    "Hampton",
-    "Orton Northgate",
-    "Horsegate",
-    "Netherton",
-    "Westwood",
-    "Holme",
-    "Stilton",
-    "Baston"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Fengate",
-    "Greatford",
-    "Eye",
-    "Alwalton",
-    "Helpston",
-    "Tallington",
-    "Paston",
-    "Ortongate Centre"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Bainton",
-    "Manor Drive",
-    "Fulbridge",
-    "Market Place",
-    "Old Fletton",
-    "Cardea",
-    "Etton",
-    "Orton Goldhay"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Morborne",
-    "Braceborough",
-    "Orton Longueville",
-    "Little Gidding",
-    "Werrington Village",
-    "Hampton Vale",
-    "North Bretton",
-    "Ramsey Saint Mary's"
-  ],
-  "lock-changes.areas-covered": [
-    "Orton Southgate",
-    "Haddon",
-    "Ramsey Heights",
-    "Thurning",
-    "Deeping St James",
-    "Luddington in the Brook",
-    "Upwood",
-    "Halfleet"
-  ],
-  "lock-repairs.areas-covered": [
-    "Deeping Gate",
-    "Castor",
-    "New England",
-    "Northborough",
-    "West Deeping",
-    "Glinton",
-    "Sawtry",
-    "Winwick"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Great Gidding",
-    "Lynch Wood",
-    "Langtoft",
-    "Orton Malborne",
-    "Kate's Bridge Cottages",
-    "New Werrington",
-    "Welland",
-    "Woodwalton"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Hampton Gardens",
-    "Water Newton",
-    "Maxey",
-    "Chesterton",
-    "Eastfield",
-    "Ufford",
-    "Frognall",
-    "Steeple Gidding"
-  ],
-  "door-repairs.areas-covered": [
-    "Pondersbridge",
-    "Wilsthorpe",
-    "Marholm",
-    "Walton",
-    "Bury",
-    "Glatton",
-    "West Town",
-    "Longthorpe"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "South Bretton",
-    "Newark",
-    "Thorney",
-    "Sutton",
-    "Orton",
-    "Parnwell",
-    "Farcet",
-    "Stanground"
-  ],
-  "safe-installation.areas-covered": [
-    "Ravensthorpe",
-    "Newborough",
-    "Lutton",
-    "Towngate",
-    "Ashton",
-    "Stibbington",
-    "Eastgate",
-    "Deeping St Nicholas"
-  ],
-  "safe-opening.areas-covered": [
-    "Peakirk",
-    "Upton",
-    "New Fletton",
-    "BGL Park",
-    "Orton Waterville",
-    "Ailsworth",
-    "Gunthorpe",
-    "Dogsthorpe"
-  ]
+ "meta.title": "Peterborough Locksmith | Emergency Call-Out 24/7",
+ "meta.description": "Emergency locksmith in Peterborough covering Victorian terraces, council estates and new-build homes. 24/7 call-outs, rekeying, repairs and upgrades.",
+ "home.hero-paragraph": "Peterborough locksmith services covering locksmithing and lock assistance across the city. We specialise in emergency lockouts, lock changes, and security upgrades for homes and businesses. All our engineers are DBS checked and fully insured, with 24/7 availability and non-destructive entry methods to protect your property.",
+ "home.local-context-heading": "Locksmith work across Peterborough's mixed neighborhoods",
+ "home.local-context-body": "Peterborough's mixed housing stock\u2014from Victorian terraces in the city centre to post-war council estates like Dogsthorpe and newer developments in Hampton Vale\u2014creates varied lock maintenance needs. Older properties often require rekeying due to tenant turnover, while period locks in conservation areas need specialist handling. Modern new-builds feature composite doors and smart locks demanding up-to-date technical knowledge. Regular lock checks help prevent security gaps across these different property types.\n\nHigh HMO density in student areas and rental zones means landlords must ensure compliant access and security standards. Listed buildings and conservation properties have restrictions on lock modifications that affect emergency entry procedures. Composite doors on newer estates require compatible cylinders and fitting techniques. Local locksmith services familiar with Peterborough's varied property characteristics can advise on appropriate solutions for each building type.",
+ "home.local-faqs": [
+  {
+   "q": "I'm renting a property in Millfield and my landlord wants the locks changed before I move in\u2014how quickly can you help?",
+   "a": "We understand Millfield's high tenant turnover creates urgent rekeying needs; we typically attend within 24 hours for rental properties and can often complete the work same-day. Call 01733 699047 to book an emergency appointment."
+  },
+  {
+   "q": "My Victorian terraced house in the city centre is listed\u2014can you help with period locks without damaging the property?",
+   "a": "Yes; our locksmiths are experienced with historic locks in Peterborough's conservation zone and understand listed building restrictions. We can repair, maintain, or carefully upgrade period mechanisms while preserving character\u2014contact us on 01733 699047 for a site visit."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Peterborough \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Peterborough. Locked out? Key snapped? Fast response to Victorian terraces, modern homes and council estates. Non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmiths in Peterborough specialise in locksmithing solutions available around the clock. Whether you're locked out of your home, have snapped a key in the cylinder, or need post-break-in repairs, our DBS-checked technicians respond promptly using non-destructive entry methods. We're here when you need us most.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts occur frequently across Peterborough's council estates and rental properties, where high tenant turnover and aging lock mechanisms create urgent access issues. Estates like New Werrington contain mixed lock types installed over decades, complicating rapid diagnosis during callouts. Composite doors in newer developments such as Cardea require different techniques than traditional timber frames, meaning emergency responders must carry diverse tools and knowledge.\n\nListed building status in Peterborough's conservation zones and Victorian terraces restricts destructive entry methods, requiring locksmiths to use non-invasive techniques or obtain consent before forcing locks. Period properties often feature original mortice locks that demand specialist handling, whereas HMO properties in Millfield typically have multiple keyed deadbolts per unit, increasing complexity during emergency re-access situations.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my terraced house in Helpston and can't find my key\u2014how quickly can you arrive?",
+   "a": "We operate 24/7 and typically respond within 30\u201360 minutes across Peterborough including Helpston. For period properties with listed building restrictions, we're trained to open Victorian locks without damage\u2014essential in conservation areas where forced entry can breach planning conditions."
+  },
+  {
+   "q": "My composite door in Cardea won't lock after I forced it shut\u2014is this an emergency?",
+   "a": "Yes, and it's common in newer builds like Cardea and Hampton Vale where composite doors and modern mechanisms can jam under pressure. We carry specialist tools for these systems and can usually restore full function on the same visit, ensuring your home is secure again quickly."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Peterborough | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Peterborough? Fast non-destructive entry for lost or snapped keys. Available 24/7 across Victorian terraces, council estates & new builds.",
+ "locked-out.hero-paragraph": "When you're locked out in Peterborough, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or a door has slammed shut, we use non-destructive entry methods to regain access without causing damage to your property.",
+ "locked-out.local-context-body": "Terraced properties in Eastgate and semi-detached homes across Chesterton frequently present locked-out situations, particularly where older single-cylinder locks predominate. High tenant turnover in these areas, combined with period properties that may lack modern key-holding services, creates consistent demand for rapid non-destructive entry. Student housing and HMOs intensify this pressure, with multiple occupants increasing the likelihood of keys left inside or lost in transit.\n\nListed building status affects locked-out responses in Peterborough's conservation zones, especially around Market Place and the Victorian core. Forced entry or damage to period door furniture can breach planning restrictions, requiring locksmiths to employ careful techniques compatible with heritage preservation. Composite doors fitted to modern estate properties (Cardea, Hampton Vale) present different constraints, demanding knowledge of their specific lock mechanisms to avoid damage during non-destructive access.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my terraced house in the city centre conservation zone\u2014can you get me in without damaging the period door?",
+   "a": "Yes, we specialise in non-destructive entry for historic properties. Listed building doors in Peterborough's conservation areas require careful handling, and we have the expertise to pick or manipulate period locks without forcing, then advise on any listed building consent if rekeying is needed."
+  },
+  {
+   "q": "My key snapped inside the lock of my rented flat in Millfield\u2014how quickly can you help?",
+   "a": "We offer emergency same-day callouts across Millfield and can extract broken keys without damaging the lock cylinder, which is especially important for tenanted properties where you'll need the lock returned intact for your deposit."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Peterborough \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Peterborough's modern estates & Victorian terraces. Expert extraction from euro cylinders, mortice locks & night latches, 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Peterborough requires a skilled locksmith trained in precise locksmithing techniques. Whether you're dealing with a snapped key in a mortice lock or a sheared key stuck in a euro cylinder, our technicians use specialist key extractor tools and broken-key probes to retrieve the fragment safely. We employ non-destructive methods wherever possible to preserve your lock and avoid costly replacement.",
+ "broken-key-removal.local-context-body": "Peterborough's council estates in Millfield and Dogsthorpe feature older euro cylinders and mortice locks that are particularly prone to key fracture, especially given high tenant turnover and wear on aging mechanisms. Semi-detached properties across New England also present common broken key scenarios, where keys snap during forceful turning on stiffened locks. These areas generate steady demand for extraction work.\n\nVictorian terraced properties in the Eastgate conservation zone require extra care during broken key removal, as many contain period locks with restricted access points and listed-building status limits aggressive extraction techniques. Locksmiths must often employ specialist tools to avoid damaging historic lock casings, adding complexity to what might otherwise be straightforward cylinder removal elsewhere in the city.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do I need professional key extraction in Millfield properties?",
+   "a": "Millfield's 1960s\u201370s council estates often have older euro cylinders and mortice locks that are more prone to key snapping due to wear. Attempting DIY removal risks internal damage, making professional extraction essential to preserve the lock and avoid costly replacement."
+  },
+  {
+   "q": "Can you remove a broken key from a listed building lock in Peterborough's conservation zone?",
+   "a": "Yes. Historic terraces and listed properties in the city centre often contain period locks and mortice mechanisms with specific restrictions on replacement. We extract broken keys carefully to maintain compliance with conservation requirements and preserve original ironwork."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Peterborough \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Peterborough. Post-break-in lock changes, door repairs and security upgrades for terraced and council properties. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Peterborough locksmiths specialise in burglar repair and locksmithing services following forced entry or break-ins. We assess damage to doors and locks, then restore security using insurance-compliant solutions such as TS007 anti-snap cylinders and BS3621 mortice locks. Door reinforcement ensures your property meets current security standards and deters future intrusion.",
+ "burglar-repair-service.local-context-body": "Burglary repairs in Peterborough span a diverse housing landscape. Lynch Wood's detached and semi-detached homes often require full lock cylinder and strike plate replacement following forced-entry damage, while the city's significant rental stock\u2014particularly in areas like New Werrington\u2014sees frequent post-break-in reinstatement work driven by tenant turnover and insurance claim requirements. Property condition varies widely, from modern composite doors needing specialist frame realignment to older wooden frames requiring carpentry alongside lockwork.\n\nHistoric properties in Peterborough's conservation zones present particular repair considerations. Listed buildings in the city centre cannot have locks replaced with modern equivalents without conservation officer approval, meaning repairs must often restore period-appropriate mechanisms or require special dispensation. Additionally, insurance valuers commonly require evidence of lock upgrades to British Standard specifications post-incident, making documentation and certification part of the repair specification across all property types.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle insurance-quality repairs for break-ins on modern composite doors in new-build areas like Cardea?",
+   "a": "Yes. Our burglar repair service includes full reinstatement of composite doors and smart lock systems found in Cardea's new-build flats, with documentation suitable for insurance claims. We're familiar with the specific mechanisms in modern installations and can restore them to pre-loss condition quickly."
+  },
+  {
+   "q": "Can you repair period locks in listed Victorian terraces after a break-in without breaching conservation rules?",
+   "a": "Yes. We understand Peterborough's conservation zone restrictions and listed building requirements in the historic city centre and Victorian terraces. Our burglar repairs respect period-appropriate lock styles and materials, and we'll liaise with conservation officers if needed to ensure compliance."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Peterborough \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Peterborough. Same-day boarding of smashed doors and windows after break-ins or storm damage. Serving Eastgate, New England and across the city.",
+ "emergency-boarding-up.hero-paragraph": "Our Peterborough locksmiths specialise in emergency boarding up, combining skilled locksmithing with rapid response to protect your property. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure the area using robust plywood boards and security screws. All work meets insurance-compliant standards and is available 24/7 to minimise further damage and unauthorised access.",
+ "emergency-boarding-up.local-context-body": "Properties across Hampton Vale and Cardea\u2014predominantly new-build composites and modern glazing\u2014require boarding solutions compatible with contemporary door frames and integrated smart-lock systems. Older semi-detached stock in Bretton, by contrast, typically features traditional timber frames and standard locks, demanding different securing techniques. Both property types see emergency boarding demand following break-ins or weather damage, though access points and material compatibility vary significantly.\n\nListed buildings and conservation-zone properties in Peterborough's historic core impose restrictions on temporary boarding methods; securing period windows and doors without causing further damage requires knowledge of heritage protections. High HMO density in student-occupied terraces means boarding work often involves landlord notification, tenancy compliance, and rapid turnaround to restore rental security. Weather exposure across newer estates also drives demand, particularly where composite door seals have failed under storm conditions.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up listed building windows in Peterborough's conservation zones?",
+   "a": "Yes. Our team understands the restrictions on historic properties in the city centre and Victorian terraces\u2014we use temporary boarding methods that comply with listed building rules and won't damage period features while protecting your property after break-in or storm damage."
+  },
+  {
+   "q": "Can you board up composite doors on new-build properties in Hampton Vale and Cardea?",
+   "a": "Absolutely. Modern composite doors in Peterborough's new developments require careful handling to avoid frame damage; we use protective boarding techniques that secure your home without compromising the door frame, then help arrange proper replacement."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Peterborough | Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Peterborough for moves, lost keys & security upgrades. Serving Victorian terraces, council estates & new-build areas like Hampton Vale with expert service.",
+ "lock-changes.hero-paragraph": "Professional lock changes from Peterborough locksmiths who specialise in locksmithing for homes and businesses. Whether you're moving house, replacing lost keys, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure your new locks meet current security standards.",
+ "lock-changes.local-context-body": "Lock changes in Peterborough address the needs of a diverse housing stock spanning terraced Victorian properties in the city centre through to semi-detached homes in established suburbs like Longthorpe. High tenant turnover in rental properties, particularly across Millfield's council estates and HMO concentrations, drives consistent demand for rekeying when occupancy changes. Homeowners moving into period properties or modern builds alike require lock replacement as a security baseline, whether for peace of mind after key loss or as part of a planned upgrade.\n\nListed building status in Peterborough's conservation zones requires specialist attention to period locks; replacements must preserve historic character while meeting modern security standards. Newer properties in expansion areas feature composite doors and contemporary locking mechanisms that differ substantially from traditional mortice locks found in older council stock, necessitating knowledge of both heritage and contemporary hardware to complete work safely and to local building control expectations.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a terraced house in the city centre conservation zone \u2013 can you change my locks without affecting the listed building status?",
+   "a": "Yes, we're experienced with period locks in Peterborough's historic terraces and conservation areas. We'll ensure any replacement complies with listed building restrictions while upgrading your security."
+  },
+  {
+   "q": "We're renting a property in Millfield and the landlord wants the locks changed between tenants \u2013 how quickly can you do this?",
+   "a": "We offer same-day lock changes for rental properties across Peterborough's council estates, including Millfield. High tenant turnover is common, so we're equipped to turn around rekeying work fast to meet your letting schedule."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Peterborough \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Peterborough covering multipoint, mortice & night latch failures. Emergency service for Victorian terraces, council estates & modern homes.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Peterborough by our experienced locksmith team specialising in locksmithing solutions. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, our technicians deliver reliable repairs backed by manufacturer warranty. We handle everything from mortice maintenance to multipoint servicing, restoring your locks to full working order.",
+ "lock-repairs.local-context-body": "Peterborough's mixed housing stock demands varied lock repair expertise. Older council estates such as Millfield feature worn multipoint and mortice locks on semi-detached properties where regular tenant turnover accelerates mechanical wear. Victorian terraces in the historic core present different challenges, with period night latches and traditional gearbox mechanisms requiring specialist handling alongside listed-building consent protocols.\n\nModern composite doors in new-build areas like Cardea often integrate multipoint systems with non-standard gearbox designs, while period properties demand careful mortice lock repair to avoid damage. Listed-building conservation rules in the city centre restrict replacement options, making skilled repair of original mechanisms essential rather than removal and fitting of new units.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do multipoint locks fail so often in Peterborough's newer estates like Cardea?",
+   "a": "Modern composite doors in new-build areas experience higher stress on multipoint mechanisms due to settlement and temperature fluctuations. Our technicians specialise in diagnosing and repairing these systems before they jam completely, avoiding costly door replacement."
+  },
+  {
+   "q": "Can you repair period mortice locks in listed properties in Eastgate without breaking conservation rules?",
+   "a": "Yes\u2014we understand Peterborough's listed building restrictions and can restore original mortice locks to full working order while maintaining their character. This is essential for Victorian terraces in the conservation zone where modern replacements aren't permitted."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Peterborough \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Peterborough \u2013 BS3621 mortice locks, anti-snap cylinders & multipoint fittings. Serving Eastgate, New England & across the city.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Peterborough by our experienced locksmith specialists combines skilled locksmithing with robust security solutions. Whether you're upgrading locks to meet insurance requirements or installing new fittings, we fit BS3621 mortice locks and TS007 anti-snap cylinders to ensure your property meets current security standards. Our work is thorough, reliable, and built to last.",
+ "door-lock-installation.local-context-body": "Modern new-build areas like Hampton Vale feature composite doors and contemporary frame specifications that require precise fitting of multipoint locks and TS007 anti-snap cylinders. Older semi-detached properties in Dogsthorpe, typical of Peterborough's post-war council estates, often retain traditional wooden frames where BS3621 mortice locks remain the standard upgrade, particularly as rental properties cycle through tenants requiring security updates.\n\nVictorian terraces and listed buildings in the city centre present fitting constraints absent from newer estates. Conservation area properties frequently require listed-building consent before lock installation, and period frame dimensions may necessitate custom or heritage-specification locks rather than standard modern cylinders. Installers must verify conservation status and frame material compatibility before commencing work.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install anti-snap cylinders on the older mortice locks in Eastgate's Victorian terraces?",
+   "a": "Yes, we regularly upgrade period locks in Eastgate's listed properties with TS007 anti-snap cylinders that meet modern security standards while respecting conservation requirements. We're familiar with the access restrictions in the historic core and ensure compliance with listed building consent where needed."
+  },
+  {
+   "q": "Can you fit multipoint locks to the composite doors in new-build areas like Cardea and Hampton Vale?",
+   "a": "Absolutely\u2014we specialise in installing multipoint systems on modern composite doors throughout Peterborough's new estates. These doors require precise fitting to work correctly, and we have the expertise to handle the specialist hardware these properties use."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Peterborough \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Peterborough for Victorian terraces & modern homes. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Peterborough from our expert locksmith team combines modern locksmithing techniques with trusted craftsmanship. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades to enhance security. Our like-for-like replacements ensure seamless fit and lasting protection for your property.",
+ "door-lock-replacement.local-context-body": "Victorian terraces in the city centre and period properties across the conservation zone often require specialist lock replacement that respects listed-building restrictions. Semi-detached and terraced homes throughout Lynch Wood represent another common call-out category, where standard cylinder locks and mortice locks frequently need upgrading or direct replacement after wear or security concerns.\n\nPeterborough's expanding rental market\u2014particularly HMO properties in student-dense areas\u2014creates steady demand for lock changes due to tenant turnover and regulatory compliance requirements. Composite doors on newer builds in Cardea require compatible lock mechanisms and careful installation to avoid door frame damage, while older council stock may use non-standard measurements or period fittings that complicate sourcing direct replacements.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in the city centre \u2013 can you replace my lock without damaging the door frame?",
+   "a": "Yes. Victorian properties often have period ironwork and listed building constraints, so we use specialist techniques to preserve your original frame during replacement. We'll ensure any new lock fits heritage standards if your property is in a conservation zone."
+  },
+  {
+   "q": "My rental property in Millfield has high tenant turnover \u2013 what's the quickest lock replacement option?",
+   "a": "We offer same-day like-for-like lock swaps, which is ideal for council estate properties where rekeying happens frequently. We can fit compatible modern locks that match your existing door setup without requiring frame modification."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Peterborough \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Peterborough including composite doors in Cardea, uPVC alignment, gearbox replacement, handle repair and timber door easing.",
+ "door-repairs.hero-paragraph": "Our Peterborough locksmiths specialise in door repairs and locksmithing solutions for domestic and commercial properties. Whether your uPVC, composite or timber door has dropped, caught or won't close properly, our technicians diagnose and repair issues through hinge adjustment, frame alignment and multipoint realignment. We attend emergency call-outs across Peterborough and the surrounding area.",
+ "door-repairs.local-context-body": "Door misalignment and frame damage are common in Peterborough's older council estates, particularly New Werrington where post-war semi-detached properties experience settling and timber movement after decades. Composite doors in newer developments like Cardea require different repair approaches than traditional timber frames, reflecting the city's mixed-era housing stock and the varied demands placed on door hardware across terraced, semi-detached and detached properties.\n\nListed building status affects door repairs in Peterborough's Victorian conservation zones and historic terraces around Helpston, where replacements or structural alterations may require conservation officer approval before work proceeds. HMO properties throughout the city also fall under stricter fire safety regulations, meaning door closing mechanisms and frame integrity carry legal weight beyond cosmetic repair.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Millfield properties need frequent realignment?",
+   "a": "Many Millfield council estates were built in the 1960s\u201370s, and older timber frames in semi-detached properties settle over time, causing doors to drop or misalign. High tenant turnover also means wear on hinges and frames accumulates faster\u2014we specialise in realigning and rehanging doors to restore smooth operation."
+  },
+  {
+   "q": "Can you repair composite doors in new-build areas like Cardea?",
+   "a": "Yes. Modern developments such as Cardea feature composite doors that require specialist knowledge to repair correctly without damaging the frame or hardware. We handle misaligned composite doors, hardware replacement, and adjustments to ensure they close and lock properly."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Peterborough \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Peterborough. Espagnolette & shootbolt locks fixed on uPVC, aluminium & timber windows. Serving Millfield & across the city.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Peterborough requires specialist locksmithing knowledge to ensure proper function and security. Our locksmiths diagnose common issues like windows that won't lock or broken handles, repairing or replacing espagnolette mechanisms and shootbolt locks as needed. All work meets insurance-compliant standards, protecting your home and giving you peace of mind.",
+ "window-lock-repair-replacement.local-context-body": "Window lock failures affect Peterborough's varied stock differently depending on property age and tenure. Semi-detached homes in Lynch Wood typically feature standard espagnolette locks on uPVC frames, while older council properties in New Werrington house a mixture of period shootbolt mechanisms and modern replacements. Rental properties across the city experience accelerated wear due to tenant turnover, making window lock repair and replacement a frequent maintenance need.\n\nHistoric properties in the city centre and conservation areas present additional complexity for window lock work. Listed building status often restricts replacement options, requiring repairs that preserve original mechanisms or use sympathetic heritage-approved locks. Conversely, newer estates demand familiarity with contemporary composite door and window frames, where modern locking systems must integrate correctly with different material specifications and frame depths.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks fail so often in Peterborough's older council estates like Millfield and Dogsthorpe?",
+   "a": "Decades of use and tenant turnover in these post-war estates mean espagnolette and shootbolt locks wear faster than in newer properties. We replace failed locks with modern, durable equivalents that handle frequent use and are easier to operate for successive tenants."
+  },
+  {
+   "q": "Do I need specialist knowledge to repair window locks on composite doors in Hampton Vale and Cardea?",
+   "a": "Yes\u2014these modern new-build areas use composite frames and contemporary locking mechanisms that differ from traditional timber windows. Our technicians are trained on these systems and can repair or replace shootbolts and espagnolettes without damaging the frame or invalidating warranties."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Peterborough \u2013 Fast Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Peterborough including wall, floor and freestanding safes. Anchoring, insurance documentation and compliance for listed buildings.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Peterborough from a locksmith specialising in locksmithing ensures your valuables are properly secured. Our technicians handle floor anchoring and wall mounting to AiS approved standards, meeting insurance requirements for new safes. We assess your premises and position units to prevent anti-leverage attacks, guaranteeing Eurograde protection tailored to your cash rating needs.",
+ "safe-installation.local-context-body": "Peterborough's rental and council properties\u2014particularly the semi-detached homes across Millfield and Dogsthorpe\u2014frequently require safe installation to protect tenant deposits, documents, and valuables. High turnover in these areas creates demand for secure, fixed storage that landlords can control independently of occupancy changes. Terraced properties in the city centre also benefit from built-in safes where space and access points are limited.\n\nListed building status and conservation zone restrictions in Peterborough's historic core require safe installers to plan wall and floor anchoring carefully, as structural work needs approval from local heritage officers. Post-war council estates often present concrete block or cavity walls that demand different fixing methods than Victorian brick, affecting installation time and equipment selection. Insurance documentation becomes essential given the range of property ages and ownership structures across the city.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do many Millfield landlords choose safe installation for their rental properties?",
+   "a": "With high tenant turnover common in Millfield's council estates and HMOs, a securely installed safe protects your valuables and documents independently of who occupies the property. Our installation includes full insurance documentation, giving you peace of mind across tenancy changes."
+  },
+  {
+   "q": "Can you install safes in the listed Victorian properties around Peterborough's historic centre?",
+   "a": "Yes\u2014we're experienced with period properties and listed building restrictions in the conservation zone. We'll advise on discreet, compliant anchoring methods that preserve period features while meeting insurance requirements for your safe."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Peterborough \u2013 Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Peterborough: lost keys, combinations, jammed safes. Non-destructive methods for domestic and commercial safes across Lynch Wood, Fengate and beyond.",
+ "safe-opening.hero-paragraph": "Our Peterborough locksmith team specialises in safe opening using advanced locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access without damaging your safe. Fast, reliable service for domestic and commercial clients across the area.",
+ "safe-opening.local-context-body": "Peterborough's stock of rental properties and council estates\u2014particularly in Millfield and post-war areas like Chesterton\u2014frequently generates safe-opening calls when tenants lose combinations or keys to bedroom safes and storage boxes. Terraced and semi-detached homes in these neighborhoods often contain older mechanical safes that lack digital override options, requiring specialist non-destructive techniques to preserve the unit and its contents.\n\nListed buildings and conservation-area properties in Eastgate and around Market Place present additional constraints: damage to period fixtures during safe opening can trigger planning enforcement action, so locksmiths must balance speed with preservation of historic fabric. Many Victorian terraces also feature safes built into original joinery or walls, where access routes are confined and drilling risks adjacent plasterwork or structural elements.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've got a safe locked in my Victorian terrace in the city centre \u2014 can you open it without damaging the door frame?",
+   "a": "Yes. Our non-destructive safe opening techniques are ideal for period properties and listed buildings where damage restrictions apply. We'll recover access to your safe without affecting the original fabric of your home."
+  },
+  {
+   "q": "We're renting a flat in Cardea and lost the combination to the built-in safe \u2014 how quickly can you help?",
+   "a": "We can attend same-day in most cases and open modern composite-door safes without destruction, so you won't face replacement costs or landlord disputes. Call us on 01733 699047 to book."
+  }
+ ],
+ "home.areas-covered": [
+  "Ailsworth",
+  "Ashton",
+  "BGL Park",
+  "Bainton",
+  "Barnack",
+  "Cardea",
+  "Castor",
+  "Deeping Gate",
+  "Dogsthorpe",
+  "Eastfield",
+  "Eastgate",
+  "Etton",
+  "Eye",
+  "Fengate",
+  "Fulbridge",
+  "Glinton",
+  "Gunthorpe",
+  "Hampton",
+  "Hampton Gardens",
+  "Hampton Hargate",
+  "Hampton Vale",
+  "Helpston",
+  "Longthorpe",
+  "Lynch Wood",
+  "Manor Drive",
+  "Marholm",
+  "Maxey",
+  "Millfield",
+  "Netherton",
+  "New England",
+  "New Fletton",
+  "New Werrington",
+  "Newark",
+  "Newborough",
+  "North Bretton",
+  "Northborough",
+  "Old Fletton",
+  "Orton",
+  "Orton Goldhay",
+  "Orton Longueville",
+  "Orton Malborne",
+  "Orton Northgate",
+  "Orton Southgate",
+  "Orton Waterville",
+  "Orton Wistow",
+  "Ortongate Centre",
+  "Parnwell",
+  "Paston",
+  "Peakirk",
+  "Pilsgate",
+  "Ravensthorpe",
+  "South Bretton",
+  "Southorpe",
+  "Stanground",
+  "Sutton",
+  "Thorney",
+  "Thornhaugh",
+  "Ufford",
+  "Upton",
+  "Walton",
+  "Wansford",
+  "Welland",
+  "Werrington Village",
+  "West Town",
+  "Westwood",
+  "Wittering",
+  "Woodston"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Millfield",
+  "Woodston",
+  "Hampton Hargate",
+  "Orton Wistow",
+  "Orton Southgate",
+  "Orton Waterville",
+  "Ortongate Centre",
+  "Parnwell",
+  "Paston"
+ ],
+ "locked-out.areas-covered": [
+  "Hampton",
+  "Orton Northgate",
+  "Netherton",
+  "Westwood",
+  "West Town",
+  "Wittering",
+  "Woodston",
+  "Ailsworth",
+  "Ashton"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Fengate",
+  "Eye",
+  "Helpston",
+  "Paston",
+  "Ortongate Centre",
+  "Ailsworth",
+  "Ashton",
+  "BGL Park",
+  "Bainton"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Bainton",
+  "Manor Drive",
+  "Fulbridge",
+  "Old Fletton",
+  "Cardea",
+  "Etton",
+  "Orton Goldhay",
+  "Deeping Gate",
+  "Dogsthorpe"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Orton Longueville",
+  "Werrington Village",
+  "Hampton Vale",
+  "North Bretton",
+  "Northborough",
+  "Old Fletton",
+  "Orton",
+  "Orton Goldhay",
+  "Orton Malborne"
+ ],
+ "lock-changes.areas-covered": [
+  "Orton Southgate",
+  "Pilsgate",
+  "Ravensthorpe",
+  "South Bretton",
+  "Southorpe",
+  "Stanground",
+  "Sutton",
+  "Thorney",
+  "Thornhaugh"
+ ],
+ "lock-repairs.areas-covered": [
+  "Deeping Gate",
+  "Castor",
+  "New England",
+  "Northborough",
+  "Glinton",
+  "Thornhaugh",
+  "Ufford",
+  "Upton",
+  "Walton"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Lynch Wood",
+  "Orton Malborne",
+  "New Werrington",
+  "Welland",
+  "Fulbridge",
+  "Glinton",
+  "Gunthorpe",
+  "Hampton",
+  "Hampton Gardens"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Hampton Gardens",
+  "Maxey",
+  "Eastfield",
+  "Ufford",
+  "Helpston",
+  "Longthorpe",
+  "Lynch Wood",
+  "Manor Drive",
+  "Marholm"
+ ],
+ "door-repairs.areas-covered": [
+  "Marholm",
+  "Walton",
+  "West Town",
+  "Longthorpe",
+  "Netherton",
+  "New England",
+  "New Fletton",
+  "New Werrington",
+  "Newark"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "South Bretton",
+  "Newark",
+  "Thorney",
+  "Sutton",
+  "Orton",
+  "Parnwell",
+  "Stanground",
+  "Hampton",
+  "Hampton Gardens"
+ ],
+ "safe-installation.areas-covered": [
+  "Ravensthorpe",
+  "Newborough",
+  "Ashton",
+  "Eastgate",
+  "Bainton",
+  "Barnack",
+  "Cardea",
+  "Castor",
+  "Deeping Gate"
+ ],
+ "safe-opening.areas-covered": [
+  "Peakirk",
+  "Upton",
+  "New Fletton",
+  "BGL Park",
+  "Orton Waterville",
+  "Ailsworth",
+  "Gunthorpe",
+  "Dogsthorpe",
+  "Eastgate"
+ ]
 }

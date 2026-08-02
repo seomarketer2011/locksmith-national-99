@@ -1,340 +1,283 @@
 {
-  "meta.title": "Locksmith Loughborough | Local Locksmithing Service 24/7",
-  "meta.description": "Loughborough locksmith offering emergency call-outs, lock repairs, and master-key systems for Victorian terraces, student HMOs, and modern homes.",
-  "home.hero-paragraph": "Loughborough locksmith services specialising in professional locksmithing and expert lock assistance. We handle emergency lockouts, lock changes, and security upgrades for residential and commercial properties. All work is carried out by DBS checked technicians using non-destructive entry methods. Available 24/7 with no call-out fee.",
-  "home.local-context-heading": "Loughborough's Mixed Heritage: Victorian to Modern",
-  "home.local-context-body": "Loughborough's mixed property stock—from Victorian terraces in Quorn to post-war semis in Shelthorpe—creates diverse locksmith demands. Period properties often retain original door furniture and sash-window catches requiring specialist knowledge, while modern infill and suburban expansion mean standard cylinder locks and contemporary hardware are equally common. The range of lock ages and styles across the city means routine maintenance and emergency access calls span heritage-compliant repairs through to current security standards.\n\nUniversity student housing concentration drives particular pressure on HMO conversions, particularly in multi-let properties where master-key systems and consistent access control become necessary. Landlords managing rental stock should verify that any lock modifications or master-keying comply with fire safety regulations and tenancy requirements. Heritage properties need care during upgrades to avoid damaging original joinery or period fittings.",
-  "home.local-faqs": [
-    {
-      "q": "We have a Victorian terrace in Quorn with original sash windows and period locks — can you help without damaging the heritage features?",
-      "a": "Yes, we specialise in period properties across Quorn and Thorpe Acre. We understand heritage-compliant repair and can service original Victorian and Edwardian locks while preserving the character of your timber doors and fittings."
-    },
-    {
-      "q": "Our student HMO in Loughborough needs a master-key system for multiple tenancies — what's involved?",
-      "a": "We install and maintain master-key systems tailored for multi-occupancy rentals, common across university housing in Woodhouse and surrounding areas. This gives you central control while tenants keep individual keys to their rooms."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Loughborough – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Loughborough. Locked out, key snapped, or door won't lock? Fast response to Thorpe Acre, Shelthorpe and across town. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Loughborough combines skilled locksmithing with rapid response times to tackle urgent situations. Whether you're locked out, dealing with a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods whenever possible. Fast, professional help when you need it most.",
-  "emergency-locksmith.local-context-body": "Student lettings across Woodhouse and HMO conversions throughout the city create sustained demand for emergency access callouts, particularly when tenants are locked out of shared properties or master-key systems fail. Semi-detached homes in Dishley and terraced stock in Cotes also generate routine emergency work, where worn cylinder locks and broken handles on period doors require rapid attendance and on-site repair.\n\nMany Victorian and Edwardian properties retain original door furniture and traditional locks that cannot be forced without heritage damage; locksmiths must assess whether listed-building consent applies before attempting entry. Post-war suburban properties present a different challenge—mixed lock standards and varied door construction mean technicians need capability across sash-window catches, modern cylinders, and composite doors, all potentially needed within a single shift.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my student HMO in Woodhouse – how quickly can you arrive?",
-      "a": "We operate 24/7 emergency response across Loughborough, including Woodhouse's high-density student accommodation areas. Most urgent lockouts receive attendance within 30–45 minutes depending on current demand and traffic."
-    },
-    {
-      "q": "My Victorian terraced house in Cotes has a snapped key in an old period lock – can you help?",
-      "a": "Yes – our locksmiths have specialist experience with heritage locks common in Cotes' older stock. We can extract broken keys and repair or replace period-appropriate mechanisms without damaging original door furniture."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Loughborough | Fast 24/7 Help",
-  "locked-out.meta.description": "Locked out in Loughborough? Surelok provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, student rentals & modern homes.",
-  "locked-out.hero-paragraph": "When you're locked out in Loughborough, our experienced locksmith brings expert locksmithing skills to your door. Whether you've lost your keys, left them inside, or your door has slammed shut, we specialise in non-destructive entry techniques that leave your property undamaged. Our rapid response team prioritises damage-free solutions, getting you back inside quickly and professionally.",
-  "locked-out.local-context-body": "Thorpe Acre's Victorian and Edwardian terraces frequently present locked-out situations where period door furniture and original mechanisms require careful, non-destructive handling to preserve heritage value. Nearby Woodhouse, with its dense mix of student HMOs and rental properties, generates routine demand for emergency access when keys are lost or left inside shared accommodation, often involving multiple locks across converted terraced homes.\n\nPeriod properties in the area commonly retain sash windows with traditional catches alongside original mortice locks, meaning non-destructive entry must account for both security and architectural integrity. Modern cylinder locks in post-war suburban properties present fewer heritage constraints, but the variety of lock ages and conditions across Loughborough's mixed housing stock means entry techniques must adapt to each property's specific lock type and condition.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Thorpe Acre—will non-destructive entry damage my period door?",
-      "a": "No. Our locksmiths specialise in heritage-compliant non-destructive entry for Loughborough's period properties, using techniques that preserve original Victorian and Edwardian door furniture and frames. We'll access your home safely without compromising the character of your property."
-    },
-    {
-      "q": "It's late evening and I'm locked out of my student house in Woodhouse—how quickly can you arrive?",
-      "a": "We offer rapid emergency access across university rental areas including Woodhouse. Call 01509 361011 and we'll dispatch a locksmith for fast non-destructive entry, minimising disruption in shared HMO properties."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Loughborough | Victorian Terraces",
-  "broken-key-removal.meta.description": "Broken key removal in Loughborough. Professional extraction from euro cylinders, mortice locks & night latches. Fast non-destructive service for Victorian terraces & modern homes.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Loughborough is a specialised locksmithing and locksmith service requiring precision and expertise. When keys snap or shear within euro cylinders or mortice locks, our technicians employ non-destructive extraction methods using professional-grade probes and key extractor tools. We restore access to your property safely, without causing damage to the lock mechanism itself.",
-  "broken-key-removal.local-context-body": "Woodthorpe's post-war semi-detached and detached homes frequently feature standard cylinder locks prone to breakage under wear, while nearby Thorpe Acre's Victorian terraces present more complex scenarios where keys snap in original mortice locks and night latches that demand careful extraction without damage to heritage fittings. Broken key removal across both areas requires locksmiths to assess lock condition and mechanism type before attempting extraction.\n\nMany period properties in Loughborough's older residential zones fall within conservation areas, meaning replacement locks must match original specifications and materials. Additionally, the prevalence of student HMO conversions in mixed-tenure streets means rapid turnover of tenants and frequent lock changes, increasing the likelihood of damaged cylinders and snapped keys—extraction work often precedes urgent master-key system installation in these properties.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Thorpe Acre often jam keys in their original mortice locks?",
-      "a": "Period mortice locks in Victorian properties use different cylinder tolerances than modern standards, and years of paint buildup or mineral deposits can bind a key mid-turn. We specialise in extracting snapped keys from these heritage locks without damaging the original furniture—essential for conservation-listed terraces."
-    },
-    {
-      "q": "My student HMO in Woodhouse has a broken key stuck in the night latch—can you remove it without replacing the whole lock?",
-      "a": "Yes; we extract broken keys from night latches using specialist tools that preserve the lock body, meaning you avoid a full replacement and the cost of re-keying multiple tenant copies. This is common in Loughborough's high-density student rentals where quick, non-invasive repairs keep downtime minimal."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Loughborough – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Loughborough covering Quorn and surrounding areas. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "When your home has suffered forced entry or damage, our burglar repair locksmiths in Loughborough bring professional locksmithing expertise to restore your security. We specialise in reinforcing damaged doors and installing TS007 anti-snap cylinders to meet insurance requirements. Our BS3621 mortice locks provide the robust protection your property needs after a break-in.",
-  "burglar-repair-service.local-context-body": "Break-ins across Loughborough's mixed housing stock demand rapid, professional reinstatement. Properties in Woodhouse—ranging from Victorian terraces to modern student HMOs—experience varied security failures depending on age and construction. Semi-detached homes in post-war suburbs face different vulnerabilities than period properties, requiring locksmiths to assess both frame integrity and lock mechanism damage quickly and accurately for insurance compliance.\n\nPeriod properties in conservation areas like Thorpe Acre present specific challenges during burglar repair work. Original door furniture and heritage-listed status mean replacements must match existing character while meeting current security standards. Insurance surveyors often require documented evidence that repairs restore pre-incident security levels without compromising architectural integrity—a consideration absent from newer suburban properties but critical for older residential stock across the city.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "My Victorian terrace in Thorpe Acre was broken into. Will your burglar repair service respect the period features of my original door?",
-      "a": "Yes—we specialise in heritage-compliant lock and door repairs for period properties throughout Loughborough. We can source and fit replacement locks that match your Victorian or Edwardian door furniture, then arrange your insurance reinstatement so your home is both secure and authentic."
-    },
-    {
-      "q": "I'm a landlord with student HMOs in Woodhouse. After a break-in, can you repair multiple units quickly and provide documentation for my insurance claim?",
-      "a": "Absolutely. We offer emergency attendance for multi-unit rental properties and provide full photographic evidence and itemised repair reports that satisfy insurance requirements—essential for HMO landlords managing high-turnover properties."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Loughborough – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Loughborough. Same-day secure boarding for smashed doors, windows & HMOs after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Loughborough by our experienced locksmiths combines practical locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises using robust plywood boards and security screws. Our 24/7 service ensures your property is insurance-compliant and protected against further damage or unauthorised entry.",
-  "emergency-boarding-up.local-context-body": "Period properties in Quorn and semi-detached homes across Shelthorpe frequently require emergency boarding up following break-ins or storm damage. Victorian and Edwardian terraces in particular present access challenges due to original timber door frames and sash-window construction, while post-war suburban properties demand rapid response to modern glazing and frame systems. The mixed age of Loughborough's housing stock means boarding specialists encounter varying door materials and structural conditions on successive call-outs.\n\nMany period properties in conservation areas carry listed-building restrictions that limit boarding methods; temporary covers must avoid damaging original joinery or heritage features. Student HMO properties, concentrated across the city, often require landlord notification and coordination with multiple occupants, adding logistical complexity. Standard timber boarding dimensions may not suit Victorian window openings, necessitating custom-cut solutions on-site.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up sash windows in Victorian properties like those in Thorpe Acre after break-ins?",
-      "a": "Yes. Many Victorian terraces in Thorpe Acre have original sash windows that need careful boarding to preserve the frame and glazing bars. We use heritage-compatible materials and can make your window secure within the hour while minimising damage to period features."
-    },
-    {
-      "q": "Can you board up student HMO properties quickly if there's a break-in or storm damage in Woodhouse?",
-      "a": "Absolutely. We understand the urgency of securing multi-occupancy student properties, especially in high-demand areas like Woodhouse. We're available 24/7 for emergency boarding and can secure multiple entry points—doors, windows, or both—to keep the property safe until permanent repairs are arranged."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Loughborough | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Loughborough for moving home, lost keys & security. Serving Victorian terraces, student HMOs & modern properties. Fast professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Loughborough by our experienced locksmith team combine expert locksmithing with modern security solutions. Whether you're moving home, changing tenancy, or upgrading security, we fit TS007 anti-snap cylinders and BS3621 mortice locks to protect your property. Our technicians ensure every installation meets current standards and your specific needs.",
-  "lock-changes.local-context-body": "In Dishley's post-war semi-detached homes and across Cotes' mixed Victorian and later stock, lock changes after house moves or key loss are routine. The variety of property ages means incoming residents often replace worn cylinders inherited from previous tenants, particularly in older terraced properties where original hardware may no longer meet modern security expectations.\n\nMany period properties throughout Loughborough retain original Victorian and Edwardian door furniture that requires specialist handling during lock replacement. Heritage-listed buildings in particular demand compliance with conservation standards, while HMO conversions—common across university rental areas—typically require master-key systems and standardised cylinders to BS 3621 for landlord insurance purposes.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved into a Victorian terrace in Thorpe Acre—do I need specialist lock replacement?",
-      "a": "Victorian and Edwardian properties often have period-specific door furniture and heritage locks that require careful handling. We can replace them with modern, compatible cylinders while respecting the original aesthetic, or upgrade to contemporary security standards if you prefer."
-    },
-    {
-      "q": "We're converting our Cotes property into student HMO lets—what's the best approach for lock changes?",
-      "a": "Student rentals benefit from master-key systems and standardised cylinder locks across multiple units for efficient access control. We'll replace existing locks with a coordinated scheme suited to shared accommodation and provide you with a master-key setup that simplifies tenant changeovers."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Loughborough | Victorian & Modern Locks",
-  "lock-repairs.meta.description": "Expert lock repairs in Loughborough—multipoint, mortice & night latches. Victorian terraces to modern HMOs. 24/7 emergency service available.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Loughborough from a specialist locksmith practising modern locksmithing techniques. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair the problem efficiently. We handle mortice maintenance and multipoint servicing to restore smooth operation, backed by manufacturer warranty on all work completed.",
-  "lock-repairs.local-context-body": "Loughborough's mixed housing stock—from Victorian terraces in Thorpe Acre to post-war semis across Woodthorpe—creates varied lock repair demands. Multipoint locks on modern doors sit alongside original mortice and night-latch mechanisms in period properties, requiring locksmiths to diagnose and repair gearbox failures and cylinder wear across different standards and ages.\n\nMany period properties retain heritage-listed status, meaning lock repairs must preserve original door furniture and comply with conservation guidelines. HMO conversions near the university have also standardized master-key and multipoint systems across multiple rental properties, where timely repair prevents tenant access issues and landlord liability.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian locks in Quorn need specialist repair rather than replacement?",
-      "a": "Many period properties in Quorn retain original Victorian and Edwardian mortice and night-latch mechanisms that are integral to the character of heritage doors. Our locksmiths specialise in repairing these gearbox and mortice locks to modern standards while preserving their aesthetic, rather than forcing unsuitable modern cylinders into period frames."
-    },
-    {
-      "q": "How do you handle multipoint lock repairs on student HMO properties in Woodhouse?",
-      "a": "Student rentals across Woodhouse demand rapid, reliable multipoint lock repairs—often on multiple units with different lock ages and standards. We carry parts for common failures and provide fast turnaround to minimise tenant downtime and comply with landlord access requirements."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Loughborough – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Loughborough: BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Serving Victorian terraces, student HMOs, and modern homes.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Loughborough by our experienced locksmith combines modern locksmithing expertise with proven security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware, or meeting insurance requirements, our technicians install locks to BS3621 specification. We ensure your property receives the security it deserves.",
-  "door-lock-installation.local-context-body": "Stanford on Soar's interwar semi-detached homes and the terraced properties throughout Thorpe Acre represent Loughborough's diverse lock-installation demand. Newer builds often require standard BS3621 mortice locks and TS007 anti-snap cylinders as baseline security, while older properties may need assessment for suitability before fitting, particularly where original door frames or heritage ironwork is present.\n\nMany period properties in conservation areas carry listed-building restrictions that affect lock choice and installation method. HMO conversions across Woodhouse frequently require multipoint locks on communal doors and master-key systems across multiple units, adding complexity to specification and fitting logistics. Mixed door construction—from solid timber in Victorian terraces to modern composite materials—demands varying installation techniques and hardware compatibility checks.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Thorpe Acre with original period locks – can you fit a modern BS3621 mortice lock without damaging the door?",
-      "a": "Yes. We specialise in installing BS3621 mortice locks in period properties across Thorpe Acre while respecting heritage character. We assess your original door furniture and use sympathetic fitting techniques to maintain conservation value while upgrading security."
-    },
-    {
-      "q": "We're converting our semi-detached in Shelthorpe to student HMO use – what's the best lock setup for multiple tenants?",
-      "a": "We recommend TS007 anti-snap cylinders paired with BS3621 mortice locks on external doors, plus a master-key system for landlord access. This gives you tenant security, burglary resistance, and management control across your property."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Loughborough | Victorian & Modern",
-  "door-lock-replacement.meta.description": "Door lock replacement in Loughborough for Victorian terraces, student HMOs and modern homes. Expert swaps and security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Loughborough locksmith specialises in door lock replacement and locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift, professional service. Our technicians perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property receives maximum security.",
-  "door-lock-replacement.local-context-body": "Loughborough's Victorian and Edwardian terraces in Quorn frequently retain original period locks and timber doors, where like-for-like replacement must respect heritage character while meeting modern security standards. Conversely, post-war semi-detached properties in Shelthorpe and student HMO conversions across the city typically require straightforward cylinder lock upgrades to current BS 3621 standards, reflecting both the age of the housing stock and rental tenancy turnovers.\n\nMany period properties in conservation areas require replacement locks that match or complement original door furniture styles and materials, necessitating specialist sourcing and careful installation to avoid damage to period woodwork. Student HMO properties often demand rapid turnaround on lock changes between tenancies, while mixed-age suburban properties present varied door constructions—from solid timber to modern composite—each requiring different fitting approaches and lock specifications.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Quorn with an original period lock that's worn out—can you replace it without damaging the door?",
-      "a": "Yes. Our locksmiths specialise in heritage-compliant replacements for period properties across Quorn and Thorpe Acre, matching or restoring original aesthetics while upgrading security. We assess timber doors and period furniture before recommending like-for-like or sympathetic upgrades."
-    },
-    {
-      "q": "We're a student HMO in Loughborough needing to replace multiple worn locks across different rooms—how long does this take?",
-      "a": "For multi-lock replacements in HMOs, we typically work room-by-room and can fit master-key or keyed-alike systems to simplify tenant access and management. A full property usually takes one visit; contact us on 01509 361011 for a survey and quote."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Loughborough | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Loughborough including Victorian terraces in Thorpe Acre. uPVC alignment, composite doors, handles and hardware fixes.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Loughborough by our experienced locksmith team specialising in locksmithing excellence. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the root cause. Our technicians handle hinge adjustment, frame alignment and multipoint realignment to restore your door's function and security.",
-  "door-repairs.local-context-body": "Historic terraces in Quorn feature timber frames and period door furniture that frequently require specialist realignment when settlement occurs or hinges wear. Similarly, semi-detached homes across Normanton on Soar—many built in the interwar period—experience dropped doors and misaligned frames typical of their age and construction standards. Modern infill properties and student accommodation add demand for quick-turnaround repairs on contemporary doors with standard cylinder locks and hardware.\n\nMany period properties in Quorn retain original wooden doors and heritage-listed status, meaning repairs must preserve authentic materials and comply with conservation guidelines rather than replacing with modern alternatives. Post-war suburban stock in Dishley and beyond often presents mixed door ages and lock standards within single streets, requiring technicians to diagnose and repair both traditional latches and modern mechanisms without assuming uniform specifications across the area.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian doors in Thorpe Acre and Quorn need specialist repair?",
-      "a": "Period properties in these areas often have original Victorian and Edwardian door frames and hardware that require sympathetic repair to maintain their heritage character. Our locksmiths have the knowledge to fix dropped or misaligned doors without compromising period details or listing compliance."
-    },
-    {
-      "q": "What door repairs do you handle for student HMOs in Woodhouse?",
-      "a": "Student rentals in Woodhouse experience high wear on shared doors and access points. We repair dropped doors, misaligned frames, and damaged hardware quickly—essential when multiple occupants rely on reliable access and landlords need rapid turnaround."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Loughborough HMO",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Loughborough. Espagnolette & shootbolt locks fixed on period Victorian timber & modern uPVC windows across Quorn & Shelthorpe.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Loughborough by our experienced locksmith combines modern locksmithing techniques with reliable solutions. Whether you're dealing with windows that won't lock or broken handles, we address espagnolette mechanisms and shootbolt locks with precision. All work meets insurance-compliant fitting standards, ensuring your home security is restored to the highest specification.",
-  "window-lock-repair-replacement.local-context-body": "Thorpe Acre's Victorian and Edwardian villas retain original timber sash windows fitted with period espagnolette and shootbolt locks that require careful handling during repair. Across Shelthorpe's post-war semi-detached homes, window lock failures are common due to age and wear on modern cylinder mechanisms. Both property types benefit from prompt replacement to maintain security and weather-tightness.\n\nMany period properties in Thorpe Acre fall within conservation areas, meaning window lock repairs must preserve original hardware where possible or use sympathetic replacements that match existing door and window furniture. Student HMO conversions across the city often involve multi-occupancy properties where window security standards are checked during tenancy changes, making reliable shootbolt and espagnolette function a practical requirement for landlord compliance and tenant safety.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Thorpe Acre need specialist window lock repair?",
-      "a": "Many period properties in Thorpe Acre retain original Victorian and Edwardian espagnolette and shootbolt mechanisms that require specialist knowledge to repair without damaging heritage features. Surelok can service or replace these locks while maintaining the character of your period home."
-    },
-    {
-      "q": "My student HMO in Woodhouse has multiple window locks failing—can you help with bulk replacement?",
-      "a": "Yes. High turnover in student rentals across Woodhouse means we regularly handle emergency window lock repairs and replacements on multi-occupancy properties. We can fit modern, robust cylinder locks across all windows and provide master-key or keyed-alike systems for landlord access."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Loughborough | Victorian & Modern Homes",
-  "safe-installation.meta.description": "Professional safe installation in Loughborough. Wall, floor and freestanding safes with secure anchoring, insurance compliance. Serving Quorn and surrounding areas.",
-  "safe-installation.hero-paragraph": "Professional safe installation from our Loughborough locksmith team combines expert locksmithing with secure positioning tailored to your needs. Whether you're installing a new safe for insurance approval or require floor anchoring and wall mounting to Eurograde standards, our technicians ensure proper anti-leverage positioning. We assess your specific requirements to deliver installations that meet cash ratings and AiS approval where necessary.",
-  "safe-installation.local-context-body": "Loughborough's student rental properties in Woodhouse and the older terraces of Cotes create distinct safe-installation challenges. HMO conversions and multi-occupancy lets require secure storage solutions that comply with landlord insurance requirements, while period properties demand careful positioning to avoid structural compromise or heritage damage. Safe anchoring in Victorian brick and post-war block construction requires different fixing strategies.\n\nMany properties across the city retain original timber joists and period walls that limit floor-mounting options. Listed-building status in heritage areas of Cotes and surrounding terraces may require conservation-compliant installation methods and pre-work approval. Insurance documentation and proper certification of anchoring depth and load-bearing capacity are essential to protect both contents and property value in this mixed-era housing market.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "We're converting our Woodhouse terraced house into student HMO lets – do we need safes for tenant deposits or landlord documentation?",
-      "a": "Yes, many HMO landlords in Woodhouse use wall-mounted safes to secure deposit paperwork, tenancy agreements, and master-key records on-site. We install insurance-compliant safes with proper anchoring and provide the documentation needed for your lettings compliance and insurer."
-    },
-    {
-      "q": "Our Victorian terraced home in Thorpe Acre has solid brick walls – will that affect safe installation?",
-      "a": "Victorian brick in Thorpe Acre is ideal for safe anchoring; we assess wall depth and internal structure to ensure secure installation without compromising period features. We'll discuss heritage-appropriate placement and provide full installation certification for your insurer."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Loughborough – Fast, Trusted Local Service",
-  "safe-opening.meta.description": "Safe opening in Loughborough for lost keys, combinations & lockouts. Non-destructive methods for domestic, commercial & HMO safes. Expert service.",
-  "safe-opening.hero-paragraph": "Our Loughborough locksmith team specialises in safe opening through advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, our technicians employ precision dial manipulation to regain access without damaging your safe. Fast, professional solutions for domestic and commercial safes across Loughborough.",
-  "safe-opening.local-context-body": "Post-war suburban expansion in Shelthorpe has brought numerous semi-detached and flat conversions, many containing safes installed during property renovations or left by previous occupants. Safe Opening demand in these areas typically involves lost combinations or misplaced keys following house moves, with locksmiths requiring non-destructive techniques to preserve both the safe and surrounding fixtures.\n\nPeriod properties across Quorn and surrounding areas often feature heritage safes fitted into timber-framed walls or built into original joinery. Listed-building considerations may apply to safe removal or access work, requiring locksmiths to verify structural integrity and conservation status before proceeding. High student HMO turnover in rental properties also generates urgent safe-access calls where tenant records or previous landlord documentation have been lost.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm a landlord with student HMO properties in Woodhouse—what should I do if a tenant loses the master-key combination to our communal safe?",
-      "a": "Contact Surelok for non-destructive safe opening; we can recover access without damage, crucial for HMOs where multiple tenants depend on shared storage. Our service preserves the safe's integrity and avoids costly replacement during the academic year."
-    },
-    {
-      "q": "We have a Victorian terraced property in Thorpe Acre with an old wall safe—can you open it if we've lost the key?",
-      "a": "Yes; our locksmiths specialise in period safes common in Victorian and Edwardian homes across Loughborough. We use non-destructive techniques to respect original fixtures while restoring access to your valuables."
-    }
-  ],
-  "home.areas-covered": [
-    "Cotes",
-    "Dishley",
-    "Normanton on Soar",
-    "Quorn",
-    "Shelthorpe",
-    "Stanford on Soar",
-    "Thorpe Acre",
-    "Woodhouse",
-    "Woodthorpe"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Woodthorpe",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodhouse"
-  ],
-  "locked-out.areas-covered": [
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Dishley",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Thorpe Acre",
-    "Normanton on Soar",
-    "Cotes",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Quorn",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe"
-  ],
-  "lock-changes.areas-covered": [
-    "Shelthorpe",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "lock-repairs.areas-covered": [
-    "Cotes",
-    "Normanton on Soar",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Woodhouse",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Stanford on Soar",
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "door-repairs.areas-covered": [
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "safe-installation.areas-covered": [
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ],
-  "safe-opening.areas-covered": [
-    "Normanton on Soar",
-    "Cotes",
-    "Thorpe Acre",
-    "Dishley",
-    "Stanford on Soar",
-    "Shelthorpe",
-    "Woodthorpe",
-    "Woodhouse"
-  ]
+ "meta.title": "Locksmith Loughborough | Local Locksmithing Service 24/7",
+ "meta.description": "Loughborough locksmith offering emergency call-outs, lock repairs, and master-key systems for Victorian terraces, student HMOs, and modern homes.",
+ "home.hero-paragraph": "Loughborough locksmith services specialising in professional locksmithing and expert lock assistance. We handle emergency lockouts, lock changes, and security upgrades for residential and commercial properties. All work is carried out by DBS checked technicians using non-destructive entry methods. Available 24/7 with no call-out fee.",
+ "home.local-context-heading": "Loughborough's Mixed Heritage: Victorian to Modern",
+ "home.local-context-body": "Loughborough's mixed property stock\u2014from Victorian terraces in Quorn to post-war semis in Shelthorpe\u2014creates diverse locksmith demands. Period properties often retain original door furniture and sash-window catches requiring specialist knowledge, while modern infill and suburban expansion mean standard cylinder locks and contemporary hardware are equally common. The range of lock ages and styles across the city means routine maintenance and emergency access calls span heritage-compliant repairs through to current security standards.\n\nUniversity student housing concentration drives particular pressure on HMO conversions, particularly in multi-let properties where master-key systems and consistent access control become necessary. Landlords managing rental stock should verify that any lock modifications or master-keying comply with fire safety regulations and tenancy requirements. Heritage properties need care during upgrades to avoid damaging original joinery or period fittings.",
+ "home.local-faqs": [
+  {
+   "q": "We have a Victorian terrace in Quorn with original sash windows and period locks \u2014 can you help without damaging the heritage features?",
+   "a": "Yes, we specialise in period properties across Quorn and Thorpe Acre. We understand heritage-compliant repair and can service original Victorian and Edwardian locks while preserving the character of your timber doors and fittings."
+  },
+  {
+   "q": "Our student HMO in Loughborough needs a master-key system for multiple tenancies \u2014 what's involved?",
+   "a": "We install and maintain master-key systems tailored for multi-occupancy rentals, common across university housing in Woodhouse and surrounding areas. This gives you central control while tenants keep individual keys to their rooms."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Loughborough \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Loughborough. Locked out, key snapped, or door won't lock? Fast response to Thorpe Acre, Shelthorpe and across town. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Loughborough combines skilled locksmithing with rapid response times to tackle urgent situations. Whether you're locked out, dealing with a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods whenever possible. Fast, professional help when you need it most.",
+ "emergency-locksmith.local-context-body": "Student lettings across Woodhouse and HMO conversions throughout the city create sustained demand for emergency access callouts, particularly when tenants are locked out of shared properties or master-key systems fail. Semi-detached homes in Dishley and terraced stock in Cotes also generate routine emergency work, where worn cylinder locks and broken handles on period doors require rapid attendance and on-site repair.\n\nMany Victorian and Edwardian properties retain original door furniture and traditional locks that cannot be forced without heritage damage; locksmiths must assess whether listed-building consent applies before attempting entry. Post-war suburban properties present a different challenge\u2014mixed lock standards and varied door construction mean technicians need capability across sash-window catches, modern cylinders, and composite doors, all potentially needed within a single shift.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my student HMO in Woodhouse \u2013 how quickly can you arrive?",
+   "a": "We operate 24/7 emergency response across Loughborough, including Woodhouse's high-density student accommodation areas. Most urgent lockouts receive attendance within 30\u201345 minutes depending on current demand and traffic."
+  },
+  {
+   "q": "My Victorian terraced house in Cotes has a snapped key in an old period lock \u2013 can you help?",
+   "a": "Yes \u2013 our locksmiths have specialist experience with heritage locks common in Cotes' older stock. We can extract broken keys and repair or replace period-appropriate mechanisms without damaging original door furniture."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Loughborough | Fast 24/7 Help",
+ "locked-out.meta.description": "Locked out in Loughborough? Surelok provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, student rentals & modern homes.",
+ "locked-out.hero-paragraph": "When you're locked out in Loughborough, our experienced locksmith brings expert locksmithing skills to your door. Whether you've lost your keys, left them inside, or your door has slammed shut, we specialise in non-destructive entry techniques that leave your property undamaged. Our rapid response team prioritises damage-free solutions, getting you back inside quickly and professionally.",
+ "locked-out.local-context-body": "Thorpe Acre's Victorian and Edwardian terraces frequently present locked-out situations where period door furniture and original mechanisms require careful, non-destructive handling to preserve heritage value. Nearby Woodhouse, with its dense mix of student HMOs and rental properties, generates routine demand for emergency access when keys are lost or left inside shared accommodation, often involving multiple locks across converted terraced homes.\n\nPeriod properties in the area commonly retain sash windows with traditional catches alongside original mortice locks, meaning non-destructive entry must account for both security and architectural integrity. Modern cylinder locks in post-war suburban properties present fewer heritage constraints, but the variety of lock ages and conditions across Loughborough's mixed housing stock means entry techniques must adapt to each property's specific lock type and condition.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Thorpe Acre\u2014will non-destructive entry damage my period door?",
+   "a": "No. Our locksmiths specialise in heritage-compliant non-destructive entry for Loughborough's period properties, using techniques that preserve original Victorian and Edwardian door furniture and frames. We'll access your home safely without compromising the character of your property."
+  },
+  {
+   "q": "It's late evening and I'm locked out of my student house in Woodhouse\u2014how quickly can you arrive?",
+   "a": "We offer rapid emergency access across university rental areas including Woodhouse. Call 01509 361011 and we'll dispatch a locksmith for fast non-destructive entry, minimising disruption in shared HMO properties."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Loughborough | Victorian Terraces",
+ "broken-key-removal.meta.description": "Broken key removal in Loughborough. Professional extraction from euro cylinders, mortice locks & night latches. Fast non-destructive service for Victorian terraces & modern homes.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Loughborough is a specialised locksmithing and locksmith service requiring precision and expertise. When keys snap or shear within euro cylinders or mortice locks, our technicians employ non-destructive extraction methods using professional-grade probes and key extractor tools. We restore access to your property safely, without causing damage to the lock mechanism itself.",
+ "broken-key-removal.local-context-body": "Woodthorpe's post-war semi-detached and detached homes frequently feature standard cylinder locks prone to breakage under wear, while nearby Thorpe Acre's Victorian terraces present more complex scenarios where keys snap in original mortice locks and night latches that demand careful extraction without damage to heritage fittings. Broken key removal across both areas requires locksmiths to assess lock condition and mechanism type before attempting extraction.\n\nMany period properties in Loughborough's older residential zones fall within conservation areas, meaning replacement locks must match original specifications and materials. Additionally, the prevalence of student HMO conversions in mixed-tenure streets means rapid turnover of tenants and frequent lock changes, increasing the likelihood of damaged cylinders and snapped keys\u2014extraction work often precedes urgent master-key system installation in these properties.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Thorpe Acre often jam keys in their original mortice locks?",
+   "a": "Period mortice locks in Victorian properties use different cylinder tolerances than modern standards, and years of paint buildup or mineral deposits can bind a key mid-turn. We specialise in extracting snapped keys from these heritage locks without damaging the original furniture\u2014essential for conservation-listed terraces."
+  },
+  {
+   "q": "My student HMO in Woodhouse has a broken key stuck in the night latch\u2014can you remove it without replacing the whole lock?",
+   "a": "Yes; we extract broken keys from night latches using specialist tools that preserve the lock body, meaning you avoid a full replacement and the cost of re-keying multiple tenant copies. This is common in Loughborough's high-density student rentals where quick, non-invasive repairs keep downtime minimal."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Loughborough \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Loughborough covering Quorn and surrounding areas. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "When your home has suffered forced entry or damage, our burglar repair locksmiths in Loughborough bring professional locksmithing expertise to restore your security. We specialise in reinforcing damaged doors and installing TS007 anti-snap cylinders to meet insurance requirements. Our BS3621 mortice locks provide the robust protection your property needs after a break-in.",
+ "burglar-repair-service.local-context-body": "Break-ins across Loughborough's mixed housing stock demand rapid, professional reinstatement. Properties in Woodhouse\u2014ranging from Victorian terraces to modern student HMOs\u2014experience varied security failures depending on age and construction. Semi-detached homes in post-war suburbs face different vulnerabilities than period properties, requiring locksmiths to assess both frame integrity and lock mechanism damage quickly and accurately for insurance compliance.\n\nPeriod properties in conservation areas like Thorpe Acre present specific challenges during burglar repair work. Original door furniture and heritage-listed status mean replacements must match existing character while meeting current security standards. Insurance surveyors often require documented evidence that repairs restore pre-incident security levels without compromising architectural integrity\u2014a consideration absent from newer suburban properties but critical for older residential stock across the city.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "My Victorian terrace in Thorpe Acre was broken into. Will your burglar repair service respect the period features of my original door?",
+   "a": "Yes\u2014we specialise in heritage-compliant lock and door repairs for period properties throughout Loughborough. We can source and fit replacement locks that match your Victorian or Edwardian door furniture, then arrange your insurance reinstatement so your home is both secure and authentic."
+  },
+  {
+   "q": "I'm a landlord with student HMOs in Woodhouse. After a break-in, can you repair multiple units quickly and provide documentation for my insurance claim?",
+   "a": "Absolutely. We offer emergency attendance for multi-unit rental properties and provide full photographic evidence and itemised repair reports that satisfy insurance requirements\u2014essential for HMO landlords managing high-turnover properties."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Loughborough \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Loughborough. Same-day secure boarding for smashed doors, windows & HMOs after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Loughborough by our experienced locksmiths combines practical locksmithing with rapid property protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises using robust plywood boards and security screws. Our 24/7 service ensures your property is insurance-compliant and protected against further damage or unauthorised entry.",
+ "emergency-boarding-up.local-context-body": "Period properties in Quorn and semi-detached homes across Shelthorpe frequently require emergency boarding up following break-ins or storm damage. Victorian and Edwardian terraces in particular present access challenges due to original timber door frames and sash-window construction, while post-war suburban properties demand rapid response to modern glazing and frame systems. The mixed age of Loughborough's housing stock means boarding specialists encounter varying door materials and structural conditions on successive call-outs.\n\nMany period properties in conservation areas carry listed-building restrictions that limit boarding methods; temporary covers must avoid damaging original joinery or heritage features. Student HMO properties, concentrated across the city, often require landlord notification and coordination with multiple occupants, adding logistical complexity. Standard timber boarding dimensions may not suit Victorian window openings, necessitating custom-cut solutions on-site.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up sash windows in Victorian properties like those in Thorpe Acre after break-ins?",
+   "a": "Yes. Many Victorian terraces in Thorpe Acre have original sash windows that need careful boarding to preserve the frame and glazing bars. We use heritage-compatible materials and can make your window secure within the hour while minimising damage to period features."
+  },
+  {
+   "q": "Can you board up student HMO properties quickly if there's a break-in or storm damage in Woodhouse?",
+   "a": "Absolutely. We understand the urgency of securing multi-occupancy student properties, especially in high-demand areas like Woodhouse. We're available 24/7 for emergency boarding and can secure multiple entry points\u2014doors, windows, or both\u2014to keep the property safe until permanent repairs are arranged."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Loughborough | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Loughborough for moving home, lost keys & security. Serving Victorian terraces, student HMOs & modern properties. Fast professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Loughborough by our experienced locksmith team combine expert locksmithing with modern security solutions. Whether you're moving home, changing tenancy, or upgrading security, we fit TS007 anti-snap cylinders and BS3621 mortice locks to protect your property. Our technicians ensure every installation meets current standards and your specific needs.",
+ "lock-changes.local-context-body": "In Dishley's post-war semi-detached homes and across Cotes' mixed Victorian and later stock, lock changes after house moves or key loss are routine. The variety of property ages means incoming residents often replace worn cylinders inherited from previous tenants, particularly in older terraced properties where original hardware may no longer meet modern security expectations.\n\nMany period properties throughout Loughborough retain original Victorian and Edwardian door furniture that requires specialist handling during lock replacement. Heritage-listed buildings in particular demand compliance with conservation standards, while HMO conversions\u2014common across university rental areas\u2014typically require master-key systems and standardised cylinders to BS 3621 for landlord insurance purposes.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved into a Victorian terrace in Thorpe Acre\u2014do I need specialist lock replacement?",
+   "a": "Victorian and Edwardian properties often have period-specific door furniture and heritage locks that require careful handling. We can replace them with modern, compatible cylinders while respecting the original aesthetic, or upgrade to contemporary security standards if you prefer."
+  },
+  {
+   "q": "We're converting our Cotes property into student HMO lets\u2014what's the best approach for lock changes?",
+   "a": "Student rentals benefit from master-key systems and standardised cylinder locks across multiple units for efficient access control. We'll replace existing locks with a coordinated scheme suited to shared accommodation and provide you with a master-key setup that simplifies tenant changeovers."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Loughborough | Victorian & Modern Locks",
+ "lock-repairs.meta.description": "Expert lock repairs in Loughborough\u2014multipoint, mortice & night latches. Victorian terraces to modern HMOs. 24/7 emergency service available.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Loughborough from a specialist locksmith practising modern locksmithing techniques. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair the problem efficiently. We handle mortice maintenance and multipoint servicing to restore smooth operation, backed by manufacturer warranty on all work completed.",
+ "lock-repairs.local-context-body": "Loughborough's mixed housing stock\u2014from Victorian terraces in Thorpe Acre to post-war semis across Woodthorpe\u2014creates varied lock repair demands. Multipoint locks on modern doors sit alongside original mortice and night-latch mechanisms in period properties, requiring locksmiths to diagnose and repair gearbox failures and cylinder wear across different standards and ages.\n\nMany period properties retain heritage-listed status, meaning lock repairs must preserve original door furniture and comply with conservation guidelines. HMO conversions near the university have also standardized master-key and multipoint systems across multiple rental properties, where timely repair prevents tenant access issues and landlord liability.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian locks in Quorn need specialist repair rather than replacement?",
+   "a": "Many period properties in Quorn retain original Victorian and Edwardian mortice and night-latch mechanisms that are integral to the character of heritage doors. Our locksmiths specialise in repairing these gearbox and mortice locks to modern standards while preserving their aesthetic, rather than forcing unsuitable modern cylinders into period frames."
+  },
+  {
+   "q": "How do you handle multipoint lock repairs on student HMO properties in Woodhouse?",
+   "a": "Student rentals across Woodhouse demand rapid, reliable multipoint lock repairs\u2014often on multiple units with different lock ages and standards. We carry parts for common failures and provide fast turnaround to minimise tenant downtime and comply with landlord access requirements."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Loughborough \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Loughborough: BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Serving Victorian terraces, student HMOs, and modern homes.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Loughborough by our experienced locksmith combines modern locksmithing expertise with proven security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware, or meeting insurance requirements, our technicians install locks to BS3621 specification. We ensure your property receives the security it deserves.",
+ "door-lock-installation.local-context-body": "Stanford on Soar's interwar semi-detached homes and the terraced properties throughout Thorpe Acre represent Loughborough's diverse lock-installation demand. Newer builds often require standard BS3621 mortice locks and TS007 anti-snap cylinders as baseline security, while older properties may need assessment for suitability before fitting, particularly where original door frames or heritage ironwork is present.\n\nMany period properties in conservation areas carry listed-building restrictions that affect lock choice and installation method. HMO conversions across Woodhouse frequently require multipoint locks on communal doors and master-key systems across multiple units, adding complexity to specification and fitting logistics. Mixed door construction\u2014from solid timber in Victorian terraces to modern composite materials\u2014demands varying installation techniques and hardware compatibility checks.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Thorpe Acre with original period locks \u2013 can you fit a modern BS3621 mortice lock without damaging the door?",
+   "a": "Yes. We specialise in installing BS3621 mortice locks in period properties across Thorpe Acre while respecting heritage character. We assess your original door furniture and use sympathetic fitting techniques to maintain conservation value while upgrading security."
+  },
+  {
+   "q": "We're converting our semi-detached in Shelthorpe to student HMO use \u2013 what's the best lock setup for multiple tenants?",
+   "a": "We recommend TS007 anti-snap cylinders paired with BS3621 mortice locks on external doors, plus a master-key system for landlord access. This gives you tenant security, burglary resistance, and management control across your property."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Loughborough | Victorian & Modern",
+ "door-lock-replacement.meta.description": "Door lock replacement in Loughborough for Victorian terraces, student HMOs and modern homes. Expert swaps and security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Loughborough locksmith specialises in door lock replacement and locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift, professional service. Our technicians perform like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property receives maximum security.",
+ "door-lock-replacement.local-context-body": "Loughborough's Victorian and Edwardian terraces in Quorn frequently retain original period locks and timber doors, where like-for-like replacement must respect heritage character while meeting modern security standards. Conversely, post-war semi-detached properties in Shelthorpe and student HMO conversions across the city typically require straightforward cylinder lock upgrades to current BS 3621 standards, reflecting both the age of the housing stock and rental tenancy turnovers.\n\nMany period properties in conservation areas require replacement locks that match or complement original door furniture styles and materials, necessitating specialist sourcing and careful installation to avoid damage to period woodwork. Student HMO properties often demand rapid turnaround on lock changes between tenancies, while mixed-age suburban properties present varied door constructions\u2014from solid timber to modern composite\u2014each requiring different fitting approaches and lock specifications.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Quorn with an original period lock that's worn out\u2014can you replace it without damaging the door?",
+   "a": "Yes. Our locksmiths specialise in heritage-compliant replacements for period properties across Quorn and Thorpe Acre, matching or restoring original aesthetics while upgrading security. We assess timber doors and period furniture before recommending like-for-like or sympathetic upgrades."
+  },
+  {
+   "q": "We're a student HMO in Loughborough needing to replace multiple worn locks across different rooms\u2014how long does this take?",
+   "a": "For multi-lock replacements in HMOs, we typically work room-by-room and can fit master-key or keyed-alike systems to simplify tenant access and management. A full property usually takes one visit; contact us on 01509 361011 for a survey and quote."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Loughborough | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Loughborough including Victorian terraces in Thorpe Acre. uPVC alignment, composite doors, handles and hardware fixes.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Loughborough by our experienced locksmith team specialising in locksmithing excellence. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the root cause. Our technicians handle hinge adjustment, frame alignment and multipoint realignment to restore your door's function and security.",
+ "door-repairs.local-context-body": "Historic terraces in Quorn feature timber frames and period door furniture that frequently require specialist realignment when settlement occurs or hinges wear. Similarly, semi-detached homes across Normanton on Soar\u2014many built in the interwar period\u2014experience dropped doors and misaligned frames typical of their age and construction standards. Modern infill properties and student accommodation add demand for quick-turnaround repairs on contemporary doors with standard cylinder locks and hardware.\n\nMany period properties in Quorn retain original wooden doors and heritage-listed status, meaning repairs must preserve authentic materials and comply with conservation guidelines rather than replacing with modern alternatives. Post-war suburban stock in Dishley and beyond often presents mixed door ages and lock standards within single streets, requiring technicians to diagnose and repair both traditional latches and modern mechanisms without assuming uniform specifications across the area.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian doors in Thorpe Acre and Quorn need specialist repair?",
+   "a": "Period properties in these areas often have original Victorian and Edwardian door frames and hardware that require sympathetic repair to maintain their heritage character. Our locksmiths have the knowledge to fix dropped or misaligned doors without compromising period details or listing compliance."
+  },
+  {
+   "q": "What door repairs do you handle for student HMOs in Woodhouse?",
+   "a": "Student rentals in Woodhouse experience high wear on shared doors and access points. We repair dropped doors, misaligned frames, and damaged hardware quickly\u2014essential when multiple occupants rely on reliable access and landlords need rapid turnaround."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Loughborough HMO",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Loughborough. Espagnolette & shootbolt locks fixed on period Victorian timber & modern uPVC windows across Quorn & Shelthorpe.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Loughborough by our experienced locksmith combines modern locksmithing techniques with reliable solutions. Whether you're dealing with windows that won't lock or broken handles, we address espagnolette mechanisms and shootbolt locks with precision. All work meets insurance-compliant fitting standards, ensuring your home security is restored to the highest specification.",
+ "window-lock-repair-replacement.local-context-body": "Thorpe Acre's Victorian and Edwardian villas retain original timber sash windows fitted with period espagnolette and shootbolt locks that require careful handling during repair. Across Shelthorpe's post-war semi-detached homes, window lock failures are common due to age and wear on modern cylinder mechanisms. Both property types benefit from prompt replacement to maintain security and weather-tightness.\n\nMany period properties in Thorpe Acre fall within conservation areas, meaning window lock repairs must preserve original hardware where possible or use sympathetic replacements that match existing door and window furniture. Student HMO conversions across the city often involve multi-occupancy properties where window security standards are checked during tenancy changes, making reliable shootbolt and espagnolette function a practical requirement for landlord compliance and tenant safety.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Thorpe Acre need specialist window lock repair?",
+   "a": "Many period properties in Thorpe Acre retain original Victorian and Edwardian espagnolette and shootbolt mechanisms that require specialist knowledge to repair without damaging heritage features. Surelok can service or replace these locks while maintaining the character of your period home."
+  },
+  {
+   "q": "My student HMO in Woodhouse has multiple window locks failing\u2014can you help with bulk replacement?",
+   "a": "Yes. High turnover in student rentals across Woodhouse means we regularly handle emergency window lock repairs and replacements on multi-occupancy properties. We can fit modern, robust cylinder locks across all windows and provide master-key or keyed-alike systems for landlord access."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Loughborough | Victorian & Modern Homes",
+ "safe-installation.meta.description": "Professional safe installation in Loughborough. Wall, floor and freestanding safes with secure anchoring, insurance compliance. Serving Quorn and surrounding areas.",
+ "safe-installation.hero-paragraph": "Professional safe installation from our Loughborough locksmith team combines expert locksmithing with secure positioning tailored to your needs. Whether you're installing a new safe for insurance approval or require floor anchoring and wall mounting to Eurograde standards, our technicians ensure proper anti-leverage positioning. We assess your specific requirements to deliver installations that meet cash ratings and AiS approval where necessary.",
+ "safe-installation.local-context-body": "Loughborough's student rental properties in Woodhouse and the older terraces of Cotes create distinct safe-installation challenges. HMO conversions and multi-occupancy lets require secure storage solutions that comply with landlord insurance requirements, while period properties demand careful positioning to avoid structural compromise or heritage damage. Safe anchoring in Victorian brick and post-war block construction requires different fixing strategies.\n\nMany properties across the city retain original timber joists and period walls that limit floor-mounting options. Listed-building status in heritage areas of Cotes and surrounding terraces may require conservation-compliant installation methods and pre-work approval. Insurance documentation and proper certification of anchoring depth and load-bearing capacity are essential to protect both contents and property value in this mixed-era housing market.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "We're converting our Woodhouse terraced house into student HMO lets \u2013 do we need safes for tenant deposits or landlord documentation?",
+   "a": "Yes, many HMO landlords in Woodhouse use wall-mounted safes to secure deposit paperwork, tenancy agreements, and master-key records on-site. We install insurance-compliant safes with proper anchoring and provide the documentation needed for your lettings compliance and insurer."
+  },
+  {
+   "q": "Our Victorian terraced home in Thorpe Acre has solid brick walls \u2013 will that affect safe installation?",
+   "a": "Victorian brick in Thorpe Acre is ideal for safe anchoring; we assess wall depth and internal structure to ensure secure installation without compromising period features. We'll discuss heritage-appropriate placement and provide full installation certification for your insurer."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Loughborough \u2013 Fast, Trusted Local Service",
+ "safe-opening.meta.description": "Safe opening in Loughborough for lost keys, combinations & lockouts. Non-destructive methods for domestic, commercial & HMO safes. Expert service.",
+ "safe-opening.hero-paragraph": "Our Loughborough locksmith team specialises in safe opening through advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, our technicians employ precision dial manipulation to regain access without damaging your safe. Fast, professional solutions for domestic and commercial safes across Loughborough.",
+ "safe-opening.local-context-body": "Post-war suburban expansion in Shelthorpe has brought numerous semi-detached and flat conversions, many containing safes installed during property renovations or left by previous occupants. Safe Opening demand in these areas typically involves lost combinations or misplaced keys following house moves, with locksmiths requiring non-destructive techniques to preserve both the safe and surrounding fixtures.\n\nPeriod properties across Quorn and surrounding areas often feature heritage safes fitted into timber-framed walls or built into original joinery. Listed-building considerations may apply to safe removal or access work, requiring locksmiths to verify structural integrity and conservation status before proceeding. High student HMO turnover in rental properties also generates urgent safe-access calls where tenant records or previous landlord documentation have been lost.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm a landlord with student HMO properties in Woodhouse\u2014what should I do if a tenant loses the master-key combination to our communal safe?",
+   "a": "Contact Surelok for non-destructive safe opening; we can recover access without damage, crucial for HMOs where multiple tenants depend on shared storage. Our service preserves the safe's integrity and avoids costly replacement during the academic year."
+  },
+  {
+   "q": "We have a Victorian terraced property in Thorpe Acre with an old wall safe\u2014can you open it if we've lost the key?",
+   "a": "Yes; our locksmiths specialise in period safes common in Victorian and Edwardian homes across Loughborough. We use non-destructive techniques to respect original fixtures while restoring access to your valuables."
+  }
+ ],
+ "home.areas-covered": [
+  "Dishley",
+  "Nanpantan",
+  "Shelthorpe",
+  "Thorpe Acre"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "locked-out.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Dishley",
+  "Thorpe Acre",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "lock-changes.areas-covered": [
+  "Shelthorpe",
+  "Thorpe Acre",
+  "Dishley",
+  "Nanpantan"
+ ],
+ "lock-repairs.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "door-repairs.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "safe-installation.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ],
+ "safe-opening.areas-covered": [
+  "Thorpe Acre",
+  "Dishley",
+  "Shelthorpe",
+  "Nanpantan"
+ ]
 }

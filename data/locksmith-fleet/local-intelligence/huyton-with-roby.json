@@ -1,34 +1,40 @@
 {
-  "location": "Huyton with Roby",
-  "neighborhoods": [],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "council estate"
-    ],
-    "era": "mixed Victorian and post-war",
-    "notable": "Inner Liverpool suburb with 19th-century terraced housing alongside mid-20th-century estates. Mix of owner-occupied and rental properties."
-  },
-  "locksmith_relevant": [
-    "Victorian terraced stock dominates; many original locks and period doors require specialist key cutting and restoration expertise.",
-    "High rental/HMO turnover in post-war estates drives steady demand for lock changes and rekeying between tenancies.",
-    "Older council estates present worn hardware and corrosion issues; emergency callouts for broken locks common in wet climate."
+ "location": "Huyton with Roby",
+ "neighborhoods": [],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "council estate"
   ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Huyton%20with%20Roby",
-    "overpass": null,
-    "coords": {
-      "lat": 53.41334,
-      "lon": -2.8445219
-    }
-  },
-  "generated_at": "2026-05-13T12:28:09.264Z",
-  "all_areas": [],
-  "geo": {
-    "latitude": 53.41334,
-    "longitude": -2.8445219
-  },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  "era": "mixed Victorian and post-war",
+  "notable": "Inner Liverpool suburb with 19th-century terraced housing alongside mid-20th-century estates. Mix of owner-occupied and rental properties."
+ },
+ "locksmith_relevant": [
+  "Victorian terraced stock dominates; many original locks and period doors require specialist key cutting and restoration expertise.",
+  "High rental/HMO turnover in post-war estates drives steady demand for lock changes and rekeying between tenancies.",
+  "Older council estates present worn hardware and corrosion issues; emergency callouts for broken locks common in wet climate."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Huyton%20with%20Roby",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Huyton with Roby, 5 named areas",
+  "coords": {
+   "lat": 53.41334,
+   "lon": -2.8445219
+  }
+ },
+ "generated_at": "2026-05-13T12:28:09.264Z",
+ "all_areas": [
+  "Bowring Park",
+  "Page Moss",
+  "Roby",
+  "Stockbridge Village",
+  "Swanside"
+ ],
+ "geo": {
+  "latitude": 53.41334,
+  "longitude": -2.8445219
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

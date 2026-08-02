@@ -1,199 +1,173 @@
 {
-  "location": "Brighouse",
-  "neighborhoods": [
-    {
-      "name": "Rastrick",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established residential; conservation properties"
-    },
-    {
-      "name": "Hipperholme",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "stone cottage"
-      ],
-      "notes": "historic mill village character"
-    },
-    {
-      "name": "Scheoles",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "working-class residential"
-    },
-    {
-      "name": "Clifton",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area"
-    },
-    {
-      "name": "Brackenhall",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential estate"
-    },
-    {
-      "name": "Hove Edge",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "uphill residential"
-    },
-    {
-      "name": "Bradley",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Fixby",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "mill-worker housing"
-      ]
-    },
-    {
-      "name": "Bailiff Bridge",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "mill village"
-      ]
-    },
-    {
-      "name": "Norwood Park",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ]
-    },
-    {
-      "name": "Hartshead Moor",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Woodhouse",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Bonegate",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Upper Edge",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Rastrick",
-      "era": "Victorian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "Victorian mill housing"
-    ],
-    "era": "predominantly Victorian and Edwardian with post-war suburban infill",
-    "notable": "Historic textile mill villages with dense Victorian terraces; significant modern new-build expansion on periphery"
+ "location": "Brighouse",
+ "neighborhoods": [
+  {
+   "name": "Rastrick",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established residential; conservation properties"
   },
-  "locksmith_relevant": [
-    "Dense Victorian terraces dominate; many feature original sash windows and period locks requiring specialist servicing.",
-    "Mill village heritage means high concentration of listed properties with restricted key-cutting and security options.",
-    "Post-war semi-detached expansion areas have standard cylinder locks; modern estates increasingly demand smart locks and integrated systems."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Brighouse",
-    "overpass": "OSM Overpass bbox query, 31 named areas",
-    "coords": {
-      "lat": 53.7028049,
-      "lon": -1.7800944
-    }
+  {
+   "name": "Hipperholme",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "stone cottage"
+   ],
+   "notes": "historic mill village character"
   },
-  "generated_at": "2026-05-13T18:09:20.831Z",
-  "all_areas": [
-    "Bailiff Bridge",
-    "Bonegate",
-    "Brackenhall",
-    "Bradley",
-    "Clifton",
-    "Cowcliffe",
-    "Deighton",
-    "Fartown Green",
-    "Field Lane",
-    "Fixby",
-    "Hartshead Moor",
-    "Hartshead Moor Top",
-    "Hipperholme",
-    "Hove Edge",
-    "Lane Head",
-    "Lower Shelf",
-    "Netheroyd Hill",
-    "Norwood Park",
-    "Prince Royd",
-    "Rastrick",
-    "Riddings",
-    "Scholes",
-    "Sheepridge",
-    "Slead Syke",
-    "Toothill",
-    "Top of Cowcliffe",
-    "Upper Edge",
-    "Waring Green",
-    "Woodhouse",
-    "Woodhouse Hill",
-    "Wyke"
-  ],
-  "geo": {
-    "latitude": 53.7028049,
-    "longitude": -1.7800944
+  {
+   "name": "Scheoles",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "working-class residential"
   },
-  "postcode_districts": [
-    "HD6"
-  ],
-  "postcode_meta": {
-    "HD6": {
-      "count": 6,
-      "sample": "HD6 4JR",
-      "admin": "Calderdale",
-      "via": "admin_ward=brighouse"
-    }
+  {
+   "name": "Clifton",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area"
+  },
+  {
+   "name": "Brackenhall",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential estate"
+  },
+  {
+   "name": "Hove Edge",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "uphill residential"
+  },
+  {
+   "name": "Bradley",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Fixby",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "mill-worker housing"
+   ]
+  },
+  {
+   "name": "Bailiff Bridge",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "mill village"
+   ]
+  },
+  {
+   "name": "Norwood Park",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ]
+  },
+  {
+   "name": "Hartshead Moor",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Woodhouse",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Bonegate",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Upper Edge",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Rastrick",
+   "era": "Victorian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "Victorian mill housing"
+  ],
+  "era": "predominantly Victorian and Edwardian with post-war suburban infill",
+  "notable": "Historic textile mill villages with dense Victorian terraces; significant modern new-build expansion on periphery"
+ },
+ "locksmith_relevant": [
+  "Dense Victorian terraces dominate; many feature original sash windows and period locks requiring specialist servicing.",
+  "Mill village heritage means high concentration of listed properties with restricted key-cutting and security options.",
+  "Post-war semi-detached expansion areas have standard cylinder locks; modern estates increasingly demand smart locks and integrated systems."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Brighouse",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Brighouse, 5 named areas",
+  "coords": {
+   "lat": 53.7028049,
+   "lon": -1.7800944
+  }
+ },
+ "generated_at": "2026-05-13T18:09:20.831Z",
+ "all_areas": [
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge",
+  "Rastrick"
+ ],
+ "geo": {
+  "latitude": 53.7028049,
+  "longitude": -1.7800944
+ },
+ "postcode_districts": [
+  "HD6"
+ ],
+ "postcode_meta": {
+  "HD6": {
+   "count": 6,
+   "sample": "HD6 4JR",
+   "admin": "Calderdale",
+   "via": "admin_ward=brighouse"
+  }
+ }
 }

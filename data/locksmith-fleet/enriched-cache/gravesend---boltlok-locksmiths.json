@@ -1,342 +1,355 @@
 {
-  "meta.title": "Gravesend Locksmith | 24/7 Emergency Call-Out Service",
-  "meta.description": "Gravesend locksmith offering emergency call-outs, lock repairs, and rekeying for Victorian terraces, post-war homes, and modern developments.",
-  "home.hero-paragraph": "Gravesend locksmith services specialising in locksmithing and professional lock assistance are available 24/7. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. Our DBS-checked technicians are fully insured and operate without call-out fees, ensuring swift access to your home or business whenever you need us.",
-  "home.local-context-heading": "Locksmith Work Across Gravesend's Mixed Housing Stock",
-  "home.local-context-body": "Gravesend's mix of Victorian terraces, post-war semis, and modern flats means varied lock needs across neighborhoods. Period properties in areas like Westcourt often retain original mechanisms requiring specialist knowledge, while post-war semi-detached homes typically need standard cylinder replacements and rekeying. Modern flat developments introduce electronic access systems that demand multi-technology expertise from any locksmith handling the property.\n\nConservation considerations affect older properties, particularly those with period features where lock restoration must balance security with historical authenticity. HMO licensing in Gravesend increasingly requires compliant locking systems on individual rooms and communal doors, particularly in converted Victorian terraces. Door type variation—from traditional wooden frames to modern composite doors in new builds—means locksmiths need broad technical capability to serve the full property range across the town.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terrace in Windmill Hill has original period locks—can you help with restoration and rekeying?",
-      "a": "Yes, we specialise in restoring and fitting keys to original Victorian and Edwardian locks found throughout Windmill Hill and similar conservation areas. Our locksmiths have the expertise to work with period mechanisms while maintaining the character of historic properties."
-    },
-    {
-      "q": "I live in a modern flat development and need help with electronic access or communal entry systems—do you service those?",
-      "a": "Absolutely. Modern flat developments like those in Riverview Park often use electronic and communal access systems. We're equipped to handle multi-technology locks and complex entry systems, so contact us for servicing, repair, or recoding."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Gravesend – 24/7 Response",
-  "emergency-locksmith.meta.description": "Emergency locksmith in Gravesend & Denton. 24/7 lockouts, snapped keys, lock repairs. Fast response, non-destructive entry. Call now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Gravesend offers rapid locksmithing assistance when you need it most. Whether you're locked out, have snapped a key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 to resolve your situation. We specialise in non-destructive entry methods to protect your property and restore access quickly.",
-  "emergency-locksmith.local-context-body": "Properties across Whitehill and Chalk include a substantial stock of post-war semi-detached homes where cylinder lock failures and accidental lockouts are frequent callouts. Victorian terraces in conservation areas like Windmill Hill present additional complexity: original period locks may jam or keys may snap, requiring immediate access without damaging heritage features—a common scenario in emergency responses across Gravesend's older residential neighborhoods.\n\nModern flat developments in Riverview Park and similar schemes introduce multi-technology access barriers, meaning emergency locksmiths must handle both traditional mechanical locks and electronic communal entry systems. Riverside properties built on Thames flood plains sometimes experience moisture-related lock corrosion, accelerating mechanical wear and increasing the likelihood of sudden failure during periods of high humidity or seasonal damp.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Milton—can you help with original period locks?",
-      "a": "Yes. Our locksmiths are experienced with original Victorian mechanisms common in Milton and Windmill Hill terraces. We can open them without damage and advise on restoration or modern security upgrades if needed."
-    },
-    {
-      "q": "What's your response time for emergency lockouts in Denton and Christian Fields?",
-      "a": "We're 24/7 across Gravesend, including Denton and Christian Fields. Most emergency calls receive a response within 30–60 minutes, depending on current demand and your exact location."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Gravesend | Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Gravesend? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, semis & modern flats. Call 01474 621084.",
-  "locked-out.hero-paragraph": "When you're locked out in Gravesend, our experienced locksmiths use modern locksmithing techniques to get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry methods that leave your door and locks undamaged. Our rapid response team operates across the town 24/7.",
-  "locked-out.local-context-body": "Lockouts affect Gravesend's diverse housing stock in distinct ways. Modern flat developments like Riverview Park present particular challenges, as communal entry systems and multiple access points require rapid assessment and coordination with building management. Conversely, semi-detached homes in Singlewell often feature straightforward cylinder locks on single entry doors, allowing faster non-destructive resolution when occupants are locked out.\n\nVictorian terraces and period properties across the city frequently retain original mortice locks and heritage hardware that demand careful handling during entry. Post-war properties with standard cylinder mechanisms allow conventional techniques, but older doors—whether solid wood or reinforced frames—may require adapted methods to avoid damage. Weather conditions on the Thames-side also affect response times and lock mechanism accessibility during winter months.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Windmill Hill—can you get me back in without damaging the original period door?",
-      "a": "Yes. Our locksmiths are experienced with non-destructive entry on period properties like those on Windmill Hill, using specialist techniques that preserve original Victorian and Edwardian joinery and fittings. We'll get you inside safely without forcing or drilling."
-    },
-    {
-      "q": "My key snapped inside the lock of my Westcourt semi-detached—how quickly can you attend?",
-      "a": "We're based locally in Gravesend and typically reach Westcourt and surrounding post-war suburbs within the hour. We'll remove the broken key fragment using non-destructive methods and provide you with a working replacement, often the same day."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Gravesend – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Gravesend for Victorian terraces, semis & modern flats. Expert extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Gravesend is a specialist service our locksmith team handles daily through expert locksmithing techniques. Whether you're dealing with a snapped key or one stuck fast in a euro cylinder, we employ non-destructive methods using precision broken-key probes to extract the fragment safely, restoring access without damaging your lock.",
-  "broken-key-removal.local-context-body": "Broken key incidents occur regularly across Gravesend's older housing stock, particularly in Milton's Victorian and Edwardian terraces where original period locks remain in daily use. These heritage properties often feature mortice locks and night latches that, while robust, can snap under pressure if keys are worn or misaligned—a common problem in properties where locks have operated for decades without replacement. Post-war semi-detached homes in Parrock Farm typically use modern cylinder locks, which present a different extraction challenge when keys fracture inside the mechanism.\n\nThe prevalence of listed buildings and period properties in central Gravesend means broken key removal often requires careful handling to avoid damage to historic lock casings and door frames. Many Victorian terraces feature timber doors with original hardware, limiting the force that can be applied during extraction. Understanding local lock specifications—whether original mortice work or later cylinder conversions—is essential for safe, non-destructive removal that preserves both the lock and the property's character.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Milton and Windmill Hill need specialist key removal?",
-      "a": "Victorian period locks often have delicate internal mechanisms and non-standard cylinder depths; extracting a broken key requires expertise to avoid damaging the original lock body, which many homeowners wish to preserve for authenticity. Boltlok's locksmiths are trained in safe removal techniques for these heritage fittings."
-    },
-    {
-      "q": "What's the fastest way to regain access if my key snaps in a post-war semi-detached home in Westcourt?",
-      "a": "Most semi-detached homes in Westcourt use standard cylinder locks where broken key removal is straightforward; we can typically extract the snapped piece and re-cut a new key on-site within the same visit, minimizing disruption to your day."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Gravesend – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Gravesend covering Singlewell and beyond. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
-  "burglar-repair-service.hero-paragraph": "Expert burglar repair services in Gravesend by qualified locksmiths specialising in locksmithing. Following forced entry or break-ins, we restore security with door reinforcement and TS007 anti-snap cylinders. Our work meets insurance requirements and BS3621 standards, ensuring your home is properly protected against future intrusion.",
-  "burglar-repair-service.local-context-body": "Post-break-in repair work in Gravesend reflects the town's mixed housing ages and types. Semi-detached homes across Christian Fields and Denton frequently require urgent lock and door reinstatement after forced entry, with cylinder locks being the standard replacement component. Victorian terraces in riverside areas present additional complexity, as period door frames and hardware demand careful restoration to preserve structural integrity while restoring security.\n\nInsurance-backed repair standards require locksmiths to document damage comprehensively and source components that meet insurer specifications. Modern flat developments in the town increasingly feature multi-technology access points—electronic systems alongside traditional locks—meaning burglar repair work must address both conventional and electronic damage simultaneously, particularly where communal entry doors have been compromised.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you repair doors on Victorian terraces in Milton after a break-in, or do I need a specialist?",
-      "a": "We handle post-break-in door and frame repairs on Victorian terraces across Milton and Windmill Hill. Our locksmiths understand period joinery and can source or fit replacement locks that match your original fittings, ensuring both security and aesthetic reinstatement for insurance purposes."
-    },
-    {
-      "q": "Can you repair electronic locks on the flat developments in Riverview Park after a break-in?",
-      "a": "Yes—modern flat developments like Riverview Park often use electronic access systems and communal entry locks. We're equipped to repair or replace both the physical lock damage and any electronic components, and we'll liaise with your building management to restore full access security."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Gravesend – Fast Response 24/7",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Gravesend—same-day door and window boarding for Victorian terraces, modern flats, and semi-detached homes after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Gravesend from our experienced locksmith team combines professional locksmithing with rapid response. Whether you're facing smashed windows or damaged doors, we secure your property with robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Storm damage and break-ins affecting Gravesend's riverside and suburban properties create steady demand for emergency boarding. Victorian and Edwardian villas on Windmill Hill, with their period sash windows and original door frames, require careful boarding that preserves structural integrity and respects conservation considerations. Post-war semi-detached homes in Westcourt typically feature standard timber or composite doors; rapid boarding of these properties prevents further weather exposure and unauthorised entry while repairs are arranged.\n\nMany of Gravesend's older properties fall within conservation areas, particularly around Windmill Hill, where boarding specifications must align with planning guidance to avoid enforcement action. Modern flat developments in Riverview Park often involve communal entry systems; boarding decisions require coordination with building management and may affect access protocols for other residents. Turnaround time is critical—coastal and Thames-side exposure means weather deterioration accelerates quickly, particularly during winter months.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can Boltlok board up a broken window in a Victorian terrace in Milton after a break-in?",
-      "a": "We aim to arrive within 60 minutes for emergency calls in Gravesend, including Victorian terraces in Milton and Windmill Hill. Our team carries standard and bespoke boarding materials to secure period properties without causing further damage to original frames."
-    },
-    {
-      "q": "Can you board up storm damage on semi-detached homes in Westcourt the same day?",
-      "a": "Yes—we offer same-day emergency boarding for storm-damaged doors and windows across Westcourt and other post-war suburban areas. We'll secure your property quickly and provide temporary weatherproofing until permanent repairs can be arranged."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Gravesend – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Gravesend for Victorian terraces, post-war homes & modern flats. Fast professional replacement after moving or key loss. Call 01474 621084.",
-  "lock-changes.hero-paragraph": "Lock changes in Gravesend require a skilled locksmith with expert locksmithing knowledge to ensure your security. Whether you're moving home, changing tenancy, or upgrading your property's security, we fit high-specification cylinders including BS3621 mortice locks and TS007 anti-snap mechanisms. Our technicians guarantee professional installation to current security standards.",
-  "lock-changes.local-context-body": "Gravesend's interwar and post-war suburban areas, particularly in Singlewell, feature large numbers of semi-detached homes where lock changes are a routine requirement following house moves or key loss. Standard cylinder locks dominate these properties, making replacement straightforward for most residential changeovers. New-build flat developments in Riverview Park present a different picture: many require coordination with managing agents and involve electronic or communal entry systems that demand specialist knowledge alongside traditional lock work.\n\nLock changes in older Victorian properties demand particular attention to period-appropriate fitting and preservation considerations. Westcourt's established semi-detached stock, typical of post-war Gravesend, frequently uses mortice locks that may require adjustment during replacement to avoid damage to door frames. Access to properties during changeovers often involves liaising with landlords or managing agents, especially in the growing number of multi-unit developments where security protocols require documented completion of work.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Milton—do I need specialist lock changes?",
-      "a": "Yes. Victorian properties often have period-fitted locks that may require careful handling during replacement. Our locksmiths are experienced in working with original mechanisms and can fit modern locks while preserving the character of your home, or restore period locks if you prefer authenticity."
-    },
-    {
-      "q": "We're in a new-build flat at Riverview Park—can you handle electronic access locks?",
-      "a": "Absolutely. Modern flat developments use electronic and smart access systems alongside traditional locks. We're equipped to change, rekey, and integrate both technologies, and can liaise with your building management on communal entry updates."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Gravesend – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Gravesend for Victorian terraces, post-war semis & modern flats. Multipoint, mortice & cylinder lock fixes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Gravesend by our experienced locksmith specialists in locksmithing. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, our technicians deliver reliable solutions. We carry manufacturer warranties on all work and specialise in mortice maintenance and multipoint servicing to restore your locks to full working order.",
-  "lock-repairs.local-context-body": "The semi-detached homes of Westcourt frequently require cylinder lock repairs and multipoint lock servicing due to standard wear on post-war hardware. Victorian terraces in Milton and Windmill Hill present a different challenge: original period mortice and night latch mechanisms demand specialist knowledge to repair without compromising historic integrity, and replacement keys must often be custom-fitted to antique gearboxes.\n\nGravesend's mixed housing era means repair work must accommodate both straightforward modern lock systems and period-appropriate solutions. Listed properties require locksmiths to understand conservation principles, as inappropriate repairs or replacements can breach planning controls. Modern flat developments in Riverview Park add complexity through communal electronic entry systems that interact with individual unit locks, requiring technicians familiar with integrated access infrastructure.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Milton and Windmill Hill need specialist lock repairs?",
-      "a": "Victorian properties often feature original period mortice and night latch mechanisms that require specialist knowledge to repair without damage. Boltlok's locksmiths understand the tolerances and materials of period locks, ensuring repairs restore function while preserving the character of your home."
-    },
-    {
-      "q": "My semi-detached in Westcourt has a broken cylinder lock—how quickly can you repair it?",
-      "a": "Post-war semi-detached homes across Westcourt typically use standard cylinder locks that we repair and replace promptly. We usually attend lockouts and lock repairs in Gravesend within hours, minimising disruption to your home."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Gravesend – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Gravesend: BS3621 mortice locks, TS007 anti-snap cylinders & multipoint systems. Serving Victorian terraces, post-war semis & modern flats.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Gravesend by our experienced locksmith specialists combines skilled locksmithing with quality security solutions. Whether you need new fittings, a security upgrade, or locks that meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
-  "door-lock-installation.local-context-body": "Modern flat developments in Riverview Park frequently require multipoint lock installation across communal entry doors and individual units, while the semi-detached properties of Christian Fields typically need standard cylinder replacement or BS3621 mortice fitting during refurbishment. This mix of residential types—from period stock to contemporary buildings—means door lock installation work in Gravesend spans both straightforward upgrades and more complex access control systems.\n\nVictorian terraces in Milton retain original period doors and frames that may need careful measurement and adaptation before TS007 anti-snap cylinders or mortice locks can be fitted without structural alteration. Listed building status on some properties also requires locksmiths to confirm any heritage restrictions before proceeding with installation, ensuring compliance with conservation guidelines.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Milton—what locks do you recommend for period properties?",
-      "a": "We specialise in fitting locks that respect period features while meeting modern security standards. For Victorian terraces, we often install BS3621 mortice locks that complement original joinery, or upgrade to TS007 anti-snap cylinders if you prefer a contemporary security boost without compromising aesthetics."
-    },
-    {
-      "q": "We've just bought a semi-detached in Westcourt and want to replace the old cylinder locks—how long does installation take?",
-      "a": "Replacing standard cylinders on post-war semi-detached homes is straightforward; most jobs complete in 1–2 hours. We'll fit anti-snap TS007 cylinders or a full multipoint system if you'd like enhanced security, and we can rekey to your preference."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Gravesend – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Gravesend, including Milton Victorian terraces & modern homes. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Gravesend locksmith team specialises in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we fit high-security BS3621-approved locks and offer like-for-like cylinder swaps or anti-snap upgrades to enhance your property's security.",
-  "door-lock-replacement.local-context-body": "Door lock replacement is a frequent requirement across Gravesend's mixed housing stock. Post-war semi-detached properties in areas like Denton typically feature standard cylinder locks that reach end-of-life within 15–20 years; replacement with modern equivalents is straightforward. Conversely, Victorian terraces in Milton retain original period mechanisms where like-for-like swaps demand specialist knowledge of heritage lock profiles and key blanks, often requiring sourcing from specialist suppliers rather than standard stock.\n\nGravesend's riverside location and listed-building designations in older quarters mean replacement work must sometimes comply with conservation area guidelines, particularly where external appearance is visible from the street. Modern developments in Kings Farm introduce a second practical constraint: new-build semi-detached and flat units increasingly feature pre-fitted smart locks or keyed-alike systems tied to communal entry protocols, requiring locksmiths to understand compatibility and tenant/leaseholder access hierarchies before recommending or fitting replacements.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Milton with an original period lock that's worn out—can you replace it without damaging the door frame?",
-      "a": "Yes. Our locksmiths specialise in period lock replacement on Gravesend's Victorian properties, carefully removing and fitting replacements that match original specifications and protect the integrity of heritage door frames. We can source period-appropriate locks or fit modern equivalents designed to suit period aesthetics."
-    },
-    {
-      "q": "My post-war semi-detached in Denton has a faulty cylinder lock—how quickly can you replace it?",
-      "a": "Standard cylinder lock replacement on post-war semi-detached homes like those across Denton is one of our most common jobs; we can typically attend the same day and complete the swap within an hour, including rekeying if needed."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Gravesend – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Gravesend for Victorian terraces, post-war semis & modern homes. uPVC alignment, composite door realignment, handle repair.",
-  "door-repairs.hero-paragraph": "Door repairs in Gravesend from our experienced locksmith team specialise in locksmithing solutions for domestic and commercial properties. Dropped or catching doors are common issues we resolve through hinge adjustment and frame alignment. Whether your uPVC, composite or timber door won't close properly or lets in draughts, our technicians deliver reliable repairs promptly.",
-  "door-repairs.local-context-body": "Gravesend's mixed housing stock creates varied door repair demands. Victorian terraces in Milton often feature solid timber doors with period hardware that requires careful alignment and specialist hinge work, while post-war semi-detached homes in Parrock Farm typically have standard modern doors prone to settlement-related dropping and frame misalignment. New-build flats in Riverview Park present different challenges, with composite doors and integrated electronic systems requiring coordinated repairs.\n\nMany properties across Gravesend date from the interwar and post-war periods, meaning doors and frames have settled over decades. This subsidence-related misalignment is particularly common in older terraced and semi-detached properties, where dropped hinges and binding frames require both structural assessment and hardware adjustment rather than simple replacement.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Milton need specialist door repairs?",
-      "a": "Victorian terraces often have original period frames and hardware that have settled unevenly over time, causing doors to drop or misalign. Our locksmiths understand the specific carpentry and fitting requirements of these older properties and can restore both function and period authenticity."
-    },
-    {
-      "q": "What door problems are common in Gravesend's post-war semi-detached homes?",
-      "a": "Semi-detached properties across areas like Parrock Farm frequently experience door drop and frame stress due to foundation movement typical of post-war construction. We specialise in realigning these doors and replacing worn hardware to restore smooth operation and security."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Gravesend – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Gravesend. Espagnolette and shootbolt locks fixed on Victorian terraces, period homes and modern properties.",
-  "window-lock-repair-replacement.hero-paragraph": "Professional window lock repair and replacement in Gravesend from our experienced locksmith specialists in locksmithing. We address common issues including broken handles and windows that won't lock, restoring security with precision repairs to espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant standards, ensuring your home protection is properly certified.",
-  "window-lock-repair-replacement.local-context-body": "Victorian terraces and semis in Milton frequently retain original sash windows with period espagnolette locks that require specialist attention to repair without compromising historic integrity. Newer properties across Parrock Farm typically feature modern uPVC windows with shootbolt mechanisms prone to wear; replacement becomes necessary when handles fail or locking engagement weakens, a common issue in post-war suburban homes.\n\nMany older Gravesend properties fall within conservation areas or carry listed-building status, meaning window lock replacement must preserve original appearance where feasible. Surveyors and conservationists often require period-appropriate mechanisms or sympathetic modern equivalents, adding specification complexity to repair work beyond standard domestic replacements.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace windows in Windmill Hill often need specialist lock repair?",
-      "a": "Victorian espagnolette and shootbolt locks in Windmill Hill's period terraces use different mechanisms and materials than modern locks, and often suffer wear from age. Boltlok's locksmiths have the specialist knowledge to repair these heritage locks properly or source period-appropriate replacements that maintain the character of your home."
-    },
-    {
-      "q": "What should post-war semi-detached homeowners in Christian Fields know about window lock replacement?",
-      "a": "Post-war semis typically have standard cylinder window locks that can fail due to regular use and weathering. If your Christian Fields home has stiff or broken window locks, replacement with modern, durable alternatives is usually faster and more cost-effective than repair—Boltlok can fit them same-day."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Gravesend – Fast & Trusted Service",
-  "safe-installation.meta.description": "Safe installation in Gravesend for homes and businesses. Secure anchoring, insurance documentation, wall, floor and freestanding safes.",
-  "safe-installation.hero-paragraph": "Professional safe installation by our Gravesend locksmith combines expert locksmithing with secure placement techniques. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting for maximum protection. Our installations comply with Eurograde and AiS approved standards, guaranteeing your valuables remain safeguarded.",
-  "safe-installation.local-context-body": "Whitehill's interwar semis and detached properties often require safes for valuables and documents, with homeowners seeking secure anchorage solutions that integrate into period walls without structural compromise. Growing new-build flat developments in central Gravesend similarly demand safe installation, though communal ownership rules and building management approval frequently precede fitting work.\n\nVictorian properties on Windmill Hill present particular considerations: solid brick construction allows secure floor and wall mounting, but many properties fall within conservation areas where visible fixings or wall penetration require planning awareness and sensitive installation methods that preserve period character.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do many Singlewell homeowners choose safe installation over portable safes?",
-      "a": "Post-war semi-detached homes in Singlewell lack built-in security features, making a professionally anchored safe essential for protecting valuables and meeting home insurance requirements. We ensure proper wall or floor installation with full documentation for your insurer."
-    },
-    {
-      "q": "What makes safe installation different in modern Riverview Park developments?",
-      "a": "Flat residents in Riverview Park's new-build complexes face restrictions on wall anchoring due to shared structures and electronic access systems. We specialise in compliant floor and freestanding safe solutions that satisfy both your landlord and insurance provider."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Gravesend – Fast Local Service",
-  "safe-opening.meta.description": "Safe opening in Gravesend for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes across Denton and surrounding areas.",
-  "safe-opening.hero-paragraph": "Our Gravesend locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ combination dial manipulation and precision tools to regain access without damaging your safe. Call us for rapid, professional assistance.",
-  "safe-opening.local-context-body": "Gravesend's established residential areas—particularly Windmill Hill's Victorian and Edwardian properties—often contain period safes and security boxes that require specialist non-destructive opening techniques. Detached villas and larger period terraces frequently house safes installed decades ago, where original keys have been lost or combinations forgotten. Safe opening in these properties demands knowledge of heritage metalwork and period-appropriate methods to avoid damage.\n\nListed-building status affects many properties in conservation areas, meaning destructive safe opening can trigger planning concerns and listed-building consent requirements. Locksmiths working in Gravesend's older neighborhoods must verify heritage listing before proceeding, as non-destructive methods become not merely preferable but often mandatory to preserve the property's historical integrity and avoid regulatory complications.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm locked out of my safe in a Victorian terrace in Milton—can you open it without damage?",
-      "a": "Yes. Our non-destructive safe opening techniques are ideal for period properties where preserving original fixtures matters. We can manipulate locks or recover lost combinations without drilling or forcing, protecting the integrity of your home."
-    },
-    {
-      "q": "We've lost the combination to our safe in one of Riverview Park's new-build flats—how quickly can you help?",
-      "a": "We offer same-day safe opening for Gravesend residents, including those in modern developments like Riverview Park. Contact us on 01474 621084 and we'll arrange an appointment to regain access without damage to your safe or apartment."
-    }
-  ],
-  "home.areas-covered": [
-    "Chalk",
-    "Christian Fields",
-    "Denton",
-    "Kings Farm",
-    "Milton",
-    "Parrock Farm",
-    "Riverview Park",
-    "Singlewell",
-    "Westcourt",
-    "Whitehill",
-    "Windmill Hill"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Windmill Hill",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm"
-  ],
-  "locked-out.areas-covered": [
-    "Milton",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Whitehill",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Westcourt",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Chalk",
-    "Singlewell",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "lock-changes.areas-covered": [
-    "Riverview Park",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "lock-repairs.areas-covered": [
-    "Kings Farm",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Parrock Farm",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Denton"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Christian Fields",
-    "Singlewell",
-    "Chalk",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "door-repairs.areas-covered": [
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Denton",
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm"
-  ],
-  "safe-installation.areas-covered": [
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ],
-  "safe-opening.areas-covered": [
-    "Singlewell",
-    "Chalk",
-    "Christian Fields",
-    "Riverview Park",
-    "Milton",
-    "Whitehill",
-    "Parrock Farm",
-    "Denton"
-  ]
+ "meta.title": "Gravesend Locksmith | 24/7 Emergency Call-Out Service",
+ "meta.description": "Gravesend locksmith offering emergency call-outs, lock repairs, and rekeying for Victorian terraces, post-war homes, and modern developments.",
+ "home.hero-paragraph": "Gravesend locksmith services specialising in locksmithing and professional lock assistance are available 24/7. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. Our DBS-checked technicians are fully insured and operate without call-out fees, ensuring swift access to your home or business whenever you need us.",
+ "home.local-context-heading": "Locksmith Work Across Gravesend's Mixed Housing Stock",
+ "home.local-context-body": "Gravesend's mix of Victorian terraces, post-war semis, and modern flats means varied lock needs across neighborhoods. Period properties in areas like Westcourt often retain original mechanisms requiring specialist knowledge, while post-war semi-detached homes typically need standard cylinder replacements and rekeying. Modern flat developments introduce electronic access systems that demand multi-technology expertise from any locksmith handling the property.\n\nConservation considerations affect older properties, particularly those with period features where lock restoration must balance security with historical authenticity. HMO licensing in Gravesend increasingly requires compliant locking systems on individual rooms and communal doors, particularly in converted Victorian terraces. Door type variation\u2014from traditional wooden frames to modern composite doors in new builds\u2014means locksmiths need broad technical capability to serve the full property range across the town.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terrace in Windmill Hill has original period locks\u2014can you help with restoration and rekeying?",
+   "a": "Yes, we specialise in restoring and fitting keys to original Victorian and Edwardian locks found throughout Windmill Hill and similar conservation areas. Our locksmiths have the expertise to work with period mechanisms while maintaining the character of historic properties."
+  },
+  {
+   "q": "I live in a modern flat development and need help with electronic access or communal entry systems\u2014do you service those?",
+   "a": "Absolutely. Modern flat developments like those in Riverview Park often use electronic and communal access systems. We're equipped to handle multi-technology locks and complex entry systems, so contact us for servicing, repair, or recoding."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Gravesend \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "Emergency locksmith in Gravesend & Denton. 24/7 lockouts, snapped keys, lock repairs. Fast response, non-destructive entry. Call now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Gravesend offers rapid locksmithing assistance when you need it most. Whether you're locked out, have snapped a key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 to resolve your situation. We specialise in non-destructive entry methods to protect your property and restore access quickly.",
+ "emergency-locksmith.local-context-body": "Properties across Whitehill and Chalk include a substantial stock of post-war semi-detached homes where cylinder lock failures and accidental lockouts are frequent callouts. Victorian terraces in conservation areas like Windmill Hill present additional complexity: original period locks may jam or keys may snap, requiring immediate access without damaging heritage features\u2014a common scenario in emergency responses across Gravesend's older residential neighborhoods.\n\nModern flat developments in Riverview Park and similar schemes introduce multi-technology access barriers, meaning emergency locksmiths must handle both traditional mechanical locks and electronic communal entry systems. Riverside properties built on Thames flood plains sometimes experience moisture-related lock corrosion, accelerating mechanical wear and increasing the likelihood of sudden failure during periods of high humidity or seasonal damp.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Milton\u2014can you help with original period locks?",
+   "a": "Yes. Our locksmiths are experienced with original Victorian mechanisms common in Milton and Windmill Hill terraces. We can open them without damage and advise on restoration or modern security upgrades if needed."
+  },
+  {
+   "q": "What's your response time for emergency lockouts in Denton and Christian Fields?",
+   "a": "We're 24/7 across Gravesend, including Denton and Christian Fields. Most emergency calls receive a response within 30\u201360 minutes, depending on current demand and your exact location."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Gravesend | Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Gravesend? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, semis & modern flats. Call 01474 621084.",
+ "locked-out.hero-paragraph": "When you're locked out in Gravesend, our experienced locksmiths use modern locksmithing techniques to get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry methods that leave your door and locks undamaged. Our rapid response team operates across the town 24/7.",
+ "locked-out.local-context-body": "Lockouts affect Gravesend's diverse housing stock in distinct ways. Modern flat developments like Riverview Park present particular challenges, as communal entry systems and multiple access points require rapid assessment and coordination with building management. Conversely, semi-detached homes in Singlewell often feature straightforward cylinder locks on single entry doors, allowing faster non-destructive resolution when occupants are locked out.\n\nVictorian terraces and period properties across the city frequently retain original mortice locks and heritage hardware that demand careful handling during entry. Post-war properties with standard cylinder mechanisms allow conventional techniques, but older doors\u2014whether solid wood or reinforced frames\u2014may require adapted methods to avoid damage. Weather conditions on the Thames-side also affect response times and lock mechanism accessibility during winter months.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Windmill Hill\u2014can you get me back in without damaging the original period door?",
+   "a": "Yes. Our locksmiths are experienced with non-destructive entry on period properties like those on Windmill Hill, using specialist techniques that preserve original Victorian and Edwardian joinery and fittings. We'll get you inside safely without forcing or drilling."
+  },
+  {
+   "q": "My key snapped inside the lock of my Westcourt semi-detached\u2014how quickly can you attend?",
+   "a": "We're based locally in Gravesend and typically reach Westcourt and surrounding post-war suburbs within the hour. We'll remove the broken key fragment using non-destructive methods and provide you with a working replacement, often the same day."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Gravesend \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Gravesend for Victorian terraces, semis & modern flats. Expert extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Gravesend is a specialist service our locksmith team handles daily through expert locksmithing techniques. Whether you're dealing with a snapped key or one stuck fast in a euro cylinder, we employ non-destructive methods using precision broken-key probes to extract the fragment safely, restoring access without damaging your lock.",
+ "broken-key-removal.local-context-body": "Broken key incidents occur regularly across Gravesend's older housing stock, particularly in Milton's Victorian and Edwardian terraces where original period locks remain in daily use. These heritage properties often feature mortice locks and night latches that, while robust, can snap under pressure if keys are worn or misaligned\u2014a common problem in properties where locks have operated for decades without replacement. Post-war semi-detached homes in Parrock Farm typically use modern cylinder locks, which present a different extraction challenge when keys fracture inside the mechanism.\n\nThe prevalence of listed buildings and period properties in central Gravesend means broken key removal often requires careful handling to avoid damage to historic lock casings and door frames. Many Victorian terraces feature timber doors with original hardware, limiting the force that can be applied during extraction. Understanding local lock specifications\u2014whether original mortice work or later cylinder conversions\u2014is essential for safe, non-destructive removal that preserves both the lock and the property's character.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Milton and Windmill Hill need specialist key removal?",
+   "a": "Victorian period locks often have delicate internal mechanisms and non-standard cylinder depths; extracting a broken key requires expertise to avoid damaging the original lock body, which many homeowners wish to preserve for authenticity. Boltlok's locksmiths are trained in safe removal techniques for these heritage fittings."
+  },
+  {
+   "q": "What's the fastest way to regain access if my key snaps in a post-war semi-detached home in Westcourt?",
+   "a": "Most semi-detached homes in Westcourt use standard cylinder locks where broken key removal is straightforward; we can typically extract the snapped piece and re-cut a new key on-site within the same visit, minimizing disruption to your day."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Gravesend \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Gravesend covering Singlewell and beyond. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
+ "burglar-repair-service.hero-paragraph": "Expert burglar repair services in Gravesend by qualified locksmiths specialising in locksmithing. Following forced entry or break-ins, we restore security with door reinforcement and TS007 anti-snap cylinders. Our work meets insurance requirements and BS3621 standards, ensuring your home is properly protected against future intrusion.",
+ "burglar-repair-service.local-context-body": "Post-break-in repair work in Gravesend reflects the town's mixed housing ages and types. Semi-detached homes across Christian Fields and Denton frequently require urgent lock and door reinstatement after forced entry, with cylinder locks being the standard replacement component. Victorian terraces in riverside areas present additional complexity, as period door frames and hardware demand careful restoration to preserve structural integrity while restoring security.\n\nInsurance-backed repair standards require locksmiths to document damage comprehensively and source components that meet insurer specifications. Modern flat developments in the town increasingly feature multi-technology access points\u2014electronic systems alongside traditional locks\u2014meaning burglar repair work must address both conventional and electronic damage simultaneously, particularly where communal entry doors have been compromised.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you repair doors on Victorian terraces in Milton after a break-in, or do I need a specialist?",
+   "a": "We handle post-break-in door and frame repairs on Victorian terraces across Milton and Windmill Hill. Our locksmiths understand period joinery and can source or fit replacement locks that match your original fittings, ensuring both security and aesthetic reinstatement for insurance purposes."
+  },
+  {
+   "q": "Can you repair electronic locks on the flat developments in Riverview Park after a break-in?",
+   "a": "Yes\u2014modern flat developments like Riverview Park often use electronic access systems and communal entry locks. We're equipped to repair or replace both the physical lock damage and any electronic components, and we'll liaise with your building management to restore full access security."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Gravesend \u2013 Fast Response 24/7",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Gravesend\u2014same-day door and window boarding for Victorian terraces, modern flats, and semi-detached homes after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Gravesend from our experienced locksmith team combines professional locksmithing with rapid response. Whether you're facing smashed windows or damaged doors, we secure your property with robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Storm damage and break-ins affecting Gravesend's riverside and suburban properties create steady demand for emergency boarding. Victorian and Edwardian villas on Windmill Hill, with their period sash windows and original door frames, require careful boarding that preserves structural integrity and respects conservation considerations. Post-war semi-detached homes in Westcourt typically feature standard timber or composite doors; rapid boarding of these properties prevents further weather exposure and unauthorised entry while repairs are arranged.\n\nMany of Gravesend's older properties fall within conservation areas, particularly around Windmill Hill, where boarding specifications must align with planning guidance to avoid enforcement action. Modern flat developments in Riverview Park often involve communal entry systems; boarding decisions require coordination with building management and may affect access protocols for other residents. Turnaround time is critical\u2014coastal and Thames-side exposure means weather deterioration accelerates quickly, particularly during winter months.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can Boltlok board up a broken window in a Victorian terrace in Milton after a break-in?",
+   "a": "We aim to arrive within 60 minutes for emergency calls in Gravesend, including Victorian terraces in Milton and Windmill Hill. Our team carries standard and bespoke boarding materials to secure period properties without causing further damage to original frames."
+  },
+  {
+   "q": "Can you board up storm damage on semi-detached homes in Westcourt the same day?",
+   "a": "Yes\u2014we offer same-day emergency boarding for storm-damaged doors and windows across Westcourt and other post-war suburban areas. We'll secure your property quickly and provide temporary weatherproofing until permanent repairs can be arranged."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Gravesend \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Gravesend for Victorian terraces, post-war homes & modern flats. Fast professional replacement after moving or key loss. Call 01474 621084.",
+ "lock-changes.hero-paragraph": "Lock changes in Gravesend require a skilled locksmith with expert locksmithing knowledge to ensure your security. Whether you're moving home, changing tenancy, or upgrading your property's security, we fit high-specification cylinders including BS3621 mortice locks and TS007 anti-snap mechanisms. Our technicians guarantee professional installation to current security standards.",
+ "lock-changes.local-context-body": "Gravesend's interwar and post-war suburban areas, particularly in Singlewell, feature large numbers of semi-detached homes where lock changes are a routine requirement following house moves or key loss. Standard cylinder locks dominate these properties, making replacement straightforward for most residential changeovers. New-build flat developments in Riverview Park present a different picture: many require coordination with managing agents and involve electronic or communal entry systems that demand specialist knowledge alongside traditional lock work.\n\nLock changes in older Victorian properties demand particular attention to period-appropriate fitting and preservation considerations. Westcourt's established semi-detached stock, typical of post-war Gravesend, frequently uses mortice locks that may require adjustment during replacement to avoid damage to door frames. Access to properties during changeovers often involves liaising with landlords or managing agents, especially in the growing number of multi-unit developments where security protocols require documented completion of work.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Milton\u2014do I need specialist lock changes?",
+   "a": "Yes. Victorian properties often have period-fitted locks that may require careful handling during replacement. Our locksmiths are experienced in working with original mechanisms and can fit modern locks while preserving the character of your home, or restore period locks if you prefer authenticity."
+  },
+  {
+   "q": "We're in a new-build flat at Riverview Park\u2014can you handle electronic access locks?",
+   "a": "Absolutely. Modern flat developments use electronic and smart access systems alongside traditional locks. We're equipped to change, rekey, and integrate both technologies, and can liaise with your building management on communal entry updates."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Gravesend \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Gravesend for Victorian terraces, post-war semis & modern flats. Multipoint, mortice & cylinder lock fixes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Gravesend by our experienced locksmith specialists in locksmithing. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, our technicians deliver reliable solutions. We carry manufacturer warranties on all work and specialise in mortice maintenance and multipoint servicing to restore your locks to full working order.",
+ "lock-repairs.local-context-body": "The semi-detached homes of Westcourt frequently require cylinder lock repairs and multipoint lock servicing due to standard wear on post-war hardware. Victorian terraces in Milton and Windmill Hill present a different challenge: original period mortice and night latch mechanisms demand specialist knowledge to repair without compromising historic integrity, and replacement keys must often be custom-fitted to antique gearboxes.\n\nGravesend's mixed housing era means repair work must accommodate both straightforward modern lock systems and period-appropriate solutions. Listed properties require locksmiths to understand conservation principles, as inappropriate repairs or replacements can breach planning controls. Modern flat developments in Riverview Park add complexity through communal electronic entry systems that interact with individual unit locks, requiring technicians familiar with integrated access infrastructure.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Milton and Windmill Hill need specialist lock repairs?",
+   "a": "Victorian properties often feature original period mortice and night latch mechanisms that require specialist knowledge to repair without damage. Boltlok's locksmiths understand the tolerances and materials of period locks, ensuring repairs restore function while preserving the character of your home."
+  },
+  {
+   "q": "My semi-detached in Westcourt has a broken cylinder lock\u2014how quickly can you repair it?",
+   "a": "Post-war semi-detached homes across Westcourt typically use standard cylinder locks that we repair and replace promptly. We usually attend lockouts and lock repairs in Gravesend within hours, minimising disruption to your home."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Gravesend \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Gravesend: BS3621 mortice locks, TS007 anti-snap cylinders & multipoint systems. Serving Victorian terraces, post-war semis & modern flats.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Gravesend by our experienced locksmith specialists combines skilled locksmithing with quality security solutions. Whether you need new fittings, a security upgrade, or locks that meet insurance requirements, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
+ "door-lock-installation.local-context-body": "Modern flat developments in Riverview Park frequently require multipoint lock installation across communal entry doors and individual units, while the semi-detached properties of Christian Fields typically need standard cylinder replacement or BS3621 mortice fitting during refurbishment. This mix of residential types\u2014from period stock to contemporary buildings\u2014means door lock installation work in Gravesend spans both straightforward upgrades and more complex access control systems.\n\nVictorian terraces in Milton retain original period doors and frames that may need careful measurement and adaptation before TS007 anti-snap cylinders or mortice locks can be fitted without structural alteration. Listed building status on some properties also requires locksmiths to confirm any heritage restrictions before proceeding with installation, ensuring compliance with conservation guidelines.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Milton\u2014what locks do you recommend for period properties?",
+   "a": "We specialise in fitting locks that respect period features while meeting modern security standards. For Victorian terraces, we often install BS3621 mortice locks that complement original joinery, or upgrade to TS007 anti-snap cylinders if you prefer a contemporary security boost without compromising aesthetics."
+  },
+  {
+   "q": "We've just bought a semi-detached in Westcourt and want to replace the old cylinder locks\u2014how long does installation take?",
+   "a": "Replacing standard cylinders on post-war semi-detached homes is straightforward; most jobs complete in 1\u20132 hours. We'll fit anti-snap TS007 cylinders or a full multipoint system if you'd like enhanced security, and we can rekey to your preference."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Gravesend \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Gravesend, including Milton Victorian terraces & modern homes. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Gravesend locksmith team specialises in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we fit high-security BS3621-approved locks and offer like-for-like cylinder swaps or anti-snap upgrades to enhance your property's security.",
+ "door-lock-replacement.local-context-body": "Door lock replacement is a frequent requirement across Gravesend's mixed housing stock. Post-war semi-detached properties in areas like Denton typically feature standard cylinder locks that reach end-of-life within 15\u201320 years; replacement with modern equivalents is straightforward. Conversely, Victorian terraces in Milton retain original period mechanisms where like-for-like swaps demand specialist knowledge of heritage lock profiles and key blanks, often requiring sourcing from specialist suppliers rather than standard stock.\n\nGravesend's riverside location and listed-building designations in older quarters mean replacement work must sometimes comply with conservation area guidelines, particularly where external appearance is visible from the street. Modern developments in Kings Farm introduce a second practical constraint: new-build semi-detached and flat units increasingly feature pre-fitted smart locks or keyed-alike systems tied to communal entry protocols, requiring locksmiths to understand compatibility and tenant/leaseholder access hierarchies before recommending or fitting replacements.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Milton with an original period lock that's worn out\u2014can you replace it without damaging the door frame?",
+   "a": "Yes. Our locksmiths specialise in period lock replacement on Gravesend's Victorian properties, carefully removing and fitting replacements that match original specifications and protect the integrity of heritage door frames. We can source period-appropriate locks or fit modern equivalents designed to suit period aesthetics."
+  },
+  {
+   "q": "My post-war semi-detached in Denton has a faulty cylinder lock\u2014how quickly can you replace it?",
+   "a": "Standard cylinder lock replacement on post-war semi-detached homes like those across Denton is one of our most common jobs; we can typically attend the same day and complete the swap within an hour, including rekeying if needed."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Gravesend \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Gravesend for Victorian terraces, post-war semis & modern homes. uPVC alignment, composite door realignment, handle repair.",
+ "door-repairs.hero-paragraph": "Door repairs in Gravesend from our experienced locksmith team specialise in locksmithing solutions for domestic and commercial properties. Dropped or catching doors are common issues we resolve through hinge adjustment and frame alignment. Whether your uPVC, composite or timber door won't close properly or lets in draughts, our technicians deliver reliable repairs promptly.",
+ "door-repairs.local-context-body": "Gravesend's mixed housing stock creates varied door repair demands. Victorian terraces in Milton often feature solid timber doors with period hardware that requires careful alignment and specialist hinge work, while post-war semi-detached homes in Parrock Farm typically have standard modern doors prone to settlement-related dropping and frame misalignment. New-build flats in Riverview Park present different challenges, with composite doors and integrated electronic systems requiring coordinated repairs.\n\nMany properties across Gravesend date from the interwar and post-war periods, meaning doors and frames have settled over decades. This subsidence-related misalignment is particularly common in older terraced and semi-detached properties, where dropped hinges and binding frames require both structural assessment and hardware adjustment rather than simple replacement.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Milton need specialist door repairs?",
+   "a": "Victorian terraces often have original period frames and hardware that have settled unevenly over time, causing doors to drop or misalign. Our locksmiths understand the specific carpentry and fitting requirements of these older properties and can restore both function and period authenticity."
+  },
+  {
+   "q": "What door problems are common in Gravesend's post-war semi-detached homes?",
+   "a": "Semi-detached properties across areas like Parrock Farm frequently experience door drop and frame stress due to foundation movement typical of post-war construction. We specialise in realigning these doors and replacing worn hardware to restore smooth operation and security."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Gravesend \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Gravesend. Espagnolette and shootbolt locks fixed on Victorian terraces, period homes and modern properties.",
+ "window-lock-repair-replacement.hero-paragraph": "Professional window lock repair and replacement in Gravesend from our experienced locksmith specialists in locksmithing. We address common issues including broken handles and windows that won't lock, restoring security with precision repairs to espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant standards, ensuring your home protection is properly certified.",
+ "window-lock-repair-replacement.local-context-body": "Victorian terraces and semis in Milton frequently retain original sash windows with period espagnolette locks that require specialist attention to repair without compromising historic integrity. Newer properties across Parrock Farm typically feature modern uPVC windows with shootbolt mechanisms prone to wear; replacement becomes necessary when handles fail or locking engagement weakens, a common issue in post-war suburban homes.\n\nMany older Gravesend properties fall within conservation areas or carry listed-building status, meaning window lock replacement must preserve original appearance where feasible. Surveyors and conservationists often require period-appropriate mechanisms or sympathetic modern equivalents, adding specification complexity to repair work beyond standard domestic replacements.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace windows in Windmill Hill often need specialist lock repair?",
+   "a": "Victorian espagnolette and shootbolt locks in Windmill Hill's period terraces use different mechanisms and materials than modern locks, and often suffer wear from age. Boltlok's locksmiths have the specialist knowledge to repair these heritage locks properly or source period-appropriate replacements that maintain the character of your home."
+  },
+  {
+   "q": "What should post-war semi-detached homeowners in Christian Fields know about window lock replacement?",
+   "a": "Post-war semis typically have standard cylinder window locks that can fail due to regular use and weathering. If your Christian Fields home has stiff or broken window locks, replacement with modern, durable alternatives is usually faster and more cost-effective than repair\u2014Boltlok can fit them same-day."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Gravesend \u2013 Fast & Trusted Service",
+ "safe-installation.meta.description": "Safe installation in Gravesend for homes and businesses. Secure anchoring, insurance documentation, wall, floor and freestanding safes.",
+ "safe-installation.hero-paragraph": "Professional safe installation by our Gravesend locksmith combines expert locksmithing with secure placement techniques. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting for maximum protection. Our installations comply with Eurograde and AiS approved standards, guaranteeing your valuables remain safeguarded.",
+ "safe-installation.local-context-body": "Whitehill's interwar semis and detached properties often require safes for valuables and documents, with homeowners seeking secure anchorage solutions that integrate into period walls without structural compromise. Growing new-build flat developments in central Gravesend similarly demand safe installation, though communal ownership rules and building management approval frequently precede fitting work.\n\nVictorian properties on Windmill Hill present particular considerations: solid brick construction allows secure floor and wall mounting, but many properties fall within conservation areas where visible fixings or wall penetration require planning awareness and sensitive installation methods that preserve period character.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do many Singlewell homeowners choose safe installation over portable safes?",
+   "a": "Post-war semi-detached homes in Singlewell lack built-in security features, making a professionally anchored safe essential for protecting valuables and meeting home insurance requirements. We ensure proper wall or floor installation with full documentation for your insurer."
+  },
+  {
+   "q": "What makes safe installation different in modern Riverview Park developments?",
+   "a": "Flat residents in Riverview Park's new-build complexes face restrictions on wall anchoring due to shared structures and electronic access systems. We specialise in compliant floor and freestanding safe solutions that satisfy both your landlord and insurance provider."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Gravesend \u2013 Fast Local Service",
+ "safe-opening.meta.description": "Safe opening in Gravesend for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes across Denton and surrounding areas.",
+ "safe-opening.hero-paragraph": "Our Gravesend locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ combination dial manipulation and precision tools to regain access without damaging your safe. Call us for rapid, professional assistance.",
+ "safe-opening.local-context-body": "Gravesend's established residential areas\u2014particularly Windmill Hill's Victorian and Edwardian properties\u2014often contain period safes and security boxes that require specialist non-destructive opening techniques. Detached villas and larger period terraces frequently house safes installed decades ago, where original keys have been lost or combinations forgotten. Safe opening in these properties demands knowledge of heritage metalwork and period-appropriate methods to avoid damage.\n\nListed-building status affects many properties in conservation areas, meaning destructive safe opening can trigger planning concerns and listed-building consent requirements. Locksmiths working in Gravesend's older neighborhoods must verify heritage listing before proceeding, as non-destructive methods become not merely preferable but often mandatory to preserve the property's historical integrity and avoid regulatory complications.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm locked out of my safe in a Victorian terrace in Milton\u2014can you open it without damage?",
+   "a": "Yes. Our non-destructive safe opening techniques are ideal for period properties where preserving original fixtures matters. We can manipulate locks or recover lost combinations without drilling or forcing, protecting the integrity of your home."
+  },
+  {
+   "q": "We've lost the combination to our safe in one of Riverview Park's new-build flats\u2014how quickly can you help?",
+   "a": "We offer same-day safe opening for Gravesend residents, including those in modern developments like Riverview Park. Contact us on 01474 621084 and we'll arrange an appointment to regain access without damage to your safe or apartment."
+  }
+ ],
+ "home.areas-covered": [
+  "Chalk",
+  "Christian Fields",
+  "Denton",
+  "Kings Farm",
+  "Milton",
+  "Parrock Farm",
+  "Riverview Park",
+  "Singlewell",
+  "Westcourt",
+  "Whitehill",
+  "Windmill Hill"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Windmill Hill",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton"
+ ],
+ "locked-out.areas-covered": [
+  "Milton",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Westcourt"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Whitehill",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Parrock Farm",
+  "Denton",
+  "Kings Farm"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Westcourt",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Windmill Hill"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Chalk",
+  "Singlewell",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Kings Farm"
+ ],
+ "lock-changes.areas-covered": [
+  "Riverview Park",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Westcourt"
+ ],
+ "lock-repairs.areas-covered": [
+  "Kings Farm",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Parrock Farm",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Denton",
+  "Kings Farm"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Christian Fields",
+  "Singlewell",
+  "Chalk",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Windmill Hill"
+ ],
+ "door-repairs.areas-covered": [
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Westcourt"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Denton",
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Westcourt"
+ ],
+ "safe-installation.areas-covered": [
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Westcourt"
+ ],
+ "safe-opening.areas-covered": [
+  "Singlewell",
+  "Chalk",
+  "Christian Fields",
+  "Riverview Park",
+  "Milton",
+  "Whitehill",
+  "Parrock Farm",
+  "Denton",
+  "Kings Farm"
+ ]
 }
