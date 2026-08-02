@@ -1,339 +1,311 @@
 {
-  "meta.title": "Locksmith Huntingdon | Local Locksmithing Service 24/7",
-  "meta.description": "Huntingdon locksmith offering emergency call-outs, lock repairs, and smart lock installation. Serving Victorian properties and modern estates across Newtown and Oxmoor.",
-  "home.hero-paragraph": "Huntingdon locksmith services specialising in locksmithing and professional lock assistance are available 24/7. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and respond rapidly to residential and commercial callouts across the area.",
-  "home.local-context-heading": "Locksmith Services Across Huntingdon's Neighborhoods",
-  "home.local-context-body": "Huntingdon's mixed housing stock—from Victorian riverside terraces to post-war semis and modern developments—creates varied locksmith needs. Properties in Newtown and across the post-war estates typically feature standard cylinder locks and uPVC seals, which account for frequent callouts. Older properties in the historic center often retain original cast-iron hardware and period mechanisms that require specialist knowledge to service without damage.\n\nMany period properties in conservation areas require locks that match or respect original architectural detail, which can affect repair and replacement options. Properties with uPVC doors—common across post-war neighborhoods—have specific seal and locking mechanisms that differ from traditional timber frames, so choosing a locksmith familiar with local door types matters for effective service.",
-  "home.local-faqs": [
-    {
-      "q": "I live in Hartford and have original cast-iron locks on my Victorian terraced house. Can you help without damaging the period hardware?",
-      "a": "Yes—our locksmiths specialise in period mechanisms common in Huntingdon's riverside Victorian properties. We can repair, adjust, or replace original hardware while preserving its character and integrity."
-    },
-    {
-      "q": "We've just bought a new-build property in St Johns Park. Do you install smart locks and electronic access systems?",
-      "a": "Absolutely. We fit smart locks, keyless entry systems, and integrated electronic access controls for modern developments across Huntingdon, including St Johns Park and Stukeley Meadows."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Huntingdon | 24/7 Urgent Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Huntingdon. Locked out or key snapped? Fast response across Sapley, St Johns Park & beyond. Urgent repairs, non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Huntingdon, our locksmiths bring professional locksmithing expertise to your door 24/7. Whether you're locked out, dealing with a snapped key, or facing post-break-in repairs, we specialise in non-destructive entry techniques. All our technicians are DBS checked, ensuring you receive trustworthy service when you need it most.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Huntingdon frequently affect post-war semi-detached and terrace properties across Sapley and Oxmoor, where cylinder locks on uPVC doors are standard. These suburban estates generate consistent callout demand, particularly for snapped keys and seized mechanisms. Victorian riverside properties in the town center present different challenges, often featuring original cast-iron hardware that requires careful handling during emergency access.\n\nMany older properties retain period locks and mechanisms that demand specialist knowledge during emergency callouts. Post-break-in security work must account for listed-building considerations in the historic core, where replacement locks and reinforcement methods are subject to conservation guidelines. Modern developments like St Johns Park introduce electronic access systems that require different diagnostic approaches than traditional locks, affecting response protocols and parts availability.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Hartford—can you handle the original cast-iron hardware without damaging it?",
-      "a": "Yes, our locksmiths specialise in period locks and heritage mechanisms common in Huntingdon's Victorian riverside properties. We use non-destructive techniques to preserve original hardware wherever possible."
-    },
-    {
-      "q": "It's 2 a.m. and my door won't lock properly in Newtown—how quickly can you attend?",
-      "a": "We're available 24/7 for emergencies like yours across Huntingdon, including Newtown's post-war estates. Most callouts are reached within 30–45 minutes; call 01480 745015 to confirm arrival time."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Huntingdon? Emergency Entry Service | ShieldX",
-  "locked-out.meta.description": "Locked out in Huntingdon? Fast, non-destructive entry for lost or snapped keys. Serving St Johns Park, Hartford & across town. 24/7 emergency locksmith.",
-  "locked-out.hero-paragraph": "When you're locked out in Huntingdon, our locksmiths specialise in locksmithing techniques that restore access quickly. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive entry methods to regain entry without damage. Our damage-free approach means your door and locks remain intact, letting you back in within the hour.",
-  "locked-out.local-context-body": "Huntingdon's post-war estates in Sapley and Newtown account for a significant proportion of lockout callouts, where semi-detached and terrace properties predominantly feature standard cylinder locks on uPVC doors. These straightforward mechanisms typically allow rapid non-destructive entry, though volume and accessibility can vary depending on whether the property backs onto shared green space or has restricted side access.\n\nVictorian properties in the town center, particularly those with original cast-iron hardware, require different handling during lockout attendance. Many retain period mechanisms that demand specialist knowledge to avoid damage; forcing or drilling these locks can compromise both the mechanism and the property's architectural integrity, making non-destructive techniques essential but occasionally more time-intensive than modern equivalents.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Hartford with an original cast-iron lock—can you open it without damage?",
-      "a": "Yes. Our locksmiths specialise in non-destructive entry on period locks and mechanisms common in Hartford's riverside Victorian properties. We'll use careful manipulation techniques to preserve your original hardware."
-    },
-    {
-      "q": "My key snapped in the lock of my semi-detached in Newtown—how quickly can you get me back inside?",
-      "a": "We typically attend locked-out callouts across Newtown's post-war estates within the hour. We'll extract the broken key fragment and gain non-destructive entry, often without needing to replace the entire cylinder."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Huntingdon | Victorian & Modern Locks",
-  "broken-key-removal.meta.description": "Broken key removal in Huntingdon from ShieldX. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service for Victorian & post-war properties.",
-  "broken-key-removal.hero-paragraph": "Our Huntingdon locksmiths specialise in broken key removal using expert locksmithing techniques tailored to your situation. Whether you've experienced a snapped key in a mortice lock or euro cylinder, we employ non-destructive methods with precision key extractor tools to retrieve the fragment safely. Your lock remains intact and fully functional after our work.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent service across Huntingdon's residential areas, particularly where older locks remain in use. Victorian terraces in the historic core and interwar semi-detached properties in Hinchingbrooke often feature original cast-iron hardware and period mortice locks prone to key fracture when worn mechanisms bind. Post-war estates like Newtown compound demand for this service through high concentrations of standard cylinder locks in rental and owner-occupied stock, where repeated use and wear increase snapping risk.\n\nMany of Huntingdon's period properties in the Georgian and Victorian town center carry listed-building restrictions that require careful key extraction without damage to original lock casings and decorative hardware. This constrains removal methods and may necessitate specialist heritage-aware approaches. Modern suburban properties, conversely, typically feature simpler euro cylinders that allow straightforward extraction, though access to appropriate removal tools must account for the variety of lock ages and conditions across mixed-era neighborhoods.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian properties in Hartford often need professional broken key removal?",
-      "a": "Hartford's riverside Victorian terraces frequently feature original cast-iron hardware and period mortice locks with tighter tolerances than modern cylinders, making snapped keys more difficult to extract safely without specialist tools. Our technicians have experience working with these heritage mechanisms to avoid further damage to the lock itself."
-    },
-    {
-      "q": "Can you remove a broken key from a uPVC door in our Sapley property without replacing the whole lock?",
-      "a": "Yes—most standard cylinder locks in post-war estates like Sapley use removable euro cylinders, so we can extract the key and either remove the fragment from inside the cylinder or replace just that component, keeping your door frame and seals intact."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Huntingdon – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Huntingdon. Post-break-in lock changes, door repairs and security upgrades across Sapley, Oxmoor and beyond. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Our burglar repair locksmith service in Huntingdon combines expert locksmithing with proven security solutions for properties affected by forced entry. We specialise in reinforcing damaged doors and installing TS007 anti-snap cylinders to prevent repeat break-ins. All work meets insurance-compliant standards, ensuring your home receives professional protection backed by industry certification.",
-  "burglar-repair-service.local-context-body": "Break-ins across Huntingdon's suburban expanses—particularly in Oxmoor's detached and semi-detached properties—frequently result in damaged frames, forced locks, and compromised door seals. Post-break-in repair work must restore both security and insurance compliance, requiring swift assessment of structural integrity alongside lock reinstatement. Older Victorian properties in the town center present different challenges, where period mechanisms and original hardware demand specialist handling during damage rectification.\n\nMany properties across post-war estates retain standard cylinder locks and uPVC door construction, which simplifies rapid replacement during emergency repairs. However, Victorian riverside properties often feature cast-iron hardware and timber frames that cannot tolerate standard forcing techniques; repair protocols must account for listed-building considerations and the need to source period-appropriate replacements. Insurance assessors typically require photographic documentation and certification that repairs meet security standards prior to reinstatement sign-off.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle break-in repairs on Victorian cast-iron hardware in Hartford?",
-      "a": "Yes. Hartford's riverside Victorian terraces often have original period locks and cast-iron fittings that require specialist knowledge to repair safely without damage. We source matching hardware where needed and restore your door to insurance-standard condition."
-    },
-    {
-      "q": "Can you repair uPVC door seals after a break-in on post-war estates?",
-      "a": "Absolutely. Post-war properties across Huntingdon's estates like Sapley and Newtown commonly have uPVC doors with compromised seals after forced entry. We replace seals, repair frames, and reinstate your door to full security specification."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Huntingdon | Victorian & Modern Homes",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Huntingdon for break-ins and storm damage. Same-day secure boarding of doors and windows across Newtown and surrounding areas.",
-  "emergency-boarding-up.hero-paragraph": "Our Huntingdon locksmith team specialises in emergency boarding up services that combine expert locksmithing with rapid response techniques. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 service is fully insurance-compliant, ensuring your premises remain protected until permanent repairs can be made.",
-  "emergency-boarding-up.local-context-body": "Properties across Hinchingbrooke and the wider suburban belt feature standard uPVC door frames and glazing typical of post-war and modern builds, making them vulnerable to impact damage in break-ins and severe weather. Semi-detached and detached homes in these areas often require rapid boarding solutions to secure compromised entry points and prevent further weather ingress or opportunistic intrusion while permanent repairs are arranged.\n\nHuntingdon's historic riverside core includes period properties with original timber casements and heritage glazing that demand specialist boarding techniques to avoid damage to listed features. Local council planning considerations also affect approach—temporary protective measures on older Hartford properties may require careful assessment to ensure compliance with conservation guidelines, particularly where visible from street frontage or in conservation areas.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a Victorian terrace in Hartford after a break-in?",
-      "a": "We attend emergency callouts in Hartford's riverside Victorian properties within 60 minutes. Our team is experienced with the original cast-iron frames and period joinery common in these older terraces, ensuring boarding fits securely without causing further damage to your property."
-    },
-    {
-      "q": "Can you board up modern uPVC doors and windows in the post-war estates?",
-      "a": "Yes—we regularly board uPVC frames in Sapley and Newtown's post-war properties. Our team uses reinforced plywood and appropriate fixings that won't compromise the synthetic frames while keeping your home secure until permanent repairs can be made."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Huntingdon | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Huntingdon for Victorian terraces & modern homes. Lost keys, moving house, security upgrades. Fast professional service. Call 01480 745015.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Huntingdon by our experienced locksmith specialists combine modern locksmithing techniques with rigorous security standards. Whether you're moving home, changing tenancy, or upgrading your property's security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect what matters most.",
-  "lock-changes.local-context-body": "Lock changes in Stukeley Meadows and other new-build developments are typically straightforward, involving modern cylinder locks on standard uPVC doors that respond well to swift replacement. Conversely, semi-detached properties across Hartford often retain original Victorian or post-war hardware, where lock changes demand careful handling of period mechanisms and cast-iron fittings to preserve both functionality and the property's character.\n\nMany older terraced properties in Huntingdon's riverside core fall under local heritage considerations, requiring lock replacements to match existing hardware styles or secure listed-building consent before work begins. Newer estates tend to feature standardized cylinder locks, but specification consistency across multi-unit developments can necessitate advance clarification of door types and frame conditions to ensure compatible replacement stock on site.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian property in Hartford—do I need specialist lock replacement?",
-      "a": "Yes, Hartford's Victorian terraces often feature original cast-iron hardware and period mechanisms that require specialist knowledge to replace safely without damaging the door frame or period features. We can source compatible locks that maintain both security and character."
-    },
-    {
-      "q": "We're upgrading security across our rental properties in Sapley and Oxmoor—what's the fastest approach?",
-      "a": "Both areas have high volumes of standard cylinder locks on post-war properties, which we can replace quickly and efficiently across multiple units. We can coordinate bulk lock changes and provide keying consistency for management purposes."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Huntingdon | Victorian & Modern Homes",
-  "lock-repairs.meta.description": "Expert lock repairs in Huntingdon—multipoint, mortice & night latch fixes. Fast response across Sapley, St Johns Park & throughout town. Call 01480 745015.",
-  "lock-repairs.hero-paragraph": "Our Huntingdon locksmith specialises in lock repairs and expert locksmithing solutions when your security fails. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, we diagnose and fix the problem efficiently. Our technicians handle everything from mortice maintenance to multipoint servicing, all backed by manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Huntingdon's Victorian riverside terraces in Hartford retain original cast-iron hardware and period mortice locks that frequently require specialist repair rather than replacement. Semi-detached properties across Oxmoor, by contrast, typically feature standard cylinder locks and multipoint mechanisms fitted to modern frames—these are prone to gearbox failure and latch wear from regular domestic use.\n\nMany older properties in the town's Georgian core fall under listed-building restrictions, meaning lock repairs must preserve original hardware where possible; specialists need familiarity with traditional mechanisms and materials. Across newer developments in St Johns Park, uPVC door frames and contemporary multipoint locks present different challenges, with night latch and gearbox faults often stemming from thermal movement and seal degradation rather than mechanical wear alone.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian locks in Hartford need specialist repair rather than replacement?",
-      "a": "Hartford's riverside Victorian terraces often feature original cast-iron hardware and period locks that require specialist knowledge to repair safely without damaging the mechanism or heritage value of the property. We can restore these gearbox and mortice locks to working order while preserving their character."
-    },
-    {
-      "q": "What's the most common lock repair callout in Newtown and the post-war estates?",
-      "a": "Post-war estates like Newtown have high volumes of standard cylinder locks and multipoint mechanisms on uPVC doors, which commonly fail due to wear. We repair or replace these efficiently to restore security without unnecessary door or frame replacement."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation in Huntingdon – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Huntingdon. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Serving Sapley, Oxmoor and Victorian properties.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Huntingdon from our experienced locksmith team combines skilled locksmithing with robust security solutions. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, our technicians ensure every fitting meets current standards. We handle residential and commercial projects with precision.",
-  "door-lock-installation.local-context-body": "Huntingdon's semi-detached and terrace properties in Newtown represent a significant proportion of lock installation callouts, particularly where original hardware has degraded or where security upgrades are prioritised. The transition from period mechanisms to modern BS3621 mortice locks and TS007 anti-snap cylinders reflects both the age of the housing stock and evolving security standards across these post-war residential areas.\n\nMany properties in Huntingdon's historic core retain listed-building status, which restricts the type and finish of locks that can be installed without planning consent or conservation officer approval. Installers must verify building designation before fitting visible hardware, as period-appropriate finishes and concealed multipoint systems often become necessary. Standard cylinder locks common to suburban estates like Oxmoor present fewer constraints but require careful measurement where door frames have settled or warped over decades.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Why do Victorian properties in Hartford often need specialist lock fitting?",
-      "a": "Hartford's riverside Victorian terraces feature original cast-iron hardware and period mechanisms that require careful handling during lock installation. Our team has the specialist knowledge to fit modern BS3621 mortice locks without damaging historic door frames and finishes."
-    },
-    {
-      "q": "What lock upgrades do post-war homes in Sapley and Newtown typically need?",
-      "a": "Most post-war estates have standard cylinder locks vulnerable to snap attacks. We recommend upgrading to TS007 anti-snap cylinders and multipoint locking systems—a cost-effective security boost for these high-volume residential areas."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Huntingdon | Victorian & Modern Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in Huntingdon. Like-for-like swaps or upgrades for Newtown, Oxmoor and Victorian properties. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our Huntingdon locksmiths specialise in professional door lock replacement work, combining expert locksmithing with reliable service. Whether you've experienced a failed lock, lost your keys, or are moving home, we install BS3621-approved mechanisms and offer anti-snap upgrades for enhanced security. Each replacement uses like-for-like cylinder swaps where possible, ensuring minimal disruption to your property.",
-  "door-lock-replacement.local-context-body": "Door lock replacement is routine across Huntingdon's mixed housing stock. Semi-detached properties in Newtown often require straightforward cylinder lock swaps following wear or failed mechanisms, while detached homes in Great Stukeley increasingly request upgrades from basic pin-tumbler locks to higher-security euro-cylinder variants. Post-war estates account for the bulk of standard callouts; newer residential areas see demand shift toward integrated smart lock compatibility during replacement work.\n\nMany of Huntingdon's Victorian riverside properties retain original cast-iron door frames and period hardware that constrains modern lock fitment. Replacement work must often accommodate non-standard frame depths or existing decorative escutcheons, requiring bespoke fitting rather than direct swap-out. Listed-building status across the historic town center adds further complexity, as aesthetic continuity may override purely functional lock choice. Standard cylinder locks dominate post-war suburbs, simplifying most replacement jobs; specialist knowledge becomes essential only when period properties or conservation areas are involved.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "My Victorian terrace in Hartford has an original cast-iron lock that's stuck—can you replace it without damaging the period hardware?",
-      "a": "Yes. Our locksmiths specialise in working with period locks found in Hartford's riverside Victorian properties. We can either carefully restore the original mechanism or fit a sympathetic replacement that matches the aesthetic of your period door while meeting modern security standards."
-    },
-    {
-      "q": "I live in one of the post-war estates and my cylinder lock keeps jamming—is replacement better than repair?",
-      "a": "For the standard cylinder locks common across Sapley, Newtown, and Oxmoor, replacement is usually the best option if jamming is frequent. We can swap it for a high-security or weather-resistant upgrade that suits uPVC seals and modern door frames typical of those estates."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Huntingdon | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Huntingdon including uPVC alignment, composite doors & handles. Expert service across Newtown, Oxmoor & surrounding areas.",
-  "door-repairs.hero-paragraph": "Our Huntingdon locksmith team specialises in door repairs using expert locksmithing techniques to restore damaged or failing doors. Whether your uPVC, composite or timber door has dropped, won't close properly or is letting in draughts, we diagnose and fix the underlying cause. Our technicians handle hinge adjustment, frame alignment and multipoint realignment to get your door working smoothly again.",
-  "door-repairs.local-context-body": "Huntingdon's mixed housing stock creates varied door repair demands. Semi-detached properties in Great Stukeley often present dropped or misaligned frames typical of post-war construction, while Victorian terraces in the historic core feature original timber doors with period hardware that requires careful handling during realignment work. Both scenarios are common callout types across the town.\n\nMany older properties retain cast-iron hinges and traditional mechanisms that can corrode or shift over decades, complicating straightforward door repairs. Listed-building properties in Huntingdon's Georgian town center frequently require specialist knowledge to preserve original fittings during frame or hardware adjustment, adding complexity to standard door repair work.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Hartford's Victorian terraces need specialist repair?",
-      "a": "Hartford's period properties often feature original cast-iron hardware and heritage locks that require careful handling during repair. Our locksmiths have the expertise to fix misaligned or dropped doors without damaging these valuable period mechanisms."
-    },
-    {
-      "q": "What door repair issues are common in Huntingdon's post-war estates?",
-      "a": "Properties across Sapley and Newtown frequently experience uPVC door seal failure and standard cylinder lock wear. We routinely repair dropped frames and realign doors caused by settling foundations—a common issue in these estates."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Huntingdon",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Huntingdon. Expert fixes for espagnolette and shootbolt locks across Victorian terraces, post-war homes and new builds.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Huntingdon with our experienced locksmith team combines expert locksmithing knowledge with reliable solutions. Whether you're dealing with windows that won't lock or broken handles, we restore security using proven technical methods including espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home protection is properly certified.",
-  "window-lock-repair-replacement.local-context-body": "Victorian terraces in Hartford retain original cast-iron window furniture and period espagnolette mechanisms that require specialist attention during repair or replacement. Semi-detached properties across Newtown, built during post-war expansion, typically feature standard shootbolt locks fitted to timber frames—common components for routine service calls. Each property type demands different approaches: period mechanisms need careful handling to preserve authenticity, while mid-century installations often benefit from straightforward modern lock upgrades.\n\nHuntingdon's historic town center means several riverside properties fall within conservation areas or listed-building designations. Window lock replacement in these zones may require approval before work proceeds, particularly if original hardware carries heritage value. Post-war estates use aluminum and uPVC frames where lock compatibility differs significantly from traditional timber sashes, affecting parts availability and fitting methodology.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian window locks in Hartford often need specialist repair rather than simple replacement?",
-      "a": "Hartford's riverside Victorian terraces feature original cast-iron hardware and period espagnolette mechanisms that require careful handling and specialist knowledge to repair safely without damaging the frames or original metalwork. We assess each lock individually to determine whether repair or sympathetic replacement is best for your period property."
-    },
-    {
-      "q": "Are window lock replacements common in the newer estates like St Johns Park and Stukeley Meadows?",
-      "a": "Yes—new-build properties in these developments often have standard shootbolt and cylinder locks fitted as standard, and we regularly upgrade or repair them when wear occurs or when residents want to integrate them with smart home systems for added security and convenience."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Huntingdon | Professional Safe Fitting",
-  "safe-installation.meta.description": "Professional safe installation in Huntingdon. Wall, floor and freestanding safes with secure anchoring, insurance documentation, and anti-leverage positioning for Victorian and modern homes.",
-  "safe-installation.hero-paragraph": "Safe installation from our Huntingdon locksmith combines expert locksmithing with secure positioning tailored to your needs. Whether you're setting up a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting for maximum protection. Our work meets Eurograde standards and AiS approval specifications, giving you confidence in your asset's security.",
-  "safe-installation.local-context-body": "Safe installation across Huntingdon requires consideration of diverse property ages and structures. Detached homes in Stukeley Meadows typically feature modern cavity walls and concrete floors suitable for standard wall and floor-mounted safes, while older semi-detached properties in Hartford demand careful assessment of load-bearing capacity and period construction methods before anchoring work begins.\n\nMany properties in Huntingdon's Victorian riverside core fall within conservation areas or carry listed-building status, which restricts visible safe installation and requires compliance with local authority guidelines before work proceeds. Post-war suburban properties generally present fewer regulatory constraints, though older cast-iron fireplaces and original plasterwork require skilled handling to avoid structural damage during wall mounting.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Are safes suitable for Victorian terraces in Hartford, and what anchoring do you recommend?",
-      "a": "Yes—Victorian terraces are ideal for safe installation due to solid masonry walls. We assess your period property's wall structure and use appropriate anchoring methods; floor safes are also popular in these older homes to avoid damage to original plasterwork and period features."
-    },
-    {
-      "q": "I live in a new-build on St Johns Park—do I need insurance documentation for my safe installation?",
-      "a": "Absolutely. We provide full installation certificates and insurance documentation with every safe fitting, which is essential for modern properties. This protects your cover and proves professional installation to your insurer."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Huntingdon – Fast Local Service",
-  "safe-opening.meta.description": "Safe opening in Huntingdon for lost keys, combinations & lockouts. Non-destructive methods for domestic, commercial safes across Newtown, post-war estates & beyond.",
-  "safe-opening.hero-paragraph": "Our Huntingdon locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to regain access safely. Our technicians use combination dial manipulation and precision tools to preserve your safe's integrity whilst restoring your access quickly.",
-  "safe-opening.local-context-body": "Safe deposits and home safes are common across Huntingdon's residential mix, particularly in period properties around Hartford where Victorian terraces often house older mechanical safes integrated into fireplaces or walls. Detached homes in Great Stukeley and newer builds in Hinchingbrooke frequently contain modern wall-mounted or floor safes installed during construction or renovation, requiring non-destructive opening when combinations are lost or keys mislaid.\n\nMany of Huntingdon's older safes—especially those in listed Victorian properties—use cast-iron bodies and vintage locking mechanisms that demand specialist handling to avoid damage. Newer installations typically feature electronic keypads or digital locks, where battery failure or code loss is a common trigger for callouts. Access constraints in terraced properties and listed buildings can affect the approach taken, as drilling or manipulation must preserve structural and aesthetic integrity.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Hartford with an old safe I can't open—do you have experience with period mechanisms?",
-      "a": "Yes, we regularly work with heritage safes in Hartford's Victorian properties. Our non-destructive opening techniques preserve original cast-iron hardware and period mechanisms, which is essential for maintaining the character and value of older riverside homes."
-    },
-    {
-      "q": "We've just moved into a new-build in St Johns Park and the developer's safe has a lost combination—how quickly can you help?",
-      "a": "We can typically attend modern developments like St Johns Park within hours. For contemporary safes in new-build properties, our non-destructive methods mean you retain the safe without damage, and we can often rekey it for your own use."
-    }
-  ],
-  "home.areas-covered": [
-    "Great Stukeley",
-    "Hartford",
-    "Hinchingbrooke",
-    "Newtown",
-    "Oxmoor",
-    "Sapley",
-    "St Johns Park",
-    "Stukeley Meadows"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Hinchingbrooke",
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "locked-out.areas-covered": [
-    "St Johns Park",
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Newtown",
-    "Hartford",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Great Stukeley",
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley"
-  ],
-  "lock-changes.areas-covered": [
-    "Oxmoor",
-    "Hartford",
-    "Newtown",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "lock-repairs.areas-covered": [
-    "Stukeley Meadows",
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Sapley",
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Great Stukeley"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "door-repairs.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "safe-installation.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ],
-  "safe-opening.areas-covered": [
-    "Hartford",
-    "Newtown",
-    "Oxmoor",
-    "Stukeley Meadows",
-    "Hinchingbrooke",
-    "St Johns Park",
-    "Sapley",
-    "Great Stukeley"
-  ]
+ "meta.title": "Locksmith Huntingdon | Local Locksmithing Service 24/7",
+ "meta.description": "Huntingdon locksmith offering emergency call-outs, lock repairs, and smart lock installation. Serving Victorian properties and modern estates across Newtown and Oxmoor.",
+ "home.hero-paragraph": "Huntingdon locksmith services specialising in locksmithing and professional lock assistance are available 24/7. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and respond rapidly to residential and commercial callouts across the area.",
+ "home.local-context-heading": "Locksmith Services Across Huntingdon's Neighborhoods",
+ "home.local-context-body": "Huntingdon's mixed housing stock\u2014from Victorian riverside terraces to post-war semis and modern developments\u2014creates varied locksmith needs. Properties in Newtown and across the post-war estates typically feature standard cylinder locks and uPVC seals, which account for frequent callouts. Older properties in the historic center often retain original cast-iron hardware and period mechanisms that require specialist knowledge to service without damage.\n\nMany period properties in conservation areas require locks that match or respect original architectural detail, which can affect repair and replacement options. Properties with uPVC doors\u2014common across post-war neighborhoods\u2014have specific seal and locking mechanisms that differ from traditional timber frames, so choosing a locksmith familiar with local door types matters for effective service.",
+ "home.local-faqs": [
+  {
+   "q": "I live in Hartford and have original cast-iron locks on my Victorian terraced house. Can you help without damaging the period hardware?",
+   "a": "Yes\u2014our locksmiths specialise in period mechanisms common in Huntingdon's riverside Victorian properties. We can repair, adjust, or replace original hardware while preserving its character and integrity."
+  },
+  {
+   "q": "We've just bought a new-build property in St Johns Park. Do you install smart locks and electronic access systems?",
+   "a": "Absolutely. We fit smart locks, keyless entry systems, and integrated electronic access controls for modern developments across Huntingdon, including St Johns Park and Stukeley Meadows."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Huntingdon | 24/7 Urgent Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Huntingdon. Locked out or key snapped? Fast response across Sapley, St Johns Park & beyond. Urgent repairs, non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Huntingdon, our locksmiths bring professional locksmithing expertise to your door 24/7. Whether you're locked out, dealing with a snapped key, or facing post-break-in repairs, we specialise in non-destructive entry techniques. All our technicians are DBS checked, ensuring you receive trustworthy service when you need it most.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Huntingdon frequently affect post-war semi-detached and terrace properties across Sapley and Oxmoor, where cylinder locks on uPVC doors are standard. These suburban estates generate consistent callout demand, particularly for snapped keys and seized mechanisms. Victorian riverside properties in the town center present different challenges, often featuring original cast-iron hardware that requires careful handling during emergency access.\n\nMany older properties retain period locks and mechanisms that demand specialist knowledge during emergency callouts. Post-break-in security work must account for listed-building considerations in the historic core, where replacement locks and reinforcement methods are subject to conservation guidelines. Modern developments like St Johns Park introduce electronic access systems that require different diagnostic approaches than traditional locks, affecting response protocols and parts availability.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Hartford\u2014can you handle the original cast-iron hardware without damaging it?",
+   "a": "Yes, our locksmiths specialise in period locks and heritage mechanisms common in Huntingdon's Victorian riverside properties. We use non-destructive techniques to preserve original hardware wherever possible."
+  },
+  {
+   "q": "It's 2 a.m. and my door won't lock properly in Newtown\u2014how quickly can you attend?",
+   "a": "We're available 24/7 for emergencies like yours across Huntingdon, including Newtown's post-war estates. Most callouts are reached within 30\u201345 minutes; call 01480 745015 to confirm arrival time."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Huntingdon? Emergency Entry Service | ShieldX",
+ "locked-out.meta.description": "Locked out in Huntingdon? Fast, non-destructive entry for lost or snapped keys. Serving St Johns Park, Hartford & across town. 24/7 emergency locksmith.",
+ "locked-out.hero-paragraph": "When you're locked out in Huntingdon, our locksmiths specialise in locksmithing techniques that restore access quickly. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive entry methods to regain entry without damage. Our damage-free approach means your door and locks remain intact, letting you back in within the hour.",
+ "locked-out.local-context-body": "Huntingdon's post-war estates in Sapley and Newtown account for a significant proportion of lockout callouts, where semi-detached and terrace properties predominantly feature standard cylinder locks on uPVC doors. These straightforward mechanisms typically allow rapid non-destructive entry, though volume and accessibility can vary depending on whether the property backs onto shared green space or has restricted side access.\n\nVictorian properties in the town center, particularly those with original cast-iron hardware, require different handling during lockout attendance. Many retain period mechanisms that demand specialist knowledge to avoid damage; forcing or drilling these locks can compromise both the mechanism and the property's architectural integrity, making non-destructive techniques essential but occasionally more time-intensive than modern equivalents.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Hartford with an original cast-iron lock\u2014can you open it without damage?",
+   "a": "Yes. Our locksmiths specialise in non-destructive entry on period locks and mechanisms common in Hartford's riverside Victorian properties. We'll use careful manipulation techniques to preserve your original hardware."
+  },
+  {
+   "q": "My key snapped in the lock of my semi-detached in Newtown\u2014how quickly can you get me back inside?",
+   "a": "We typically attend locked-out callouts across Newtown's post-war estates within the hour. We'll extract the broken key fragment and gain non-destructive entry, often without needing to replace the entire cylinder."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Huntingdon | Victorian & Modern Locks",
+ "broken-key-removal.meta.description": "Broken key removal in Huntingdon from ShieldX. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service for Victorian & post-war properties.",
+ "broken-key-removal.hero-paragraph": "Our Huntingdon locksmiths specialise in broken key removal using expert locksmithing techniques tailored to your situation. Whether you've experienced a snapped key in a mortice lock or euro cylinder, we employ non-destructive methods with precision key extractor tools to retrieve the fragment safely. Your lock remains intact and fully functional after our work.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent service across Huntingdon's residential areas, particularly where older locks remain in use. Victorian terraces in the historic core and interwar semi-detached properties in Hinchingbrooke often feature original cast-iron hardware and period mortice locks prone to key fracture when worn mechanisms bind. Post-war estates like Newtown compound demand for this service through high concentrations of standard cylinder locks in rental and owner-occupied stock, where repeated use and wear increase snapping risk.\n\nMany of Huntingdon's period properties in the Georgian and Victorian town center carry listed-building restrictions that require careful key extraction without damage to original lock casings and decorative hardware. This constrains removal methods and may necessitate specialist heritage-aware approaches. Modern suburban properties, conversely, typically feature simpler euro cylinders that allow straightforward extraction, though access to appropriate removal tools must account for the variety of lock ages and conditions across mixed-era neighborhoods.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian properties in Hartford often need professional broken key removal?",
+   "a": "Hartford's riverside Victorian terraces frequently feature original cast-iron hardware and period mortice locks with tighter tolerances than modern cylinders, making snapped keys more difficult to extract safely without specialist tools. Our technicians have experience working with these heritage mechanisms to avoid further damage to the lock itself."
+  },
+  {
+   "q": "Can you remove a broken key from a uPVC door in our Sapley property without replacing the whole lock?",
+   "a": "Yes\u2014most standard cylinder locks in post-war estates like Sapley use removable euro cylinders, so we can extract the key and either remove the fragment from inside the cylinder or replace just that component, keeping your door frame and seals intact."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Huntingdon \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Huntingdon. Post-break-in lock changes, door repairs and security upgrades across Sapley, Oxmoor and beyond. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Our burglar repair locksmith service in Huntingdon combines expert locksmithing with proven security solutions for properties affected by forced entry. We specialise in reinforcing damaged doors and installing TS007 anti-snap cylinders to prevent repeat break-ins. All work meets insurance-compliant standards, ensuring your home receives professional protection backed by industry certification.",
+ "burglar-repair-service.local-context-body": "Break-ins across Huntingdon's suburban expanses\u2014particularly in Oxmoor's detached and semi-detached properties\u2014frequently result in damaged frames, forced locks, and compromised door seals. Post-break-in repair work must restore both security and insurance compliance, requiring swift assessment of structural integrity alongside lock reinstatement. Older Victorian properties in the town center present different challenges, where period mechanisms and original hardware demand specialist handling during damage rectification.\n\nMany properties across post-war estates retain standard cylinder locks and uPVC door construction, which simplifies rapid replacement during emergency repairs. However, Victorian riverside properties often feature cast-iron hardware and timber frames that cannot tolerate standard forcing techniques; repair protocols must account for listed-building considerations and the need to source period-appropriate replacements. Insurance assessors typically require photographic documentation and certification that repairs meet security standards prior to reinstatement sign-off.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle break-in repairs on Victorian cast-iron hardware in Hartford?",
+   "a": "Yes. Hartford's riverside Victorian terraces often have original period locks and cast-iron fittings that require specialist knowledge to repair safely without damage. We source matching hardware where needed and restore your door to insurance-standard condition."
+  },
+  {
+   "q": "Can you repair uPVC door seals after a break-in on post-war estates?",
+   "a": "Absolutely. Post-war properties across Huntingdon's estates like Sapley and Newtown commonly have uPVC doors with compromised seals after forced entry. We replace seals, repair frames, and reinstate your door to full security specification."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Huntingdon | Victorian & Modern Homes",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Huntingdon for break-ins and storm damage. Same-day secure boarding of doors and windows across Newtown and surrounding areas.",
+ "emergency-boarding-up.hero-paragraph": "Our Huntingdon locksmith team specialises in emergency boarding up services that combine expert locksmithing with rapid response techniques. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 service is fully insurance-compliant, ensuring your premises remain protected until permanent repairs can be made.",
+ "emergency-boarding-up.local-context-body": "Properties across Hinchingbrooke and the wider suburban belt feature standard uPVC door frames and glazing typical of post-war and modern builds, making them vulnerable to impact damage in break-ins and severe weather. Semi-detached and detached homes in these areas often require rapid boarding solutions to secure compromised entry points and prevent further weather ingress or opportunistic intrusion while permanent repairs are arranged.\n\nHuntingdon's historic riverside core includes period properties with original timber casements and heritage glazing that demand specialist boarding techniques to avoid damage to listed features. Local council planning considerations also affect approach\u2014temporary protective measures on older Hartford properties may require careful assessment to ensure compliance with conservation guidelines, particularly where visible from street frontage or in conservation areas.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a Victorian terrace in Hartford after a break-in?",
+   "a": "We attend emergency callouts in Hartford's riverside Victorian properties within 60 minutes. Our team is experienced with the original cast-iron frames and period joinery common in these older terraces, ensuring boarding fits securely without causing further damage to your property."
+  },
+  {
+   "q": "Can you board up modern uPVC doors and windows in the post-war estates?",
+   "a": "Yes\u2014we regularly board uPVC frames in Sapley and Newtown's post-war properties. Our team uses reinforced plywood and appropriate fixings that won't compromise the synthetic frames while keeping your home secure until permanent repairs can be made."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Huntingdon | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Huntingdon for Victorian terraces & modern homes. Lost keys, moving house, security upgrades. Fast professional service. Call 01480 745015.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Huntingdon by our experienced locksmith specialists combine modern locksmithing techniques with rigorous security standards. Whether you're moving home, changing tenancy, or upgrading your property's security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect what matters most.",
+ "lock-changes.local-context-body": "Lock changes in Stukeley Meadows and other new-build developments are typically straightforward, involving modern cylinder locks on standard uPVC doors that respond well to swift replacement. Conversely, semi-detached properties across Hartford often retain original Victorian or post-war hardware, where lock changes demand careful handling of period mechanisms and cast-iron fittings to preserve both functionality and the property's character.\n\nMany older terraced properties in Huntingdon's riverside core fall under local heritage considerations, requiring lock replacements to match existing hardware styles or secure listed-building consent before work begins. Newer estates tend to feature standardized cylinder locks, but specification consistency across multi-unit developments can necessitate advance clarification of door types and frame conditions to ensure compatible replacement stock on site.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian property in Hartford\u2014do I need specialist lock replacement?",
+   "a": "Yes, Hartford's Victorian terraces often feature original cast-iron hardware and period mechanisms that require specialist knowledge to replace safely without damaging the door frame or period features. We can source compatible locks that maintain both security and character."
+  },
+  {
+   "q": "We're upgrading security across our rental properties in Sapley and Oxmoor\u2014what's the fastest approach?",
+   "a": "Both areas have high volumes of standard cylinder locks on post-war properties, which we can replace quickly and efficiently across multiple units. We can coordinate bulk lock changes and provide keying consistency for management purposes."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Huntingdon | Victorian & Modern Homes",
+ "lock-repairs.meta.description": "Expert lock repairs in Huntingdon\u2014multipoint, mortice & night latch fixes. Fast response across Sapley, St Johns Park & throughout town. Call 01480 745015.",
+ "lock-repairs.hero-paragraph": "Our Huntingdon locksmith specialises in lock repairs and expert locksmithing solutions when your security fails. Whether you're dealing with stiff locks, jammed mechanisms, or a key that won't turn, we diagnose and fix the problem efficiently. Our technicians handle everything from mortice maintenance to multipoint servicing, all backed by manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Huntingdon's Victorian riverside terraces in Hartford retain original cast-iron hardware and period mortice locks that frequently require specialist repair rather than replacement. Semi-detached properties across Oxmoor, by contrast, typically feature standard cylinder locks and multipoint mechanisms fitted to modern frames\u2014these are prone to gearbox failure and latch wear from regular domestic use.\n\nMany older properties in the town's Georgian core fall under listed-building restrictions, meaning lock repairs must preserve original hardware where possible; specialists need familiarity with traditional mechanisms and materials. Across newer developments in St Johns Park, uPVC door frames and contemporary multipoint locks present different challenges, with night latch and gearbox faults often stemming from thermal movement and seal degradation rather than mechanical wear alone.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian locks in Hartford need specialist repair rather than replacement?",
+   "a": "Hartford's riverside Victorian terraces often feature original cast-iron hardware and period locks that require specialist knowledge to repair safely without damaging the mechanism or heritage value of the property. We can restore these gearbox and mortice locks to working order while preserving their character."
+  },
+  {
+   "q": "What's the most common lock repair callout in Newtown and the post-war estates?",
+   "a": "Post-war estates like Newtown have high volumes of standard cylinder locks and multipoint mechanisms on uPVC doors, which commonly fail due to wear. We repair or replace these efficiently to restore security without unnecessary door or frame replacement."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation in Huntingdon \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Huntingdon. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Serving Sapley, Oxmoor and Victorian properties.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Huntingdon from our experienced locksmith team combines skilled locksmithing with robust security solutions. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, our technicians ensure every fitting meets current standards. We handle residential and commercial projects with precision.",
+ "door-lock-installation.local-context-body": "Huntingdon's semi-detached and terrace properties in Newtown represent a significant proportion of lock installation callouts, particularly where original hardware has degraded or where security upgrades are prioritised. The transition from period mechanisms to modern BS3621 mortice locks and TS007 anti-snap cylinders reflects both the age of the housing stock and evolving security standards across these post-war residential areas.\n\nMany properties in Huntingdon's historic core retain listed-building status, which restricts the type and finish of locks that can be installed without planning consent or conservation officer approval. Installers must verify building designation before fitting visible hardware, as period-appropriate finishes and concealed multipoint systems often become necessary. Standard cylinder locks common to suburban estates like Oxmoor present fewer constraints but require careful measurement where door frames have settled or warped over decades.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Why do Victorian properties in Hartford often need specialist lock fitting?",
+   "a": "Hartford's riverside Victorian terraces feature original cast-iron hardware and period mechanisms that require careful handling during lock installation. Our team has the specialist knowledge to fit modern BS3621 mortice locks without damaging historic door frames and finishes."
+  },
+  {
+   "q": "What lock upgrades do post-war homes in Sapley and Newtown typically need?",
+   "a": "Most post-war estates have standard cylinder locks vulnerable to snap attacks. We recommend upgrading to TS007 anti-snap cylinders and multipoint locking systems\u2014a cost-effective security boost for these high-volume residential areas."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Huntingdon | Victorian & Modern Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in Huntingdon. Like-for-like swaps or upgrades for Newtown, Oxmoor and Victorian properties. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our Huntingdon locksmiths specialise in professional door lock replacement work, combining expert locksmithing with reliable service. Whether you've experienced a failed lock, lost your keys, or are moving home, we install BS3621-approved mechanisms and offer anti-snap upgrades for enhanced security. Each replacement uses like-for-like cylinder swaps where possible, ensuring minimal disruption to your property.",
+ "door-lock-replacement.local-context-body": "Door lock replacement is routine across Huntingdon's mixed housing stock. Semi-detached properties in Newtown often require straightforward cylinder lock swaps following wear or failed mechanisms, while detached homes in Great Stukeley increasingly request upgrades from basic pin-tumbler locks to higher-security euro-cylinder variants. Post-war estates account for the bulk of standard callouts; newer residential areas see demand shift toward integrated smart lock compatibility during replacement work.\n\nMany of Huntingdon's Victorian riverside properties retain original cast-iron door frames and period hardware that constrains modern lock fitment. Replacement work must often accommodate non-standard frame depths or existing decorative escutcheons, requiring bespoke fitting rather than direct swap-out. Listed-building status across the historic town center adds further complexity, as aesthetic continuity may override purely functional lock choice. Standard cylinder locks dominate post-war suburbs, simplifying most replacement jobs; specialist knowledge becomes essential only when period properties or conservation areas are involved.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "My Victorian terrace in Hartford has an original cast-iron lock that's stuck\u2014can you replace it without damaging the period hardware?",
+   "a": "Yes. Our locksmiths specialise in working with period locks found in Hartford's riverside Victorian properties. We can either carefully restore the original mechanism or fit a sympathetic replacement that matches the aesthetic of your period door while meeting modern security standards."
+  },
+  {
+   "q": "I live in one of the post-war estates and my cylinder lock keeps jamming\u2014is replacement better than repair?",
+   "a": "For the standard cylinder locks common across Sapley, Newtown, and Oxmoor, replacement is usually the best option if jamming is frequent. We can swap it for a high-security or weather-resistant upgrade that suits uPVC seals and modern door frames typical of those estates."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Huntingdon | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Huntingdon including uPVC alignment, composite doors & handles. Expert service across Newtown, Oxmoor & surrounding areas.",
+ "door-repairs.hero-paragraph": "Our Huntingdon locksmith team specialises in door repairs using expert locksmithing techniques to restore damaged or failing doors. Whether your uPVC, composite or timber door has dropped, won't close properly or is letting in draughts, we diagnose and fix the underlying cause. Our technicians handle hinge adjustment, frame alignment and multipoint realignment to get your door working smoothly again.",
+ "door-repairs.local-context-body": "Huntingdon's mixed housing stock creates varied door repair demands. Semi-detached properties in Great Stukeley often present dropped or misaligned frames typical of post-war construction, while Victorian terraces in the historic core feature original timber doors with period hardware that requires careful handling during realignment work. Both scenarios are common callout types across the town.\n\nMany older properties retain cast-iron hinges and traditional mechanisms that can corrode or shift over decades, complicating straightforward door repairs. Listed-building properties in Huntingdon's Georgian town center frequently require specialist knowledge to preserve original fittings during frame or hardware adjustment, adding complexity to standard door repair work.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Hartford's Victorian terraces need specialist repair?",
+   "a": "Hartford's period properties often feature original cast-iron hardware and heritage locks that require careful handling during repair. Our locksmiths have the expertise to fix misaligned or dropped doors without damaging these valuable period mechanisms."
+  },
+  {
+   "q": "What door repair issues are common in Huntingdon's post-war estates?",
+   "a": "Properties across Sapley and Newtown frequently experience uPVC door seal failure and standard cylinder lock wear. We routinely repair dropped frames and realign doors caused by settling foundations\u2014a common issue in these estates."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Huntingdon",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Huntingdon. Expert fixes for espagnolette and shootbolt locks across Victorian terraces, post-war homes and new builds.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Huntingdon with our experienced locksmith team combines expert locksmithing knowledge with reliable solutions. Whether you're dealing with windows that won't lock or broken handles, we restore security using proven technical methods including espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home protection is properly certified.",
+ "window-lock-repair-replacement.local-context-body": "Victorian terraces in Hartford retain original cast-iron window furniture and period espagnolette mechanisms that require specialist attention during repair or replacement. Semi-detached properties across Newtown, built during post-war expansion, typically feature standard shootbolt locks fitted to timber frames\u2014common components for routine service calls. Each property type demands different approaches: period mechanisms need careful handling to preserve authenticity, while mid-century installations often benefit from straightforward modern lock upgrades.\n\nHuntingdon's historic town center means several riverside properties fall within conservation areas or listed-building designations. Window lock replacement in these zones may require approval before work proceeds, particularly if original hardware carries heritage value. Post-war estates use aluminum and uPVC frames where lock compatibility differs significantly from traditional timber sashes, affecting parts availability and fitting methodology.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian window locks in Hartford often need specialist repair rather than simple replacement?",
+   "a": "Hartford's riverside Victorian terraces feature original cast-iron hardware and period espagnolette mechanisms that require careful handling and specialist knowledge to repair safely without damaging the frames or original metalwork. We assess each lock individually to determine whether repair or sympathetic replacement is best for your period property."
+  },
+  {
+   "q": "Are window lock replacements common in the newer estates like St Johns Park and Stukeley Meadows?",
+   "a": "Yes\u2014new-build properties in these developments often have standard shootbolt and cylinder locks fitted as standard, and we regularly upgrade or repair them when wear occurs or when residents want to integrate them with smart home systems for added security and convenience."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Huntingdon | Professional Safe Fitting",
+ "safe-installation.meta.description": "Professional safe installation in Huntingdon. Wall, floor and freestanding safes with secure anchoring, insurance documentation, and anti-leverage positioning for Victorian and modern homes.",
+ "safe-installation.hero-paragraph": "Safe installation from our Huntingdon locksmith combines expert locksmithing with secure positioning tailored to your needs. Whether you're setting up a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting for maximum protection. Our work meets Eurograde standards and AiS approval specifications, giving you confidence in your asset's security.",
+ "safe-installation.local-context-body": "Safe installation across Huntingdon requires consideration of diverse property ages and structures. Detached homes in Stukeley Meadows typically feature modern cavity walls and concrete floors suitable for standard wall and floor-mounted safes, while older semi-detached properties in Hartford demand careful assessment of load-bearing capacity and period construction methods before anchoring work begins.\n\nMany properties in Huntingdon's Victorian riverside core fall within conservation areas or carry listed-building status, which restricts visible safe installation and requires compliance with local authority guidelines before work proceeds. Post-war suburban properties generally present fewer regulatory constraints, though older cast-iron fireplaces and original plasterwork require skilled handling to avoid structural damage during wall mounting.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Are safes suitable for Victorian terraces in Hartford, and what anchoring do you recommend?",
+   "a": "Yes\u2014Victorian terraces are ideal for safe installation due to solid masonry walls. We assess your period property's wall structure and use appropriate anchoring methods; floor safes are also popular in these older homes to avoid damage to original plasterwork and period features."
+  },
+  {
+   "q": "I live in a new-build on St Johns Park\u2014do I need insurance documentation for my safe installation?",
+   "a": "Absolutely. We provide full installation certificates and insurance documentation with every safe fitting, which is essential for modern properties. This protects your cover and proves professional installation to your insurer."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Huntingdon \u2013 Fast Local Service",
+ "safe-opening.meta.description": "Safe opening in Huntingdon for lost keys, combinations & lockouts. Non-destructive methods for domestic, commercial safes across Newtown, post-war estates & beyond.",
+ "safe-opening.hero-paragraph": "Our Huntingdon locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to regain access safely. Our technicians use combination dial manipulation and precision tools to preserve your safe's integrity whilst restoring your access quickly.",
+ "safe-opening.local-context-body": "Safe deposits and home safes are common across Huntingdon's residential mix, particularly in period properties around Hartford where Victorian terraces often house older mechanical safes integrated into fireplaces or walls. Detached homes in Great Stukeley and newer builds in Hinchingbrooke frequently contain modern wall-mounted or floor safes installed during construction or renovation, requiring non-destructive opening when combinations are lost or keys mislaid.\n\nMany of Huntingdon's older safes\u2014especially those in listed Victorian properties\u2014use cast-iron bodies and vintage locking mechanisms that demand specialist handling to avoid damage. Newer installations typically feature electronic keypads or digital locks, where battery failure or code loss is a common trigger for callouts. Access constraints in terraced properties and listed buildings can affect the approach taken, as drilling or manipulation must preserve structural and aesthetic integrity.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Hartford with an old safe I can't open\u2014do you have experience with period mechanisms?",
+   "a": "Yes, we regularly work with heritage safes in Hartford's Victorian properties. Our non-destructive opening techniques preserve original cast-iron hardware and period mechanisms, which is essential for maintaining the character and value of older riverside homes."
+  },
+  {
+   "q": "We've just moved into a new-build in St Johns Park and the developer's safe has a lost combination\u2014how quickly can you help?",
+   "a": "We can typically attend modern developments like St Johns Park within hours. For contemporary safes in new-build properties, our non-destructive methods mean you retain the safe without damage, and we can often rekey it for your own use."
+  }
+ ],
+ "home.areas-covered": [
+  "Hartford",
+  "Hinchingbrooke",
+  "Newtown",
+  "Oxmoor",
+  "Sapley",
+  "Stukeley Meadows"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Hinchingbrooke",
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Sapley"
+ ],
+ "locked-out.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Newtown",
+  "Hartford",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "lock-changes.areas-covered": [
+  "Oxmoor",
+  "Hartford",
+  "Newtown",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "lock-repairs.areas-covered": [
+  "Stukeley Meadows",
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Sapley",
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "door-repairs.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "safe-installation.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ],
+ "safe-opening.areas-covered": [
+  "Hartford",
+  "Newtown",
+  "Oxmoor",
+  "Stukeley Meadows",
+  "Hinchingbrooke",
+  "Sapley"
+ ]
 }

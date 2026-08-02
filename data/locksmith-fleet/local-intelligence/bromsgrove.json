@@ -1,181 +1,203 @@
 {
-  "location": "Bromsgrove",
-  "neighborhoods": [
-    {
-      "name": "Aston Fields",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area"
-    },
-    {
-      "name": "Bournheath",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential"
-    },
-    {
-      "name": "Catshill",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic mining village character"
-    },
-    {
-      "name": "Charford",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "modern suburban"
-    },
-    {
-      "name": "Finstall",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "commuter belt residential"
-    },
-    {
-      "name": "Friarscroft",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "planned estate"
-    },
-    {
-      "name": "Hill Top",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "older industrial-era housing"
-    },
-    {
-      "name": "Lickey End",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "rural-edge residential"
-    },
-    {
-      "name": "Lowes Hill",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential growth area"
-    },
-    {
-      "name": "Perryfields",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ],
-      "notes": "contemporary development"
-    },
-    {
-      "name": "Sidemoor",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "residential established area"
-    },
-    {
-      "name": "Stoke Heath",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic core near town centre"
-    },
-    {
-      "name": "Whitford",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian industrial core with interwar and post-war suburban expansion",
-    "notable": "Bromsgrove's needle industry heritage left Victorian terraces requiring period lock repairs. Modern stock dominated by 1950s–80s semis with standard mortice locks."
+ "location": "Bromsgrove",
+ "neighborhoods": [
+  {
+   "name": "Aston Fields",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area"
   },
-  "locksmith_relevant": [
-    "Historic terraces in Catshill, Hill Top, and Stoke Heath often contain original rim locks and sash-window furniture needing specialist knowledge.",
-    "Post-war semis across Aston Fields, Charford, and Lowes Hill typically feature straightforward mortice and Yale locks—high-volume standard call base.",
-    "Growing new-build activity in Perryfields brings modern composite doors and smart locks; older areas demand emergency callouts for worn period mechanisms."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bromsgrove",
-    "overpass": "OSM Overpass bbox query, 14 named areas",
-    "coords": {
-      "lat": 52.3353816,
-      "lon": -2.0597449
-    }
+  {
+   "name": "Bournheath",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential"
   },
-  "generated_at": "2026-05-13T18:12:57.652Z",
-  "all_areas": [
-    "Aston Fields",
-    "Bournheath",
-    "Burcot",
-    "Catshill",
-    "Charford",
-    "Finstall",
-    "Friarscroft",
-    "Hill Top",
-    "Lickey End",
-    "Lowes Hill",
-    "Perryfields",
-    "Sidemoor",
-    "Stoke Heath",
-    "Whitford"
-  ],
-  "geo": {
-    "latitude": 52.3353816,
-    "longitude": -2.0597449
+  {
+   "name": "Catshill",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic mining village character"
   },
-  "postcode_districts": [
-    "B60",
-    "B61"
-  ],
-  "postcode_meta": {
-    "B60": {
-      "count": 6,
-      "sample": "B60 1LA",
-      "admin": "Bromsgrove",
-      "via": "admin_district=bromsgrove"
-    },
-    "B61": {
-      "count": 6,
-      "sample": "B61 0NT",
-      "admin": "Bromsgrove",
-      "via": "admin_district=bromsgrove"
-    }
+  {
+   "name": "Charford",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "modern suburban"
+  },
+  {
+   "name": "Finstall",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "commuter belt residential"
+  },
+  {
+   "name": "Friarscroft",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "planned estate"
+  },
+  {
+   "name": "Hill Top",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "older industrial-era housing"
+  },
+  {
+   "name": "Lickey End",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "rural-edge residential"
+  },
+  {
+   "name": "Lowes Hill",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential growth area"
+  },
+  {
+   "name": "Perryfields",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ],
+   "notes": "contemporary development"
+  },
+  {
+   "name": "Sidemoor",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "residential established area"
+  },
+  {
+   "name": "Stoke Heath",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic core near town centre"
+  },
+  {
+   "name": "Whitford",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed Victorian industrial core with interwar and post-war suburban expansion",
+  "notable": "Bromsgrove's needle industry heritage left Victorian terraces requiring period lock repairs. Modern stock dominated by 1950s\u201380s semis with standard mortice locks."
+ },
+ "locksmith_relevant": [
+  "Historic terraces in Catshill, Hill Top, and Stoke Heath often contain original rim locks and sash-window furniture needing specialist knowledge.",
+  "Post-war semis across Aston Fields, Charford, and Lowes Hill typically feature straightforward mortice and Yale locks\u2014high-volume standard call base.",
+  "Growing new-build activity in Perryfields brings modern composite doors and smart locks; older areas demand emergency callouts for worn period mechanisms."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Bromsgrove",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Bromsgrove admin area), 36 named areas",
+  "coords": {
+   "lat": 52.3353816,
+   "lon": -2.0597449
+  }
+ },
+ "generated_at": "2026-05-13T18:12:57.652Z",
+ "all_areas": [
+  "Alvechurch",
+  "Aston Fields",
+  "Barnt Green",
+  "Belbroughton",
+  "Blackwell",
+  "Bordesley",
+  "Bournheath",
+  "Burcot",
+  "Catshill",
+  "Charford",
+  "Clent",
+  "Cofton Hackett",
+  "Dodford",
+  "Fairfield",
+  "Finstall",
+  "Foxlydiate",
+  "Hill Top",
+  "Hollywood",
+  "Holt End",
+  "Hopwood",
+  "Lickey End",
+  "Lowes Hill",
+  "Lydiate Ash",
+  "Portway",
+  "Rowney Green",
+  "Rubery",
+  "Sidemoor",
+  "Stoke Heath",
+  "Stoke Pound",
+  "Stoke Prior",
+  "Stoke Works",
+  "Tardebigge",
+  "Tutnall",
+  "Upper Bentley",
+  "Whitford",
+  "Wythall"
+ ],
+ "geo": {
+  "latitude": 52.3353816,
+  "longitude": -2.0597449
+ },
+ "postcode_districts": [
+  "B60",
+  "B61"
+ ],
+ "postcode_meta": {
+  "B60": {
+   "count": 6,
+   "sample": "B60 1LA",
+   "admin": "Bromsgrove",
+   "via": "admin_district=bromsgrove"
+  },
+  "B61": {
+   "count": 6,
+   "sample": "B61 0NT",
+   "admin": "Bromsgrove",
+   "via": "admin_district=bromsgrove"
+  }
+ }
 }

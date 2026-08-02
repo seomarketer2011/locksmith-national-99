@@ -1,135 +1,130 @@
 {
-  "location": "Wilmslow",
-  "neighborhoods": [
-    {
-      "name": "Alderley Edge",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "period detached"
-      ],
-      "notes": "affluent conservation area, listed buildings"
-    },
-    {
-      "name": "Wilmslow Park",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Dean Row",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Pownall Park",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Fulshaw Park",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ]
-    },
-    {
-      "name": "Bollin Park",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "semi-detached",
-        "period property"
-      ]
-    },
-    {
-      "name": "Lacey Green",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Heathfield Farm",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Colshaw Farm",
-      "era": "mixed",
-      "types": [
-        "period property",
-        "converted"
-      ]
-    },
-    {
-      "name": "Chorley",
-      "era": "Victorian",
-      "types": [
-        "period terrace",
-        "semi-detached"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "detached villa",
-      "semi-detached",
-      "period property"
-    ],
-    "era": "predominantly Edwardian and interwar with pockets of Victorian",
-    "notable": "affluent commuter belt with high proportion of listed and period homes; newer developments in Fulshaw Park targeting upgraders"
+ "location": "Wilmslow",
+ "neighborhoods": [
+  {
+   "name": "Alderley Edge",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "period detached"
+   ],
+   "notes": "affluent conservation area, listed buildings"
   },
-  "locksmith_relevant": [
-    "Alderley Edge and Victorian villas demand heritage-compliant locks and period hardware fitting expertise.",
-    "Dense concentration of Edwardian semis across Dean Row and Pownall Park creates high routine maintenance and upgrade call volume.",
-    "New-build properties in Fulshaw Park often require smart lock integration and modern security system coordination."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Wilmslow",
-    "overpass": "OSM Overpass bbox query, 10 named areas",
-    "coords": {
-      "lat": 53.3261292,
-      "lon": -2.2327511
-    }
+  {
+   "name": "Wilmslow Park",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "generated_at": "2026-05-13T18:03:52.545Z",
-  "all_areas": [
-    "Alderley Edge",
-    "Bollin Park",
-    "Chorley",
-    "Colshaw Farm",
-    "Dean Row",
-    "Fulshaw Park",
-    "Heathfield Farm",
-    "Lacey Green",
-    "Pownall Park",
-    "Wilmslow Park"
-  ],
-  "geo": {
-    "latitude": 53.3261292,
-    "longitude": -2.2327511
+  {
+   "name": "Dean Row",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "postcode_districts": [
-    "SK9"
-  ],
-  "postcode_meta": {
-    "SK9": {
-      "count": 9,
-      "sample": "SK9 2BN",
-      "admin": "Cheshire East",
-      "via": "admin_ward=wilmslow dean row"
-    }
+  {
+   "name": "Pownall Park",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Fulshaw Park",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ]
+  },
+  {
+   "name": "Bollin Park",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "semi-detached",
+    "period property"
+   ]
+  },
+  {
+   "name": "Lacey Green",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Heathfield Farm",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Colshaw Farm",
+   "era": "mixed",
+   "types": [
+    "period property",
+    "converted"
+   ]
+  },
+  {
+   "name": "Chorley",
+   "era": "Victorian",
+   "types": [
+    "period terrace",
+    "semi-detached"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "detached villa",
+   "semi-detached",
+   "period property"
+  ],
+  "era": "predominantly Edwardian and interwar with pockets of Victorian",
+  "notable": "affluent commuter belt with high proportion of listed and period homes; newer developments in Fulshaw Park targeting upgraders"
+ },
+ "locksmith_relevant": [
+  "Alderley Edge and Victorian villas demand heritage-compliant locks and period hardware fitting expertise.",
+  "Dense concentration of Edwardian semis across Dean Row and Pownall Park creates high routine maintenance and upgrade call volume.",
+  "New-build properties in Fulshaw Park often require smart lock integration and modern security system coordination."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Wilmslow",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Wilmslow admin area), 5 named areas",
+  "coords": {
+   "lat": 53.3261292,
+   "lon": -2.2327511
+  }
+ },
+ "generated_at": "2026-05-13T18:03:52.545Z",
+ "all_areas": [
+  "Colshaw Farm",
+  "Dean Row",
+  "Fulshaw Park",
+  "Pownall Park",
+  "Wilmslow Park"
+ ],
+ "geo": {
+  "latitude": 53.3261292,
+  "longitude": -2.2327511
+ },
+ "postcode_districts": [
+  "SK9"
+ ],
+ "postcode_meta": {
+  "SK9": {
+   "count": 9,
+   "sample": "SK9 2BN",
+   "admin": "Cheshire East",
+   "via": "admin_ward=wilmslow dean row"
+  }
+ }
 }

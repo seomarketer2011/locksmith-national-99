@@ -1,313 +1,276 @@
 {
-  "location": "Newport",
-  "neighborhoods": [
-    {
-      "name": "Maindee",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "central residential, high density"
-    },
-    {
-      "name": "Malpas",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "established suburb, conservation area"
-    },
-    {
-      "name": "Alway",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "family housing"
-    },
-    {
-      "name": "Crindau",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "riverside, older industrial character"
-    },
-    {
-      "name": "Pillgwenlly",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "dense Victorian terraces, HMO conversion area"
-    },
-    {
-      "name": "Lliswerry",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban, mixed age"
-    },
-    {
-      "name": "Bassaleg",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Caerleon",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "Roman archaeology heritage"
-    },
-    {
-      "name": "Bettws",
-      "era": "1960s",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "high-density estate, mixed tenure"
-    },
-    {
-      "name": "Henllys",
-      "era": "1980s",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "modern residential expansion"
-    },
-    {
-      "name": "Duffryn",
-      "era": "1970s",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "large post-war estate"
-    },
-    {
-      "name": "Brynglas",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Fairwater",
-      "era": "1950s",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "planned suburban estate"
-    },
-    {
-      "name": "Llantarnam",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Langstone",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "commuter suburb"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "council estate"
-    ],
-    "era": "mixed Victorian terraces and post-war suburban estates",
-    "notable": "High HMO conversion in Victorian inner areas; large 1960s–70s council estates with changing tenure; Georgian Caerleon heritage area"
+ "location": "Newport",
+ "neighborhoods": [
+  {
+   "name": "Maindee",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "central residential, high density"
   },
-  "locksmith_relevant": [
-    "Victorian terraces in Maindee and Crindau have sash windows and period locks requiring specialist knowledge and care.",
-    "Post-war estates like Bettws and Duffryn feature uPVC frames and standard mortice locks; rapid response needed for high call volumes.",
-    "Caerleon's listed and heritage properties demand heritage-certified locksmiths to preserve original ironwork and conservation compliance."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Newport",
-    "overpass": "OSM Overpass bbox query, 96 named areas",
-    "coords": {
-      "lat": 51.5718862,
-      "lon": -2.9752462
-    }
+  {
+   "name": "Malpas",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "established suburb, conservation area"
   },
-  "generated_at": "2026-05-13T18:11:54.005Z",
-  "all_areas": [
-    "Afon Village",
-    "Allt-yr-yn",
-    "Alway",
-    "Baneswell",
-    "Barnardtown",
-    "Barrack Hill",
-    "Bassaleg",
-    "Beechwood",
-    "Bettws",
-    "Bishpool",
-    "Bishton",
-    "Blaen-Y-Pant",
-    "Brynglas",
-    "Caerleon",
-    "Candwr Brook",
-    "Candwr Park",
-    "Castleton",
-    "Cefn",
-    "Christchurch",
-    "Claremont",
-    "Coed Eva",
-    "Coedkernew",
-    "Coldra",
-    "Crindau",
-    "Crosskeys",
-    "Duffryn",
-    "East Usk",
-    "Eveswell",
-    "Fairwater",
-    "Gaer",
-    "Glan Llyn",
-    "Goldcliff",
-    "Graig",
-    "Graig Park",
-    "Henllys",
-    "High Cross",
-    "Hollybush",
-    "Home Farm",
-    "Ladyhill",
-    "Langstone",
-    "Lawrence Hill",
-    "Llanhennock",
-    "Llanmartin",
-    "Llanrumney",
-    "Llantarnam",
-    "Llanvaches",
-    "Llanwern",
-    "Llanyrafon",
-    "Lliswerry",
-    "Lodge Hill",
-    "Maesglas",
-    "Magor",
-    "Maindee",
-    "Malpas",
-    "Malpas Court",
-    "Malpas Park",
-    "Marshfield",
-    "Mon Bank",
-    "Nash",
-    "Oakfield",
-    "Old Cwmbran",
-    "Old St Mellons",
-    "Pentre-Poeth",
-    "Pillgwenlly",
-    "Pilton Vale",
-    "Ponthir",
-    "Pontymister",
-    "Pye Corner",
-    "Redwick",
-    "Rhiwderin",
-    "Ridgeway",
-    "Ringland",
-    "Rogerstone",
-    "Shaftesbury",
-    "Somerton",
-    "St Dials",
-    "St Edeyrn's Village",
-    "St Julians",
-    "St Mellons",
-    "St. Woolos",
-    "Stelvio",
-    "Stow Hill",
-    "Stow Park",
-    "Summerhill",
-    "Tredunnock",
-    "Trinity View",
-    "Trowbridge",
-    "Trowbridge Green",
-    "Two Locks",
-    "Ty Canol",
-    "Ty Sign",
-    "Underwood",
-    "Undy",
-    "Victoria",
-    "Whitson",
-    "Woodlands"
-  ],
-  "geo": {
-    "latitude": 51.5718862,
-    "longitude": -2.9752462
+  {
+   "name": "Alway",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "family housing"
   },
-  "postcode_districts": [
-    "CF3",
-    "NP10",
-    "NP11",
-    "NP18",
-    "NP19",
-    "NP20",
-    "NP26"
-  ],
-  "postcode_meta": {
-    "NP18": {
-      "count": 10,
-      "sample": "NP18 2DD",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    },
-    "NP26": {
-      "count": 2,
-      "sample": "NP26 3EA",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    },
-    "NP10": {
-      "count": 8,
-      "sample": "NP10 8RN",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    },
-    "CF3": {
-      "count": 2,
-      "sample": "CF3 2TU",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    },
-    "NP20": {
-      "count": 23,
-      "sample": "NP20 3HE",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    },
-    "NP11": {
-      "count": 3,
-      "sample": "NP11 7DG",
-      "admin": "Caerphilly",
-      "via": "constituency=newport west and islwyn"
-    },
-    "NP19": {
-      "count": 15,
-      "sample": "NP19 8GN",
-      "admin": "Newport",
-      "via": "admin_district=newport"
-    }
+  {
+   "name": "Crindau",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "riverside, older industrial character"
+  },
+  {
+   "name": "Pillgwenlly",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "dense Victorian terraces, HMO conversion area"
+  },
+  {
+   "name": "Lliswerry",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban, mixed age"
+  },
+  {
+   "name": "Bassaleg",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Caerleon",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "Roman archaeology heritage"
+  },
+  {
+   "name": "Bettws",
+   "era": "1960s",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "high-density estate, mixed tenure"
+  },
+  {
+   "name": "Henllys",
+   "era": "1980s",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "modern residential expansion"
+  },
+  {
+   "name": "Duffryn",
+   "era": "1970s",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "large post-war estate"
+  },
+  {
+   "name": "Brynglas",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Fairwater",
+   "era": "1950s",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "planned suburban estate"
+  },
+  {
+   "name": "Llantarnam",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Langstone",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "commuter suburb"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "council estate"
+  ],
+  "era": "mixed Victorian terraces and post-war suburban estates",
+  "notable": "High HMO conversion in Victorian inner areas; large 1960s\u201370s council estates with changing tenure; Georgian Caerleon heritage area"
+ },
+ "locksmith_relevant": [
+  "Victorian terraces in Maindee and Crindau have sash windows and period locks requiring specialist knowledge and care.",
+  "Post-war estates like Bettws and Duffryn feature uPVC frames and standard mortice locks; rapid response needed for high call volumes.",
+  "Caerleon's listed and heritage properties demand heritage-certified locksmiths to preserve original ironwork and conservation compliance."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Newport",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Newport admin area), 59 named areas",
+  "coords": {
+   "lat": 51.5718862,
+   "lon": -2.9752462
+  }
+ },
+ "generated_at": "2026-05-13T18:11:54.005Z",
+ "all_areas": [
+  "Allt-yr-yn",
+  "Alway",
+  "Baneswell",
+  "Barnardtown",
+  "Barrack Hill",
+  "Bassaleg",
+  "Beechwood",
+  "Bettws",
+  "Bishpool",
+  "Bishton",
+  "Caerleon",
+  "Castleton",
+  "Cefn",
+  "Christchurch",
+  "Coedkernew",
+  "Coldra",
+  "Crindau",
+  "Duffryn",
+  "East Usk",
+  "Eveswell",
+  "Gaer",
+  "Glan Llyn",
+  "Goldcliff",
+  "Graig",
+  "High Cross",
+  "Ladyhill",
+  "Langstone",
+  "Lawrence Hill",
+  "Llanmartin",
+  "Llanvaches",
+  "Llanwern",
+  "Lliswerry",
+  "Maesglas",
+  "Maindee",
+  "Malpas",
+  "Malpas Court",
+  "Malpas Park",
+  "Marshfield",
+  "Nash",
+  "Pillgwenlly",
+  "Pye Corner",
+  "Redwick",
+  "Rhiwderin",
+  "Ridgeway",
+  "Ringland",
+  "Rogerstone",
+  "Shaftesbury",
+  "Somerton",
+  "St Julians",
+  "St. Woolos",
+  "Stelvio",
+  "Stow Hill",
+  "Stow Park",
+  "Summerhill",
+  "Trinity View",
+  "Underwood",
+  "Victoria",
+  "Whitson",
+  "Woodlands"
+ ],
+ "geo": {
+  "latitude": 51.5718862,
+  "longitude": -2.9752462
+ },
+ "postcode_districts": [
+  "CF3",
+  "NP10",
+  "NP11",
+  "NP18",
+  "NP19",
+  "NP20",
+  "NP26"
+ ],
+ "postcode_meta": {
+  "NP18": {
+   "count": 10,
+   "sample": "NP18 2DD",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  },
+  "NP26": {
+   "count": 2,
+   "sample": "NP26 3EA",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  },
+  "NP10": {
+   "count": 8,
+   "sample": "NP10 8RN",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  },
+  "CF3": {
+   "count": 2,
+   "sample": "CF3 2TU",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  },
+  "NP20": {
+   "count": 23,
+   "sample": "NP20 3HE",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  },
+  "NP11": {
+   "count": 3,
+   "sample": "NP11 7DG",
+   "admin": "Caerphilly",
+   "via": "constituency=newport west and islwyn"
+  },
+  "NP19": {
+   "count": 15,
+   "sample": "NP19 8GN",
+   "admin": "Newport",
+   "via": "admin_district=newport"
+  }
+ }
 }

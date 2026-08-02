@@ -1,427 +1,403 @@
 {
-  "meta.title": "Newport Locksmith | 24/7 Emergency Lockout Service",
-  "meta.description": "Boltman Locksmiths Newport: emergency locksmith services, lock repairs & replacements for Victorian terraces, post-war estates & heritage properties.",
-  "home.hero-paragraph": "Newport locksmith services specialise in locksmithing and lock services for homes and businesses across the area. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry techniques. Our DBS-checked technicians are fully insured and available 24/7, with no call-out fees for Newport residents.",
-  "home.local-context-heading": "Locksmith work across Newport's mixed estates",
-  "home.local-context-body": "Newport's mixed Victorian terraces and post-war estates each present distinct locksmith needs. Properties in Maindee and Crindau feature original sash windows and period locks that require specialist handling to avoid damage, while suburban areas like Lliswerry contain standard uPVC frames and mortice locks suited to routine maintenance and emergency callouts.\n\nHMO conversions in Victorian inner areas have increased demand for multi-occupancy security upgrades, including additional locks and access control. Listed properties in Caerleon require heritage-certified locksmiths to maintain conservation compliance when replacing or repairing original ironwork, ensuring compliance with local heritage protection requirements.",
-  "home.local-faqs": [
-    {
-      "q": "Do you work on Victorian sash windows and period locks in Maindee?",
-      "a": "Yes. Our locksmiths have specialist knowledge of Victorian-era sash windows and period locks common in Maindee's terraced properties. We take care to preserve original ironwork and mechanisms that define these central residential homes."
-    },
-    {
-      "q": "Can you help with listed building compliance in Caerleon?",
-      "a": "Absolutely. Caerleon's Georgian heritage properties require heritage-certified locksmith work to maintain conservation standards. We ensure any lock repairs or replacements respect original ironwork and listed building requirements."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Newport – Available 24/7",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Newport. Locked out or key snapped? Fast response for Victorian terraces, post-war estates and listed properties. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Newport specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods to regain access quickly and professionally.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts across Newport's housing stock present varied challenges. The 1970s council estates of Duffryn feature standard mortice locks on semi-detached properties where rapid response is critical during high call volumes, while Victorian terraces in inner areas often house multiple occupants, increasing demand for swift access restoration across numerous entry points.\n\nHeritage properties in Caerleon add complexity to emergency callouts; original ironwork and period locks on listed buildings require locksmiths familiar with conservation compliance to avoid damage during urgent access work. Post-war uPVC frames predominate in suburban estates, where snapped keys and jammed mechanisms demand both speed and knowledge of modern frame-specific solutions.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Maindee at night – can you open a sash window lock without damaging it?",
-      "a": "Yes, our emergency locksmiths are trained in period-property techniques and can open Victorian sash locks and frames without causing damage to original ironwork. We'll attend 24/7 and preserve the character of your home."
-    },
-    {
-      "q": "My uPVC door mortice lock has jammed in Duffryn – how quickly can you respond to a lockout?",
-      "a": "We provide rapid response across Duffryn and other post-war estates, typically arriving within 30–45 minutes for emergency callouts. Standard mortice locks on uPVC frames are our bread and butter, so we'll have you back inside fast."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Newport – 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Newport? Fast, non-destructive entry when keys are lost or snapped. Specialist service for Victorian terraces, modern estates & listed properties.",
-  "locked-out.hero-paragraph": "When you're locked out in Newport, our experienced locksmith team specialises in swift locksmithing solutions for your emergency. Whether you've lost your keys, left them inside, or suffered a snapped key, we use non-destructive entry techniques to regain access without damage to your property. Our damage-free methods ensure your door and locks remain intact.",
-  "locked-out.local-context-body": "Langstone's semi-detached homes and Maindee's Victorian terraces represent different lockout challenges across Newport. Period properties in Maindee often feature original sash windows and heritage locks that demand non-destructive techniques to avoid damage; modern suburban properties require swift access to standard mortice mechanisms. The density of HMO conversions in Victorian inner areas means locksmiths frequently encounter multi-occupancy situations where tenant access protocols and landlord contact become part of the callout procedure.\n\nListed buildings and conservation areas—notably around Caerleon and Malpas—impose strict requirements on entry methods. Locksmiths cannot use force or destructive techniques on properties with heritage status; alternative non-invasive approaches such as picking or manipulation of original locks must be employed. This compliance layer extends response times and demands specialist knowledge beyond standard entry work, particularly where period ironwork and original joinery are present.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Crindau with original sash windows—will you damage the frames getting me in?",
-      "a": "No. Our locksmiths are trained in non-destructive entry on period frames and sash mechanisms common to Crindau's riverside terraces, so we can regain access without harming original ironwork or glazing."
-    },
-    {
-      "q": "My key snapped in the mortice lock of my Bettws semi-detached—how quickly can you arrive?",
-      "a": "We prioritise rapid response across post-war estates like Bettws due to high call volumes in that area; call 01983 621009 for immediate dispatch, and we'll extract the broken key and re-enter without damage to your standard mortice lock."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Newport – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Newport—expert extraction from mortice locks & night latches. Fast non-destructive service for Victorian terraces & post-war estates. 24/7 available.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Newport is a delicate locksmithing task requiring specialist skill and the right equipment. Our locksmiths employ non-destructive methods using precision key extractor tools to safely retrieve snapped or sheared keys from mortice locks and euro cylinders without causing damage to your door or lock mechanism.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Newport's varied residential stock. Maindee's Victorian terraces often feature period mortice locks and sash-window fasteners where key breakage—particularly in worn cylinders—creates urgent access problems. Post-war estates like Alway present different challenges, with their standard mortice locks and uPVC frames prone to key failure under weather stress and heavy use in family housing.\n\nHeritage properties and conservation-listed homes in areas like Caerleon require careful key removal to avoid damage to original ironwork and period mechanisms. Locksmiths working in Newport must verify listed-building status before attempting extraction, as incorrect handling can breach conservation compliance and incur remedial costs. Standard Euro cylinders dominate the modern housing stock, making them the most common extraction scenario across the city.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Crindau often trap keys in their period locks?",
-      "a": "Victorian terraces in Crindau use older mortice and period lock mechanisms that have tighter tolerances than modern locks; when a key snaps inside, extraction requires specialist knowledge to avoid damaging the original ironwork. Boltman's heritage-aware technicians can safely remove the broken key without harming the lock's period integrity."
-    },
-    {
-      "q": "Can you remove a snapped key from a euro cylinder in a Pillgwenlly HMO without damaging the frame?",
-      "a": "Yes—Pillgwenlly's dense Victorian terraces and high HMO conversion rates mean we regularly handle euro cylinder extractions in tight shared-entry scenarios where damage to uPVC or door frames isn't an option. We use non-destructive removal tools to get your key out quickly and safely."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Newport – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Newport. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant work across Victorian terraces, post-war estates and heritage properties. Fast response.",
-  "burglar-repair-service.hero-paragraph": "Our Newport locksmith team specialises in burglar repair and locksmithing services for homes and businesses affected by break-ins and forced entry. We install insurance-compliant security upgrades including TS007 anti-snap cylinders and BS3621 mortice locks to prevent future incidents. Our technicians assess damage to doors and frames, recommending reinforcement measures tailored to your property's needs.",
-  "burglar-repair-service.local-context-body": "Post-break-in repairs across Newport demand rapid reinstatement of compromised locks and door frames across diverse property types. Council estates like Duffryn, built in the 1970s, typically feature standard mortice locks on uPVC or timber frames—damage patterns here are predictable and swift to repair. Victorian terraces in inner areas present greater complexity; period sash windows and original ironwork require careful assessment to restore security without compromising heritage features, particularly when insurance reinstatement standards apply.\n\nListed properties and conservation-area homes in Caerleon present compliance requirements beyond standard repair protocols. Any lock or door reinstatement in these zones must preserve original ironwork where possible and obtain conservation approval, extending timescales and requiring heritage-certified assessment. Insurance companies often mandate photographic evidence of pre-break-in condition and post-repair specification, making detailed documentation essential across all Newport property classes.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in at my Victorian terrace in Maindee, can you repair my period sash window locks without damaging them?",
-      "a": "Yes. Our locksmiths understand the specialist requirements of Victorian terraces and their original ironwork. We'll reinstate your period locks to insurance standard while preserving the heritage integrity of your sashes."
-    },
-    {
-      "q": "We've had a burglary at our rental property in Bettws. Can you provide insurance-compliant door and lock repairs quickly?",
-      "a": "Absolutely. Post-war estates like Bettws see high call volumes, so we prioritise rapid response for break-in repairs on mortice locks and uPVC frames, with full documentation for your insurer."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Newport – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Newport – same-day secure boarding of smashed doors and windows in Victorian terraces, post-war estates and listed properties.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Newport from experienced locksmiths specialising in locksmithing ensures your property is secured rapidly after break-ins or weather damage. Our technicians use sturdy plywood boards and security screws to create a weatherproof temporary seal, protecting against further intrusion. Available 24/7 and fully insurance-compliant, we restore your property's security when you need it most.",
-  "emergency-boarding-up.local-context-body": "Post-war estates like Bettws feature high-density council housing with standard uPVC frames and composite doors that are quick to board following break-ins or storm damage. The mixed tenure and rapid turnover in these areas means boarding-up callouts are frequent, particularly after overnight break-ins when residents need immediate weatherproofing and security. Victorian terraces in inner Newport add complexity: their original timber frames and sash windows require careful boarding techniques to avoid further damage to period features.\n\nHeritage properties in Caerleon present specific challenges for emergency boarding work. Listed buildings in the area are subject to conservation area rules, meaning temporary boarding materials and methods must be approved by the local conservation officer before installation. Standard metal hoardings or plywood may require written consent, which can delay response times; locksmiths working in Caerleon coordinate with Newport Council planning to ensure compliance while maintaining immediate weather protection.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "We've had a break-in at our Victorian terrace in Maindee – can you board up the damaged sash window quickly?",
-      "a": "Yes, we provide emergency boarding up the same day across Newport. For period sash windows in Victorian terraces like those in Maindee, we use boards cut to fit your original frame precisely, minimizing damage to the glazing bars and surrounding joinery so restoration is straightforward once the window is replaced."
-    },
-    {
-      "q": "Storm damage has smashed our uPVC door in Bettws – how fast can you respond?",
-      "a": "We aim to board up uPVC doors and windows on post-war estates like Bettws within 2 hours of your call, as high-density areas often see rapid follow-up break-ins after storm damage. Call 01983 621009 immediately and we'll secure your property and document it for your insurance claim."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Newport – Same-Day Service Available",
-  "lock-changes.meta.description": "Lock changes in Newport – fast professional service for Victorian terraces, post-war estates & listed properties. Lost keys, moving home or upgrades.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Newport from our experienced locksmith team specialising in locksmithing excellence. Whether you're moving home, changing tenancy, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our certified locksmiths ensure every installation meets current security standards.",
-  "lock-changes.local-context-body": "Lock changes in Newport reflect the diversity of the city's housing stock. Victorian terraces in Pillgwenlly often retain original period ironwork and sash-window mechanisms that require sympathetic replacement; modern lock upgrades here demand knowledge of heritage compatibility. Semi-detached homes across Lliswerry typically feature standard mortice locks on uPVC frames, allowing for straightforward specification and fitting of contemporary security hardware.\n\nListed properties and conservation areas—particularly around Caerleon—impose strict requirements on lock replacement work. Materials, finishes and installation methods must comply with heritage conservation standards; locksmiths handling these properties need formal accreditation to ensure original character is preserved while meeting modern security expectations. HMO conversions in inner Newport add further complexity, as landlord-tenant regulations may dictate locking mechanisms for communal areas and individual lettings.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Maindee – do I need a specialist locksmith to change my locks?",
-      "a": "Yes, Victorian terraces often have period sash windows and original locks that require specialist knowledge. We're experienced in working with heritage properties and can replace your locks while preserving the character of period ironwork."
-    },
-    {
-      "q": "We're upgrading security in our Bettws semi-detached – how quickly can you change the locks?",
-      "a": "We offer rapid response across high-density estates like Bettws, typically attending within hours. Standard mortice locks on post-war properties are straightforward to replace, so we can complete most jobs in one visit."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Newport – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Newport—mortice, multipoint & night latches. Serving Bettws, Duffryn & Victorian terraces. 24/7 emergency response.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs from Newport's trusted locksmith specialists in locksmithing. Whether your door has a stiff lock, a jammed mechanism, or a key that won't turn smoothly, our technicians deliver swift, reliable fixes. We handle mortice maintenance and multipoint servicing with precision, backed by manufacturer warranty on all work completed.",
-  "lock-repairs.local-context-body": "Crindau's Victorian terraces rely heavily on period mortice locks and night latches that require careful handling during repair work. Standard gearbox failures in these older mechanisms often demand specialist attention to avoid damage to surrounding ironwork. Post-war suburbs like Lliswerry feature more modern uPVC frames paired with contemporary multipoint locks, which present different wear patterns and require prompt intervention to restore security.\n\nLock repairs in Newport's heritage areas, particularly around Caerleon, must comply with conservation guidelines that restrict replacement to original specifications. HMO properties across inner Victorian zones like Pillgwenlly frequently cycle through tenants, increasing call volumes for mortice lock repairs and creating demand for rapid turnaround. The mixed tenure landscape—from private owner-occupied homes to council estates—means locksmiths encounter varied maintenance standards and lock ages across short geographic distances.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Maindee need specialist lock repair?",
-      "a": "Victorian terraces in Maindee often have period-specific sash locks and original ironwork that require careful handling during repair. Our locksmiths understand these heritage mechanisms and can restore them without damage, preserving your property's character."
-    },
-    {
-      "q": "How quickly can you repair a failed mortice lock on a post-war estate property?",
-      "a": "Post-war estates like Bettws and Duffryn see high call volumes for standard mortice lock failures. We offer rapid response repairs for these common lock types, minimizing your downtime and security risk."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Newport – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Newport. BS3621 mortice locks, anti-snap cylinders & multipoint systems. Serving Maindee Victorian terraces & post-war estates.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Newport by our experienced locksmith team combines traditional locksmithing expertise with modern security standards. Whether you require new fittings, insurance-approved upgrades, or BS3621 mortice locks, we ensure every installation meets current security requirements. Our technicians work to industry standards, delivering reliable protection for your home or business.",
-  "door-lock-installation.local-context-body": "Door lock installation in Newport addresses the distinct needs of the city's mixed housing stock. Semi-detached properties in Lliswerry and post-war estates across the area typically feature standard timber or uPVC frames suited to BS3621 mortice locks and TS007 anti-snap cylinders. Victorian terraces in inner areas, by contrast, often retain period joinery that requires careful assessment before fitting modern multipoint systems, as original door construction may not accommodate standard contemporary mechanisms without alteration.\n\nHeritage properties in Caerleon and listed Victorian terraces elsewhere in Newport frequently fall under conservation constraints that restrict lock installation methods and material choices. Locksmiths undertaking door lock installation must verify whether properties are listed before proceeding, as heritage-certified work is often mandatory to ensure original ironwork and architectural detail remain compliant with local conservation requirements. High-density HMO conversions in Victorian inner neighborhoods also demand compliance with specific security standards, making lock specification and installation approach a matter of both security and regulatory necessity.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install anti-snap cylinders on Victorian sash windows in properties like those in Crindau?",
-      "a": "Yes. We fit TS007 anti-snap cylinders to period properties across Crindau and similar riverside Victorian terraces, ensuring modern security without compromising original ironwork or sash mechanism integrity."
-    },
-    {
-      "q": "What locks do you recommend for the uPVC frames on post-war estates like Bettws and Duffryn?",
-      "a": "We install BS3621 mortice locks and multipoint systems on uPVC frames throughout Bettws and Duffryn, matched to your door type and designed for durability in high-turnover family housing areas."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Newport – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Newport, Maindee & beyond. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Newport by our experienced locksmith team combines traditional locksmithing expertise with modern security solutions. Whether you've lost keys, experienced a failed lock, or are moving home, we install BS3621-certified mechanisms and offer anti-snap upgrades to strengthen your property's security. Our like-for-like cylinder swaps ensure minimal disruption to your doors and frames.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Newport addresses the distinct needs of the city's mixed housing stock. Properties across Henllys and similar modern residential areas typically feature standard mortice locks on uPVC frames, making like-for-like swaps straightforward. Victorian terraces in inner areas, by contrast, often retain period locks and wooden frames that require careful handling during replacement to avoid damage to original joinery and sash mechanisms.\n\nHeritage properties and listed buildings in Caerleon and surrounding conservation areas present a specific consideration: replacement locks must comply with planning and conservation requirements. Locksmiths undertaking work on these properties should verify listed-building status before installation, as some upgrades may need conservation officer approval to protect original ironwork and architectural integrity. Standard modern locks may be visually or structurally unsuitable for period properties.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "Do you replace sash window locks on Victorian terraces in Maindee and Crindau?",
-      "a": "Yes—Victorian sash windows need specialist care to avoid damage to period ironwork. We can replace or upgrade your locks while preserving the original character of your home."
-    },
-    {
-      "q": "Can you replace mortice locks quickly on post-war estates like Bettws and Duffryn?",
-      "a": "Absolutely. Standard mortice locks on 1960s–70s council estates are our bread and butter; we offer rapid response times to get you secure again."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Newport – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Newport including uPVC alignment, mortice locks & hardware. Serving Bettws, Duffryn & surrounding estates.",
-  "door-repairs.hero-paragraph": "Expert door repairs in Newport from a trusted locksmith specialising in locksmithing solutions. Whether your door has dropped, won't close properly, or suffers from draughts, our technicians handle hinge adjustment and multipoint realignment. We service uPVC, composite and timber doors with precision, restoring functionality and security to your home.",
-  "door-repairs.local-context-body": "Newport's mixed housing stock creates varied door repair demands. Semi-detached properties in Fairwater and terraced homes across inner areas frequently experience misalignment and dropped frames due to post-war settlement and Victorian subsidence patterns. uPVC door frames in 1950s–70s estates require different adjustment techniques than period timber doors, and hardware wear varies significantly by property age and construction method.\n\nHeritage properties in Caerleon present additional complexity for door repairs. Listed buildings require conservation-compliant approaches to original ironwork and timber frames, while HMO conversions in Victorian inner areas often involve multiple tenant cycles that accelerate hardware damage and frame stress. Local locksmiths undertaking door repairs must account for these regulatory and material considerations to ensure both functionality and compliance.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do sash windows and period doors in Pillgwenlly require specialist door repair?",
-      "a": "Victorian terraces in Pillgwenlly often have original timber frames and traditional hardware that can warp or drop over time. Our locksmiths understand period-appropriate adjustments and repairs that preserve the integrity of these heritage features without damage."
-    },
-    {
-      "q": "My uPVC door on a Bettws estate has dropped—how quickly can you repair it?",
-      "a": "Post-war estates like Bettws see high volumes of uPVC door issues due to frame settlement and hardware wear. We offer rapid response for dropped or misaligned uPVC doors, realigning hinges and replacing worn hardware to restore smooth operation."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Newport – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Newport. Expert fixes for espagnolette, shootbolt locks on uPVC & timber frames in Victorian terraces & modern estates.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Newport locksmiths specialise in window lock repair and replacement, applying expert locksmithing techniques to secure your home. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we restore functionality with insurance-compliant fitting. Shootbolt locks and child restrictors are fitted to modern standards, ensuring lasting protection.",
-  "window-lock-repair-replacement.local-context-body": "Victorian terraces across Maindee and Crindau feature original sash windows with period-specific espagnolette and shootbolt locks that demand specialist repair knowledge. Semi-detached homes in Fairwater, built during the planned 1950s expansion, typically house standard uPVC window frames with modern shootbolt mechanisms prone to wear. Window lock failure in these contrasting properties requires different diagnostic approaches and replacement stock.\n\nListed buildings and heritage properties in the Caerleon area present compliance constraints; replacement locks must preserve original ironwork aesthetics and meet conservation standards. Conversely, post-war estates like Duffryn experience high call volumes for straightforward shootbolt repairs on uPVC frames, where rapid response and stock availability determine service efficiency. Local locksmith practice reflects this split between heritage-sensitive work and volume-based emergency callouts.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash window locks in Maindee and Crindau need specialist repair?",
-      "a": "Victorian terraces in these areas often have original period espagnolette locks and traditional shootbolts that require careful handling to avoid damage. Our locksmiths are trained in heritage lock repair to preserve your period fittings while restoring full function."
-    },
-    {
-      "q": "What should I do if my uPVC window locks fail in Bettws or Bassaleg?",
-      "a": "Modern uPVC frames in post-war estates use standard mortice and espagnolette locks that we can repair or replace quickly. Call us on 01983 621009 for rapid response—we stock common replacements and can often complete repairs same-day."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Newport – Fast Local Service",
-  "safe-installation.meta.description": "Professional safe installation in Newport. Wall, floor and freestanding safes with secure anchoring, insurance compliance, heritage-certified for listed properties.",
-  "safe-installation.hero-paragraph": "Professional safe installation by Newport locksmiths combines expert locksmithing with secure positioning techniques. Whether you need a new safe fitted or require AiS approved installation for insurance purposes, our technicians ensure proper floor anchoring and wall mounting. We specialise in safes meeting Eurograde standards, guaranteeing your valuables remain protected and your policy valid.",
-  "safe-installation.local-context-body": "Safe installation in Newport requires adaptability across contrasting property types. Terraced homes in Pillgwenlly, many converted to HMOs, demand compact wall-safe solutions that respect shared walls and tenant arrangements. Semi-detached properties in Lliswerry offer more flexibility for floor safes and freestanding units, though access routes through uPVC-framed doorways and narrow hallways need careful planning during fitting.\n\nListed properties and heritage-designated homes in Caerleon present specific constraints for safe anchoring. Installation must avoid damaging original brickwork, period plasterwork or conservation-protected features; fixings must be concealed or sympathetic to fabric. Insurance documentation often requires proof that installation meets both British Standard BS7558 and local conservation officer approval, adding a compliance step not needed in standard post-war properties.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in Crindau – what type of safe installation would work best in my older property?",
-      "a": "Victorian terraces often have solid brick walls ideal for wall safes, but we'll assess your property's structure first to avoid damage to period features. We'll ensure anchoring doesn't compromise original ironwork or plasterwork, and provide insurance documentation for your antique property."
-    },
-    {
-      "q": "We're renting out a property in Pillgwenlly as an HMO – do we need special safe installation considerations?",
-      "a": "Yes; multi-occupancy properties benefit from floor or freestanding safes that are securely anchored but easier to monitor and service. We'll install with proper documentation and positioning that works for shared-access environments while meeting insurance requirements."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Newport – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Newport: lost keys, combinations & lockouts. Non-destructive methods for Duffryn, post-war estates & all property types. Call now.",
-  "safe-opening.hero-paragraph": "Our Newport locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to access your safe without damage. Our technicians prioritise preserving your safe's integrity whilst ensuring swift, professional resolution to your security needs.",
-  "safe-opening.local-context-body": "Safe opening calls in Newport reflect the city's diverse property ages and tenures. Langstone's post-war semi-detached homes often contain domestic safes installed during the 1970s–80s, while Maindee's Victorian terraces occasionally house period wall safes integrated into original masonry. Each property era presents different safe types, mounting depths, and access routes, requiring locksmiths to diagnose construction methods before attempting non-destructive opening techniques.\n\nHeritage properties in Caerleon and conservation-designated areas like Malpas require particular care when safes are built into listed structures. Non-destructive opening becomes essential here, as drilling or forced entry risks breaching conservation compliance and listed-building consent rules. HMO properties across inner Newport also generate safe-opening calls from landlords and tenants unable to access shared deposit boxes or legacy safes left by previous occupants, making rapid diagnosis and combination work critical in these high-turnover rental environments.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terraced house in Maindee and found a locked safe with no combination—can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening and understand the value of preserving period properties in Newport's Victorian areas. We'll use specialist techniques to access your safe while protecting the original ironwork and fabric of your home."
-    },
-    {
-      "q": "We rent out a property in Bettws and a tenant has locked themselves out of the office safe—how quickly can you respond?",
-      "a": "We offer rapid response across high-density estates like Bettws and can usually attend within hours to perform non-destructive safe opening, minimising disruption to your tenants and business operations."
-    }
-  ],
-  "home.areas-covered": [
-    "Afon Village",
-    "Allt-yr-yn",
-    "Alway",
-    "Baneswell",
-    "Barnardtown",
-    "Barrack Hill",
-    "Bassaleg",
-    "Beechwood",
-    "Bettws",
-    "Bishpool",
-    "Bishton",
-    "Blaen-Y-Pant",
-    "Brynglas",
-    "Caerleon",
-    "Candwr Brook",
-    "Candwr Park",
-    "Castleton",
-    "Cefn",
-    "Christchurch",
-    "Claremont",
-    "Coed Eva",
-    "Coedkernew",
-    "Coldra",
-    "Crindau",
-    "Crosskeys",
-    "Duffryn",
-    "East Usk",
-    "Eveswell",
-    "Fairwater",
-    "Gaer",
-    "Glan Llyn",
-    "Goldcliff",
-    "Graig",
-    "Graig Park",
-    "Henllys",
-    "High Cross",
-    "Hollybush",
-    "Home Farm",
-    "Ladyhill",
-    "Langstone",
-    "Lawrence Hill",
-    "Llanhennock",
-    "Llanmartin",
-    "Llanrumney",
-    "Llantarnam",
-    "Llanvaches",
-    "Llanwern",
-    "Llanyrafon",
-    "Lliswerry",
-    "Lodge Hill",
-    "Maesglas",
-    "Magor",
-    "Maindee",
-    "Malpas",
-    "Malpas Court",
-    "Malpas Park",
-    "Marshfield",
-    "Mon Bank",
-    "Nash",
-    "Oakfield",
-    "Old Cwmbran",
-    "Old St Mellons",
-    "Pentre-Poeth",
-    "Pillgwenlly",
-    "Pilton Vale",
-    "Ponthir",
-    "Pontymister",
-    "Pye Corner",
-    "Redwick",
-    "Rhiwderin",
-    "Ridgeway",
-    "Ringland",
-    "Rogerstone",
-    "Shaftesbury",
-    "Somerton",
-    "St Dials",
-    "St Edeyrn's Village",
-    "St Julians",
-    "St Mellons",
-    "St. Woolos",
-    "Stelvio",
-    "Stow Hill",
-    "Stow Park",
-    "Summerhill",
-    "Tredunnock",
-    "Trinity View",
-    "Trowbridge",
-    "Trowbridge Green",
-    "Two Locks",
-    "Ty Canol",
-    "Ty Sign",
-    "Underwood",
-    "Undy",
-    "Victoria",
-    "Whitson",
-    "Woodlands"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Caerleon",
-    "St. Woolos",
-    "Home Farm",
-    "Pilton Vale",
-    "Gaer",
-    "Graig",
-    "Lawrence Hill",
-    "Langstone"
-  ],
-  "locked-out.areas-covered": [
-    "East Usk",
-    "Crosskeys",
-    "St Julians",
-    "Alway",
-    "Bettws",
-    "Glan Llyn",
-    "Llanhennock",
-    "St Dials"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Pillgwenlly",
-    "Bassaleg",
-    "Nash",
-    "Llanyrafon",
-    "Ringland",
-    "Coed Eva",
-    "Pontymister",
-    "Llanvaches"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Beechwood",
-    "Coedkernew",
-    "Llanmartin",
-    "Llanrumney",
-    "Blaen-Y-Pant",
-    "Allt-yr-yn",
-    "Pentre-Poeth",
-    "Magor"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Lodge Hill",
-    "Oakfield",
-    "Redwick",
-    "Barnardtown",
-    "Stelvio",
-    "Duffryn",
-    "Maesglas",
-    "Llantarnam"
-  ],
-  "lock-changes.areas-covered": [
-    "Coldra",
-    "Bishton",
-    "Stow Hill",
-    "Tredunnock",
-    "Cefn",
-    "Claremont",
-    "Eveswell",
-    "Lliswerry"
-  ],
-  "lock-repairs.areas-covered": [
-    "Summerhill",
-    "Maindee",
-    "Undy",
-    "Malpas",
-    "Candwr Park",
-    "Barrack Hill",
-    "Rhiwderin",
-    "Lliswerry"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Mon Bank",
-    "Somerton",
-    "Ridgeway",
-    "Henllys",
-    "Hollybush",
-    "Christchurch",
-    "St Mellons",
-    "Lliswerry"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Llanwern",
-    "Shaftesbury",
-    "Trowbridge Green",
-    "Woodlands",
-    "Whitson",
-    "Pye Corner",
-    "Ty Sign",
-    "Lliswerry"
-  ],
-  "door-repairs.areas-covered": [
-    "Candwr Brook",
-    "St Edeyrn's Village",
-    "Afon Village",
-    "Rogerstone",
-    "Graig Park",
-    "Ladyhill",
-    "Goldcliff",
-    "Lliswerry"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Marshfield",
-    "Underwood",
-    "Trinity View",
-    "Castleton",
-    "Ty Canol",
-    "High Cross",
-    "Victoria",
-    "Lliswerry"
-  ],
-  "safe-installation.areas-covered": [
-    "Brynglas",
-    "Two Locks",
-    "Lliswerry",
-    "Malpas Park",
-    "Ponthir",
-    "Old Cwmbran",
-    "Crindau",
-    "Langstone"
-  ],
-  "safe-opening.areas-covered": [
-    "Old St Mellons",
-    "Trowbridge",
-    "Baneswell",
-    "Fairwater",
-    "Bishpool",
-    "Stow Park",
-    "Malpas Court",
-    "Lliswerry"
-  ]
+ "meta.title": "Newport Locksmith | 24/7 Emergency Lockout Service",
+ "meta.description": "Boltman Locksmiths Newport: emergency locksmith services, lock repairs & replacements for Victorian terraces, post-war estates & heritage properties.",
+ "home.hero-paragraph": "Newport locksmith services specialise in locksmithing and lock services for homes and businesses across the area. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry techniques. Our DBS-checked technicians are fully insured and available 24/7, with no call-out fees for Newport residents.",
+ "home.local-context-heading": "Locksmith work across Newport's mixed estates",
+ "home.local-context-body": "Newport's mixed Victorian terraces and post-war estates each present distinct locksmith needs. Properties in Maindee and Crindau feature original sash windows and period locks that require specialist handling to avoid damage, while suburban areas like Lliswerry contain standard uPVC frames and mortice locks suited to routine maintenance and emergency callouts.\n\nHMO conversions in Victorian inner areas have increased demand for multi-occupancy security upgrades, including additional locks and access control. Listed properties in Caerleon require heritage-certified locksmiths to maintain conservation compliance when replacing or repairing original ironwork, ensuring compliance with local heritage protection requirements.",
+ "home.local-faqs": [
+  {
+   "q": "Do you work on Victorian sash windows and period locks in Maindee?",
+   "a": "Yes. Our locksmiths have specialist knowledge of Victorian-era sash windows and period locks common in Maindee's terraced properties. We take care to preserve original ironwork and mechanisms that define these central residential homes."
+  },
+  {
+   "q": "Can you help with listed building compliance in Caerleon?",
+   "a": "Absolutely. Caerleon's Georgian heritage properties require heritage-certified locksmith work to maintain conservation standards. We ensure any lock repairs or replacements respect original ironwork and listed building requirements."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Newport \u2013 Available 24/7",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Newport. Locked out or key snapped? Fast response for Victorian terraces, post-war estates and listed properties. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Newport specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods to regain access quickly and professionally.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts across Newport's housing stock present varied challenges. The 1970s council estates of Duffryn feature standard mortice locks on semi-detached properties where rapid response is critical during high call volumes, while Victorian terraces in inner areas often house multiple occupants, increasing demand for swift access restoration across numerous entry points.\n\nHeritage properties in Caerleon add complexity to emergency callouts; original ironwork and period locks on listed buildings require locksmiths familiar with conservation compliance to avoid damage during urgent access work. Post-war uPVC frames predominate in suburban estates, where snapped keys and jammed mechanisms demand both speed and knowledge of modern frame-specific solutions.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Maindee at night \u2013 can you open a sash window lock without damaging it?",
+   "a": "Yes, our emergency locksmiths are trained in period-property techniques and can open Victorian sash locks and frames without causing damage to original ironwork. We'll attend 24/7 and preserve the character of your home."
+  },
+  {
+   "q": "My uPVC door mortice lock has jammed in Duffryn \u2013 how quickly can you respond to a lockout?",
+   "a": "We provide rapid response across Duffryn and other post-war estates, typically arriving within 30\u201345 minutes for emergency callouts. Standard mortice locks on uPVC frames are our bread and butter, so we'll have you back inside fast."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Newport \u2013 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Newport? Fast, non-destructive entry when keys are lost or snapped. Specialist service for Victorian terraces, modern estates & listed properties.",
+ "locked-out.hero-paragraph": "When you're locked out in Newport, our experienced locksmith team specialises in swift locksmithing solutions for your emergency. Whether you've lost your keys, left them inside, or suffered a snapped key, we use non-destructive entry techniques to regain access without damage to your property. Our damage-free methods ensure your door and locks remain intact.",
+ "locked-out.local-context-body": "Langstone's semi-detached homes and Maindee's Victorian terraces represent different lockout challenges across Newport. Period properties in Maindee often feature original sash windows and heritage locks that demand non-destructive techniques to avoid damage; modern suburban properties require swift access to standard mortice mechanisms. The density of HMO conversions in Victorian inner areas means locksmiths frequently encounter multi-occupancy situations where tenant access protocols and landlord contact become part of the callout procedure.\n\nListed buildings and conservation areas\u2014notably around Caerleon and Malpas\u2014impose strict requirements on entry methods. Locksmiths cannot use force or destructive techniques on properties with heritage status; alternative non-invasive approaches such as picking or manipulation of original locks must be employed. This compliance layer extends response times and demands specialist knowledge beyond standard entry work, particularly where period ironwork and original joinery are present.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Crindau with original sash windows\u2014will you damage the frames getting me in?",
+   "a": "No. Our locksmiths are trained in non-destructive entry on period frames and sash mechanisms common to Crindau's riverside terraces, so we can regain access without harming original ironwork or glazing."
+  },
+  {
+   "q": "My key snapped in the mortice lock of my Bettws semi-detached\u2014how quickly can you arrive?",
+   "a": "We prioritise rapid response across post-war estates like Bettws due to high call volumes in that area; call 01983 621009 for immediate dispatch, and we'll extract the broken key and re-enter without damage to your standard mortice lock."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Newport \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Newport\u2014expert extraction from mortice locks & night latches. Fast non-destructive service for Victorian terraces & post-war estates. 24/7 available.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Newport is a delicate locksmithing task requiring specialist skill and the right equipment. Our locksmiths employ non-destructive methods using precision key extractor tools to safely retrieve snapped or sheared keys from mortice locks and euro cylinders without causing damage to your door or lock mechanism.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Newport's varied residential stock. Maindee's Victorian terraces often feature period mortice locks and sash-window fasteners where key breakage\u2014particularly in worn cylinders\u2014creates urgent access problems. Post-war estates like Alway present different challenges, with their standard mortice locks and uPVC frames prone to key failure under weather stress and heavy use in family housing.\n\nHeritage properties and conservation-listed homes in areas like Caerleon require careful key removal to avoid damage to original ironwork and period mechanisms. Locksmiths working in Newport must verify listed-building status before attempting extraction, as incorrect handling can breach conservation compliance and incur remedial costs. Standard Euro cylinders dominate the modern housing stock, making them the most common extraction scenario across the city.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Crindau often trap keys in their period locks?",
+   "a": "Victorian terraces in Crindau use older mortice and period lock mechanisms that have tighter tolerances than modern locks; when a key snaps inside, extraction requires specialist knowledge to avoid damaging the original ironwork. Boltman's heritage-aware technicians can safely remove the broken key without harming the lock's period integrity."
+  },
+  {
+   "q": "Can you remove a snapped key from a euro cylinder in a Pillgwenlly HMO without damaging the frame?",
+   "a": "Yes\u2014Pillgwenlly's dense Victorian terraces and high HMO conversion rates mean we regularly handle euro cylinder extractions in tight shared-entry scenarios where damage to uPVC or door frames isn't an option. We use non-destructive removal tools to get your key out quickly and safely."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Newport \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Newport. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant work across Victorian terraces, post-war estates and heritage properties. Fast response.",
+ "burglar-repair-service.hero-paragraph": "Our Newport locksmith team specialises in burglar repair and locksmithing services for homes and businesses affected by break-ins and forced entry. We install insurance-compliant security upgrades including TS007 anti-snap cylinders and BS3621 mortice locks to prevent future incidents. Our technicians assess damage to doors and frames, recommending reinforcement measures tailored to your property's needs.",
+ "burglar-repair-service.local-context-body": "Post-break-in repairs across Newport demand rapid reinstatement of compromised locks and door frames across diverse property types. Council estates like Duffryn, built in the 1970s, typically feature standard mortice locks on uPVC or timber frames\u2014damage patterns here are predictable and swift to repair. Victorian terraces in inner areas present greater complexity; period sash windows and original ironwork require careful assessment to restore security without compromising heritage features, particularly when insurance reinstatement standards apply.\n\nListed properties and conservation-area homes in Caerleon present compliance requirements beyond standard repair protocols. Any lock or door reinstatement in these zones must preserve original ironwork where possible and obtain conservation approval, extending timescales and requiring heritage-certified assessment. Insurance companies often mandate photographic evidence of pre-break-in condition and post-repair specification, making detailed documentation essential across all Newport property classes.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in at my Victorian terrace in Maindee, can you repair my period sash window locks without damaging them?",
+   "a": "Yes. Our locksmiths understand the specialist requirements of Victorian terraces and their original ironwork. We'll reinstate your period locks to insurance standard while preserving the heritage integrity of your sashes."
+  },
+  {
+   "q": "We've had a burglary at our rental property in Bettws. Can you provide insurance-compliant door and lock repairs quickly?",
+   "a": "Absolutely. Post-war estates like Bettws see high call volumes, so we prioritise rapid response for break-in repairs on mortice locks and uPVC frames, with full documentation for your insurer."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Newport \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Newport \u2013 same-day secure boarding of smashed doors and windows in Victorian terraces, post-war estates and listed properties.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Newport from experienced locksmiths specialising in locksmithing ensures your property is secured rapidly after break-ins or weather damage. Our technicians use sturdy plywood boards and security screws to create a weatherproof temporary seal, protecting against further intrusion. Available 24/7 and fully insurance-compliant, we restore your property's security when you need it most.",
+ "emergency-boarding-up.local-context-body": "Post-war estates like Bettws feature high-density council housing with standard uPVC frames and composite doors that are quick to board following break-ins or storm damage. The mixed tenure and rapid turnover in these areas means boarding-up callouts are frequent, particularly after overnight break-ins when residents need immediate weatherproofing and security. Victorian terraces in inner Newport add complexity: their original timber frames and sash windows require careful boarding techniques to avoid further damage to period features.\n\nHeritage properties in Caerleon present specific challenges for emergency boarding work. Listed buildings in the area are subject to conservation area rules, meaning temporary boarding materials and methods must be approved by the local conservation officer before installation. Standard metal hoardings or plywood may require written consent, which can delay response times; locksmiths working in Caerleon coordinate with Newport Council planning to ensure compliance while maintaining immediate weather protection.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "We've had a break-in at our Victorian terrace in Maindee \u2013 can you board up the damaged sash window quickly?",
+   "a": "Yes, we provide emergency boarding up the same day across Newport. For period sash windows in Victorian terraces like those in Maindee, we use boards cut to fit your original frame precisely, minimizing damage to the glazing bars and surrounding joinery so restoration is straightforward once the window is replaced."
+  },
+  {
+   "q": "Storm damage has smashed our uPVC door in Bettws \u2013 how fast can you respond?",
+   "a": "We aim to board up uPVC doors and windows on post-war estates like Bettws within 2 hours of your call, as high-density areas often see rapid follow-up break-ins after storm damage. Call 01983 621009 immediately and we'll secure your property and document it for your insurance claim."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Newport \u2013 Same-Day Service Available",
+ "lock-changes.meta.description": "Lock changes in Newport \u2013 fast professional service for Victorian terraces, post-war estates & listed properties. Lost keys, moving home or upgrades.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Newport from our experienced locksmith team specialising in locksmithing excellence. Whether you're moving home, changing tenancy, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our certified locksmiths ensure every installation meets current security standards.",
+ "lock-changes.local-context-body": "Lock changes in Newport reflect the diversity of the city's housing stock. Victorian terraces in Pillgwenlly often retain original period ironwork and sash-window mechanisms that require sympathetic replacement; modern lock upgrades here demand knowledge of heritage compatibility. Semi-detached homes across Lliswerry typically feature standard mortice locks on uPVC frames, allowing for straightforward specification and fitting of contemporary security hardware.\n\nListed properties and conservation areas\u2014particularly around Caerleon\u2014impose strict requirements on lock replacement work. Materials, finishes and installation methods must comply with heritage conservation standards; locksmiths handling these properties need formal accreditation to ensure original character is preserved while meeting modern security expectations. HMO conversions in inner Newport add further complexity, as landlord-tenant regulations may dictate locking mechanisms for communal areas and individual lettings.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Maindee \u2013 do I need a specialist locksmith to change my locks?",
+   "a": "Yes, Victorian terraces often have period sash windows and original locks that require specialist knowledge. We're experienced in working with heritage properties and can replace your locks while preserving the character of period ironwork."
+  },
+  {
+   "q": "We're upgrading security in our Bettws semi-detached \u2013 how quickly can you change the locks?",
+   "a": "We offer rapid response across high-density estates like Bettws, typically attending within hours. Standard mortice locks on post-war properties are straightforward to replace, so we can complete most jobs in one visit."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Newport \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Newport\u2014mortice, multipoint & night latches. Serving Bettws, Duffryn & Victorian terraces. 24/7 emergency response.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs from Newport's trusted locksmith specialists in locksmithing. Whether your door has a stiff lock, a jammed mechanism, or a key that won't turn smoothly, our technicians deliver swift, reliable fixes. We handle mortice maintenance and multipoint servicing with precision, backed by manufacturer warranty on all work completed.",
+ "lock-repairs.local-context-body": "Crindau's Victorian terraces rely heavily on period mortice locks and night latches that require careful handling during repair work. Standard gearbox failures in these older mechanisms often demand specialist attention to avoid damage to surrounding ironwork. Post-war suburbs like Lliswerry feature more modern uPVC frames paired with contemporary multipoint locks, which present different wear patterns and require prompt intervention to restore security.\n\nLock repairs in Newport's heritage areas, particularly around Caerleon, must comply with conservation guidelines that restrict replacement to original specifications. HMO properties across inner Victorian zones like Pillgwenlly frequently cycle through tenants, increasing call volumes for mortice lock repairs and creating demand for rapid turnaround. The mixed tenure landscape\u2014from private owner-occupied homes to council estates\u2014means locksmiths encounter varied maintenance standards and lock ages across short geographic distances.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Maindee need specialist lock repair?",
+   "a": "Victorian terraces in Maindee often have period-specific sash locks and original ironwork that require careful handling during repair. Our locksmiths understand these heritage mechanisms and can restore them without damage, preserving your property's character."
+  },
+  {
+   "q": "How quickly can you repair a failed mortice lock on a post-war estate property?",
+   "a": "Post-war estates like Bettws and Duffryn see high call volumes for standard mortice lock failures. We offer rapid response repairs for these common lock types, minimizing your downtime and security risk."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Newport \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Newport. BS3621 mortice locks, anti-snap cylinders & multipoint systems. Serving Maindee Victorian terraces & post-war estates.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Newport by our experienced locksmith team combines traditional locksmithing expertise with modern security standards. Whether you require new fittings, insurance-approved upgrades, or BS3621 mortice locks, we ensure every installation meets current security requirements. Our technicians work to industry standards, delivering reliable protection for your home or business.",
+ "door-lock-installation.local-context-body": "Door lock installation in Newport addresses the distinct needs of the city's mixed housing stock. Semi-detached properties in Lliswerry and post-war estates across the area typically feature standard timber or uPVC frames suited to BS3621 mortice locks and TS007 anti-snap cylinders. Victorian terraces in inner areas, by contrast, often retain period joinery that requires careful assessment before fitting modern multipoint systems, as original door construction may not accommodate standard contemporary mechanisms without alteration.\n\nHeritage properties in Caerleon and listed Victorian terraces elsewhere in Newport frequently fall under conservation constraints that restrict lock installation methods and material choices. Locksmiths undertaking door lock installation must verify whether properties are listed before proceeding, as heritage-certified work is often mandatory to ensure original ironwork and architectural detail remain compliant with local conservation requirements. High-density HMO conversions in Victorian inner neighborhoods also demand compliance with specific security standards, making lock specification and installation approach a matter of both security and regulatory necessity.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install anti-snap cylinders on Victorian sash windows in properties like those in Crindau?",
+   "a": "Yes. We fit TS007 anti-snap cylinders to period properties across Crindau and similar riverside Victorian terraces, ensuring modern security without compromising original ironwork or sash mechanism integrity."
+  },
+  {
+   "q": "What locks do you recommend for the uPVC frames on post-war estates like Bettws and Duffryn?",
+   "a": "We install BS3621 mortice locks and multipoint systems on uPVC frames throughout Bettws and Duffryn, matched to your door type and designed for durability in high-turnover family housing areas."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Newport \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Newport, Maindee & beyond. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Newport by our experienced locksmith team combines traditional locksmithing expertise with modern security solutions. Whether you've lost keys, experienced a failed lock, or are moving home, we install BS3621-certified mechanisms and offer anti-snap upgrades to strengthen your property's security. Our like-for-like cylinder swaps ensure minimal disruption to your doors and frames.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Newport addresses the distinct needs of the city's mixed housing stock. Properties across Henllys and similar modern residential areas typically feature standard mortice locks on uPVC frames, making like-for-like swaps straightforward. Victorian terraces in inner areas, by contrast, often retain period locks and wooden frames that require careful handling during replacement to avoid damage to original joinery and sash mechanisms.\n\nHeritage properties and listed buildings in Caerleon and surrounding conservation areas present a specific consideration: replacement locks must comply with planning and conservation requirements. Locksmiths undertaking work on these properties should verify listed-building status before installation, as some upgrades may need conservation officer approval to protect original ironwork and architectural integrity. Standard modern locks may be visually or structurally unsuitable for period properties.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "Do you replace sash window locks on Victorian terraces in Maindee and Crindau?",
+   "a": "Yes\u2014Victorian sash windows need specialist care to avoid damage to period ironwork. We can replace or upgrade your locks while preserving the original character of your home."
+  },
+  {
+   "q": "Can you replace mortice locks quickly on post-war estates like Bettws and Duffryn?",
+   "a": "Absolutely. Standard mortice locks on 1960s\u201370s council estates are our bread and butter; we offer rapid response times to get you secure again."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Newport \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Newport including uPVC alignment, mortice locks & hardware. Serving Bettws, Duffryn & surrounding estates.",
+ "door-repairs.hero-paragraph": "Expert door repairs in Newport from a trusted locksmith specialising in locksmithing solutions. Whether your door has dropped, won't close properly, or suffers from draughts, our technicians handle hinge adjustment and multipoint realignment. We service uPVC, composite and timber doors with precision, restoring functionality and security to your home.",
+ "door-repairs.local-context-body": "Newport's mixed housing stock creates varied door repair demands. Semi-detached properties in Fairwater and terraced homes across inner areas frequently experience misalignment and dropped frames due to post-war settlement and Victorian subsidence patterns. uPVC door frames in 1950s\u201370s estates require different adjustment techniques than period timber doors, and hardware wear varies significantly by property age and construction method.\n\nHeritage properties in Caerleon present additional complexity for door repairs. Listed buildings require conservation-compliant approaches to original ironwork and timber frames, while HMO conversions in Victorian inner areas often involve multiple tenant cycles that accelerate hardware damage and frame stress. Local locksmiths undertaking door repairs must account for these regulatory and material considerations to ensure both functionality and compliance.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do sash windows and period doors in Pillgwenlly require specialist door repair?",
+   "a": "Victorian terraces in Pillgwenlly often have original timber frames and traditional hardware that can warp or drop over time. Our locksmiths understand period-appropriate adjustments and repairs that preserve the integrity of these heritage features without damage."
+  },
+  {
+   "q": "My uPVC door on a Bettws estate has dropped\u2014how quickly can you repair it?",
+   "a": "Post-war estates like Bettws see high volumes of uPVC door issues due to frame settlement and hardware wear. We offer rapid response for dropped or misaligned uPVC doors, realigning hinges and replacing worn hardware to restore smooth operation."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Newport \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Newport. Expert fixes for espagnolette, shootbolt locks on uPVC & timber frames in Victorian terraces & modern estates.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Newport locksmiths specialise in window lock repair and replacement, applying expert locksmithing techniques to secure your home. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we restore functionality with insurance-compliant fitting. Shootbolt locks and child restrictors are fitted to modern standards, ensuring lasting protection.",
+ "window-lock-repair-replacement.local-context-body": "Victorian terraces across Maindee and Crindau feature original sash windows with period-specific espagnolette and shootbolt locks that demand specialist repair knowledge. Semi-detached homes in Fairwater, built during the planned 1950s expansion, typically house standard uPVC window frames with modern shootbolt mechanisms prone to wear. Window lock failure in these contrasting properties requires different diagnostic approaches and replacement stock.\n\nListed buildings and heritage properties in the Caerleon area present compliance constraints; replacement locks must preserve original ironwork aesthetics and meet conservation standards. Conversely, post-war estates like Duffryn experience high call volumes for straightforward shootbolt repairs on uPVC frames, where rapid response and stock availability determine service efficiency. Local locksmith practice reflects this split between heritage-sensitive work and volume-based emergency callouts.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash window locks in Maindee and Crindau need specialist repair?",
+   "a": "Victorian terraces in these areas often have original period espagnolette locks and traditional shootbolts that require careful handling to avoid damage. Our locksmiths are trained in heritage lock repair to preserve your period fittings while restoring full function."
+  },
+  {
+   "q": "What should I do if my uPVC window locks fail in Bettws or Bassaleg?",
+   "a": "Modern uPVC frames in post-war estates use standard mortice and espagnolette locks that we can repair or replace quickly. Call us on 01983 621009 for rapid response\u2014we stock common replacements and can often complete repairs same-day."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Newport \u2013 Fast Local Service",
+ "safe-installation.meta.description": "Professional safe installation in Newport. Wall, floor and freestanding safes with secure anchoring, insurance compliance, heritage-certified for listed properties.",
+ "safe-installation.hero-paragraph": "Professional safe installation by Newport locksmiths combines expert locksmithing with secure positioning techniques. Whether you need a new safe fitted or require AiS approved installation for insurance purposes, our technicians ensure proper floor anchoring and wall mounting. We specialise in safes meeting Eurograde standards, guaranteeing your valuables remain protected and your policy valid.",
+ "safe-installation.local-context-body": "Safe installation in Newport requires adaptability across contrasting property types. Terraced homes in Pillgwenlly, many converted to HMOs, demand compact wall-safe solutions that respect shared walls and tenant arrangements. Semi-detached properties in Lliswerry offer more flexibility for floor safes and freestanding units, though access routes through uPVC-framed doorways and narrow hallways need careful planning during fitting.\n\nListed properties and heritage-designated homes in Caerleon present specific constraints for safe anchoring. Installation must avoid damaging original brickwork, period plasterwork or conservation-protected features; fixings must be concealed or sympathetic to fabric. Insurance documentation often requires proof that installation meets both British Standard BS7558 and local conservation officer approval, adding a compliance step not needed in standard post-war properties.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in Crindau \u2013 what type of safe installation would work best in my older property?",
+   "a": "Victorian terraces often have solid brick walls ideal for wall safes, but we'll assess your property's structure first to avoid damage to period features. We'll ensure anchoring doesn't compromise original ironwork or plasterwork, and provide insurance documentation for your antique property."
+  },
+  {
+   "q": "We're renting out a property in Pillgwenlly as an HMO \u2013 do we need special safe installation considerations?",
+   "a": "Yes; multi-occupancy properties benefit from floor or freestanding safes that are securely anchored but easier to monitor and service. We'll install with proper documentation and positioning that works for shared-access environments while meeting insurance requirements."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Newport \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Newport: lost keys, combinations & lockouts. Non-destructive methods for Duffryn, post-war estates & all property types. Call now.",
+ "safe-opening.hero-paragraph": "Our Newport locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to access your safe without damage. Our technicians prioritise preserving your safe's integrity whilst ensuring swift, professional resolution to your security needs.",
+ "safe-opening.local-context-body": "Safe opening calls in Newport reflect the city's diverse property ages and tenures. Langstone's post-war semi-detached homes often contain domestic safes installed during the 1970s\u201380s, while Maindee's Victorian terraces occasionally house period wall safes integrated into original masonry. Each property era presents different safe types, mounting depths, and access routes, requiring locksmiths to diagnose construction methods before attempting non-destructive opening techniques.\n\nHeritage properties in Caerleon and conservation-designated areas like Malpas require particular care when safes are built into listed structures. Non-destructive opening becomes essential here, as drilling or forced entry risks breaching conservation compliance and listed-building consent rules. HMO properties across inner Newport also generate safe-opening calls from landlords and tenants unable to access shared deposit boxes or legacy safes left by previous occupants, making rapid diagnosis and combination work critical in these high-turnover rental environments.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terraced house in Maindee and found a locked safe with no combination\u2014can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening and understand the value of preserving period properties in Newport's Victorian areas. We'll use specialist techniques to access your safe while protecting the original ironwork and fabric of your home."
+  },
+  {
+   "q": "We rent out a property in Bettws and a tenant has locked themselves out of the office safe\u2014how quickly can you respond?",
+   "a": "We offer rapid response across high-density estates like Bettws and can usually attend within hours to perform non-destructive safe opening, minimising disruption to your tenants and business operations."
+  }
+ ],
+ "home.areas-covered": [
+  "Allt-yr-yn",
+  "Alway",
+  "Baneswell",
+  "Barnardtown",
+  "Barrack Hill",
+  "Bassaleg",
+  "Beechwood",
+  "Bettws",
+  "Bishpool",
+  "Bishton",
+  "Caerleon",
+  "Castleton",
+  "Cefn",
+  "Christchurch",
+  "Coedkernew",
+  "Coldra",
+  "Crindau",
+  "Duffryn",
+  "East Usk",
+  "Eveswell",
+  "Gaer",
+  "Glan Llyn",
+  "Goldcliff",
+  "Graig",
+  "High Cross",
+  "Ladyhill",
+  "Langstone",
+  "Lawrence Hill",
+  "Llanmartin",
+  "Llanvaches",
+  "Llanwern",
+  "Lliswerry",
+  "Maesglas",
+  "Maindee",
+  "Malpas",
+  "Malpas Court",
+  "Malpas Park",
+  "Marshfield",
+  "Nash",
+  "Pillgwenlly",
+  "Pye Corner",
+  "Redwick",
+  "Rhiwderin",
+  "Ridgeway",
+  "Ringland",
+  "Rogerstone",
+  "Shaftesbury",
+  "Somerton",
+  "St Julians",
+  "St. Woolos",
+  "Stelvio",
+  "Stow Hill",
+  "Stow Park",
+  "Summerhill",
+  "Trinity View",
+  "Underwood",
+  "Victoria",
+  "Whitson",
+  "Woodlands"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Caerleon",
+  "St. Woolos",
+  "Gaer",
+  "Graig",
+  "Lawrence Hill",
+  "Langstone",
+  "Rhiwderin",
+  "Ridgeway",
+  "Ringland"
+ ],
+ "locked-out.areas-covered": [
+  "East Usk",
+  "St Julians",
+  "Alway",
+  "Bettws",
+  "Glan Llyn",
+  "Barrack Hill",
+  "Bassaleg",
+  "Beechwood",
+  "Bishpool"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Pillgwenlly",
+  "Bassaleg",
+  "Nash",
+  "Ringland",
+  "Llanvaches",
+  "Allt-yr-yn",
+  "Alway",
+  "Baneswell",
+  "Barnardtown"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Beechwood",
+  "Coedkernew",
+  "Llanmartin",
+  "Allt-yr-yn",
+  "Bettws",
+  "Bishpool",
+  "Bishton",
+  "Caerleon",
+  "Castleton"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Redwick",
+  "Barnardtown",
+  "Stelvio",
+  "Duffryn",
+  "Maesglas",
+  "Malpas Court",
+  "Malpas Park",
+  "Marshfield",
+  "Nash"
+ ],
+ "lock-changes.areas-covered": [
+  "Coldra",
+  "Bishton",
+  "Stow Hill",
+  "Cefn",
+  "Eveswell",
+  "Lliswerry",
+  "St. Woolos",
+  "Stelvio",
+  "Stow Park"
+ ],
+ "lock-repairs.areas-covered": [
+  "Summerhill",
+  "Maindee",
+  "Malpas",
+  "Barrack Hill",
+  "Rhiwderin",
+  "Lliswerry",
+  "Victoria",
+  "Whitson",
+  "Woodlands"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Somerton",
+  "Ridgeway",
+  "Christchurch",
+  "Lliswerry",
+  "Coedkernew",
+  "Coldra",
+  "Crindau",
+  "Duffryn",
+  "East Usk"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Llanwern",
+  "Shaftesbury",
+  "Woodlands",
+  "Whitson",
+  "Pye Corner",
+  "Lliswerry",
+  "Glan Llyn",
+  "Goldcliff",
+  "Graig"
+ ],
+ "door-repairs.areas-covered": [
+  "Rogerstone",
+  "Ladyhill",
+  "Goldcliff",
+  "Lliswerry",
+  "Llanmartin",
+  "Llanvaches",
+  "Llanwern",
+  "Maesglas",
+  "Maindee"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Marshfield",
+  "Underwood",
+  "Trinity View",
+  "Castleton",
+  "High Cross",
+  "Victoria",
+  "Lliswerry",
+  "Ladyhill",
+  "Langstone"
+ ],
+ "safe-installation.areas-covered": [
+  "Lliswerry",
+  "Malpas Park",
+  "Crindau",
+  "Langstone",
+  "Castleton",
+  "Cefn",
+  "Christchurch",
+  "Coedkernew",
+  "Coldra"
+ ],
+ "safe-opening.areas-covered": [
+  "Baneswell",
+  "Bishpool",
+  "Stow Park",
+  "Malpas Court",
+  "Lliswerry",
+  "East Usk",
+  "Eveswell",
+  "Gaer",
+  "Glan Llyn"
+ ]
 }

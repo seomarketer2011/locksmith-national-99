@@ -1,342 +1,325 @@
 {
-  "meta.title": "Scarborough Locksmith | 24/7 Emergency Lock Services",
-  "meta.description": "Scarborough locksmith covering emergency call-outs, lock repairs and replacements for Victorian properties, holiday lets and post-war suburban homes.",
-  "home.hero-paragraph": "Scarborough locksmith locksmithing lock services help you regain access to your home or business quickly. We specialise in emergency lockouts, lock changes, and security upgrades. All our engineers are DBS checked and fully insured, offering 24/7 response with non-destructive entry techniques to minimise damage to your property.",
-  "home.local-context-heading": "Seafront Villas to Suburban Locks",
-  "home.local-context-body": "Scarborough's mixed housing stock—from Victorian villas along the seafront to post-war semis in areas like Sandybed—creates varied locksmith demands. Period properties in conservation areas often retain original locks requiring specialist knowledge for repair or period-appropriate replacement. Newer suburban properties, meanwhile, typically need standard domestic lock maintenance and upgrades as systems reach end-of-life after decades in service.\n\nHoliday-let properties across South Cliff and St Nicholas Cliff require frequent re-keying and access-control changes due to high tenant turnover. HMO conversions in the area must comply with fire safety regulations that affect door hardware and locking mechanisms. Listed buildings in central Scarborough cannot have fixtures altered without conservation consent, making specialist locksmith advice essential before any work begins.",
-  "home.local-faqs": [
-    {
-      "q": "We've got a Victorian villa on the seafront – do you handle period locks?",
-      "a": "Yes – our locksmiths specialise in original period mechanisms common in Scarborough's listed seafront properties and Old Town conservation areas. We can repair, rekey, or fit period-appropriate replacements that respect the character of historic villas."
-    },
-    {
-      "q": "We manage holiday lets in South Cliff and need frequent rekeying – can you help?",
-      "a": "Absolutely. We handle high-turnover access-control work for short-term rental properties across South Cliff and St Nicholas Cliff, including emergency rekeying, master-key systems, and keypad upgrades to suit guest changeovers."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Scarborough – 24/7 Fast Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Scarborough. Locked out? Fast response to South Cliff villas, Old Town flats & all properties. Key snapped? Door won't lock? Urgent repairs.",
-  "emergency-locksmith.hero-paragraph": "When you're locked out of your home or business in Scarborough, our emergency locksmiths specialise in rapid response locksmithing to get you back inside. We're available 24/7 and handle everything from snap-key extraction to non-destructive entry, minimising damage to your property. All our engineers are DBS checked, ensuring you receive professional, trustworthy service when you need it most.",
-  "emergency-locksmith.local-context-body": "Scarborough's post-war suburban areas like Scalby Mills feature semi-detached properties with standard domestic locks now reaching the end of their serviceable life, making emergency lockouts and lock failures common callouts. Victorian villas and period townhouses in the Old Town conservation area present different challenges, with original mechanisms that may jam or fail without warning, requiring specialist handling during urgent access situations.\n\nListed building status in central and cliff-area properties means replacement locks must often meet conservation requirements, adding a planning layer to emergency work. High holiday-let turnover in cliff-top properties also drives demand for rapid re-keying and emergency access solutions when guests are locked out or keys are lost mid-stay, particularly during peak season.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in South Cliff – how quickly can you attend?",
-      "a": "We're based in Scarborough and typically arrive within 30–45 minutes for emergency callouts across the town, including South Cliff's seafront properties. We carry specialist tools for period locks common in Victorian terraces, so we can often open without damage."
-    },
-    {
-      "q": "My holiday let in The Old Town has a snapped key in an original period lock – can you help tonight?",
-      "a": "Yes, our 24/7 emergency service handles period locks regularly in Old Town conservation properties. We'll extract the broken key and either rekey the historic lock or fit a compatible modern replacement, depending on your preference and any listed-building requirements."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Scarborough | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Scarborough? Boltfix provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian villas, terraces, flats & modern homes. Call 01723 651024.",
-  "locked-out.hero-paragraph": "When you're locked out in Scarborough, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or suffered a snapped key, we use non-destructive entry techniques to regain access without damage to your property. Fast, professional help available across Scarborough.",
-  "locked-out.local-context-body": "Locked-out situations across Scarborough's neighborhoods present varied entry challenges depending on property age and type. Falsgrave's mix of interwar semis and post-war terraces typically feature standard mortice locks and rim cylinders now decades into service, where non-destructive entry relies on picking or bumping established lock mechanisms. Victorian villas and flats in the Old Town and cliff-top conservation areas, by contrast, often retain original period locks alongside later modifications, requiring locksmiths to work carefully around heritage door furniture and avoid damage to listed components.\n\nHoliday-let properties concentrated in South Cliff and St Nicholas Cliff areas present specific locked-out complications. Frequent tenant turnover and access-control upgrades mean doors may combine period frames with modern multipoint systems, requiring locksmiths to identify and bypass the correct mechanism without damaging both old and new hardware. Additionally, listed-building regulations in central conservation zones can restrict drilling or forcing, making non-destructive techniques the only viable approach for properties where structural or architectural damage is prohibited.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian villa on the seafront – will non-destructive entry work on period locks?",
-      "a": "Yes. Our locksmiths specialise in period locks common in Scarborough's seafront conservation areas and can open original mechanisms without damage, then advise on secure modern replacements if needed."
-    },
-    {
-      "q": "I manage a holiday let in South Cliff and a guest is locked out – how quickly can you help?",
-      "a": "We offer rapid non-destructive entry for holiday properties across South Cliff and can re-key on the same visit, minimising guest disruption and protecting your short-term rental turnover."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Scarborough – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Scarborough: professional extraction from euro cylinders, mortice locks & night latches. Serving Newlands & across town. Fast, non-destructive.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Scarborough requires expert locksmith knowledge and locksmithing precision. When a key snaps or shears inside your lock, our technicians use specialised key extractor tools and broken-key probes to retrieve the fragment safely. Whether your euro cylinder or mortice lock is affected, we employ non-destructive methods to restore access without damage to your property.",
-  "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks are common across Scarborough's mixed housing stock, particularly in period properties along the seafront and in interwar terraces across Falsgrave where lock mechanisms are often original or near end-of-life. Semi-detached homes in post-war estates like Newlands also experience regular key breakage as factory-fitted locks age, creating straightforward extraction work. Holiday lets and HMO conversions in central areas accelerate wear through high-turnover access patterns.\n\nListed buildings in Scarborough's conservation zones present extraction constraints: period-appropriate lock restoration or replacement must align with heritage listing requirements, affecting the scope of removal work and subsequent lock specification. Post-war suburban properties typically feature standard euro cylinders in upvc or timber doors, allowing direct extraction and swift replacement. Coastal salt air and damp also accelerate internal cylinder wear, increasing the likelihood of key fracture in older mechanisms across all property types.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My key snapped in the lock of my Victorian villa on the South Cliff—can you remove it without damaging the original period lock?",
-      "a": "Yes. Period locks in Scarborough's Victorian and Edwardian seafront properties often have delicate internal mechanisms; we use specialist extraction techniques to remove the broken key safely without forcing or enlarging the cylinder, preserving the historic lock for repair or restoration."
-    },
-    {
-      "q": "I've got a holiday let in Sandybed with a snapped key stuck in a night latch—how quickly can you get it out?",
-      "a": "We typically attend within hours for holiday-let properties; removing a broken key from a night latch is straightforward, and we'll have your guests or turnover back on schedule without lock replacement unless the damage warrants it."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Scarborough – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Scarborough. Post-break-in lock changes, door repairs and security upgrades for period properties and modern homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Scarborough locksmith team specialises in burglar repair and locksmithing services for properties affected by break-ins. Following forced entry, we assess damage to doors and locks, installing BS3621 mortice locks and TS007 anti-snap cylinders to restore security. All work meets insurance-compliant standards, ensuring your home is properly protected.",
-  "burglar-repair-service.local-context-body": "Post-break-in lock and door repair in Scarborough addresses a diverse range of property conditions. Victorian villas and terraces in South Cliff frequently require specialist reinstatement following break-ins, as their period joinery and original lock mechanisms demand careful handling during replacement. Similarly, converted flats in The Old Town present specific challenges: many occupy listed townhouses where any lock or door repair must align with conservation area guidelines, affecting material selection and installation methods.\n\nHoliday-let properties across Scarborough's cliff-top areas add urgency to burglar repair work. High tenant turnover in short-term rental accommodation means insurance reinstatement must be completed quickly and to exacting standards, with documentation meeting underwriter requirements. Additionally, many post-war suburban properties feature standard mortice locks now vulnerable to forced entry; upgrading these during repair work often becomes necessary to meet current security expectations and insurance conditions.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my Victorian villa in the Old Town, will Boltfix repair period locks to match my original fittings?",
-      "a": "Yes. Our burglary repair service includes specialist handling of period locks found in Scarborough's conservation areas; we source and fit period-appropriate replacements where original mechanisms are damaged, ensuring your listed property complies with insurer and conservation requirements."
-    },
-    {
-      "q": "I manage a holiday let in South Cliff that's been broken into—can you re-key and upgrade access control quickly for the next guests?",
-      "a": "Absolutely. We offer emergency burglar repair and re-keying for short-term rental properties, with rapid turnaround to minimise vacancy; we can also install modern access systems or keypad locks alongside door and frame repairs, documented for your insurance claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Scarborough – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Scarborough—same-day door and window boarding after break-ins or storm damage. Serving Barrowcliff, Edgehill and across the town.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Scarborough from our experienced locksmith team combines traditional locksmithing expertise with rapid response capability. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Scarborough's Victorian villas and listed properties along the seafront present particular challenges for emergency boarding after break-ins or storm damage. Conservation area restrictions mean temporary coverings must be fitted carefully to avoid damage to original joinery and stonework. Semi-detached homes in Sandybed, built during interwar and post-war expansion, feature more straightforward door and window frames that allow faster boarding installation, reducing exposure time for the property.\n\nListed building status in central and cliff areas requires coordination with local conservation officers before any permanent repairs follow boarding work. Storm damage to period sash windows and original doors is common along the exposed seafront, while the post-war suburban stock uses standard frame dimensions that simplify sourcing replacement materials. Access to properties for boarding work often depends on whether original locks remain functional after damage, affecting how quickly a secure temporary seal can be achieved.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian properties on the seafront without damaging original features?",
-      "a": "Yes. Our team understands the listed-building restrictions in Scarborough's central and cliff-top conservation areas, and we use temporary boarding methods that protect period frames and glazing bars. We'll advise on listed-building consent if permanent repairs are needed."
-    },
-    {
-      "q": "How quickly can you board up a holiday let in South Cliff after a break-in?",
-      "a": "We aim to arrive within the hour for emergency calls and secure the property immediately, minimizing guest disruption and rental income loss. High turnover in Scarborough's short-term rental market means we're experienced with rapid, professional boarding that keeps your let functional."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Scarborough – Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Scarborough: professional replacement after moving, key loss or security upgrades. Period properties and modern homes covered.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Scarborough by our experienced locksmith specialists in locksmithing ensure your property security is updated to current standards. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your Scarborough property effectively.",
-  "lock-changes.local-context-body": "Lock changes in Scarborough respond to distinct property types across the city. Semi-detached homes in Newlands, typical of the post-war suburban expansion, often feature standard mortice and cylinder locks now requiring replacement after 40–50 years of use. Holiday-let conversions in the seafront conservation areas drive frequent re-keying cycles, while period properties in the Old Town retain original locks that may need specialist handling during replacement to preserve period authenticity.\n\nListed buildings and properties within conservation areas require locks and associated hardware that respect original aesthetic and fabric—a consideration affecting much of central Scarborough's cliff-top villa stock. Modern access-control upgrades to holiday lets often demand multi-point or euro-cylinder replacements that must comply with letting standards, whereas standard domestic lock changes in suburban stock typically involve straightforward like-for-like substitution of worn mechanisms.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just bought a Victorian villa on the seafront—do I need specialist lock changes?",
-      "a": "Yes. Scarborough's historic seafront properties often have original period locks that need careful handling during replacement. We source period-appropriate locks that match your villa's character while upgrading security."
-    },
-    {
-      "q": "We're converting our Sandybed property into a holiday let—how often should we change locks?",
-      "a": "Given high guest turnover in short-term rentals, we recommend re-keying between tenancies or installing a modern access-control system. This protects your property and gives you control over who holds keys."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Scarborough – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Scarborough: multipoint, mortice & night latch fixes. Fast response for Victorian villas, terraces & modern homes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Our Scarborough locksmith specialises in lock repairs using expert locksmithing techniques to restore your security. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and fix the problem efficiently. We perform multipoint servicing and mortice maintenance to manufacturer warranty standards, ensuring your locks function reliably.",
-  "lock-repairs.local-context-body": "Scarborough's mixed housing stock creates diverse lock repair demands. Semi-detached and terraced properties in Newlands and Sandybed, built in the post-war and interwar periods, commonly feature mortice locks and night latches now requiring professional repair after decades of use. Victorian villas and period properties in the cliff conservation areas present different challenges, often retaining original locks that demand specialist knowledge to restore without compromising listed-building status.\n\nLock repair work in Scarborough must account for the high proportion of holiday-let properties concentrated in South Cliff and St Nicholas Cliff. These frequently converted properties undergo intensive use cycles, placing accelerated wear on multipoint and gearbox mechanisms. Coastal weather exposure also affects lock longevity, particularly salt-air corrosion on exposed door hardware, making timely repair assessment essential before complete replacement becomes necessary.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian locks in Scarborough's Old Town need specialist repair rather than replacement?",
-      "a": "Period locks in listed buildings and conservation areas are protected; our locksmiths specialise in repairing original mortice and night latch mechanisms to maintain authenticity and comply with planning requirements. We can restore gearbox and multipoint faults without triggering listed-building consent delays."
-    },
-    {
-      "q": "How often do rental properties in South Cliff need multipoint lock repairs?",
-      "a": "High holiday-let turnover means rental locks face heavy use; we repair worn gearbox and multipoint systems quickly to minimise tenant changeover downtime and ensure security compliance between guest bookings."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Scarborough – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Scarborough, including Victorian villas and period properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Scarborough from our expert locksmith team combines traditional locksmithing with modern security standards. Whether you're fitting new locks after moving house, upgrading security following a break-in, or meeting insurance requirements, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
-  "door-lock-installation.local-context-body": "Scarborough's housing stock spans Victorian seafront properties in South Cliff through to post-war suburban terraces in outlying areas, each presenting distinct installation requirements. Period villas and converted flats in these mixed neighborhoods often retain original door frames and hardware, while modern multipoint locks and TS007 anti-snap cylinders address security needs across both heritage and contemporary properties. Door lock installation therefore demands familiarity with varied frame materials, from period timber casements to standard modern construction.\n\nListed building status affects many properties, particularly in central conservation areas and cliff-top locations, where replacement locks must meet aesthetic and structural guidelines. High holiday-let activity across South Cliff and similar seafront zones creates additional demand for rapid, reliable installation of upgraded security systems to meet short-term rental standards. Local installers routinely encounter both period mortice locks requiring specialist removal and contemporary euro cylinders needing swift replacement or upgrade to anti-snap variants.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "We've got a Victorian villa on the cliff—do you install locks that match period properties?",
-      "a": "Yes, we fit both period-appropriate replacement locks for listed properties in Scarborough's seafront conservation areas and modern high-security alternatives like TS007 anti-snap cylinders if you prefer upgraded protection. We'll advise on what suits your property's age and any planning restrictions."
-    },
-    {
-      "q": "Our holiday let in South Cliff needs new locks after multiple turnovers—what's the fastest option?",
-      "a": "We install BS3621 mortice locks and multipoint systems quickly for short-term rental properties, and can re-key or upgrade cylinders the same day to secure your changeover. Modern cylinders also reduce damage from frequent guest use."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Scarborough – Fast Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Scarborough, including St Nicholas Cliff period properties and modern homes. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Scarborough locksmith specialises in door lock replacement services, combining expert locksmithing with modern security solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, reliable service across Scarborough.",
-  "door-lock-replacement.local-context-body": "Holiday-let properties in St Nicholas Cliff and the wider seafront area drive frequent door lock replacement as short-term rental turnover demands fresh access security. Semi-detached homes across Barrowcliff, built during interwar expansion, now show standard mortice and cylinder locks at the end of their serviceable life, making straightforward replacement the norm for family households seeking reliable everyday function.\n\nScarborough's significant stock of listed buildings in central and cliff-top conservation areas requires replacement locks to match period standards; original Victorian hardware often cannot be simply swapped for modern equivalents without listed-building consent. Post-war suburban properties typically accept contemporary lock types without restriction, whereas period villas and terraces in older areas may need reproduction or sympathetic specification to preserve character and legal compliance.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "We have a Victorian villa in South Cliff with the original lock—can you replace it with something modern?",
-      "a": "Yes, we can upgrade to a modern lock while respecting the period character of your property. Many South Cliff homeowners choose this route for security; we'll ensure the new lock fits the existing door preparation and discuss heritage-appropriate options if needed."
-    },
-    {
-      "q": "Our holiday let in St Nicholas Cliff gets frequent tenant turnover—how often should we replace the locks?",
-      "a": "For short-term rental properties, we typically recommend re-keying or replacing locks every 6–12 months, or after each long-term guest. This protects your investment and gives you peace of mind; we can set up a maintenance schedule tailored to your letting calendar."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Scarborough – Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Scarborough, including misaligned uPVC, composite and timber doors. Fast fixes for Barrowcliff homes and across town.",
-  "door-repairs.hero-paragraph": "Our Scarborough locksmith team specialises in door repairs drawing on decades of locksmithing expertise. Whether your uPVC or composite door has dropped, won't close properly, or allows draughts through, we diagnose and fix the issue. Common solutions include hinge adjustment, frame alignment, and multipoint lock realignment, restoring your door's function and security.",
-  "door-repairs.local-context-body": "Scarborough's post-war suburban expansion in areas like Newlands and Edgehill introduced standardised domestic door frames and hardware that are now experiencing wear and misalignment after decades of use. Semi-detached properties in these neighborhoods commonly develop dropped doors and loose hinges, particularly where settlement has shifted frame geometry. Victorian seafront properties and listed villas in the Old Town present contrasting challenges, where original period doors and bespoke joinery require sympathetic repair approaches rather than straightforward replacement.\n\nDoor repair work in Scarborough must account for listed-building constraints affecting properties in central and cliff conservation areas, where alterations to historic doors and frames require planning consideration. High holiday-let turnover in properties across South Cliff and the wider city also drives demand for rapid hardware repair and adjustment to accommodate frequent tenant changes and intensive use patterns typical of short-term rental cycles.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian villas in Scarborough's Old Town need specialist door repair?",
-      "a": "Period properties feature original frames and hanging systems that differ from modern standards; our locksmiths understand traditional joinery and can realign doors without forcing modern adjustments that damage listed features."
-    },
-    {
-      "q": "How often do holiday let doors in South Cliff need repair due to turnover?",
-      "a": "High guest rotation causes accelerated wear on hinges and frames; we repair dropped doors and misaligned hardware on short notice, keeping rental properties compliant and secure between tenancies."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Scarborough – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Scarborough. Expert fixes for espagnolette and shootbolt locks on period properties, Victorian villas and modern homes.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Scarborough locksmith specialises in window lock repair and replacement as a core locksmithing service. Whether you're dealing with windows that won't lock or broken handles, our technicians restore espagnolette mechanisms and shootbolt locks to full working order. All installations meet insurance-compliant fitting standards, ensuring your home security is properly restored.",
-  "window-lock-repair-replacement.local-context-body": "Window lock repairs address a core maintenance need across Falsgrave's mixed residential stock, where interwar terraces and post-war semis sit alongside modern flats. Espagnolette and shootbolt locks on these properties wear through decades of use, particularly in holiday lets where turnover accelerates wear. Replacement becomes essential both for security and smooth operation in properties where sash windows or casements form the primary ventilation and light control.\n\nListed buildings in Scarborough's central conservation areas present a distinct consideration: period window frames and original hardware often require sympathetic replacement that respects architectural character. In contrast, post-war suburban properties in Newlands typically house standard modern locks that can be swapped straightforwardly. Property condition surveys and insurance requirements also drive demand, as failed or unreliable window locks affect both underwriting and tenant safety standards in rental properties across the town.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "My Victorian villa window locks in South Cliff are sticking – can you repair or replace espagnolette locks?",
-      "a": "Yes – we repair and replace espagnolette locks on period sash and casement windows common in South Cliff's listed villas. If the mechanism is worn or corroded (common in seafront properties), we can fit period-appropriate replacements that match your original hardware."
-    },
-    {
-      "q": "Our holiday let in The Old Town has multiple shootbolt failures – what's the quickest fix?",
-      "a": "We can often repair shootbolt locks on the day with new springs or catches, keeping your turnover tight. If replacement is needed, we stock both traditional and modern variants to suit listed conservation properties."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Scarborough – Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation in Scarborough. Secure anchoring, insurance documentation, anti-leverage positioning for period properties, villas and modern homes.",
-  "safe-installation.hero-paragraph": "Our Scarborough locksmith team specialises in safe installation and locksmithing expertise tailored to your security needs. Whether you require floor anchoring for a new safe or wall mounting to meet insurance approval requirements, we ensure proper positioning to prevent anti-leverage attacks. All installations comply with Eurograde and AiS approved standards, guaranteeing your valuables maximum protection.",
-  "safe-installation.local-context-body": "Victorian villas and period properties along Scarborough's seafront and conservation areas often contain valuable items requiring secure storage. Safe installation in these listed buildings demands careful planning: fixing points must respect original structures, and insurers typically require proper anchoring documentation. Semi-detached homes in Sandybed and similar interwar suburbs similarly benefit from fitted safes, where wall construction allows secure floor or wall mounting without compromising the property's integrity.\n\nListed-building consent may be required for safe installation in central conservation zones, particularly where wall or floor fixings affect original plasterwork or period features. Many holiday-let properties across South Cliff demand quick-turnaround safe provision to meet insurance requirements for guest valuables, necessitating advance structural surveys to confirm suitable installation locations in converted flats and multi-use properties.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian villas and period properties on Scarborough's seafront?",
-      "a": "Yes. We're experienced fitting safes in listed buildings and historic properties in the South Cliff and Old Town conservation areas, ensuring installation methods respect period features and meet insurance requirements without compromising original fabric."
-    },
-    {
-      "q": "Can you anchor a safe in a semi-detached home in Newlands or Osgodby?",
-      "a": "Absolutely. Our engineers regularly install and properly anchor safes in post-war suburban properties across Newlands and Osgodby, whether into timber joists, cavity walls, or concrete; we provide full installation documentation for your insurer."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Scarborough – Fast, Trusted Local Service",
-  "safe-opening.meta.description": "Safe opening in Scarborough: non-destructive access for lost keys, combinations. South Cliff villas to modern homes. Expert, damage-minimising service.",
-  "safe-opening.hero-paragraph": "Our Scarborough locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to regain access without damage. Our technicians use combination dial manipulation and other precision approaches to restore your safe's functionality quickly and professionally.",
-  "safe-opening.local-context-body": "Safe deposits and home safes are common in Scarborough's Victorian villas and period properties, where valuable documents, heirlooms and cash storage remain standard practice. Interwar and post-war residential areas including Sandybed feature a mix of older domestic safes installed decades ago, often inherited with properties or fitted during previous ownership. Lost combinations and misplaced keys are frequent scenarios, particularly in holiday-let conversions where access records have been lost through multiple tenant changeovers.\n\nListed-building status in many central and cliff-area properties constrains access methods; non-destructive opening becomes essential where drill-based alternatives would breach conservation requirements or require council consent. Safes installed in period properties often predate modern manipulation techniques, requiring locksmiths to apply historical knowledge of dial mechanics and vintage locking systems alongside contemporary non-invasive tools.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian villa on the seafront and can't find the safe combination – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties across Scarborough's seafront conservation areas. We'll assess the lock type and use appropriate techniques to access your safe while preserving both the mechanism and your home's character."
-    },
-    {
-      "q": "We're a holiday let in South Cliff and need to access a guest safe quickly – how fast can you respond?",
-      "a": "We offer same-day safe opening for Scarborough's busy short-term rental sector, including South Cliff properties. Call 01723 651024 to arrange urgent non-destructive access without disrupting your guests' experience."
-    }
-  ],
-  "home.areas-covered": [
-    "Barrowcliff",
-    "Edgehill",
-    "Falsgrave",
-    "Middle Deepdale",
-    "Newlands",
-    "Osgodby",
-    "Sandybed",
-    "Scalby Mills",
-    "South Cliff",
-    "St Nicholas Cliff",
-    "The Old Town"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "The Old Town",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "Osgodby"
-  ],
-  "locked-out.areas-covered": [
-    "Newlands",
-    "South Cliff",
-    "Edgehill",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Sandybed",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Edgehill",
-    "South Cliff",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "lock-changes.areas-covered": [
-    "Osgodby",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town"
-  ],
-  "lock-repairs.areas-covered": [
-    "Middle Deepdale",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Barrowcliff",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Falsgrave",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town"
-  ],
-  "door-repairs.areas-covered": [
-    "St Nicholas Cliff",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Scalby Mills",
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "safe-installation.areas-covered": [
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ],
-  "safe-opening.areas-covered": [
-    "South Cliff",
-    "Edgehill",
-    "Newlands",
-    "Barrowcliff",
-    "St Nicholas Cliff",
-    "Scalby Mills",
-    "The Old Town",
-    "Osgodby"
-  ]
+ "meta.title": "Scarborough Locksmith | 24/7 Emergency Lock Services",
+ "meta.description": "Scarborough locksmith covering emergency call-outs, lock repairs and replacements for Victorian properties, holiday lets and post-war suburban homes.",
+ "home.hero-paragraph": "Scarborough locksmith locksmithing lock services help you regain access to your home or business quickly. We specialise in emergency lockouts, lock changes, and security upgrades. All our engineers are DBS checked and fully insured, offering 24/7 response with non-destructive entry techniques to minimise damage to your property.",
+ "home.local-context-heading": "Seafront Villas to Suburban Locks",
+ "home.local-context-body": "Scarborough's mixed housing stock\u2014from Victorian villas along the seafront to post-war semis in areas like Sandybed\u2014creates varied locksmith demands. Period properties in conservation areas often retain original locks requiring specialist knowledge for repair or period-appropriate replacement. Newer suburban properties, meanwhile, typically need standard domestic lock maintenance and upgrades as systems reach end-of-life after decades in service.\n\nHoliday-let properties across South Cliff and St Nicholas Cliff require frequent re-keying and access-control changes due to high tenant turnover. HMO conversions in the area must comply with fire safety regulations that affect door hardware and locking mechanisms. Listed buildings in central Scarborough cannot have fixtures altered without conservation consent, making specialist locksmith advice essential before any work begins.",
+ "home.local-faqs": [
+  {
+   "q": "We've got a Victorian villa on the seafront \u2013 do you handle period locks?",
+   "a": "Yes \u2013 our locksmiths specialise in original period mechanisms common in Scarborough's listed seafront properties and Old Town conservation areas. We can repair, rekey, or fit period-appropriate replacements that respect the character of historic villas."
+  },
+  {
+   "q": "We manage holiday lets in South Cliff and need frequent rekeying \u2013 can you help?",
+   "a": "Absolutely. We handle high-turnover access-control work for short-term rental properties across South Cliff and St Nicholas Cliff, including emergency rekeying, master-key systems, and keypad upgrades to suit guest changeovers."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Scarborough \u2013 24/7 Fast Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Scarborough. Locked out? Fast response to South Cliff villas, Old Town flats & all properties. Key snapped? Door won't lock? Urgent repairs.",
+ "emergency-locksmith.hero-paragraph": "When you're locked out of your home or business in Scarborough, our emergency locksmiths specialise in rapid response locksmithing to get you back inside. We're available 24/7 and handle everything from snap-key extraction to non-destructive entry, minimising damage to your property. All our engineers are DBS checked, ensuring you receive professional, trustworthy service when you need it most.",
+ "emergency-locksmith.local-context-body": "Scarborough's post-war suburban areas like Scalby Mills feature semi-detached properties with standard domestic locks now reaching the end of their serviceable life, making emergency lockouts and lock failures common callouts. Victorian villas and period townhouses in the Old Town conservation area present different challenges, with original mechanisms that may jam or fail without warning, requiring specialist handling during urgent access situations.\n\nListed building status in central and cliff-area properties means replacement locks must often meet conservation requirements, adding a planning layer to emergency work. High holiday-let turnover in cliff-top properties also drives demand for rapid re-keying and emergency access solutions when guests are locked out or keys are lost mid-stay, particularly during peak season.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in South Cliff \u2013 how quickly can you attend?",
+   "a": "We're based in Scarborough and typically arrive within 30\u201345 minutes for emergency callouts across the town, including South Cliff's seafront properties. We carry specialist tools for period locks common in Victorian terraces, so we can often open without damage."
+  },
+  {
+   "q": "My holiday let in The Old Town has a snapped key in an original period lock \u2013 can you help tonight?",
+   "a": "Yes, our 24/7 emergency service handles period locks regularly in Old Town conservation properties. We'll extract the broken key and either rekey the historic lock or fit a compatible modern replacement, depending on your preference and any listed-building requirements."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Scarborough | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Scarborough? Boltfix provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian villas, terraces, flats & modern homes. Call 01723 651024.",
+ "locked-out.hero-paragraph": "When you're locked out in Scarborough, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or suffered a snapped key, we use non-destructive entry techniques to regain access without damage to your property. Fast, professional help available across Scarborough.",
+ "locked-out.local-context-body": "Locked-out situations across Scarborough's neighborhoods present varied entry challenges depending on property age and type. Falsgrave's mix of interwar semis and post-war terraces typically feature standard mortice locks and rim cylinders now decades into service, where non-destructive entry relies on picking or bumping established lock mechanisms. Victorian villas and flats in the Old Town and cliff-top conservation areas, by contrast, often retain original period locks alongside later modifications, requiring locksmiths to work carefully around heritage door furniture and avoid damage to listed components.\n\nHoliday-let properties concentrated in South Cliff and St Nicholas Cliff areas present specific locked-out complications. Frequent tenant turnover and access-control upgrades mean doors may combine period frames with modern multipoint systems, requiring locksmiths to identify and bypass the correct mechanism without damaging both old and new hardware. Additionally, listed-building regulations in central conservation zones can restrict drilling or forcing, making non-destructive techniques the only viable approach for properties where structural or architectural damage is prohibited.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian villa on the seafront \u2013 will non-destructive entry work on period locks?",
+   "a": "Yes. Our locksmiths specialise in period locks common in Scarborough's seafront conservation areas and can open original mechanisms without damage, then advise on secure modern replacements if needed."
+  },
+  {
+   "q": "I manage a holiday let in South Cliff and a guest is locked out \u2013 how quickly can you help?",
+   "a": "We offer rapid non-destructive entry for holiday properties across South Cliff and can re-key on the same visit, minimising guest disruption and protecting your short-term rental turnover."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Scarborough \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Scarborough: professional extraction from euro cylinders, mortice locks & night latches. Serving Newlands & across town. Fast, non-destructive.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Scarborough requires expert locksmith knowledge and locksmithing precision. When a key snaps or shears inside your lock, our technicians use specialised key extractor tools and broken-key probes to retrieve the fragment safely. Whether your euro cylinder or mortice lock is affected, we employ non-destructive methods to restore access without damage to your property.",
+ "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks are common across Scarborough's mixed housing stock, particularly in period properties along the seafront and in interwar terraces across Falsgrave where lock mechanisms are often original or near end-of-life. Semi-detached homes in post-war estates like Newlands also experience regular key breakage as factory-fitted locks age, creating straightforward extraction work. Holiday lets and HMO conversions in central areas accelerate wear through high-turnover access patterns.\n\nListed buildings in Scarborough's conservation zones present extraction constraints: period-appropriate lock restoration or replacement must align with heritage listing requirements, affecting the scope of removal work and subsequent lock specification. Post-war suburban properties typically feature standard euro cylinders in upvc or timber doors, allowing direct extraction and swift replacement. Coastal salt air and damp also accelerate internal cylinder wear, increasing the likelihood of key fracture in older mechanisms across all property types.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My key snapped in the lock of my Victorian villa on the South Cliff\u2014can you remove it without damaging the original period lock?",
+   "a": "Yes. Period locks in Scarborough's Victorian and Edwardian seafront properties often have delicate internal mechanisms; we use specialist extraction techniques to remove the broken key safely without forcing or enlarging the cylinder, preserving the historic lock for repair or restoration."
+  },
+  {
+   "q": "I've got a holiday let in Sandybed with a snapped key stuck in a night latch\u2014how quickly can you get it out?",
+   "a": "We typically attend within hours for holiday-let properties; removing a broken key from a night latch is straightforward, and we'll have your guests or turnover back on schedule without lock replacement unless the damage warrants it."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Scarborough \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Scarborough. Post-break-in lock changes, door repairs and security upgrades for period properties and modern homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Scarborough locksmith team specialises in burglar repair and locksmithing services for properties affected by break-ins. Following forced entry, we assess damage to doors and locks, installing BS3621 mortice locks and TS007 anti-snap cylinders to restore security. All work meets insurance-compliant standards, ensuring your home is properly protected.",
+ "burglar-repair-service.local-context-body": "Post-break-in lock and door repair in Scarborough addresses a diverse range of property conditions. Victorian villas and terraces in South Cliff frequently require specialist reinstatement following break-ins, as their period joinery and original lock mechanisms demand careful handling during replacement. Similarly, converted flats in The Old Town present specific challenges: many occupy listed townhouses where any lock or door repair must align with conservation area guidelines, affecting material selection and installation methods.\n\nHoliday-let properties across Scarborough's cliff-top areas add urgency to burglar repair work. High tenant turnover in short-term rental accommodation means insurance reinstatement must be completed quickly and to exacting standards, with documentation meeting underwriter requirements. Additionally, many post-war suburban properties feature standard mortice locks now vulnerable to forced entry; upgrading these during repair work often becomes necessary to meet current security expectations and insurance conditions.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my Victorian villa in the Old Town, will Boltfix repair period locks to match my original fittings?",
+   "a": "Yes. Our burglary repair service includes specialist handling of period locks found in Scarborough's conservation areas; we source and fit period-appropriate replacements where original mechanisms are damaged, ensuring your listed property complies with insurer and conservation requirements."
+  },
+  {
+   "q": "I manage a holiday let in South Cliff that's been broken into\u2014can you re-key and upgrade access control quickly for the next guests?",
+   "a": "Absolutely. We offer emergency burglar repair and re-keying for short-term rental properties, with rapid turnaround to minimise vacancy; we can also install modern access systems or keypad locks alongside door and frame repairs, documented for your insurance claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Scarborough \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Scarborough\u2014same-day door and window boarding after break-ins or storm damage. Serving Barrowcliff, Edgehill and across the town.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Scarborough from our experienced locksmith team combines traditional locksmithing expertise with rapid response capability. Whether you're facing smashed windows, damaged doors, or broken glazing, we secure your property using robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Scarborough's Victorian villas and listed properties along the seafront present particular challenges for emergency boarding after break-ins or storm damage. Conservation area restrictions mean temporary coverings must be fitted carefully to avoid damage to original joinery and stonework. Semi-detached homes in Sandybed, built during interwar and post-war expansion, feature more straightforward door and window frames that allow faster boarding installation, reducing exposure time for the property.\n\nListed building status in central and cliff areas requires coordination with local conservation officers before any permanent repairs follow boarding work. Storm damage to period sash windows and original doors is common along the exposed seafront, while the post-war suburban stock uses standard frame dimensions that simplify sourcing replacement materials. Access to properties for boarding work often depends on whether original locks remain functional after damage, affecting how quickly a secure temporary seal can be achieved.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian properties on the seafront without damaging original features?",
+   "a": "Yes. Our team understands the listed-building restrictions in Scarborough's central and cliff-top conservation areas, and we use temporary boarding methods that protect period frames and glazing bars. We'll advise on listed-building consent if permanent repairs are needed."
+  },
+  {
+   "q": "How quickly can you board up a holiday let in South Cliff after a break-in?",
+   "a": "We aim to arrive within the hour for emergency calls and secure the property immediately, minimizing guest disruption and rental income loss. High turnover in Scarborough's short-term rental market means we're experienced with rapid, professional boarding that keeps your let functional."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Scarborough \u2013 Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Scarborough: professional replacement after moving, key loss or security upgrades. Period properties and modern homes covered.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Scarborough by our experienced locksmith specialists in locksmithing ensure your property security is updated to current standards. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your Scarborough property effectively.",
+ "lock-changes.local-context-body": "Lock changes in Scarborough respond to distinct property types across the city. Semi-detached homes in Newlands, typical of the post-war suburban expansion, often feature standard mortice and cylinder locks now requiring replacement after 40\u201350 years of use. Holiday-let conversions in the seafront conservation areas drive frequent re-keying cycles, while period properties in the Old Town retain original locks that may need specialist handling during replacement to preserve period authenticity.\n\nListed buildings and properties within conservation areas require locks and associated hardware that respect original aesthetic and fabric\u2014a consideration affecting much of central Scarborough's cliff-top villa stock. Modern access-control upgrades to holiday lets often demand multi-point or euro-cylinder replacements that must comply with letting standards, whereas standard domestic lock changes in suburban stock typically involve straightforward like-for-like substitution of worn mechanisms.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just bought a Victorian villa on the seafront\u2014do I need specialist lock changes?",
+   "a": "Yes. Scarborough's historic seafront properties often have original period locks that need careful handling during replacement. We source period-appropriate locks that match your villa's character while upgrading security."
+  },
+  {
+   "q": "We're converting our Sandybed property into a holiday let\u2014how often should we change locks?",
+   "a": "Given high guest turnover in short-term rentals, we recommend re-keying between tenancies or installing a modern access-control system. This protects your property and gives you control over who holds keys."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Scarborough \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Scarborough: multipoint, mortice & night latch fixes. Fast response for Victorian villas, terraces & modern homes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Our Scarborough locksmith specialises in lock repairs using expert locksmithing techniques to restore your security. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and fix the problem efficiently. We perform multipoint servicing and mortice maintenance to manufacturer warranty standards, ensuring your locks function reliably.",
+ "lock-repairs.local-context-body": "Scarborough's mixed housing stock creates diverse lock repair demands. Semi-detached and terraced properties in Newlands and Sandybed, built in the post-war and interwar periods, commonly feature mortice locks and night latches now requiring professional repair after decades of use. Victorian villas and period properties in the cliff conservation areas present different challenges, often retaining original locks that demand specialist knowledge to restore without compromising listed-building status.\n\nLock repair work in Scarborough must account for the high proportion of holiday-let properties concentrated in South Cliff and St Nicholas Cliff. These frequently converted properties undergo intensive use cycles, placing accelerated wear on multipoint and gearbox mechanisms. Coastal weather exposure also affects lock longevity, particularly salt-air corrosion on exposed door hardware, making timely repair assessment essential before complete replacement becomes necessary.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian locks in Scarborough's Old Town need specialist repair rather than replacement?",
+   "a": "Period locks in listed buildings and conservation areas are protected; our locksmiths specialise in repairing original mortice and night latch mechanisms to maintain authenticity and comply with planning requirements. We can restore gearbox and multipoint faults without triggering listed-building consent delays."
+  },
+  {
+   "q": "How often do rental properties in South Cliff need multipoint lock repairs?",
+   "a": "High holiday-let turnover means rental locks face heavy use; we repair worn gearbox and multipoint systems quickly to minimise tenant changeover downtime and ensure security compliance between guest bookings."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Scarborough \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Scarborough, including Victorian villas and period properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Scarborough from our expert locksmith team combines traditional locksmithing with modern security standards. Whether you're fitting new locks after moving house, upgrading security following a break-in, or meeting insurance requirements, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively.",
+ "door-lock-installation.local-context-body": "Scarborough's housing stock spans Victorian seafront properties in South Cliff through to post-war suburban terraces in outlying areas, each presenting distinct installation requirements. Period villas and converted flats in these mixed neighborhoods often retain original door frames and hardware, while modern multipoint locks and TS007 anti-snap cylinders address security needs across both heritage and contemporary properties. Door lock installation therefore demands familiarity with varied frame materials, from period timber casements to standard modern construction.\n\nListed building status affects many properties, particularly in central conservation areas and cliff-top locations, where replacement locks must meet aesthetic and structural guidelines. High holiday-let activity across South Cliff and similar seafront zones creates additional demand for rapid, reliable installation of upgraded security systems to meet short-term rental standards. Local installers routinely encounter both period mortice locks requiring specialist removal and contemporary euro cylinders needing swift replacement or upgrade to anti-snap variants.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "We've got a Victorian villa on the cliff\u2014do you install locks that match period properties?",
+   "a": "Yes, we fit both period-appropriate replacement locks for listed properties in Scarborough's seafront conservation areas and modern high-security alternatives like TS007 anti-snap cylinders if you prefer upgraded protection. We'll advise on what suits your property's age and any planning restrictions."
+  },
+  {
+   "q": "Our holiday let in South Cliff needs new locks after multiple turnovers\u2014what's the fastest option?",
+   "a": "We install BS3621 mortice locks and multipoint systems quickly for short-term rental properties, and can re-key or upgrade cylinders the same day to secure your changeover. Modern cylinders also reduce damage from frequent guest use."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Scarborough \u2013 Fast Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Scarborough, including St Nicholas Cliff period properties and modern homes. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Scarborough locksmith specialises in door lock replacement services, combining expert locksmithing with modern security solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, reliable service across Scarborough.",
+ "door-lock-replacement.local-context-body": "Holiday-let properties in St Nicholas Cliff and the wider seafront area drive frequent door lock replacement as short-term rental turnover demands fresh access security. Semi-detached homes across Barrowcliff, built during interwar expansion, now show standard mortice and cylinder locks at the end of their serviceable life, making straightforward replacement the norm for family households seeking reliable everyday function.\n\nScarborough's significant stock of listed buildings in central and cliff-top conservation areas requires replacement locks to match period standards; original Victorian hardware often cannot be simply swapped for modern equivalents without listed-building consent. Post-war suburban properties typically accept contemporary lock types without restriction, whereas period villas and terraces in older areas may need reproduction or sympathetic specification to preserve character and legal compliance.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "We have a Victorian villa in South Cliff with the original lock\u2014can you replace it with something modern?",
+   "a": "Yes, we can upgrade to a modern lock while respecting the period character of your property. Many South Cliff homeowners choose this route for security; we'll ensure the new lock fits the existing door preparation and discuss heritage-appropriate options if needed."
+  },
+  {
+   "q": "Our holiday let in St Nicholas Cliff gets frequent tenant turnover\u2014how often should we replace the locks?",
+   "a": "For short-term rental properties, we typically recommend re-keying or replacing locks every 6\u201312 months, or after each long-term guest. This protects your investment and gives you peace of mind; we can set up a maintenance schedule tailored to your letting calendar."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Scarborough \u2013 Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Scarborough, including misaligned uPVC, composite and timber doors. Fast fixes for Barrowcliff homes and across town.",
+ "door-repairs.hero-paragraph": "Our Scarborough locksmith team specialises in door repairs drawing on decades of locksmithing expertise. Whether your uPVC or composite door has dropped, won't close properly, or allows draughts through, we diagnose and fix the issue. Common solutions include hinge adjustment, frame alignment, and multipoint lock realignment, restoring your door's function and security.",
+ "door-repairs.local-context-body": "Scarborough's post-war suburban expansion in areas like Newlands and Edgehill introduced standardised domestic door frames and hardware that are now experiencing wear and misalignment after decades of use. Semi-detached properties in these neighborhoods commonly develop dropped doors and loose hinges, particularly where settlement has shifted frame geometry. Victorian seafront properties and listed villas in the Old Town present contrasting challenges, where original period doors and bespoke joinery require sympathetic repair approaches rather than straightforward replacement.\n\nDoor repair work in Scarborough must account for listed-building constraints affecting properties in central and cliff conservation areas, where alterations to historic doors and frames require planning consideration. High holiday-let turnover in properties across South Cliff and the wider city also drives demand for rapid hardware repair and adjustment to accommodate frequent tenant changes and intensive use patterns typical of short-term rental cycles.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian villas in Scarborough's Old Town need specialist door repair?",
+   "a": "Period properties feature original frames and hanging systems that differ from modern standards; our locksmiths understand traditional joinery and can realign doors without forcing modern adjustments that damage listed features."
+  },
+  {
+   "q": "How often do holiday let doors in South Cliff need repair due to turnover?",
+   "a": "High guest rotation causes accelerated wear on hinges and frames; we repair dropped doors and misaligned hardware on short notice, keeping rental properties compliant and secure between tenancies."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Scarborough \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Scarborough. Expert fixes for espagnolette and shootbolt locks on period properties, Victorian villas and modern homes.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Scarborough locksmith specialises in window lock repair and replacement as a core locksmithing service. Whether you're dealing with windows that won't lock or broken handles, our technicians restore espagnolette mechanisms and shootbolt locks to full working order. All installations meet insurance-compliant fitting standards, ensuring your home security is properly restored.",
+ "window-lock-repair-replacement.local-context-body": "Window lock repairs address a core maintenance need across Falsgrave's mixed residential stock, where interwar terraces and post-war semis sit alongside modern flats. Espagnolette and shootbolt locks on these properties wear through decades of use, particularly in holiday lets where turnover accelerates wear. Replacement becomes essential both for security and smooth operation in properties where sash windows or casements form the primary ventilation and light control.\n\nListed buildings in Scarborough's central conservation areas present a distinct consideration: period window frames and original hardware often require sympathetic replacement that respects architectural character. In contrast, post-war suburban properties in Newlands typically house standard modern locks that can be swapped straightforwardly. Property condition surveys and insurance requirements also drive demand, as failed or unreliable window locks affect both underwriting and tenant safety standards in rental properties across the town.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "My Victorian villa window locks in South Cliff are sticking \u2013 can you repair or replace espagnolette locks?",
+   "a": "Yes \u2013 we repair and replace espagnolette locks on period sash and casement windows common in South Cliff's listed villas. If the mechanism is worn or corroded (common in seafront properties), we can fit period-appropriate replacements that match your original hardware."
+  },
+  {
+   "q": "Our holiday let in The Old Town has multiple shootbolt failures \u2013 what's the quickest fix?",
+   "a": "We can often repair shootbolt locks on the day with new springs or catches, keeping your turnover tight. If replacement is needed, we stock both traditional and modern variants to suit listed conservation properties."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Scarborough \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation in Scarborough. Secure anchoring, insurance documentation, anti-leverage positioning for period properties, villas and modern homes.",
+ "safe-installation.hero-paragraph": "Our Scarborough locksmith team specialises in safe installation and locksmithing expertise tailored to your security needs. Whether you require floor anchoring for a new safe or wall mounting to meet insurance approval requirements, we ensure proper positioning to prevent anti-leverage attacks. All installations comply with Eurograde and AiS approved standards, guaranteeing your valuables maximum protection.",
+ "safe-installation.local-context-body": "Victorian villas and period properties along Scarborough's seafront and conservation areas often contain valuable items requiring secure storage. Safe installation in these listed buildings demands careful planning: fixing points must respect original structures, and insurers typically require proper anchoring documentation. Semi-detached homes in Sandybed and similar interwar suburbs similarly benefit from fitted safes, where wall construction allows secure floor or wall mounting without compromising the property's integrity.\n\nListed-building consent may be required for safe installation in central conservation zones, particularly where wall or floor fixings affect original plasterwork or period features. Many holiday-let properties across South Cliff demand quick-turnaround safe provision to meet insurance requirements for guest valuables, necessitating advance structural surveys to confirm suitable installation locations in converted flats and multi-use properties.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian villas and period properties on Scarborough's seafront?",
+   "a": "Yes. We're experienced fitting safes in listed buildings and historic properties in the South Cliff and Old Town conservation areas, ensuring installation methods respect period features and meet insurance requirements without compromising original fabric."
+  },
+  {
+   "q": "Can you anchor a safe in a semi-detached home in Newlands or Osgodby?",
+   "a": "Absolutely. Our engineers regularly install and properly anchor safes in post-war suburban properties across Newlands and Osgodby, whether into timber joists, cavity walls, or concrete; we provide full installation documentation for your insurer."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Scarborough \u2013 Fast, Trusted Local Service",
+ "safe-opening.meta.description": "Safe opening in Scarborough: non-destructive access for lost keys, combinations. South Cliff villas to modern homes. Expert, damage-minimising service.",
+ "safe-opening.hero-paragraph": "Our Scarborough locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to regain access without damage. Our technicians use combination dial manipulation and other precision approaches to restore your safe's functionality quickly and professionally.",
+ "safe-opening.local-context-body": "Safe deposits and home safes are common in Scarborough's Victorian villas and period properties, where valuable documents, heirlooms and cash storage remain standard practice. Interwar and post-war residential areas including Sandybed feature a mix of older domestic safes installed decades ago, often inherited with properties or fitted during previous ownership. Lost combinations and misplaced keys are frequent scenarios, particularly in holiday-let conversions where access records have been lost through multiple tenant changeovers.\n\nListed-building status in many central and cliff-area properties constrains access methods; non-destructive opening becomes essential where drill-based alternatives would breach conservation requirements or require council consent. Safes installed in period properties often predate modern manipulation techniques, requiring locksmiths to apply historical knowledge of dial mechanics and vintage locking systems alongside contemporary non-invasive tools.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian villa on the seafront and can't find the safe combination \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties across Scarborough's seafront conservation areas. We'll assess the lock type and use appropriate techniques to access your safe while preserving both the mechanism and your home's character."
+  },
+  {
+   "q": "We're a holiday let in South Cliff and need to access a guest safe quickly \u2013 how fast can you respond?",
+   "a": "We offer same-day safe opening for Scarborough's busy short-term rental sector, including South Cliff properties. Call 01723 651024 to arrange urgent non-destructive access without disrupting your guests' experience."
+  }
+ ],
+ "home.areas-covered": [
+  "Barrowcliff",
+  "Edgehill",
+  "Falsgrave",
+  "Sandybed",
+  "Scalby Mills",
+  "South Cliff",
+  "The Old Town"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "The Old Town",
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "locked-out.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Sandybed",
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Edgehill",
+  "South Cliff",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "lock-changes.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "lock-repairs.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Barrowcliff",
+  "South Cliff",
+  "Edgehill",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Falsgrave",
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Sandybed"
+ ],
+ "door-repairs.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Scalby Mills",
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "safe-installation.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ],
+ "safe-opening.areas-covered": [
+  "South Cliff",
+  "Edgehill",
+  "Barrowcliff",
+  "Scalby Mills",
+  "The Old Town",
+  "Falsgrave",
+  "Sandybed"
+ ]
 }

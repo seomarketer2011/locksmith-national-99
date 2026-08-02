@@ -1,73 +1,72 @@
 {
-  "location": "Bradley Stoke",
-  "neighborhoods": [
-    {
-      "name": "Little Stoke",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "expanding residential area with newer housing stock"
-    },
-    {
-      "name": "Woodlands",
-      "era": "modern",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "woodland-setting properties, mixed new and established homes"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "detached",
-      "new-build"
-    ],
-    "era": "predominantly post-1990s expansion",
-    "notable": "Bradley Stoke is a planned new town (1990s onwards) with modern suburban growth; high proportion of family homes with uPVC and composite doors."
+ "location": "Bradley Stoke",
+ "neighborhoods": [
+  {
+   "name": "Little Stoke",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "expanding residential area with newer housing stock"
   },
-  "locksmith_relevant": [
-    "New-build homes dominate, requiring familiarity with modern multi-point locking systems and smart lock retrofits.",
-    "Rapid residential expansion means high demand for emergency lockouts and property access in unfamiliar housing estates.",
-    "Detached and semi-detached properties often feature upvc doors; composite door lock repair is a common local call-out."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bradley%20Stoke",
-    "overpass": "OSM Overpass bbox query, 2 named areas",
-    "coords": {
-      "lat": 51.5361041,
-      "lon": -2.5498413
-    }
-  },
-  "generated_at": "2026-05-13T18:11:05.643Z",
-  "all_areas": [
-    "Little Stoke",
-    "Woodlands"
-  ],
-  "geo": {
-    "latitude": 51.5361041,
-    "longitude": -2.5498413
-  },
-  "postcode_districts": [
-    "BS32",
-    "BS34"
-  ],
-  "postcode_meta": {
-    "BS34": {
-      "count": 1,
-      "sample": "BS34 6JJ",
-      "admin": "South Gloucestershire",
-      "via": "constituency=filton and bradley stoke"
-    },
-    "BS32": {
-      "count": 1,
-      "sample": "BS32 4NQ",
-      "admin": "South Gloucestershire",
-      "via": "admin_ward=bradley stoke north"
-    }
+  {
+   "name": "Woodlands",
+   "era": "modern",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "woodland-setting properties, mixed new and established homes"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "detached",
+   "new-build"
+  ],
+  "era": "predominantly post-1990s expansion",
+  "notable": "Bradley Stoke is a planned new town (1990s onwards) with modern suburban growth; high proportion of family homes with uPVC and composite doors."
+ },
+ "locksmith_relevant": [
+  "New-build homes dominate, requiring familiarity with modern multi-point locking systems and smart lock retrofits.",
+  "Rapid residential expansion means high demand for emergency lockouts and property access in unfamiliar housing estates.",
+  "Detached and semi-detached properties often feature upvc doors; composite door lock repair is a common local call-out."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Bradley%20Stoke",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Bradley Stoke admin area), 1 named areas",
+  "coords": {
+   "lat": 51.5361041,
+   "lon": -2.5498413
+  }
+ },
+ "generated_at": "2026-05-13T18:11:05.643Z",
+ "all_areas": [
+  "Woodlands"
+ ],
+ "geo": {
+  "latitude": 51.5361041,
+  "longitude": -2.5498413
+ },
+ "postcode_districts": [
+  "BS32",
+  "BS34"
+ ],
+ "postcode_meta": {
+  "BS34": {
+   "count": 1,
+   "sample": "BS34 6JJ",
+   "admin": "South Gloucestershire",
+   "via": "constituency=filton and bradley stoke"
+  },
+  "BS32": {
+   "count": 1,
+   "sample": "BS32 4NQ",
+   "admin": "South Gloucestershire",
+   "via": "admin_ward=bradley stoke north"
+  }
+ }
 }

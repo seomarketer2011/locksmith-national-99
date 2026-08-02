@@ -1,65 +1,64 @@
 {
-  "location": "Stowmarket",
-  "neighborhoods": [
-    {
-      "name": "Combs Ford",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "riverside location, older properties with period locks"
-    },
-    {
-      "name": "Stowupland",
-      "era": "post-war and modern",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area, mix of standard and upgraded security"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian and post-war with modern infill",
-    "notable": "Market town character with significant 20th-century suburban growth; many period properties alongside newer residential estates"
+ "location": "Stowmarket",
+ "neighborhoods": [
+  {
+   "name": "Combs Ford",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "riverside location, older properties with period locks"
   },
-  "locksmith_relevant": [
-    "Combs Ford's riverside Victorian and Edwardian terraces often retain original sash windows and period locks requiring specialist knowledge.",
-    "Stowupland's post-war semis and modern builds typically feature standard cylinder locks but increasing demand for upgraded security systems.",
-    "Market town location means high proportion of older commercial properties in town centre with heritage lock systems needing careful handling."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Stowmarket",
-    "overpass": "OSM Overpass bbox query, 2 named areas",
-    "coords": {
-      "lat": 52.1878147,
-      "lon": 0.9973428
-    }
-  },
-  "generated_at": "2026-05-13T18:11:24.827Z",
-  "all_areas": [
-    "Combs Ford",
-    "Stowupland"
-  ],
-  "geo": {
-    "latitude": 52.1878147,
-    "longitude": 0.9973428
-  },
-  "postcode_districts": [
-    "IP14"
-  ],
-  "postcode_meta": {
-    "IP14": {
-      "count": 1,
-      "sample": "IP14 2QT",
-      "admin": "Mid Suffolk",
-      "via": "parish=stowmarket"
-    }
+  {
+   "name": "Stowupland",
+   "era": "post-war and modern",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area, mix of standard and upgraded security"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed Victorian and post-war with modern infill",
+  "notable": "Market town character with significant 20th-century suburban growth; many period properties alongside newer residential estates"
+ },
+ "locksmith_relevant": [
+  "Combs Ford's riverside Victorian and Edwardian terraces often retain original sash windows and period locks requiring specialist knowledge.",
+  "Stowupland's post-war semis and modern builds typically feature standard cylinder locks but increasing demand for upgraded security systems.",
+  "Market town location means high proportion of older commercial properties in town centre with heritage lock systems needing careful handling."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Stowmarket",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Stowmarket admin area), 1 named areas",
+  "coords": {
+   "lat": 52.1878147,
+   "lon": 0.9973428
+  }
+ },
+ "generated_at": "2026-05-13T18:11:24.827Z",
+ "all_areas": [
+  "Combs Ford"
+ ],
+ "geo": {
+  "latitude": 52.1878147,
+  "longitude": 0.9973428
+ },
+ "postcode_districts": [
+  "IP14"
+ ],
+ "postcode_meta": {
+  "IP14": {
+   "count": 1,
+   "sample": "IP14 2QT",
+   "admin": "Mid Suffolk",
+   "via": "parish=stowmarket"
+  }
+ }
 }

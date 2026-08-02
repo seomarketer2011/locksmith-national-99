@@ -1,308 +1,265 @@
 {
-  "location": "Oxford",
-  "neighborhoods": [
-    {
-      "name": "City Centre",
-      "era": "medieval to Georgian",
-      "types": [
-        "listed",
-        "mixed-use",
-        "college properties"
-      ],
-      "notes": "high concentration of Grade I/II listed, restricted access"
-    },
-    {
-      "name": "North Oxford",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "detached"
-      ],
-      "notes": "conservation area, large period properties"
-    },
-    {
-      "name": "Jericho",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "worker housing"
-      ],
-      "notes": "popular student/young professional rental area"
-    },
-    {
-      "name": "Holywell",
-      "era": "Victorian to Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "near university, dense HMO letting"
-    },
-    {
-      "name": "Headington",
-      "era": "mixed Victorian and modern",
-      "types": [
-        "semi-detached",
-        "detached",
-        "new-build"
-      ],
-      "notes": "diverse socio-economic mix, expanding area"
-    },
-    {
-      "name": "Cowley",
-      "era": "interwar to post-war",
-      "types": [
-        "semi-detached",
-        "terraced",
-        "post-war estate"
-      ],
-      "notes": "former industrial heartland, rental-heavy"
-    },
-    {
-      "name": "Littlemore",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached",
-        "council estate"
-      ],
-      "notes": "mixed ownership, varied security requirements"
-    },
-    {
-      "name": "Iffley",
-      "era": "Victorian to Edwardian",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "conservation area with riverside properties"
-    },
-    {
-      "name": "East Oxford",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "worker cottage"
-      ],
-      "notes": "densely rented to students and young professionals"
-    },
-    {
-      "name": "Blackbird Leys",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "high-density housing, high-security concerns common"
-    },
-    {
-      "name": "Botley",
-      "era": "Victorian to interwar",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mixed community, student and family areas"
-    },
-    {
-      "name": "Marston",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "estate homes"
-      ],
-      "notes": "family-oriented residential area"
-    },
-    {
-      "name": "Donnington",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "planned suburb character"
-    },
-    {
-      "name": "Park Town",
-      "era": "Victorian",
-      "types": [
-        "detached",
-        "villa"
-      ],
-      "notes": "conservation area, high-value properties"
-    },
-    {
-      "name": "Kennington",
-      "era": "post-war to modern",
-      "types": [
-        "semi-detached",
-        "detached",
-        "new-build"
-      ],
-      "notes": "expanding southern suburb"
-    },
-    {
-      "name": "New Hinksey",
-      "era": "Victorian to Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "popular rental area south of centre"
-    },
-    {
-      "name": "Sandford-on-Thames",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "village property"
-      ],
-      "notes": "rural southern fringe, limited locksmith footfall"
-    },
-    {
-      "name": "Barton",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "major residential estate, diverse demographics"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian/Edwardian terrace",
-      "interwar semi-detached",
-      "post-war estate homes",
-      "listed/conservation properties"
-    ],
-    "era": "mixed Victorian and post-war, with significant listed stock",
-    "notable": "High student rental density in central/east Oxford drives emergency lock calls. Conservation areas and listed buildings require specialist knowledge and delicate handling."
+ "location": "Oxford",
+ "neighborhoods": [
+  {
+   "name": "City Centre",
+   "era": "medieval to Georgian",
+   "types": [
+    "listed",
+    "mixed-use",
+    "college properties"
+   ],
+   "notes": "high concentration of Grade I/II listed, restricted access"
   },
-  "locksmith_relevant": [
-    "Oxford's 78 defined neighborhoods span medieval listed buildings to modern estates, requiring diverse lock expertise and heritage-aware restoration skills.",
-    "Student areas (Jericho, Holywell, East Oxford) generate frequent urgent lockouts; HMO properties demand high-security multi-point systems and rapid response capacity.",
-    "Conservation areas (North Oxford, Park Town, Iffley) restrict lock/door modifications; specialist listed-building accreditation essential for customer confidence and compliance."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Oxford",
-    "overpass": "OSM Overpass bbox query, 78 named areas",
-    "coords": {
-      "lat": 51.7520131,
-      "lon": -1.2578499
-    }
+  {
+   "name": "North Oxford",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "detached"
+   ],
+   "notes": "conservation area, large period properties"
   },
-  "generated_at": "2026-05-13T12:26:01.782Z",
-  "all_areas": [
-    "Bartlemas",
-    "Barton",
-    "Barton Park",
-    "Binsey",
-    "Blackbird Leys",
-    "Botley",
-    "Church Cowley",
-    "City Centre",
-    "Cold Harbour",
-    "Cowley",
-    "Cowley Airfield",
-    "Cowley Marsh",
-    "Cutteslowe",
-    "Donnington",
-    "East Oxford",
-    "Elsfield",
-    "Florence Park",
-    "Foxcombe Hill",
-    "Gipsy Lane Estate",
-    "Grandpont",
-    "Greater Leys",
-    "Harcourt Hill",
-    "Headington",
-    "Headington Hill",
-    "Headington Quarry",
-    "Headington Shops",
-    "Highfield",
-    "Hinksey Hill",
-    "Holywell",
-    "Iffley",
-    "Iffley Fields",
-    "Jericho",
-    "Kennington",
-    "Littlemore",
-    "Littlemore Park",
-    "Lower Wolvercote",
-    "Lye Valley",
-    "Marston",
-    "Minchery Farm",
-    "New Botley",
-    "New Headington",
-    "New Hinksey",
-    "New Marston",
-    "Norham Manor",
-    "North Hinksey",
-    "North Oxford",
-    "Northway",
-    "Old Boars Hill",
-    "Old Headington",
-    "Old Rose Hill",
-    "Osney",
-    "Oxpens",
-    "Park Town",
-    "Redbridge",
-    "Risinghurst",
-    "Robin Hood",
-    "Rose Hill",
-    "Sandford-on-Thames",
-    "Sandhills",
-    "Slade Park",
-    "South Hinksey",
-    "South Oxford",
-    "St Clement's",
-    "St Ebbes",
-    "St Ebbes by the River",
-    "St Thomas'",
-    "Summertown",
-    "Sunnymead",
-    "Temple Cowley",
-    "The Lakes",
-    "Town Furze",
-    "Upper Wolvercote",
-    "Wadham Park",
-    "Walton Manor",
-    "Waterways",
-    "West Oxford",
-    "Wolvercote",
-    "Wood Farm"
-  ],
-  "geo": {
-    "latitude": 51.7520131,
-    "longitude": -1.2578499
+  {
+   "name": "Jericho",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "worker housing"
+   ],
+   "notes": "popular student/young professional rental area"
   },
-  "postcode_districts": [
-    "OX1",
-    "OX2",
-    "OX3",
-    "OX4"
-  ],
-  "postcode_meta": {
-    "OX4": {
-      "count": 19,
-      "sample": "OX4 4GW",
-      "admin": "Oxford"
-    },
-    "OX3": {
-      "count": 21,
-      "sample": "OX3 8RA",
-      "admin": "Oxford"
-    },
-    "OX1": {
-      "count": 9,
-      "sample": "OX1 4TB",
-      "admin": "Oxford"
-    },
-    "OX2": {
-      "count": 14,
-      "sample": "OX2 7DE",
-      "admin": "Oxford"
-    }
+  {
+   "name": "Holywell",
+   "era": "Victorian to Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "near university, dense HMO letting"
+  },
+  {
+   "name": "Headington",
+   "era": "mixed Victorian and modern",
+   "types": [
+    "semi-detached",
+    "detached",
+    "new-build"
+   ],
+   "notes": "diverse socio-economic mix, expanding area"
+  },
+  {
+   "name": "Cowley",
+   "era": "interwar to post-war",
+   "types": [
+    "semi-detached",
+    "terraced",
+    "post-war estate"
+   ],
+   "notes": "former industrial heartland, rental-heavy"
+  },
+  {
+   "name": "Littlemore",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached",
+    "council estate"
+   ],
+   "notes": "mixed ownership, varied security requirements"
+  },
+  {
+   "name": "Iffley",
+   "era": "Victorian to Edwardian",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "conservation area with riverside properties"
+  },
+  {
+   "name": "East Oxford",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "worker cottage"
+   ],
+   "notes": "densely rented to students and young professionals"
+  },
+  {
+   "name": "Blackbird Leys",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "high-density housing, high-security concerns common"
+  },
+  {
+   "name": "Botley",
+   "era": "Victorian to interwar",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mixed community, student and family areas"
+  },
+  {
+   "name": "Marston",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "estate homes"
+   ],
+   "notes": "family-oriented residential area"
+  },
+  {
+   "name": "Donnington",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "planned suburb character"
+  },
+  {
+   "name": "Park Town",
+   "era": "Victorian",
+   "types": [
+    "detached",
+    "villa"
+   ],
+   "notes": "conservation area, high-value properties"
+  },
+  {
+   "name": "Kennington",
+   "era": "post-war to modern",
+   "types": [
+    "semi-detached",
+    "detached",
+    "new-build"
+   ],
+   "notes": "expanding southern suburb"
+  },
+  {
+   "name": "New Hinksey",
+   "era": "Victorian to Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "popular rental area south of centre"
+  },
+  {
+   "name": "Sandford-on-Thames",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "village property"
+   ],
+   "notes": "rural southern fringe, limited locksmith footfall"
+  },
+  {
+   "name": "Barton",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "major residential estate, diverse demographics"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian/Edwardian terrace",
+   "interwar semi-detached",
+   "post-war estate homes",
+   "listed/conservation properties"
+  ],
+  "era": "mixed Victorian and post-war, with significant listed stock",
+  "notable": "High student rental density in central/east Oxford drives emergency lock calls. Conservation areas and listed buildings require specialist knowledge and delicate handling."
+ },
+ "locksmith_relevant": [
+  "Oxford's 78 defined neighborhoods span medieval listed buildings to modern estates, requiring diverse lock expertise and heritage-aware restoration skills.",
+  "Student areas (Jericho, Holywell, East Oxford) generate frequent urgent lockouts; HMO properties demand high-security multi-point systems and rapid response capacity.",
+  "Conservation areas (North Oxford, Park Town, Iffley) restrict lock/door modifications; specialist listed-building accreditation essential for customer confidence and compliance."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Oxford",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Oxford admin area), 35 named areas",
+  "coords": {
+   "lat": 51.7520131,
+   "lon": -1.2578499
+  }
+ },
+ "generated_at": "2026-05-13T12:26:01.782Z",
+ "all_areas": [
+  "Barton",
+  "Barton Park",
+  "Binsey",
+  "Blackbird Leys",
+  "City Centre",
+  "Cowley",
+  "Cutteslowe",
+  "East Oxford",
+  "Grandpont",
+  "Greater Leys",
+  "Headington",
+  "Holywell",
+  "Iffley",
+  "Jericho",
+  "Littlemore",
+  "Lye Valley",
+  "Marston",
+  "Minchery Farm",
+  "New Hinksey",
+  "New Marston",
+  "Norham Manor",
+  "North Oxford",
+  "Northway",
+  "Osney",
+  "Risinghurst",
+  "Rose Hill",
+  "Sandhills",
+  "South Oxford",
+  "St Ebbes",
+  "Summertown",
+  "Sunnymead",
+  "Walton Manor",
+  "West Oxford",
+  "Wolvercote",
+  "Wood Farm"
+ ],
+ "geo": {
+  "latitude": 51.7520131,
+  "longitude": -1.2578499
+ },
+ "postcode_districts": [
+  "OX1",
+  "OX2",
+  "OX3",
+  "OX4"
+ ],
+ "postcode_meta": {
+  "OX4": {
+   "count": 19,
+   "sample": "OX4 4GW",
+   "admin": "Oxford"
+  },
+  "OX3": {
+   "count": 21,
+   "sample": "OX3 8RA",
+   "admin": "Oxford"
+  },
+  "OX1": {
+   "count": 9,
+   "sample": "OX1 4TB",
+   "admin": "Oxford"
+  },
+  "OX2": {
+   "count": 14,
+   "sample": "OX2 7DE",
+   "admin": "Oxford"
+  }
+ }
 }

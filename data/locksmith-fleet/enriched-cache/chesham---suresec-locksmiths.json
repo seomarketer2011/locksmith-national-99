@@ -1,241 +1,354 @@
 {
-  "meta.title": "Chesham Locksmith | 24/7 Emergency Lockout Service",
-  "meta.description": "Suresec Locksmiths Chesham: emergency locksmith services, lock repairs, and heritage-compliant work for Victorian terraces and period properties.",
-  "home.hero-paragraph": "Chesham locksmith services specialising in locksmithing and emergency lock help are available around the clock. We handle lockouts, lock changes, and security upgrades with non-destructive entry techniques. Our DBS-checked technicians are fully insured and operate 24/7, arriving promptly to resolve your lock issues without call-out fees.",
-  "home.local-context-heading": "Chesham's Heritage Locks and Period Properties",
-  "home.local-context-body": "Chesham's mix of Victorian terraces, period cottages and interwar properties means sash-window locks and traditional bolts feature heavily in local locksmith demand. Properties in Old Town and across the conservation areas often retain original hardware that requires specialist knowledge to service and repair without compromising heritage value. Period locks on these listed buildings need careful handling to maintain compliance with conservation requirements.\n\nEmergency callouts are common in this commuter-belt location, particularly from London workers returning to older residential stock requiring immediate access. Landlords managing multiple properties should consider planned maintenance schedules for period door furniture rather than reactive repairs. Heritage-listed properties especially benefit from locksmiths experienced in conservation-compliant work, as inappropriate replacements can affect property value and breach listing restrictions.",
-  "home.local-faqs": [
-    {
-      "q": "Do you have experience with period locks in Chesham's Old Town listed properties?",
-      "a": "Yes, we specialise in heritage-compliant lock repairs and servicing for listed buildings in the Old Town conservation area. Our team understands Victorian and period hardware, ensuring repairs meet conservation requirements without compromising the character of historic timber-frame properties."
-    },
-    {
-      "q": "I have sash windows in my Victorian terrace—can you service the locks?",
-      "a": "Absolutely. Sash-window locks are common across Chesham's Victorian terraced stock, and we regularly maintain and repair traditional sash fasteners and period bolts to keep them working smoothly and securely."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Chesham – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Chesham. Locked out or key snapped? Fast response for Victorian terraces, Old Town listed properties & urgent lock repairs.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Chesham specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, dealing with a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7. We use non-destructive entry methods wherever possible, minimising damage to your property.",
-  "emergency-locksmith.local-context-body": "Chesham's stock of Victorian terraces and period cottages creates regular demand for emergency locksmith intervention, particularly in the Old Town conservation area where listed properties feature original sash windows and traditional hardware. Commuter-belt residents returning from London frequently require urgent access restoration or post-break-in security work on older residential properties where standard modern locks may not be fitted.\n\nPeriod locks and heritage-compliant repairs present a practical constraint for emergency work in conservation areas. Many listed buildings in Old Town require specialist knowledge to avoid damage during forced entry or lock replacement, and any permanent modifications must respect heritage guidelines. This adds both technical complexity and time consideration to standard emergency callouts in the town's protected zones.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Old Town – how quickly can you arrive?",
-      "a": "We typically respond to emergency lockouts in Chesham within 30–45 minutes, 24/7. Our engineers carry specialist tools for period locks and traditional bolts common in Old Town's listed properties, so we can often open without damage."
-    },
-    {
-      "q": "My sash window lock is jammed and I can't secure the window – is this an emergency?",
-      "a": "Yes, especially in a heritage property where security is compromised. Call us immediately on 01494 641128; our locksmiths understand period hardware found throughout Chesham's Victorian stock and can repair or replace sash locks without affecting listed-building status."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Chesham | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Chesham? Suresec provides fast, non-destructive entry for lost or snapped keys. Same-day service for Victorian terraces and period properties. 24/7 emergency locksmith.",
-  "locked-out.hero-paragraph": "When you're locked out in Chesham, our experienced locksmiths specialise in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free methods ensure your property remains secure and intact.",
-  "locked-out.local-context-body": "Chesham's terraced housing and period cottages frequently present locked-out situations where traditional sash-window locks and older door mechanisms are involved. In the Old Town conservation area, many properties retain original hardware that requires careful, non-destructive entry techniques to avoid damage to listed features and period frames.\n\nListed buildings in Chesham's heritage stock impose additional constraints on locked-out callouts: forced entry or replacement locks may breach conservation requirements, making specialist knowledge of period mechanisms essential. Victorian terraces commonly feature mortice locks and traditional bolts that demand precision handling rather than destructive methods, particularly where original joinery or glazing would be at risk.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Old Town—will you damage my original sash window locks?",
-      "a": "No. We specialise in non-destructive entry and understand the heritage value of period locks common in Chesham's listed properties. We'll gain access without harming your original hardware, then advise on any repairs needed."
-    },
-    {
-      "q": "My key snapped in the lock of my period cottage—how quickly can you get me back in?",
-      "a": "We offer emergency callouts across Chesham, including nights and weekends. Call 01494 641128 and we'll typically attend within the hour to extract the broken key and regain entry without damage to your traditional lock mechanism."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Chesham – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Chesham's Victorian terraces & Old Town. Snapped keys extracted from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Chesham requires a skilled locksmith trained in precision locksmithing techniques. When keys snap or shear inside locks—whether mortice locks or euro cylinders—our technicians employ specialised key extractor tools to retrieve fragments non-destructively. This approach protects your lock mechanism whilst restoring full functionality quickly.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Chesham's housing stock, particularly in the Old Town where listed terraced properties and period cottages still rely on original or heritage-sympathetic locking hardware. Keys fracturing inside mortice locks and night latches remains common in older residential properties, often following years of use in mechanisms that have seen minimal maintenance or lubrication.\n\nListed-building status in much of the Old Town creates additional constraints for broken key removal work. Repairs must preserve original door frames and lock casings, ruling out aggressive extraction methods that might damage heritage hardware or historic joinery. Victorian and interwar terraces frequently feature solid timber doors and recessed locks, which can complicate access for extraction tools and lengthen the removal process.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Chesham's Old Town need specialist key removal?",
-      "a": "Victorian terraces often have original mortice locks with tighter tolerances and heritage-grade cylinders that require careful extraction to avoid damaging the lock mechanism or the listed building itself. Our locksmiths are trained in period-appropriate removal techniques to preserve these historic fittings."
-    },
-    {
-      "q": "What should I do if my key snaps in a sash-window night latch in my Chesham period cottage?",
-      "a": "Don't force the sash or attempt DIY removal, as period hardware is easily damaged. Call us immediately—we specialise in extracting broken keys from night latches on traditional sash windows without compromising the original lock or frame, which is essential in conservation areas like Old Town."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Chesham – Same-Day Fix",
-  "burglar-repair-service.meta.description": "Burglar repair service in Chesham, including Old Town. Post-break-in lock changes, door repairs, insurance-compliant reinstatement. Fast 24/7 response.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair in Chesham requires expert locksmiths trained in locksmithing techniques to restore security after break-ins. Our specialists repair damaged doors and forced entry damage, installing BS3621 mortice locks and TS007 anti-snap cylinders to insurance-compliant standards. We reinforce entry points to prevent future intrusions, ensuring your home meets current security benchmarks.",
-  "burglar-repair-service.local-context-body": "Properties in Old Town's conservation area—predominantly Victorian terraces with original timber frames and period joinery—present particular challenges after break-ins. Listed-building status restricts replacement options; repairs must match original materials and hardware specifications. Insurance reinstatement work here requires knowledge of heritage lock mechanisms and period-appropriate door furniture to satisfy both underwriters and conservation officers.\n\nMany of Chesham's older residential properties retain traditional mortice locks and sash-window furniture that burglar damage can render inoperable without specialist attention. Insurance assessors frequently require evidence of like-for-like restoration rather than modern substitutes, especially across the town's substantial Victorian stock. This heritage-compliant approach to post-break-in repair extends timescales and demands familiarity with sourcing period hardware and sympathetic reinstatement techniques.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you repair period locks on listed properties in Chesham's Old Town after a break-in?",
-      "a": "Yes. Many of our callouts involve heritage-compliant lock reinstatement on listed terraces and timber-frame properties in the Old Town conservation area. We source matching period hardware and work within heritage requirements to restore your security without compromising listed status."
-    },
-    {
-      "q": "Can you provide insurance-quality documentation for sash-window lock repairs after a break-in?",
-      "a": "Absolutely. Victorian terraced properties across Chesham commonly need sash-window lock replacement post-incident. We provide full photographic evidence, materials lists, and detailed reports that satisfy insurance assessors for reinstatement claims."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Chesham – 24/7 Fast Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Chesham's Old Town and beyond. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Our Chesham locksmiths deliver emergency boarding up services with expert locksmithing techniques for rapid property protection. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we secure your premises using robust plywood boards and security screws. Our 24/7 service ensures your property remains insurance-compliant and weatherproof until permanent repairs can be arranged.",
-  "emergency-boarding-up.local-context-body": "Chesham's mixed Victorian and interwar housing stock means boarding up calls often involve period sash windows and original timber-frame doors—particularly in the Old Town conservation area, where listed properties require careful handling to preserve heritage features during emergency repair. Terraced properties across the town frequently sustain storm damage or break-in damage to ground-floor windows and side doors, creating urgent demand for rapid secure boarding while permanent repairs are arranged.\n\nListed-building status in parts of Old Town means boarding materials and methods must comply with conservation guidelines; temporary boards cannot obscure or damage original joinery. Many older properties also retain period hardware—traditional bolts and period locks—that may require specialist reinstallation or adjustment once boarding is removed, adding a secondary consideration to the initial emergency response.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up sash windows in listed properties in Chesham's Old Town?",
-      "a": "Yes. We use boarding methods that protect period sash frames and comply with conservation area requirements, so your listed property isn't damaged further during the emergency repair."
-    },
-    {
-      "q": "How quickly can you board up a Victorian terraced house after a break-in?",
-      "a": "We typically respond within the hour for emergency callouts across Chesham. Victorian terraces need careful handling around period door frames and lintels, which we account for during boarding to avoid additional structural damage."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Chesham – Same-Day Service Available",
-  "lock-changes.meta.description": "Lock changes in Chesham for moved homes, lost keys & upgrades. Victorian terraces & listed properties. Fast professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Chesham require skilled locksmithing expertise, and our locksmiths specialise in this essential service. Whether you're moving home, changing tenancy, or upgrading security, we install high-specification locks meeting BS3621 and TS007 standards. Our technicians fit everything from euro cylinders to multipoint mechanisms, ensuring your property protection meets modern security requirements.",
-  "lock-changes.local-context-body": "Lock changes in Chesham frequently involve Victorian terraces, where original mortice locks and period hardware dominate. Properties in Old Town's conservation area present particular considerations, as many retain listed status and historically significant ironmongery that calls for sympathetic replacement or specialist restoration rather than wholesale modernisation.\n\nHeritage-listed properties in the town require conservation-area consent before lock replacement, a process that can extend timelines for security upgrades or key-loss callouts. Locksmiths working across Chesham's mixed stock must be equipped to handle both period mechanisms—common in terraced housing—and modern multipoint systems found in interwar and contemporary additions, ensuring replacements meet both security standards and local heritage requirements.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Chesham—do I need to replace all the original locks?",
-      "a": "Not necessarily. Many Victorian terraces have sound traditional bolts and locks that can be serviced or re-keyed rather than replaced, which preserves character. However, if you've lost keys or want modern security, we can fit new locks that match period hardware styles, especially important in Old Town's conservation area where listed buildings have strict requirements."
-    },
-    {
-      "q": "I'm moving into an Old Town period property with original sash windows—can you help with heritage-compliant lock changes?",
-      "a": "Yes. We specialise in period-appropriate lock replacements for listed properties and conservation areas, ensuring any new locks meet heritage standards while providing up-to-date security. Contact us on 01494 641128 to discuss your specific requirements before work begins."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Chesham | Fast Same-Day Service",
-  "lock-repairs.meta.description": "Lock repair specialists in Chesham. Expert fixes for mortice, multipoint & traditional locks in Victorian terraces & Old Town listed properties. 24/7 callouts.",
-  "lock-repairs.hero-paragraph": "Lock repairs in Chesham by our experienced locksmith combines traditional locksmithing with modern diagnostic techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn smoothly, our technicians specialise in mortice maintenance and multipoint servicing. We guarantee all work with manufacturer warranty, ensuring your locks function reliably for years to come.",
-  "lock-repairs.local-context-body": "Period properties throughout Old Town frequently require mortice and night latch repairs that demand familiarity with Victorian-era hardware. The terraced housing stock in this conservation area often retains original locks and bolts, making specialist repair knowledge essential rather than straightforward replacement.\n\nListed-building status across many of Chesham's heritage properties means lock repairs must comply with conservation guidelines. Repairs to period mechanisms are often preferable to modern substitutions, and locksmiths working on these properties need understanding of both traditional gearbox function and local planning constraints before undertaking work.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Chesham terraces need specialist lock repair?",
-      "a": "Many Victorian terraces in Chesham have original sash-window locks and traditional bolts that wear differently from modern hardware. Our locksmiths understand period mechanisms and can repair gearbox and mortice locks without forcing replacements that damage heritage features."
-    },
-    {
-      "q": "Can you repair period locks on listed properties in Old Town?",
-      "a": "Yes—Old Town's conservation area properties often have heritage-compliant locks requiring specialist knowledge. We repair traditional multipoint and night latch mechanisms on listed buildings while respecting conservation area requirements, avoiding modern replacements where period repairs are possible."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Chesham – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Chesham, including Old Town listed properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Chesham by our experienced locksmith specialists combines traditional locksmithing expertise with modern security standards. Whether you require new fittings, insurance-approved upgrades, or BS3621 mortice locks and TS007 anti-snap cylinders, our technicians deliver reliable solutions tailored to your property's needs.",
-  "door-lock-installation.local-context-body": "Chesham's housing stock of Victorian terraces and period cottages creates regular demand for door lock installation work. Properties in Old Town's conservation area particularly require careful specification, as many retain original timber frames and period joinery where new locks must be fitted with attention to heritage aesthetics and structural integrity. Upgrading to BS3621 mortice locks or TS007 anti-snap cylinders is common across the town's older residential properties.\n\nListed-building status affects a significant proportion of Chesham's door lock installations, especially in the Old Town conservation area where planning consent may be needed before fitting modern multipoint systems. Installers must verify whether properties are listed or fall within conservation boundaries, as this determines whether traditional lock styles must be maintained or sympathetic alternatives specified. Door materials in these older properties—often solid timber rather than hollow composite—influence cylinder choice and installation depth requirements.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install BS3621 mortice locks on Victorian terraced properties in Chesham?",
-      "a": "Yes, we regularly fit BS3621-approved mortice locks to Victorian terraces across Chesham, including the Old Town conservation area. These locks meet modern security standards while maintaining the aesthetic of period properties."
-    },
-    {
-      "q": "Can you install TS007 anti-snap cylinders without damaging original sash window hardware?",
-      "a": "Absolutely. Many properties in Chesham retain original sash windows with period ironwork; we install TS007 cylinders with care to preserve heritage features, ensuring your windows remain both secure and compliant."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Chesham – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Chesham, including Old Town's period properties. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Chesham locksmith team specialises in door lock replacement and locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we deliver swift, professional service. We fit BS3621-approved mechanisms and offer anti-snap upgrades to strengthen your property's security.",
-  "door-lock-replacement.local-context-body": "Terraced properties dominating Chesham's Old Town often require door lock replacement where original Victorian hardware has deteriorated or security upgrades are needed. The mix of period cottages and interwar semis across the town means replacements span traditional rim locks, mortice sets, and modern cylinders, each demanding different installation approaches depending on door construction and age.\n\nListed buildings in the conservation area present a specific consideration: replacing period locks may require approval from the local authority to ensure replacements match heritage standards. Older timber-frame doors are also common, necessitating careful measurement and sometimes custom fitting to avoid damage to the door itself during lock removal and installation.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Chesham with an original sash window lock that's broken. Can you replace it with a modern lock?",
-      "a": "Yes, we can replace sash window locks in Victorian terraces. If your property is in a conservation area like Old Town, we'll advise on heritage-compliant options that maintain the period character while improving security and function."
-    },
-    {
-      "q": "My period cottage has a traditional bolt that's seized. Do you do like-for-like replacements?",
-      "a": "Absolutely. For heritage properties across Chesham, we specialise in like-for-like replacements of period hardware, including traditional bolts on period cottages, ensuring your lock replacement respects the original design."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Chesham – Fast Same-Day Service",
-  "door-repairs.meta.description": "Expert door repairs in Chesham, including period hardware for Victorian terraces and Old Town listed properties. Fast alignment and hardware fixes.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Chesham from our experienced locksmith team specialising in locksmithing solutions. Whether your door is dropping, catching, or won't close properly, we diagnose and fix the issue efficiently. We handle uPVC, composite and timber doors, using techniques like hinge adjustment and multipoint realignment to restore proper function and eliminate draughts.",
-  "door-repairs.local-context-body": "Door misalignment and frame settlement are common issues across Chesham's Victorian terraces, particularly in the Old Town conservation area where older timber-frame construction has shifted over decades. Dropped doors—where the weight of the door pulls the frame out of square—affect many period properties, making realignment and hardware adjustment frequent repair needs in these heritage buildings.\n\nListed properties in Old Town require repairs to maintain period authenticity; replacement hardware must often match original styles and materials rather than modern equivalents. Heritage-compliant door repairs in these conservation areas typically involve careful assessment of existing ironwork and frame condition to preserve the building's character while restoring function.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Chesham often drop or misalign?",
-      "a": "Victorian terraces throughout Chesham commonly experience door drop due to settlement and age-related frame movement. Our technicians are experienced in realigning these period doors without forcing modern adjustments that could damage original hardware or joinery."
-    },
-    {
-      "q": "Can you repair listed property doors in Chesham's Old Town conservation area?",
-      "a": "Yes—we specialise in period-compliant door repairs for listed buildings in the Old Town and wider conservation areas, ensuring any adjustments or hardware replacement respects heritage requirements and retains original character."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Chesham – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Chesham, including Old Town's period properties. Espagnolette, shootbolt and sash-window locks fixed or replaced.",
-  "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Chesham from our experienced locksmith specialists in locksmithing. We diagnose and fix windows that won't lock, broken handles, and failed mechanisms affecting espagnolette and shootbolt systems. All work meets insurance-compliant standards, ensuring your home security is restored to the highest specification.",
-  "window-lock-repair-replacement.local-context-body": "Chesham's concentration of Victorian terraces, particularly in Old Town's conservation area, creates sustained demand for window lock repair and replacement. Original sash windows with period-appropriate espagnolette and shootbolt locks dominate these properties, and many remain in active use despite decades of service. Wear to locking mechanisms is typical, requiring both straightforward replacements and careful restoration work that respects heritage character.\n\nListed-building status affects much of Old Town, meaning window lock replacements often require heritage-compliant specification rather than modern equivalents. Locksmiths working in the area must be familiar with sourcing and fitting locks that match original hardware styles and materials, particularly where conservation officers review alterations. This adds a technical layer beyond standard lock repair, especially when working on properties where the original ironwork and timber frames remain structurally sound.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Chesham terraces need specialist lock repair?",
-      "a": "Victorian terraces across Chesham often use traditional shotbolt and espagnolette mechanisms that differ from modern hardware; our locksmiths understand period mechanics and can repair or replace these locks while preserving your window's original function and appearance."
-    },
-    {
-      "q": "Are window lock replacements heritage-compliant for listed properties in Old Town?",
-      "a": "Yes—Chesham's Old Town conservation area has strict requirements for period properties. We source and install heritage-appropriate window locks that meet conservation standards while restoring full security to listed buildings and period cottages."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Chesham | Fast Local Service",
-  "safe-installation.meta.description": "Safe installation in Chesham's Old Town & beyond. Wall, floor & freestanding safes with secure anchoring, insurance documentation & heritage-compliant fitting.",
-  "safe-installation.hero-paragraph": "Safe installation in Chesham from our expert locksmiths combines traditional locksmithing with modern security placement. Whether you're securing a new safe for insurance approval or protecting valuable assets, we specialise in precise floor anchoring and wall mounting techniques. Our installations meet Eurograde and AiS approved standards, ensuring your valuables receive professional, long-term protection.",
-  "safe-installation.local-context-body": "Chesham's mix of semi-detached homes and period cottages—particularly in the Old Town conservation area—creates varied safe-installation requirements. Listed properties and heritage-conscious owners often need wall safes positioned to avoid structural damage to original features, while more modern infill properties allow greater flexibility in placement and anchoring methods.\n\nHistoric properties in Chesham frequently present challenges during installation due to solid masonry walls and the need for listed-building consent on visible modifications. Insurance providers often require safes to meet specific anchoring standards, and older stonework or timber framing can complicate secure fixing, necessitating specialist assessment before work begins.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed properties in Chesham's Old Town?",
-      "a": "Yes. We're experienced with safe installation in listed buildings and conservation areas, where wall anchoring and fixing methods must comply with heritage regulations. We'll ensure your safe is fitted sensitively without damaging period features, and provide the insurance documentation you'll need."
-    },
-    {
-      "q": "What size safe do I need for a Victorian terrace in Chesham?",
-      "a": "That depends on your valuables and available space. Victorian terraces often have limited floor space, so we typically recommend wall-mounted or compact freestanding models. We'll survey your property, advise on placement, and ensure proper anchoring—especially important in older properties where floors and walls need careful assessment."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Chesham – Fast Local Service",
-  "safe-opening.meta.description": "Safe opening in Chesham for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes, including listed properties.",
-  "safe-opening.hero-paragraph": "Safe opening in Chesham requires specialist locksmith expertise and locksmithing knowledge. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians employ non-destructive opening methods to access your safe without damage. We handle everything from domestic safes to commercial installations, prioritising your security and peace of mind.",
-  "safe-opening.local-context-body": "Many heritage properties in Old Town retain original safes installed during the Victorian era, often integrated into period fireplaces or built into masonry walls. Semi-detached homes across Chesham similarly house older domestic safes that have outlived their combinations or keys. Non-destructive opening becomes essential when occupants inherit properties or lose documentation for these fixtures.\n\nListed buildings in the conservation areas require any safe work to preserve original ironwork and surrounding period fabric. Specialist knowledge of heritage locks and fixtures prevents accidental damage that would breach planning constraints, making careful assessment and gentle manipulation techniques standard practice rather than cutting or drilling options.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Old Town with a period safe built into the wall – do you open antique safes?",
-      "a": "Yes, we specialise in non-destructive opening of period safes common in Chesham's Victorian properties. We assess the mechanism first and use heritage-sensitive techniques to avoid damage to listed interiors."
-    },
-    {
-      "q": "What if I've lost the combination to my safe and can't find the original paperwork?",
-      "a": "We can open most safes without the combination using specialist non-destructive methods, and we'll ensure the safe remains fully functional afterwards. This is especially important in Chesham's older properties where safes are often integral to the building's structure."
-    }
-  ],
-  "home.areas-covered": [
-    "Old Town"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Old Town"
-  ],
-  "locked-out.areas-covered": [
-    "Old Town"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Old Town"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Old Town"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Old Town"
-  ],
-  "lock-changes.areas-covered": [
-    "Old Town"
-  ],
-  "lock-repairs.areas-covered": [
-    "Old Town"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Old Town"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Old Town"
-  ],
-  "door-repairs.areas-covered": [
-    "Old Town"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Old Town"
-  ],
-  "safe-installation.areas-covered": [
-    "Old Town"
-  ],
-  "safe-opening.areas-covered": [
-    "Old Town"
-  ]
+ "meta.title": "Chesham Locksmith | 24/7 Emergency Lockout Service",
+ "meta.description": "Suresec Locksmiths Chesham: emergency locksmith services, lock repairs, and heritage-compliant work for Victorian terraces and period properties.",
+ "home.hero-paragraph": "Chesham locksmith services specialising in locksmithing and emergency lock help are available around the clock. We handle lockouts, lock changes, and security upgrades with non-destructive entry techniques. Our DBS-checked technicians are fully insured and operate 24/7, arriving promptly to resolve your lock issues without call-out fees.",
+ "home.local-context-heading": "Chesham's Heritage Locks and Period Properties",
+ "home.local-context-body": "Chesham's mix of Victorian terraces, period cottages and interwar properties means sash-window locks and traditional bolts feature heavily in local locksmith demand. Properties in Old Town and across the conservation areas often retain original hardware that requires specialist knowledge to service and repair without compromising heritage value. Period locks on these listed buildings need careful handling to maintain compliance with conservation requirements.\n\nEmergency callouts are common in this commuter-belt location, particularly from London workers returning to older residential stock requiring immediate access. Landlords managing multiple properties should consider planned maintenance schedules for period door furniture rather than reactive repairs. Heritage-listed properties especially benefit from locksmiths experienced in conservation-compliant work, as inappropriate replacements can affect property value and breach listing restrictions.",
+ "home.local-faqs": [
+  {
+   "q": "Do you have experience with period locks in Chesham's Old Town listed properties?",
+   "a": "Yes, we specialise in heritage-compliant lock repairs and servicing for listed buildings in the Old Town conservation area. Our team understands Victorian and period hardware, ensuring repairs meet conservation requirements without compromising the character of historic timber-frame properties."
+  },
+  {
+   "q": "I have sash windows in my Victorian terrace\u2014can you service the locks?",
+   "a": "Absolutely. Sash-window locks are common across Chesham's Victorian terraced stock, and we regularly maintain and repair traditional sash fasteners and period bolts to keep them working smoothly and securely."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Chesham \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Chesham. Locked out or key snapped? Fast response for Victorian terraces, Old Town listed properties & urgent lock repairs.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Chesham specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, dealing with a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7. We use non-destructive entry methods wherever possible, minimising damage to your property.",
+ "emergency-locksmith.local-context-body": "Chesham's stock of Victorian terraces and period cottages creates regular demand for emergency locksmith intervention, particularly in the Old Town conservation area where listed properties feature original sash windows and traditional hardware. Commuter-belt residents returning from London frequently require urgent access restoration or post-break-in security work on older residential properties where standard modern locks may not be fitted.\n\nPeriod locks and heritage-compliant repairs present a practical constraint for emergency work in conservation areas. Many listed buildings in Old Town require specialist knowledge to avoid damage during forced entry or lock replacement, and any permanent modifications must respect heritage guidelines. This adds both technical complexity and time consideration to standard emergency callouts in the town's protected zones.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Old Town \u2013 how quickly can you arrive?",
+   "a": "We typically respond to emergency lockouts in Chesham within 30\u201345 minutes, 24/7. Our engineers carry specialist tools for period locks and traditional bolts common in Old Town's listed properties, so we can often open without damage."
+  },
+  {
+   "q": "My sash window lock is jammed and I can't secure the window \u2013 is this an emergency?",
+   "a": "Yes, especially in a heritage property where security is compromised. Call us immediately on 01494 641128; our locksmiths understand period hardware found throughout Chesham's Victorian stock and can repair or replace sash locks without affecting listed-building status."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Chesham | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Chesham? Suresec provides fast, non-destructive entry for lost or snapped keys. Same-day service for Victorian terraces and period properties. 24/7 emergency locksmith.",
+ "locked-out.hero-paragraph": "When you're locked out in Chesham, our experienced locksmiths specialise in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free methods ensure your property remains secure and intact.",
+ "locked-out.local-context-body": "Chesham's terraced housing and period cottages frequently present locked-out situations where traditional sash-window locks and older door mechanisms are involved. In the Old Town conservation area, many properties retain original hardware that requires careful, non-destructive entry techniques to avoid damage to listed features and period frames.\n\nListed buildings in Chesham's heritage stock impose additional constraints on locked-out callouts: forced entry or replacement locks may breach conservation requirements, making specialist knowledge of period mechanisms essential. Victorian terraces commonly feature mortice locks and traditional bolts that demand precision handling rather than destructive methods, particularly where original joinery or glazing would be at risk.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Old Town\u2014will you damage my original sash window locks?",
+   "a": "No. We specialise in non-destructive entry and understand the heritage value of period locks common in Chesham's listed properties. We'll gain access without harming your original hardware, then advise on any repairs needed."
+  },
+  {
+   "q": "My key snapped in the lock of my period cottage\u2014how quickly can you get me back in?",
+   "a": "We offer emergency callouts across Chesham, including nights and weekends. Call 01494 641128 and we'll typically attend within the hour to extract the broken key and regain entry without damage to your traditional lock mechanism."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Chesham \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Chesham's Victorian terraces & Old Town. Snapped keys extracted from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Chesham requires a skilled locksmith trained in precision locksmithing techniques. When keys snap or shear inside locks\u2014whether mortice locks or euro cylinders\u2014our technicians employ specialised key extractor tools to retrieve fragments non-destructively. This approach protects your lock mechanism whilst restoring full functionality quickly.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Chesham's housing stock, particularly in the Old Town where listed terraced properties and period cottages still rely on original or heritage-sympathetic locking hardware. Keys fracturing inside mortice locks and night latches remains common in older residential properties, often following years of use in mechanisms that have seen minimal maintenance or lubrication.\n\nListed-building status in much of the Old Town creates additional constraints for broken key removal work. Repairs must preserve original door frames and lock casings, ruling out aggressive extraction methods that might damage heritage hardware or historic joinery. Victorian and interwar terraces frequently feature solid timber doors and recessed locks, which can complicate access for extraction tools and lengthen the removal process.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Chesham's Old Town need specialist key removal?",
+   "a": "Victorian terraces often have original mortice locks with tighter tolerances and heritage-grade cylinders that require careful extraction to avoid damaging the lock mechanism or the listed building itself. Our locksmiths are trained in period-appropriate removal techniques to preserve these historic fittings."
+  },
+  {
+   "q": "What should I do if my key snaps in a sash-window night latch in my Chesham period cottage?",
+   "a": "Don't force the sash or attempt DIY removal, as period hardware is easily damaged. Call us immediately\u2014we specialise in extracting broken keys from night latches on traditional sash windows without compromising the original lock or frame, which is essential in conservation areas like Old Town."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Chesham \u2013 Same-Day Fix",
+ "burglar-repair-service.meta.description": "Burglar repair service in Chesham, including Old Town. Post-break-in lock changes, door repairs, insurance-compliant reinstatement. Fast 24/7 response.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair in Chesham requires expert locksmiths trained in locksmithing techniques to restore security after break-ins. Our specialists repair damaged doors and forced entry damage, installing BS3621 mortice locks and TS007 anti-snap cylinders to insurance-compliant standards. We reinforce entry points to prevent future intrusions, ensuring your home meets current security benchmarks.",
+ "burglar-repair-service.local-context-body": "Properties in Old Town's conservation area\u2014predominantly Victorian terraces with original timber frames and period joinery\u2014present particular challenges after break-ins. Listed-building status restricts replacement options; repairs must match original materials and hardware specifications. Insurance reinstatement work here requires knowledge of heritage lock mechanisms and period-appropriate door furniture to satisfy both underwriters and conservation officers.\n\nMany of Chesham's older residential properties retain traditional mortice locks and sash-window furniture that burglar damage can render inoperable without specialist attention. Insurance assessors frequently require evidence of like-for-like restoration rather than modern substitutes, especially across the town's substantial Victorian stock. This heritage-compliant approach to post-break-in repair extends timescales and demands familiarity with sourcing period hardware and sympathetic reinstatement techniques.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you repair period locks on listed properties in Chesham's Old Town after a break-in?",
+   "a": "Yes. Many of our callouts involve heritage-compliant lock reinstatement on listed terraces and timber-frame properties in the Old Town conservation area. We source matching period hardware and work within heritage requirements to restore your security without compromising listed status."
+  },
+  {
+   "q": "Can you provide insurance-quality documentation for sash-window lock repairs after a break-in?",
+   "a": "Absolutely. Victorian terraced properties across Chesham commonly need sash-window lock replacement post-incident. We provide full photographic evidence, materials lists, and detailed reports that satisfy insurance assessors for reinstatement claims."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Chesham \u2013 24/7 Fast Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Chesham's Old Town and beyond. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Our Chesham locksmiths deliver emergency boarding up services with expert locksmithing techniques for rapid property protection. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we secure your premises using robust plywood boards and security screws. Our 24/7 service ensures your property remains insurance-compliant and weatherproof until permanent repairs can be arranged.",
+ "emergency-boarding-up.local-context-body": "Chesham's mixed Victorian and interwar housing stock means boarding up calls often involve period sash windows and original timber-frame doors\u2014particularly in the Old Town conservation area, where listed properties require careful handling to preserve heritage features during emergency repair. Terraced properties across the town frequently sustain storm damage or break-in damage to ground-floor windows and side doors, creating urgent demand for rapid secure boarding while permanent repairs are arranged.\n\nListed-building status in parts of Old Town means boarding materials and methods must comply with conservation guidelines; temporary boards cannot obscure or damage original joinery. Many older properties also retain period hardware\u2014traditional bolts and period locks\u2014that may require specialist reinstallation or adjustment once boarding is removed, adding a secondary consideration to the initial emergency response.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up sash windows in listed properties in Chesham's Old Town?",
+   "a": "Yes. We use boarding methods that protect period sash frames and comply with conservation area requirements, so your listed property isn't damaged further during the emergency repair."
+  },
+  {
+   "q": "How quickly can you board up a Victorian terraced house after a break-in?",
+   "a": "We typically respond within the hour for emergency callouts across Chesham. Victorian terraces need careful handling around period door frames and lintels, which we account for during boarding to avoid additional structural damage."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Chesham \u2013 Same-Day Service Available",
+ "lock-changes.meta.description": "Lock changes in Chesham for moved homes, lost keys & upgrades. Victorian terraces & listed properties. Fast professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Chesham require skilled locksmithing expertise, and our locksmiths specialise in this essential service. Whether you're moving home, changing tenancy, or upgrading security, we install high-specification locks meeting BS3621 and TS007 standards. Our technicians fit everything from euro cylinders to multipoint mechanisms, ensuring your property protection meets modern security requirements.",
+ "lock-changes.local-context-body": "Lock changes in Chesham frequently involve Victorian terraces, where original mortice locks and period hardware dominate. Properties in Old Town's conservation area present particular considerations, as many retain listed status and historically significant ironmongery that calls for sympathetic replacement or specialist restoration rather than wholesale modernisation.\n\nHeritage-listed properties in the town require conservation-area consent before lock replacement, a process that can extend timelines for security upgrades or key-loss callouts. Locksmiths working across Chesham's mixed stock must be equipped to handle both period mechanisms\u2014common in terraced housing\u2014and modern multipoint systems found in interwar and contemporary additions, ensuring replacements meet both security standards and local heritage requirements.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Chesham\u2014do I need to replace all the original locks?",
+   "a": "Not necessarily. Many Victorian terraces have sound traditional bolts and locks that can be serviced or re-keyed rather than replaced, which preserves character. However, if you've lost keys or want modern security, we can fit new locks that match period hardware styles, especially important in Old Town's conservation area where listed buildings have strict requirements."
+  },
+  {
+   "q": "I'm moving into an Old Town period property with original sash windows\u2014can you help with heritage-compliant lock changes?",
+   "a": "Yes. We specialise in period-appropriate lock replacements for listed properties and conservation areas, ensuring any new locks meet heritage standards while providing up-to-date security. Contact us on 01494 641128 to discuss your specific requirements before work begins."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Chesham | Fast Same-Day Service",
+ "lock-repairs.meta.description": "Lock repair specialists in Chesham. Expert fixes for mortice, multipoint & traditional locks in Victorian terraces & Old Town listed properties. 24/7 callouts.",
+ "lock-repairs.hero-paragraph": "Lock repairs in Chesham by our experienced locksmith combines traditional locksmithing with modern diagnostic techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn smoothly, our technicians specialise in mortice maintenance and multipoint servicing. We guarantee all work with manufacturer warranty, ensuring your locks function reliably for years to come.",
+ "lock-repairs.local-context-body": "Period properties throughout Old Town frequently require mortice and night latch repairs that demand familiarity with Victorian-era hardware. The terraced housing stock in this conservation area often retains original locks and bolts, making specialist repair knowledge essential rather than straightforward replacement.\n\nListed-building status across many of Chesham's heritage properties means lock repairs must comply with conservation guidelines. Repairs to period mechanisms are often preferable to modern substitutions, and locksmiths working on these properties need understanding of both traditional gearbox function and local planning constraints before undertaking work.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Chesham terraces need specialist lock repair?",
+   "a": "Many Victorian terraces in Chesham have original sash-window locks and traditional bolts that wear differently from modern hardware. Our locksmiths understand period mechanisms and can repair gearbox and mortice locks without forcing replacements that damage heritage features."
+  },
+  {
+   "q": "Can you repair period locks on listed properties in Old Town?",
+   "a": "Yes\u2014Old Town's conservation area properties often have heritage-compliant locks requiring specialist knowledge. We repair traditional multipoint and night latch mechanisms on listed buildings while respecting conservation area requirements, avoiding modern replacements where period repairs are possible."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Chesham \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Chesham, including Old Town listed properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Chesham by our experienced locksmith specialists combines traditional locksmithing expertise with modern security standards. Whether you require new fittings, insurance-approved upgrades, or BS3621 mortice locks and TS007 anti-snap cylinders, our technicians deliver reliable solutions tailored to your property's needs.",
+ "door-lock-installation.local-context-body": "Chesham's housing stock of Victorian terraces and period cottages creates regular demand for door lock installation work. Properties in Old Town's conservation area particularly require careful specification, as many retain original timber frames and period joinery where new locks must be fitted with attention to heritage aesthetics and structural integrity. Upgrading to BS3621 mortice locks or TS007 anti-snap cylinders is common across the town's older residential properties.\n\nListed-building status affects a significant proportion of Chesham's door lock installations, especially in the Old Town conservation area where planning consent may be needed before fitting modern multipoint systems. Installers must verify whether properties are listed or fall within conservation boundaries, as this determines whether traditional lock styles must be maintained or sympathetic alternatives specified. Door materials in these older properties\u2014often solid timber rather than hollow composite\u2014influence cylinder choice and installation depth requirements.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install BS3621 mortice locks on Victorian terraced properties in Chesham?",
+   "a": "Yes, we regularly fit BS3621-approved mortice locks to Victorian terraces across Chesham, including the Old Town conservation area. These locks meet modern security standards while maintaining the aesthetic of period properties."
+  },
+  {
+   "q": "Can you install TS007 anti-snap cylinders without damaging original sash window hardware?",
+   "a": "Absolutely. Many properties in Chesham retain original sash windows with period ironwork; we install TS007 cylinders with care to preserve heritage features, ensuring your windows remain both secure and compliant."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Chesham \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Chesham, including Old Town's period properties. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Chesham locksmith team specialises in door lock replacement and locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we deliver swift, professional service. We fit BS3621-approved mechanisms and offer anti-snap upgrades to strengthen your property's security.",
+ "door-lock-replacement.local-context-body": "Terraced properties dominating Chesham's Old Town often require door lock replacement where original Victorian hardware has deteriorated or security upgrades are needed. The mix of period cottages and interwar semis across the town means replacements span traditional rim locks, mortice sets, and modern cylinders, each demanding different installation approaches depending on door construction and age.\n\nListed buildings in the conservation area present a specific consideration: replacing period locks may require approval from the local authority to ensure replacements match heritage standards. Older timber-frame doors are also common, necessitating careful measurement and sometimes custom fitting to avoid damage to the door itself during lock removal and installation.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Chesham with an original sash window lock that's broken. Can you replace it with a modern lock?",
+   "a": "Yes, we can replace sash window locks in Victorian terraces. If your property is in a conservation area like Old Town, we'll advise on heritage-compliant options that maintain the period character while improving security and function."
+  },
+  {
+   "q": "My period cottage has a traditional bolt that's seized. Do you do like-for-like replacements?",
+   "a": "Absolutely. For heritage properties across Chesham, we specialise in like-for-like replacements of period hardware, including traditional bolts on period cottages, ensuring your lock replacement respects the original design."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Chesham \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Expert door repairs in Chesham, including period hardware for Victorian terraces and Old Town listed properties. Fast alignment and hardware fixes.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Chesham from our experienced locksmith team specialising in locksmithing solutions. Whether your door is dropping, catching, or won't close properly, we diagnose and fix the issue efficiently. We handle uPVC, composite and timber doors, using techniques like hinge adjustment and multipoint realignment to restore proper function and eliminate draughts.",
+ "door-repairs.local-context-body": "Door misalignment and frame settlement are common issues across Chesham's Victorian terraces, particularly in the Old Town conservation area where older timber-frame construction has shifted over decades. Dropped doors\u2014where the weight of the door pulls the frame out of square\u2014affect many period properties, making realignment and hardware adjustment frequent repair needs in these heritage buildings.\n\nListed properties in Old Town require repairs to maintain period authenticity; replacement hardware must often match original styles and materials rather than modern equivalents. Heritage-compliant door repairs in these conservation areas typically involve careful assessment of existing ironwork and frame condition to preserve the building's character while restoring function.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Chesham often drop or misalign?",
+   "a": "Victorian terraces throughout Chesham commonly experience door drop due to settlement and age-related frame movement. Our technicians are experienced in realigning these period doors without forcing modern adjustments that could damage original hardware or joinery."
+  },
+  {
+   "q": "Can you repair listed property doors in Chesham's Old Town conservation area?",
+   "a": "Yes\u2014we specialise in period-compliant door repairs for listed buildings in the Old Town and wider conservation areas, ensuring any adjustments or hardware replacement respects heritage requirements and retains original character."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Chesham \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Chesham, including Old Town's period properties. Espagnolette, shootbolt and sash-window locks fixed or replaced.",
+ "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Chesham from our experienced locksmith specialists in locksmithing. We diagnose and fix windows that won't lock, broken handles, and failed mechanisms affecting espagnolette and shootbolt systems. All work meets insurance-compliant standards, ensuring your home security is restored to the highest specification.",
+ "window-lock-repair-replacement.local-context-body": "Chesham's concentration of Victorian terraces, particularly in Old Town's conservation area, creates sustained demand for window lock repair and replacement. Original sash windows with period-appropriate espagnolette and shootbolt locks dominate these properties, and many remain in active use despite decades of service. Wear to locking mechanisms is typical, requiring both straightforward replacements and careful restoration work that respects heritage character.\n\nListed-building status affects much of Old Town, meaning window lock replacements often require heritage-compliant specification rather than modern equivalents. Locksmiths working in the area must be familiar with sourcing and fitting locks that match original hardware styles and materials, particularly where conservation officers review alterations. This adds a technical layer beyond standard lock repair, especially when working on properties where the original ironwork and timber frames remain structurally sound.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Chesham terraces need specialist lock repair?",
+   "a": "Victorian terraces across Chesham often use traditional shotbolt and espagnolette mechanisms that differ from modern hardware; our locksmiths understand period mechanics and can repair or replace these locks while preserving your window's original function and appearance."
+  },
+  {
+   "q": "Are window lock replacements heritage-compliant for listed properties in Old Town?",
+   "a": "Yes\u2014Chesham's Old Town conservation area has strict requirements for period properties. We source and install heritage-appropriate window locks that meet conservation standards while restoring full security to listed buildings and period cottages."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Chesham | Fast Local Service",
+ "safe-installation.meta.description": "Safe installation in Chesham's Old Town & beyond. Wall, floor & freestanding safes with secure anchoring, insurance documentation & heritage-compliant fitting.",
+ "safe-installation.hero-paragraph": "Safe installation in Chesham from our expert locksmiths combines traditional locksmithing with modern security placement. Whether you're securing a new safe for insurance approval or protecting valuable assets, we specialise in precise floor anchoring and wall mounting techniques. Our installations meet Eurograde and AiS approved standards, ensuring your valuables receive professional, long-term protection.",
+ "safe-installation.local-context-body": "Chesham's mix of semi-detached homes and period cottages\u2014particularly in the Old Town conservation area\u2014creates varied safe-installation requirements. Listed properties and heritage-conscious owners often need wall safes positioned to avoid structural damage to original features, while more modern infill properties allow greater flexibility in placement and anchoring methods.\n\nHistoric properties in Chesham frequently present challenges during installation due to solid masonry walls and the need for listed-building consent on visible modifications. Insurance providers often require safes to meet specific anchoring standards, and older stonework or timber framing can complicate secure fixing, necessitating specialist assessment before work begins.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed properties in Chesham's Old Town?",
+   "a": "Yes. We're experienced with safe installation in listed buildings and conservation areas, where wall anchoring and fixing methods must comply with heritage regulations. We'll ensure your safe is fitted sensitively without damaging period features, and provide the insurance documentation you'll need."
+  },
+  {
+   "q": "What size safe do I need for a Victorian terrace in Chesham?",
+   "a": "That depends on your valuables and available space. Victorian terraces often have limited floor space, so we typically recommend wall-mounted or compact freestanding models. We'll survey your property, advise on placement, and ensure proper anchoring\u2014especially important in older properties where floors and walls need careful assessment."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Chesham \u2013 Fast Local Service",
+ "safe-opening.meta.description": "Safe opening in Chesham for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes, including listed properties.",
+ "safe-opening.hero-paragraph": "Safe opening in Chesham requires specialist locksmith expertise and locksmithing knowledge. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians employ non-destructive opening methods to access your safe without damage. We handle everything from domestic safes to commercial installations, prioritising your security and peace of mind.",
+ "safe-opening.local-context-body": "Many heritage properties in Old Town retain original safes installed during the Victorian era, often integrated into period fireplaces or built into masonry walls. Semi-detached homes across Chesham similarly house older domestic safes that have outlived their combinations or keys. Non-destructive opening becomes essential when occupants inherit properties or lose documentation for these fixtures.\n\nListed buildings in the conservation areas require any safe work to preserve original ironwork and surrounding period fabric. Specialist knowledge of heritage locks and fixtures prevents accidental damage that would breach planning constraints, making careful assessment and gentle manipulation techniques standard practice rather than cutting or drilling options.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Old Town with a period safe built into the wall \u2013 do you open antique safes?",
+   "a": "Yes, we specialise in non-destructive opening of period safes common in Chesham's Victorian properties. We assess the mechanism first and use heritage-sensitive techniques to avoid damage to listed interiors."
+  },
+  {
+   "q": "What if I've lost the combination to my safe and can't find the original paperwork?",
+   "a": "We can open most safes without the combination using specialist non-destructive methods, and we'll ensure the safe remains fully functional afterwards. This is especially important in Chesham's older properties where safes are often integral to the building's structure."
+  }
+ ],
+ "home.areas-covered": [
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Old Town",
+  "Pond Park",
+  "Waterside"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Old Town",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale"
+ ],
+ "locked-out.areas-covered": [
+  "Old Town",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Old Town",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Old Town",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Old Town",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois"
+ ],
+ "lock-changes.areas-covered": [
+  "Old Town",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown"
+ ],
+ "lock-repairs.areas-covered": [
+  "Old Town",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Old Town",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Old Town",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside"
+ ],
+ "door-repairs.areas-covered": [
+  "Old Town",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Old Town",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop"
+ ],
+ "safe-installation.areas-covered": [
+  "Old Town",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green",
+  "Newtown",
+  "Pond Park"
+ ],
+ "safe-opening.areas-covered": [
+  "Old Town",
+  "Pond Park",
+  "Waterside",
+  "Asheridge Vale",
+  "Great Hivings",
+  "Hilltop",
+  "Lower Bois",
+  "Lowndes",
+  "Lye Green"
+ ]
 }

@@ -1,341 +1,297 @@
 {
-  "meta.title": "Locksmith Wilmslow | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted locksmith in Wilmslow serving Edwardian and period homes. Emergency call-outs, lock changes, repairs, heritage-compliant fitting and security upgrades.",
-  "home.hero-paragraph": "Wilmslow locksmith and locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and lock repairs. All work is carried out by DBS-checked technicians using non-destructive entry methods wherever possible. Available 24/7 with no call-out fee and fully insured.",
-  "home.local-context-heading": "Securing Wilmslow's Period and Modern Homes",
-  "home.local-context-body": "Wilmslow's stock of Edwardian semis, Victorian villas and interwar properties—particularly concentrated in areas like Bollin Park—typically require period-appropriate hardware and heritage-compliant lock fitting. Older properties often need specialist attention to original door frames and mechanisms, while newer locks must be installed without compromising listed building status or period character.\n\nProperties across Wilmslow frequently fall under conservation area restrictions or listed building designation. Locksmiths working in these areas need familiarity with planning consent requirements for external hardware changes. Routine maintenance on period doors—including frame adjustment and wear on traditional mechanisms—accounts for regular call-outs, especially as properties age and door settlement occurs.",
-  "home.local-faqs": [
-    {
-      "q": "Do you fit heritage-compliant locks on listed properties in Alderley Edge?",
-      "a": "Yes. We specialise in period-appropriate locks and hardware for Victorian villas and listed buildings across Alderley Edge and similar conservation areas. Our fitters understand listed building consent requirements and source heritage-specification hardware to preserve period character while meeting modern security standards."
-    },
-    {
-      "q": "Can you upgrade locks on Edwardian semis in Dean Row without damaging original doors?",
-      "a": "Absolutely. Our team regularly services the dense concentration of Edwardian properties across Dean Row and Pownall Park. We fit modern locks and security upgrades to period doors using sympathetic installation techniques that preserve original joinery and aesthetics."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Wilmslow | 24/7 Edwardian Homes",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Wilmslow. Locked out or key snapped? Fast response for Dean Row, Wilmslow Park & beyond. Urgent lock repairs, non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Wilmslow, our locksmiths combine years of locksmithing expertise with rapid response times. Whether you're locked out, dealing with a snapped key, or require post-break-in repairs, our DBS-checked technicians arrive 24/7 and use non-destructive entry methods whenever possible to protect your property.",
-  "emergency-locksmith.local-context-body": "Properties across Bollin Park and Lacey Green—predominantly semi-detached homes from the Edwardian and post-war eras—experience high volumes of routine lockouts and lock failures, particularly in older wooden-frame doors where mechanisms wear predictably. Emergency callouts spike around seasonal temperature changes when wooden doors swell or contract, affecting bolt alignment.\n\nMany period properties in the area sit on the local heritage register, constraining rapid lock replacement or modification without listed-building consent. Emergency locksmiths must often work within these constraints, preserving original hardware appearance while restoring functionality—a consideration that standard forced-entry or replacement protocols cannot accommodate without specialist knowledge of period-appropriate solutions.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Edwardian semi in Dean Row—how quickly can Shield Locksmiths reach me?",
-      "a": "We're based in Wilmslow and typically arrive within 30 minutes for emergency lockouts across Dean Row and surrounding areas. Call 01625 351018 immediately and we'll dispatch our nearest technician to get you back inside fast."
-    },
-    {
-      "q": "My Victorian villa in Alderley Edge has a snapped key in the lock—can you help without damaging the period hardware?",
-      "a": "Yes—we specialise in heritage-compliant lock repairs and removal for period properties like Victorian villas. Our technicians understand the value of original fittings and use non-destructive methods wherever possible; contact us on 01625 351018 for urgent assistance."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Wilmslow? Emergency Entry for Period Homes",
-  "locked-out.meta.description": "Locked out in Wilmslow? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys across Edwardian semis and period homes. 24/7 emergency service.",
-  "locked-out.hero-paragraph": "When you're locked out in Wilmslow, our experienced locksmith uses modern locksmithing techniques to get you back inside quickly. Whether you've lost your keys, had them locked inside, or snapped a key in the mechanism, we specialise in non-destructive entry methods that leave your door and locks undamaged. Call us for rapid assistance.",
-  "locked-out.local-context-body": "Locked-out situations in Wilmslow frequently involve the town's stock of period properties, particularly the Victorian villas around Alderley Edge and Edwardian semis in Wilmslow Park. Heritage homes often feature original or period-appropriate lock mechanisms that require specialist non-destructive entry knowledge. Modern properties in Fulshaw Park developments present different challenges, with multi-point locking systems and smart integrations that demand current technical understanding. The variety across Wilmslow's housing mix means lockout callouts span everything from traditional mortice locks to contemporary electronic systems.\n\nListed buildings and conservation-area properties across Alderley Edge impose additional constraints on entry methods. Non-destructive techniques become essential where drilling or forcing could damage original joinery, frames, or architectural details that carry statutory protection. Even minor damage to period doors or surrounds can breach planning or conservation requirements, making precision entry work a legal as well as practical necessity in these neighborhoods.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian villa in Alderley Edge – will you damage the period frames or locks?",
-      "a": "No. Our non-destructive entry techniques preserve original sash frames, heritage locks, and listed building compliance. We specialise in period property access without alteration, which is essential in conservation areas like Alderley Edge."
-    },
-    {
-      "q": "My keys snapped inside the lock of my Edwardian semi on Dean Row – how quickly can you get me back in?",
-      "a": "We attend locked-out calls across Dean Row typically within the hour. We'll extract the broken key and regain entry without forcing the lock, keeping your period hardware intact and functional."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Wilmslow – Fast 24/7 Service",
-  "broken-key-removal.meta.description": "Broken key removal in Wilmslow – expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service for Edwardian & period homes.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Wilmslow requires a skilled locksmith with expertise in locksmithing techniques to extract snapped or sheared keys safely from your lock. Our technicians use specialised key extractor tools and broken-key probes to address euro cylinders and mortice locks without causing damage. We prioritise non-destructive methods to restore access to your property quickly.",
-  "broken-key-removal.local-context-body": "Wilmslow Park's concentration of Edwardian semis frequently presents broken key scenarios in their original mortice locks and euro cylinders—hardware that has endured a century of use and thermal expansion. Wear on pin mechanisms and cylinder tolerance issues make key fracture more common in period properties than in newer builds, particularly where keys have been turned with force or repeated strain.\n\nListed buildings and conservation-area properties in Alderley Edge introduce additional complexity to key removal work. Extracting broken fragments must proceed without damage to historic lock casings, and replacement hardware often requires matching original specifications or obtaining conservation officer approval. This constraint typically extends job timeframes compared to straightforward modern lock removal.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My key snapped in the euro cylinder of my Edwardian semi in Dean Row – can you remove it without damaging the lock?",
-      "a": "Yes. We specialise in extracting broken keys from euro cylinders without causing damage to the mechanism – critical for period properties where lock replacement may require heritage-compliant refitting. We'll remove the key safely and have you back in within the hour."
-    },
-    {
-      "q": "A key broke off in the mortice lock of my Victorian villa near Alderley Edge. Will removal affect the original hardware?",
-      "a": "Our technicians are experienced with period lock mechanisms on listed and heritage properties. We use specialist extraction techniques to remove the broken key while preserving the original mortice lock, then can advise on restoration or period-appropriate replacement if needed."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Wilmslow | Victorian & Period Homes",
-  "burglar-repair-service.meta.description": "Burglar repair service in Wilmslow covering Alderley Edge Victorian properties and period homes. Emergency lock changes, door repairs, insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Wilmslow locksmiths specialise in burglar repair through expert locksmithing, restoring security after forced entry. We assess damage comprehensively, from smashed locks to compromised frames, and install insurance-compliant solutions including TS007 anti-snap cylinders and BS3621 mortice locks. Your home's protection is restored to full standard quickly.",
-  "burglar-repair-service.local-context-body": "Properties in Alderley Edge and across Wilmslow's Victorian villas frequently require specialized post-break-in reinstatement that respects period authenticity. Listed buildings in these conservation areas demand locks and hardware that match original specifications, making insurance-compliant repair more technically involved than standard replacements. Break-in damage to period frames and heritage-listed doors requires both locksmith expertise and conservation-aware fitting practices.\n\nMany properties across the area feature original timber sash windows and period door frames that complicate break-in repair work. Listed-building consent may be needed before replacing damaged locks or frames, adding a compliance layer beyond standard burglar repair timescales. Insurers in affluent areas typically require documented, heritage-appropriate reinstatement—making familiarity with period lock types and local conservation requirements essential for repair contractors.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in at my Edwardian semi in Dean Row, will your repair service restore period-compliant locks?",
-      "a": "Yes. We understand that many properties across Dean Row feature original or heritage-style hardware, and our burglar repair service includes fitting period-appropriate locks and door frames that satisfy both security and listed-property requirements. We'll reinstate your security to insurance-standard while respecting your home's character."
-    },
-    {
-      "q": "I've had a break-in at my new-build in Fulshaw Park. Can you coordinate smart lock replacement with my existing security system?",
-      "a": "Absolutely. Our burglar repair service covers smart lock integration and modern alarm system coordination—essential for newer properties in Fulshaw Park. We'll ensure your replacement hardware works seamlessly with your existing security setup and meets insurance reinstatement standards."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Wilmslow – 24/7 Service",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Wilmslow for period homes and semis. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Wilmslow from our experienced locksmith team combines locksmithing expertise with rapid property protection. Whether you're dealing with smashed windows or damaged doors, our 24/7 service uses robust plywood boards and security screws to create a weatherproof temporary seal. We're fully insurance-compliant, ensuring your property is secured professionally when you need it most.",
-  "emergency-boarding-up.local-context-body": "Period properties across Heathfield Farm and similar interwar developments often feature original timber-framed windows and solid wood doors that require careful boarding techniques to avoid further structural damage. Listed villas in the wider area demand boarding solutions that preserve architectural integrity, particularly around decorative surrounds and heritage glazing bars, making swift yet sympathetic intervention essential after break-ins or storm damage.\n\nMany of Wilmslow's older properties fall under local planning restrictions that govern temporary external modifications. Boarding-up work must account for listed-building consent requirements and the prevalence of period joinery, where standard modern boarding materials can clash visually and structurally. Access during adverse weather—common in the North West—often determines whether emergency boarding happens at night or requires coordination with planning authorities before dawn.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up period properties in Wilmslow Park without damaging original features?",
-      "a": "Yes. Our team understands Edwardian joinery and heritage frames common in Wilmslow Park semis and detached homes. We use temporary boarding methods that protect listed features and allow safe reinstatement of original doors and windows once repairs are arranged."
-    },
-    {
-      "q": "Can you board up windows quickly after a break-in at a Dean Row property?",
-      "a": "Absolutely. We offer same-day emergency boarding for the interwar semis across Dean Row. Our rapid response secures your property, deters further entry, and gives you time to contact your insurer and arrange permanent repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Wilmslow – Same-Day Service Available",
-  "lock-changes.meta.description": "Lock changes in Wilmslow for period homes and Edwardian semis. Lost keys, moving house, or security upgrades. Fast professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Wilmslow require a skilled locksmith who understands modern locksmithing practices. Whether you're moving home, replacing lost keys, or upgrading security after a tenancy turnover, we fit approved mechanisms including BS3621 mortice locks and TS007 anti-snap cylinders. Our work meets current security standards, ensuring your property protection.",
-  "lock-changes.local-context-body": "Moving home in Fulshaw Park's newer developments typically involves coordinating lock changes with smart home systems already in place, while period properties across Bollin Park—many Victorian and semi-detached—often retain original hardware that may require specialist replacement to preserve character. Lock changes in these mixed neighborhoods span routine modern cylinder swaps through to heritage-sensitive fitting work.\n\nListed properties and period homes throughout Wilmslow frequently demand locks that comply with conservation standards, meaning standard modern replacements may not be permitted without local authority approval. Older properties often have non-standard door frames and jamb depths, requiring locksmiths to source period-appropriate hardware or adapt fitting methods to avoid structural damage.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "We've just moved to a Victorian villa in Alderley Edge—do you replace locks while keeping period features intact?",
-      "a": "Yes, we specialise in heritage-compliant lock changes for period properties across Wilmslow. We'll source and fit locks that match your villa's original character while meeting modern security standards."
-    },
-    {
-      "q": "Our Edwardian semi in Dean Row needs new locks after we've lost the keys—how quickly can you attend?",
-      "a": "We typically attend lock change callouts in Dean Row and surrounding Edwardian properties within 24 hours. Call 01625 351018 to arrange an appointment that suits your moving schedule."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Wilmslow – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Wilmslow for Edwardian & period homes. Multipoint, mortice & night latch fixes. 24/7 emergency service available.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Wilmslow by experienced locksmiths specialising in locksmithing solutions. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair faults efficiently. We handle mortice maintenance and multipoint servicing to restore smooth operation. All work carries a manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Edwardian semis across Dean Row and Pownall Park experience high wear on multipoint and mortice locks due to age and regular use, making repair calls routine. Victorian properties in Chorley similarly present frequent gearbox failures on period doors, where original hardware has reached end-of-life. Lock repair demand in these areas reflects both the prevalence of period mechanisms and the accumulated stress on systems designed decades ago.\n\nListed buildings in Alderley Edge impose additional constraints on lock repairs: replacements must match original specifications and materials, often requiring sourcing of heritage-compliant hardware rather than straightforward like-for-like fixes. Period door frames and materials—typically solid wood with traditional joinery—also affect repair strategy, as forcing or drilling can compromise structural integrity and conservation status. These factors extend repair timescales and necessitate specialist knowledge of period lock types.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Edwardian semi in Wilmslow Park has a sticking multipoint lock – is this a common issue?",
-      "a": "Yes, multipoint locks on Edwardian semis across Wilmslow Park frequently develop wear in the gearbox after decades of use. We diagnose and repair the internal mechanism on-site, often avoiding the cost of full replacement."
-    },
-    {
-      "q": "I have a listed Victorian villa in Alderley Edge with a broken mortice lock – can you repair it without replacing the hardware?",
-      "a": "Absolutely. Listed properties in Alderley Edge require heritage-compliant repairs; we specialise in restoring period mortice locks to working order while preserving original fittings and maintaining conservation standards."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Wilmslow – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Wilmslow. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Expert fitting for Edwardian and period properties.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Wilmslow from our trusted locksmith team specialises in modern locksmithing techniques. Whether you're securing new property fittings or upgrading existing security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your home. Many clients choose our services to meet insurance requirements and enhance protection.",
-  "door-lock-installation.local-context-body": "Wilmslow's affluent housing stock—particularly the Victorian villas of Alderley Edge and the Edwardian semis clustered in Dean Row—creates consistent demand for security upgrades to period properties. Many detached and semi-detached homes in areas like Bollin Park combine older original joinery with modern security needs, requiring installers to fit BS3621 mortice locks and TS007 anti-snap cylinders without compromising period aesthetics or structural integrity.\n\nListed-building consent requirements significantly shape door lock installation work across Wilmslow. Properties qualifying as heritage homes often restrict visible lock hardware or require sympathetic fitting methods that preserve original door frames and architraves. Installers must verify listing status before specifying multipoint systems, as external cylinder styles and finishing materials are frequently subject to conservation approval.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you fit heritage-compliant locks on period properties in Alderley Edge?",
-      "a": "Yes. We specialise in installing BS3621 mortice locks and period-appropriate hardware on Victorian villas and listed properties across Alderley Edge, ensuring compliance with conservation requirements while maintaining security standards."
-    },
-    {
-      "q": "Can you install modern anti-snap cylinders on the Edwardian semis in Dean Row?",
-      "a": "Absolutely. We regularly fit TS007 anti-snap cylinders and multipoint locks on Edwardian properties throughout Dean Row and Pownall Park, upgrading security without compromising the character of these homes."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Wilmslow – Fast Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Wilmslow, including Alderley Edge period properties. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Wilmslow locksmiths specialise in door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades for enhanced security. All work meets current UK standards.",
-  "door-lock-replacement.local-context-body": "Victorian and Edwardian properties across Bollin Park frequently require door lock replacement due to age-related wear on original hardware. Semi-detached homes in this mixed neighbourhood often present varied lock specifications, meaning replacements must account for non-standard door frames and period-appropriate fitting depths that differ from modern standards.\n\nListed properties and period homes throughout Wilmslow demand heritage-compliant lock mechanisms during replacement work. Conservation areas impose restrictions on visible hardware changes, requiring locksmiths to source locks that match original aesthetics while meeting current security standards—a consideration that extends timescales and parts availability compared to straightforward modern replacements.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian villa in Alderley Edge – can you replace my door lock without damaging period hardware?",
-      "a": "Yes. We specialise in heritage-compliant lock replacements for period properties across Wilmslow. We'll match your existing style and ensure any new lock fits without compromising original joinery or listed-status requirements."
-    },
-    {
-      "q": "My Edwardian semi in Dean Row has a worn lock – how quickly can you swap it for a modern upgrade?",
-      "a": "We typically respond same-day across Dean Row and Pownall Park. We can replace your lock like-for-like or upgrade to a high-security cylinder, depending on your security needs and the condition of your door frame."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Wilmslow – Fast Local Service",
-  "door-repairs.meta.description": "Door repairs in Wilmslow for period homes and modern properties. uPVC alignment, composite door realignment, handle repair and hardware fixes.",
-  "door-repairs.hero-paragraph": "Our Wilmslow locksmith team specialises in professional door repairs using expert locksmithing techniques to restore functionality to damaged doors. Whether your uPVC, composite or timber door has dropped, started catching, or won't close properly, we diagnose and repair issues including hinge adjustment, frame alignment and multipoint realignment. Fast, reliable service for Wilmslow residents.",
-  "door-repairs.local-context-body": "Wilmslow's mix of Edwardian semis and interwar detached properties means door alignment and hardware issues are common across the town. Heathfield Farm's concentration of period semis, in particular, sees regular calls for dropped-door repairs and worn hinge replacement—issues exacerbated by settlement in older timber-frame structures where frames shift seasonally.\n\nListed buildings and heritage properties across Wilmslow require period-appropriate hardware and sympathetic repair methods that comply with conservation guidelines. Many Victorian and Edwardian doors feature mortice locks and traditional butt hinges that demand specialist knowledge; standard modern replacements are often unsuitable for these properties' original specifications and local planning constraints.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian villas in Alderley Edge need specialist door repair?",
-      "a": "Victorian properties often have original period frames and hardware that require sympathetic repair to maintain listed-building compliance. Our technicians understand heritage fitting standards and can realign or repair doors without compromising the property's character or regulatory status."
-    },
-    {
-      "q": "How do I know if my Edwardian semi's dropped door needs repair or replacement?",
-      "a": "Doors in the dense Edwardian properties across Dean Row and Pownall Park commonly drop due to age and settlement. We inspect the frame, hinges, and threshold to determine whether realignment and hardware adjustment will restore function, or if replacement is necessary—saving you cost where possible."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Wilmslow – Same-Day",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Wilmslow. Expert espagnolette and shootbolt fixes for period homes in Alderley Edge, Chorley and across town.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Wilmslow requires specialist locksmithing knowledge that our experienced locksmiths possess. Whether you're dealing with windows that won't lock or broken handles, we address espagnolette mechanisms and shootbolt locks with precision. Our work meets insurance-compliant standards, ensuring your home security is restored properly and reliably.",
-  "window-lock-repair-replacement.local-context-body": "Window locks across Lacey Green's post-war semis and Heathfield Farm's interwar detached properties frequently require repair or replacement due to age-related wear. Espagnolette locks on timber sash windows are particularly common in these neighborhoods, where routine maintenance and upgrades form a steady demand. Modern shootbolt mechanisms are increasingly fitted during replacements to enhance security on period frames without compromising aesthetic integrity.\n\nListed properties and period homes throughout Wilmslow often impose restrictions on lock replacement specifications. Conservation area guidance may require matching original hardware finishes or mechanisms that preserve period character, particularly in Victorian and Edwardian properties. Locksmiths working on window lock jobs must verify building status and any planning conditions before specifying modern fittings, as non-compliant replacements can trigger enforcement action or affect insurance validity.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Edwardian semis in Dean Row often need window lock replacement?",
-      "a": "Edwardian timber frames are prone to subtle settlement and warping, which causes espagnolette locks to jam or fail to engage properly. We specialise in diagnosing and replacing these locks while respecting the period character of your property."
-    },
-    {
-      "q": "Can you repair shootbolt locks on listed properties in Alderley Edge without compromising their heritage status?",
-      "a": "Yes—we carry heritage-compliant window lock hardware and understand the conservation requirements for listed Victorian villas. We'll match period styles and ensure any replacements meet local planning guidance."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Wilmslow – Trusted Local Service",
-  "safe-installation.meta.description": "Safe installation in Wilmslow for period homes and new builds. Expert anchoring, insurance documentation, wall, floor and freestanding safes.",
-  "safe-installation.hero-paragraph": "Our Wilmslow locksmith team specialises in safe installation and locksmithing services designed to protect your valuables. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians use anti-leverage positioning methods to guarantee maximum security and durability for your installation.",
-  "safe-installation.local-context-body": "Properties across Fulshaw Park's newer detached developments frequently require safe installation as part of comprehensive home security upgrades, while period villas in the surrounding area demand careful positioning to avoid structural compromise of original masonry and listed-building constraints. The variety of property ages means safes must accommodate everything from modern cavity walls to solid stone construction, with anchoring specifications varying significantly between new-build and heritage homes.\n\nListed-building consent often governs safe installation in Wilmslow's older stock, particularly where wall penetration or floor anchoring would affect period features or external appearance. Insurance documentation requirements typically necessitate professional installation with photographic evidence of anchoring method and wall composition assessment—a consideration that shapes both the technical approach and the timeline for completion across the town's mixed housing portfolio.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do listed properties in Alderley Edge need specialist safe installation?",
-      "a": "Listed homes require safes that don't compromise period features or structural integrity. We ensure anchoring methods comply with conservation standards while maintaining insurance cover—essential for the heritage villas common across Wilmslow."
-    },
-    {
-      "q": "What makes safe installation different for new-builds in Fulshaw Park?",
-      "a": "New properties often have concrete slab foundations ideal for floor safes, and many owners want smart lock integration alongside physical security. We coordinate safe placement with your home's modern wiring and security systems from the outset."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Wilmslow – Fast & Trusted Service",
-  "safe-opening.meta.description": "Safe opening in Wilmslow & Alderley Edge. Non-destructive opening for lost keys, combinations, jammed safes. Domestic and commercial. Expert service.",
-  "safe-opening.hero-paragraph": "Our Wilmslow locksmith team specialises in safe opening using advanced locksmithing techniques that preserve your security. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to regain access without damage. Our technicians prioritise protecting your safe's integrity throughout every job.",
-  "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Fulshaw Park's detached properties and throughout Wilmslow's period homes, where householders often store valuables, documents, and heirlooms. Lost combinations and misplaced keys are frequent scenarios, particularly in older properties where safes have been inherited or passed between owners without documentation. Non-destructive opening becomes essential when access is needed without damaging irreplaceable fixtures or voiding any remaining manufacturer warranties.\n\nMany of Wilmslow's listed and heritage properties feature safes installed within period walls and furniture; opening these requires familiarity with older locking mechanisms and techniques that avoid damage to surrounding period fabric. Newer builds in the area increasingly contain modern electronic safes, which demand different diagnostic approaches. Local safe-opening work must account for both heritage constraints and the variety of mechanisms present across the town's mixed housing stock.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian villa in Alderley Edge with a period safe I can't open—will non-destructive opening damage the original fittings?",
-      "a": "No. Our non-destructive safe opening methods preserve heritage-listed fixtures and period metalwork, which is essential in Alderley Edge's conservation areas. We specialise in opening vintage safes without compromising their authenticity or value."
-    },
-    {
-      "q": "We've just moved into a new-build property in Fulshaw Park and the previous owner's electronic safe won't open—can you help without waiting weeks?",
-      "a": "Yes. We offer same-day non-destructive safe opening for modern electronic and combination safes common in Fulshaw Park's newer developments, restoring your access quickly without damage to the unit or your security system."
-    }
-  ],
-  "home.areas-covered": [
-    "Alderley Edge",
-    "Bollin Park",
-    "Chorley",
-    "Colshaw Farm",
-    "Dean Row",
-    "Fulshaw Park",
-    "Heathfield Farm",
-    "Lacey Green",
-    "Pownall Park",
-    "Wilmslow Park"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Lacey Green",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge"
-  ],
-  "locked-out.areas-covered": [
-    "Colshaw Farm",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Heathfield Farm",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Dean Row",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "lock-changes.areas-covered": [
-    "Alderley Edge",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Lacey Green"
-  ],
-  "lock-repairs.areas-covered": [
-    "Bollin Park",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Wilmslow Park",
-    "Pownall Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Fulshaw Park",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "door-repairs.areas-covered": [
-    "Chorley",
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "safe-installation.areas-covered": [
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ],
-  "safe-opening.areas-covered": [
-    "Pownall Park",
-    "Wilmslow Park",
-    "Heathfield Farm",
-    "Chorley",
-    "Fulshaw Park",
-    "Dean Row",
-    "Alderley Edge",
-    "Lacey Green"
-  ]
+ "meta.title": "Locksmith Wilmslow | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted locksmith in Wilmslow serving Edwardian and period homes. Emergency call-outs, lock changes, repairs, heritage-compliant fitting and security upgrades.",
+ "home.hero-paragraph": "Wilmslow locksmith and locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and lock repairs. All work is carried out by DBS-checked technicians using non-destructive entry methods wherever possible. Available 24/7 with no call-out fee and fully insured.",
+ "home.local-context-heading": "Securing Wilmslow's Period and Modern Homes",
+ "home.local-context-body": "Wilmslow's stock of Edwardian semis, Victorian villas and interwar properties\u2014particularly concentrated in areas like Bollin Park\u2014typically require period-appropriate hardware and heritage-compliant lock fitting. Older properties often need specialist attention to original door frames and mechanisms, while newer locks must be installed without compromising listed building status or period character.\n\nProperties across Wilmslow frequently fall under conservation area restrictions or listed building designation. Locksmiths working in these areas need familiarity with planning consent requirements for external hardware changes. Routine maintenance on period doors\u2014including frame adjustment and wear on traditional mechanisms\u2014accounts for regular call-outs, especially as properties age and door settlement occurs.",
+ "home.local-faqs": [
+  {
+   "q": "Do you fit heritage-compliant locks on listed properties in Alderley Edge?",
+   "a": "Yes. We specialise in period-appropriate locks and hardware for Victorian villas and listed buildings across Alderley Edge and similar conservation areas. Our fitters understand listed building consent requirements and source heritage-specification hardware to preserve period character while meeting modern security standards."
+  },
+  {
+   "q": "Can you upgrade locks on Edwardian semis in Dean Row without damaging original doors?",
+   "a": "Absolutely. Our team regularly services the dense concentration of Edwardian properties across Dean Row and Pownall Park. We fit modern locks and security upgrades to period doors using sympathetic installation techniques that preserve original joinery and aesthetics."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Wilmslow | 24/7 Edwardian Homes",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Wilmslow. Locked out or key snapped? Fast response for Dean Row, Wilmslow Park & beyond. Urgent lock repairs, non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Wilmslow, our locksmiths combine years of locksmithing expertise with rapid response times. Whether you're locked out, dealing with a snapped key, or require post-break-in repairs, our DBS-checked technicians arrive 24/7 and use non-destructive entry methods whenever possible to protect your property.",
+ "emergency-locksmith.local-context-body": "Properties across Bollin Park and Lacey Green\u2014predominantly semi-detached homes from the Edwardian and post-war eras\u2014experience high volumes of routine lockouts and lock failures, particularly in older wooden-frame doors where mechanisms wear predictably. Emergency callouts spike around seasonal temperature changes when wooden doors swell or contract, affecting bolt alignment.\n\nMany period properties in the area sit on the local heritage register, constraining rapid lock replacement or modification without listed-building consent. Emergency locksmiths must often work within these constraints, preserving original hardware appearance while restoring functionality\u2014a consideration that standard forced-entry or replacement protocols cannot accommodate without specialist knowledge of period-appropriate solutions.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Edwardian semi in Dean Row\u2014how quickly can Shield Locksmiths reach me?",
+   "a": "We're based in Wilmslow and typically arrive within 30 minutes for emergency lockouts across Dean Row and surrounding areas. Call 01625 351018 immediately and we'll dispatch our nearest technician to get you back inside fast."
+  },
+  {
+   "q": "My Victorian villa in Alderley Edge has a snapped key in the lock\u2014can you help without damaging the period hardware?",
+   "a": "Yes\u2014we specialise in heritage-compliant lock repairs and removal for period properties like Victorian villas. Our technicians understand the value of original fittings and use non-destructive methods wherever possible; contact us on 01625 351018 for urgent assistance."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Wilmslow? Emergency Entry for Period Homes",
+ "locked-out.meta.description": "Locked out in Wilmslow? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys across Edwardian semis and period homes. 24/7 emergency service.",
+ "locked-out.hero-paragraph": "When you're locked out in Wilmslow, our experienced locksmith uses modern locksmithing techniques to get you back inside quickly. Whether you've lost your keys, had them locked inside, or snapped a key in the mechanism, we specialise in non-destructive entry methods that leave your door and locks undamaged. Call us for rapid assistance.",
+ "locked-out.local-context-body": "Locked-out situations in Wilmslow frequently involve the town's stock of period properties, particularly the Victorian villas around Alderley Edge and Edwardian semis in Wilmslow Park. Heritage homes often feature original or period-appropriate lock mechanisms that require specialist non-destructive entry knowledge. Modern properties in Fulshaw Park developments present different challenges, with multi-point locking systems and smart integrations that demand current technical understanding. The variety across Wilmslow's housing mix means lockout callouts span everything from traditional mortice locks to contemporary electronic systems.\n\nListed buildings and conservation-area properties across Alderley Edge impose additional constraints on entry methods. Non-destructive techniques become essential where drilling or forcing could damage original joinery, frames, or architectural details that carry statutory protection. Even minor damage to period doors or surrounds can breach planning or conservation requirements, making precision entry work a legal as well as practical necessity in these neighborhoods.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian villa in Alderley Edge \u2013 will you damage the period frames or locks?",
+   "a": "No. Our non-destructive entry techniques preserve original sash frames, heritage locks, and listed building compliance. We specialise in period property access without alteration, which is essential in conservation areas like Alderley Edge."
+  },
+  {
+   "q": "My keys snapped inside the lock of my Edwardian semi on Dean Row \u2013 how quickly can you get me back in?",
+   "a": "We attend locked-out calls across Dean Row typically within the hour. We'll extract the broken key and regain entry without forcing the lock, keeping your period hardware intact and functional."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Wilmslow \u2013 Fast 24/7 Service",
+ "broken-key-removal.meta.description": "Broken key removal in Wilmslow \u2013 expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive service for Edwardian & period homes.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Wilmslow requires a skilled locksmith with expertise in locksmithing techniques to extract snapped or sheared keys safely from your lock. Our technicians use specialised key extractor tools and broken-key probes to address euro cylinders and mortice locks without causing damage. We prioritise non-destructive methods to restore access to your property quickly.",
+ "broken-key-removal.local-context-body": "Wilmslow Park's concentration of Edwardian semis frequently presents broken key scenarios in their original mortice locks and euro cylinders\u2014hardware that has endured a century of use and thermal expansion. Wear on pin mechanisms and cylinder tolerance issues make key fracture more common in period properties than in newer builds, particularly where keys have been turned with force or repeated strain.\n\nListed buildings and conservation-area properties in Alderley Edge introduce additional complexity to key removal work. Extracting broken fragments must proceed without damage to historic lock casings, and replacement hardware often requires matching original specifications or obtaining conservation officer approval. This constraint typically extends job timeframes compared to straightforward modern lock removal.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My key snapped in the euro cylinder of my Edwardian semi in Dean Row \u2013 can you remove it without damaging the lock?",
+   "a": "Yes. We specialise in extracting broken keys from euro cylinders without causing damage to the mechanism \u2013 critical for period properties where lock replacement may require heritage-compliant refitting. We'll remove the key safely and have you back in within the hour."
+  },
+  {
+   "q": "A key broke off in the mortice lock of my Victorian villa near Alderley Edge. Will removal affect the original hardware?",
+   "a": "Our technicians are experienced with period lock mechanisms on listed and heritage properties. We use specialist extraction techniques to remove the broken key while preserving the original mortice lock, then can advise on restoration or period-appropriate replacement if needed."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Wilmslow | Victorian & Period Homes",
+ "burglar-repair-service.meta.description": "Burglar repair service in Wilmslow covering Alderley Edge Victorian properties and period homes. Emergency lock changes, door repairs, insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Wilmslow locksmiths specialise in burglar repair through expert locksmithing, restoring security after forced entry. We assess damage comprehensively, from smashed locks to compromised frames, and install insurance-compliant solutions including TS007 anti-snap cylinders and BS3621 mortice locks. Your home's protection is restored to full standard quickly.",
+ "burglar-repair-service.local-context-body": "Properties in Alderley Edge and across Wilmslow's Victorian villas frequently require specialized post-break-in reinstatement that respects period authenticity. Listed buildings in these conservation areas demand locks and hardware that match original specifications, making insurance-compliant repair more technically involved than standard replacements. Break-in damage to period frames and heritage-listed doors requires both locksmith expertise and conservation-aware fitting practices.\n\nMany properties across the area feature original timber sash windows and period door frames that complicate break-in repair work. Listed-building consent may be needed before replacing damaged locks or frames, adding a compliance layer beyond standard burglar repair timescales. Insurers in affluent areas typically require documented, heritage-appropriate reinstatement\u2014making familiarity with period lock types and local conservation requirements essential for repair contractors.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in at my Edwardian semi in Dean Row, will your repair service restore period-compliant locks?",
+   "a": "Yes. We understand that many properties across Dean Row feature original or heritage-style hardware, and our burglar repair service includes fitting period-appropriate locks and door frames that satisfy both security and listed-property requirements. We'll reinstate your security to insurance-standard while respecting your home's character."
+  },
+  {
+   "q": "I've had a break-in at my new-build in Fulshaw Park. Can you coordinate smart lock replacement with my existing security system?",
+   "a": "Absolutely. Our burglar repair service covers smart lock integration and modern alarm system coordination\u2014essential for newer properties in Fulshaw Park. We'll ensure your replacement hardware works seamlessly with your existing security setup and meets insurance reinstatement standards."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Wilmslow \u2013 24/7 Service",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Wilmslow for period homes and semis. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Wilmslow from our experienced locksmith team combines locksmithing expertise with rapid property protection. Whether you're dealing with smashed windows or damaged doors, our 24/7 service uses robust plywood boards and security screws to create a weatherproof temporary seal. We're fully insurance-compliant, ensuring your property is secured professionally when you need it most.",
+ "emergency-boarding-up.local-context-body": "Period properties across Heathfield Farm and similar interwar developments often feature original timber-framed windows and solid wood doors that require careful boarding techniques to avoid further structural damage. Listed villas in the wider area demand boarding solutions that preserve architectural integrity, particularly around decorative surrounds and heritage glazing bars, making swift yet sympathetic intervention essential after break-ins or storm damage.\n\nMany of Wilmslow's older properties fall under local planning restrictions that govern temporary external modifications. Boarding-up work must account for listed-building consent requirements and the prevalence of period joinery, where standard modern boarding materials can clash visually and structurally. Access during adverse weather\u2014common in the North West\u2014often determines whether emergency boarding happens at night or requires coordination with planning authorities before dawn.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up period properties in Wilmslow Park without damaging original features?",
+   "a": "Yes. Our team understands Edwardian joinery and heritage frames common in Wilmslow Park semis and detached homes. We use temporary boarding methods that protect listed features and allow safe reinstatement of original doors and windows once repairs are arranged."
+  },
+  {
+   "q": "Can you board up windows quickly after a break-in at a Dean Row property?",
+   "a": "Absolutely. We offer same-day emergency boarding for the interwar semis across Dean Row. Our rapid response secures your property, deters further entry, and gives you time to contact your insurer and arrange permanent repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Wilmslow \u2013 Same-Day Service Available",
+ "lock-changes.meta.description": "Lock changes in Wilmslow for period homes and Edwardian semis. Lost keys, moving house, or security upgrades. Fast professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Wilmslow require a skilled locksmith who understands modern locksmithing practices. Whether you're moving home, replacing lost keys, or upgrading security after a tenancy turnover, we fit approved mechanisms including BS3621 mortice locks and TS007 anti-snap cylinders. Our work meets current security standards, ensuring your property protection.",
+ "lock-changes.local-context-body": "Moving home in Fulshaw Park's newer developments typically involves coordinating lock changes with smart home systems already in place, while period properties across Bollin Park\u2014many Victorian and semi-detached\u2014often retain original hardware that may require specialist replacement to preserve character. Lock changes in these mixed neighborhoods span routine modern cylinder swaps through to heritage-sensitive fitting work.\n\nListed properties and period homes throughout Wilmslow frequently demand locks that comply with conservation standards, meaning standard modern replacements may not be permitted without local authority approval. Older properties often have non-standard door frames and jamb depths, requiring locksmiths to source period-appropriate hardware or adapt fitting methods to avoid structural damage.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "We've just moved to a Victorian villa in Alderley Edge\u2014do you replace locks while keeping period features intact?",
+   "a": "Yes, we specialise in heritage-compliant lock changes for period properties across Wilmslow. We'll source and fit locks that match your villa's original character while meeting modern security standards."
+  },
+  {
+   "q": "Our Edwardian semi in Dean Row needs new locks after we've lost the keys\u2014how quickly can you attend?",
+   "a": "We typically attend lock change callouts in Dean Row and surrounding Edwardian properties within 24 hours. Call 01625 351018 to arrange an appointment that suits your moving schedule."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Wilmslow \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Wilmslow for Edwardian & period homes. Multipoint, mortice & night latch fixes. 24/7 emergency service available.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Wilmslow by experienced locksmiths specialising in locksmithing solutions. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair faults efficiently. We handle mortice maintenance and multipoint servicing to restore smooth operation. All work carries a manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Edwardian semis across Dean Row and Pownall Park experience high wear on multipoint and mortice locks due to age and regular use, making repair calls routine. Victorian properties in Chorley similarly present frequent gearbox failures on period doors, where original hardware has reached end-of-life. Lock repair demand in these areas reflects both the prevalence of period mechanisms and the accumulated stress on systems designed decades ago.\n\nListed buildings in Alderley Edge impose additional constraints on lock repairs: replacements must match original specifications and materials, often requiring sourcing of heritage-compliant hardware rather than straightforward like-for-like fixes. Period door frames and materials\u2014typically solid wood with traditional joinery\u2014also affect repair strategy, as forcing or drilling can compromise structural integrity and conservation status. These factors extend repair timescales and necessitate specialist knowledge of period lock types.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Edwardian semi in Wilmslow Park has a sticking multipoint lock \u2013 is this a common issue?",
+   "a": "Yes, multipoint locks on Edwardian semis across Wilmslow Park frequently develop wear in the gearbox after decades of use. We diagnose and repair the internal mechanism on-site, often avoiding the cost of full replacement."
+  },
+  {
+   "q": "I have a listed Victorian villa in Alderley Edge with a broken mortice lock \u2013 can you repair it without replacing the hardware?",
+   "a": "Absolutely. Listed properties in Alderley Edge require heritage-compliant repairs; we specialise in restoring period mortice locks to working order while preserving original fittings and maintaining conservation standards."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Wilmslow \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Wilmslow. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Expert fitting for Edwardian and period properties.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Wilmslow from our trusted locksmith team specialises in modern locksmithing techniques. Whether you're securing new property fittings or upgrading existing security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your home. Many clients choose our services to meet insurance requirements and enhance protection.",
+ "door-lock-installation.local-context-body": "Wilmslow's affluent housing stock\u2014particularly the Victorian villas of Alderley Edge and the Edwardian semis clustered in Dean Row\u2014creates consistent demand for security upgrades to period properties. Many detached and semi-detached homes in areas like Bollin Park combine older original joinery with modern security needs, requiring installers to fit BS3621 mortice locks and TS007 anti-snap cylinders without compromising period aesthetics or structural integrity.\n\nListed-building consent requirements significantly shape door lock installation work across Wilmslow. Properties qualifying as heritage homes often restrict visible lock hardware or require sympathetic fitting methods that preserve original door frames and architraves. Installers must verify listing status before specifying multipoint systems, as external cylinder styles and finishing materials are frequently subject to conservation approval.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you fit heritage-compliant locks on period properties in Alderley Edge?",
+   "a": "Yes. We specialise in installing BS3621 mortice locks and period-appropriate hardware on Victorian villas and listed properties across Alderley Edge, ensuring compliance with conservation requirements while maintaining security standards."
+  },
+  {
+   "q": "Can you install modern anti-snap cylinders on the Edwardian semis in Dean Row?",
+   "a": "Absolutely. We regularly fit TS007 anti-snap cylinders and multipoint locks on Edwardian properties throughout Dean Row and Pownall Park, upgrading security without compromising the character of these homes."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Wilmslow \u2013 Fast Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Wilmslow, including Alderley Edge period properties. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Wilmslow locksmiths specialise in door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades for enhanced security. All work meets current UK standards.",
+ "door-lock-replacement.local-context-body": "Victorian and Edwardian properties across Bollin Park frequently require door lock replacement due to age-related wear on original hardware. Semi-detached homes in this mixed neighbourhood often present varied lock specifications, meaning replacements must account for non-standard door frames and period-appropriate fitting depths that differ from modern standards.\n\nListed properties and period homes throughout Wilmslow demand heritage-compliant lock mechanisms during replacement work. Conservation areas impose restrictions on visible hardware changes, requiring locksmiths to source locks that match original aesthetics while meeting current security standards\u2014a consideration that extends timescales and parts availability compared to straightforward modern replacements.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian villa in Alderley Edge \u2013 can you replace my door lock without damaging period hardware?",
+   "a": "Yes. We specialise in heritage-compliant lock replacements for period properties across Wilmslow. We'll match your existing style and ensure any new lock fits without compromising original joinery or listed-status requirements."
+  },
+  {
+   "q": "My Edwardian semi in Dean Row has a worn lock \u2013 how quickly can you swap it for a modern upgrade?",
+   "a": "We typically respond same-day across Dean Row and Pownall Park. We can replace your lock like-for-like or upgrade to a high-security cylinder, depending on your security needs and the condition of your door frame."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Wilmslow \u2013 Fast Local Service",
+ "door-repairs.meta.description": "Door repairs in Wilmslow for period homes and modern properties. uPVC alignment, composite door realignment, handle repair and hardware fixes.",
+ "door-repairs.hero-paragraph": "Our Wilmslow locksmith team specialises in professional door repairs using expert locksmithing techniques to restore functionality to damaged doors. Whether your uPVC, composite or timber door has dropped, started catching, or won't close properly, we diagnose and repair issues including hinge adjustment, frame alignment and multipoint realignment. Fast, reliable service for Wilmslow residents.",
+ "door-repairs.local-context-body": "Wilmslow's mix of Edwardian semis and interwar detached properties means door alignment and hardware issues are common across the town. Heathfield Farm's concentration of period semis, in particular, sees regular calls for dropped-door repairs and worn hinge replacement\u2014issues exacerbated by settlement in older timber-frame structures where frames shift seasonally.\n\nListed buildings and heritage properties across Wilmslow require period-appropriate hardware and sympathetic repair methods that comply with conservation guidelines. Many Victorian and Edwardian doors feature mortice locks and traditional butt hinges that demand specialist knowledge; standard modern replacements are often unsuitable for these properties' original specifications and local planning constraints.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian villas in Alderley Edge need specialist door repair?",
+   "a": "Victorian properties often have original period frames and hardware that require sympathetic repair to maintain listed-building compliance. Our technicians understand heritage fitting standards and can realign or repair doors without compromising the property's character or regulatory status."
+  },
+  {
+   "q": "How do I know if my Edwardian semi's dropped door needs repair or replacement?",
+   "a": "Doors in the dense Edwardian properties across Dean Row and Pownall Park commonly drop due to age and settlement. We inspect the frame, hinges, and threshold to determine whether realignment and hardware adjustment will restore function, or if replacement is necessary\u2014saving you cost where possible."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Wilmslow \u2013 Same-Day",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Wilmslow. Expert espagnolette and shootbolt fixes for period homes in Alderley Edge, Chorley and across town.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Wilmslow requires specialist locksmithing knowledge that our experienced locksmiths possess. Whether you're dealing with windows that won't lock or broken handles, we address espagnolette mechanisms and shootbolt locks with precision. Our work meets insurance-compliant standards, ensuring your home security is restored properly and reliably.",
+ "window-lock-repair-replacement.local-context-body": "Window locks across Lacey Green's post-war semis and Heathfield Farm's interwar detached properties frequently require repair or replacement due to age-related wear. Espagnolette locks on timber sash windows are particularly common in these neighborhoods, where routine maintenance and upgrades form a steady demand. Modern shootbolt mechanisms are increasingly fitted during replacements to enhance security on period frames without compromising aesthetic integrity.\n\nListed properties and period homes throughout Wilmslow often impose restrictions on lock replacement specifications. Conservation area guidance may require matching original hardware finishes or mechanisms that preserve period character, particularly in Victorian and Edwardian properties. Locksmiths working on window lock jobs must verify building status and any planning conditions before specifying modern fittings, as non-compliant replacements can trigger enforcement action or affect insurance validity.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Edwardian semis in Dean Row often need window lock replacement?",
+   "a": "Edwardian timber frames are prone to subtle settlement and warping, which causes espagnolette locks to jam or fail to engage properly. We specialise in diagnosing and replacing these locks while respecting the period character of your property."
+  },
+  {
+   "q": "Can you repair shootbolt locks on listed properties in Alderley Edge without compromising their heritage status?",
+   "a": "Yes\u2014we carry heritage-compliant window lock hardware and understand the conservation requirements for listed Victorian villas. We'll match period styles and ensure any replacements meet local planning guidance."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Wilmslow \u2013 Trusted Local Service",
+ "safe-installation.meta.description": "Safe installation in Wilmslow for period homes and new builds. Expert anchoring, insurance documentation, wall, floor and freestanding safes.",
+ "safe-installation.hero-paragraph": "Our Wilmslow locksmith team specialises in safe installation and locksmithing services designed to protect your valuables. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians use anti-leverage positioning methods to guarantee maximum security and durability for your installation.",
+ "safe-installation.local-context-body": "Properties across Fulshaw Park's newer detached developments frequently require safe installation as part of comprehensive home security upgrades, while period villas in the surrounding area demand careful positioning to avoid structural compromise of original masonry and listed-building constraints. The variety of property ages means safes must accommodate everything from modern cavity walls to solid stone construction, with anchoring specifications varying significantly between new-build and heritage homes.\n\nListed-building consent often governs safe installation in Wilmslow's older stock, particularly where wall penetration or floor anchoring would affect period features or external appearance. Insurance documentation requirements typically necessitate professional installation with photographic evidence of anchoring method and wall composition assessment\u2014a consideration that shapes both the technical approach and the timeline for completion across the town's mixed housing portfolio.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do listed properties in Alderley Edge need specialist safe installation?",
+   "a": "Listed homes require safes that don't compromise period features or structural integrity. We ensure anchoring methods comply with conservation standards while maintaining insurance cover\u2014essential for the heritage villas common across Wilmslow."
+  },
+  {
+   "q": "What makes safe installation different for new-builds in Fulshaw Park?",
+   "a": "New properties often have concrete slab foundations ideal for floor safes, and many owners want smart lock integration alongside physical security. We coordinate safe placement with your home's modern wiring and security systems from the outset."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Wilmslow \u2013 Fast & Trusted Service",
+ "safe-opening.meta.description": "Safe opening in Wilmslow & Alderley Edge. Non-destructive opening for lost keys, combinations, jammed safes. Domestic and commercial. Expert service.",
+ "safe-opening.hero-paragraph": "Our Wilmslow locksmith team specialises in safe opening using advanced locksmithing techniques that preserve your security. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to regain access without damage. Our technicians prioritise protecting your safe's integrity throughout every job.",
+ "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Fulshaw Park's detached properties and throughout Wilmslow's period homes, where householders often store valuables, documents, and heirlooms. Lost combinations and misplaced keys are frequent scenarios, particularly in older properties where safes have been inherited or passed between owners without documentation. Non-destructive opening becomes essential when access is needed without damaging irreplaceable fixtures or voiding any remaining manufacturer warranties.\n\nMany of Wilmslow's listed and heritage properties feature safes installed within period walls and furniture; opening these requires familiarity with older locking mechanisms and techniques that avoid damage to surrounding period fabric. Newer builds in the area increasingly contain modern electronic safes, which demand different diagnostic approaches. Local safe-opening work must account for both heritage constraints and the variety of mechanisms present across the town's mixed housing stock.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian villa in Alderley Edge with a period safe I can't open\u2014will non-destructive opening damage the original fittings?",
+   "a": "No. Our non-destructive safe opening methods preserve heritage-listed fixtures and period metalwork, which is essential in Alderley Edge's conservation areas. We specialise in opening vintage safes without compromising their authenticity or value."
+  },
+  {
+   "q": "We've just moved into a new-build property in Fulshaw Park and the previous owner's electronic safe won't open\u2014can you help without waiting weeks?",
+   "a": "Yes. We offer same-day non-destructive safe opening for modern electronic and combination safes common in Fulshaw Park's newer developments, restoring your access quickly without damage to the unit or your security system."
+  }
+ ],
+ "home.areas-covered": [
+  "Colshaw Farm",
+  "Dean Row",
+  "Fulshaw Park",
+  "Pownall Park",
+  "Wilmslow Park"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "locked-out.areas-covered": [
+  "Colshaw Farm",
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Dean Row",
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Colshaw Farm"
+ ],
+ "lock-changes.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "lock-repairs.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Wilmslow Park",
+  "Pownall Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Fulshaw Park",
+  "Pownall Park",
+  "Wilmslow Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "door-repairs.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "safe-installation.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ],
+ "safe-opening.areas-covered": [
+  "Pownall Park",
+  "Wilmslow Park",
+  "Fulshaw Park",
+  "Dean Row",
+  "Colshaw Farm"
+ ]
 }

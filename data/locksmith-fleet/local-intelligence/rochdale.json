@@ -1,203 +1,232 @@
 {
-  "location": "Rochdale",
-  "neighborhoods": [
-    {
-      "name": "Spotland Bridge",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "town centre fringe, mixed residential and commercial"
-    },
-    {
-      "name": "Greengate",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "historic town core, listed buildings"
-    },
-    {
-      "name": "Deeplish",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "densely populated, student HMO areas"
-    },
-    {
-      "name": "Kirkholt",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "large social housing stock"
-    },
-    {
-      "name": "Healey",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential, family homes"
-    },
-    {
-      "name": "Castleton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Wardle",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Sudden",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Firgrove",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Newbold",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Marland",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Shawclough",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Balderstone",
-      "era": "mixed",
-      "types": [
-        "semi-detached",
-        "modern"
-      ]
-    },
-    {
-      "name": "Belfield",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Thornham",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian terrace",
-      "post-war semi-detached",
-      "council estate"
-    ],
-    "era": "predominantly pre-1945 Victorian and Edwardian, substantial post-war social housing",
-    "notable": "High density HMO conversion in Deeplish and town-centre areas; significant older locked properties with worn mechanisms across terraced stock."
+ "location": "Rochdale",
+ "neighborhoods": [
+  {
+   "name": "Spotland Bridge",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "town centre fringe, mixed residential and commercial"
   },
-  "locksmith_relevant": [
-    "Deeplish's dense student HMO sector drives demand for multi-point locks, rekeying, and rapid access services during turnovers.",
-    "Victorian terraced stock across Greengate and Shawclough often requires specialist sash-lock repair and period-appropriate hardware sourcing.",
-    "Large council estates (Kirkholt, Marland) mean high volume emergency callouts for standardised lock maintenance and replacement on aging units."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Rochdale",
-    "overpass": "OSM Overpass bbox query, 26 named areas",
-    "coords": {
-      "lat": 53.6153659,
-      "lon": -2.1557561
-    }
+  {
+   "name": "Greengate",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "historic town core, listed buildings"
   },
-  "generated_at": "2026-05-13T12:23:56.528Z",
-  "all_areas": [
-    "Balderstone",
-    "Belfield",
-    "Broadley",
-    "Buersil",
-    "Castleton",
-    "Cutgate",
-    "Deeplish",
-    "Firgrove",
-    "Great Howarth",
-    "Greengate",
-    "Healey",
-    "Hurstead",
-    "Kirkholt",
-    "Lower Place",
-    "Marland",
-    "Newbold",
-    "Newbold Brow",
-    "Shawclough",
-    "Smallbridge",
-    "Spotland Bridge",
-    "Sudden",
-    "Syke",
-    "Thornham",
-    "Trub",
-    "Wardle",
-    "Wardleworth"
-  ],
-  "geo": {
-    "latitude": 53.6153659,
-    "longitude": -2.1557561
+  {
+   "name": "Deeplish",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "densely populated, student HMO areas"
   },
-  "postcode_districts": [
-    "OL11",
-    "OL12",
-    "OL16"
-  ],
-  "postcode_meta": {
-    "OL12": {
-      "count": 6,
-      "sample": "OL12 9LA",
-      "admin": "Rochdale"
-    },
-    "OL16": {
-      "count": 8,
-      "sample": "OL16 2BJ",
-      "admin": "Rochdale"
-    },
-    "OL11": {
-      "count": 4,
-      "sample": "OL11 3EY",
-      "admin": "Rochdale"
-    }
+  {
+   "name": "Kirkholt",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "large social housing stock"
+  },
+  {
+   "name": "Healey",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential, family homes"
+  },
+  {
+   "name": "Castleton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Wardle",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Sudden",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Firgrove",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Newbold",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Marland",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Shawclough",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Balderstone",
+   "era": "mixed",
+   "types": [
+    "semi-detached",
+    "modern"
+   ]
+  },
+  {
+   "name": "Belfield",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Thornham",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian terrace",
+   "post-war semi-detached",
+   "council estate"
+  ],
+  "era": "predominantly pre-1945 Victorian and Edwardian, substantial post-war social housing",
+  "notable": "High density HMO conversion in Deeplish and town-centre areas; significant older locked properties with worn mechanisms across terraced stock."
+ },
+ "locksmith_relevant": [
+  "Deeplish's dense student HMO sector drives demand for multi-point locks, rekeying, and rapid access services during turnovers.",
+  "Victorian terraced stock across Greengate and Shawclough often requires specialist sash-lock repair and period-appropriate hardware sourcing.",
+  "Large council estates (Kirkholt, Marland) mean high volume emergency callouts for standardised lock maintenance and replacement on aging units."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Rochdale",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Rochdale admin area), 55 named areas",
+  "coords": {
+   "lat": 53.6153659,
+   "lon": -2.1557561
+  }
+ },
+ "generated_at": "2026-05-13T12:23:56.528Z",
+ "all_areas": [
+  "Alkrington",
+  "Back o' th' Moss",
+  "Bagslate Moor",
+  "Balderstone",
+  "Bamford",
+  "Belfield",
+  "Bottom o' th' Brow",
+  "Broadfield",
+  "Broadhalgh",
+  "Buersil",
+  "Calderbrook",
+  "Caldermoor",
+  "Captain Fold",
+  "Castleton",
+  "Clough",
+  "Crimble",
+  "Cutgate",
+  "Dearnley",
+  "Deeplish",
+  "Firgrove",
+  "Great Howarth",
+  "Greengate",
+  "Haugh",
+  "Heap Bridge",
+  "Hooley Bridge",
+  "Hooley Brow",
+  "Hopwood",
+  "Hurstead",
+  "Kirkholt",
+  "Lady House",
+  "Lane End",
+  "Langley",
+  "Lower Place",
+  "Marland",
+  "Newbold",
+  "Newbold Brow",
+  "Newhey",
+  "Norden",
+  "Rhodes",
+  "Shawclough",
+  "Shawfield",
+  "Shore",
+  "Siddal Moor",
+  "Smallbridge",
+  "Smithy Bridge",
+  "Spotland Bridge",
+  "Stanycliffe",
+  "Sudden",
+  "Summit",
+  "Syke",
+  "Timbercliffe",
+  "Trub",
+  "Wardle",
+  "Wardleworth",
+  "Wood Side"
+ ],
+ "geo": {
+  "latitude": 53.6153659,
+  "longitude": -2.1557561
+ },
+ "postcode_districts": [
+  "OL11",
+  "OL12",
+  "OL16"
+ ],
+ "postcode_meta": {
+  "OL12": {
+   "count": 6,
+   "sample": "OL12 9LA",
+   "admin": "Rochdale"
+  },
+  "OL16": {
+   "count": 8,
+   "sample": "OL16 2BJ",
+   "admin": "Rochdale"
+  },
+  "OL11": {
+   "count": 4,
+   "sample": "OL11 3EY",
+   "admin": "Rochdale"
+  }
+ }
 }

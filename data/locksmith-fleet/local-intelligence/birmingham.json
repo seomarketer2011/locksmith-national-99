@@ -1,588 +1,511 @@
 {
-  "location": "Birmingham",
-  "neighborhoods": [
-    {
-      "name": "Edgbaston",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "conservation area, listed buildings"
-    },
-    {
-      "name": "Harborne",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "affluent residential, period properties"
-    },
-    {
-      "name": "Handsworth",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mixed tenure, diverse community"
-    },
-    {
-      "name": "Bournville",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "cottage"
-      ],
-      "notes": "planned estate, Cadbury model village heritage"
-    },
-    {
-      "name": "Hall Green",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban family homes"
-    },
-    {
-      "name": "Erdington",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Aston",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "inner-city mixed-use, high HMO density"
-    },
-    {
-      "name": "Digbeth",
-      "era": "Victorian",
-      "types": [
-        "flat",
-        "warehouse conversion"
-      ],
-      "notes": "regeneration area, loft conversions and student lets"
-    },
-    {
-      "name": "Castle Bromwich",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Frankley",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Great Barr",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Alum Rock",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "diverse community, high density"
-    },
-    {
-      "name": "Cotteridge",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Four Oaks",
-      "era": "Edwardian",
-      "types": [
-        "villa",
-        "detached"
-      ],
-      "notes": "affluent suburban area"
-    },
-    {
-      "name": "Bearwood",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Moseley",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "conservation area, trendy residential"
-    },
-    {
-      "name": "Kings Heath",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terraced",
-      "semi-detached",
-      "Victorian/Edwardian villas"
-    ],
-    "era": "mixed Victorian and interwar with substantial post-war suburbs",
-    "notable": "High concentration of period properties with original locks and mechanisms; extensive terraced housing in inner city requiring regular rekeying; growing student HMO sector in Digbeth and Aston."
+ "location": "Birmingham",
+ "neighborhoods": [
+  {
+   "name": "Edgbaston",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "conservation area, listed buildings"
   },
-  "locksmith_relevant": [
-    "Victorian terraces and villas dominate central areas; many have original period locks requiring specialist knowledge and parts.",
-    "High HMO density in Aston, Digbeth and inner suburbs drives frequent tenant changes and lock replacements.",
-    "Post-war council estates in Frankley and Great Barr have aging lock systems due for modernization and repair."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Birmingham",
-    "overpass": "OSM Overpass bbox query, 170 named areas",
-    "coords": {
-      "lat": 52.4948994,
-      "lon": -1.8518439
-    }
+  {
+   "name": "Harborne",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "affluent residential, period properties"
   },
-  "generated_at": "2026-05-13T12:13:35.908Z",
-  "all_areas": [
-    "Acocks Green",
-    "Alum Rock",
-    "Alumwell",
-    "Aston",
-    "Attwood Green",
-    "Balsall Heath",
-    "Barr Common",
-    "Bartley Green",
-    "Bearwood",
-    "Bentley",
-    "Bentley Heath",
-    "Bescot",
-    "Billesley",
-    "Birchfield",
-    "Birchills",
-    "Blossomfield",
-    "Boldmere",
-    "Bordesley",
-    "Bordesley Green",
-    "Bournbrook",
-    "Bournville",
-    "Brandhall",
-    "Brandwood End",
-    "Brookvale Village",
-    "Buckland End",
-    "Caldmore",
-    "California",
-    "Castle Bromwich",
-    "Castle Vale",
-    "Causeway Green",
-    "Chad Valley",
-    "Chinese Quarter",
-    "Coal Pool",
-    "Cotteridge",
-    "Curdworth",
-    "Darlaston Green",
-    "Daw End",
-    "Dickens Heath",
-    "Digbeth",
-    "Druids Heath",
-    "Edgbaston",
-    "Elmdon Heath",
-    "Erdington",
-    "Fallings Heath",
-    "Fordbridge",
-    "Four Oaks",
-    "Fox Hollies",
-    "Frankley",
-    "Garretts Green",
-    "Gillity Village",
-    "Gravelly Hill",
-    "Great Barr",
-    "Greet",
-    "Hall End",
-    "Hall Green",
-    "Hamstead",
-    "Handsworth",
-    "Handsworth Wood",
-    "Harborne",
-    "Harden",
-    "Haslucks Green",
-    "Hawkesley",
-    "Hay Mills",
-    "Highgate",
-    "Highters Heath",
-    "Hill Top",
-    "Hockley Port",
-    "Hodge Hill",
-    "Hollywood",
-    "Jewellery Quarter",
-    "Kineton Green",
-    "Kings Heath",
-    "Kings Norton",
-    "Kingshurst",
-    "Kingstanding",
-    "King’s Hill",
-    "Kitts Green",
-    "Knowle",
-    "Ladywood",
-    "Lane Head",
-    "Langley Green",
-    "Langley Village",
-    "Lapal",
-    "Leamore",
-    "Lifford",
-    "Little Aston",
-    "Little Sutton",
-    "Londonderry",
-    "Longbridge",
-    "Lozells",
-    "Lyndon Green",
-    "Marston Green",
-    "Masefield",
-    "Mere Green",
-    "Metchley",
-    "Middleton",
-    "Minworth",
-    "Monkspath",
-    "Moseley",
-    "Nechells",
-    "New Mills",
-    "New Oscott",
-    "Newtown",
-    "Northfield",
-    "Olton",
-    "Palfrey",
-    "Park Central",
-    "Park Hall",
-    "Perry Barr",
-    "Perry Beeches",
-    "Pheasey",
-    "Pleck",
-    "Queslett",
-    "Quinton",
-    "Rea Valley",
-    "Rednal",
-    "Rood End",
-    "Rubery",
-    "Rushall",
-    "Ryecroft",
-    "Saltley",
-    "Selly Oak",
-    "Selly Park",
-    "Shard End",
-    "Sharmans Cross",
-    "Sheldon",
-    "Shenley Fields",
-    "Short Heath",
-    "Small Heath",
-    "Smith's Wood",
-    "Solihull Lodge",
-    "Sparkbrook",
-    "Sparkhill",
-    "Springfield",
-    "Stechford",
-    "Stirchley",
-    "Stockland Green",
-    "Streetly",
-    "The Chuckery",
-    "The Delves",
-    "The Flatts",
-    "The Woods",
-    "Tile Cross",
-    "Tower Hill",
-    "Turves Green",
-    "Tyburn",
-    "Tyseley",
-    "Ulverley Green",
-    "Upper Witton",
-    "Vauxhall",
-    "Wake Green",
-    "Walkers Heath",
-    "Walmley",
-    "Ward End",
-    "Warley Salop",
-    "Warley Wigorn",
-    "Warstock",
-    "Washwood Heath",
-    "Water Orton",
-    "Weoley Castle",
-    "West Heath",
-    "Whiteheath Gate",
-    "Winson Green",
-    "Wood Green",
-    "Woodgate",
-    "Wylde Green",
-    "Yardley",
-    "Yardley Wood",
-    "Yew Tree",
-    "Yew Tree & Tame Bridge Neighbourhood Centre"
-  ],
-  "geo": {
-    "latitude": 52.4948994,
-    "longitude": -1.8518439
+  {
+   "name": "Handsworth",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mixed tenure, diverse community"
   },
-  "postcode_districts": [
-    "B10",
-    "B11",
-    "B12",
-    "B13",
-    "B14",
-    "B15",
-    "B16",
-    "B17",
-    "B18",
-    "B19",
-    "B20",
-    "B21",
-    "B23",
-    "B24",
-    "B25",
-    "B26",
-    "B27",
-    "B28",
-    "B29",
-    "B30",
-    "B31",
-    "B32",
-    "B33",
-    "B34",
-    "B35",
-    "B36",
-    "B38",
-    "B42",
-    "B44",
-    "B45",
-    "B5",
-    "B7",
-    "B72",
-    "B73",
-    "B74",
-    "B75",
-    "B76",
-    "B8",
-    "B9"
-  ],
-  "postcode_meta": {
-    "B76": {
-      "count": 2,
-      "sample": "B76 1GE",
-      "admin": "Birmingham"
-    },
-    "B73": {
-      "count": 1,
-      "sample": "B73 5UW",
-      "admin": "Birmingham"
-    },
-    "B72": {
-      "count": 1,
-      "sample": "B72 1DU",
-      "admin": "Birmingham"
-    },
-    "B75": {
-      "count": 2,
-      "sample": "B75 6QL",
-      "admin": "Birmingham"
-    },
-    "B74": {
-      "count": 1,
-      "sample": "B74 4TS",
-      "admin": "Birmingham"
-    },
-    "B23": {
-      "count": 5,
-      "sample": "B23 6RS",
-      "admin": "Birmingham"
-    },
-    "B24": {
-      "count": 1,
-      "sample": "B24 8NU",
-      "admin": "Birmingham"
-    },
-    "B31": {
-      "count": 5,
-      "sample": "B31 2JA",
-      "admin": "Birmingham"
-    },
-    "B34": {
-      "count": 2,
-      "sample": "B34 6LD",
-      "admin": "Birmingham"
-    },
-    "B33": {
-      "count": 4,
-      "sample": "B33 9SX",
-      "admin": "Birmingham"
-    },
-    "B26": {
-      "count": 2,
-      "sample": "B26 2NP",
-      "admin": "Birmingham"
-    },
-    "B27": {
-      "count": 1,
-      "sample": "B27 6QP",
-      "admin": "Birmingham"
-    },
-    "B15": {
-      "count": 4,
-      "sample": "B15 3BU",
-      "admin": "Birmingham"
-    },
-    "B21": {
-      "count": 1,
-      "sample": "B21 9PR",
-      "admin": "Birmingham"
-    },
-    "B42": {
-      "count": 4,
-      "sample": "B42 2UH",
-      "admin": "Birmingham"
-    },
-    "B44": {
-      "count": 3,
-      "sample": "B44 9SU",
-      "admin": "Birmingham"
-    },
-    "B18": {
-      "count": 3,
-      "sample": "B18 4QA",
-      "admin": "Birmingham"
-    },
-    "B20": {
-      "count": 1,
-      "sample": "B20 3LY",
-      "admin": "Birmingham"
-    },
-    "B11": {
-      "count": 5,
-      "sample": "B11 2DE",
-      "admin": "Birmingham"
-    },
-    "B28": {
-      "count": 3,
-      "sample": "B28 9EF",
-      "admin": "Birmingham"
-    },
-    "B10": {
-      "count": 1,
-      "sample": "B10 0UT",
-      "admin": "Birmingham"
-    },
-    "B9": {
-      "count": 2,
-      "sample": "B9 5HL",
-      "admin": "Birmingham"
-    },
-    "B25": {
-      "count": 1,
-      "sample": "B25 8SX",
-      "admin": "Birmingham"
-    },
-    "B14": {
-      "count": 5,
-      "sample": "B14 7DD",
-      "admin": "Birmingham"
-    },
-    "B35": {
-      "count": 1,
-      "sample": "B35 7PR",
-      "admin": "Birmingham"
-    },
-    "B12": {
-      "count": 2,
-      "sample": "B12 8NN",
-      "admin": "Birmingham"
-    },
-    "B17": {
-      "count": 1,
-      "sample": "B17 9PN",
-      "admin": "Birmingham"
-    },
-    "B5": {
-      "count": 3,
-      "sample": "B5 5SU",
-      "admin": "Birmingham"
-    },
-    "B13": {
-      "count": 3,
-      "sample": "B13 8DD",
-      "admin": "Birmingham"
-    },
-    "B8": {
-      "count": 4,
-      "sample": "B8 1NA",
-      "admin": "Birmingham"
-    },
-    "B19": {
-      "count": 2,
-      "sample": "B19 2SX",
-      "admin": "Birmingham"
-    },
-    "B36": {
-      "count": 1,
-      "sample": "B36 8EG",
-      "admin": "Birmingham"
-    },
-    "B32": {
-      "count": 2,
-      "sample": "B32 4AJ",
-      "admin": "Birmingham"
-    },
-    "B29": {
-      "count": 6,
-      "sample": "B29 6NF",
-      "admin": "Birmingham"
-    },
-    "B30": {
-      "count": 4,
-      "sample": "B30 1LA",
-      "admin": "Birmingham"
-    },
-    "B38": {
-      "count": 3,
-      "sample": "B38 9TJ",
-      "admin": "Birmingham"
-    },
-    "B45": {
-      "count": 1,
-      "sample": "B45 8QG",
-      "admin": "Birmingham"
-    },
-    "B16": {
-      "count": 1,
-      "sample": "B16 8RP",
-      "admin": "Birmingham"
-    },
-    "B7": {
-      "count": 2,
-      "sample": "B7 5QU",
-      "admin": "Birmingham"
-    }
+  {
+   "name": "Bournville",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "cottage"
+   ],
+   "notes": "planned estate, Cadbury model village heritage"
+  },
+  {
+   "name": "Hall Green",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban family homes"
+  },
+  {
+   "name": "Erdington",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Aston",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "inner-city mixed-use, high HMO density"
+  },
+  {
+   "name": "Digbeth",
+   "era": "Victorian",
+   "types": [
+    "flat",
+    "warehouse conversion"
+   ],
+   "notes": "regeneration area, loft conversions and student lets"
+  },
+  {
+   "name": "Castle Bromwich",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Frankley",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Great Barr",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Alum Rock",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "diverse community, high density"
+  },
+  {
+   "name": "Cotteridge",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Four Oaks",
+   "era": "Edwardian",
+   "types": [
+    "villa",
+    "detached"
+   ],
+   "notes": "affluent suburban area"
+  },
+  {
+   "name": "Bearwood",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Moseley",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "conservation area, trendy residential"
+  },
+  {
+   "name": "Kings Heath",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terraced",
+   "semi-detached",
+   "Victorian/Edwardian villas"
+  ],
+  "era": "mixed Victorian and interwar with substantial post-war suburbs",
+  "notable": "High concentration of period properties with original locks and mechanisms; extensive terraced housing in inner city requiring regular rekeying; growing student HMO sector in Digbeth and Aston."
+ },
+ "locksmith_relevant": [
+  "Victorian terraces and villas dominate central areas; many have original period locks requiring specialist knowledge and parts.",
+  "High HMO density in Aston, Digbeth and inner suburbs drives frequent tenant changes and lock replacements.",
+  "Post-war council estates in Frankley and Great Barr have aging lock systems due for modernization and repair."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Birmingham",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Birmingham admin area), 93 named areas",
+  "coords": {
+   "lat": 52.4948994,
+   "lon": -1.8518439
+  }
+ },
+ "generated_at": "2026-05-13T12:13:35.908Z",
+ "all_areas": [
+  "Acocks Green",
+  "Alum Rock",
+  "Aston",
+  "Balsall Heath",
+  "Bartley Green",
+  "Billesley",
+  "Birchfield",
+  "Boldmere",
+  "Bordesley",
+  "Bordesley Green",
+  "Bournbrook",
+  "Bournville",
+  "Brandwood End",
+  "Buckland End",
+  "California",
+  "Castle Vale",
+  "Cotteridge",
+  "Digbeth",
+  "Druids Heath",
+  "Edgbaston",
+  "Erdington",
+  "Four Oaks",
+  "Fox Hollies",
+  "Frankley",
+  "Garretts Green",
+  "Gravelly Hill",
+  "Greet",
+  "Hall Green",
+  "Hamstead",
+  "Handsworth",
+  "Harborne",
+  "Hawkesley",
+  "Hay Mills",
+  "Highgate",
+  "Highters Heath",
+  "Hockley Port",
+  "Hodge Hill",
+  "Jewellery Quarter",
+  "Kings Heath",
+  "Kings Norton",
+  "Kingstanding",
+  "Kitts Green",
+  "Ladywood",
+  "Lifford",
+  "Little Sutton",
+  "Longbridge",
+  "Lozells",
+  "Lyndon Green",
+  "Mere Green",
+  "Metchley",
+  "Minworth",
+  "Moseley",
+  "Nechells",
+  "New Oscott",
+  "Northfield",
+  "Park Central",
+  "Perry Barr",
+  "Perry Beeches",
+  "Queslett",
+  "Rea Valley",
+  "Rednal",
+  "Saltley",
+  "Selly Oak",
+  "Selly Park",
+  "Shard End",
+  "Sheldon",
+  "Shenley Fields",
+  "Short Heath",
+  "Small Heath",
+  "Sparkbrook",
+  "Sparkhill",
+  "Springfield",
+  "Stechford",
+  "Stirchley",
+  "Stockland Green",
+  "Tile Cross",
+  "Turves Green",
+  "Tyburn",
+  "Tyseley",
+  "Vauxhall",
+  "Wake Green",
+  "Walkers Heath",
+  "Walmley",
+  "Ward End",
+  "Warstock",
+  "Washwood Heath",
+  "Weoley Castle",
+  "West Heath",
+  "Winson Green",
+  "Woodgate",
+  "Wylde Green",
+  "Yardley",
+  "Yardley Wood"
+ ],
+ "geo": {
+  "latitude": 52.4948994,
+  "longitude": -1.8518439
+ },
+ "postcode_districts": [
+  "B10",
+  "B11",
+  "B12",
+  "B13",
+  "B14",
+  "B15",
+  "B16",
+  "B17",
+  "B18",
+  "B19",
+  "B20",
+  "B21",
+  "B23",
+  "B24",
+  "B25",
+  "B26",
+  "B27",
+  "B28",
+  "B29",
+  "B30",
+  "B31",
+  "B32",
+  "B33",
+  "B34",
+  "B35",
+  "B36",
+  "B38",
+  "B42",
+  "B44",
+  "B45",
+  "B5",
+  "B7",
+  "B72",
+  "B73",
+  "B74",
+  "B75",
+  "B76",
+  "B8",
+  "B9"
+ ],
+ "postcode_meta": {
+  "B76": {
+   "count": 2,
+   "sample": "B76 1GE",
+   "admin": "Birmingham"
+  },
+  "B73": {
+   "count": 1,
+   "sample": "B73 5UW",
+   "admin": "Birmingham"
+  },
+  "B72": {
+   "count": 1,
+   "sample": "B72 1DU",
+   "admin": "Birmingham"
+  },
+  "B75": {
+   "count": 2,
+   "sample": "B75 6QL",
+   "admin": "Birmingham"
+  },
+  "B74": {
+   "count": 1,
+   "sample": "B74 4TS",
+   "admin": "Birmingham"
+  },
+  "B23": {
+   "count": 5,
+   "sample": "B23 6RS",
+   "admin": "Birmingham"
+  },
+  "B24": {
+   "count": 1,
+   "sample": "B24 8NU",
+   "admin": "Birmingham"
+  },
+  "B31": {
+   "count": 5,
+   "sample": "B31 2JA",
+   "admin": "Birmingham"
+  },
+  "B34": {
+   "count": 2,
+   "sample": "B34 6LD",
+   "admin": "Birmingham"
+  },
+  "B33": {
+   "count": 4,
+   "sample": "B33 9SX",
+   "admin": "Birmingham"
+  },
+  "B26": {
+   "count": 2,
+   "sample": "B26 2NP",
+   "admin": "Birmingham"
+  },
+  "B27": {
+   "count": 1,
+   "sample": "B27 6QP",
+   "admin": "Birmingham"
+  },
+  "B15": {
+   "count": 4,
+   "sample": "B15 3BU",
+   "admin": "Birmingham"
+  },
+  "B21": {
+   "count": 1,
+   "sample": "B21 9PR",
+   "admin": "Birmingham"
+  },
+  "B42": {
+   "count": 4,
+   "sample": "B42 2UH",
+   "admin": "Birmingham"
+  },
+  "B44": {
+   "count": 3,
+   "sample": "B44 9SU",
+   "admin": "Birmingham"
+  },
+  "B18": {
+   "count": 3,
+   "sample": "B18 4QA",
+   "admin": "Birmingham"
+  },
+  "B20": {
+   "count": 1,
+   "sample": "B20 3LY",
+   "admin": "Birmingham"
+  },
+  "B11": {
+   "count": 5,
+   "sample": "B11 2DE",
+   "admin": "Birmingham"
+  },
+  "B28": {
+   "count": 3,
+   "sample": "B28 9EF",
+   "admin": "Birmingham"
+  },
+  "B10": {
+   "count": 1,
+   "sample": "B10 0UT",
+   "admin": "Birmingham"
+  },
+  "B9": {
+   "count": 2,
+   "sample": "B9 5HL",
+   "admin": "Birmingham"
+  },
+  "B25": {
+   "count": 1,
+   "sample": "B25 8SX",
+   "admin": "Birmingham"
+  },
+  "B14": {
+   "count": 5,
+   "sample": "B14 7DD",
+   "admin": "Birmingham"
+  },
+  "B35": {
+   "count": 1,
+   "sample": "B35 7PR",
+   "admin": "Birmingham"
+  },
+  "B12": {
+   "count": 2,
+   "sample": "B12 8NN",
+   "admin": "Birmingham"
+  },
+  "B17": {
+   "count": 1,
+   "sample": "B17 9PN",
+   "admin": "Birmingham"
+  },
+  "B5": {
+   "count": 3,
+   "sample": "B5 5SU",
+   "admin": "Birmingham"
+  },
+  "B13": {
+   "count": 3,
+   "sample": "B13 8DD",
+   "admin": "Birmingham"
+  },
+  "B8": {
+   "count": 4,
+   "sample": "B8 1NA",
+   "admin": "Birmingham"
+  },
+  "B19": {
+   "count": 2,
+   "sample": "B19 2SX",
+   "admin": "Birmingham"
+  },
+  "B36": {
+   "count": 1,
+   "sample": "B36 8EG",
+   "admin": "Birmingham"
+  },
+  "B32": {
+   "count": 2,
+   "sample": "B32 4AJ",
+   "admin": "Birmingham"
+  },
+  "B29": {
+   "count": 6,
+   "sample": "B29 6NF",
+   "admin": "Birmingham"
+  },
+  "B30": {
+   "count": 4,
+   "sample": "B30 1LA",
+   "admin": "Birmingham"
+  },
+  "B38": {
+   "count": 3,
+   "sample": "B38 9TJ",
+   "admin": "Birmingham"
+  },
+  "B45": {
+   "count": 1,
+   "sample": "B45 8QG",
+   "admin": "Birmingham"
+  },
+  "B16": {
+   "count": 1,
+   "sample": "B16 8RP",
+   "admin": "Birmingham"
+  },
+  "B7": {
+   "count": 2,
+   "sample": "B7 5QU",
+   "admin": "Birmingham"
+  }
+ }
 }

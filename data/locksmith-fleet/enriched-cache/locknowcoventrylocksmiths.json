@@ -1,581 +1,397 @@
 {
-  "meta.title": "Locksmith Coventry | Local Locksmithing Service 24/7",
-  "meta.description": "Locknow Locksmith in Coventry: 24/7 emergency call-outs, lock repairs, changes and security upgrades for period properties, semis and modern homes.",
-  "home.hero-paragraph": "Coventry locksmith services from a qualified locksmithing professional offer emergency lock help when you need it most. We specialise in emergency lockouts, lock changes, and security upgrades. All work is completed using non-destructive entry methods, and our DBS-checked technicians are available 24/7 with no call-out fee.",
-  "home.local-context-heading": "Coventry's Mixed Heritage, Modern Security Needs",
-  "home.local-context-body": "Coventry's mixed Victorian and post-war housing stock creates varied lock maintenance needs. Semi-detached homes across the 1960s–70s suburbs often contain original period locks alongside modern replacements, requiring locksmiths familiar with both systems. In commuter villages like Berkswell, period properties with original mechanisms need specialist handling to avoid damage during servicing or rekeying.\n\nCity centre rental conversions and student accommodation frequently require access system updates and rekeying between tenants. Landlords should be aware that HMO regulations may affect lock specifications and access control standards. Post-war suburban estates commonly feature standard door types from multiple eras, and choosing compatible hardware during repairs or upgrades prevents future fitting issues.",
-  "home.local-faqs": [
-    {
-      "q": "We've just moved to a post-war semi in Bedworth Heath. Should we rekey the locks?",
-      "a": "Yes—many post-war semis retain original locks that may no longer be secure or compatible with modern keys. We can assess your existing locks and upgrade to modern cylinders while preserving period aesthetics if required."
-    },
-    {
-      "q": "Our rental flat in Coventry city centre needs new access control. What's standard?",
-      "a": "City centre conversions vary widely in security standards. We recommend rekeying all tenant-occupied flats and installing modern pin-tumbler locks or electronic access systems to meet landlord insurance and tenant safety requirements."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Coventry – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Coventry. Locked out or key snapped? Fast response for semis, terraces and post-war homes. Non-destructive entry, urgent repairs.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Coventry combines expert locksmithing with rapid response times to resolve lockouts and snapped keys when you need us most. Available 24/7, our DBS-checked technicians employ non-destructive entry methods to minimise damage to your property. Whether you're locked out of your home or business, we prioritise swift, professional access restoration.",
-  "emergency-locksmith.local-context-body": "Coventry's post-war suburban estates, particularly in areas like Bell Green, feature semi-detached and terrace properties where emergency lockouts are frequent among both owner-occupiers and rental tenants. The mixed quality of locks in these properties—some original period mechanisms alongside modern replacements—means emergency calls often require assessment of both traditional and contemporary security hardware before access can be regained quickly.\n\nThe city's high proportion of rental and student accommodation, especially in converted Victorian properties like those in Courthouse Green and near university zones, creates additional urgency around emergency lock failures. Many of these properties operate under HMO licensing requirements, where access disputes and security updates after tenant turnover demand rapid, compliant solutions that respect both landlord obligations and existing door construction standards.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my flat in Cannon Park – how quickly can you arrive?",
-      "a": "We're based in Coventry and aim to reach Cannon Park within 30–45 minutes for emergency lockouts. University-area rentals often have non-standard locks, so we carry multiple tools and can usually open doors without damage."
-    },
-    {
-      "q": "My Victorian terrace in Courthouse Green has a snapped key in the original lock – can you help?",
-      "a": "Yes – period locks in older Coventry terraces are our specialty. We can extract the broken key and either repair the original mechanism or fit a modern replacement, depending on what works best for your door."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Coventry | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Coventry? Fast non-destructive entry for lost or snapped keys. We serve semis, terraces & flats including Coundon. 24/7 emergency service.",
-  "locked-out.local-context-body": "Coventry's rental properties and student accommodation in the city centre frequently experience lockouts due to key loss or damage in shared buildings and converted flats. In suburban areas like Binley, where semi-detached homes with period locks remain common, lockout calls often involve older mechanisms alongside modern replacements, requiring non-destructive techniques that preserve both lock types without forcing entry.\n\nRental properties across Coventry present a specific challenge: many require landlord or letting agent contact to authorise access, which can delay emergency lockout resolution. Additionally, listed buildings in historic areas like Foleshill demand specialist care during non-destructive entry to avoid damaging original door frames and period joinery during the access process.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my terrace in Chapelfields – will non-destructive entry work on period locks?",
-      "a": "Yes. Edwardian terraces like those in Chapelfields often have traditional mortice locks that respond well to non-destructive techniques; we specialise in period properties and can gain entry without damage. Call 024 7741 1127 and we'll be with you quickly."
-    },
-    {
-      "q": "My keys snapped inside my Cheylesmore semi – how long does non-destructive entry take?",
-      "a": "Most interwar semis like those in Cheylesmore have straightforward Yale or mortice mechanisms; non-destructive entry typically takes 15–30 minutes. We'll assess your lock type on arrival and get you back inside without forcing anything."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Coventry – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Coventry & commuter villages. Professional extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Coventry requires expert locksmiths skilled in locksmithing techniques to safely extract snapped or sheared keys from your lock. Our technicians employ non-destructive methods using precision key extractor tools, whether your lock is a standard mortice or modern euro cylinder. Fast, professional service to get you back inside.",
-  "broken-key-removal.local-context-body": "Binley's post-war terraces and semi-detached homes frequently present broken key scenarios, particularly where original mortice locks remain in place alongside modern euro cylinders fitted during later upgrades. The mixed lock inventory across these properties means broken key removal must address both traditional and contemporary mechanisms, requiring technicians familiar with period lock construction and modern extraction techniques.\n\nRental properties throughout the city centre experience higher rates of key breakage due to frequent tenant turnover and wear on communal entrance locks. Night latches on converted Victorian and post-war properties are especially prone to fracture points at the cylinder, and swift removal is essential to restore access without forcing the lock mechanism—critical for landlords managing multiple turnovers and for tenants locked out of shared accommodation.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My key snapped in the euro cylinder of my Chapelfields terrace – can you remove it without damaging the lock?",
-      "a": "Yes. Our technicians use non-destructive extraction tools suited to both period locks and modern euro cylinders common in Chapelfields properties. We'll remove the broken key cleanly and test the lock before leaving."
-    },
-    {
-      "q": "I'm renting a flat in Coventry city centre and broke my key in the mortice lock – will this affect my deposit?",
-      "a": "We can extract the broken key and, if needed, rekey or replace the mortice lock professionally, leaving the property in proper condition. This protects you from deposit disputes and ensures your landlord has full access documentation."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Coventry – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Coventry. Post-break-in lock changes, door repairs and insurance-quality reinstatement. Fast response across Cannon Park and suburbs.",
-  "burglar-repair-service.hero-paragraph": "Coventry locksmiths specialising in burglar repair and locksmithing understand the urgency of securing your home after a break-in. Our technicians install insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to reinforce damaged doors. Whether you need emergency forced entry repairs or long-term security upgrades, we restore your peace of mind swiftly.",
-  "burglar-repair-service.local-context-body": "Areas like Foleshill contain Victorian terraces where original lock mechanisms and period door frames often sustain damage during break-ins, requiring both heritage-sensitive repair and modern security upgrades. Post-war semi-detached properties across the suburbs present different challenges: replacement doors and locks installed decades ago may need full reinstatement to current standards, with insurance assessors requiring documented, professional-grade repairs rather than temporary fixes.\n\nRental properties throughout Coventry's city centre and university areas frequently require rapid turnaround on burglar repairs, as landlords must restore tenancy conditions quickly. Many conversions feature non-standard door types and multiple lock configurations on shared access points, meaning repair specifications vary significantly from property to property—assessment on site is essential before quoting.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "We've had a break-in at our Foleshill terrace – can you repair the original Victorian lock and door frame?",
-      "a": "Yes. Victorian terraces often have period locks and timber frames that can be damaged in break-ins. We repair or replace both, matching the original style where possible, and provide full documentation for your insurance claim."
-    },
-    {
-      "q": "Our rental flat in Coundon was broken into – do you handle landlord insurance reinstatement?",
-      "a": "Absolutely. We're experienced with post-break-in repairs in Coventry's semi-detached and terrace properties, including rental stock. We work directly with insurers, provide same-day callouts where possible, and deliver insurance-quality reinstatement to get your property secure again."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Coventry – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Coventry—same-day service for smashed doors and windows in Chapelfields, Cheylesmore and across the city.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Coventry from our specialist locksmith team combines professional locksmithing expertise with rapid response. Whether you're facing smashed windows, broken glazing, or damaged doors, we secure your property with robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures insurance-compliant protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Break-ins and storm damage affect Coventry's diverse housing stock unevenly. Detached homes in Berkswell and newer properties in Binley Woods often have larger window and door areas exposed to weather and forced entry, requiring swift boarding solutions. City centre conversions and rental flats face similar vulnerabilities, particularly ground-floor units where access is easier for intruders or where storm-driven debris causes rapid window failure.\n\nCoventry's post-war suburban properties frequently feature original timber frames and period door mechanisms alongside modern replacements, complicating boarding work. Rental properties—common across the city centre and university areas—often involve landlord notification and insurance coordination before boarding begins. Listed buildings in villages like Berkswell require careful assessment to ensure temporary boarding preserves original features and complies with conservation guidelines.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Can you board up my semi-detached home in Allesley quickly after a break-in?",
-      "a": "Yes. Our emergency boarding up service covers Allesley and all Coventry suburbs. We arrive promptly to secure smashed doors and windows on period semis and detached properties, making your home safe while you arrange permanent repairs or insurance assessments."
-    },
-    {
-      "q": "I have a rental flat in the city centre with a broken window after storm damage—can you board it up same-day?",
-      "a": "Absolutely. City centre conversions and rental properties are common targets for emergency boarding, and we're equipped to secure windows and doors quickly to prevent weather damage and unauthorised entry while you notify your landlord or insurance."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Coventry – Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Coventry for moving home, key loss & security upgrades. Serving post-war estates, Victorian terraces & commuter villages. Fast professional service.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Coventry from our experienced locksmith team specialise in locksmithing solutions for homeowners and landlords. Whether you're moving home, upgrading security, or managing a tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Fast, reliable service across Coventry.",
-  "lock-changes.local-context-body": "Coundon's Edwardian semis and terraces frequently require lock changes when tenancies end or ownership transfers. The interwar properties of Allesley present similar situations, where original locks—sometimes decades old—need replacement for both functional and security reasons. Post-war estates across the suburbs add variety to this work, with mixed lock types reflecting decades of ad-hoc upgrades and repairs.\n\nRental properties throughout Coventry's city centre and university areas operate under specific standards that influence lock change specifications. HMO properties require keyed-alike systems or master-key arrangements for multiple occupants and landlord access. Listed buildings in Victorian areas like Foleshill may restrict lock choice due to conservation considerations, requiring locksmiths to match period aesthetics while meeting modern security standards.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a post-war semi in Canley—should I change the locks?",
-      "a": "Yes, we'd strongly recommend it. Many Canley semis still have original or worn period locks alongside modern replacements, making it hard to know who holds copies. We can survey your property and replace or upgrade locks to give you complete peace of mind."
-    },
-    {
-      "q": "I'm renting a flat in Coventry city centre and the landlord won't rekey—what are my options?",
-      "a": "City centre conversions often have inconsistent security standards and shared access histories. We can discuss legal lock-change options with you and advise on what your landlord must permit under tenancy agreements, then carry out the work swiftly."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Coventry – Same-Day Service",
-  "lock-repairs.meta.description": "Expert door lock repairs in Coventry & Allesley. Fix multipoint, mortice & night latch locks. Fast local service, 24/7 emergency callouts available.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Coventry from a dedicated locksmith specialising in locksmithing solutions. Whether you're experiencing stiff locks, jammed mechanisms, or a key that won't turn, our technicians provide expert gearbox repair and mortice maintenance. All work is completed to manufacturer warranty standards, ensuring your locks function reliably.",
-  "lock-repairs.local-context-body": "Coventry's mixed housing stock creates distinct repair demands. Cheylesmore's interwar semi-detached properties often retain original mortice locks alongside modern multipoint systems, requiring technicians familiar with both era-appropriate repairs and contemporary mechanisms. Post-war suburbs like Canley present different challenges: gearbox and night latch failures in mass-built stock are common, as are worn multipoint locks in rental conversions throughout the city centre.\n\nListed building status affects lock repair approaches in older residential areas, particularly Georgian and Victorian properties where original ironwork must be preserved or matched carefully. Additionally, high concentrations of rental accommodation and HMO conversions in central Coventry mean many locks undergo frequent rekeying and adjustment; understanding wear patterns specific to high-turnover properties informs both immediate repair and longer-term replacement planning.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My multipoint lock on my semi-detached in Cannon Park keeps jamming—is this repairable?",
-      "a": "Yes, multipoint lock repairs are one of our core services. Post-war semis like those in Cannon Park often have wear on the gearbox or cam mechanism; we can usually restore function without full replacement, saving you cost."
-    },
-    {
-      "q": "I rent a flat in the city centre and my night latch won't catch properly. Can you fix it quickly?",
-      "a": "Absolutely. Night latch repairs are quick jobs we handle regularly on Coventry's converted rental stock. We'll diagnose whether it's a worn bolt, striker misalignment, or internal fault and repair or replace it the same day."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Coventry – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Coventry including BS3621 mortice locks and TS007 anti-snap cylinders. Expert fitting for period semis in Coundon and modern estates.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Coventry from our experienced locksmith team combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks, or fitting multipoint mechanisms for enhanced security, our technicians ensure your installation meets insurance requirements and current safety regulations. We work efficiently to secure your property.",
-  "door-lock-installation.local-context-body": "Coventry's post-war suburbs contain numerous semi-detached and terraced homes where original locks have reached the end of their serviceable life. Properties in Bell Green and similar estates built in the 1960s–70s typically require replacement with modern BS3621 mortice locks or TS007 anti-snap cylinders to meet current security standards. These installations often involve upgrading period hardware to contemporary specifications while maintaining the structural integrity of existing door frames.\n\nCity centre conversions and rental properties frequently demand multipoint lock systems to satisfy letting standards and insurance requirements. Many of Coventry's converted Victorian and post-war properties have non-standard door frames or multiple access points, necessitating careful measurement and specification before fitting. Listed properties in areas like Courthouse Green may require specialist consultation to ensure new locks comply with conservation guidelines while delivering adequate security performance.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I live in a post-war semi in Bell Green – do I need a BS3621 mortice lock?",
-      "a": "Yes, BS3621 mortice locks are the standard for most UK properties and offer excellent security for post-war semis like those in Bell Green. We'll assess your existing door frame and fit the right specification to match your property's construction."
-    },
-    {
-      "q": "I'm renting a flat in Cannon Park near the university – can you install anti-snap cylinders?",
-      "a": "Absolutely. TS007 anti-snap cylinders are ideal for rental properties in university areas like Cannon Park, where security upgrades are often needed. We can fit them to your existing locks or install a complete multipoint system if your landlord approves the upgrade."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Coventry – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Coventry. Like-for-like swaps or security upgrades for period properties and modern homes. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "A Coventry locksmith specialising in door lock replacement brings expert locksmithing knowledge to homes and businesses across the area. Whether you've experienced a failed lock, lost keys, or are moving home, our technicians deliver like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure.",
-  "door-lock-replacement.local-context-body": "Allesley's interwar detached and semi-detached homes often retain original locks alongside modern replacements, requiring locksmiths to handle both period mechanisms and contemporary upgrades during door lock replacement work. Similar mixed-era situations occur across post-war suburban estates, where failing original locks in 1960s–70s properties frequently need swapping for modern equivalents that match current door frames and security expectations.\n\nRental properties throughout Coventry's city centre and university areas present a practical consideration: landlord-tenant access protocols and rekeying schedules must align with tenancy agreements when replacing door locks. Additionally, many converted Victorian properties and modern flat conversions have non-standard door frames or composite doors that constrain lock choices, requiring assessment before fitting to ensure compatibility and proper operation.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a semi-detached in Bell Green with an old lock that won't turn smoothly – can you replace it without damaging the door?",
-      "a": "Yes – post-war semis like yours often have period frames that need careful handling during replacement. We'll assess whether a direct swap works or if minor adjustment is needed to ensure the new lock fits perfectly and operates smoothly."
-    },
-    {
-      "q": "My rental flat in Chapelfields needs a new lock for the next tenants – what's the fastest option?",
-      "a": "We offer same-day lock replacement for rental turnovers. Edwardian terraces and semi-detached properties like yours typically have standard door preparations, so we can usually fit a modern secure lock in under an hour and rekey it for your new tenants."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Coventry – Same-Day Service Available",
-  "door-repairs.meta.description": "Door repairs in Coventry for period and modern properties. uPVC alignment, gearbox replacement, composite door realignment, timber door easing, handle repair.",
-  "door-repairs.hero-paragraph": "Professional door repairs from our Coventry locksmith team combine expert locksmithing with comprehensive mechanical solutions. Whether your uPVC, composite or timber door has dropped, begun catching, or won't close properly, we diagnose the underlying cause through hinge adjustment and frame alignment. Our technicians restore full functionality and weathertightness to get your door operating smoothly again.",
-  "door-repairs.local-context-body": "Coventry's housing diversity creates varied door repair demands. Victorian terraces in Courthouse Green frequently suffer from settlement-related misalignment, while Bell Green's post-war semis and terraces experience dropped doors from aging hinges and frame warping typical of 1960s–70s construction. Modern replacements and period-appropriate repairs both occur regularly across the city's mixed stock.\n\nRental properties and HMOs concentrated in the city centre and university areas require rapid door repairs to meet access and safety standards, often triggering urgent rekeying alongside hardware fixes. Older properties with original timber frames need careful assessment—forcing misaligned doors can damage irreplaceable joinery, whereas newer estate homes tolerate more straightforward adjustment and hinge replacement.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Coventry's post-war semis often drop or misalign?",
-      "a": "Post-war estates like Bedworth Heath were built with timber frames that naturally settle over decades, causing door frames to shift and hinges to strain. We repair and realign these doors to restore smooth operation and proper security seals."
-    },
-    {
-      "q": "My terrace in Coundon has an original Victorian door that's warped—can you fix it?",
-      "a": "Yes—Edwardian terraces like those in Coundon often have solid timber doors that can warp with age and moisture. We assess whether repair (adjusting hinges, planing) or replacement is best while respecting the period character."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Coventry – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Coventry & Berkswell. Espagnolette & shootbolt locks fixed on uPVC, aluminium, timber windows. Expert service.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Coventry locksmith specialises in window lock repair and replacement, applying expert locksmithing techniques to secure your home. Whether you're dealing with windows that won't lock, broken handles, or failed espagnolette mechanisms, we deliver insurance-compliant fitting that meets industry standards. Fast, reliable service for residential and commercial properties across Coventry.",
-  "window-lock-repair-replacement.local-context-body": "Binley's post-war terraces and semi-detached homes typically feature metal-framed or wooden sash windows installed across several decades, each with different espagnolette and shootbolt mechanisms. Window lock failures are common in these properties due to age-related wear on the locking pins and handles, particularly where original 1960s–70s fittings remain in place alongside later PVCu replacements. Mismatched lock types across the same property often mean repair technicians must carry multiple replacement options.\n\nCoventry's high concentration of rental properties and HMO conversions in the city centre and university areas creates additional demand for window lock standardisation and certification. Landlords frequently require compatible replacement locks across entire buildings to simplify maintenance and meet security standards, rather than ad-hoc repairs to individual units. This means window lock jobs often involve assessing multiple windows and coordinating batch replacements rather than single-window fixes.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks fail so often in Coventry's post-war semis?",
-      "a": "Post-war properties in suburbs like Bell Green have espagnolette locks that are now 60+ years old; metal fatigue and wear on the shootbolts are common. We can assess whether yours need repair or full replacement and fit modern, reliable alternatives that match your frame style."
-    },
-    {
-      "q": "Are window lock replacements suitable for Edwardian sash windows in Attleborough?",
-      "a": "Yes—Attleborough's Edwardian properties often have original sash windows with period locks that can be temperamental. We replace them with sympathetic modern locks that maintain the aesthetic while delivering secure, smooth operation."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Coventry – Trusted Local Service",
-  "safe-installation.meta.description": "Safe installation in Coventry: wall, floor and freestanding safes with secure anchoring, insurance documentation and professional fitting for rental properties.",
-  "safe-installation.hero-paragraph": "Safe installation in Coventry from our experienced locksmith specialists combines expert locksmithing with precision positioning. We secure your new safe through professional wall mounting and floor anchoring techniques, ensuring compliance with Eurograde standards and insurance requirements. Our Coventry team handles everything from initial assessment to final placement, giving you complete peace of mind.",
-  "safe-installation.local-context-body": "Canley's detached properties and the city centre's converted flats present different safe-installation challenges. Detached homes typically offer flexibility for floor and wall safes, while rental conversions often require non-destructive mounting solutions that satisfy landlord requirements and insurance standards without compromising the building structure.\n\nCoventry's post-war housing stock frequently features cavity walls and modern plasterboard, which accommodate wall-safe installation straightforwardly. However, listed Victorian properties in central areas and period conversions may restrict fixings or require specialist assessment before installation. Insurance documentation demands are particularly strict in rental properties, where proof of professional fitting and correct anchoring specifications must be provided to tenants and underwriters.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I live in one of Coventry's post-war semis – where should I install a safe?",
-      "a": "Post-war suburban properties like those in Bedworth Heath often have solid brick or concrete floors ideal for floor safes, while cavity walls in semis may limit wall options; we assess your property structure first and recommend anchoring methods that won't compromise the original build. Our installation includes insurance documentation tailored to your safe's location and your home's construction."
-    },
-    {
-      "q": "I'm renting a flat in Coventry's city centre – can you install a safe without permanent damage?",
-      "a": "Yes; many city centre conversions and rental properties require non-destructive safe installation, and we offer freestanding safes with anti-tip anchoring that won't damage floors or walls, plus documentation landlords will accept. We'll discuss your tenancy terms before fitting to ensure full compliance."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Coventry – Fast & Trusted Local Service",
-  "safe-opening.meta.description": "Safe opening in Coventry for lost keys, combinations & lockouts. Non-destructive expert service for domestic & commercial safes across post-war estates.",
-  "safe-opening.hero-paragraph": "Our Coventry locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ combination dial manipulation and precision tools to regain access without damage to your safe or its contents.",
-  "safe-opening.local-context-body": "Properties across Cheylesmore's interwar semis and the rental conversions filling Coventry's city centre frequently contain safes installed decades ago, often with combinations lost during tenancy changes or estate settlements. Non-destructive opening becomes essential in these contexts, where property damage must be avoided and original fixtures preserved where possible.\n\nRental properties in high-turnover areas present particular challenges for safe opening work. HMO conversions and flat divisions in post-war stock often feature safes whose access history is unclear, requiring technicians to verify ownership and occupancy before proceeding. Listed buildings in older residential zones add further constraints, as any opening method must comply with heritage protections.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a safe in my Victorian terrace in Foleshill but have no combination—how quickly can you open it?",
-      "a": "We specialise in non-destructive safe opening and can usually attend Foleshill properties within 24 hours. Our techniques preserve both the safe and its contents, which is especially important for period properties where the safe itself may have historical value."
-    },
-    {
-      "q": "Our rental flat in Coventry city centre has a safe left by the previous tenant with a lost key—can you help without damaging the door?",
-      "a": "Yes, we regularly handle safe lockouts in city centre conversions and rental properties using non-destructive methods. We'll open it without marking the safe or frame, and can rekey or fit a new lock if needed."
-    }
-  ],
-  "home.areas-covered": [
-    "Abbey End",
-    "Abbey Fields",
-    "Abbey Green",
-    "Alderman's Green",
-    "Allesley",
-    "Allesley Green",
-    "Allesley Park",
-    "Ansley",
-    "Ansley Common",
-    "Ansty",
-    "Ash Green",
-    "Ashow",
-    "Attleborough",
-    "Baginton",
-    "Ball Hill",
-    "Balsall Common",
-    "Barnacle",
-    "Bascote",
-    "Bedworth Heath",
-    "Bedworth Woodlands",
-    "Bell Green",
-    "Berkswell",
-    "Bermuda",
-    "Binley",
-    "Binley Woods",
-    "Birdingbury",
-    "Bishop's Tachbrook",
-    "Bishopsgate Green",
-    "Borrowell",
-    "Bourton on Dunsmore",
-    "Bramcote",
-    "Brandon",
-    "Bretford",
-    "Brinklow",
-    "Brownshill Green",
-    "Bubbenhall",
-    "Budbrooke",
-    "Bulkington",
-    "Burton Green",
-    "Burton Hastings",
-    "Caldwell",
-    "Camp Hill",
-    "Canley",
-    "Canley Gardens",
-    "Cannon Park",
-    "Castle Green",
-    "Chapel End",
-    "Chapelfields",
-    "Cheylesmore",
-    "Chilvers Coton",
-    "Cliff Hill",
-    "Clifford Park",
-    "Coalpit Field",
-    "Collycroft",
-    "Copsewood",
-    "Corley",
-    "Corley Moor",
-    "Coundon",
-    "Courthouse Green",
-    "Crackley",
-    "Cubbington",
-    "Daimler Green",
-    "Earlsdon",
-    "Eastern Green",
-    "Eathorpe",
-    "Edgwick",
-    "Emscote",
-    "Ernesford Grange",
-    "Exhall",
-    "Fenside",
-    "Fillongley",
-    "Finham",
-    "Foleshill",
-    "Four Oaks",
-    "Frankton",
-    "Galley Common",
-    "Gibbet Hill",
-    "Green Lane",
-    "Griff",
-    "Grove Farm",
-    "Hampton Magna",
-    "Hampton on the Hill",
-    "Hartshill",
-    "Hatton",
-    "Hatton Park",
-    "Hawkes End",
-    "Henley Green",
-    "Higham on the Hill",
-    "Hill Top",
-    "Hillfields",
-    "Holbrooks",
-    "Horeston Grange",
-    "Hunningham",
-    "Hurley",
-    "Keresley",
-    "Keresley Newlands",
-    "Kirby Corner",
-    "Ladyes Hills",
-    "Lash Hill",
-    "Leek Wootton",
-    "Lillington",
-    "Little Heath",
-    "Long Itchington",
-    "Longford",
-    "Lower Farm Estates",
-    "Lower Stoke",
-    "Manor Farm Estate",
-    "Manor House",
-    "Marton",
-    "Maxstoke",
-    "Meriden",
-    "Mill End",
-    "Milverton",
-    "Mount Nod",
-    "Mount Pleasant",
-    "Myton Park",
-    "Nether Whitacre",
-    "New Arley",
-    "Norton Lindsey",
-    "Offchurch",
-    "Old Arley",
-    "Paradise",
-    "Park Hill",
-    "Potters Green",
-    "Princethorpe",
-    "Radford",
-    "Radford Semele",
-    "Rowley's Green",
-    "Ryton-on-Dunsmore",
-    "Sherbourne",
-    "Shilton",
-    "Shustoke",
-    "Sketchley",
-    "Spon End",
-    "St John's",
-    "St Nicolas Park",
-    "Stivichall",
-    "Stockingford",
-    "Stockton",
-    "Stoke Aldermoor",
-    "Stoke Heath",
-    "Stoke Hill",
-    "Stonehouse Estate",
-    "Stoneleigh",
-    "Stretton Baskerville",
-    "Stretton on Dunsmore",
-    "Styvechale Grange",
-    "Sydenham",
-    "Tanyard Farm",
-    "Tile Hill",
-    "Tilton",
-    "Tollbar End",
-    "Ufton",
-    "Upper Stoke",
-    "Victoria Farm",
-    "Walsgrave",
-    "Wappenbury",
-    "Warwick Gates",
-    "Weddington",
-    "Weston under Wetherley",
-    "Westwood Heath",
-    "Whitemoor",
-    "Whitestone",
-    "Whitmore Park",
-    "Whitnash",
-    "Whittleford",
-    "Whoberley",
-    "Willenhall",
-    "Windmill Top Area",
-    "Windy Arbour",
-    "Withybrook",
-    "Wolston",
-    "Wolvey",
-    "Wood End",
-    "Woodloes Park",
-    "Woodway Park",
-    "Wyken"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Weston under Wetherley",
-    "Coundon",
-    "Burton Green",
-    "Mount Nod",
-    "Copsewood",
-    "Berkswell",
-    "Whitnash",
-    "Bretford",
-    "Bascote",
-    "Bedworth Woodlands",
-    "Styvechale Grange",
-    "Mount Pleasant",
-    "Chilvers Coton",
-    "Warwick Gates"
-  ],
-  "locked-out.areas-covered": [
-    "Bell Green",
-    "Little Heath",
-    "Spon End",
-    "Stivichall",
-    "Budbrooke",
-    "Coalpit Field",
-    "Wolston",
-    "Hunningham",
-    "Stoneleigh",
-    "Caldwell",
-    "Stoke Aldermoor",
-    "Sketchley",
-    "Willenhall",
-    "Frankton"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Four Oaks",
-    "Keresley Newlands",
-    "Burton Hastings",
-    "Exhall",
-    "Ryton-on-Dunsmore",
-    "Alderman's Green",
-    "Park Hill",
-    "Horeston Grange",
-    "Allesley",
-    "Hawkes End",
-    "Keresley",
-    "Balsall Common",
-    "Maxstoke",
-    "Tile Hill"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Fenside",
-    "Stonehouse Estate",
-    "Tollbar End",
-    "Ansley",
-    "Bourton on Dunsmore",
-    "Bishop's Tachbrook",
-    "Radford",
-    "Westwood Heath",
-    "Ashow",
-    "Abbey Green",
-    "Lower Stoke",
-    "Gibbet Hill",
-    "Brandon",
-    "Brownshill Green"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Fillongley",
-    "Foleshill",
-    "Windmill Top Area",
-    "Sherbourne",
-    "Bedworth Heath",
-    "Chapelfields",
-    "St John's",
-    "Hampton on the Hill",
-    "Cubbington",
-    "Norton Lindsey",
-    "Brinklow",
-    "Whoberley",
-    "Stretton Baskerville",
-    "Binley Woods"
-  ],
-  "lock-changes.areas-covered": [
-    "Offchurch",
-    "Cannon Park",
-    "Weddington",
-    "Grove Farm",
-    "Paradise",
-    "Griff",
-    "Longford",
-    "Ansley Common",
-    "Tanyard Farm",
-    "Hillfields",
-    "Birdingbury",
-    "St Nicolas Park",
-    "Courthouse Green",
-    "Hatton"
-  ],
-  "lock-repairs.areas-covered": [
-    "Corley Moor",
-    "Allesley Park",
-    "Kirby Corner",
-    "Manor House",
-    "Baginton",
-    "Castle Green",
-    "Camp Hill",
-    "Myton Park",
-    "Ernesford Grange",
-    "Ball Hill",
-    "Holbrooks",
-    "Daimler Green",
-    "Withybrook",
-    "Whitestone"
-  ],
-  "door-lock-installation.areas-covered": [
-    "New Arley",
-    "Abbey End",
-    "Lash Hill",
-    "Hill Top",
-    "Green Lane",
-    "Galley Common",
-    "Attleborough",
-    "Ansty",
-    "Bermuda",
-    "Wyken",
-    "Hurley",
-    "Allesley Green",
-    "Windy Arbour",
-    "Eastern Green"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Cheylesmore",
-    "Long Itchington",
-    "Stockingford",
-    "Princethorpe",
-    "Whittleford",
-    "Canley",
-    "Nether Whitacre",
-    "Manor Farm Estate",
-    "Ladyes Hills",
-    "Edgwick",
-    "Hartshill",
-    "Shilton",
-    "Hampton Magna"
-  ],
-  "door-repairs.areas-covered": [
-    "Lower Farm Estates",
-    "Walsgrave",
-    "Mill End",
-    "Ash Green",
-    "Stoke Heath",
-    "Bramcote",
-    "Bishopsgate Green",
-    "Chapel End",
-    "Bubbenhall",
-    "Whitemoor",
-    "Borrowell",
-    "Stoke Hill",
-    "Whitmore Park"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Wood End",
-    "Potters Green",
-    "Eathorpe",
-    "Bulkington",
-    "Tilton",
-    "Rowley's Green",
-    "Hatton Park",
-    "Corley",
-    "Upper Stoke",
-    "Stretton on Dunsmore",
-    "Victoria Farm",
-    "Collycroft",
-    "Lillington"
-  ],
-  "safe-installation.areas-covered": [
-    "Clifford Park",
-    "Emscote",
-    "Leek Wootton",
-    "Sydenham",
-    "Binley",
-    "Finham",
-    "Abbey Fields",
-    "Wappenbury",
-    "Meriden",
-    "Woodway Park",
-    "Earlsdon",
-    "Woodloes Park",
-    "Cliff Hill"
-  ],
-  "safe-opening.areas-covered": [
-    "Milverton",
-    "Marton",
-    "Canley Gardens",
-    "Ufton",
-    "Crackley",
-    "Wolvey",
-    "Stockton",
-    "Shustoke",
-    "Old Arley",
-    "Henley Green",
-    "Radford Semele",
-    "Higham on the Hill",
-    "Barnacle"
-  ],
-  "locked-out.hero-paragraph": "When you're locked out in Coventry, our experienced locksmiths specialise in locksmithing techniques that restore your access swiftly. Whether you've lost your keys, had them locked inside, or experienced a snapped key in the mechanism, we use non-destructive entry methods to gain access without damaging your door or frame. Our damage-free approach means you can return to your home or business immediately."
+ "meta.title": "Locksmith Coventry | Local Locksmithing Service 24/7",
+ "meta.description": "Locknow Locksmith in Coventry: 24/7 emergency call-outs, lock repairs, changes and security upgrades for period properties, semis and modern homes.",
+ "home.hero-paragraph": "Coventry locksmith services from a qualified locksmithing professional offer emergency lock help when you need it most. We specialise in emergency lockouts, lock changes, and security upgrades. All work is completed using non-destructive entry methods, and our DBS-checked technicians are available 24/7 with no call-out fee.",
+ "home.local-context-heading": "Coventry's Mixed Heritage, Modern Security Needs",
+ "home.local-context-body": "Coventry's mixed Victorian and post-war housing stock creates varied lock maintenance needs. Semi-detached homes across the 1960s\u201370s suburbs often contain original period locks alongside modern replacements, requiring locksmiths familiar with both systems. In commuter villages like Berkswell, period properties with original mechanisms need specialist handling to avoid damage during servicing or rekeying.\n\nCity centre rental conversions and student accommodation frequently require access system updates and rekeying between tenants. Landlords should be aware that HMO regulations may affect lock specifications and access control standards. Post-war suburban estates commonly feature standard door types from multiple eras, and choosing compatible hardware during repairs or upgrades prevents future fitting issues.",
+ "home.local-faqs": [
+  {
+   "q": "We've just moved to a post-war semi in Bedworth Heath. Should we rekey the locks?",
+   "a": "Yes\u2014many post-war semis retain original locks that may no longer be secure or compatible with modern keys. We can assess your existing locks and upgrade to modern cylinders while preserving period aesthetics if required."
+  },
+  {
+   "q": "Our rental flat in Coventry city centre needs new access control. What's standard?",
+   "a": "City centre conversions vary widely in security standards. We recommend rekeying all tenant-occupied flats and installing modern pin-tumbler locks or electronic access systems to meet landlord insurance and tenant safety requirements."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Coventry \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Coventry. Locked out or key snapped? Fast response for semis, terraces and post-war homes. Non-destructive entry, urgent repairs.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Coventry combines expert locksmithing with rapid response times to resolve lockouts and snapped keys when you need us most. Available 24/7, our DBS-checked technicians employ non-destructive entry methods to minimise damage to your property. Whether you're locked out of your home or business, we prioritise swift, professional access restoration.",
+ "emergency-locksmith.local-context-body": "Coventry's post-war suburban estates, particularly in areas like Bell Green, feature semi-detached and terrace properties where emergency lockouts are frequent among both owner-occupiers and rental tenants. The mixed quality of locks in these properties\u2014some original period mechanisms alongside modern replacements\u2014means emergency calls often require assessment of both traditional and contemporary security hardware before access can be regained quickly.\n\nThe city's high proportion of rental and student accommodation, especially in converted Victorian properties like those in Courthouse Green and near university zones, creates additional urgency around emergency lock failures. Many of these properties operate under HMO licensing requirements, where access disputes and security updates after tenant turnover demand rapid, compliant solutions that respect both landlord obligations and existing door construction standards.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my flat in Cannon Park \u2013 how quickly can you arrive?",
+   "a": "We're based in Coventry and aim to reach Cannon Park within 30\u201345 minutes for emergency lockouts. University-area rentals often have non-standard locks, so we carry multiple tools and can usually open doors without damage."
+  },
+  {
+   "q": "My Victorian terrace in Courthouse Green has a snapped key in the original lock \u2013 can you help?",
+   "a": "Yes \u2013 period locks in older Coventry terraces are our specialty. We can extract the broken key and either repair the original mechanism or fit a modern replacement, depending on what works best for your door."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Coventry | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Coventry? Fast non-destructive entry for lost or snapped keys. We serve semis, terraces & flats including Coundon. 24/7 emergency service.",
+ "locked-out.local-context-body": "Coventry's rental properties and student accommodation in the city centre frequently experience lockouts due to key loss or damage in shared buildings and converted flats. In suburban areas like Binley, where semi-detached homes with period locks remain common, lockout calls often involve older mechanisms alongside modern replacements, requiring non-destructive techniques that preserve both lock types without forcing entry.\n\nRental properties across Coventry present a specific challenge: many require landlord or letting agent contact to authorise access, which can delay emergency lockout resolution. Additionally, listed buildings in historic areas like Foleshill demand specialist care during non-destructive entry to avoid damaging original door frames and period joinery during the access process.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my terrace in Chapelfields \u2013 will non-destructive entry work on period locks?",
+   "a": "Yes. Edwardian terraces like those in Chapelfields often have traditional mortice locks that respond well to non-destructive techniques; we specialise in period properties and can gain entry without damage. Call 024 7741 1127 and we'll be with you quickly."
+  },
+  {
+   "q": "My keys snapped inside my Cheylesmore semi \u2013 how long does non-destructive entry take?",
+   "a": "Most interwar semis like those in Cheylesmore have straightforward Yale or mortice mechanisms; non-destructive entry typically takes 15\u201330 minutes. We'll assess your lock type on arrival and get you back inside without forcing anything."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Coventry \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Coventry & commuter villages. Professional extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Coventry requires expert locksmiths skilled in locksmithing techniques to safely extract snapped or sheared keys from your lock. Our technicians employ non-destructive methods using precision key extractor tools, whether your lock is a standard mortice or modern euro cylinder. Fast, professional service to get you back inside.",
+ "broken-key-removal.local-context-body": "Binley's post-war terraces and semi-detached homes frequently present broken key scenarios, particularly where original mortice locks remain in place alongside modern euro cylinders fitted during later upgrades. The mixed lock inventory across these properties means broken key removal must address both traditional and contemporary mechanisms, requiring technicians familiar with period lock construction and modern extraction techniques.\n\nRental properties throughout the city centre experience higher rates of key breakage due to frequent tenant turnover and wear on communal entrance locks. Night latches on converted Victorian and post-war properties are especially prone to fracture points at the cylinder, and swift removal is essential to restore access without forcing the lock mechanism\u2014critical for landlords managing multiple turnovers and for tenants locked out of shared accommodation.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My key snapped in the euro cylinder of my Chapelfields terrace \u2013 can you remove it without damaging the lock?",
+   "a": "Yes. Our technicians use non-destructive extraction tools suited to both period locks and modern euro cylinders common in Chapelfields properties. We'll remove the broken key cleanly and test the lock before leaving."
+  },
+  {
+   "q": "I'm renting a flat in Coventry city centre and broke my key in the mortice lock \u2013 will this affect my deposit?",
+   "a": "We can extract the broken key and, if needed, rekey or replace the mortice lock professionally, leaving the property in proper condition. This protects you from deposit disputes and ensures your landlord has full access documentation."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Coventry \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Coventry. Post-break-in lock changes, door repairs and insurance-quality reinstatement. Fast response across Cannon Park and suburbs.",
+ "burglar-repair-service.hero-paragraph": "Coventry locksmiths specialising in burglar repair and locksmithing understand the urgency of securing your home after a break-in. Our technicians install insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to reinforce damaged doors. Whether you need emergency forced entry repairs or long-term security upgrades, we restore your peace of mind swiftly.",
+ "burglar-repair-service.local-context-body": "Areas like Foleshill contain Victorian terraces where original lock mechanisms and period door frames often sustain damage during break-ins, requiring both heritage-sensitive repair and modern security upgrades. Post-war semi-detached properties across the suburbs present different challenges: replacement doors and locks installed decades ago may need full reinstatement to current standards, with insurance assessors requiring documented, professional-grade repairs rather than temporary fixes.\n\nRental properties throughout Coventry's city centre and university areas frequently require rapid turnaround on burglar repairs, as landlords must restore tenancy conditions quickly. Many conversions feature non-standard door types and multiple lock configurations on shared access points, meaning repair specifications vary significantly from property to property\u2014assessment on site is essential before quoting.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "We've had a break-in at our Foleshill terrace \u2013 can you repair the original Victorian lock and door frame?",
+   "a": "Yes. Victorian terraces often have period locks and timber frames that can be damaged in break-ins. We repair or replace both, matching the original style where possible, and provide full documentation for your insurance claim."
+  },
+  {
+   "q": "Our rental flat in Coundon was broken into \u2013 do you handle landlord insurance reinstatement?",
+   "a": "Absolutely. We're experienced with post-break-in repairs in Coventry's semi-detached and terrace properties, including rental stock. We work directly with insurers, provide same-day callouts where possible, and deliver insurance-quality reinstatement to get your property secure again."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Coventry \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Coventry\u2014same-day service for smashed doors and windows in Chapelfields, Cheylesmore and across the city.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Coventry from our specialist locksmith team combines professional locksmithing expertise with rapid response. Whether you're facing smashed windows, broken glazing, or damaged doors, we secure your property with robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures insurance-compliant protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Break-ins and storm damage affect Coventry's diverse housing stock unevenly. Detached homes in Berkswell and newer properties in Binley Woods often have larger window and door areas exposed to weather and forced entry, requiring swift boarding solutions. City centre conversions and rental flats face similar vulnerabilities, particularly ground-floor units where access is easier for intruders or where storm-driven debris causes rapid window failure.\n\nCoventry's post-war suburban properties frequently feature original timber frames and period door mechanisms alongside modern replacements, complicating boarding work. Rental properties\u2014common across the city centre and university areas\u2014often involve landlord notification and insurance coordination before boarding begins. Listed buildings in villages like Berkswell require careful assessment to ensure temporary boarding preserves original features and complies with conservation guidelines.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Can you board up my semi-detached home in Allesley quickly after a break-in?",
+   "a": "Yes. Our emergency boarding up service covers Allesley and all Coventry suburbs. We arrive promptly to secure smashed doors and windows on period semis and detached properties, making your home safe while you arrange permanent repairs or insurance assessments."
+  },
+  {
+   "q": "I have a rental flat in the city centre with a broken window after storm damage\u2014can you board it up same-day?",
+   "a": "Absolutely. City centre conversions and rental properties are common targets for emergency boarding, and we're equipped to secure windows and doors quickly to prevent weather damage and unauthorised entry while you notify your landlord or insurance."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Coventry \u2013 Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Coventry for moving home, key loss & security upgrades. Serving post-war estates, Victorian terraces & commuter villages. Fast professional service.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Coventry from our experienced locksmith team specialise in locksmithing solutions for homeowners and landlords. Whether you're moving home, upgrading security, or managing a tenancy turnover, we install BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Fast, reliable service across Coventry.",
+ "lock-changes.local-context-body": "Coundon's Edwardian semis and terraces frequently require lock changes when tenancies end or ownership transfers. The interwar properties of Allesley present similar situations, where original locks\u2014sometimes decades old\u2014need replacement for both functional and security reasons. Post-war estates across the suburbs add variety to this work, with mixed lock types reflecting decades of ad-hoc upgrades and repairs.\n\nRental properties throughout Coventry's city centre and university areas operate under specific standards that influence lock change specifications. HMO properties require keyed-alike systems or master-key arrangements for multiple occupants and landlord access. Listed buildings in Victorian areas like Foleshill may restrict lock choice due to conservation considerations, requiring locksmiths to match period aesthetics while meeting modern security standards.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a post-war semi in Canley\u2014should I change the locks?",
+   "a": "Yes, we'd strongly recommend it. Many Canley semis still have original or worn period locks alongside modern replacements, making it hard to know who holds copies. We can survey your property and replace or upgrade locks to give you complete peace of mind."
+  },
+  {
+   "q": "I'm renting a flat in Coventry city centre and the landlord won't rekey\u2014what are my options?",
+   "a": "City centre conversions often have inconsistent security standards and shared access histories. We can discuss legal lock-change options with you and advise on what your landlord must permit under tenancy agreements, then carry out the work swiftly."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Coventry \u2013 Same-Day Service",
+ "lock-repairs.meta.description": "Expert door lock repairs in Coventry & Allesley. Fix multipoint, mortice & night latch locks. Fast local service, 24/7 emergency callouts available.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Coventry from a dedicated locksmith specialising in locksmithing solutions. Whether you're experiencing stiff locks, jammed mechanisms, or a key that won't turn, our technicians provide expert gearbox repair and mortice maintenance. All work is completed to manufacturer warranty standards, ensuring your locks function reliably.",
+ "lock-repairs.local-context-body": "Coventry's mixed housing stock creates distinct repair demands. Cheylesmore's interwar semi-detached properties often retain original mortice locks alongside modern multipoint systems, requiring technicians familiar with both era-appropriate repairs and contemporary mechanisms. Post-war suburbs like Canley present different challenges: gearbox and night latch failures in mass-built stock are common, as are worn multipoint locks in rental conversions throughout the city centre.\n\nListed building status affects lock repair approaches in older residential areas, particularly Georgian and Victorian properties where original ironwork must be preserved or matched carefully. Additionally, high concentrations of rental accommodation and HMO conversions in central Coventry mean many locks undergo frequent rekeying and adjustment; understanding wear patterns specific to high-turnover properties informs both immediate repair and longer-term replacement planning.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My multipoint lock on my semi-detached in Cannon Park keeps jamming\u2014is this repairable?",
+   "a": "Yes, multipoint lock repairs are one of our core services. Post-war semis like those in Cannon Park often have wear on the gearbox or cam mechanism; we can usually restore function without full replacement, saving you cost."
+  },
+  {
+   "q": "I rent a flat in the city centre and my night latch won't catch properly. Can you fix it quickly?",
+   "a": "Absolutely. Night latch repairs are quick jobs we handle regularly on Coventry's converted rental stock. We'll diagnose whether it's a worn bolt, striker misalignment, or internal fault and repair or replace it the same day."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Coventry \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Coventry including BS3621 mortice locks and TS007 anti-snap cylinders. Expert fitting for period semis in Coundon and modern estates.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Coventry from our experienced locksmith team combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks, or fitting multipoint mechanisms for enhanced security, our technicians ensure your installation meets insurance requirements and current safety regulations. We work efficiently to secure your property.",
+ "door-lock-installation.local-context-body": "Coventry's post-war suburbs contain numerous semi-detached and terraced homes where original locks have reached the end of their serviceable life. Properties in Bell Green and similar estates built in the 1960s\u201370s typically require replacement with modern BS3621 mortice locks or TS007 anti-snap cylinders to meet current security standards. These installations often involve upgrading period hardware to contemporary specifications while maintaining the structural integrity of existing door frames.\n\nCity centre conversions and rental properties frequently demand multipoint lock systems to satisfy letting standards and insurance requirements. Many of Coventry's converted Victorian and post-war properties have non-standard door frames or multiple access points, necessitating careful measurement and specification before fitting. Listed properties in areas like Courthouse Green may require specialist consultation to ensure new locks comply with conservation guidelines while delivering adequate security performance.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I live in a post-war semi in Bell Green \u2013 do I need a BS3621 mortice lock?",
+   "a": "Yes, BS3621 mortice locks are the standard for most UK properties and offer excellent security for post-war semis like those in Bell Green. We'll assess your existing door frame and fit the right specification to match your property's construction."
+  },
+  {
+   "q": "I'm renting a flat in Cannon Park near the university \u2013 can you install anti-snap cylinders?",
+   "a": "Absolutely. TS007 anti-snap cylinders are ideal for rental properties in university areas like Cannon Park, where security upgrades are often needed. We can fit them to your existing locks or install a complete multipoint system if your landlord approves the upgrade."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Coventry \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Coventry. Like-for-like swaps or security upgrades for period properties and modern homes. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "A Coventry locksmith specialising in door lock replacement brings expert locksmithing knowledge to homes and businesses across the area. Whether you've experienced a failed lock, lost keys, or are moving home, our technicians deliver like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure.",
+ "door-lock-replacement.local-context-body": "Allesley's interwar detached and semi-detached homes often retain original locks alongside modern replacements, requiring locksmiths to handle both period mechanisms and contemporary upgrades during door lock replacement work. Similar mixed-era situations occur across post-war suburban estates, where failing original locks in 1960s\u201370s properties frequently need swapping for modern equivalents that match current door frames and security expectations.\n\nRental properties throughout Coventry's city centre and university areas present a practical consideration: landlord-tenant access protocols and rekeying schedules must align with tenancy agreements when replacing door locks. Additionally, many converted Victorian properties and modern flat conversions have non-standard door frames or composite doors that constrain lock choices, requiring assessment before fitting to ensure compatibility and proper operation.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a semi-detached in Bell Green with an old lock that won't turn smoothly \u2013 can you replace it without damaging the door?",
+   "a": "Yes \u2013 post-war semis like yours often have period frames that need careful handling during replacement. We'll assess whether a direct swap works or if minor adjustment is needed to ensure the new lock fits perfectly and operates smoothly."
+  },
+  {
+   "q": "My rental flat in Chapelfields needs a new lock for the next tenants \u2013 what's the fastest option?",
+   "a": "We offer same-day lock replacement for rental turnovers. Edwardian terraces and semi-detached properties like yours typically have standard door preparations, so we can usually fit a modern secure lock in under an hour and rekey it for your new tenants."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Coventry \u2013 Same-Day Service Available",
+ "door-repairs.meta.description": "Door repairs in Coventry for period and modern properties. uPVC alignment, gearbox replacement, composite door realignment, timber door easing, handle repair.",
+ "door-repairs.hero-paragraph": "Professional door repairs from our Coventry locksmith team combine expert locksmithing with comprehensive mechanical solutions. Whether your uPVC, composite or timber door has dropped, begun catching, or won't close properly, we diagnose the underlying cause through hinge adjustment and frame alignment. Our technicians restore full functionality and weathertightness to get your door operating smoothly again.",
+ "door-repairs.local-context-body": "Coventry's housing diversity creates varied door repair demands. Victorian terraces in Courthouse Green frequently suffer from settlement-related misalignment, while Bell Green's post-war semis and terraces experience dropped doors from aging hinges and frame warping typical of 1960s\u201370s construction. Modern replacements and period-appropriate repairs both occur regularly across the city's mixed stock.\n\nRental properties and HMOs concentrated in the city centre and university areas require rapid door repairs to meet access and safety standards, often triggering urgent rekeying alongside hardware fixes. Older properties with original timber frames need careful assessment\u2014forcing misaligned doors can damage irreplaceable joinery, whereas newer estate homes tolerate more straightforward adjustment and hinge replacement.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Coventry's post-war semis often drop or misalign?",
+   "a": "Post-war estates like Bedworth Heath were built with timber frames that naturally settle over decades, causing door frames to shift and hinges to strain. We repair and realign these doors to restore smooth operation and proper security seals."
+  },
+  {
+   "q": "My terrace in Coundon has an original Victorian door that's warped\u2014can you fix it?",
+   "a": "Yes\u2014Edwardian terraces like those in Coundon often have solid timber doors that can warp with age and moisture. We assess whether repair (adjusting hinges, planing) or replacement is best while respecting the period character."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Coventry \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Coventry & Berkswell. Espagnolette & shootbolt locks fixed on uPVC, aluminium, timber windows. Expert service.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Coventry locksmith specialises in window lock repair and replacement, applying expert locksmithing techniques to secure your home. Whether you're dealing with windows that won't lock, broken handles, or failed espagnolette mechanisms, we deliver insurance-compliant fitting that meets industry standards. Fast, reliable service for residential and commercial properties across Coventry.",
+ "window-lock-repair-replacement.local-context-body": "Binley's post-war terraces and semi-detached homes typically feature metal-framed or wooden sash windows installed across several decades, each with different espagnolette and shootbolt mechanisms. Window lock failures are common in these properties due to age-related wear on the locking pins and handles, particularly where original 1960s\u201370s fittings remain in place alongside later PVCu replacements. Mismatched lock types across the same property often mean repair technicians must carry multiple replacement options.\n\nCoventry's high concentration of rental properties and HMO conversions in the city centre and university areas creates additional demand for window lock standardisation and certification. Landlords frequently require compatible replacement locks across entire buildings to simplify maintenance and meet security standards, rather than ad-hoc repairs to individual units. This means window lock jobs often involve assessing multiple windows and coordinating batch replacements rather than single-window fixes.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks fail so often in Coventry's post-war semis?",
+   "a": "Post-war properties in suburbs like Bell Green have espagnolette locks that are now 60+ years old; metal fatigue and wear on the shootbolts are common. We can assess whether yours need repair or full replacement and fit modern, reliable alternatives that match your frame style."
+  },
+  {
+   "q": "Are window lock replacements suitable for Edwardian sash windows in Attleborough?",
+   "a": "Yes\u2014Attleborough's Edwardian properties often have original sash windows with period locks that can be temperamental. We replace them with sympathetic modern locks that maintain the aesthetic while delivering secure, smooth operation."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Coventry \u2013 Trusted Local Service",
+ "safe-installation.meta.description": "Safe installation in Coventry: wall, floor and freestanding safes with secure anchoring, insurance documentation and professional fitting for rental properties.",
+ "safe-installation.hero-paragraph": "Safe installation in Coventry from our experienced locksmith specialists combines expert locksmithing with precision positioning. We secure your new safe through professional wall mounting and floor anchoring techniques, ensuring compliance with Eurograde standards and insurance requirements. Our Coventry team handles everything from initial assessment to final placement, giving you complete peace of mind.",
+ "safe-installation.local-context-body": "Canley's detached properties and the city centre's converted flats present different safe-installation challenges. Detached homes typically offer flexibility for floor and wall safes, while rental conversions often require non-destructive mounting solutions that satisfy landlord requirements and insurance standards without compromising the building structure.\n\nCoventry's post-war housing stock frequently features cavity walls and modern plasterboard, which accommodate wall-safe installation straightforwardly. However, listed Victorian properties in central areas and period conversions may restrict fixings or require specialist assessment before installation. Insurance documentation demands are particularly strict in rental properties, where proof of professional fitting and correct anchoring specifications must be provided to tenants and underwriters.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I live in one of Coventry's post-war semis \u2013 where should I install a safe?",
+   "a": "Post-war suburban properties like those in Bedworth Heath often have solid brick or concrete floors ideal for floor safes, while cavity walls in semis may limit wall options; we assess your property structure first and recommend anchoring methods that won't compromise the original build. Our installation includes insurance documentation tailored to your safe's location and your home's construction."
+  },
+  {
+   "q": "I'm renting a flat in Coventry's city centre \u2013 can you install a safe without permanent damage?",
+   "a": "Yes; many city centre conversions and rental properties require non-destructive safe installation, and we offer freestanding safes with anti-tip anchoring that won't damage floors or walls, plus documentation landlords will accept. We'll discuss your tenancy terms before fitting to ensure full compliance."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Coventry \u2013 Fast & Trusted Local Service",
+ "safe-opening.meta.description": "Safe opening in Coventry for lost keys, combinations & lockouts. Non-destructive expert service for domestic & commercial safes across post-war estates.",
+ "safe-opening.hero-paragraph": "Our Coventry locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ combination dial manipulation and precision tools to regain access without damage to your safe or its contents.",
+ "safe-opening.local-context-body": "Properties across Cheylesmore's interwar semis and the rental conversions filling Coventry's city centre frequently contain safes installed decades ago, often with combinations lost during tenancy changes or estate settlements. Non-destructive opening becomes essential in these contexts, where property damage must be avoided and original fixtures preserved where possible.\n\nRental properties in high-turnover areas present particular challenges for safe opening work. HMO conversions and flat divisions in post-war stock often feature safes whose access history is unclear, requiring technicians to verify ownership and occupancy before proceeding. Listed buildings in older residential zones add further constraints, as any opening method must comply with heritage protections.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a safe in my Victorian terrace in Foleshill but have no combination\u2014how quickly can you open it?",
+   "a": "We specialise in non-destructive safe opening and can usually attend Foleshill properties within 24 hours. Our techniques preserve both the safe and its contents, which is especially important for period properties where the safe itself may have historical value."
+  },
+  {
+   "q": "Our rental flat in Coventry city centre has a safe left by the previous tenant with a lost key\u2014can you help without damaging the door?",
+   "a": "Yes, we regularly handle safe lockouts in city centre conversions and rental properties using non-destructive methods. We'll open it without marking the safe or frame, and can rekey or fit a new lock if needed."
+  }
+ ],
+ "home.areas-covered": [
+  "Allesley",
+  "Allesley Park",
+  "Ball Hill",
+  "Bell Green",
+  "Binley",
+  "Brownshill Green",
+  "Canley",
+  "Canley Gardens",
+  "Cannon Park",
+  "Chapelfields",
+  "Cheylesmore",
+  "Clifford Park",
+  "Copsewood",
+  "Coundon",
+  "Courthouse Green",
+  "Daimler Green",
+  "Earlsdon",
+  "Eastern Green",
+  "Ernesford Grange",
+  "Finham",
+  "Foleshill",
+  "Gibbet Hill",
+  "Green Lane",
+  "Henley Green",
+  "Hillfields",
+  "Holbrooks",
+  "Keresley",
+  "Little Heath",
+  "Longford",
+  "Lower Stoke",
+  "Manor Farm Estate",
+  "Manor House",
+  "Mount Nod",
+  "Paradise",
+  "Potters Green",
+  "Radford",
+  "Rowley's Green",
+  "Spon End",
+  "Stivichall",
+  "Stoke Aldermoor",
+  "Stoke Heath",
+  "Stoke Hill",
+  "Tile Hill",
+  "Tollbar End",
+  "Upper Stoke",
+  "Walsgrave",
+  "Westwood Heath",
+  "Whitmore Park",
+  "Whoberley",
+  "Willenhall",
+  "Wood End",
+  "Woodway Park",
+  "Wyken"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Coundon",
+  "Mount Nod",
+  "Copsewood",
+  "Tile Hill",
+  "Tollbar End",
+  "Upper Stoke",
+  "Walsgrave",
+  "Westwood Heath",
+  "Whitmore Park"
+ ],
+ "locked-out.areas-covered": [
+  "Bell Green",
+  "Little Heath",
+  "Spon End",
+  "Stivichall",
+  "Stoke Aldermoor",
+  "Willenhall",
+  "Cheylesmore",
+  "Clifford Park",
+  "Copsewood"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Allesley",
+  "Keresley",
+  "Tile Hill",
+  "Allesley Park",
+  "Ball Hill",
+  "Bell Green",
+  "Binley",
+  "Brownshill Green",
+  "Canley"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Tollbar End",
+  "Radford",
+  "Westwood Heath",
+  "Lower Stoke",
+  "Gibbet Hill",
+  "Brownshill Green",
+  "Canley Gardens",
+  "Cannon Park",
+  "Chapelfields"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Foleshill",
+  "Chapelfields",
+  "Whoberley",
+  "Radford",
+  "Rowley's Green",
+  "Spon End",
+  "Stivichall",
+  "Stoke Aldermoor",
+  "Stoke Heath"
+ ],
+ "lock-changes.areas-covered": [
+  "Cannon Park",
+  "Paradise",
+  "Longford",
+  "Hillfields",
+  "Courthouse Green",
+  "Willenhall",
+  "Wood End",
+  "Woodway Park",
+  "Wyken"
+ ],
+ "lock-repairs.areas-covered": [
+  "Allesley Park",
+  "Manor House",
+  "Ernesford Grange",
+  "Ball Hill",
+  "Holbrooks",
+  "Daimler Green",
+  "Bell Green",
+  "Binley",
+  "Brownshill Green"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Green Lane",
+  "Wyken",
+  "Eastern Green",
+  "Courthouse Green",
+  "Daimler Green",
+  "Earlsdon",
+  "Ernesford Grange",
+  "Finham",
+  "Foleshill"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Cheylesmore",
+  "Canley",
+  "Manor Farm Estate",
+  "Gibbet Hill",
+  "Green Lane",
+  "Henley Green",
+  "Hillfields",
+  "Holbrooks",
+  "Keresley"
+ ],
+ "door-repairs.areas-covered": [
+  "Walsgrave",
+  "Stoke Heath",
+  "Stoke Hill",
+  "Whitmore Park",
+  "Longford",
+  "Lower Stoke",
+  "Manor Farm Estate",
+  "Manor House",
+  "Mount Nod"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Wood End",
+  "Potters Green",
+  "Rowley's Green",
+  "Upper Stoke",
+  "Manor House",
+  "Mount Nod",
+  "Paradise",
+  "Radford",
+  "Spon End"
+ ],
+ "safe-installation.areas-covered": [
+  "Clifford Park",
+  "Binley",
+  "Finham",
+  "Woodway Park",
+  "Earlsdon",
+  "Eastern Green",
+  "Ernesford Grange",
+  "Foleshill",
+  "Gibbet Hill"
+ ],
+ "safe-opening.areas-covered": [
+  "Canley Gardens",
+  "Henley Green",
+  "Hillfields",
+  "Holbrooks",
+  "Keresley",
+  "Little Heath",
+  "Longford",
+  "Lower Stoke",
+  "Manor Farm Estate"
+ ],
+ "locked-out.hero-paragraph": "When you're locked out in Coventry, our experienced locksmiths specialise in locksmithing techniques that restore your access swiftly. Whether you've lost your keys, had them locked inside, or experienced a snapped key in the mechanism, we use non-destructive entry methods to gain access without damaging your door or frame. Our damage-free approach means you can return to your home or business immediately."
 }

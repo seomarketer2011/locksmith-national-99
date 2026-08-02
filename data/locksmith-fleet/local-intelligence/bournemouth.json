@@ -1,35 +1,61 @@
 {
-  "location": "Bournemouth",
-  "neighborhoods": [],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian villa",
-      "Edwardian terrace",
-      "interwar semi-detached",
-      "modern flat"
-    ],
-    "era": "mixed Victorian and Edwardian with substantial post-war infill and modern development",
-    "notable": "Significant Victorian and Edwardian seafront villas; high density of HMO conversions and student lettings. Large post-war suburban estates inland."
-  },
-  "locksmith_relevant": [
-    "Victorian villas often feature original sash windows and period locks requiring specialist knowledge and careful handling.",
-    "Heavy student HMO concentration means frequent emergency callouts for shared house lockouts and bulk rekeying work.",
-    "Coastal properties experience accelerated corrosion; marine air degrades locks faster, driving higher maintenance and replacement demand."
+ "location": "Bournemouth",
+ "neighborhoods": [],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian villa",
+   "Edwardian terrace",
+   "interwar semi-detached",
+   "modern flat"
   ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bournemouth",
-    "overpass": null,
-    "coords": {
-      "lat": 50.7201514,
-      "lon": -1.8799118
-    }
-  },
-  "generated_at": "2026-05-13T12:18:39.082Z",
-  "all_areas": [],
-  "geo": {
-    "latitude": 50.7201514,
-    "longitude": -1.8799118
-  },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  "era": "mixed Victorian and Edwardian with substantial post-war infill and modern development",
+  "notable": "Significant Victorian and Edwardian seafront villas; high density of HMO conversions and student lettings. Large post-war suburban estates inland."
+ },
+ "locksmith_relevant": [
+  "Victorian villas often feature original sash windows and period locks requiring specialist knowledge and careful handling.",
+  "Heavy student HMO concentration means frequent emergency callouts for shared house lockouts and bulk rekeying work.",
+  "Coastal properties experience accelerated corrosion; marine air degrades locks faster, driving higher maintenance and replacement demand."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Bournemouth",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Bournemouth admin area), 25 named areas",
+  "coords": {
+   "lat": 50.7201514,
+   "lon": -1.8799118
+  }
+ },
+ "generated_at": "2026-05-13T12:18:39.082Z",
+ "all_areas": [
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods",
+  "Townsend",
+  "Wallisdown",
+  "West Cliff",
+  "West Howe",
+  "Westbourne",
+  "Wick",
+  "Winton"
+ ],
+ "geo": {
+  "latitude": 50.7201514,
+  "longitude": -1.8799118
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

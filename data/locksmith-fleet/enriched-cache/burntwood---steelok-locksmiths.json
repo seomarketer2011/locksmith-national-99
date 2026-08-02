@@ -1,297 +1,269 @@
 {
-  "meta.title": "Burntwood Locksmith | 24/7 Emergency Call-Out Service",
-  "meta.description": "Burntwood locksmith covering interwar terraces, post-war estates and period properties. Emergency lockouts, repairs, replacements and security upgrades.",
-  "home.hero-paragraph": "Burntwood locksmith services specialising in locksmithing and lock assistance are available when you need them most. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. Our DBS-checked technicians operate 24/7 and are fully insured, ensuring reliable solutions for residential and commercial properties across the area.",
-  "home.local-context-heading": "Burntwood's Heritage Locks and Modern Security",
-  "home.local-context-body": "Burntwood's property stock spans interwar terraces and post-war estates, each with distinct locking requirements. Chase Terrace's period semis and terraces typically retain original locks that need specialist attention or sympathetic replacement to maintain character. Post-war Chasetown properties feature varied systems, from older timber frames to modern UPVC doors, each requiring different expertise. Regular maintenance and timely upgrades are common across these mixed-era neighborhoods.\n\nMany older properties in the area carry heritage considerations, particularly in Victorian and interwar pockets where period-appropriate locks are preferred. Rural properties around Hammerwich often need farm gate and perimeter security solutions alongside standard domestic work. Door type varies significantly—original timber frames demand different handling than modern composites—making professional assessment essential before any lock work begins.",
-  "home.local-faqs": [
-    {
-      "q": "I have an original period lock on my Victorian terrace in Woodhouses – can you repair it or should I replace it?",
-      "a": "We specialise in repairing original period locks found in Burntwood's Victorian and interwar properties, and can source period-appropriate replacements where repair isn't viable. Many customers in Woodhouses and Chase Terrace prefer to keep authentic locks for character, and we'll advise on the best option for your door type."
-    },
-    {
-      "q": "What locks do you recommend for UPVC doors on newer builds in Brownhills West?",
-      "a": "UPVC and modern composite doors need compatible multi-point locking systems; we fit and upgrade these regularly across Burntwood's post-war estates. We'll assess your door type and recommend the best secure system, whether you need a simple repair or full lock replacement."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Burntwood – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Burntwood. Locked out or key snapped? Fast response for Hammerwich terraces, post-war estates and period properties. Urgent repairs.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Burntwood specialises in expert locksmithing for urgent situations. Whether you're locked out of your home, experiencing a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7. We use non-destructive entry techniques wherever possible to protect your property whilst resolving your emergency quickly.",
-  "emergency-locksmith.local-context-body": "Properties across Chase Terrace and other interwar areas frequently feature original period locks that can jam, break or fail without warning. Victorian and interwar timber-framed doors are particularly prone to swelling and sticking, leaving residents locked out or unable to secure their homes. Post-war semis in Chasetown introduce a different challenge: diverse locking mechanisms across UPVC and composite doors mean emergency callouts require familiarity with multiple systems and materials.\n\nBurntwood's heritage-designated properties and period conversions require locksmiths to balance rapid access with preservation considerations. Original period locks often cannot be forced open without damage; sympathetic techniques and period-appropriate repair are essential. Additionally, the area's rural character means some emergency calls involve farm gates and outbuildings with older security systems, adding complexity to the typical domestic lockout scenario.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my interwar terrace in Chase Terrace with a jammed original lock—how quickly can you help?",
-      "a": "We attend emergency lockouts across Chase Terrace and Burntwood within the hour, 24/7. Period locks on older terraces often jam due to wear; we carry specialist tools to open them without forcing, preserving your original mechanism where possible."
-    },
-    {
-      "q": "My UPVC door won't lock properly after a break-in attempt in Chasetown—is this an emergency call?",
-      "a": "Yes, absolutely. We respond to post-break-in security calls immediately across Chasetown and surrounding areas. Modern composite and UPVC doors require prompt assessment to restore your security; we can repair, replace, or upgrade the locking mechanism the same day."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Burntwood | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Burntwood? Steelok offers fast, non-destructive entry for lost or snapped keys. Same-day service for terraces, semis, detached homes & period properties.",
-  "locked-out.hero-paragraph": "When you're locked out in Burntwood, our expert locksmith uses advanced locksmithing techniques to restore your access quickly. Whether you've lost your keys, left them inside, or suffered a snapped key, we specialise in non-destructive entry methods that protect your door and frame from damage. Our technicians arrive fully equipped to handle residential and commercial lockouts with minimal disruption.",
-  "locked-out.local-context-body": "Locked-out situations in Burntwood frequently involve period properties across neighbourhoods like Chase Terrace, where original timber-framed doors and heritage locks remain common in interwar terraces and semi-detached homes. These older mechanisms often require specialist non-destructive entry techniques to avoid damage to the frame or lock mechanism itself, which may be difficult to source for replacement.\n\nRural properties in outlying areas such as Hammerwich present additional considerations for locked-out call-outs, particularly where properties feature multiple outbuildings or farm access gates with period-appropriate security systems. Post-war estates across Chasetown introduce a secondary factor: the prevalence of UPVC and composite doors with modern multi-point locking systems, which demand different entry protocols than traditional locks but benefit from swift non-destructive methods when functional.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my interwar semi in Chase Terrace – will non-destructive entry work on my original period lock?",
-      "a": "Yes. Many Chase Terrace properties retain original locks from the 1930s, and our non-destructive techniques are specifically trained to handle period mechanisms without damage. We'll open it safely and advise on whether repair or sympathetic replacement is needed."
-    },
-    {
-      "q": "My key snapped in the lock of my UPVC door in Brownhills West – how quickly can you get me back in?",
-      "a": "We typically attend Brownhills West within the hour. Modern UPVC and composite doors respond well to non-destructive entry methods, and we'll extract any broken key fragments while preserving your door and frame."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Burntwood – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Burntwood—euro cylinders, mortice locks & night latches. Expert extraction for interwar terraces, post-war semis & Hammerwich properties. 24/7 service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Burntwood is a specialised locksmithing service requiring expert locksmith intervention. A snapped or sheared key left in your lock demands immediate professional attention. Our technicians employ non-destructive methods using precision key extractor tools and broken-key probes to retrieve the fragment safely, whether from euro cylinders or mortice locks, without causing further damage to your property.",
-  "broken-key-removal.local-context-body": "Burntwood's mixed housing stock—from Victorian terraces in Hammerwich to post-war semis across Chasetown—means broken key removal calls span both original period locks and modern euro cylinders. Period properties often retain mortice locks and night latches fitted decades ago, where key breakage reflects wear on older mechanisms rather than lock failure. Newer UPVC doors with euro cylinders present different extraction challenges, particularly when keys snap flush with the cylinder face.\n\nThe area's heritage property stock introduces practical constraints: many older locks in listed or period-sensitive homes require sympathetic removal and reinstatement rather than destructive extraction. Timber frames common in interwar terraces can complicate access if the lock surround is tight or decorative. Rapid turnaround is typical, as broken keys often leave doors partially or fully inoperable, affecting both residential access and property security during the extraction and repair window.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My Victorian terraced house in Woodhouses has an original mortice lock with a snapped key—can you remove it without damaging the lock?",
-      "a": "Yes. We specialise in extracting broken keys from period mortice locks common in Woodhouses Victorian properties, and we'll preserve the original mechanism where possible so you can keep the heritage character of your door intact."
-    },
-    {
-      "q": "I've broken a key in the euro cylinder of my interwar semi in Chase Terrace—how quickly can you attend?",
-      "a": "We typically respond the same day in Chase Terrace and surrounding Burntwood areas. Call 01543 546027 to confirm availability, and we'll extract the broken key and get you back inside without forcing the cylinder."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Burntwood – Same-Day Response",
-  "burglar-repair-service.meta.description": "Emergency burglar repair service in Burntwood, including Chase Terrace. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
-  "burglar-repair-service.hero-paragraph": "Our expert locksmiths in Burntwood specialise in burglar repair and locksmithing services following forced entry or break-ins. We assess damage to doors and locks, then restore security using insurance-compliant solutions. Our work includes door reinforcement and installation of TS007 anti-snap cylinders to prevent future intrusions and meet current security standards.",
-  "burglar-repair-service.local-context-body": "Post-break-in reinstatement across Burntwood requires prompt, insurance-compliant work on varied property types. Semi-detached homes in Brownhills West and terrace properties throughout the area often feature original period locks and timber frames that sustain damage during break-ins; restoration must balance functional security with period authenticity. Modern composite and UPVC doors in updated properties demand different repair protocols, making flexible expertise essential across the town's mixed stock.\n\nMany properties in Burntwood retain original or heritage-specification locks fitted to period doors, particularly among interwar terraces. Reinstatement work frequently involves sourcing period-appropriate replacement hardware rather than standard modern locks, especially where listed-building considerations or conservation area rules apply. Insurance assessors expect documentation of this heritage compliance, making specialist knowledge of Burntwood's architectural context a practical requirement for any burglar repair service operating locally.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my Woodhouses terrace, will you be able to repair my original period locks, or do I need replacement?",
-      "a": "We specialise in both repair and period-appropriate replacement of original locks found in Victorian properties like those across Woodhouses. If your locks are salvageable, we'll restore them to working order; if not, we'll fit sympathetic replacements that match the character of your home and satisfy insurance requirements."
-    },
-    {
-      "q": "I've had a break-in at my Hammerwich property—how quickly can you attend for emergency door and lock repair?",
-      "a": "We offer rapid response burglar repair across Burntwood and Hammerwich. We'll assess and reinstate your door and locking system to insurance-quality standards, whether you have a modern composite door or an older timber frame, and provide full documentation for your claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Burntwood – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Burntwood, including Hammerwich and Woodhouses. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Our Burntwood locksmiths deliver emergency boarding up services combining locksmithing expertise with rapid response. When smashed windows or damaged doors leave your property vulnerable, we secure the opening with plywood boards and security screws, creating a weatherproof temporary seal. Available 24/7 and fully insurance-compliant, our team restores protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Break-ins and storm damage in Burntwood affect a diverse range of properties, from Victorian terraces in Woodhouses to post-war semis across Chasetown. Older timber-framed doors and original period joinery are particularly vulnerable after forced entry or weather damage, requiring swift boarding to prevent further deterioration and secure the property overnight. Modern composite and UPVC doors installed in updated properties demand different boarding techniques, and emergency callouts often need to accommodate both property types within the same evening.\n\nMany properties in Burntwood's interwar and Victorian housing stock sit within conservation considerations or retain original architectural features that constrain boarding aesthetics and materials. Securing a Victorian terrace often means using methods that minimize permanent damage to period frames and glazing bars, whereas post-war properties allow faster, more straightforward temporary boarding. Access to properties via narrow terraced streets or rural lanes in areas like Hammerwich can also affect response times and the equipment needed on-site.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian terrace windows in Woodhouses the same way as modern UPVC frames?",
-      "a": "No. Victorian terraces in Woodhouses often have timber sash or casement frames that require careful measurement and bespoke boarding to avoid damage to period features. We assess the frame type on arrival and use appropriate fixings and materials to secure the board safely without compromising the original structure."
-    },
-    {
-      "q": "How quickly can you board up a broken door on a post-war semi in Chasetown after a break-in?",
-      "a": "We aim to arrive within 1–2 hours of your emergency call on 01543 546027. Post-war semis in Chasetown typically have standard door frames, allowing us to fit temporary boarding rapidly while you arrange permanent replacement or repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes in Burntwood – Same-Day Service",
-  "lock-changes.meta.description": "Professional lock changes in Burntwood for moved homes, lost keys & security upgrades. Serving interwar terraces, post-war estates & period properties across the area.",
-  "lock-changes.hero-paragraph": "Our Burntwood locksmith specialises in lock changes, utilising expert locksmithing techniques to enhance your property security. Whether you're moving home, experiencing lost keys, or upgrading security standards, we install BS3621 mortice locks and TS007 anti-snap cylinders. Our professional approach ensures your new locks meet current security benchmarks and function reliably for years ahead.",
-  "lock-changes.local-context-body": "Moving home in areas like Woodhouses means inheriting locks fitted to Victorian terraces and semis, many of which retain original mechanisms that new owners understandably want to replace for security and convenience. Brownhills West's interwar semis similarly present a mix of period and modernised locking systems; changing locks becomes essential when keys are lost or when upgrading from worn systems to contemporary standards. The variety of property ages across Burntwood means lock changes must accommodate everything from heritage-appropriate solutions to modern cylinder locks on UPVC doors.\n\nPeriod properties throughout the town frequently feature original timber frames with traditional mortice locks that require specialist attention during replacement; fitting incompatible modern hardware risks damaging period joinery. Conversely, post-war estates and updated homes typically allow straightforward cylinder or multipoint lock changes. Locksmiths in Burntwood therefore need familiarity with both heritage conservation principles and modern locking technology to complete changes efficiently without compromising structural or architectural integrity.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a terrace in Hammerwich with original period locks—do you replace these with matching heritage-style locks?",
-      "a": "Yes, we specialise in period-appropriate lock replacements for Victorian and interwar properties across Hammerwich and Burntwood. We can source and fit locks that match your original fittings while upgrading security, or replace with modern equivalents if you prefer."
-    },
-    {
-      "q": "My UPVC door in Chasetown won't lock properly after a break-in attempt—can you change the lock quickly?",
-      "a": "Absolutely. We offer same-day lock changes for UPVC and modern composite doors across Chasetown's post-war estates. We'll assess the damage, replace the mechanism, and rekey if needed to restore full security."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Burntwood – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Lock repair specialists in Burntwood for multipoint, mortice & night latches. Expert fixes for interwar terraces, semis & period properties. 24/7 emergency.",
-  "lock-repairs.hero-paragraph": "Our professional locksmith team specialises in lock repairs across Burntwood, combining expert locksmithing with practical solutions for everyday problems. Whether you're experiencing a stiff lock, jammed mechanism, or a key that won't turn smoothly, we diagnose and repair issues promptly. Our mortice maintenance and multipoint servicing ensure your locks function reliably, backed by manufacturer warranty on all work.",
-  "lock-repairs.local-context-body": "Brownhills West's semi-detached interwar properties frequently feature original multipoint and mortice locks that require specialist repair rather than replacement. These period systems remain functional but develop wear in their gearbox mechanisms, particularly where doors have settled or hinges have shifted over decades. Repair work preserves the aesthetic integrity of period frontages while restoring secure operation.\n\nThe area's mixed Victorian and post-war housing creates varied lock repair scenarios. Older terraced stock in Woodhouses typically contains night latches and traditional mortice locks, while updated properties with UPVC doors need different service approaches. Specialists working in Burntwood must assess whether repair is viable or whether period-appropriate replacement better suits heritage considerations and local building standards.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My interwar terrace in Chase Terrace has an original mortice lock that's sticking – can you repair it rather than replace it?",
-      "a": "Yes, we specialise in repairing period mortice locks common in Chase Terrace's interwar properties. We'll assess whether the lock can be serviced and freed up, or recommend a sympathetic replacement that matches your door's heritage character."
-    },
-    {
-      "q": "Our UPVC door in Chasetown won't lock properly – what's usually wrong with multipoint locks?",
-      "a": "Multipoint lock failure on UPVC doors is often due to gearbox wear or misalignment. We can repair or replace the faulty gearbox mechanism, which is common on 1960s and modern estates like parts of Chasetown where composite and UPVC doors are widespread."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Burntwood – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Burntwood, including Chase Terrace and period properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation from a Burntwood locksmith specialising in locksmithing ensures your property meets current security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks for insurance requirements, or fitting new multipoint mechanisms, our experienced locksmiths deliver reliable, compliant solutions tailored to your home or business.",
-  "door-lock-installation.local-context-body": "Burntwood's interwar terraces and semis—particularly across Chase Terrace—frequently retain original period locks that no longer meet modern security standards. Many properties also feature the mixed door materials common to post-war estates in Chasetown, where timber frames sit alongside later UPVC and composite installations. Door lock installation addresses both heritage properties requiring period-appropriate mortice locks and updated homes needing contemporary anti-snap cylinder protection.\n\nPeriod properties across the area often require specialist fitting approaches to avoid damage to original woodwork and frames. The prevalence of older timber doors means installers must accommodate traditional mortice lock housings, while newer composite doors demand different installation techniques. BS3621 mortice locks and TS007 anti-snap cylinders serve different property ages and security requirements, making assessment of existing frame condition essential before fitting begins.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have an original period lock on my Hammerwich terrace – can you fit a modern BS3621 mortice lock without damaging the door?",
-      "a": "Yes – we specialise in fitting BS3621 mortice locks to period properties across Hammerwich and similar Victorian terraces. We assess your original frame and advise on sympathetic installation or period-appropriate alternatives that maintain character while upgrading security."
-    },
-    {
-      "q": "My Chasetown semi-detached has a UPVC door with a standard cylinder – should I upgrade to TS007 anti-snap?",
-      "a": "Absolutely – TS007 anti-snap cylinders are ideal for modern UPVC and composite doors common in Chasetown's post-war estates, offering much stronger resistance to snap attacks than older cylinders. We'll fit one quickly and ensure it's compatible with your existing multipoint mechanism."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Burntwood – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Burntwood and Chase Terrace. Like-for-like swaps or upgrades for period and modern doors. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Burntwood locksmiths specialise in professional door lock replacement and expert locksmithing for residential and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we install high-security mechanisms compliant with BS3621 standards. Our like-for-like cylinder swaps and anti-snap upgrades ensure your property remains protected.",
-  "door-lock-replacement.local-context-body": "Chase Terrace's interwar terraces often retain original period locks that have worn beyond safe repair, making door lock replacement a routine requirement. Similarly, detached properties in Brownhills West typically house mixed locking systems—some original, others upgraded—meaning replacement work spans both heritage-appropriate specifications and modern security standards. The age and variety of stock across Burntwood means lock failure is common, whether from wear or attempted forced entry.\n\nBurntwood's heritage properties, particularly Victorian and interwar properties in residential areas, frequently require locks that match period aesthetics or comply with conservation considerations. Timber-framed doors, still prevalent in older stock, demand careful lock selection to avoid damage during installation, whereas UPVC and composite doors fitted to modernised properties allow faster, straightforward replacement with contemporary locking mechanisms. Measuring and sourcing the correct specification—whether reproduction or contemporary—is essential to avoid call-backs.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have an original period lock on my interwar terrace in Brownhills West – can you replace it with something matching?",
-      "a": "Yes, we specialise in period-appropriate lock replacements for Burntwood's interwar properties. We can source and fit heritage-style locks that match your original fittings while upgrading security, or swap like-for-like if repair isn't viable."
-    },
-    {
-      "q": "My post-war semi in Hammerwich has a failed UPVC door lock – what are my options?",
-      "a": "We handle UPVC and modern composite door lock replacements across Hammerwich and surrounding areas. We'll assess whether a like-for-like swap suits your door type, or recommend a secure upgrade if the original lock is no longer available or unreliable."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Burntwood – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Burntwood, including Chase Terrace. uPVC alignment, timber door easing, gearbox replacement, handle repair and realignment.",
-  "door-repairs.hero-paragraph": "Our Burntwood locksmiths specialise in professional door repairs using expert locksmithing techniques tailored to your needs. Whether your uPVC, composite or timber door has dropped, won't close properly, or is catching, we diagnose and resolve issues through hinge adjustment, frame alignment and multipoint realignment. Fast, reliable service for all door types.",
-  "door-repairs.local-context-body": "Burntwood's mixed housing stock—from Victorian terraces in Hammerwich through to post-war semis in Chasetown—means door repairs span both heritage timber frames and modern UPVC composites. Older properties often present dropped or misaligned doors due to settlement and age, while updated homes require alignment work on contemporary door systems. The variety demands familiarity with period hardware alongside current locking mechanisms.\n\nMany properties across the area retain original period doors alongside modern replacements, requiring repair work that respects both functional performance and aesthetic consistency. Interwar and Victorian properties frequently feature solid timber construction prone to warping or hinge failure, whereas post-war estates present different wear patterns in lightweight frames. Door repair specialists working locally must navigate both traditional joinery considerations and modern door-closure standards.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Burntwood's interwar terraces and semis often need realignment?",
-      "a": "Older properties in areas like Chase Terrace and Brownhills West have settled unevenly over decades, causing door frames to shift and doors to drop or bind. We specialise in diagnosing settlement-related misalignment and restoring smooth operation without forcing frames out of true."
-    },
-    {
-      "q": "Can you repair period door hardware on Victorian and interwar properties in Burntwood?",
-      "a": "Yes—many homes across Burntwood retain original locks, hinges and latches that can be adjusted, repaired or sympathetically replaced to match period character. We can also upgrade to modern composites or UPVC doors in Chasetown and post-war estates while keeping older timber frames functional."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Burntwood – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Burntwood. Espagnolette and shootbolt locks fixed on period properties and modern homes across Woodhouses and surrounding areas.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Burntwood requires skilled locksmiths with expertise in locksmithing. We specialise in fixing windows that won't lock and restoring failed espagnolette mechanisms. Whether your issue involves broken handles or faulty shootbolt locks, our engineers provide insurance-compliant fitting that restores security and functionality to your home.",
-  "window-lock-repair-replacement.local-context-body": "Properties across Hammerwich and Chase Terrace—from Victorian terraces to interwar semis—frequently retain original timber sash windows alongside period-appropriate hardware. Many of these older frames accommodate traditional espagnolette locks that have deteriorated over decades of use, while post-war properties in Chasetown feature UPVC and modern composite window systems requiring contemporary shootbolt mechanisms and regular maintenance as seals age.\n\nBurntwood's significant stock of heritage properties means window lock work often involves matching period specifications or obtaining heritage-appropriate replacements where listed-building considerations apply. Original timber windows in older properties may require specialist fitting to avoid damage to delicate frames, whereas the large number of 1960s and later replacements with standardised UPVC frames allow for straightforward modern lock installation and repair.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do many Burntwood terraces and semis need window lock replacement?",
-      "a": "Interwar properties in areas like Woodhouses and Hammerwich often have original wooden frames with period espagnolette locks that wear out or become unreliable after decades of use. We can repair these heritage locks or fit modern replacements that suit period-appropriate aesthetics."
-    },
-    {
-      "q": "What window locks work best for updated UPVC doors in Chasetown?",
-      "a": "Post-war estates in Chasetown frequently mix original timber windows with newer UPVC installations. We repair and replace shootbolt and espagnolette locks on both frame types, ensuring consistent security across your property."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Burntwood – Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Burntwood for period properties. Wall, floor & freestanding safes with secure anchoring, insurance documentation & heritage considerations.",
-  "safe-installation.hero-paragraph": "Safe installation in Burntwood by our experienced locksmith team combines expert locksmithing with precision placement. Whether you've purchased a new safe or need insurance approval, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians position each unit with anti-leverage protection, guaranteeing security that meets your cash rating requirements.",
-  "safe-installation.local-context-body": "Chasetown's post-war semi-detached properties often require safe installation in homes where valuables, documents and heirlooms need securing. Period timber-framed properties across the area benefit from wall-safe fitting that respects original plasterwork and structural integrity, while modern composite doors in updated properties present different anchoring considerations for floor or freestanding models.\n\nMany properties in Burntwood's interwar stock feature solid brick construction ideal for secure wall mounting, though older terraces sometimes contain cavity walls requiring specialist assessment before installation. Listed or period properties in rural pockets around Hammerwich may require planning considerations or conservation officer sign-off, particularly where external alterations or visible fixings are proposed. Insurance documentation and proper anchoring certification are essential given the area's mixed property ages and varied construction methods.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Woodhouses – will a safe installation damage my original plasterwork or period features?",
-      "a": "We specialise in heritage-sensitive installations and can assess your period walls before recommending wall-mounted or floor safes that minimise damage to original features. Our team has extensive experience working in Burntwood's older residential stock and can advise on the best placement to preserve your property's character."
-    },
-    {
-      "q": "Can you install a safe in my interwar semi-detached property in Brownhills West, and will it be acceptable to my insurance company?",
-      "a": "Yes – we provide full installation with professional anchoring and complete insurance documentation for all safe types. Our fittings meet insurer requirements across Burntwood's diverse property stock, and we'll ensure your safe is installed to the standard your policy requires."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Burntwood – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Burntwood & Chase Terrace. Non-destructive opening for lost keys, combinations, lockouts. Domestic & commercial safes.",
-  "safe-opening.hero-paragraph": "Our Burntwood locksmiths specialise in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians employ precision combination dial manipulation to regain access without damage to your safe or its contents.",
-  "safe-opening.local-context-body": "In areas like Brownhills West, where interwar semi-detached properties predominate, safes are often found in home offices, studies, or built into period furniture and wall cavities. These older properties frequently house vintage safe models requiring specialist non-destructive opening techniques; modern combination-reset methods may not suit heritage mechanisms. Safe lockouts in such settings demand familiarity with period engineering and materials.\n\nBurntwood's mixed residential character means safes range from early mechanical models in Victorian-era properties to mid-century domestic safes in post-war estates. Non-destructive opening work must account for the structural integrity of older properties, where safe installation may have involved period-appropriate fixings or embedded casings. Listed building considerations in some areas also affect the approach to safe access and any potential remedial work required afterward.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've lost the combination to an old safe in my Hammerwich Victorian terrace – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties across Hammerwich and similar older residential stock in Burntwood. Our technicians can manipulate or decode most vintage lock mechanisms without drilling or forcing, preserving both the safe and your property's character."
-    },
-    {
-      "q": "We're renovating a post-war semi in Chasetown and found a locked safe – what if we can't find the keys?",
-      "a": "We can open safes from post-war estates like those in Chasetown without damage, even if keys are missing or combinations forgotten. Once open, we can also advise on upgrading the locking mechanism or relocating the safe to suit your renovation plans."
-    }
-  ],
-  "home.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Chasetown",
-    "Hammerwich",
-    "Woodhouses"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "locked-out.areas-covered": [
-    "Chasetown",
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Chase Terrace",
-    "Brownhills West",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Hammerwich",
-    "Brownhills West",
-    "Chase Terrace",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Woodhouses",
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Chasetown"
-  ],
-  "lock-changes.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "lock-repairs.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "door-repairs.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "safe-installation.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ],
-  "safe-opening.areas-covered": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Hammerwich",
-    "Woodhouses",
-    "Chasetown"
-  ]
+ "meta.title": "Burntwood Locksmith | 24/7 Emergency Call-Out Service",
+ "meta.description": "Burntwood locksmith covering interwar terraces, post-war estates and period properties. Emergency lockouts, repairs, replacements and security upgrades.",
+ "home.hero-paragraph": "Burntwood locksmith services specialising in locksmithing and lock assistance are available when you need them most. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. Our DBS-checked technicians operate 24/7 and are fully insured, ensuring reliable solutions for residential and commercial properties across the area.",
+ "home.local-context-heading": "Burntwood's Heritage Locks and Modern Security",
+ "home.local-context-body": "Burntwood's property stock spans interwar terraces and post-war estates, each with distinct locking requirements. Chase Terrace's period semis and terraces typically retain original locks that need specialist attention or sympathetic replacement to maintain character. Post-war Chasetown properties feature varied systems, from older timber frames to modern UPVC doors, each requiring different expertise. Regular maintenance and timely upgrades are common across these mixed-era neighborhoods.\n\nMany older properties in the area carry heritage considerations, particularly in Victorian and interwar pockets where period-appropriate locks are preferred. Rural properties around Hammerwich often need farm gate and perimeter security solutions alongside standard domestic work. Door type varies significantly\u2014original timber frames demand different handling than modern composites\u2014making professional assessment essential before any lock work begins.",
+ "home.local-faqs": [
+  {
+   "q": "I have an original period lock on my Victorian terrace in Woodhouses \u2013 can you repair it or should I replace it?",
+   "a": "We specialise in repairing original period locks found in Burntwood's Victorian and interwar properties, and can source period-appropriate replacements where repair isn't viable. Many customers in Woodhouses and Chase Terrace prefer to keep authentic locks for character, and we'll advise on the best option for your door type."
+  },
+  {
+   "q": "What locks do you recommend for UPVC doors on newer builds in Brownhills West?",
+   "a": "UPVC and modern composite doors need compatible multi-point locking systems; we fit and upgrade these regularly across Burntwood's post-war estates. We'll assess your door type and recommend the best secure system, whether you need a simple repair or full lock replacement."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Burntwood \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Burntwood. Locked out or key snapped? Fast response for Hammerwich terraces, post-war estates and period properties. Urgent repairs.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Burntwood specialises in expert locksmithing for urgent situations. Whether you're locked out of your home, experiencing a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7. We use non-destructive entry techniques wherever possible to protect your property whilst resolving your emergency quickly.",
+ "emergency-locksmith.local-context-body": "Properties across Chase Terrace and other interwar areas frequently feature original period locks that can jam, break or fail without warning. Victorian and interwar timber-framed doors are particularly prone to swelling and sticking, leaving residents locked out or unable to secure their homes. Post-war semis in Chasetown introduce a different challenge: diverse locking mechanisms across UPVC and composite doors mean emergency callouts require familiarity with multiple systems and materials.\n\nBurntwood's heritage-designated properties and period conversions require locksmiths to balance rapid access with preservation considerations. Original period locks often cannot be forced open without damage; sympathetic techniques and period-appropriate repair are essential. Additionally, the area's rural character means some emergency calls involve farm gates and outbuildings with older security systems, adding complexity to the typical domestic lockout scenario.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my interwar terrace in Chase Terrace with a jammed original lock\u2014how quickly can you help?",
+   "a": "We attend emergency lockouts across Chase Terrace and Burntwood within the hour, 24/7. Period locks on older terraces often jam due to wear; we carry specialist tools to open them without forcing, preserving your original mechanism where possible."
+  },
+  {
+   "q": "My UPVC door won't lock properly after a break-in attempt in Chasetown\u2014is this an emergency call?",
+   "a": "Yes, absolutely. We respond to post-break-in security calls immediately across Chasetown and surrounding areas. Modern composite and UPVC doors require prompt assessment to restore your security; we can repair, replace, or upgrade the locking mechanism the same day."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Burntwood | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Burntwood? Steelok offers fast, non-destructive entry for lost or snapped keys. Same-day service for terraces, semis, detached homes & period properties.",
+ "locked-out.hero-paragraph": "When you're locked out in Burntwood, our expert locksmith uses advanced locksmithing techniques to restore your access quickly. Whether you've lost your keys, left them inside, or suffered a snapped key, we specialise in non-destructive entry methods that protect your door and frame from damage. Our technicians arrive fully equipped to handle residential and commercial lockouts with minimal disruption.",
+ "locked-out.local-context-body": "Locked-out situations in Burntwood frequently involve period properties across neighbourhoods like Chase Terrace, where original timber-framed doors and heritage locks remain common in interwar terraces and semi-detached homes. These older mechanisms often require specialist non-destructive entry techniques to avoid damage to the frame or lock mechanism itself, which may be difficult to source for replacement.\n\nRural properties in outlying areas such as Hammerwich present additional considerations for locked-out call-outs, particularly where properties feature multiple outbuildings or farm access gates with period-appropriate security systems. Post-war estates across Chasetown introduce a secondary factor: the prevalence of UPVC and composite doors with modern multi-point locking systems, which demand different entry protocols than traditional locks but benefit from swift non-destructive methods when functional.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my interwar semi in Chase Terrace \u2013 will non-destructive entry work on my original period lock?",
+   "a": "Yes. Many Chase Terrace properties retain original locks from the 1930s, and our non-destructive techniques are specifically trained to handle period mechanisms without damage. We'll open it safely and advise on whether repair or sympathetic replacement is needed."
+  },
+  {
+   "q": "My key snapped in the lock of my UPVC door in Brownhills West \u2013 how quickly can you get me back in?",
+   "a": "We typically attend Brownhills West within the hour. Modern UPVC and composite doors respond well to non-destructive entry methods, and we'll extract any broken key fragments while preserving your door and frame."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Burntwood \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Burntwood\u2014euro cylinders, mortice locks & night latches. Expert extraction for interwar terraces, post-war semis & Hammerwich properties. 24/7 service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Burntwood is a specialised locksmithing service requiring expert locksmith intervention. A snapped or sheared key left in your lock demands immediate professional attention. Our technicians employ non-destructive methods using precision key extractor tools and broken-key probes to retrieve the fragment safely, whether from euro cylinders or mortice locks, without causing further damage to your property.",
+ "broken-key-removal.local-context-body": "Burntwood's mixed housing stock\u2014from Victorian terraces in Hammerwich to post-war semis across Chasetown\u2014means broken key removal calls span both original period locks and modern euro cylinders. Period properties often retain mortice locks and night latches fitted decades ago, where key breakage reflects wear on older mechanisms rather than lock failure. Newer UPVC doors with euro cylinders present different extraction challenges, particularly when keys snap flush with the cylinder face.\n\nThe area's heritage property stock introduces practical constraints: many older locks in listed or period-sensitive homes require sympathetic removal and reinstatement rather than destructive extraction. Timber frames common in interwar terraces can complicate access if the lock surround is tight or decorative. Rapid turnaround is typical, as broken keys often leave doors partially or fully inoperable, affecting both residential access and property security during the extraction and repair window.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My Victorian terraced house in Woodhouses has an original mortice lock with a snapped key\u2014can you remove it without damaging the lock?",
+   "a": "Yes. We specialise in extracting broken keys from period mortice locks common in Woodhouses Victorian properties, and we'll preserve the original mechanism where possible so you can keep the heritage character of your door intact."
+  },
+  {
+   "q": "I've broken a key in the euro cylinder of my interwar semi in Chase Terrace\u2014how quickly can you attend?",
+   "a": "We typically respond the same day in Chase Terrace and surrounding Burntwood areas. Call 01543 546027 to confirm availability, and we'll extract the broken key and get you back inside without forcing the cylinder."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Burntwood \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Emergency burglar repair service in Burntwood, including Chase Terrace. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
+ "burglar-repair-service.hero-paragraph": "Our expert locksmiths in Burntwood specialise in burglar repair and locksmithing services following forced entry or break-ins. We assess damage to doors and locks, then restore security using insurance-compliant solutions. Our work includes door reinforcement and installation of TS007 anti-snap cylinders to prevent future intrusions and meet current security standards.",
+ "burglar-repair-service.local-context-body": "Post-break-in reinstatement across Burntwood requires prompt, insurance-compliant work on varied property types. Semi-detached homes in Brownhills West and terrace properties throughout the area often feature original period locks and timber frames that sustain damage during break-ins; restoration must balance functional security with period authenticity. Modern composite and UPVC doors in updated properties demand different repair protocols, making flexible expertise essential across the town's mixed stock.\n\nMany properties in Burntwood retain original or heritage-specification locks fitted to period doors, particularly among interwar terraces. Reinstatement work frequently involves sourcing period-appropriate replacement hardware rather than standard modern locks, especially where listed-building considerations or conservation area rules apply. Insurance assessors expect documentation of this heritage compliance, making specialist knowledge of Burntwood's architectural context a practical requirement for any burglar repair service operating locally.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my Woodhouses terrace, will you be able to repair my original period locks, or do I need replacement?",
+   "a": "We specialise in both repair and period-appropriate replacement of original locks found in Victorian properties like those across Woodhouses. If your locks are salvageable, we'll restore them to working order; if not, we'll fit sympathetic replacements that match the character of your home and satisfy insurance requirements."
+  },
+  {
+   "q": "I've had a break-in at my Hammerwich property\u2014how quickly can you attend for emergency door and lock repair?",
+   "a": "We offer rapid response burglar repair across Burntwood and Hammerwich. We'll assess and reinstate your door and locking system to insurance-quality standards, whether you have a modern composite door or an older timber frame, and provide full documentation for your claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Burntwood \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Burntwood, including Hammerwich and Woodhouses. Same-day secure boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Our Burntwood locksmiths deliver emergency boarding up services combining locksmithing expertise with rapid response. When smashed windows or damaged doors leave your property vulnerable, we secure the opening with plywood boards and security screws, creating a weatherproof temporary seal. Available 24/7 and fully insurance-compliant, our team restores protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Break-ins and storm damage in Burntwood affect a diverse range of properties, from Victorian terraces in Woodhouses to post-war semis across Chasetown. Older timber-framed doors and original period joinery are particularly vulnerable after forced entry or weather damage, requiring swift boarding to prevent further deterioration and secure the property overnight. Modern composite and UPVC doors installed in updated properties demand different boarding techniques, and emergency callouts often need to accommodate both property types within the same evening.\n\nMany properties in Burntwood's interwar and Victorian housing stock sit within conservation considerations or retain original architectural features that constrain boarding aesthetics and materials. Securing a Victorian terrace often means using methods that minimize permanent damage to period frames and glazing bars, whereas post-war properties allow faster, more straightforward temporary boarding. Access to properties via narrow terraced streets or rural lanes in areas like Hammerwich can also affect response times and the equipment needed on-site.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian terrace windows in Woodhouses the same way as modern UPVC frames?",
+   "a": "No. Victorian terraces in Woodhouses often have timber sash or casement frames that require careful measurement and bespoke boarding to avoid damage to period features. We assess the frame type on arrival and use appropriate fixings and materials to secure the board safely without compromising the original structure."
+  },
+  {
+   "q": "How quickly can you board up a broken door on a post-war semi in Chasetown after a break-in?",
+   "a": "We aim to arrive within 1\u20132 hours of your emergency call on 01543 546027. Post-war semis in Chasetown typically have standard door frames, allowing us to fit temporary boarding rapidly while you arrange permanent replacement or repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes in Burntwood \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Professional lock changes in Burntwood for moved homes, lost keys & security upgrades. Serving interwar terraces, post-war estates & period properties across the area.",
+ "lock-changes.hero-paragraph": "Our Burntwood locksmith specialises in lock changes, utilising expert locksmithing techniques to enhance your property security. Whether you're moving home, experiencing lost keys, or upgrading security standards, we install BS3621 mortice locks and TS007 anti-snap cylinders. Our professional approach ensures your new locks meet current security benchmarks and function reliably for years ahead.",
+ "lock-changes.local-context-body": "Moving home in areas like Woodhouses means inheriting locks fitted to Victorian terraces and semis, many of which retain original mechanisms that new owners understandably want to replace for security and convenience. Brownhills West's interwar semis similarly present a mix of period and modernised locking systems; changing locks becomes essential when keys are lost or when upgrading from worn systems to contemporary standards. The variety of property ages across Burntwood means lock changes must accommodate everything from heritage-appropriate solutions to modern cylinder locks on UPVC doors.\n\nPeriod properties throughout the town frequently feature original timber frames with traditional mortice locks that require specialist attention during replacement; fitting incompatible modern hardware risks damaging period joinery. Conversely, post-war estates and updated homes typically allow straightforward cylinder or multipoint lock changes. Locksmiths in Burntwood therefore need familiarity with both heritage conservation principles and modern locking technology to complete changes efficiently without compromising structural or architectural integrity.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a terrace in Hammerwich with original period locks\u2014do you replace these with matching heritage-style locks?",
+   "a": "Yes, we specialise in period-appropriate lock replacements for Victorian and interwar properties across Hammerwich and Burntwood. We can source and fit locks that match your original fittings while upgrading security, or replace with modern equivalents if you prefer."
+  },
+  {
+   "q": "My UPVC door in Chasetown won't lock properly after a break-in attempt\u2014can you change the lock quickly?",
+   "a": "Absolutely. We offer same-day lock changes for UPVC and modern composite doors across Chasetown's post-war estates. We'll assess the damage, replace the mechanism, and rekey if needed to restore full security."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Burntwood \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Lock repair specialists in Burntwood for multipoint, mortice & night latches. Expert fixes for interwar terraces, semis & period properties. 24/7 emergency.",
+ "lock-repairs.hero-paragraph": "Our professional locksmith team specialises in lock repairs across Burntwood, combining expert locksmithing with practical solutions for everyday problems. Whether you're experiencing a stiff lock, jammed mechanism, or a key that won't turn smoothly, we diagnose and repair issues promptly. Our mortice maintenance and multipoint servicing ensure your locks function reliably, backed by manufacturer warranty on all work.",
+ "lock-repairs.local-context-body": "Brownhills West's semi-detached interwar properties frequently feature original multipoint and mortice locks that require specialist repair rather than replacement. These period systems remain functional but develop wear in their gearbox mechanisms, particularly where doors have settled or hinges have shifted over decades. Repair work preserves the aesthetic integrity of period frontages while restoring secure operation.\n\nThe area's mixed Victorian and post-war housing creates varied lock repair scenarios. Older terraced stock in Woodhouses typically contains night latches and traditional mortice locks, while updated properties with UPVC doors need different service approaches. Specialists working in Burntwood must assess whether repair is viable or whether period-appropriate replacement better suits heritage considerations and local building standards.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My interwar terrace in Chase Terrace has an original mortice lock that's sticking \u2013 can you repair it rather than replace it?",
+   "a": "Yes, we specialise in repairing period mortice locks common in Chase Terrace's interwar properties. We'll assess whether the lock can be serviced and freed up, or recommend a sympathetic replacement that matches your door's heritage character."
+  },
+  {
+   "q": "Our UPVC door in Chasetown won't lock properly \u2013 what's usually wrong with multipoint locks?",
+   "a": "Multipoint lock failure on UPVC doors is often due to gearbox wear or misalignment. We can repair or replace the faulty gearbox mechanism, which is common on 1960s and modern estates like parts of Chasetown where composite and UPVC doors are widespread."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Burntwood \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Burntwood, including Chase Terrace and period properties. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation from a Burntwood locksmith specialising in locksmithing ensures your property meets current security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks for insurance requirements, or fitting new multipoint mechanisms, our experienced locksmiths deliver reliable, compliant solutions tailored to your home or business.",
+ "door-lock-installation.local-context-body": "Burntwood's interwar terraces and semis\u2014particularly across Chase Terrace\u2014frequently retain original period locks that no longer meet modern security standards. Many properties also feature the mixed door materials common to post-war estates in Chasetown, where timber frames sit alongside later UPVC and composite installations. Door lock installation addresses both heritage properties requiring period-appropriate mortice locks and updated homes needing contemporary anti-snap cylinder protection.\n\nPeriod properties across the area often require specialist fitting approaches to avoid damage to original woodwork and frames. The prevalence of older timber doors means installers must accommodate traditional mortice lock housings, while newer composite doors demand different installation techniques. BS3621 mortice locks and TS007 anti-snap cylinders serve different property ages and security requirements, making assessment of existing frame condition essential before fitting begins.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have an original period lock on my Hammerwich terrace \u2013 can you fit a modern BS3621 mortice lock without damaging the door?",
+   "a": "Yes \u2013 we specialise in fitting BS3621 mortice locks to period properties across Hammerwich and similar Victorian terraces. We assess your original frame and advise on sympathetic installation or period-appropriate alternatives that maintain character while upgrading security."
+  },
+  {
+   "q": "My Chasetown semi-detached has a UPVC door with a standard cylinder \u2013 should I upgrade to TS007 anti-snap?",
+   "a": "Absolutely \u2013 TS007 anti-snap cylinders are ideal for modern UPVC and composite doors common in Chasetown's post-war estates, offering much stronger resistance to snap attacks than older cylinders. We'll fit one quickly and ensure it's compatible with your existing multipoint mechanism."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Burntwood \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Burntwood and Chase Terrace. Like-for-like swaps or upgrades for period and modern doors. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Burntwood locksmiths specialise in professional door lock replacement and expert locksmithing for residential and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we install high-security mechanisms compliant with BS3621 standards. Our like-for-like cylinder swaps and anti-snap upgrades ensure your property remains protected.",
+ "door-lock-replacement.local-context-body": "Chase Terrace's interwar terraces often retain original period locks that have worn beyond safe repair, making door lock replacement a routine requirement. Similarly, detached properties in Brownhills West typically house mixed locking systems\u2014some original, others upgraded\u2014meaning replacement work spans both heritage-appropriate specifications and modern security standards. The age and variety of stock across Burntwood means lock failure is common, whether from wear or attempted forced entry.\n\nBurntwood's heritage properties, particularly Victorian and interwar properties in residential areas, frequently require locks that match period aesthetics or comply with conservation considerations. Timber-framed doors, still prevalent in older stock, demand careful lock selection to avoid damage during installation, whereas UPVC and composite doors fitted to modernised properties allow faster, straightforward replacement with contemporary locking mechanisms. Measuring and sourcing the correct specification\u2014whether reproduction or contemporary\u2014is essential to avoid call-backs.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have an original period lock on my interwar terrace in Brownhills West \u2013 can you replace it with something matching?",
+   "a": "Yes, we specialise in period-appropriate lock replacements for Burntwood's interwar properties. We can source and fit heritage-style locks that match your original fittings while upgrading security, or swap like-for-like if repair isn't viable."
+  },
+  {
+   "q": "My post-war semi in Hammerwich has a failed UPVC door lock \u2013 what are my options?",
+   "a": "We handle UPVC and modern composite door lock replacements across Hammerwich and surrounding areas. We'll assess whether a like-for-like swap suits your door type, or recommend a secure upgrade if the original lock is no longer available or unreliable."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Burntwood \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Burntwood, including Chase Terrace. uPVC alignment, timber door easing, gearbox replacement, handle repair and realignment.",
+ "door-repairs.hero-paragraph": "Our Burntwood locksmiths specialise in professional door repairs using expert locksmithing techniques tailored to your needs. Whether your uPVC, composite or timber door has dropped, won't close properly, or is catching, we diagnose and resolve issues through hinge adjustment, frame alignment and multipoint realignment. Fast, reliable service for all door types.",
+ "door-repairs.local-context-body": "Burntwood's mixed housing stock\u2014from Victorian terraces in Hammerwich through to post-war semis in Chasetown\u2014means door repairs span both heritage timber frames and modern UPVC composites. Older properties often present dropped or misaligned doors due to settlement and age, while updated homes require alignment work on contemporary door systems. The variety demands familiarity with period hardware alongside current locking mechanisms.\n\nMany properties across the area retain original period doors alongside modern replacements, requiring repair work that respects both functional performance and aesthetic consistency. Interwar and Victorian properties frequently feature solid timber construction prone to warping or hinge failure, whereas post-war estates present different wear patterns in lightweight frames. Door repair specialists working locally must navigate both traditional joinery considerations and modern door-closure standards.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Burntwood's interwar terraces and semis often need realignment?",
+   "a": "Older properties in areas like Chase Terrace and Brownhills West have settled unevenly over decades, causing door frames to shift and doors to drop or bind. We specialise in diagnosing settlement-related misalignment and restoring smooth operation without forcing frames out of true."
+  },
+  {
+   "q": "Can you repair period door hardware on Victorian and interwar properties in Burntwood?",
+   "a": "Yes\u2014many homes across Burntwood retain original locks, hinges and latches that can be adjusted, repaired or sympathetically replaced to match period character. We can also upgrade to modern composites or UPVC doors in Chasetown and post-war estates while keeping older timber frames functional."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Burntwood \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Burntwood. Espagnolette and shootbolt locks fixed on period properties and modern homes across Woodhouses and surrounding areas.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Burntwood requires skilled locksmiths with expertise in locksmithing. We specialise in fixing windows that won't lock and restoring failed espagnolette mechanisms. Whether your issue involves broken handles or faulty shootbolt locks, our engineers provide insurance-compliant fitting that restores security and functionality to your home.",
+ "window-lock-repair-replacement.local-context-body": "Properties across Hammerwich and Chase Terrace\u2014from Victorian terraces to interwar semis\u2014frequently retain original timber sash windows alongside period-appropriate hardware. Many of these older frames accommodate traditional espagnolette locks that have deteriorated over decades of use, while post-war properties in Chasetown feature UPVC and modern composite window systems requiring contemporary shootbolt mechanisms and regular maintenance as seals age.\n\nBurntwood's significant stock of heritage properties means window lock work often involves matching period specifications or obtaining heritage-appropriate replacements where listed-building considerations apply. Original timber windows in older properties may require specialist fitting to avoid damage to delicate frames, whereas the large number of 1960s and later replacements with standardised UPVC frames allow for straightforward modern lock installation and repair.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do many Burntwood terraces and semis need window lock replacement?",
+   "a": "Interwar properties in areas like Woodhouses and Hammerwich often have original wooden frames with period espagnolette locks that wear out or become unreliable after decades of use. We can repair these heritage locks or fit modern replacements that suit period-appropriate aesthetics."
+  },
+  {
+   "q": "What window locks work best for updated UPVC doors in Chasetown?",
+   "a": "Post-war estates in Chasetown frequently mix original timber windows with newer UPVC installations. We repair and replace shootbolt and espagnolette locks on both frame types, ensuring consistent security across your property."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Burntwood \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Burntwood for period properties. Wall, floor & freestanding safes with secure anchoring, insurance documentation & heritage considerations.",
+ "safe-installation.hero-paragraph": "Safe installation in Burntwood by our experienced locksmith team combines expert locksmithing with precision placement. Whether you've purchased a new safe or need insurance approval, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians position each unit with anti-leverage protection, guaranteeing security that meets your cash rating requirements.",
+ "safe-installation.local-context-body": "Chasetown's post-war semi-detached properties often require safe installation in homes where valuables, documents and heirlooms need securing. Period timber-framed properties across the area benefit from wall-safe fitting that respects original plasterwork and structural integrity, while modern composite doors in updated properties present different anchoring considerations for floor or freestanding models.\n\nMany properties in Burntwood's interwar stock feature solid brick construction ideal for secure wall mounting, though older terraces sometimes contain cavity walls requiring specialist assessment before installation. Listed or period properties in rural pockets around Hammerwich may require planning considerations or conservation officer sign-off, particularly where external alterations or visible fixings are proposed. Insurance documentation and proper anchoring certification are essential given the area's mixed property ages and varied construction methods.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Woodhouses \u2013 will a safe installation damage my original plasterwork or period features?",
+   "a": "We specialise in heritage-sensitive installations and can assess your period walls before recommending wall-mounted or floor safes that minimise damage to original features. Our team has extensive experience working in Burntwood's older residential stock and can advise on the best placement to preserve your property's character."
+  },
+  {
+   "q": "Can you install a safe in my interwar semi-detached property in Brownhills West, and will it be acceptable to my insurance company?",
+   "a": "Yes \u2013 we provide full installation with professional anchoring and complete insurance documentation for all safe types. Our fittings meet insurer requirements across Burntwood's diverse property stock, and we'll ensure your safe is installed to the standard your policy requires."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Burntwood \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Burntwood & Chase Terrace. Non-destructive opening for lost keys, combinations, lockouts. Domestic & commercial safes.",
+ "safe-opening.hero-paragraph": "Our Burntwood locksmiths specialise in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians employ precision combination dial manipulation to regain access without damage to your safe or its contents.",
+ "safe-opening.local-context-body": "In areas like Brownhills West, where interwar semi-detached properties predominate, safes are often found in home offices, studies, or built into period furniture and wall cavities. These older properties frequently house vintage safe models requiring specialist non-destructive opening techniques; modern combination-reset methods may not suit heritage mechanisms. Safe lockouts in such settings demand familiarity with period engineering and materials.\n\nBurntwood's mixed residential character means safes range from early mechanical models in Victorian-era properties to mid-century domestic safes in post-war estates. Non-destructive opening work must account for the structural integrity of older properties, where safe installation may have involved period-appropriate fixings or embedded casings. Listed building considerations in some areas also affect the approach to safe access and any potential remedial work required afterward.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've lost the combination to an old safe in my Hammerwich Victorian terrace \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties across Hammerwich and similar older residential stock in Burntwood. Our technicians can manipulate or decode most vintage lock mechanisms without drilling or forcing, preserving both the safe and your property's character."
+  },
+  {
+   "q": "We're renovating a post-war semi in Chasetown and found a locked safe \u2013 what if we can't find the keys?",
+   "a": "We can open safes from post-war estates like those in Chasetown without damage, even if keys are missing or combinations forgotten. Once open, we can also advise on upgrading the locking mechanism or relocating the safe to suit your renovation plans."
+  }
+ ],
+ "home.areas-covered": [
+  "Chase Terrace",
+  "Chasetown",
+  "Woodhouses"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "locked-out.areas-covered": [
+  "Chasetown",
+  "Chase Terrace",
+  "Woodhouses"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Woodhouses",
+  "Chase Terrace",
+  "Chasetown"
+ ],
+ "lock-changes.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "lock-repairs.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "door-repairs.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "safe-installation.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ],
+ "safe-opening.areas-covered": [
+  "Chase Terrace",
+  "Woodhouses",
+  "Chasetown"
+ ]
 }

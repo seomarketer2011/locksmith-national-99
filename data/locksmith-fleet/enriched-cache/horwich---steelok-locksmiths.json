@@ -1,311 +1,241 @@
 {
-  "meta.title": "Locksmith Horwich | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted Horwich locksmith for Victorian terraces, post-war homes, and Middlebrook businesses. Emergency call-outs, repairs, rekeying, and security upgrades.",
-  "home.hero-paragraph": "Horwich locksmiths deliver professional locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and security upgrades. Our DBS-checked engineers provide rapid response 24/7, with fully insured, non-destructive entry and no call-out fees.",
-  "home.local-context-heading": "Horwich's Victorian Mills to Modern Commerce",
-  "home.local-context-body": "Horwich's housing stock spans Victorian terraces in Aspull through post-war semis in Wingates, each presenting distinct locksmithing needs. Period properties retain original sash locks and cast mechanisms requiring specialist knowledge and period-appropriate parts. Newer estates typically feature standard mortice and cylinder locks with high-volume rekeying and replacement demand. Middlebrook's commercial district adds commercial-grade systems and access control work to local requirements.\n\nMany Horwich properties fall under conservation consideration, particularly Victorian and Edwardian terraces where original door furniture must be matched or restored rather than replaced. HMO regulations in the area require compliant locking systems on shared doors and individual rooms. Identifying lock type early—whether period hardware or modern cylinder—determines whether a call-out involves restoration, replacement, or straightforward maintenance.",
-  "home.local-faqs": [
-    {
-      "q": "Do you work on Victorian sash locks in properties like those in Aspull?",
-      "a": "Yes. Aspull's historic mill-worker terraces often retain original period locks and mechanisms that need specialist knowledge. We carry period-appropriate parts and can service, repair, or upgrade sash locks without compromising the character of your home."
-    },
-    {
-      "q": "Can you help with commercial security at Middlebrook?",
-      "a": "Absolutely. We service roller-shutter locks, access control systems, and commercial-grade security for Middlebrook's retail and business park tenants. Call us on 01204 265089 for fast response to business lockouts and upgrades."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Horwich – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Horwich. Locked out of your terrace or semi? Key snapped? Fast response, non-destructive entry. Available around the clock.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Horwich combines expert locksmithing with rapid response times to resolve urgent access problems. Whether you're locked out of your home, facing a snapped key, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage and restore your security quickly.",
-  "emergency-locksmith.local-context-body": "Horwich's mixed residential character means emergency locksmith demand spans period properties and modern estates alike. Victorian terraces in Aspull require specialist intervention when original sash locks jam or period mechanisms fail; post-war semis across Aspull Moor and Blackrod present high call volumes for snapped keys and failed cylinder locks, particularly in rental properties with wear-prone hardware.\n\nThe prevalence of original mortice locks in Victorian and Edwardian stock complicates rapid access during lockouts, as these mechanisms often resist standard techniques and may require careful manipulation to avoid damage to listed or heritage features. Modern post-war properties, by contrast, favour cylinder locks that permit quicker emergency resolution, though landlord-managed properties frequently present access barriers when tenants cannot be reached immediately.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Blackrod – how quickly can you arrive?",
-      "a": "We operate 24/7 emergency callouts across Horwich and Blackrod. For Victorian terraces with period sash locks, we carry specialist tools and stock original-pattern components, so we can often open and secure your door without damage. Call 01204 265089 now for immediate dispatch."
-    },
-    {
-      "q": "My business unit at Middlebrook has a jammed roller-shutter lock after hours – do you handle commercial emergency calls?",
-      "a": "Yes – we provide round-the-clock emergency locksmith cover for Middlebrook's retail and business park units, including roller-shutter locks, access control issues, and post-break-in security. Contact us on 01204 265089 and we'll prioritise your call."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Horwich | 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Horwich? Steelok provides fast non-destructive entry for lost or snapped keys. Available 24/7 for Victorian terraces, semis & modern homes.",
-  "locked-out.hero-paragraph": "When you're locked out in Horwich, our qualified locksmiths bring decades of locksmithing expertise to your door. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry techniques that restore access without damage. Fast response times and professional service every time.",
-  "locked-out.local-context-body": "Locked-out incidents across Horwich affect a broad range of properties, from Victorian terraces in Aspull with their original sash locks and period door furniture to post-war semis throughout Wingates where cylinder and mortice locks predominate. The variety of lock mechanisms and door construction across these neighborhoods means non-destructive entry requires different techniques depending on property age and condition, with older properties often presenting the additional challenge of fragile frames or irreplaceable hardware.\n\nMany properties in Horwich's Victorian and Edwardian housing stock feature original wooden door frames and period-specific locking systems that demand specialist handling during non-destructive entry to avoid costly damage. Modern access techniques must account for these heritage considerations, particularly where listed-building status or conservation area designations apply, as forcing or drilling can trigger repair obligations or conservation authority involvement that complicate resolution for residents already in distress.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Aspull – will you damage my original sash lock?",
-      "a": "No. Our locksmiths specialise in non-destructive entry on period mechanisms common in Aspull's historic mill-worker housing. We'll manipulate or pick your original lock rather than force it, preserving its character and avoiding costly restoration."
-    },
-    {
-      "q": "How quickly can you reach me if I'm locked out in the Middlebrook business park?",
-      "a": "We're based in Horwich and typically respond to Middlebrook commercial lockouts within 30–45 minutes. Call 01204 265089 with your location and we'll dispatch a van equipped for both standard and commercial-grade access solutions."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Horwich | Victorian & Modern Locks",
-  "broken-key-removal.meta.description": "Broken key removal service in Horwich. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast professional extraction for Victorian terraces & modern homes.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Horwich by our expert locksmiths combines precision locksmithing with proven extraction techniques. When keys snap or shear inside euro cylinders or mortice locks, our technicians employ specialist key extractor tools and broken-key probes to retrieve fragments safely. We prioritise non-destructive methods, ensuring your lock remains fully functional and undamaged throughout the process.",
-  "broken-key-removal.local-context-body": "Broken keys left in euro cylinders and mortice locks are a frequent problem across Horwich's older residential areas. Victorian and Edwardian terraces in Aspull contain original period locks and worn mechanisms that are more prone to key breakage, especially where keys have been forced or locks have stiffened with age. Semi-detached properties across the town's post-war estates also experience routine broken-key incidents, typically in cylinder locks where standard keys can snap under pressure.\n\nExtraction work in Horwich's historic properties requires care around original door frames and surrounds, particularly in listed or locally-designated buildings where drilling out locks risks damaging period joinery. The prevalence of original sash locks and non-standard mortice mechanisms in older terraces means technicians must carry specialist extraction tools and often cannot simply replace locks without considering heritage-sensitive repair methods. Post-war semis generally permit straightforward removal and replacement.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "My sash lock in our Victorian terrace in Rivington has a broken key stuck inside—can you remove it without damaging the period mechanism?",
-      "a": "Yes. Victorian sash locks often have delicate internal components, so we use specialist extraction techniques to remove the broken key without forcing or widening the cylinder. We can then supply a matching period-appropriate replacement key or advise on lock maintenance to prevent future breakage."
-    },
-    {
-      "q": "A key snapped in the euro cylinder of our office door at Middlebrook—how quickly can you attend and get us back in?",
-      "a": "We offer same-day emergency callouts across Horwich, including the Middlebrook commercial district. Broken key extraction from euro cylinders typically takes 15–30 minutes, and we can rekey or replace the cylinder on-site to minimise your business downtime."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Horwich – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Horwich & Blackrod. Post-break-in lock changes, door repairs, insurance-compliant reinstatement. Fast response.",
-  "burglar-repair-service.hero-paragraph": "Our Horwich locksmiths specialise in burglar repair and locksmithing services following break-ins and forced entry. We restore security to damaged doors and compromised locks using insurance-compliant solutions, including TS007 anti-snap cylinders and BS3621 mortice locks. Our rapid response team ensures your property is secure again within hours.",
-  "burglar-repair-service.local-context-body": "Post-break-in repairs in Horwich address damage across a varied housing stock. Semi-detached properties in Wingates and Victorian terraces across the town commonly require frame repairs, lock replacement, and door reinforcement following forced entry. Period properties often need sympathetic restoration to match original joinery, while modern semis typically require standard cylinder and mortice lock reinstatement with upgraded security specifications.\n\nListed building status affects repair protocols in conservation areas, particularly around Rivington, where replacements must match original materials and specifications. Insurance assessments frequently require evidence of proper reinstatement to original security standards rather than downgrade, making period-appropriate parts sourcing and specialist joinery knowledge essential for claims validation in older properties.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "I've had a break-in at my Victorian terrace in Aspull – can you repair the original sash lock and door frame?",
-      "a": "Yes. Victorian and Edwardian period locks require specialist knowledge; we source and fit authentic or period-compatible replacements to restore security without compromising the character of your home. We'll also assess and repair any frame damage to insurance reinstatement standards."
-    },
-    {
-      "q": "My post-war semi in Wingates was broken into – do you handle insurance paperwork and emergency boarding?",
-      "a": "Absolutely. We provide full burglar repair service including emergency secure boarding, lock and door reinstatement, and we work directly with insurers to ensure all work meets their requirements and documentation."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Horwich | Victorian Terrace Specialists",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Horwich & Blackrod. Same-day door and window boarding after break-ins, storms or accidents. Secure your property fast.",
-  "emergency-boarding-up.hero-paragraph": "Our Horwich locksmiths specialise in emergency boarding up services that combine expert locksmithing with rapid response security solutions. When smashed windows or damaged doors leave your property vulnerable, our 24/7 team secures the breach using robust plywood boards and security screws. We ensure every temporary seal meets insurance compliance standards, protecting your premises until permanent repairs are arranged.",
-  "emergency-boarding-up.local-context-body": "Horwich's Victorian and Edwardian terraces in Aspull present particular boarding-up challenges after break-ins. Period sash windows and original timber frames require careful assessment before temporary protection is applied, as improper boarding can cause further damage to irreplaceable joinery. Semi-detached properties across post-war estates need rapid response to secure standard uPVC and aluminium frames, which dominate the housing stock and can be boarded efficiently once glass is cleared.\n\nListed-building status affects a significant proportion of Horwich's older housing, particularly in terrace-dense areas. Emergency boarding must respect planning constraints and material compatibility; temporary plywood fixes on listed properties often require follow-up notification to local authority, and permanent repairs typically cannot proceed without conservation consent. This layered approval process means emergency work is genuinely temporary, with residents needing clear guidance on next steps before permanent reinstatement can begin.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian sash windows in Rivington properties the same way as modern frames?",
-      "a": "No—Victorian sashes have unique glazing bars and period frames that need careful measurement and custom-cut boarding to avoid damage to original joinery. We assess each heritage property individually to preserve its character while securing it safely."
-    },
-    {
-      "q": "Can you board up commercial units at Middlebrook quickly if a roller shutter is damaged?",
-      "a": "Yes, we prioritize rapid boarding for retail and business premises at Middlebrook to minimize trading downtime. Our team carries materials for both standard shop frontages and larger commercial roller-shutter openings, and we aim to attend emergency calls within the hour."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Horwich | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Horwich for Victorian terraces, post-war semis & modern homes. Lost keys, moving house, security upgrades. Fast professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Horwich by our experienced locksmith specialists combine modern locksmithing techniques with quality assurance. Whether you're moving home, changing tenancy, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property effectively.",
-  "lock-changes.local-context-body": "Lock changes in Rivington address mixed Victorian properties alongside modern detached homes, each presenting distinct requirements. Period terraces often retain original mortice locks requiring specialist replacement parts and knowledge of heritage specifications, while newer builds typically need standard cylinder or mortice-and-cylinder combinations. The rural and semi-rural character means some properties sit isolated, making security upgrades a practical priority for homeowners relocating to the area.\n\nHorwich's listed buildings in older neighborhoods require compliance with conservation guidelines during lock replacement; installers must verify whether period-appropriate mechanisms or approved modern alternatives suit the property's status. Post-war estates like Wingates predominantly feature straightforward mortice locks on timber frames, enabling faster turnarounds, though properties with non-standard door materials or multiple access points demand careful measurement before parts are ordered.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Aspull – do I need specialist lock replacement?",
-      "a": "Yes. Victorian and Edwardian terraces in Aspull often have period sash locks and original door mechanisms that require specialist knowledge. We can replace these with modern, secure alternatives while respecting the property's character, or upgrade to contemporary locks if you prefer."
-    },
-    {
-      "q": "What's the typical cost to change locks on a post-war semi in Aspull Moor after losing my keys?",
-      "a": "Post-war semis in Aspull Moor usually have standard mortice or cylinder locks, making replacement straightforward and cost-effective. We'll assess your specific lock type and provide a quote; emergency key-loss replacements are our specialty, and we can often attend same-day."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Horwich | Victorian & Modern Doors",
-  "lock-repairs.meta.description": "Expert door lock repairs in Horwich – mortice, multipoint & night latches. Serving Victorian terraces & post-war estates. 24/7 emergency callouts.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Horwich from our experienced locksmith team combine traditional locksmithing with modern techniques. Whether your lock has become stiff, jammed, or the key won't turn, our specialists diagnose and resolve the issue efficiently. We handle everything from mortice maintenance to multipoint servicing, ensuring your locks function reliably and are backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Terraced properties across Aspull and semi-detached homes in Aspull Moor frequently present worn gearbox and mortice locks that require specialist repair rather than replacement. These mechanisms, common in post-war housing stock, can be restored cost-effectively when internal components fail, avoiding the expense of new lock installation while maintaining door security and functionality.\n\nHorwich's mixed Victorian through modern building stock means repair technicians must handle both period-appropriate night latches on older terraces and standard multipoint systems on contemporary properties. Access constraints in traditional terraced streets and the prevalence of original door frames often necessitate on-site diagnosis to determine whether repair or replacement is the practical solution.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Aspull need specialist lock repair?",
-      "a": "Victorian and Edwardian properties in Aspull often feature original period sash locks and brass mechanisms that require knowledge of heritage fittings and compatible replacement parts. Our locksmiths understand these older systems and can repair or restore them without damaging period features."
-    },
-    {
-      "q": "What's the most common lock repair needed in post-war estates like Wingates?",
-      "a": "Semi-detached and terraced homes in Wingates typically use standard mortice and cylinder locks that wear heavily with use. We regularly repair or replace failed gearbox mechanisms and multipoint locks on these properties, often same-day."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Horwich | Victorian & Modern Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Horwich & Aspull. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems for Victorian terraces and modern homes.",
-  "door-lock-installation.hero-paragraph": "Our Horwich locksmiths specialise in door lock installation and expert locksmithing for residential and commercial properties. Whether you need new fittings for enhanced security or require BS3621 mortice locks to meet insurance requirements, we install anti-snap cylinders and multipoint mechanisms to the highest standards. Every installation is completed to current security specifications.",
-  "door-lock-installation.local-context-body": "New door lock installations across Horwich address diverse housing needs, from Victorian terraces in Aspull requiring period-appropriate mechanisms to post-war semi-detached properties in Wingates needing modern BS3621 mortice locks and anti-snap cylinders. The mix of older properties with original door furniture alongside newer homes with standard frames creates varied fitting requirements, with many installations involving upgrades to properties where existing locks no longer meet current security standards.\n\nListed-building status affects a significant proportion of Horwich's Victorian and Edwardian stock, meaning lock installations in older properties often require sympathetic fitting that preserves original door casings and architraves. Cylinder lock choices—particularly TS007 anti-snap variants—have become standard expectations for security-conscious householders, though terraced properties may require longer cylinders due to thicker original doors, necessitating accurate measurement before supply and fitting.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terraced house in Aspull – will a new BS3621 mortice lock fit my original door frame?",
-      "a": "Yes, BS3621 mortice locks are designed to fit standard apertures in period doors, but Victorian frames can vary. We'll survey your door first to confirm compatibility and advise if period-appropriate styling is preferred to maintain your home's character."
-    },
-    {
-      "q": "We run a retail unit in Middlebrook – what's the difference between a standard cylinder lock and TS007 anti-snap for commercial use?",
-      "a": "TS007 anti-snap cylinders resist forced entry methods common in commercial areas; they're BS PAS 24 certified and ideal for retail frontages. We'll install the right spec for your Middlebrook location and advise on multipoint upgrades if needed."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Horwich – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Horwich & Aspull. Expert swaps and security upgrades for Victorian terraces and modern homes. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our Horwich locksmith team specialises in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades for enhanced security. All work meets current security standards.",
-  "door-lock-replacement.local-context-body": "Horwich's mixed housing stock—from Victorian terraces in Aspull to post-war semis across Wingates—creates varied door lock replacement demands. Period properties often retain original mortice locks requiring specialist sourcing and careful handling, while modern estates feature standard cylinder locks that need routine swapping due to wear or security upgrades. Each property type dictates different installation approaches and parts availability.\n\nSash doors and solid timber frames in older terraces can complicate fitting schedules and may require additional reinforcement during lock replacement. Post-war semis typically present straightforward cylinder or mortice changes, but the Middlebrook commercial district's presence means some residential properties function as holiday lets or multi-let units, where lock replacement must account for access control expectations beyond standard domestic systems.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Aspull with an original sash lock that's stuck — can you replace it without damaging the door?",
-      "a": "Yes. Victorian sash locks are specialist work; we carry period-appropriate replacements and have the expertise to remove seized mechanisms without splitting the frame. We'll match the style and function of your original lock or upgrade to a modern mortice if you prefer."
-    },
-    {
-      "q": "My semi-detached in Aspull Moor has a worn cylinder lock — is a like-for-like swap quick and affordable?",
-      "a": "Absolutely. Post-war semis typically use standard mortice and cylinder locks that are straightforward to replace. A like-for-like swap is fast and cost-effective; we can also discuss a security upgrade to a higher-spec cylinder if you'd like enhanced protection."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Horwich | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Horwich & Blackrod: uPVC alignment, mortice locks, composite doors, timber easing & handle repair.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Horwich from our experienced locksmith team specialising in locksmithing solutions for damaged and misaligned doors. Whether your door is dropping, catching, or failing to close properly, we diagnose the underlying issue—from hinge adjustment to frame alignment—and restore full functionality. We work with uPVC, composite and timber doors to the highest standards.",
-  "door-repairs.local-context-body": "Horwich's Victorian and Edwardian terraces, particularly across Blackrod, feature original timber frames and period hardware that frequently require realignment and specialist repair. Post-war semis and detached properties in Aspull Moor, built with standard timber or composite doors, experience common settlement-related misalignment and hinge wear. Door repairs in these varied properties demand knowledge of both heritage mechanisms and modern locking systems.\n\nMany period properties in the town centre retain sash locks and original door mechanisms that demand careful handling during repair work; forced adjustment risks irreversible damage to listed or heritage-protected features. Modern properties typically allow faster remedial work, but the mix of construction standards across Horwich means surveyors must assess each door's age, material and existing hardware before specifying repairs or replacement.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Aspull has dropped sash doors – can you fix them without replacing the frames?",
-      "a": "Yes. Victorian sash doors in Aspull's historic mill-worker housing often drop due to wear on original hinges and settlement. We can rehang, adjust, or fit period-appropriate hardware to restore alignment without frame replacement."
-    },
-    {
-      "q": "We run a unit in Middlebrook and our roller-shutter door is sticking – do you repair commercial doors?",
-      "a": "We do. Middlebrook's retail and business park units rely on robust commercial-grade door systems; we repair, realign, and service roller shutters, access doors, and commercial hardware to keep your premises secure and operational."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Horwich | Terraces",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Horwich and Aspull. Espagnolette and shootbolt locks fixed on Victorian terraces, semis and modern uPVC windows.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Horwich locksmiths specialise in window lock repair and replacement as a core locksmithing service. Whether you're dealing with windows that won't lock or broken handles, we diagnose and fix espagnolette mechanisms and shootbolt locks with precision. All installations meet insurance-compliant standards, ensuring your home security is both reliable and properly protected.",
-  "window-lock-repair-replacement.local-context-body": "Period sash windows in Horwich's Victorian and Edwardian terraces—particularly across Blackrod—frequently feature original espagnolette locks that wear or jam from decades of use. Semi-detached properties built in post-war estates typically have modern casement windows with shootbolt mechanisms, though these standard locks still require periodic repair or replacement as they age. Both property types benefit from prompt attention to window lock failure, as faulty locks compromise security and weatherproofing.\n\nMany of Horwich's older terraced properties fall within conservation areas or listed-building designations, requiring window lock repairs to respect original hardware specifications and period-appropriate materials. Where replacement becomes necessary, sourcing compatible locks—particularly for Victorian sash windows—demands knowledge of traditional mechanisms and availability of suitable parts. Commercial properties in the Middlebrook district often have multi-point locking systems that require specialist servicing beyond standard domestic window lock work.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace window locks in Aspull fail so often?",
-      "a": "Victorian sash windows use period espagnolette and shootbolt mechanisms that wear significantly over 100+ years; Steelok specialises in both repairing original hardware and fitting modern replacements that maintain period aesthetics while improving security and ease of use."
-    },
-    {
-      "q": "Can you repair window locks on the modern semis in Aspull Moor, or do they need full replacement?",
-      "a": "Post-war semi-detached properties typically have standard cylinder and shootbolt locks that we can often repair cost-effectively; we'll diagnose the fault on-site and recommend replacement only if the mechanism is beyond safe repair."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Horwich | Victorian Homes & Commercial",
-  "safe-installation.meta.description": "Safe installation in Horwich & Blackrod. Wall, floor and freestanding safes with secure anchoring, anti-leverage positioning and insurance documentation.",
-  "safe-installation.hero-paragraph": "Safe installation in Horwich by our expert locksmith team combines decades of locksmithing experience with precision security. We specialise in floor anchoring and wall mounting techniques that meet Eurograde and AiS approved standards. Whether you're securing a new safe or need insurance approval documentation, our technicians ensure your valuables are protected to the highest specification.",
-  "safe-installation.local-context-body": "Wingates' post-war semis and detached homes across Horwich commonly require wall-mounted safes fitted to solid brick or block, with concrete floors suitable for floor anchoring. Semi-detached properties in particular benefit from secure safe placement away from party walls, reducing theft risk and insurance complications. Victorian terraces in Aspull present narrower options due to cavity wall construction, making freestanding safes with proper floor bolting the more practical choice.\n\nMany properties in Horwich's conservation areas, particularly Rivington's mixed Victorian stock, fall under listed-building or planning constraints that restrict wall drilling and structural alteration. Insurance documentation for safe installation must account for these restrictions and specify anchoring method; underwriters often require photographs of installation and certification of fixings. Pre-installation surveying is essential to confirm wall composition and establish whether listed-status permits the proposed mounting approach.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in Aspull – will a safe installation damage my period walls?",
-      "a": "We're experienced with Aspull's historic terraces and use precision drilling techniques to minimise damage to original plasterwork and masonry. We'll advise on the best placement to avoid pipes and support beams, and can recommend finishes that blend with period interiors."
-    },
-    {
-      "q": "My business is in Middlebrook – do you install safes for commercial premises?",
-      "a": "Yes, we regularly install commercial-grade safes across Middlebrook's retail and business park units, with anchoring suitable for high-traffic environments and full insurance documentation included."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening in Horwich | Fast Response Service",
-  "safe-opening.meta.description": "Safe opening in Horwich: lost combinations, keys & lockouts. Domestic and commercial safes opened non-destructively. Serving Middlebrook & beyond.",
-  "safe-opening.hero-paragraph": "Our Horwich locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians use combination dial manipulation and precision tools to resolve your safe emergency quickly and professionally.",
-  "safe-opening.local-context-body": "Safe deposits and home safes are common across Horwich's detached and semi-detached properties, particularly in Rivington's mixed Victorian-to-modern housing where valuable documents, heirlooms, and cash storage reflect the area's commuter-belt demographics. Lost combinations and misplaced keys frequently lock owners out of safes installed decades ago, requiring non-destructive opening techniques that preserve both the safe and its contents intact.\n\nHorwich's substantial Victorian terraced stock often contains period safes built into chimney breasts or alcoves, their original documentation long discarded. Access to these heritage safes demands specialist knowledge of antique mechanisms and finishes; aggressive drilling or prying risks damage to listed features and surrounding brickwork, making preservation-focused opening methods essential.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Rivington with a safe I can't open – do you handle period safes?",
-      "a": "Yes. Victorian and Edwardian properties often contain older safe models with unique locking mechanisms. We specialise in non-destructive opening of period safes and can work with original combinations, lost keys, or mechanical wear without damaging the unit or its contents."
-    },
-    {
-      "q": "Our Middlebrook business unit's safe is locked and we've lost the combination – how quickly can you help?",
-      "a": "We offer same-day safe opening for commercial premises in the Middlebrook district. Our non-destructive methods mean your safe remains fully functional and secure once reopened, minimising business disruption."
-    }
-  ],
-  "home.areas-covered": [
-    "Aspull",
-    "Aspull Moor",
-    "Blackrod",
-    "Middlebrook",
-    "Rivington",
-    "Wingates"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Aspull",
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington"
-  ],
-  "locked-out.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Middlebrook",
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Rivington",
-    "Aspull"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Blackrod",
-    "Aspull Moor",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Wingates",
-    "Aspull Moor",
-    "Blackrod",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "lock-changes.areas-covered": [
-    "Rivington",
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Aspull"
-  ],
-  "lock-repairs.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "door-repairs.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "safe-installation.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ],
-  "safe-opening.areas-covered": [
-    "Aspull Moor",
-    "Blackrod",
-    "Wingates",
-    "Middlebrook",
-    "Rivington",
-    "Aspull"
-  ]
+ "meta.title": "Locksmith Horwich | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted Horwich locksmith for Victorian terraces, post-war homes, and Middlebrook businesses. Emergency call-outs, repairs, rekeying, and security upgrades.",
+ "home.hero-paragraph": "Horwich locksmiths deliver professional locksmithing lock services for residential and commercial properties. We specialise in emergency lockouts, lock changes, and security upgrades. Our DBS-checked engineers provide rapid response 24/7, with fully insured, non-destructive entry and no call-out fees.",
+ "home.local-context-heading": "Horwich's Victorian Mills to Modern Commerce",
+ "home.local-context-body": "Horwich's housing stock spans Victorian terraces in Aspull through post-war semis in Wingates, each presenting distinct locksmithing needs. Period properties retain original sash locks and cast mechanisms requiring specialist knowledge and period-appropriate parts. Newer estates typically feature standard mortice and cylinder locks with high-volume rekeying and replacement demand. Middlebrook's commercial district adds commercial-grade systems and access control work to local requirements.\n\nMany Horwich properties fall under conservation consideration, particularly Victorian and Edwardian terraces where original door furniture must be matched or restored rather than replaced. HMO regulations in the area require compliant locking systems on shared doors and individual rooms. Identifying lock type early\u2014whether period hardware or modern cylinder\u2014determines whether a call-out involves restoration, replacement, or straightforward maintenance.",
+ "home.local-faqs": [
+  {
+   "q": "Do you work on Victorian sash locks in properties like those in Aspull?",
+   "a": "Yes. Aspull's historic mill-worker terraces often retain original period locks and mechanisms that need specialist knowledge. We carry period-appropriate parts and can service, repair, or upgrade sash locks without compromising the character of your home."
+  },
+  {
+   "q": "Can you help with commercial security at Middlebrook?",
+   "a": "Absolutely. We service roller-shutter locks, access control systems, and commercial-grade security for Middlebrook's retail and business park tenants. Call us on 01204 265089 for fast response to business lockouts and upgrades."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Horwich \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Horwich. Locked out of your terrace or semi? Key snapped? Fast response, non-destructive entry. Available around the clock.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Horwich combines expert locksmithing with rapid response times to resolve urgent access problems. Whether you're locked out of your home, facing a snapped key, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage and restore your security quickly.",
+ "emergency-locksmith.local-context-body": "Horwich's mixed residential character means emergency locksmith demand spans period properties and modern estates alike. Victorian terraces in Aspull require specialist intervention when original sash locks jam or period mechanisms fail; post-war semis across Aspull Moor and Blackrod present high call volumes for snapped keys and failed cylinder locks, particularly in rental properties with wear-prone hardware.\n\nThe prevalence of original mortice locks in Victorian and Edwardian stock complicates rapid access during lockouts, as these mechanisms often resist standard techniques and may require careful manipulation to avoid damage to listed or heritage features. Modern post-war properties, by contrast, favour cylinder locks that permit quicker emergency resolution, though landlord-managed properties frequently present access barriers when tenants cannot be reached immediately.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Blackrod \u2013 how quickly can you arrive?",
+   "a": "We operate 24/7 emergency callouts across Horwich and Blackrod. For Victorian terraces with period sash locks, we carry specialist tools and stock original-pattern components, so we can often open and secure your door without damage. Call 01204 265089 now for immediate dispatch."
+  },
+  {
+   "q": "My business unit at Middlebrook has a jammed roller-shutter lock after hours \u2013 do you handle commercial emergency calls?",
+   "a": "Yes \u2013 we provide round-the-clock emergency locksmith cover for Middlebrook's retail and business park units, including roller-shutter locks, access control issues, and post-break-in security. Contact us on 01204 265089 and we'll prioritise your call."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Horwich | 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Horwich? Steelok provides fast non-destructive entry for lost or snapped keys. Available 24/7 for Victorian terraces, semis & modern homes.",
+ "locked-out.hero-paragraph": "When you're locked out in Horwich, our qualified locksmiths bring decades of locksmithing expertise to your door. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry techniques that restore access without damage. Fast response times and professional service every time.",
+ "locked-out.local-context-body": "Locked-out incidents across Horwich affect a broad range of properties, from Victorian terraces in Aspull with their original sash locks and period door furniture to post-war semis throughout Wingates where cylinder and mortice locks predominate. The variety of lock mechanisms and door construction across these neighborhoods means non-destructive entry requires different techniques depending on property age and condition, with older properties often presenting the additional challenge of fragile frames or irreplaceable hardware.\n\nMany properties in Horwich's Victorian and Edwardian housing stock feature original wooden door frames and period-specific locking systems that demand specialist handling during non-destructive entry to avoid costly damage. Modern access techniques must account for these heritage considerations, particularly where listed-building status or conservation area designations apply, as forcing or drilling can trigger repair obligations or conservation authority involvement that complicate resolution for residents already in distress.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Aspull \u2013 will you damage my original sash lock?",
+   "a": "No. Our locksmiths specialise in non-destructive entry on period mechanisms common in Aspull's historic mill-worker housing. We'll manipulate or pick your original lock rather than force it, preserving its character and avoiding costly restoration."
+  },
+  {
+   "q": "How quickly can you reach me if I'm locked out in the Middlebrook business park?",
+   "a": "We're based in Horwich and typically respond to Middlebrook commercial lockouts within 30\u201345 minutes. Call 01204 265089 with your location and we'll dispatch a van equipped for both standard and commercial-grade access solutions."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Horwich | Victorian & Modern Locks",
+ "broken-key-removal.meta.description": "Broken key removal service in Horwich. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast professional extraction for Victorian terraces & modern homes.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Horwich by our expert locksmiths combines precision locksmithing with proven extraction techniques. When keys snap or shear inside euro cylinders or mortice locks, our technicians employ specialist key extractor tools and broken-key probes to retrieve fragments safely. We prioritise non-destructive methods, ensuring your lock remains fully functional and undamaged throughout the process.",
+ "broken-key-removal.local-context-body": "Broken keys left in euro cylinders and mortice locks are a frequent problem across Horwich's older residential areas. Victorian and Edwardian terraces in Aspull contain original period locks and worn mechanisms that are more prone to key breakage, especially where keys have been forced or locks have stiffened with age. Semi-detached properties across the town's post-war estates also experience routine broken-key incidents, typically in cylinder locks where standard keys can snap under pressure.\n\nExtraction work in Horwich's historic properties requires care around original door frames and surrounds, particularly in listed or locally-designated buildings where drilling out locks risks damaging period joinery. The prevalence of original sash locks and non-standard mortice mechanisms in older terraces means technicians must carry specialist extraction tools and often cannot simply replace locks without considering heritage-sensitive repair methods. Post-war semis generally permit straightforward removal and replacement.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "My sash lock in our Victorian terrace in Rivington has a broken key stuck inside\u2014can you remove it without damaging the period mechanism?",
+   "a": "Yes. Victorian sash locks often have delicate internal components, so we use specialist extraction techniques to remove the broken key without forcing or widening the cylinder. We can then supply a matching period-appropriate replacement key or advise on lock maintenance to prevent future breakage."
+  },
+  {
+   "q": "A key snapped in the euro cylinder of our office door at Middlebrook\u2014how quickly can you attend and get us back in?",
+   "a": "We offer same-day emergency callouts across Horwich, including the Middlebrook commercial district. Broken key extraction from euro cylinders typically takes 15\u201330 minutes, and we can rekey or replace the cylinder on-site to minimise your business downtime."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Horwich \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Horwich & Blackrod. Post-break-in lock changes, door repairs, insurance-compliant reinstatement. Fast response.",
+ "burglar-repair-service.hero-paragraph": "Our Horwich locksmiths specialise in burglar repair and locksmithing services following break-ins and forced entry. We restore security to damaged doors and compromised locks using insurance-compliant solutions, including TS007 anti-snap cylinders and BS3621 mortice locks. Our rapid response team ensures your property is secure again within hours.",
+ "burglar-repair-service.local-context-body": "Post-break-in repairs in Horwich address damage across a varied housing stock. Semi-detached properties in Wingates and Victorian terraces across the town commonly require frame repairs, lock replacement, and door reinforcement following forced entry. Period properties often need sympathetic restoration to match original joinery, while modern semis typically require standard cylinder and mortice lock reinstatement with upgraded security specifications.\n\nListed building status affects repair protocols in conservation areas, particularly around Rivington, where replacements must match original materials and specifications. Insurance assessments frequently require evidence of proper reinstatement to original security standards rather than downgrade, making period-appropriate parts sourcing and specialist joinery knowledge essential for claims validation in older properties.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "I've had a break-in at my Victorian terrace in Aspull \u2013 can you repair the original sash lock and door frame?",
+   "a": "Yes. Victorian and Edwardian period locks require specialist knowledge; we source and fit authentic or period-compatible replacements to restore security without compromising the character of your home. We'll also assess and repair any frame damage to insurance reinstatement standards."
+  },
+  {
+   "q": "My post-war semi in Wingates was broken into \u2013 do you handle insurance paperwork and emergency boarding?",
+   "a": "Absolutely. We provide full burglar repair service including emergency secure boarding, lock and door reinstatement, and we work directly with insurers to ensure all work meets their requirements and documentation."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Horwich | Victorian Terrace Specialists",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Horwich & Blackrod. Same-day door and window boarding after break-ins, storms or accidents. Secure your property fast.",
+ "emergency-boarding-up.hero-paragraph": "Our Horwich locksmiths specialise in emergency boarding up services that combine expert locksmithing with rapid response security solutions. When smashed windows or damaged doors leave your property vulnerable, our 24/7 team secures the breach using robust plywood boards and security screws. We ensure every temporary seal meets insurance compliance standards, protecting your premises until permanent repairs are arranged.",
+ "emergency-boarding-up.local-context-body": "Horwich's Victorian and Edwardian terraces in Aspull present particular boarding-up challenges after break-ins. Period sash windows and original timber frames require careful assessment before temporary protection is applied, as improper boarding can cause further damage to irreplaceable joinery. Semi-detached properties across post-war estates need rapid response to secure standard uPVC and aluminium frames, which dominate the housing stock and can be boarded efficiently once glass is cleared.\n\nListed-building status affects a significant proportion of Horwich's older housing, particularly in terrace-dense areas. Emergency boarding must respect planning constraints and material compatibility; temporary plywood fixes on listed properties often require follow-up notification to local authority, and permanent repairs typically cannot proceed without conservation consent. This layered approval process means emergency work is genuinely temporary, with residents needing clear guidance on next steps before permanent reinstatement can begin.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian sash windows in Rivington properties the same way as modern frames?",
+   "a": "No\u2014Victorian sashes have unique glazing bars and period frames that need careful measurement and custom-cut boarding to avoid damage to original joinery. We assess each heritage property individually to preserve its character while securing it safely."
+  },
+  {
+   "q": "Can you board up commercial units at Middlebrook quickly if a roller shutter is damaged?",
+   "a": "Yes, we prioritize rapid boarding for retail and business premises at Middlebrook to minimize trading downtime. Our team carries materials for both standard shop frontages and larger commercial roller-shutter openings, and we aim to attend emergency calls within the hour."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Horwich | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Horwich for Victorian terraces, post-war semis & modern homes. Lost keys, moving house, security upgrades. Fast professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Horwich by our experienced locksmith specialists combine modern locksmithing techniques with quality assurance. Whether you're moving home, changing tenancy, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to safeguard your property effectively.",
+ "lock-changes.local-context-body": "Lock changes in Rivington address mixed Victorian properties alongside modern detached homes, each presenting distinct requirements. Period terraces often retain original mortice locks requiring specialist replacement parts and knowledge of heritage specifications, while newer builds typically need standard cylinder or mortice-and-cylinder combinations. The rural and semi-rural character means some properties sit isolated, making security upgrades a practical priority for homeowners relocating to the area.\n\nHorwich's listed buildings in older neighborhoods require compliance with conservation guidelines during lock replacement; installers must verify whether period-appropriate mechanisms or approved modern alternatives suit the property's status. Post-war estates like Wingates predominantly feature straightforward mortice locks on timber frames, enabling faster turnarounds, though properties with non-standard door materials or multiple access points demand careful measurement before parts are ordered.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Aspull \u2013 do I need specialist lock replacement?",
+   "a": "Yes. Victorian and Edwardian terraces in Aspull often have period sash locks and original door mechanisms that require specialist knowledge. We can replace these with modern, secure alternatives while respecting the property's character, or upgrade to contemporary locks if you prefer."
+  },
+  {
+   "q": "What's the typical cost to change locks on a post-war semi in Aspull Moor after losing my keys?",
+   "a": "Post-war semis in Aspull Moor usually have standard mortice or cylinder locks, making replacement straightforward and cost-effective. We'll assess your specific lock type and provide a quote; emergency key-loss replacements are our specialty, and we can often attend same-day."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Horwich | Victorian & Modern Doors",
+ "lock-repairs.meta.description": "Expert door lock repairs in Horwich \u2013 mortice, multipoint & night latches. Serving Victorian terraces & post-war estates. 24/7 emergency callouts.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Horwich from our experienced locksmith team combine traditional locksmithing with modern techniques. Whether your lock has become stiff, jammed, or the key won't turn, our specialists diagnose and resolve the issue efficiently. We handle everything from mortice maintenance to multipoint servicing, ensuring your locks function reliably and are backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Terraced properties across Aspull and semi-detached homes in Aspull Moor frequently present worn gearbox and mortice locks that require specialist repair rather than replacement. These mechanisms, common in post-war housing stock, can be restored cost-effectively when internal components fail, avoiding the expense of new lock installation while maintaining door security and functionality.\n\nHorwich's mixed Victorian through modern building stock means repair technicians must handle both period-appropriate night latches on older terraces and standard multipoint systems on contemporary properties. Access constraints in traditional terraced streets and the prevalence of original door frames often necessitate on-site diagnosis to determine whether repair or replacement is the practical solution.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Aspull need specialist lock repair?",
+   "a": "Victorian and Edwardian properties in Aspull often feature original period sash locks and brass mechanisms that require knowledge of heritage fittings and compatible replacement parts. Our locksmiths understand these older systems and can repair or restore them without damaging period features."
+  },
+  {
+   "q": "What's the most common lock repair needed in post-war estates like Wingates?",
+   "a": "Semi-detached and terraced homes in Wingates typically use standard mortice and cylinder locks that wear heavily with use. We regularly repair or replace failed gearbox mechanisms and multipoint locks on these properties, often same-day."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Horwich | Victorian & Modern Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Horwich & Aspull. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems for Victorian terraces and modern homes.",
+ "door-lock-installation.hero-paragraph": "Our Horwich locksmiths specialise in door lock installation and expert locksmithing for residential and commercial properties. Whether you need new fittings for enhanced security or require BS3621 mortice locks to meet insurance requirements, we install anti-snap cylinders and multipoint mechanisms to the highest standards. Every installation is completed to current security specifications.",
+ "door-lock-installation.local-context-body": "New door lock installations across Horwich address diverse housing needs, from Victorian terraces in Aspull requiring period-appropriate mechanisms to post-war semi-detached properties in Wingates needing modern BS3621 mortice locks and anti-snap cylinders. The mix of older properties with original door furniture alongside newer homes with standard frames creates varied fitting requirements, with many installations involving upgrades to properties where existing locks no longer meet current security standards.\n\nListed-building status affects a significant proportion of Horwich's Victorian and Edwardian stock, meaning lock installations in older properties often require sympathetic fitting that preserves original door casings and architraves. Cylinder lock choices\u2014particularly TS007 anti-snap variants\u2014have become standard expectations for security-conscious householders, though terraced properties may require longer cylinders due to thicker original doors, necessitating accurate measurement before supply and fitting.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terraced house in Aspull \u2013 will a new BS3621 mortice lock fit my original door frame?",
+   "a": "Yes, BS3621 mortice locks are designed to fit standard apertures in period doors, but Victorian frames can vary. We'll survey your door first to confirm compatibility and advise if period-appropriate styling is preferred to maintain your home's character."
+  },
+  {
+   "q": "We run a retail unit in Middlebrook \u2013 what's the difference between a standard cylinder lock and TS007 anti-snap for commercial use?",
+   "a": "TS007 anti-snap cylinders resist forced entry methods common in commercial areas; they're BS PAS 24 certified and ideal for retail frontages. We'll install the right spec for your Middlebrook location and advise on multipoint upgrades if needed."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Horwich \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Horwich & Aspull. Expert swaps and security upgrades for Victorian terraces and modern homes. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our Horwich locksmith team specialises in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost your keys, or are moving home, we install BS3621-approved cylinders and offer anti-snap upgrades for enhanced security. All work meets current security standards.",
+ "door-lock-replacement.local-context-body": "Horwich's mixed housing stock\u2014from Victorian terraces in Aspull to post-war semis across Wingates\u2014creates varied door lock replacement demands. Period properties often retain original mortice locks requiring specialist sourcing and careful handling, while modern estates feature standard cylinder locks that need routine swapping due to wear or security upgrades. Each property type dictates different installation approaches and parts availability.\n\nSash doors and solid timber frames in older terraces can complicate fitting schedules and may require additional reinforcement during lock replacement. Post-war semis typically present straightforward cylinder or mortice changes, but the Middlebrook commercial district's presence means some residential properties function as holiday lets or multi-let units, where lock replacement must account for access control expectations beyond standard domestic systems.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Aspull with an original sash lock that's stuck \u2014 can you replace it without damaging the door?",
+   "a": "Yes. Victorian sash locks are specialist work; we carry period-appropriate replacements and have the expertise to remove seized mechanisms without splitting the frame. We'll match the style and function of your original lock or upgrade to a modern mortice if you prefer."
+  },
+  {
+   "q": "My semi-detached in Aspull Moor has a worn cylinder lock \u2014 is a like-for-like swap quick and affordable?",
+   "a": "Absolutely. Post-war semis typically use standard mortice and cylinder locks that are straightforward to replace. A like-for-like swap is fast and cost-effective; we can also discuss a security upgrade to a higher-spec cylinder if you'd like enhanced protection."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Horwich | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Horwich & Blackrod: uPVC alignment, mortice locks, composite doors, timber easing & handle repair.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Horwich from our experienced locksmith team specialising in locksmithing solutions for damaged and misaligned doors. Whether your door is dropping, catching, or failing to close properly, we diagnose the underlying issue\u2014from hinge adjustment to frame alignment\u2014and restore full functionality. We work with uPVC, composite and timber doors to the highest standards.",
+ "door-repairs.local-context-body": "Horwich's Victorian and Edwardian terraces, particularly across Blackrod, feature original timber frames and period hardware that frequently require realignment and specialist repair. Post-war semis and detached properties in Aspull Moor, built with standard timber or composite doors, experience common settlement-related misalignment and hinge wear. Door repairs in these varied properties demand knowledge of both heritage mechanisms and modern locking systems.\n\nMany period properties in the town centre retain sash locks and original door mechanisms that demand careful handling during repair work; forced adjustment risks irreversible damage to listed or heritage-protected features. Modern properties typically allow faster remedial work, but the mix of construction standards across Horwich means surveyors must assess each door's age, material and existing hardware before specifying repairs or replacement.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Aspull has dropped sash doors \u2013 can you fix them without replacing the frames?",
+   "a": "Yes. Victorian sash doors in Aspull's historic mill-worker housing often drop due to wear on original hinges and settlement. We can rehang, adjust, or fit period-appropriate hardware to restore alignment without frame replacement."
+  },
+  {
+   "q": "We run a unit in Middlebrook and our roller-shutter door is sticking \u2013 do you repair commercial doors?",
+   "a": "We do. Middlebrook's retail and business park units rely on robust commercial-grade door systems; we repair, realign, and service roller shutters, access doors, and commercial hardware to keep your premises secure and operational."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Horwich | Terraces",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Horwich and Aspull. Espagnolette and shootbolt locks fixed on Victorian terraces, semis and modern uPVC windows.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Horwich locksmiths specialise in window lock repair and replacement as a core locksmithing service. Whether you're dealing with windows that won't lock or broken handles, we diagnose and fix espagnolette mechanisms and shootbolt locks with precision. All installations meet insurance-compliant standards, ensuring your home security is both reliable and properly protected.",
+ "window-lock-repair-replacement.local-context-body": "Period sash windows in Horwich's Victorian and Edwardian terraces\u2014particularly across Blackrod\u2014frequently feature original espagnolette locks that wear or jam from decades of use. Semi-detached properties built in post-war estates typically have modern casement windows with shootbolt mechanisms, though these standard locks still require periodic repair or replacement as they age. Both property types benefit from prompt attention to window lock failure, as faulty locks compromise security and weatherproofing.\n\nMany of Horwich's older terraced properties fall within conservation areas or listed-building designations, requiring window lock repairs to respect original hardware specifications and period-appropriate materials. Where replacement becomes necessary, sourcing compatible locks\u2014particularly for Victorian sash windows\u2014demands knowledge of traditional mechanisms and availability of suitable parts. Commercial properties in the Middlebrook district often have multi-point locking systems that require specialist servicing beyond standard domestic window lock work.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace window locks in Aspull fail so often?",
+   "a": "Victorian sash windows use period espagnolette and shootbolt mechanisms that wear significantly over 100+ years; Steelok specialises in both repairing original hardware and fitting modern replacements that maintain period aesthetics while improving security and ease of use."
+  },
+  {
+   "q": "Can you repair window locks on the modern semis in Aspull Moor, or do they need full replacement?",
+   "a": "Post-war semi-detached properties typically have standard cylinder and shootbolt locks that we can often repair cost-effectively; we'll diagnose the fault on-site and recommend replacement only if the mechanism is beyond safe repair."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Horwich | Victorian Homes & Commercial",
+ "safe-installation.meta.description": "Safe installation in Horwich & Blackrod. Wall, floor and freestanding safes with secure anchoring, anti-leverage positioning and insurance documentation.",
+ "safe-installation.hero-paragraph": "Safe installation in Horwich by our expert locksmith team combines decades of locksmithing experience with precision security. We specialise in floor anchoring and wall mounting techniques that meet Eurograde and AiS approved standards. Whether you're securing a new safe or need insurance approval documentation, our technicians ensure your valuables are protected to the highest specification.",
+ "safe-installation.local-context-body": "Wingates' post-war semis and detached homes across Horwich commonly require wall-mounted safes fitted to solid brick or block, with concrete floors suitable for floor anchoring. Semi-detached properties in particular benefit from secure safe placement away from party walls, reducing theft risk and insurance complications. Victorian terraces in Aspull present narrower options due to cavity wall construction, making freestanding safes with proper floor bolting the more practical choice.\n\nMany properties in Horwich's conservation areas, particularly Rivington's mixed Victorian stock, fall under listed-building or planning constraints that restrict wall drilling and structural alteration. Insurance documentation for safe installation must account for these restrictions and specify anchoring method; underwriters often require photographs of installation and certification of fixings. Pre-installation surveying is essential to confirm wall composition and establish whether listed-status permits the proposed mounting approach.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in Aspull \u2013 will a safe installation damage my period walls?",
+   "a": "We're experienced with Aspull's historic terraces and use precision drilling techniques to minimise damage to original plasterwork and masonry. We'll advise on the best placement to avoid pipes and support beams, and can recommend finishes that blend with period interiors."
+  },
+  {
+   "q": "My business is in Middlebrook \u2013 do you install safes for commercial premises?",
+   "a": "Yes, we regularly install commercial-grade safes across Middlebrook's retail and business park units, with anchoring suitable for high-traffic environments and full insurance documentation included."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening in Horwich | Fast Response Service",
+ "safe-opening.meta.description": "Safe opening in Horwich: lost combinations, keys & lockouts. Domestic and commercial safes opened non-destructively. Serving Middlebrook & beyond.",
+ "safe-opening.hero-paragraph": "Our Horwich locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians use combination dial manipulation and precision tools to resolve your safe emergency quickly and professionally.",
+ "safe-opening.local-context-body": "Safe deposits and home safes are common across Horwich's detached and semi-detached properties, particularly in Rivington's mixed Victorian-to-modern housing where valuable documents, heirlooms, and cash storage reflect the area's commuter-belt demographics. Lost combinations and misplaced keys frequently lock owners out of safes installed decades ago, requiring non-destructive opening techniques that preserve both the safe and its contents intact.\n\nHorwich's substantial Victorian terraced stock often contains period safes built into chimney breasts or alcoves, their original documentation long discarded. Access to these heritage safes demands specialist knowledge of antique mechanisms and finishes; aggressive drilling or prying risks damage to listed features and surrounding brickwork, making preservation-focused opening methods essential.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Rivington with a safe I can't open \u2013 do you handle period safes?",
+   "a": "Yes. Victorian and Edwardian properties often contain older safe models with unique locking mechanisms. We specialise in non-destructive opening of period safes and can work with original combinations, lost keys, or mechanical wear without damaging the unit or its contents."
+  },
+  {
+   "q": "Our Middlebrook business unit's safe is locked and we've lost the combination \u2013 how quickly can you help?",
+   "a": "We offer same-day safe opening for commercial premises in the Middlebrook district. Our non-destructive methods mean your safe remains fully functional and secure once reopened, minimising business disruption."
+  }
+ ],
+ "home.areas-covered": [
+  "Middlebrook"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Middlebrook"
+ ],
+ "locked-out.areas-covered": [
+  "Middlebrook"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Middlebrook"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Middlebrook"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Middlebrook"
+ ],
+ "lock-changes.areas-covered": [
+  "Middlebrook"
+ ],
+ "lock-repairs.areas-covered": [
+  "Middlebrook"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Middlebrook"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Middlebrook"
+ ],
+ "door-repairs.areas-covered": [
+  "Middlebrook"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Middlebrook"
+ ],
+ "safe-installation.areas-covered": [
+  "Middlebrook"
+ ],
+ "safe-opening.areas-covered": [
+  "Middlebrook"
+ ]
 }

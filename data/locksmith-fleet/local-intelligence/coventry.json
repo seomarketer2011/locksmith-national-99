@@ -1,393 +1,269 @@
 {
-  "location": "Coventry",
-  "neighborhoods": [
-    {
-      "name": "Chapelfields",
-      "era": "Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established residential, near city centre"
-    },
-    {
-      "name": "Cheylesmore",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban family area"
-    },
-    {
-      "name": "Canley",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "large planned suburb"
-    },
-    {
-      "name": "Binley",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Coventry",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "flat",
-        "converted"
-      ],
-      "notes": "city centre, high rental density"
-    },
-    {
-      "name": "Foleshill",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "historic working-class area"
-    },
-    {
-      "name": "Coundon",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Allesley",
-      "era": "interwar",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "established suburban village"
-    },
-    {
-      "name": "Bedworth Heath",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Binley Woods",
-      "era": "modern",
-      "types": [
-        "detached",
-        "new-build"
-      ]
-    },
-    {
-      "name": "Berkswell",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "period property"
-      ],
-      "notes": "affluent commuter village"
-    },
-    {
-      "name": "Balsall Common",
-      "era": "interwar",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "commuter village with period stock"
-    },
-    {
-      "name": "Bulkington",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Cannon Park",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "flat"
-      ],
-      "notes": "university proximity, rental market"
-    },
-    {
-      "name": "Courthouse Green",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Bell Green",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Attleborough",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian and post-war, large 1960s–70s suburbs",
-    "notable": "Coventry heavily reconstructed post-WWII bombing; high rental and student accommodation in city centre and university areas"
+ "location": "Coventry",
+ "neighborhoods": [
+  {
+   "name": "Chapelfields",
+   "era": "Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established residential, near city centre"
   },
-  "locksmith_relevant": [
-    "Post-war semis and estates dominate suburbs; expect period locks and modern replacements requiring dual expertise.",
-    "City centre flats and conversions have varied security standards; rental properties often need rekeying and access system updates.",
-    "Rural commuter villages like Berkswell and Balsall Common have period properties with original locks requiring specialist care."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Coventry",
-    "overpass": "OSM Overpass bbox query, 177 named areas",
-    "coords": {
-      "lat": 52.4081812,
-      "lon": -1.510477
-    }
+  {
+   "name": "Cheylesmore",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban family area"
   },
-  "generated_at": "2026-05-13T12:14:47.000Z",
-  "all_areas": [
-    "Abbey End",
-    "Abbey Fields",
-    "Abbey Green",
-    "Alderman's Green",
-    "Allesley",
-    "Allesley Green",
-    "Allesley Park",
-    "Ansley",
-    "Ansley Common",
-    "Ansty",
-    "Ash Green",
-    "Ashow",
-    "Attleborough",
-    "Baginton",
-    "Ball Hill",
-    "Balsall Common",
-    "Barnacle",
-    "Bascote",
-    "Bedworth Heath",
-    "Bedworth Woodlands",
-    "Bell Green",
-    "Berkswell",
-    "Bermuda",
-    "Binley",
-    "Binley Woods",
-    "Birdingbury",
-    "Bishop's Tachbrook",
-    "Bishopsgate Green",
-    "Borrowell",
-    "Bourton on Dunsmore",
-    "Bramcote",
-    "Brandon",
-    "Bretford",
-    "Brinklow",
-    "Brownshill Green",
-    "Bubbenhall",
-    "Budbrooke",
-    "Bulkington",
-    "Burton Green",
-    "Burton Hastings",
-    "Caldwell",
-    "Camp Hill",
-    "Canley",
-    "Canley Gardens",
-    "Cannon Park",
-    "Castle Green",
-    "Chapel End",
-    "Chapelfields",
-    "Cheylesmore",
-    "Chilvers Coton",
-    "Cliff Hill",
-    "Clifford Park",
-    "Coalpit Field",
-    "Collycroft",
-    "Copsewood",
-    "Corley",
-    "Corley Moor",
-    "Coundon",
-    "Courthouse Green",
-    "Crackley",
-    "Cubbington",
-    "Daimler Green",
-    "Earlsdon",
-    "Eastern Green",
-    "Eathorpe",
-    "Edgwick",
-    "Emscote",
-    "Ernesford Grange",
-    "Exhall",
-    "Fenside",
-    "Fillongley",
-    "Finham",
-    "Foleshill",
-    "Four Oaks",
-    "Frankton",
-    "Galley Common",
-    "Gibbet Hill",
-    "Green Lane",
-    "Griff",
-    "Grove Farm",
-    "Hampton Magna",
-    "Hampton on the Hill",
-    "Hartshill",
-    "Hatton",
-    "Hatton Park",
-    "Hawkes End",
-    "Henley Green",
-    "Higham on the Hill",
-    "Hill Top",
-    "Hillfields",
-    "Holbrooks",
-    "Horeston Grange",
-    "Hunningham",
-    "Hurley",
-    "Keresley",
-    "Keresley Newlands",
-    "Kirby Corner",
-    "Ladyes Hills",
-    "Lash Hill",
-    "Leek Wootton",
-    "Lillington",
-    "Little Heath",
-    "Long Itchington",
-    "Longford",
-    "Lower Farm Estates",
-    "Lower Stoke",
-    "Manor Farm Estate",
-    "Manor House",
-    "Marton",
-    "Maxstoke",
-    "Meriden",
-    "Mill End",
-    "Milverton",
-    "Mount Nod",
-    "Mount Pleasant",
-    "Myton Park",
-    "Nether Whitacre",
-    "New Arley",
-    "Norton Lindsey",
-    "Offchurch",
-    "Old Arley",
-    "Paradise",
-    "Park Hill",
-    "Potters Green",
-    "Princethorpe",
-    "Radford",
-    "Radford Semele",
-    "Rowley's Green",
-    "Ryton-on-Dunsmore",
-    "Sherbourne",
-    "Shilton",
-    "Shustoke",
-    "Sketchley",
-    "Spon End",
-    "St John's",
-    "St Nicolas Park",
-    "Stivichall",
-    "Stockingford",
-    "Stockton",
-    "Stoke Aldermoor",
-    "Stoke Heath",
-    "Stoke Hill",
-    "Stonehouse Estate",
-    "Stoneleigh",
-    "Stretton Baskerville",
-    "Stretton on Dunsmore",
-    "Styvechale Grange",
-    "Sydenham",
-    "Tanyard Farm",
-    "Tile Hill",
-    "Tilton",
-    "Tollbar End",
-    "Ufton",
-    "Upper Stoke",
-    "Victoria Farm",
-    "Walsgrave",
-    "Wappenbury",
-    "Warwick Gates",
-    "Weddington",
-    "Weston under Wetherley",
-    "Westwood Heath",
-    "Whitemoor",
-    "Whitestone",
-    "Whitmore Park",
-    "Whitnash",
-    "Whittleford",
-    "Whoberley",
-    "Willenhall",
-    "Windmill Top Area",
-    "Windy Arbour",
-    "Withybrook",
-    "Wolston",
-    "Wolvey",
-    "Wood End",
-    "Woodloes Park",
-    "Woodway Park",
-    "Wyken"
-  ],
-  "geo": {
-    "latitude": 52.4081812,
-    "longitude": -1.510477
+  {
+   "name": "Canley",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "large planned suburb"
   },
-  "postcode_districts": [
-    "CV1",
-    "CV2",
-    "CV3",
-    "CV4",
-    "CV5",
-    "CV6"
-  ],
-  "postcode_meta": {
-    "CV3": {
-      "count": 12,
-      "sample": "CV3 5BF",
-      "admin": "Coventry"
-    },
-    "CV1": {
-      "count": 4,
-      "sample": "CV1 2AY",
-      "admin": "Coventry"
-    },
-    "CV2": {
-      "count": 14,
-      "sample": "CV2 5LD",
-      "admin": "Coventry"
-    },
-    "CV5": {
-      "count": 9,
-      "sample": "CV5 6AS",
-      "admin": "Coventry"
-    },
-    "CV4": {
-      "count": 5,
-      "sample": "CV4 7DL",
-      "admin": "Coventry"
-    },
-    "CV6": {
-      "count": 14,
-      "sample": "CV6 2DP",
-      "admin": "Coventry"
-    }
+  {
+   "name": "Binley",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Coventry",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "flat",
+    "converted"
+   ],
+   "notes": "city centre, high rental density"
+  },
+  {
+   "name": "Foleshill",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "historic working-class area"
+  },
+  {
+   "name": "Coundon",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Allesley",
+   "era": "interwar",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "established suburban village"
+  },
+  {
+   "name": "Bedworth Heath",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Binley Woods",
+   "era": "modern",
+   "types": [
+    "detached",
+    "new-build"
+   ]
+  },
+  {
+   "name": "Berkswell",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "period property"
+   ],
+   "notes": "affluent commuter village"
+  },
+  {
+   "name": "Balsall Common",
+   "era": "interwar",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "commuter village with period stock"
+  },
+  {
+   "name": "Bulkington",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Cannon Park",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "flat"
+   ],
+   "notes": "university proximity, rental market"
+  },
+  {
+   "name": "Courthouse Green",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Bell Green",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Attleborough",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed Victorian and post-war, large 1960s\u201370s suburbs",
+  "notable": "Coventry heavily reconstructed post-WWII bombing; high rental and student accommodation in city centre and university areas"
+ },
+ "locksmith_relevant": [
+  "Post-war semis and estates dominate suburbs; expect period locks and modern replacements requiring dual expertise.",
+  "City centre flats and conversions have varied security standards; rental properties often need rekeying and access system updates.",
+  "Rural commuter villages like Berkswell and Balsall Common have period properties with original locks requiring specialist care."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Coventry",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Coventry admin area), 53 named areas",
+  "coords": {
+   "lat": 52.4081812,
+   "lon": -1.510477
+  }
+ },
+ "generated_at": "2026-05-13T12:14:47.000Z",
+ "all_areas": [
+  "Allesley",
+  "Allesley Park",
+  "Ball Hill",
+  "Bell Green",
+  "Binley",
+  "Brownshill Green",
+  "Canley",
+  "Canley Gardens",
+  "Cannon Park",
+  "Chapelfields",
+  "Cheylesmore",
+  "Clifford Park",
+  "Copsewood",
+  "Coundon",
+  "Courthouse Green",
+  "Daimler Green",
+  "Earlsdon",
+  "Eastern Green",
+  "Ernesford Grange",
+  "Finham",
+  "Foleshill",
+  "Gibbet Hill",
+  "Green Lane",
+  "Henley Green",
+  "Hillfields",
+  "Holbrooks",
+  "Keresley",
+  "Little Heath",
+  "Longford",
+  "Lower Stoke",
+  "Manor Farm Estate",
+  "Manor House",
+  "Mount Nod",
+  "Paradise",
+  "Potters Green",
+  "Radford",
+  "Rowley's Green",
+  "Spon End",
+  "Stivichall",
+  "Stoke Aldermoor",
+  "Stoke Heath",
+  "Stoke Hill",
+  "Tile Hill",
+  "Tollbar End",
+  "Upper Stoke",
+  "Walsgrave",
+  "Westwood Heath",
+  "Whitmore Park",
+  "Whoberley",
+  "Willenhall",
+  "Wood End",
+  "Woodway Park",
+  "Wyken"
+ ],
+ "geo": {
+  "latitude": 52.4081812,
+  "longitude": -1.510477
+ },
+ "postcode_districts": [
+  "CV1",
+  "CV2",
+  "CV3",
+  "CV4",
+  "CV5",
+  "CV6"
+ ],
+ "postcode_meta": {
+  "CV3": {
+   "count": 12,
+   "sample": "CV3 5BF",
+   "admin": "Coventry"
+  },
+  "CV1": {
+   "count": 4,
+   "sample": "CV1 2AY",
+   "admin": "Coventry"
+  },
+  "CV2": {
+   "count": 14,
+   "sample": "CV2 5LD",
+   "admin": "Coventry"
+  },
+  "CV5": {
+   "count": 9,
+   "sample": "CV5 6AS",
+   "admin": "Coventry"
+  },
+  "CV4": {
+   "count": 5,
+   "sample": "CV4 7DL",
+   "admin": "Coventry"
+  },
+  "CV6": {
+   "count": 14,
+   "sample": "CV6 2DP",
+   "admin": "Coventry"
+  }
+ }
 }
