@@ -1,35 +1,46 @@
 {
-  "location": "Bexhill-on-Sea",
-  "neighborhoods": [],
-  "property_mix": {
-    "dominant_types": [
-      "detached villa",
-      "semi-detached",
-      "terrace",
-      "flat"
-    ],
-    "era": "predominantly Edwardian and interwar with significant post-war infill",
-    "notable": "Seaside resort town with substantial Victorian/Edwardian villa stock; many period properties converted to holiday lets and HMOs. Aging population means numerous elderly residents in original properties with outdated locks."
-  },
-  "locksmith_relevant": [
-    "Edwardian villas dominate; many have original sash windows and period mortice locks requiring specialist knowledge and careful handling.",
-    "High holiday let turnover means frequent tenant changeovers and emergency re-keying demands, particularly in seafront and near-town properties.",
-    "Aging residential population creates steady demand for accessibility upgrades: lever handles, electronic locks, and assisted entry solutions in period homes."
+ "location": "Bexhill-on-Sea",
+ "neighborhoods": [],
+ "property_mix": {
+  "dominant_types": [
+   "detached villa",
+   "semi-detached",
+   "terrace",
+   "flat"
   ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Bexhill-on-Sea",
-    "overpass": null,
-    "coords": {
-      "lat": 50.8419553,
-      "lon": 0.4709063
-    }
-  },
-  "generated_at": "2026-05-13T18:11:00.251Z",
-  "all_areas": [],
-  "geo": {
-    "latitude": 50.8419553,
-    "longitude": 0.4709063
-  },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  "era": "predominantly Edwardian and interwar with significant post-war infill",
+  "notable": "Seaside resort town with substantial Victorian/Edwardian villa stock; many period properties converted to holiday lets and HMOs. Aging population means numerous elderly residents in original properties with outdated locks."
+ },
+ "locksmith_relevant": [
+  "Edwardian villas dominate; many have original sash windows and period mortice locks requiring specialist knowledge and careful handling.",
+  "High holiday let turnover means frequent tenant changeovers and emergency re-keying demands, particularly in seafront and near-town properties.",
+  "Aging residential population creates steady demand for accessibility upgrades: lever handles, electronic locks, and assisted entry solutions in period homes."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Bexhill-on-Sea",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Bexhill-on-Sea admin area), 10 named areas",
+  "coords": {
+   "lat": 50.8419553,
+   "lon": 0.4709063
+  }
+ },
+ "generated_at": "2026-05-13T18:11:00.251Z",
+ "all_areas": [
+  "Central",
+  "Collington",
+  "Cooden",
+  "Glenleigh Park",
+  "Glyne Gap",
+  "Little Common",
+  "Old Town",
+  "Pebsham",
+  "Sidley",
+  "The Highlands"
+ ],
+ "geo": {
+  "latitude": 50.8419553,
+  "longitude": 0.4709063
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }
