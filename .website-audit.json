@@ -1,0 +1,804 @@
+{
+  "$schema": "https://github.com/seomarketer2011/website-change-logger/schemas/website-audit.schema.json",
+  "site_id": "locksmith-national-99",
+  "production_branch": "main",
+  "repo_kind": "network",
+  "replication": "replicated",
+  "network_id": "locksmith-national",
+  "vertical": "locksmith",
+  "log_non_production_changes": true,
+  "sites": [
+    {
+      "site_id": "lockaidlocksmithsleicester",
+      "domain": "https://lockaidlocksmithsleicester.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/leicester---*.json",
+        "data/locksmith-fleet/local-intelligence/leicester.json"
+      ]
+    },
+    {
+      "site_id": "lockcobristollocksmiths",
+      "domain": "https://lockcobristollocksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bristol---*.json",
+        "data/locksmith-fleet/local-intelligence/bristol.json"
+      ]
+    },
+    {
+      "site_id": "lockfitsheffieldlocksmiths",
+      "domain": "https://lockfitsheffieldlocksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/sheffield---*.json",
+        "data/locksmith-fleet/local-intelligence/sheffield.json"
+      ]
+    },
+    {
+      "site_id": "lockfixlocksmithsliverpool",
+      "domain": "https://lockfixlocksmithsliverpool.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/liverpool---*.json",
+        "data/locksmith-fleet/local-intelligence/liverpool.json"
+      ]
+    },
+    {
+      "site_id": "lockhubnottinghamlocksmiths",
+      "domain": "https://lockhubnottinghamlocksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/nottingham---*.json",
+        "data/locksmith-fleet/local-intelligence/nottingham.json"
+      ]
+    },
+    {
+      "site_id": "locklablocksmithsbradford",
+      "domain": "https://locklablocksmithsbradford.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bradford---*.json",
+        "data/locksmith-fleet/local-intelligence/bradford.json"
+      ]
+    },
+    {
+      "site_id": "lockmanlocksmithsbirmingham",
+      "domain": "https://lockmanlocksmithsbirmingham.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/birmingham---*.json",
+        "data/locksmith-fleet/local-intelligence/birmingham.json"
+      ]
+    },
+    {
+      "site_id": "locknowcoventrylocksmiths",
+      "domain": "https://locknowcoventrylocksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/coventry---*.json",
+        "data/locksmith-fleet/local-intelligence/coventry.json"
+      ]
+    },
+    {
+      "site_id": "lockproleedslocksmiths",
+      "domain": "https://lockproleedslocksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/leeds---*.json",
+        "data/locksmith-fleet/local-intelligence/leeds.json"
+      ]
+    },
+    {
+      "site_id": "lockteklocksmithsmanchester",
+      "domain": "https://lockteklocksmithsmanchester.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/manchester---*.json",
+        "data/locksmith-fleet/local-intelligence/manchester.json"
+      ]
+    },
+    {
+      "site_id": "bournemouth---shield-locksmiths",
+      "domain": "https://bournemouth.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bournemouth---*.json",
+        "data/locksmith-fleet/local-intelligence/bournemouth.json"
+      ]
+    },
+    {
+      "site_id": "castleford---shield-locksmiths",
+      "domain": "https://castleford.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/castleford---*.json",
+        "data/locksmith-fleet/local-intelligence/castleford.json"
+      ]
+    },
+    {
+      "site_id": "chester---shield-locksmiths",
+      "domain": "https://chester.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/chester---*.json",
+        "data/locksmith-fleet/local-intelligence/chester.json"
+      ]
+    },
+    {
+      "site_id": "consett---shield-locksmiths",
+      "domain": "https://consett.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/consett---*.json",
+        "data/locksmith-fleet/local-intelligence/consett.json"
+      ]
+    },
+    {
+      "site_id": "hucknall---shield-locksmiths",
+      "domain": "https://hucknall.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/hucknall---*.json",
+        "data/locksmith-fleet/local-intelligence/hucknall.json"
+      ]
+    },
+    {
+      "site_id": "lancing---shield-locksmiths",
+      "domain": "https://lancing.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/lancing---*.json",
+        "data/locksmith-fleet/local-intelligence/lancing.json"
+      ]
+    },
+    {
+      "site_id": "normanton---shield-locksmiths",
+      "domain": "https://normanton.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/normanton---*.json",
+        "data/locksmith-fleet/local-intelligence/normanton.json"
+      ]
+    },
+    {
+      "site_id": "runcorn---shield-locksmiths",
+      "domain": "https://runcorn.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/runcorn---*.json",
+        "data/locksmith-fleet/local-intelligence/runcorn.json"
+      ]
+    },
+    {
+      "site_id": "wilmslow---shield-locksmiths",
+      "domain": "https://wilmslow.shield-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/wilmslow---*.json",
+        "data/locksmith-fleet/local-intelligence/wilmslow.json"
+      ]
+    },
+    {
+      "site_id": "boston---shieldx-locksmiths",
+      "domain": "https://boston.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/boston---*.json",
+        "data/locksmith-fleet/local-intelligence/boston.json"
+      ]
+    },
+    {
+      "site_id": "farnborough---shieldx-locksmiths",
+      "domain": "https://farnborough.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/farnborough---*.json",
+        "data/locksmith-fleet/local-intelligence/farnborough.json"
+      ]
+    },
+    {
+      "site_id": "hastings---shieldx-locksmiths",
+      "domain": "https://hastings.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/hastings---*.json",
+        "data/locksmith-fleet/local-intelligence/hastings.json"
+      ]
+    },
+    {
+      "site_id": "huntingdon---shieldx-locksmiths",
+      "domain": "https://huntingdon.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/huntingdon---*.json",
+        "data/locksmith-fleet/local-intelligence/huntingdon.json"
+      ]
+    },
+    {
+      "site_id": "locksheath---shieldx-locksmiths",
+      "domain": "https://locksheath.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/locks-heath---*.json",
+        "data/locksmith-fleet/local-intelligence/locks-heath.json"
+      ]
+    },
+    {
+      "site_id": "newark-on-trent---shieldx-locksmiths",
+      "domain": "https://newark-on-trent.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/newark-on-trent---*.json",
+        "data/locksmith-fleet/local-intelligence/newark-on-trent.json"
+      ]
+    },
+    {
+      "site_id": "peterborough---shieldx-locksmiths",
+      "domain": "https://peterborough.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/peterborough---*.json",
+        "data/locksmith-fleet/local-intelligence/peterborough.json"
+      ]
+    },
+    {
+      "site_id": "sompting---shieldx-locksmiths",
+      "domain": "https://sompting.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/sompting---*.json",
+        "data/locksmith-fleet/local-intelligence/sompting.json"
+      ]
+    },
+    {
+      "site_id": "westhoughton---shieldx-locksmiths",
+      "domain": "https://westhoughton.shieldx-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/westhoughton---*.json",
+        "data/locksmith-fleet/local-intelligence/westhoughton.json"
+      ]
+    },
+    {
+      "site_id": "arnold---steelok-locksmiths",
+      "domain": "https://arnold.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/arnold---*.json",
+        "data/locksmith-fleet/local-intelligence/arnold.json"
+      ]
+    },
+    {
+      "site_id": "bloxwich---steelok-locksmiths",
+      "domain": "https://bloxwich.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bloxwich---*.json",
+        "data/locksmith-fleet/local-intelligence/bloxwich.json"
+      ]
+    },
+    {
+      "site_id": "burntwood---steelok-locksmiths",
+      "domain": "https://burntwood.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/burntwood---*.json",
+        "data/locksmith-fleet/local-intelligence/burntwood.json"
+      ]
+    },
+    {
+      "site_id": "burtonupontrent---steelok-locksmiths",
+      "domain": "https://burtonupontrent.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/burton-upon-trent---*.json",
+        "data/locksmith-fleet/local-intelligence/burton-upon-trent.json"
+      ]
+    },
+    {
+      "site_id": "cheltenham---steelok-locksmiths",
+      "domain": "https://cheltenham.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/cheltenham---*.json",
+        "data/locksmith-fleet/local-intelligence/cheltenham.json"
+      ]
+    },
+    {
+      "site_id": "greatmalvern---steelok-locksmiths",
+      "domain": "https://greatmalvern.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/great-malvern---*.json",
+        "data/locksmith-fleet/local-intelligence/great-malvern.json"
+      ]
+    },
+    {
+      "site_id": "horwich---steelok-locksmiths",
+      "domain": "https://horwich.steelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/horwich---*.json",
+        "data/locksmith-fleet/local-intelligence/horwich.json"
+      ]
+    },
+    {
+      "site_id": "caterham---surelok-locksmiths",
+      "domain": "https://caterham.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/caterham---*.json",
+        "data/locksmith-fleet/local-intelligence/caterham.json"
+      ]
+    },
+    {
+      "site_id": "eastgrinstead---surelok-locksmiths",
+      "domain": "https://eastgrinstead.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/east-grinstead---*.json",
+        "data/locksmith-fleet/local-intelligence/east-grinstead.json"
+      ]
+    },
+    {
+      "site_id": "hemelhempstead---surelok-locksmiths",
+      "domain": "https://hemelhempstead.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/hemel-hempstead---*.json",
+        "data/locksmith-fleet/local-intelligence/hemel-hempstead.json"
+      ]
+    },
+    {
+      "site_id": "kingslynn---surelok-locksmiths",
+      "domain": "https://kingslynn.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/king's-lynn---*.json",
+        "data/locksmith-fleet/local-intelligence/king's-lynn.json"
+      ]
+    },
+    {
+      "site_id": "loughborough---surelok-locksmiths",
+      "domain": "https://loughborough.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/loughborough---*.json",
+        "data/locksmith-fleet/local-intelligence/loughborough.json"
+      ]
+    },
+    {
+      "site_id": "radcliffe---surelok-locksmiths",
+      "domain": "https://radcliffe.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/radcliffe---*.json",
+        "data/locksmith-fleet/local-intelligence/radcliffe.json"
+      ]
+    },
+    {
+      "site_id": "stoke-on-trent---surelok-locksmiths",
+      "domain": "https://stoke-on-trent.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/stoke-on-trent---*.json",
+        "data/locksmith-fleet/local-intelligence/stoke-on-trent.json"
+      ]
+    },
+    {
+      "site_id": "thundersley---surelok-locksmiths",
+      "domain": "https://thundersley.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/thundersley---*.json",
+        "data/locksmith-fleet/local-intelligence/thundersley.json"
+      ]
+    },
+    {
+      "site_id": "westbridgford---surelok-locksmiths",
+      "domain": "https://westbridgford.surelok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/west-bridgford---*.json",
+        "data/locksmith-fleet/local-intelligence/west-bridgford.json"
+      ]
+    },
+    {
+      "site_id": "abingdon-on-thames---suresec-locksmiths",
+      "domain": "https://abingdon-on-thames.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/abingdon-on-thames---*.json",
+        "data/locksmith-fleet/local-intelligence/abingdon-on-thames.json"
+      ]
+    },
+    {
+      "site_id": "aldershot---suresec-locksmiths",
+      "domain": "https://aldershot.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/aldershot---*.json",
+        "data/locksmith-fleet/local-intelligence/aldershot.json"
+      ]
+    },
+    {
+      "site_id": "chesham---suresec-locksmiths",
+      "domain": "https://chesham.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/chesham---*.json",
+        "data/locksmith-fleet/local-intelligence/chesham.json"
+      ]
+    },
+    {
+      "site_id": "daventry---suresec-locksmiths",
+      "domain": "https://daventry.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/daventry---*.json",
+        "data/locksmith-fleet/local-intelligence/daventry.json"
+      ]
+    },
+    {
+      "site_id": "gateshead---suresec-locksmiths",
+      "domain": "https://gateshead.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/gateshead---*.json",
+        "data/locksmith-fleet/local-intelligence/gateshead.json"
+      ]
+    },
+    {
+      "site_id": "skegness---suresec-locksmiths",
+      "domain": "https://skegness.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/skegness---*.json",
+        "data/locksmith-fleet/local-intelligence/skegness.json"
+      ]
+    },
+    {
+      "site_id": "tamworth---suresec-locksmiths",
+      "domain": "https://tamworth.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/tamworth---*.json",
+        "data/locksmith-fleet/local-intelligence/tamworth.json"
+      ]
+    },
+    {
+      "site_id": "welwyngardencity---suresec-locksmiths",
+      "domain": "https://welwyngardencity.suresec-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/welwyn-garden-city---*.json",
+        "data/locksmith-fleet/local-intelligence/welwyn-garden-city.json"
+      ]
+    },
+    {
+      "site_id": "atherton---toplock-locksmiths",
+      "domain": "https://atherton.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/atherton---*.json",
+        "data/locksmith-fleet/local-intelligence/atherton.json"
+      ]
+    },
+    {
+      "site_id": "blyth---toplock-locksmiths",
+      "domain": "https://blyth.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/blyth---*.json",
+        "data/locksmith-fleet/local-intelligence/blyth.json"
+      ]
+    },
+    {
+      "site_id": "caversham---toplock-locksmiths",
+      "domain": "https://caversham.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/caversham---*.json",
+        "data/locksmith-fleet/local-intelligence/caversham.json"
+      ]
+    },
+    {
+      "site_id": "farnham---toplock-locksmiths",
+      "domain": "https://farnham.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/farnham---*.json",
+        "data/locksmith-fleet/local-intelligence/farnham.json"
+      ]
+    },
+    {
+      "site_id": "leamingtonspa---toplock-locksmiths",
+      "domain": "https://leamingtonspa.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/royal-leamington-spa---*.json",
+        "data/locksmith-fleet/local-intelligence/royal-leamington-spa.json"
+      ]
+    },
+    {
+      "site_id": "rochdale---toplock-locksmiths",
+      "domain": "https://rochdale.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/rochdale---*.json",
+        "data/locksmith-fleet/local-intelligence/rochdale.json"
+      ]
+    },
+    {
+      "site_id": "shoreham-by-sea---toplock-locksmiths",
+      "domain": "https://shoreham-by-sea.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/shoreham-by-sea---*.json",
+        "data/locksmith-fleet/local-intelligence/shoreham-by-sea.json"
+      ]
+    },
+    {
+      "site_id": "stalbans---toplock-locksmiths",
+      "domain": "https://stalbans.toplock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/st-albans---*.json",
+        "data/locksmith-fleet/local-intelligence/st-albans.json"
+      ]
+    },
+    {
+      "site_id": "borehamwood---trulock-locksmiths",
+      "domain": "https://borehamwood.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/borehamwood---*.json",
+        "data/locksmith-fleet/local-intelligence/borehamwood.json"
+      ]
+    },
+    {
+      "site_id": "brighouse---trulock-locksmiths",
+      "domain": "https://brighouse.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/brighouse---*.json",
+        "data/locksmith-fleet/local-intelligence/brighouse.json"
+      ]
+    },
+    {
+      "site_id": "ormskirk---trulock-locksmiths",
+      "domain": "https://ormskirk.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/ormskirk---*.json",
+        "data/locksmith-fleet/local-intelligence/ormskirk.json"
+      ]
+    },
+    {
+      "site_id": "rawtenstall---trulock-locksmiths",
+      "domain": "https://rawtenstall.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/rawtenstall---*.json",
+        "data/locksmith-fleet/local-intelligence/rawtenstall.json"
+      ]
+    },
+    {
+      "site_id": "strattonstmargaret---trulock-locksmiths",
+      "domain": "https://strattonstmargaret.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/stratton-st-margaret---*.json",
+        "data/locksmith-fleet/local-intelligence/stratton-st-margaret.json"
+      ]
+    },
+    {
+      "site_id": "washington---trulock-locksmiths",
+      "domain": "https://washington.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/washington---*.json",
+        "data/locksmith-fleet/local-intelligence/washington.json"
+      ]
+    },
+    {
+      "site_id": "woking---trulock-locksmiths",
+      "domain": "https://woking.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/woking---*.json",
+        "data/locksmith-fleet/local-intelligence/woking.json"
+      ]
+    },
+    {
+      "site_id": "worthing---trulock-locksmiths",
+      "domain": "https://worthing.trulock-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/worthing---*.json",
+        "data/locksmith-fleet/local-intelligence/worthing.json"
+      ]
+    },
+    {
+      "site_id": "bridlington---boltfix-locksmiths",
+      "domain": "https://bridlington.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bridlington---*.json",
+        "data/locksmith-fleet/local-intelligence/bridlington.json"
+      ]
+    },
+    {
+      "site_id": "coseley---boltfix-locksmiths",
+      "domain": "https://coseley.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/coseley---*.json",
+        "data/locksmith-fleet/local-intelligence/coseley.json"
+      ]
+    },
+    {
+      "site_id": "darlaston---boltfix-locksmiths",
+      "domain": "https://darlaston.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/darlaston---*.json",
+        "data/locksmith-fleet/local-intelligence/darlaston.json"
+      ]
+    },
+    {
+      "site_id": "doncaster---boltfix-locksmiths",
+      "domain": "https://doncaster.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/doncaster---*.json",
+        "data/locksmith-fleet/local-intelligence/doncaster.json"
+      ]
+    },
+    {
+      "site_id": "grays---boltfix-locksmiths",
+      "domain": "https://grays.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/grays---*.json",
+        "data/locksmith-fleet/local-intelligence/grays.json"
+      ]
+    },
+    {
+      "site_id": "jarrow---boltfix-locksmiths",
+      "domain": "https://jarrow.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/jarrow---*.json",
+        "data/locksmith-fleet/local-intelligence/jarrow.json"
+      ]
+    },
+    {
+      "site_id": "oxford---boltfix-locksmiths",
+      "domain": "https://oxford.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/oxford---*.json",
+        "data/locksmith-fleet/local-intelligence/oxford.json"
+      ]
+    },
+    {
+      "site_id": "scarborough---boltfix-locksmiths",
+      "domain": "https://scarborough.boltfix-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/scarborough---*.json",
+        "data/locksmith-fleet/local-intelligence/scarborough.json"
+      ]
+    },
+    {
+      "site_id": "bexhill-on-sea---boltlok-locksmiths",
+      "domain": "https://bexhill-on-sea.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bexhill-on-sea---*.json",
+        "data/locksmith-fleet/local-intelligence/bexhill-on-sea.json"
+      ]
+    },
+    {
+      "site_id": "bradleystoke---boltlok-locksmiths",
+      "domain": "https://bradleystoke.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bradley-stoke---*.json",
+        "data/locksmith-fleet/local-intelligence/bradley-stoke.json"
+      ]
+    },
+    {
+      "site_id": "gravesend---boltlok-locksmiths",
+      "domain": "https://gravesend.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/gravesend---*.json",
+        "data/locksmith-fleet/local-intelligence/gravesend.json"
+      ]
+    },
+    {
+      "site_id": "grimsby---boltlok-locksmiths",
+      "domain": "https://grimsby.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/grimsby---*.json",
+        "data/locksmith-fleet/local-intelligence/grimsby.json"
+      ]
+    },
+    {
+      "site_id": "shipley---boltlok-locksmiths",
+      "domain": "https://shipley.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/shipley---*.json",
+        "data/locksmith-fleet/local-intelligence/shipley.json"
+      ]
+    },
+    {
+      "site_id": "stowmarket---boltlok-locksmiths",
+      "domain": "https://stowmarket.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/stowmarket---*.json",
+        "data/locksmith-fleet/local-intelligence/stowmarket.json"
+      ]
+    },
+    {
+      "site_id": "sunderland---boltlok-locksmiths",
+      "domain": "https://sunderland.boltlok-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/sunderland---*.json",
+        "data/locksmith-fleet/local-intelligence/sunderland.json"
+      ]
+    },
+    {
+      "site_id": "aylesbury---boltman-locksmiths",
+      "domain": "https://aylesbury.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/aylesbury---*.json",
+        "data/locksmith-fleet/local-intelligence/aylesbury.json"
+      ]
+    },
+    {
+      "site_id": "batley---boltman-locksmiths",
+      "domain": "https://batley.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/batley---*.json",
+        "data/locksmith-fleet/local-intelligence/batley.json"
+      ]
+    },
+    {
+      "site_id": "huyton-with-roby---boltman-locksmiths",
+      "domain": "https://huyton-with-roby.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/huyton-with-roby---*.json",
+        "data/locksmith-fleet/local-intelligence/huyton-with-roby.json"
+      ]
+    },
+    {
+      "site_id": "newport---boltman-locksmiths",
+      "domain": "https://newport.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/newport---*.json",
+        "data/locksmith-fleet/local-intelligence/newport.json"
+      ]
+    },
+    {
+      "site_id": "pudsey---boltman-locksmiths",
+      "domain": "https://pudsey.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/pudsey---*.json",
+        "data/locksmith-fleet/local-intelligence/pudsey.json"
+      ]
+    },
+    {
+      "site_id": "seaham---boltman-locksmiths",
+      "domain": "https://seaham.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/seaham---*.json",
+        "data/locksmith-fleet/local-intelligence/seaham.json"
+      ]
+    },
+    {
+      "site_id": "stanford-le-hope---boltman-locksmiths",
+      "domain": "https://stanford-le-hope.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/stanford-le-hope---*.json",
+        "data/locksmith-fleet/local-intelligence/stanford-le-hope.json"
+      ]
+    },
+    {
+      "site_id": "warrington---boltman-locksmiths",
+      "domain": "https://warrington.boltman-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/warrington---*.json",
+        "data/locksmith-fleet/local-intelligence/warrington.json"
+      ]
+    },
+    {
+      "site_id": "bebington---boltpro-locksmiths",
+      "domain": "https://bebington.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bebington---*.json",
+        "data/locksmith-fleet/local-intelligence/bebington.json"
+      ]
+    },
+    {
+      "site_id": "bromsgrove---boltpro-locksmiths",
+      "domain": "https://bromsgrove.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/bromsgrove---*.json",
+        "data/locksmith-fleet/local-intelligence/bromsgrove.json"
+      ]
+    },
+    {
+      "site_id": "hernebay---boltpro-locksmiths",
+      "domain": "https://hernebay.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/herne-bay---*.json",
+        "data/locksmith-fleet/local-intelligence/herne-bay.json"
+      ]
+    },
+    {
+      "site_id": "heswall---boltpro-locksmiths",
+      "domain": "https://heswall.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/heswall---*.json",
+        "data/locksmith-fleet/local-intelligence/heswall.json"
+      ]
+    },
+    {
+      "site_id": "slough---boltpro-locksmiths",
+      "domain": "https://slough.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/slough---*.json",
+        "data/locksmith-fleet/local-intelligence/slough.json"
+      ]
+    },
+    {
+      "site_id": "sunbury-on-thames---boltpro-locksmiths",
+      "domain": "https://sunbury-on-thames.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/sunbury-on-thames---*.json",
+        "data/locksmith-fleet/local-intelligence/sunbury-on-thames.json"
+      ]
+    },
+    {
+      "site_id": "trowbridge---boltpro-locksmiths",
+      "domain": "https://trowbridge.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/trowbridge---*.json",
+        "data/locksmith-fleet/local-intelligence/trowbridge.json"
+      ]
+    },
+    {
+      "site_id": "wallasey---boltpro-locksmiths",
+      "domain": "https://wallasey.boltpro-locksmiths.co.uk",
+      "path_globs": [
+        "data/locksmith-fleet/enriched-cache/wallasey---*.json",
+        "data/locksmith-fleet/local-intelligence/wallasey.json"
+      ]
+    }
+  ]
+}
