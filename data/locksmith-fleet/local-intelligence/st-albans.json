@@ -1,175 +1,191 @@
 {
-  "location": "St Albans",
-  "neighborhoods": [
-    {
-      "name": "Bernards Heath",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential suburb, tree-lined streets"
-    },
-    {
-      "name": "Cottonmill",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "mixed residential, near river"
-    },
-    {
-      "name": "Fleetville",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "older industrial area with residential conversion"
-    },
-    {
-      "name": "Jersey Farm",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban development"
-    },
-    {
-      "name": "King Harry Park",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ],
-      "notes": "relatively new residential estate"
-    },
-    {
-      "name": "Marshalswick",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban village character, conservation area elements"
-    },
-    {
-      "name": "New Greens",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "flat"
-      ],
-      "notes": "mixed residential"
-    },
-    {
-      "name": "Sopwell",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "terrace"
-      ],
-      "notes": "historic conservation area near abbey"
-    },
-    {
-      "name": "St Julians",
-      "era": "Victorian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential, near city centre"
-    },
-    {
-      "name": "St Stephens",
-      "era": "post-war",
-      "types": [
-        "flat",
-        "semi-detached"
-      ],
-      "notes": "mixed housing, includes council stock"
-    },
-    {
-      "name": "The Camp",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "suburban residential"
-    },
-    {
-      "name": "Townsend",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "modern suburban area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian and interwar with significant post-war expansion",
-    "notable": "Historic cathedral city with conservation areas; many period properties with original locks and latches require specialist attention."
+ "location": "St Albans",
+ "neighborhoods": [
+  {
+   "name": "Bernards Heath",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential suburb, tree-lined streets"
   },
-  "locksmith_relevant": [
-    "St Albans' Victorian and interwar housing stock often features sash windows and period doors needing heritage-compliant lock repairs.",
-    "Conservation area restrictions in Sopwell and central wards require locksmiths experienced with listed building regulations and sympathetic replacements.",
-    "High proportion of semi-detached properties means shared walls; soundproofing during emergency lockouts is a practical concern for residents."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=St%20Albans",
-    "overpass": "OSM Overpass bbox query, 12 named areas",
-    "coords": {
-      "lat": 51.753051,
-      "lon": -0.3379675
-    }
+  {
+   "name": "Cottonmill",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "mixed residential, near river"
   },
-  "generated_at": "2026-05-13T12:24:12.618Z",
-  "all_areas": [
-    "Bernards Heath",
-    "Cottonmill",
-    "Fleetville",
-    "Jersey Farm",
-    "King Harry Park",
-    "Marshalswick",
-    "New Greens",
-    "Sopwell",
-    "St Julians",
-    "St Stephens",
-    "The Camp",
-    "Townsend"
-  ],
-  "geo": {
-    "latitude": 51.753051,
-    "longitude": -0.3379675
+  {
+   "name": "Fleetville",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "older industrial area with residential conversion"
   },
-  "postcode_districts": [
-    "AL1",
-    "AL3",
-    "AL4"
-  ],
-  "postcode_meta": {
-    "AL3": {
-      "count": 4,
-      "sample": "AL3 5AY",
-      "admin": "St Albans"
-    },
-    "AL1": {
-      "count": 6,
-      "sample": "AL1 5TD",
-      "admin": "St Albans"
-    },
-    "AL4": {
-      "count": 2,
-      "sample": "AL4 9PQ",
-      "admin": "St Albans"
-    }
+  {
+   "name": "Jersey Farm",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban development"
+  },
+  {
+   "name": "King Harry Park",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ],
+   "notes": "relatively new residential estate"
+  },
+  {
+   "name": "Marshalswick",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban village character, conservation area elements"
+  },
+  {
+   "name": "New Greens",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "flat"
+   ],
+   "notes": "mixed residential"
+  },
+  {
+   "name": "Sopwell",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "terrace"
+   ],
+   "notes": "historic conservation area near abbey"
+  },
+  {
+   "name": "St Julians",
+   "era": "Victorian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential, near city centre"
+  },
+  {
+   "name": "St Stephens",
+   "era": "post-war",
+   "types": [
+    "flat",
+    "semi-detached"
+   ],
+   "notes": "mixed housing, includes council stock"
+  },
+  {
+   "name": "The Camp",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "suburban residential"
+  },
+  {
+   "name": "Townsend",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "modern suburban area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed Victorian and interwar with significant post-war expansion",
+  "notable": "Historic cathedral city with conservation areas; many period properties with original locks and latches require specialist attention."
+ },
+ "locksmith_relevant": [
+  "St Albans' Victorian and interwar housing stock often features sash windows and period doors needing heritage-compliant lock repairs.",
+  "Conservation area restrictions in Sopwell and central wards require locksmiths experienced with listed building regulations and sympathetic replacements.",
+  "High proportion of semi-detached properties means shared walls; soundproofing during emergency lockouts is a practical concern for residents."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=St%20Albans",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within St Albans admin area), 28 named areas",
+  "coords": {
+   "lat": 51.753051,
+   "lon": -0.3379675
+  }
+ },
+ "generated_at": "2026-05-13T12:24:12.618Z",
+ "all_areas": [
+  "Batford",
+  "Bedmond",
+  "Bernards Heath",
+  "Bricket Wood",
+  "Chiswell Green",
+  "Colney Heath",
+  "Cottonmill",
+  "Fleetville",
+  "Frogmore",
+  "Hatching Green",
+  "How Wood",
+  "Jersey Farm",
+  "London Colney",
+  "Marshalswick",
+  "New Greens",
+  "Park Street",
+  "Redbourn",
+  "Roundwood",
+  "Sandridge",
+  "Sopwell",
+  "Southdown",
+  "St Julians",
+  "St Stephens",
+  "The Camp",
+  "Townsend",
+  "West Common",
+  "Wheathampstead",
+  "Wood End"
+ ],
+ "geo": {
+  "latitude": 51.753051,
+  "longitude": -0.3379675
+ },
+ "postcode_districts": [
+  "AL1",
+  "AL3",
+  "AL4"
+ ],
+ "postcode_meta": {
+  "AL3": {
+   "count": 4,
+   "sample": "AL3 5AY",
+   "admin": "St Albans"
+  },
+  "AL1": {
+   "count": 6,
+   "sample": "AL1 5TD",
+   "admin": "St Albans"
+  },
+  "AL4": {
+   "count": 2,
+   "sample": "AL4 9PQ",
+   "admin": "St Albans"
+  }
+ }
 }

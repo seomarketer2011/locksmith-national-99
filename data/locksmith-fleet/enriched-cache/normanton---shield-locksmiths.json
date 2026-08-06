@@ -1,341 +1,283 @@
 {
-  "meta.title": "Locksmith Normanton | Local Locksmithing Service 24/7",
-  "meta.description": "Locksmith Normanton: emergency repairs, lock changes & security for Victorian terraces, council estates & period properties. 24/7 call-outs.",
-  "home.hero-paragraph": "Normanton locksmith lock services specialise in professional locksmithing across the area. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and available 24/7, ensuring you're never stranded without access to your property.",
-  "home.local-context-heading": "Locksmith work across Normanton's Victorian terraces",
-  "home.local-context-body": "Normanton's housing stock spans Victorian terraces through post-war estates, each with distinct lock requirements. Lower Altofts and similar Victorian terraced areas often retain original mortice locks and period hardware that need careful handling during upgrades. Post-war estates like Snydale feature standardised locks suited to bulk rekeying and master-key system installation, common requests from landlords managing multiple properties across the area.\n\nProperties undergoing conversion or rental tenancy benefit from a pre-letting security survey. Mixed lock standards across Normanton—particularly in former industrial conversions and converted terraces—mean door hardware varies significantly. Landlords should establish whether original period locks require conservation-standard replacement or can be upgraded to modern standards, especially where HMO licensing applies or where listed-building status affects material choice.",
-  "home.local-faqs": [
-    {
-      "q": "I've got a Victorian terrace in Altofts with original mortice locks – can you upgrade these without damaging the period features?",
-      "a": "Yes – we specialise in careful upgrades to Normanton's Victorian stock. We'll survey your existing hardware, source compatible period-style locks where appropriate, and ensure any modern security improvements work with your original joinery."
-    },
-    {
-      "q": "We're letting out a converted industrial property in Stanley Ferry – what lock setup do you recommend for multiple tenants?",
-      "a": "We typically recommend a master-key or access-control system for conversions like yours. We'll survey the property first to assess the existing lock standards, then design a system that gives you central control while keeping individual unit security intact."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Normanton | Victorian Terraces 24/7",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Normanton. Locked out of your Victorian terrace or council estate? Fast response, key extraction, urgent repairs. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Normanton specialises in rapid locksmithing solutions when you need them most. Whether you're locked out of your property or dealing with a snapped key, our DBS-checked technicians arrive 24/7 to help. We use non-destructive entry methods wherever possible to minimise damage, ensuring swift access to your home or business without unnecessary disruption.",
-  "emergency-locksmith.local-context-body": "Victorian terraces in Lower Altofts and similar older properties across Normanton frequently present emergency locksmith challenges due to original mortice locks that can jam, wear or snap keys—especially in properties where maintenance has been deferred. Post-war council estates in Snydale and Ellentrees, built with standardised lock mechanisms, generate different urgent calls: broken cylinders and master-key system failures that require rapid access without property damage.\n\nEmergency call-outs in Normanton often involve period properties where original door frames and hardwood construction demand careful technique to avoid structural damage during forced entry. Many terraced homes retain solid wooden doors with traditional locks that respond differently to modern drill-and-bypass methods, meaning locksmiths must assess hardware type and material before proceeding with any remedial work.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Lower Altofts and the door won't budge – how quickly can you get here?",
-      "a": "We're on-call 24/7 across Normanton and typically arrive within 30–45 minutes for emergency lockouts. Victorian terraces often have period mortice locks that need careful handling, so we carry the right tools to open yours without damage."
-    },
-    {
-      "q": "My council estate property in Snydale has been broken into – can you rekey or fit new locks the same day?",
-      "a": "Yes – post-break-in security is a priority for us. Most Snydale properties use standardised locks, which we can replace or rekey quickly; call us immediately and we'll attend urgently to make your home secure again."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Normanton | 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Normanton? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. Serving Victorian terraces & modern homes 24/7.",
-  "locked-out.hero-paragraph": "When you're locked out in Normanton, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or your door has slammed shut, we use non-destructive entry methods to regain access without damage to your property. Our damage-free approach means you can rely on us for fast, professional assistance.",
-  "locked-out.local-context-body": "Altofts' Victorian and semi-detached properties frequently present locked-out scenarios involving original mortice locks and period hardware that require specialist non-destructive entry techniques. Modern key replacements in these older properties demand careful specification to match existing mechanisms without forcing incompatible mechanisms into heritage fixtures.\n\nNormanton's post-war council estates across Snydale and Ellentrees typically feature standardised lock systems from the 1950s–70s expansion period. Locked-out calls in these areas often involve straightforward access restoration, though the prevalence of master-key systems and communal entry points means entry surveys should verify building layout before attempting non-destructive methods.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Altofts – will non-destructive entry damage my original mortice lock?",
-      "a": "No. Our non-destructive techniques are designed to work with period hardware without damage, which is essential for Normanton's older terraces where original locks are often worth preserving. We'll assess your lock type on arrival and use the gentlest method suitable for your property's era."
-    },
-    {
-      "q": "I've snapped my key in the standardised lock of my council estate flat – how quickly can you get me back in?",
-      "a": "We typically attend Normanton's post-war estates like Snydale and Ellentrees within the hour. Standardised locks on these properties respond well to non-destructive entry, so we can usually regain access without replacement or damage."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Normanton | Victorian Terrace Locks",
-  "broken-key-removal.meta.description": "Broken key removal in Normanton. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast professional service for Victorian & post-war properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Normanton requires skilled locksmiths trained in professional locksmithing techniques. A snapped or sheared key left in your lock needn't mean costly replacement. Our technicians use specialist key extractor tools and broken-key probes to safely retrieve fragments from mortice locks and euro cylinders using non-destructive methods, restoring access quickly.",
-  "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks are frequent callouts across Normanton's older housing. Victorian terraces in Altofts retain original mortice fittings where key breakage often occurs due to worn tumblers and years of use, while interwar semis in Bottomboat typically feature simpler mechanisms prone to snapping under pressure. Post-war council estates like Ellentrees present different challenges: standardised locks across multiple properties mean bulk key extraction work and subsequent rekeying are routine.\n\nPeriod properties throughout the area require careful cylinder removal to avoid damage to original door furniture and frames. Many Victorian and interwar terraces feature non-standard lock housings that demand precision extraction techniques rather than force, particularly where listed-building considerations apply. Identifying lock type and condition before extraction prevents unnecessary damage and determines whether replacement or repair is the most practical outcome for the property.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Lower Altofts often need broken key removal?",
-      "a": "Many Victorian properties in Lower Altofts still use original mortice locks with tighter tolerances than modern cylinders. When keys snap inside these older locks, extraction requires specialist care to avoid damaging the irreplaceable period hardware. We remove the broken piece safely and can advise on whether repair or sympathetic replacement is best."
-    },
-    {
-      "q": "Can you remove a broken key from the standardised locks in Normanton's council estates?",
-      "a": "Yes—the post-war estates across Snydale and Ellentrees use consistent lock types, which means we can often extract broken keys quickly and efficiently. We can also rekey or repair the lock on-site, and advise on master-key system compatibility if you manage multiple properties."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Normanton | Victorian Terrace Locks",
-  "burglar-repair-service.meta.description": "Burglar repair service in Normanton, including Altofts. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Our Normanton locksmith specialises in burglar repair and locksmithing services, restoring security after break-ins and forced entry. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to prevent future intrusions. Our door reinforcement work addresses damage from attempted burglary, ensuring your property meets current security standards.",
-  "burglar-repair-service.local-context-body": "Normanton's interwar semi-detached properties in Bottomboat and similar areas frequently present straightforward repair scenarios after break-ins, with standard door frames and modern lock cylinders that respond well to rapid reinstatement. Victorian terraces in Altofts, however, often feature period joinery and original mortice locks that demand specialist attention during post-break-in repairs; improper specification during emergency reinstatement can compromise both security and the property's character.\n\nPost-break-in door repair in Normanton commonly encounters mixed-standard locks across properties, particularly in former industrial conversions around Stanley Ferry where lock types vary widely between units. Insurance assessments typically require photographic evidence of damage and specifications matching the original standard; older mortice locks in Victorian stock may necessitate sourcing matching hardware rather than modern substitutes, extending the reinstatement timeline but ensuring code compliance and insurer satisfaction.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Our Victorian terrace in Hopetown was broken into—will you be able to repair the original mortice lock?",
-      "a": "Yes. We understand that Hopetown's Victorian terraces often have period mortice locks that need specialist handling during repair. We'll assess the damage, reinstate or replace the lock to match your door's original specification, and ensure the repair meets insurance standards."
-    },
-    {
-      "q": "We manage a small portfolio of council properties in Ellentrees and had a break-in. Can you handle multiple units quickly?",
-      "a": "Absolutely. Post-war estates like Ellentrees typically have standardised locks, which means we can survey and repair several properties efficiently. We'll coordinate access, complete emergency reinstatement work, and provide documented repairs for your insurance claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Normanton | Victorian Terraces",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Normanton for Victorian terraces and council estates. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Normanton from our expert locksmiths combines professional locksmithing with rapid property protection. Whether you're dealing with smashed windows, damaged doors, or broken glazing, our 24/7 service uses robust plywood boards and security screws to create a weatherproof temporary seal. We're insurance-compliant and ready whenever you need us.",
-  "emergency-boarding-up.local-context-body": "Normanton's terraced properties in Stanley Ferry, many converted from Victorian industrial buildings, frequently require emergency boarding after break-ins targeting ground-floor access points. The older timber frames and original glazing in these conversions can splinter extensively, making rapid board-up essential to secure the property overnight before permanent repairs can be arranged.\n\nPost-war council estates across Snydale present practical challenges for boarding work due to standardised UPVC frames fitted during 1980s–90s modernisation schemes. These frames often lack robust fixing points for temporary boarding, requiring specialist fixings that don't compromise the frame integrity—a consideration that affects both speed of installation and the structural approach needed on the night.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a Victorian terrace in Hopetown after a break-in?",
-      "a": "We aim to arrive within 60 minutes across Normanton and can board up period sash windows and original doors while preserving the frame—critical for Victorian terraces where replacement costs are high. We'll secure your property immediately and advise on temporary vs. permanent glazing options."
-    },
-    {
-      "q": "Do you handle boarding up for the council estates in Ellentrees?",
-      "a": "Yes, we regularly board up properties across Ellentrees and other post-war estates, working quickly with standardised door and window sizes common to those developments. We can often complete the work same-day and coordinate with your landlord or insurance if needed."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Normanton | Victorian Terrace & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Normanton for Victorian terraces, council estates & conversions. Lost keys? Moving home? Professional replacement service, fast response.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Normanton delivered by our experienced locksmith team, specialising in locksmithing solutions for both domestic and commercial properties. Whether you're moving home, experiencing lost keys, or upgrading security, we fit high-specification locks including BS3621 mortice and TS007 anti-snap cylinders to ensure your premises remain fully protected.",
-  "lock-changes.local-context-body": "Lock changes in Kirkthorpe reflect the area's mixed character: Victorian terraces often retain original mortice locks requiring careful specification during replacement, while post-war properties typically feature simpler cylinder mechanisms suited to straightforward swaps. Properties across Normanton frequently need lock changes following tenancy transitions or security concerns, making specification to existing door types essential before work begins.\n\nPeriod properties in Lower Altofts and surrounding terraced streets present a practical consideration: many retain traditional wooden frames and period hardware where modern locks must be carefully fitted to avoid damage. Conversely, post-war council estates feature standardised door construction, allowing faster installation but sometimes requiring master-key system coordination across multiple properties on the same estate.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved into a Victorian terrace in Stanley Ferry – do I need to replace the original mortice locks?",
-      "a": "Original mortice locks in Stanley Ferry's Victorian terraces are often functional but may not meet modern security standards. We recommend a full survey before deciding on replacement; many period properties benefit from upgrading to modern mortice locks that match the aesthetic while improving security."
-    },
-    {
-      "q": "We're managing several properties on the Snydale council estate – can you rekey all the locks to the same master key?",
-      "a": "Yes, bulk rekeying and master-key systems are a common service for post-war estates like Snydale. This is ideal for landlords and managing agents; we can coordinate multiple lock changes efficiently and maintain a secure record of master keys."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Normanton | Victorian & Period Terraces",
-  "lock-repairs.meta.description": "Lock repair specialists in Normanton: mortice locks, multipoint & night latches. Victorian terraces & modern homes. Emergency 24/7 service.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs from our Normanton locksmith combine traditional locksmithing with modern techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and resolve the issue efficiently. We specialise in mortice maintenance and multipoint servicing, restoring your locks to full working order with manufacturer warranty protection.",
-  "lock-repairs.local-context-body": "Normanton's terraced properties in Altofts and surrounding areas frequently present mortice lock repairs as a priority. These Victorian and interwar homes often operate original or longstanding hardware, where gearbox and night latch failures are commonplace due to age and wear. Multipoint lock systems on period doors require specialist attention to avoid damage to frame and mechanism.\n\nPost-war council estates across the locality feature standardised lock arrangements, where repairs to failed cylinders and gearboxes often precede wider security upgrades or lettings. Property surveys before tenancy changes frequently identify lock condition issues requiring prompt repair rather than full replacement, making diagnosis and targeted remediation efficient and cost-effective for landlords and managing agents.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian mortice locks in Altofts need specialist repair rather than replacement?",
-      "a": "Victorian terraces in Altofts often have original mortice locks that are integral to period doors; our locksmiths repair the internal gearbox and mechanism to preserve authenticity and avoid costly door replacement. We stock period-appropriate components to restore function without compromising the original hardware."
-    },
-    {
-      "q": "What lock repairs are most common in Normanton's post-war council estates like Snydale?",
-      "a": "The standardised multipoint locks fitted to post-war estates frequently develop worn gearboxes and failing mechanisms from heavy use; we specialise in repairing these common failures and can coordinate bulk rekeying if you manage multiple properties across the estates."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Normanton – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Normanton. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems for Victorian terraces and modern homes. Expert fitting.",
-  "door-lock-installation.hero-paragraph": "Our Normanton locksmith specialises in door lock installation and locksmithing work that meets modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks for insurance compliance, or fitting multipoint mechanisms, we ensure every installation protects your home or business effectively.",
-  "door-lock-installation.local-context-body": "Properties in Lower Altofts and across Normanton's terraced housing stock frequently require door lock installation that respects original period fittings whilst meeting modern security standards. Victorian mortice locks in these properties often sit in solid timber frames that accommodate BS3621 mortice locks without modification, though careful measurement ensures compatibility with existing door construction and hardware positioning.\n\nPost-war council estates in Snydale present a different scenario, where standardised door construction and frame dimensions allow straightforward installation of TS007 anti-snap cylinders and multipoint systems. Bulk rekeying across multiple properties in these estates is common, particularly for lettings or estate-wide security upgrades, requiring coordinated scheduling and consistent specification across similar door types.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Stanley Ferry – will a new BS3621 mortice lock fit my original door frame?",
-      "a": "Yes, BS3621 mortice locks are designed to fit standard period door frames, but we'll survey your door first to confirm the exact mortice size and condition; Victorian frames occasionally have slight variations that need careful specification during installation."
-    },
-    {
-      "q": "We're letting a property on the Snydale estate – can you install a master-key system across multiple doors?",
-      "a": "Absolutely; our TS007 anti-snap cylinder installations support master-key configurations, which are ideal for multi-unit properties on standardised council estates like Snydale where bulk rekeying is common."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Normanton | Victorian Terraces & More",
-  "door-lock-replacement.meta.description": "Door lock replacement in Normanton & Altofts. Victorian terraces, council estates & modern homes. Same-day service. uPVC, timber & composite doors.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Normanton from our experienced locksmith combines modern locksmithing expertise with reliable solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we specialise in like-for-like cylinder swaps and anti-snap upgrades. Our work meets BS3621 standards, ensuring your property receives the security it deserves.",
-  "door-lock-replacement.local-context-body": "Victorian terraces in Hopetown and similar period properties across Normanton frequently require door lock replacement due to wear on original mortice mechanisms. These older locks often fail after decades of use, and replacement work must account for non-standard door thicknesses and frame conditions typical of 19th-century construction. Like-for-like swaps preserve period aesthetics, while upgrades to modern euro cylinders demand careful measurement to avoid costly fitting errors.\n\nPost-war council estates including those at Snydale feature standardised door furniture from the 1960s–70s, making replacement straightforward but sometimes complicated by master-key system dependencies. Any lock change in these properties risks disrupting access protocols across multiple units, requiring coordination with managing agents or landlords before work proceeds.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Hopetown with an original mortice lock – can you replace it without damaging the door?",
-      "a": "Yes. Victorian mortice locks require careful specification during replacement to match the original keep and strike plate positions. We'll survey your door first to ensure the new lock fits the existing aperture without alteration, preserving the period character of your property."
-    },
-    {
-      "q": "We manage several properties on the Ellentrees estate – can you do bulk lock replacements and set up a master-key system?",
-      "a": "Absolutely. Post-war council estates like Ellentrees typically have standardised lock housings, making bulk rekeying and master-key systems cost-effective and straightforward. We'll coordinate the work across your portfolio and provide a key register."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Normanton | Victorian & Period Properties",
-  "door-repairs.meta.description": "Door repairs in Normanton & Altofts. Victorian terrace alignment, uPVC fixes, gearbox replacement, composite door realignment & handle repair.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Normanton from our experienced locksmiths specialising in locksmithing services. Whether your door has dropped, won't close properly, or is catching in the frame, our technicians diagnose and resolve issues quickly. We handle uPVC, composite and timber doors, using precision hinge adjustment and frame alignment to restore proper function and eliminate draughts.",
-  "door-repairs.local-context-body": "Normanton's Victorian terraces in Lower Altofts frequently present door alignment issues stemming from foundation settlement in older properties. Dropped or warped doors are especially common in period housing where frames have shifted over decades; the combination of solid timber construction and age-related structural movement makes professional realignment essential to restore secure operation and weather-sealing.\n\nDoors across Snydale's post-war council estates typically feature standardised frames and hardware from the 1950s–70s expansion. Many properties in these estates use aluminium or steel door furniture that can corrode or seize, requiring specialist knowledge of period-appropriate repair versus replacement. Listed-status considerations also affect some Victorian properties, where original hardware must be retained or matched closely during repair work.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Normanton's Victorian terraces need specialist repairs?",
-      "a": "Victorian terraces in areas like Lower Altofts often have original timber frames and period hinges that have settled over time, causing misalignment and binding. Our technicians understand these older standards and can adjust or repair hardware without forcing modern solutions that damage historic joinery."
-    },
-    {
-      "q": "What door issues are common in Normanton's post-war council estates?",
-      "a": "Properties across Snydale and Ellentrees typically feature standardised frame dimensions from the 1950s-70s expansion, but repeated use and wear cause frequent sagging and frame warping. We specialise in realigning these doors and replacing worn hardware to restore smooth operation and security."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Normanton – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Normanton. Expert fixes for espagnolette & shootbolt locks on Victorian terraces, semis & modern homes.",
-  "window-lock-repair-replacement.hero-paragraph": "Our experienced Normanton locksmith specialises in window lock repair and replacement, combining traditional locksmithing expertise with modern solutions. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we deliver insurance-compliant fitting that restores security and peace of mind to your home or business.",
-  "window-lock-repair-replacement.local-context-body": "Terraced properties across Lower Altofts retain original timber sash windows, many with period-appropriate espagnolette locks that require specialist attention during repair or replacement. Semi-detached homes in Moorhouse, built during the interwar expansion, feature a mix of original and later-fitted window hardware, making consistent lock standards variable across the neighbourhood and affecting specification decisions during maintenance.\n\nWindow lock work in Normanton frequently involves assessing shootbolt mechanisms that have corroded or seized on older frames, particularly common in Victorian and interwar stock where timber sashes are still in use. Listed-building considerations apply to some properties, especially Lower Altofts terraces, where replacements must match period fittings; surveyors often specify exact hardware types before any work begins to ensure compliance with conservation requirements.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace windows in Stanley Ferry often need espagnolette lock replacement?",
-      "a": "Victorian terraces and converted industrial properties in Stanley Ferry frequently feature original cast hardware that has corroded or worn beyond safe operation. We survey and replace these with modern espagnolette locks that match period aesthetics while providing secure, reliable function."
-    },
-    {
-      "q": "Do post-war council estates in Snydale have standard window locks I should know about?",
-      "a": "Yes—Snydale's post-war council properties typically feature standardised shootbolt mechanisms across multiple units. If yours needs repair or replacement, we can often source matching stock quickly and coordinate with your landlord's master-key system if required."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Normanton | Victorian Terrace Safes",
-  "safe-installation.meta.description": "Safe installation in Normanton for Victorian terraces & modern homes. Secure anchoring, insurance documentation, wall/floor/freestanding safes.",
-  "safe-installation.hero-paragraph": "Safe installation in Normanton by our experienced locksmith team combines expert locksmithing with precise technical execution. We specialise in floor anchoring and wall mounting techniques that ensure your new safe meets insurance approval requirements. Our installations follow Eurograde and AiS approved standards, guaranteeing your valuables are properly secured and rated for cash storage.",
-  "safe-installation.local-context-body": "Kirkthorpe's mix of Victorian terraces and post-war semis presents varied safe-installation requirements. Older properties often have solid brick walls suitable for wall-mounted safes, while newer builds may need floor anchoring or reinforced internal positioning. Insurance documentation becomes particularly important across these properties, as underwriters frequently require certified installation records for coverage on valuables stored in older terraced homes.\n\nNormanton's terraced housing stock—particularly in Lower Altofts—frequently features original solid-brick construction that accommodates secure anchoring without structural concern. However, period properties often have listed-building implications that must be verified before drilling or fixing, and some Victorian floors lack the load-bearing capacity for substantial floor safes without additional support assessment. Pre-installation surveys typically account for these variables.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "We're converting a Victorian terrace in Stanley Ferry into a rental – do you anchor safes differently in older properties?",
-      "a": "Yes. Victorian terraces often have solid brick or stone walls that anchor very securely, but we survey the internal structure first to avoid pipes and original joists. We'll ensure your safe is properly anchored and provide the insurance documentation your lettings agent needs."
-    },
-    {
-      "q": "Our council estate property in Snydale needs a safe for tenant deposits – what's the best option?",
-      "a": "Post-war council estates typically have cavity brick walls, so we usually recommend floor safes or freestanding models bolted to concrete rather than wall-mounted. We'll handle the full installation and give you certified proof for your insurance and compliance records."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Normanton | Victorian Terrace Safes",
-  "safe-opening.meta.description": "Safe opening in Normanton: lost combinations, keys & lockouts. Non-destructive methods for Victorian terraces and period properties.",
-  "safe-opening.hero-paragraph": "Our Normanton locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or experienced a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians are trained in combination dial manipulation and other specialist approaches, ensuring your safe remains intact whilst restoring your access quickly and professionally.",
-  "safe-opening.local-context-body": "Moorhouse's interwar semi-detached properties frequently house older safes installed during mid-twentieth-century renovations, often without documented combinations or keys. These domestic and small-business safes require non-destructive opening expertise, particularly where combination records have been lost or property ownership has changed hands multiple times. Safe Opening service addresses this common scenario across Normanton's housing stock.\n\nVictorian terraces in Lower Altofts and similar period properties sometimes contain safes integrated into period joinery or built into walls, where access without damage is essential to preserve original architectural features. Locksmiths performing safe opening work in these properties must assess structural context and material compatibility before attempting manipulation or drilling, adding a layer of survey work beyond standard lock-out procedures.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Hopetown with a safe I can't open – do you handle period safes?",
-      "a": "Yes, we specialise in non-destructive opening of safes in Victorian and period properties common to Hopetown and central Normanton. We can work with original hardware without damage, then advise on modern access solutions if needed."
-    },
-    {
-      "q": "We're letting out a property on the Ellentrees estate and the tenant's locked out of the office safe – how quickly can you attend?",
-      "a": "We offer same-day callouts across Normanton's post-war estates including Ellentrees. We'll open the safe non-destructively and can rekey or fit a new locking mechanism while we're there, minimising tenant downtime."
-    }
-  ],
-  "home.areas-covered": [
-    "Altofts",
-    "Bottomboat",
-    "Ellentrees",
-    "Hopetown",
-    "Kirkthorpe",
-    "Lower Altofts",
-    "Moorhouse",
-    "Snydale",
-    "Stanley Ferry",
-    "Woodhouse"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Altofts",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Hopetown"
-  ],
-  "locked-out.areas-covered": [
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Woodhouse",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Kirkthorpe",
-    "Lower Altofts",
-    "Snydale",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Hopetown",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts"
-  ],
-  "lock-changes.areas-covered": [
-    "Stanley Ferry",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts"
-  ],
-  "lock-repairs.areas-covered": [
-    "Bottomboat",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Moorhouse",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Snydale",
-    "Lower Altofts",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "door-repairs.areas-covered": [
-    "Ellentrees",
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Altofts",
-    "Hopetown"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "safe-installation.areas-covered": [
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ],
-  "safe-opening.areas-covered": [
-    "Lower Altofts",
-    "Snydale",
-    "Kirkthorpe",
-    "Moorhouse",
-    "Bottomboat",
-    "Ellentrees",
-    "Altofts",
-    "Hopetown"
-  ]
+ "meta.title": "Locksmith Normanton | Local Locksmithing Service 24/7",
+ "meta.description": "Locksmith Normanton: emergency repairs, lock changes & security for Victorian terraces, council estates & period properties. 24/7 call-outs.",
+ "home.hero-paragraph": "Normanton locksmith lock services specialise in professional locksmithing across the area. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry techniques. Our DBS-checked technicians are fully insured and available 24/7, ensuring you're never stranded without access to your property.",
+ "home.local-context-heading": "Locksmith work across Normanton's Victorian terraces",
+ "home.local-context-body": "Normanton's housing stock spans Victorian terraces through post-war estates, each with distinct lock requirements. Lower Altofts and similar Victorian terraced areas often retain original mortice locks and period hardware that need careful handling during upgrades. Post-war estates like Snydale feature standardised locks suited to bulk rekeying and master-key system installation, common requests from landlords managing multiple properties across the area.\n\nProperties undergoing conversion or rental tenancy benefit from a pre-letting security survey. Mixed lock standards across Normanton\u2014particularly in former industrial conversions and converted terraces\u2014mean door hardware varies significantly. Landlords should establish whether original period locks require conservation-standard replacement or can be upgraded to modern standards, especially where HMO licensing applies or where listed-building status affects material choice.",
+ "home.local-faqs": [
+  {
+   "q": "I've got a Victorian terrace in Altofts with original mortice locks \u2013 can you upgrade these without damaging the period features?",
+   "a": "Yes \u2013 we specialise in careful upgrades to Normanton's Victorian stock. We'll survey your existing hardware, source compatible period-style locks where appropriate, and ensure any modern security improvements work with your original joinery."
+  },
+  {
+   "q": "We're letting out a converted industrial property in Stanley Ferry \u2013 what lock setup do you recommend for multiple tenants?",
+   "a": "We typically recommend a master-key or access-control system for conversions like yours. We'll survey the property first to assess the existing lock standards, then design a system that gives you central control while keeping individual unit security intact."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Normanton | Victorian Terraces 24/7",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Normanton. Locked out of your Victorian terrace or council estate? Fast response, key extraction, urgent repairs. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Normanton specialises in rapid locksmithing solutions when you need them most. Whether you're locked out of your property or dealing with a snapped key, our DBS-checked technicians arrive 24/7 to help. We use non-destructive entry methods wherever possible to minimise damage, ensuring swift access to your home or business without unnecessary disruption.",
+ "emergency-locksmith.local-context-body": "Victorian terraces in Lower Altofts and similar older properties across Normanton frequently present emergency locksmith challenges due to original mortice locks that can jam, wear or snap keys\u2014especially in properties where maintenance has been deferred. Post-war council estates in Snydale and Ellentrees, built with standardised lock mechanisms, generate different urgent calls: broken cylinders and master-key system failures that require rapid access without property damage.\n\nEmergency call-outs in Normanton often involve period properties where original door frames and hardwood construction demand careful technique to avoid structural damage during forced entry. Many terraced homes retain solid wooden doors with traditional locks that respond differently to modern drill-and-bypass methods, meaning locksmiths must assess hardware type and material before proceeding with any remedial work.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Lower Altofts and the door won't budge \u2013 how quickly can you get here?",
+   "a": "We're on-call 24/7 across Normanton and typically arrive within 30\u201345 minutes for emergency lockouts. Victorian terraces often have period mortice locks that need careful handling, so we carry the right tools to open yours without damage."
+  },
+  {
+   "q": "My council estate property in Snydale has been broken into \u2013 can you rekey or fit new locks the same day?",
+   "a": "Yes \u2013 post-break-in security is a priority for us. Most Snydale properties use standardised locks, which we can replace or rekey quickly; call us immediately and we'll attend urgently to make your home secure again."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Normanton | 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Normanton? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. Serving Victorian terraces & modern homes 24/7.",
+ "locked-out.hero-paragraph": "When you're locked out in Normanton, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or your door has slammed shut, we use non-destructive entry methods to regain access without damage to your property. Our damage-free approach means you can rely on us for fast, professional assistance.",
+ "locked-out.local-context-body": "Altofts' Victorian and semi-detached properties frequently present locked-out scenarios involving original mortice locks and period hardware that require specialist non-destructive entry techniques. Modern key replacements in these older properties demand careful specification to match existing mechanisms without forcing incompatible mechanisms into heritage fixtures.\n\nNormanton's post-war council estates across Snydale and Ellentrees typically feature standardised lock systems from the 1950s\u201370s expansion period. Locked-out calls in these areas often involve straightforward access restoration, though the prevalence of master-key systems and communal entry points means entry surveys should verify building layout before attempting non-destructive methods.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Altofts \u2013 will non-destructive entry damage my original mortice lock?",
+   "a": "No. Our non-destructive techniques are designed to work with period hardware without damage, which is essential for Normanton's older terraces where original locks are often worth preserving. We'll assess your lock type on arrival and use the gentlest method suitable for your property's era."
+  },
+  {
+   "q": "I've snapped my key in the standardised lock of my council estate flat \u2013 how quickly can you get me back in?",
+   "a": "We typically attend Normanton's post-war estates like Snydale and Ellentrees within the hour. Standardised locks on these properties respond well to non-destructive entry, so we can usually regain access without replacement or damage."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Normanton | Victorian Terrace Locks",
+ "broken-key-removal.meta.description": "Broken key removal in Normanton. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast professional service for Victorian & post-war properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Normanton requires skilled locksmiths trained in professional locksmithing techniques. A snapped or sheared key left in your lock needn't mean costly replacement. Our technicians use specialist key extractor tools and broken-key probes to safely retrieve fragments from mortice locks and euro cylinders using non-destructive methods, restoring access quickly.",
+ "broken-key-removal.local-context-body": "Broken keys in euro cylinders and mortice locks are frequent callouts across Normanton's older housing. Victorian terraces in Altofts retain original mortice fittings where key breakage often occurs due to worn tumblers and years of use, while interwar semis in Bottomboat typically feature simpler mechanisms prone to snapping under pressure. Post-war council estates like Ellentrees present different challenges: standardised locks across multiple properties mean bulk key extraction work and subsequent rekeying are routine.\n\nPeriod properties throughout the area require careful cylinder removal to avoid damage to original door furniture and frames. Many Victorian and interwar terraces feature non-standard lock housings that demand precision extraction techniques rather than force, particularly where listed-building considerations apply. Identifying lock type and condition before extraction prevents unnecessary damage and determines whether replacement or repair is the most practical outcome for the property.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Lower Altofts often need broken key removal?",
+   "a": "Many Victorian properties in Lower Altofts still use original mortice locks with tighter tolerances than modern cylinders. When keys snap inside these older locks, extraction requires specialist care to avoid damaging the irreplaceable period hardware. We remove the broken piece safely and can advise on whether repair or sympathetic replacement is best."
+  },
+  {
+   "q": "Can you remove a broken key from the standardised locks in Normanton's council estates?",
+   "a": "Yes\u2014the post-war estates across Snydale and Ellentrees use consistent lock types, which means we can often extract broken keys quickly and efficiently. We can also rekey or repair the lock on-site, and advise on master-key system compatibility if you manage multiple properties."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Normanton | Victorian Terrace Locks",
+ "burglar-repair-service.meta.description": "Burglar repair service in Normanton, including Altofts. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Our Normanton locksmith specialises in burglar repair and locksmithing services, restoring security after break-ins and forced entry. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to prevent future intrusions. Our door reinforcement work addresses damage from attempted burglary, ensuring your property meets current security standards.",
+ "burglar-repair-service.local-context-body": "Normanton's interwar semi-detached properties in Bottomboat and similar areas frequently present straightforward repair scenarios after break-ins, with standard door frames and modern lock cylinders that respond well to rapid reinstatement. Victorian terraces in Altofts, however, often feature period joinery and original mortice locks that demand specialist attention during post-break-in repairs; improper specification during emergency reinstatement can compromise both security and the property's character.\n\nPost-break-in door repair in Normanton commonly encounters mixed-standard locks across properties, particularly in former industrial conversions around Stanley Ferry where lock types vary widely between units. Insurance assessments typically require photographic evidence of damage and specifications matching the original standard; older mortice locks in Victorian stock may necessitate sourcing matching hardware rather than modern substitutes, extending the reinstatement timeline but ensuring code compliance and insurer satisfaction.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Our Victorian terrace in Hopetown was broken into\u2014will you be able to repair the original mortice lock?",
+   "a": "Yes. We understand that Hopetown's Victorian terraces often have period mortice locks that need specialist handling during repair. We'll assess the damage, reinstate or replace the lock to match your door's original specification, and ensure the repair meets insurance standards."
+  },
+  {
+   "q": "We manage a small portfolio of council properties in Ellentrees and had a break-in. Can you handle multiple units quickly?",
+   "a": "Absolutely. Post-war estates like Ellentrees typically have standardised locks, which means we can survey and repair several properties efficiently. We'll coordinate access, complete emergency reinstatement work, and provide documented repairs for your insurance claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Normanton | Victorian Terraces",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Normanton for Victorian terraces and council estates. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Normanton from our expert locksmiths combines professional locksmithing with rapid property protection. Whether you're dealing with smashed windows, damaged doors, or broken glazing, our 24/7 service uses robust plywood boards and security screws to create a weatherproof temporary seal. We're insurance-compliant and ready whenever you need us.",
+ "emergency-boarding-up.local-context-body": "Normanton's terraced properties in Stanley Ferry, many converted from Victorian industrial buildings, frequently require emergency boarding after break-ins targeting ground-floor access points. The older timber frames and original glazing in these conversions can splinter extensively, making rapid board-up essential to secure the property overnight before permanent repairs can be arranged.\n\nPost-war council estates across Snydale present practical challenges for boarding work due to standardised UPVC frames fitted during 1980s\u201390s modernisation schemes. These frames often lack robust fixing points for temporary boarding, requiring specialist fixings that don't compromise the frame integrity\u2014a consideration that affects both speed of installation and the structural approach needed on the night.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a Victorian terrace in Hopetown after a break-in?",
+   "a": "We aim to arrive within 60 minutes across Normanton and can board up period sash windows and original doors while preserving the frame\u2014critical for Victorian terraces where replacement costs are high. We'll secure your property immediately and advise on temporary vs. permanent glazing options."
+  },
+  {
+   "q": "Do you handle boarding up for the council estates in Ellentrees?",
+   "a": "Yes, we regularly board up properties across Ellentrees and other post-war estates, working quickly with standardised door and window sizes common to those developments. We can often complete the work same-day and coordinate with your landlord or insurance if needed."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Normanton | Victorian Terrace & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Normanton for Victorian terraces, council estates & conversions. Lost keys? Moving home? Professional replacement service, fast response.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Normanton delivered by our experienced locksmith team, specialising in locksmithing solutions for both domestic and commercial properties. Whether you're moving home, experiencing lost keys, or upgrading security, we fit high-specification locks including BS3621 mortice and TS007 anti-snap cylinders to ensure your premises remain fully protected.",
+ "lock-changes.local-context-body": "Lock changes in Kirkthorpe reflect the area's mixed character: Victorian terraces often retain original mortice locks requiring careful specification during replacement, while post-war properties typically feature simpler cylinder mechanisms suited to straightforward swaps. Properties across Normanton frequently need lock changes following tenancy transitions or security concerns, making specification to existing door types essential before work begins.\n\nPeriod properties in Lower Altofts and surrounding terraced streets present a practical consideration: many retain traditional wooden frames and period hardware where modern locks must be carefully fitted to avoid damage. Conversely, post-war council estates feature standardised door construction, allowing faster installation but sometimes requiring master-key system coordination across multiple properties on the same estate.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved into a Victorian terrace in Stanley Ferry \u2013 do I need to replace the original mortice locks?",
+   "a": "Original mortice locks in Stanley Ferry's Victorian terraces are often functional but may not meet modern security standards. We recommend a full survey before deciding on replacement; many period properties benefit from upgrading to modern mortice locks that match the aesthetic while improving security."
+  },
+  {
+   "q": "We're managing several properties on the Snydale council estate \u2013 can you rekey all the locks to the same master key?",
+   "a": "Yes, bulk rekeying and master-key systems are a common service for post-war estates like Snydale. This is ideal for landlords and managing agents; we can coordinate multiple lock changes efficiently and maintain a secure record of master keys."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Normanton | Victorian & Period Terraces",
+ "lock-repairs.meta.description": "Lock repair specialists in Normanton: mortice locks, multipoint & night latches. Victorian terraces & modern homes. Emergency 24/7 service.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs from our Normanton locksmith combine traditional locksmithing with modern techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and resolve the issue efficiently. We specialise in mortice maintenance and multipoint servicing, restoring your locks to full working order with manufacturer warranty protection.",
+ "lock-repairs.local-context-body": "Normanton's terraced properties in Altofts and surrounding areas frequently present mortice lock repairs as a priority. These Victorian and interwar homes often operate original or longstanding hardware, where gearbox and night latch failures are commonplace due to age and wear. Multipoint lock systems on period doors require specialist attention to avoid damage to frame and mechanism.\n\nPost-war council estates across the locality feature standardised lock arrangements, where repairs to failed cylinders and gearboxes often precede wider security upgrades or lettings. Property surveys before tenancy changes frequently identify lock condition issues requiring prompt repair rather than full replacement, making diagnosis and targeted remediation efficient and cost-effective for landlords and managing agents.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian mortice locks in Altofts need specialist repair rather than replacement?",
+   "a": "Victorian terraces in Altofts often have original mortice locks that are integral to period doors; our locksmiths repair the internal gearbox and mechanism to preserve authenticity and avoid costly door replacement. We stock period-appropriate components to restore function without compromising the original hardware."
+  },
+  {
+   "q": "What lock repairs are most common in Normanton's post-war council estates like Snydale?",
+   "a": "The standardised multipoint locks fitted to post-war estates frequently develop worn gearboxes and failing mechanisms from heavy use; we specialise in repairing these common failures and can coordinate bulk rekeying if you manage multiple properties across the estates."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Normanton \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Normanton. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems for Victorian terraces and modern homes. Expert fitting.",
+ "door-lock-installation.hero-paragraph": "Our Normanton locksmith specialises in door lock installation and locksmithing work that meets modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, installing BS3621 mortice locks for insurance compliance, or fitting multipoint mechanisms, we ensure every installation protects your home or business effectively.",
+ "door-lock-installation.local-context-body": "Properties in Lower Altofts and across Normanton's terraced housing stock frequently require door lock installation that respects original period fittings whilst meeting modern security standards. Victorian mortice locks in these properties often sit in solid timber frames that accommodate BS3621 mortice locks without modification, though careful measurement ensures compatibility with existing door construction and hardware positioning.\n\nPost-war council estates in Snydale present a different scenario, where standardised door construction and frame dimensions allow straightforward installation of TS007 anti-snap cylinders and multipoint systems. Bulk rekeying across multiple properties in these estates is common, particularly for lettings or estate-wide security upgrades, requiring coordinated scheduling and consistent specification across similar door types.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Stanley Ferry \u2013 will a new BS3621 mortice lock fit my original door frame?",
+   "a": "Yes, BS3621 mortice locks are designed to fit standard period door frames, but we'll survey your door first to confirm the exact mortice size and condition; Victorian frames occasionally have slight variations that need careful specification during installation."
+  },
+  {
+   "q": "We're letting a property on the Snydale estate \u2013 can you install a master-key system across multiple doors?",
+   "a": "Absolutely; our TS007 anti-snap cylinder installations support master-key configurations, which are ideal for multi-unit properties on standardised council estates like Snydale where bulk rekeying is common."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Normanton | Victorian Terraces & More",
+ "door-lock-replacement.meta.description": "Door lock replacement in Normanton & Altofts. Victorian terraces, council estates & modern homes. Same-day service. uPVC, timber & composite doors.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Normanton from our experienced locksmith combines modern locksmithing expertise with reliable solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we specialise in like-for-like cylinder swaps and anti-snap upgrades. Our work meets BS3621 standards, ensuring your property receives the security it deserves.",
+ "door-lock-replacement.local-context-body": "Victorian terraces in Hopetown and similar period properties across Normanton frequently require door lock replacement due to wear on original mortice mechanisms. These older locks often fail after decades of use, and replacement work must account for non-standard door thicknesses and frame conditions typical of 19th-century construction. Like-for-like swaps preserve period aesthetics, while upgrades to modern euro cylinders demand careful measurement to avoid costly fitting errors.\n\nPost-war council estates including those at Snydale feature standardised door furniture from the 1960s\u201370s, making replacement straightforward but sometimes complicated by master-key system dependencies. Any lock change in these properties risks disrupting access protocols across multiple units, requiring coordination with managing agents or landlords before work proceeds.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Hopetown with an original mortice lock \u2013 can you replace it without damaging the door?",
+   "a": "Yes. Victorian mortice locks require careful specification during replacement to match the original keep and strike plate positions. We'll survey your door first to ensure the new lock fits the existing aperture without alteration, preserving the period character of your property."
+  },
+  {
+   "q": "We manage several properties on the Ellentrees estate \u2013 can you do bulk lock replacements and set up a master-key system?",
+   "a": "Absolutely. Post-war council estates like Ellentrees typically have standardised lock housings, making bulk rekeying and master-key systems cost-effective and straightforward. We'll coordinate the work across your portfolio and provide a key register."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Normanton | Victorian & Period Properties",
+ "door-repairs.meta.description": "Door repairs in Normanton & Altofts. Victorian terrace alignment, uPVC fixes, gearbox replacement, composite door realignment & handle repair.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Normanton from our experienced locksmiths specialising in locksmithing services. Whether your door has dropped, won't close properly, or is catching in the frame, our technicians diagnose and resolve issues quickly. We handle uPVC, composite and timber doors, using precision hinge adjustment and frame alignment to restore proper function and eliminate draughts.",
+ "door-repairs.local-context-body": "Normanton's Victorian terraces in Lower Altofts frequently present door alignment issues stemming from foundation settlement in older properties. Dropped or warped doors are especially common in period housing where frames have shifted over decades; the combination of solid timber construction and age-related structural movement makes professional realignment essential to restore secure operation and weather-sealing.\n\nDoors across Snydale's post-war council estates typically feature standardised frames and hardware from the 1950s\u201370s expansion. Many properties in these estates use aluminium or steel door furniture that can corrode or seize, requiring specialist knowledge of period-appropriate repair versus replacement. Listed-status considerations also affect some Victorian properties, where original hardware must be retained or matched closely during repair work.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Normanton's Victorian terraces need specialist repairs?",
+   "a": "Victorian terraces in areas like Lower Altofts often have original timber frames and period hinges that have settled over time, causing misalignment and binding. Our technicians understand these older standards and can adjust or repair hardware without forcing modern solutions that damage historic joinery."
+  },
+  {
+   "q": "What door issues are common in Normanton's post-war council estates?",
+   "a": "Properties across Snydale and Ellentrees typically feature standardised frame dimensions from the 1950s-70s expansion, but repeated use and wear cause frequent sagging and frame warping. We specialise in realigning these doors and replacing worn hardware to restore smooth operation and security."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Normanton \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Normanton. Expert fixes for espagnolette & shootbolt locks on Victorian terraces, semis & modern homes.",
+ "window-lock-repair-replacement.hero-paragraph": "Our experienced Normanton locksmith specialises in window lock repair and replacement, combining traditional locksmithing expertise with modern solutions. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, we deliver insurance-compliant fitting that restores security and peace of mind to your home or business.",
+ "window-lock-repair-replacement.local-context-body": "Terraced properties across Lower Altofts retain original timber sash windows, many with period-appropriate espagnolette locks that require specialist attention during repair or replacement. Semi-detached homes in Moorhouse, built during the interwar expansion, feature a mix of original and later-fitted window hardware, making consistent lock standards variable across the neighbourhood and affecting specification decisions during maintenance.\n\nWindow lock work in Normanton frequently involves assessing shootbolt mechanisms that have corroded or seized on older frames, particularly common in Victorian and interwar stock where timber sashes are still in use. Listed-building considerations apply to some properties, especially Lower Altofts terraces, where replacements must match period fittings; surveyors often specify exact hardware types before any work begins to ensure compliance with conservation requirements.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace windows in Stanley Ferry often need espagnolette lock replacement?",
+   "a": "Victorian terraces and converted industrial properties in Stanley Ferry frequently feature original cast hardware that has corroded or worn beyond safe operation. We survey and replace these with modern espagnolette locks that match period aesthetics while providing secure, reliable function."
+  },
+  {
+   "q": "Do post-war council estates in Snydale have standard window locks I should know about?",
+   "a": "Yes\u2014Snydale's post-war council properties typically feature standardised shootbolt mechanisms across multiple units. If yours needs repair or replacement, we can often source matching stock quickly and coordinate with your landlord's master-key system if required."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Normanton | Victorian Terrace Safes",
+ "safe-installation.meta.description": "Safe installation in Normanton for Victorian terraces & modern homes. Secure anchoring, insurance documentation, wall/floor/freestanding safes.",
+ "safe-installation.hero-paragraph": "Safe installation in Normanton by our experienced locksmith team combines expert locksmithing with precise technical execution. We specialise in floor anchoring and wall mounting techniques that ensure your new safe meets insurance approval requirements. Our installations follow Eurograde and AiS approved standards, guaranteeing your valuables are properly secured and rated for cash storage.",
+ "safe-installation.local-context-body": "Kirkthorpe's mix of Victorian terraces and post-war semis presents varied safe-installation requirements. Older properties often have solid brick walls suitable for wall-mounted safes, while newer builds may need floor anchoring or reinforced internal positioning. Insurance documentation becomes particularly important across these properties, as underwriters frequently require certified installation records for coverage on valuables stored in older terraced homes.\n\nNormanton's terraced housing stock\u2014particularly in Lower Altofts\u2014frequently features original solid-brick construction that accommodates secure anchoring without structural concern. However, period properties often have listed-building implications that must be verified before drilling or fixing, and some Victorian floors lack the load-bearing capacity for substantial floor safes without additional support assessment. Pre-installation surveys typically account for these variables.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "We're converting a Victorian terrace in Stanley Ferry into a rental \u2013 do you anchor safes differently in older properties?",
+   "a": "Yes. Victorian terraces often have solid brick or stone walls that anchor very securely, but we survey the internal structure first to avoid pipes and original joists. We'll ensure your safe is properly anchored and provide the insurance documentation your lettings agent needs."
+  },
+  {
+   "q": "Our council estate property in Snydale needs a safe for tenant deposits \u2013 what's the best option?",
+   "a": "Post-war council estates typically have cavity brick walls, so we usually recommend floor safes or freestanding models bolted to concrete rather than wall-mounted. We'll handle the full installation and give you certified proof for your insurance and compliance records."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Normanton | Victorian Terrace Safes",
+ "safe-opening.meta.description": "Safe opening in Normanton: lost combinations, keys & lockouts. Non-destructive methods for Victorian terraces and period properties.",
+ "safe-opening.hero-paragraph": "Our Normanton locksmith specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or experienced a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians are trained in combination dial manipulation and other specialist approaches, ensuring your safe remains intact whilst restoring your access quickly and professionally.",
+ "safe-opening.local-context-body": "Moorhouse's interwar semi-detached properties frequently house older safes installed during mid-twentieth-century renovations, often without documented combinations or keys. These domestic and small-business safes require non-destructive opening expertise, particularly where combination records have been lost or property ownership has changed hands multiple times. Safe Opening service addresses this common scenario across Normanton's housing stock.\n\nVictorian terraces in Lower Altofts and similar period properties sometimes contain safes integrated into period joinery or built into walls, where access without damage is essential to preserve original architectural features. Locksmiths performing safe opening work in these properties must assess structural context and material compatibility before attempting manipulation or drilling, adding a layer of survey work beyond standard lock-out procedures.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Hopetown with a safe I can't open \u2013 do you handle period safes?",
+   "a": "Yes, we specialise in non-destructive opening of safes in Victorian and period properties common to Hopetown and central Normanton. We can work with original hardware without damage, then advise on modern access solutions if needed."
+  },
+  {
+   "q": "We're letting out a property on the Ellentrees estate and the tenant's locked out of the office safe \u2013 how quickly can you attend?",
+   "a": "We offer same-day callouts across Normanton's post-war estates including Ellentrees. We'll open the safe non-destructively and can rekey or fit a new locking mechanism while we're there, minimising tenant downtime."
+  }
+ ],
+ "home.areas-covered": [
+  "Altofts",
+  "Hopetown",
+  "Kirkthorpe",
+  "Warmfield"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Altofts",
+  "Kirkthorpe",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "locked-out.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Hopetown",
+  "Kirkthorpe",
+  "Altofts",
+  "Warmfield"
+ ],
+ "lock-changes.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "lock-repairs.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "door-repairs.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "safe-installation.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ],
+ "safe-opening.areas-covered": [
+  "Kirkthorpe",
+  "Altofts",
+  "Hopetown",
+  "Warmfield"
+ ]
 }

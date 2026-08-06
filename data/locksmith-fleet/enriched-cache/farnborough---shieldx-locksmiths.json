@@ -1,346 +1,354 @@
 {
-  "meta.title": "Locksmith Farnborough | Local Locksmithing Service 24/7",
-  "meta.description": "Farnborough locksmith specialising in period lock repairs for interwar villas and modern rekeying for post-war semis. 24/7 emergency service.",
-  "home.hero-paragraph": "Farnborough locksmith and locksmithing service specialists are here to help with expert lock services. We handle emergency lockouts, lock changes and repairs with non-destructive entry techniques. All work is carried out by DBS checked technicians, fully insured and available 24/7 to keep your home and business secure.",
-  "home.local-context-heading": "Modernising Farnborough's Post-War Homes",
-  "home.local-context-body": "Farnborough's housing stock—predominantly post-war semis alongside interwar villas—means lock needs vary widely. Properties in North Farnborough often retain original mechanisms that benefit from cylinder upgrades and modernisation, while older period locks in properties throughout the area frequently require specialist repair to maintain security without compromising character.\n\nHigh rental turnover in parts of Farnborough drives demand for rekeying and master key system installation. Landlords managing multiple properties should consider that period properties—especially interwar semis in quieter areas—may have conservation considerations affecting lock replacement. Standard UPVC doors on post-war properties typically accept modern five-pin cylinders without complication.",
-  "home.local-faqs": [
-    {
-      "q": "My semi-detached in Ramillies Park has the original lock from the 1950s—should I upgrade it?",
-      "a": "Yes. Post-war semis in Ramillies Park often have worn period cylinders that no longer offer reliable security. We can fit modern, insurance-compliant cylinders while keeping your door and frame intact, or upgrade to a contemporary deadlock if you prefer."
-    },
-    {
-      "q": "We're a landlord with rental properties in North Camp. How do we manage lock changes between tenants quickly?",
-      "a": "We install master key systems that let you control access across multiple properties without rekeying every lock. Combined with rapid-response rekeying, this cuts changeover time and protects your inventory in high-turnover areas."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Farnborough | 24/7 Post-War Homes",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Farnborough. Locked out or key snapped? Fast response to post-war semis, villas & terraces. Urgent repairs, non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Farnborough offers professional locksmithing for urgent situations. We specialise in rapid response lockouts and snapped key extraction using non-destructive entry techniques. Our DBS-checked technicians operate 24/7, ensuring you're never stranded. Whether you're locked out of your home or office, we're available round the clock.",
-  "emergency-locksmith.local-context-body": "North Camp's post-war semis and terraces experience high tenant turnover, creating frequent demand for emergency rekeying and lockout callouts. Original cylinder locks in these properties often fail without warning, particularly where maintenance has been deferred. Rapid response is essential in rental properties where multiple occupants may be affected by a single failed lock or lost key.\n\nInterwar villas in South Farnborough present a distinct challenge: many retain period hardware and non-standard lock mechanisms that require specialist knowledge to repair without damage. Emergency work on these older properties demands familiarity with traditional mortice locks and wooden door frames that cannot tolerate force-entry techniques suitable for modern construction. Post-break-in security upgrades in older housing stock must balance functional security with period-appropriate installation methods.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my post-war semi in Ash Vale – how quickly can you arrive?",
-      "a": "We operate 24/7 across Farnborough and typically reach Ash Vale within 30–45 minutes of your call. Our emergency team carries non-destructive entry tools suited to standard post-war locks, so we can usually get you back inside without damage."
-    },
-    {
-      "q": "My interwar villa in South Farnborough was broken into – can you rekey the locks tonight?",
-      "a": "Yes. We handle emergency post-break-in security for period properties, including careful rekeying of original or heritage-style locks common to South Farnborough villas. Call 01252 493213 and we'll secure your property and discuss longer-term upgrades the next day."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Farnborough – 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Farnborough? Fast non-destructive entry for lost or snapped keys. 24/7 emergency service for semis, terraces & flats across West Heath, Ramillies Park & beyond.",
-  "locked-out.hero-paragraph": "When you're locked out in Farnborough, our locksmiths specialise in rapid locksmithing solutions that get you back inside without delay. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry techniques to regain access with minimal disruption to your property.",
-  "locked-out.local-context-body": "Farnborough's post-war semi-detached properties in North Farnborough frequently present locked-out scenarios where residents are separated from keys during commute hours. The rental turnover typical of commuter towns means many properties cycle through tenants quickly, increasing instances of lost or mislaid keys. Interwar villas in Farnborough Green, though smaller in number, often retain original mortice locks that require careful, non-destructive handling to avoid damage to period frames and mechanisms.\n\nAccess speed is constrained by Farnborough's layout: properties in fringe areas like Mytchett may have longer response windows, and older properties frequently feature multiple-point locking systems inherited from post-war installation standards. Many houses use cylinder locks fitted to original wooden frames where force-based entry risks structural damage, making non-destructive techniques essential rather than optional.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my semi-detached in North Farnborough—how quickly can you get here?",
-      "a": "We aim for rapid response across North Farnborough's commuter areas. Call 01252 493213 and we'll typically arrive within 30–60 minutes, using non-destructive entry to open your door without damage to the original frame or lock."
-    },
-    {
-      "q": "My key snapped in the lock of my interwar villa in Farnborough Green. Can you still get me in without breaking the door?",
-      "a": "Yes—non-destructive entry works on period locks common in Farnborough Green villas. We'll extract the broken key and open the lock carefully, preserving both the mechanism and your period ironwork."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Farnborough | Snapped Keys in Post-War Semis",
-  "broken-key-removal.meta.description": "Broken key stuck in your lock? Shieldx removes snapped keys from euro cylinders & mortice locks across Farnborough. Fast extraction for post-war semis & period properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Farnborough requires a skilled locksmith trained in modern locksmithing techniques to extract snapped or sheared keys safely. Our technicians use specialised key extractor tools and broken-key probes to retrieve fragments from mortice locks and euro cylinders without causing damage. This non-destructive method ensures your lock remains fully functional after removal.",
-  "broken-key-removal.local-context-body": "Terrace properties and semi-detached homes across North Farnborough frequently present broken key scenarios, particularly where original or aging cylinders remain in service. Wear on euro cylinders and mortice locks accelerates in these densely populated commuter areas, where keys endure heavy daily use and temperature fluctuations typical of post-war construction. Extraction becomes a common requirement before rekeying or lock replacement can proceed.\n\nFarnborough's mixed rental and owner-occupier stock means broken key removal often occurs under time pressure. Landlords managing multiple properties across Mytchett and adjacent areas need swift extraction to maintain tenancy changeovers, while the prevalence of original period hardware in properties built between the 1940s and 1960s means extractors must frequently work with corroded or non-standard lock mechanisms where standard removal tools may not grip effectively.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "I've snapped my key in the lock of my post-war semi in Ash Vale – can you remove it without damaging the cylinder?",
-      "a": "Yes, we specialise in extracting broken keys from euro cylinders and mortice locks without cylinder damage, which is especially important in post-war semis where original or upgraded locks are common. Call us on 01252 493213 and we can usually attend the same day."
-    },
-    {
-      "q": "My interwar villa in Farnborough Green has a period night latch with a snapped key stuck inside – will removal preserve the lock?",
-      "a": "Absolutely; we use specialist extraction techniques to remove snapped keys from period night latches and older mortice locks while preserving their integrity, which matters for listed or character properties. We understand the heritage value of Farnborough Green homes and work accordingly."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Farnborough | Post-War Homes",
-  "burglar-repair-service.meta.description": "Burglar repair service in Farnborough. Post-break-in lock changes, door repairs and security upgrades for semis and period homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Farnborough locksmith specialises in burglar repair and professional locksmithing to restore security after break-ins. Following forced entry, we repair damaged doors and install TS007 anti-snap cylinders to prevent future attacks. All work meets insurance-compliant standards, ensuring your home is properly protected and certified secure.",
-  "burglar-repair-service.local-context-body": "Break-ins across Farnborough's post-war semis and terraces—particularly in areas like Ash Vale where rental turnover is high—create urgent demand for rapid lock and door reinstatement. Insurance assessors expect swift, compliant repairs that restore security without compromise. Interwar properties in Farnborough Green, meanwhile, require specialist handling to preserve original joinery while upgrading locks to modern standards.\n\nMany properties built in the 1950s–70s retain original timber frames and single-cylinder mortice locks vulnerable to forced-entry damage. Burglar repair work must account for non-standard door widths and older lock housings that complicate straightforward replacement; insurance-quality reinstatement often involves both structural timber repair and cylinder upgrade rather than full-frame substitution. Local rental stock also means landlord-tenant agreements and deposit-protection protocols frequently govern repair scope and responsibility.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you offer emergency callouts after a break-in in North Farnborough?",
-      "a": "Yes, we provide same-day emergency repair and reinstatement for break-ins across North Farnborough and surrounding areas. Our team can secure your property and handle all lock and door repairs to insurance-standard within hours of the incident."
-    },
-    {
-      "q": "Can you repair period locks on interwar villas in Farnborough Green after a break-in?",
-      "a": "Absolutely—we specialise in repairing and upgrading original locks on interwar properties while preserving their character. After a break-in, we'll restore your villa's security with period-appropriate cylinder replacements or modern upgrades, whichever suits your insurance requirements."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Farnborough | Post-War Semis",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Farnborough & Cove. Same-day boarding of smashed doors and windows after break-ins or storm damage to secure your property.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Farnborough from our experienced locksmith specialists combines locksmithing expertise with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our technicians arrive 24/7 with plywood boards and security screws to create weatherproof temporary seals. All work is insurance-compliant and documented for your records.",
-  "emergency-boarding-up.local-context-body": "Farnborough's mixed residential landscape—from post-war semis in North Camp to interwar villas across South Farnborough—creates varied boarding-up scenarios. Semi-detached and detached properties often feature original timber frames and period joinery vulnerable to forced entry or weather damage. Storm impact and break-ins affecting these older structures demand rapid temporary securing, particularly in North Camp where rental turnover and property density concentrate incident frequency.\n\nListed-building status affects a number of interwar and period properties in South Farnborough, restricting material choices for temporary boarding. Standard plywood and metal sheets may breach conservation guidelines, requiring boarding solutions that preserve original timber frames and glazing profiles. Local authority planning contact prior to boarding is essential for heritage properties, adding a coordination step absent in post-war stock work.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a broken window in a post-war semi in West Heath after a break-in?",
-      "a": "We typically arrive within 60 minutes for emergency boarding calls across Farnborough, including West Heath. Our team carries pre-cut boards sized for standard post-war semi frames to minimise delay and secure your property immediately."
-    },
-    {
-      "q": "Do you board up period windows on interwar villas, or will it damage original frames?",
-      "a": "Yes—we specialise in heritage-conscious boarding for older properties in South Farnborough and Farnborough Green. We use temporary protective framing methods that preserve original woodwork until your glazier or joiner can carry out proper repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Farnborough | Semi-Detached & Period Homes",
-  "lock-changes.meta.description": "Professional lock changes in Farnborough for moves, lost keys & security upgrades. Serving post-war semis, period villas & rental properties across North Camp & Cove.",
-  "lock-changes.hero-paragraph": "Lock changes in Farnborough from our certified locksmiths combine expert locksmithing with modern security. Whether you're moving home, changing tenancy, or upgrading your property's security, we install BS3621-approved mortice locks and TS007 anti-snap cylinders to meet current standards. Our technicians ensure every installation protects your home effectively.",
-  "lock-changes.local-context-body": "Lock changes in Farnborough respond to the area's mixed residential character. Post-war semis across Ash Vale and Hawley frequently require full lock replacement following house sales or key loss, with many original cylinders now beyond secure repair. Interwar properties in Farnborough Green and South Farnborough demand period-appropriate solutions—conservation-minded homeowners often seek sympathetic upgrades that preserve original hardware aesthetic while meeting modern security standards.\n\nRental property turnover in North Camp and Ramillies Park creates sustained demand for rapid rekeying and master key system installation. Many Farnborough terraces and semis retain original timber frames and period door mechanisms that need careful handling during lock replacement; locksmiths must account for older door depths and non-standard aperture sizes common to pre-1960s construction. Listed-building designation affects some interwar properties, requiring compliance with heritage conservation guidance before lock work proceeds.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved into a post-war semi in North Camp – do I need to change all the locks?",
-      "a": "Yes, we'd recommend it for security and peace of mind. Many post-war semis in North Camp still have original or worn period locks; our lock changes give you fresh cylinders and keys, especially important given the rental turnover in that area."
-    },
-    {
-      "q": "Our interwar villa in South Farnborough has original period locks – can you replace them without damaging the doors?",
-      "a": "Absolutely. We specialise in preserving period properties while upgrading security; we can fit modern, secure cylinders into your existing period lock cases, or source matching heritage locks if replacement is needed."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Farnborough – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Farnborough for post-war semis & period properties. Multipoint, mortice & night latch fixes. Emergency 24/7 service available.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Farnborough from our experienced locksmiths combine skilled locksmithing with swift solutions. Whether your lock is stiff, jammed, or the key won't turn, our technicians perform precise mortice maintenance and multipoint servicing. All work carries manufacturer warranty, ensuring your security is restored to the highest standard.",
-  "lock-repairs.local-context-body": "Properties across Cove and the wider post-war stock often feature original multipoint and mortice locks installed decades ago, now prone to gearbox wear and night latch failure. Semi-detached homes in particular show accelerated lock degradation where weather exposure and regular use compound mechanical stress on cylinder and bolt mechanisms, making repair—rather than replacement—a cost-effective first response.\n\nOlder interwar villas in South Farnborough frequently present period-appropriate locks that require specialist knowledge to repair without compromising original ironmongery or door frames. High rental turnover in the area also means master key systems and shared-access locks demand prompt repair to avoid tenant lockouts; understanding whether a lock is repairable or needs rekeying saves time and minimises disruption on properties with multiple occupancy or rapid turnovers.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My semi-detached in North Farnborough has a sticking multipoint lock – is it worth repairing?",
-      "a": "Yes, most multipoint failures on post-war semis are wear-related and fully repairable. We can service or replace the gearbox mechanism without affecting your door frame, often restoring full function within hours."
-    },
-    {
-      "q": "I rent out a property in North Camp and need locks rekeyed between tenants quickly – what's your turnaround?",
-      "a": "We specialise in rapid rekeying for rental properties and can typically complete mortice and night latch repairs same-day. Contact us on 01252 493213 to arrange an urgent visit."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Farnborough | Semi-Detached Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Farnborough: BS3621 mortice locks, TS007 anti-snap cylinders & multipoint systems. Serving North Camp, South Farnborough & Cove.",
-  "door-lock-installation.hero-paragraph": "Our Farnborough locksmith specialises in door lock installation and expert locksmithing tailored to your security needs. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, our technicians deliver reliable solutions. We handle new property fittings and security improvements with precision and professionalism.",
-  "door-lock-installation.local-context-body": "Many properties in Ramillies Park and North Camp are post-war semis and terraces where original locks have degraded significantly. Door lock installation here typically involves fitting BS3621 mortice locks and TS007 anti-snap cylinders to replace worn mechanisms. High residential turnover, particularly in rental properties across these neighborhoods, creates ongoing demand for reliable, modern locking systems that meet current security standards.\n\nInterwar villas in South Farnborough often retain period doors and frames that require careful measurement and sometimes specialist fitting to accommodate new multipoint systems without compromising original woodwork. Many properties in this area are owner-occupied, meaning installations frequently prioritize aesthetic compatibility alongside security performance. Door materials—typically solid timber in older stock, UPVC in post-war builds—determine cylinder choice and installation approach.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "We live in a post-war semi in Hawley—do we need a BS3621 mortice lock?",
-      "a": "Yes, BS3621 mortice locks are the standard for post-war semis in Hawley and across Farnborough, offering high security and insurance compliance. We can fit one to match your existing door setup and replace older, weaker locks that many homes of that era still have."
-    },
-    {
-      "q": "Our interwar villa in Farnborough Green has original locks—can you upgrade them without damage?",
-      "a": "Absolutely. We specialise in period-appropriate upgrades for interwar properties like those in Farnborough Green, installing modern TS007 anti-snap cylinders that preserve the character of original lock casings while meeting current security standards."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Farnborough | Post-War Semis",
-  "door-lock-replacement.meta.description": "Door lock replacement in Farnborough & North Farnborough. Like-for-like swaps or security upgrades for post-war semis. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our Farnborough locksmiths specialise in door lock replacement and locksmithing for residential and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we deliver swift, professional solutions. We install BS3621-approved locks and offer anti-snap upgrades to enhance your security. Our technicians perform like-for-like cylinder swaps where appropriate, ensuring minimal disruption to your property.",
-  "door-lock-replacement.local-context-body": "Farnborough Green's interwar villas and North Farnborough's post-war semis each present distinct door lock replacement scenarios. Older villas often retain original rim locks or mortice sets that may be difficult to source or require careful period-appropriate matching, while the dominant semi-detached stock tends toward simpler cylinder locks now showing their age. Replacement work frequently balances upgrading security with respecting the character of period properties.\n\nThe rental sector across North Camp and Ramillies Park creates demand for straightforward, durable cylinder replacements that can be executed quickly during tenancy transitions. Many post-war properties have timber or composite doors with standard lock housings, simplifying installation, though older properties occasionally feature non-standard apertures or period frames that complicate fitting. Local considerations around access and rekeying protocols are common, particularly in higher-turnover rental blocks where security continuity matters between occupants.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a post-war semi in North Farnborough with the original lock from the 1950s—can you replace it with something modern?",
-      "a": "Yes, we routinely upgrade original locks on post-war semis throughout North Farnborough and similar commuter areas. We'll match your door style and fit a modern, secure cylinder while preserving the existing frame and furniture if you prefer."
-    },
-    {
-      "q": "We're landlords managing rental properties in the Ramillies Park area—how quickly can you replace locks between tenants?",
-      "a": "We offer rapid same-day lock replacement for rental turnovers across Farnborough's high-turnover zones. We can also supply and fit master key systems so you maintain access control across multiple properties."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Farnborough – Fast, Trusted Local Service",
-  "door-repairs.meta.description": "Door repairs in Farnborough for post-war semis & detached homes. uPVC alignment, composite doors, timber easing & handle repair.",
-  "door-repairs.hero-paragraph": "Our Farnborough locksmith team specialises in door repairs using expert locksmithing techniques tailored to your needs. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix issues through hinge adjustment and frame alignment. Call us for prompt, reliable repairs.",
-  "door-repairs.local-context-body": "Ash Vale's post-war semis frequently develop door misalignment and frame settlement issues common to their era, particularly where original wooden frames have warped or hinges have worn. These properties, built to modest specifications, often require straightforward rehang and hardware replacement rather than full frame renewal, making professional realignment a practical necessity for both security and daily function.\n\nOlder properties across South Farnborough, including period villas, demand careful assessment before intervention. Doors in these interwar homes may sit within listed structures or conservation areas, requiring repairs that preserve original materials and proportions rather than substitute modern equivalents. Understanding the distinction between cosmetic wear, structural settlement, and genuine hardware failure is essential, as replacement must sometimes yield to repair to maintain character and legal standing.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Farnborough's post-war semis often drop or misalign?",
-      "a": "Post-war semi-detached homes in areas like West Heath and Ramillies Park were built with timber frames that naturally settle over decades. This movement commonly causes door frames to shift, leading to dropped or misaligned doors that won't close properly—a repair we handle regularly across the town."
-    },
-    {
-      "q": "Do rental properties in North Camp need more frequent door repairs?",
-      "a": "Yes, the high turnover of rental stock in North Camp means doors experience heavier use and wear from multiple tenancies. We specialise in rapid door repairs and adjustments for landlords and managing agents who need quick turnarounds between lettings."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Farnborough",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Farnborough & North Farnborough. Expert espagnolette & shootbolt fixes for post-war semis, terraces & detached homes.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Farnborough requires skilled locksmithing expertise from a qualified locksmith. Common issues like windows that won't lock or broken handles compromise your home's security and need prompt attention. Our technicians specialise in restoring espagnolette mechanisms and shootbolt locks to full working order, ensuring insurance-compliant fitting standards throughout.",
-  "window-lock-repair-replacement.local-context-body": "Semi-detached homes across South Farnborough and post-war properties in Cove frequently feature espagnolette locks on original timber sash and casement windows. These mechanical systems, standard in interwar and immediate post-war construction, wear predictably over decades. Window lock repair and replacement addresses both functional failures—stiff handles, misaligned bolts—and security upgrades for properties where original hardware no longer meets modern standards.\n\nFarnborough's rental stock in North Camp and Ramillies Park creates urgent turnaround demand for window lock work, particularly where multiple tenancies have occurred. Shootbolt locks on secondary glazing and replacement UPVC units require swift diagnosis and parts availability, as delayed repairs affect letting schedules. Older villas in South Farnborough may retain listed-building status, restricting lock replacement to sympathetic period-appropriate designs that preserve original window joinery.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do many post-war semis in North Farnborough need window lock replacement?",
-      "a": "Post-war semis typically have original espagnolette locks that have worn out after decades of use; our technicians can replace them with modern, smooth-operating shootbolt or espagnolette systems that restore security and ease of operation without altering the original window frame aesthetics."
-    },
-    {
-      "q": "Can you repair period window locks on interwar villas in Farnborough Green?",
-      "a": "Yes—we specialise in repairing and restoring original period espagnolette locks found on interwar properties, preserving their character while upgrading the internal cylinders to modern standards for improved security and smooth function."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Farnborough – Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation in Farnborough for post-war homes. Wall, floor and freestanding safes with secure anchoring and insurance documentation.",
-  "safe-installation.hero-paragraph": "Safe installation in Farnborough requires a locksmith with expertise in locksmithing to ensure your valuables are properly secured. Our technicians specialise in floor anchoring and wall mounting techniques, positioning safes to resist leverage attacks. We handle all insurance approval requirements and work with Eurograde and AiS approved models to guarantee cash rating compliance.",
-  "safe-installation.local-context-body": "Farnborough's post-war semi-detached properties and older interwar villas present distinct safe installation needs. Properties in West Heath and similar suburban areas typically feature solid brick construction suitable for wall-mounted safes, while period homes in South Farnborough require careful assessment to avoid structural compromise. High rental turnover across Ramillies Park and North Camp creates demand for portable or floor-mounted safes that tenants can relocate, alongside landlord-fitted wall units for common areas.\n\nInsurance requirements in the area frequently specify anchoring standards and fire-rating thresholds that influence safe selection and placement. Many properties built in the 1950s–70s have cavity wall construction that demands precise fitting methodology; older villas may contain original plasterwork or listed features that restrict drilling locations. Local surveyors and insurers expect photographic documentation and certification of installation depth and fixing points, particularly for high-value contents in owner-occupied homes.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do many interwar villas in South Farnborough need specialist safe installation advice?",
-      "a": "Interwar properties often have period plasterwork, original joinery, and specific wall compositions that require careful drilling and anchoring to avoid structural damage. Our team assesses each villa's construction before installation to ensure the safe is properly secured without compromising the property's character or integrity."
-    },
-    {
-      "q": "What insurance documentation do landlords in Ramillies Park and North Camp typically need for rental properties?",
-      "a": "With high rental turnover in these post-war estates, insurers require proof of professional installation, anchor certification, and secure positioning documentation. We provide full installation certificates and anchor verification reports that satisfy most major insurers and satisfy deposit-protection scheme requirements."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Farnborough – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Farnborough for lost keys, combinations & lockouts. Expert non-destructive opening of domestic & commercial safes in post-war homes.",
-  "safe-opening.hero-paragraph": "Our Farnborough locksmith team specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians use combination dial manipulation and precision tools to resolve your safe access issues efficiently.",
-  "safe-opening.local-context-body": "Detached homes in Gun Hill Park and semi-detached properties across West Heath often contain safes installed during renovations or inherited from previous owners. Combination loss and misplaced keys are common triggers for non-destructive opening requests, particularly in owner-occupied properties where documentation has been lost or where safes were fitted years earlier without recorded access details.\n\nPost-war construction in the area means many safes are of mid-20th-century manufacture, requiring technicians familiar with older mechanical and electromechanical models. Listed interwar properties in South Farnborough occasionally contain period-appropriate safes integral to their original fittings, necessitating particular care to preserve surrounding joinery and plasterwork during opening work.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited an interwar villa in South Farnborough with a vintage safe I can't open—do you handle period safes?",
-      "a": "Yes, we specialise in non-destructive safe opening for older properties, including interwar villas. We assess period mechanisms carefully to preserve their integrity while regaining access, then advise on modern security upgrades if needed."
-    },
-    {
-      "q": "We manage rental properties in Ramillies Park and need to open a tenant's safe quickly—how fast can you attend?",
-      "a": "We offer rapid same-day safe opening for landlords and letting agents across Ramillies Park and the wider Farnborough area. Call 01252 493213 to confirm availability for urgent access lockouts."
-    }
-  ],
-  "home.areas-covered": [
-    "Ash Vale",
-    "Cove",
-    "Cypress Hull Court",
-    "Farnborough Green",
-    "Fox Lane",
-    "Frimley Green",
-    "Gun Hill Park",
-    "Hawley",
-    "Hawley Lane",
-    "Mytchett",
-    "North Camp",
-    "North Farnborough",
-    "Ramillies Park",
-    "South Farnborough",
-    "West Heath"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Farnborough Green",
-    "Ash Vale",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Frimley Green"
-  ],
-  "locked-out.areas-covered": [
-    "North Camp",
-    "Ramillies Park",
-    "North Farnborough",
-    "Gun Hill Park",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green",
-    "Hawley"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Frimley Green",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Hawley"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Cove",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Gun Hill Park",
-    "North Farnborough",
-    "Ramillies Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green",
-    "Hawley"
-  ],
-  "lock-changes.areas-covered": [
-    "Fox Lane",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "lock-repairs.areas-covered": [
-    "South Farnborough",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "Ash Vale",
-    "Frimley Green",
-    "Hawley"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Hawley",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Cypress Hull Court",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "door-repairs.areas-covered": [
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green",
-    "Hawley"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Hawley Lane",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "safe-installation.areas-covered": [
-    "Mytchett",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ],
-  "safe-opening.areas-covered": [
-    "West Heath",
-    "North Farnborough",
-    "Ramillies Park",
-    "Gun Hill Park",
-    "North Camp",
-    "South Farnborough",
-    "Ash Vale",
-    "Frimley Green"
-  ]
+ "meta.title": "Locksmith Farnborough | Local Locksmithing Service 24/7",
+ "meta.description": "Farnborough locksmith specialising in period lock repairs for interwar villas and modern rekeying for post-war semis. 24/7 emergency service.",
+ "home.hero-paragraph": "Farnborough locksmith and locksmithing service specialists are here to help with expert lock services. We handle emergency lockouts, lock changes and repairs with non-destructive entry techniques. All work is carried out by DBS checked technicians, fully insured and available 24/7 to keep your home and business secure.",
+ "home.local-context-heading": "Modernising Farnborough's Post-War Homes",
+ "home.local-context-body": "Farnborough's housing stock\u2014predominantly post-war semis alongside interwar villas\u2014means lock needs vary widely. Properties in North Farnborough often retain original mechanisms that benefit from cylinder upgrades and modernisation, while older period locks in properties throughout the area frequently require specialist repair to maintain security without compromising character.\n\nHigh rental turnover in parts of Farnborough drives demand for rekeying and master key system installation. Landlords managing multiple properties should consider that period properties\u2014especially interwar semis in quieter areas\u2014may have conservation considerations affecting lock replacement. Standard UPVC doors on post-war properties typically accept modern five-pin cylinders without complication.",
+ "home.local-faqs": [
+  {
+   "q": "My semi-detached in Ramillies Park has the original lock from the 1950s\u2014should I upgrade it?",
+   "a": "Yes. Post-war semis in Ramillies Park often have worn period cylinders that no longer offer reliable security. We can fit modern, insurance-compliant cylinders while keeping your door and frame intact, or upgrade to a contemporary deadlock if you prefer."
+  },
+  {
+   "q": "We're a landlord with rental properties in North Camp. How do we manage lock changes between tenants quickly?",
+   "a": "We install master key systems that let you control access across multiple properties without rekeying every lock. Combined with rapid-response rekeying, this cuts changeover time and protects your inventory in high-turnover areas."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Farnborough | 24/7 Post-War Homes",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Farnborough. Locked out or key snapped? Fast response to post-war semis, villas & terraces. Urgent repairs, non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Farnborough offers professional locksmithing for urgent situations. We specialise in rapid response lockouts and snapped key extraction using non-destructive entry techniques. Our DBS-checked technicians operate 24/7, ensuring you're never stranded. Whether you're locked out of your home or office, we're available round the clock.",
+ "emergency-locksmith.local-context-body": "North Camp's post-war semis and terraces experience high tenant turnover, creating frequent demand for emergency rekeying and lockout callouts. Original cylinder locks in these properties often fail without warning, particularly where maintenance has been deferred. Rapid response is essential in rental properties where multiple occupants may be affected by a single failed lock or lost key.\n\nInterwar villas in South Farnborough present a distinct challenge: many retain period hardware and non-standard lock mechanisms that require specialist knowledge to repair without damage. Emergency work on these older properties demands familiarity with traditional mortice locks and wooden door frames that cannot tolerate force-entry techniques suitable for modern construction. Post-break-in security upgrades in older housing stock must balance functional security with period-appropriate installation methods.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my post-war semi in Ash Vale \u2013 how quickly can you arrive?",
+   "a": "We operate 24/7 across Farnborough and typically reach Ash Vale within 30\u201345 minutes of your call. Our emergency team carries non-destructive entry tools suited to standard post-war locks, so we can usually get you back inside without damage."
+  },
+  {
+   "q": "My interwar villa in South Farnborough was broken into \u2013 can you rekey the locks tonight?",
+   "a": "Yes. We handle emergency post-break-in security for period properties, including careful rekeying of original or heritage-style locks common to South Farnborough villas. Call 01252 493213 and we'll secure your property and discuss longer-term upgrades the next day."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Farnborough \u2013 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Farnborough? Fast non-destructive entry for lost or snapped keys. 24/7 emergency service for semis, terraces & flats across West Heath, Ramillies Park & beyond.",
+ "locked-out.hero-paragraph": "When you're locked out in Farnborough, our locksmiths specialise in rapid locksmithing solutions that get you back inside without delay. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry techniques to regain access with minimal disruption to your property.",
+ "locked-out.local-context-body": "Farnborough's post-war semi-detached properties in North Farnborough frequently present locked-out scenarios where residents are separated from keys during commute hours. The rental turnover typical of commuter towns means many properties cycle through tenants quickly, increasing instances of lost or mislaid keys. Interwar villas in Farnborough Green, though smaller in number, often retain original mortice locks that require careful, non-destructive handling to avoid damage to period frames and mechanisms.\n\nAccess speed is constrained by Farnborough's layout: properties in fringe areas like Mytchett may have longer response windows, and older properties frequently feature multiple-point locking systems inherited from post-war installation standards. Many houses use cylinder locks fitted to original wooden frames where force-based entry risks structural damage, making non-destructive techniques essential rather than optional.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my semi-detached in North Farnborough\u2014how quickly can you get here?",
+   "a": "We aim for rapid response across North Farnborough's commuter areas. Call 01252 493213 and we'll typically arrive within 30\u201360 minutes, using non-destructive entry to open your door without damage to the original frame or lock."
+  },
+  {
+   "q": "My key snapped in the lock of my interwar villa in Farnborough Green. Can you still get me in without breaking the door?",
+   "a": "Yes\u2014non-destructive entry works on period locks common in Farnborough Green villas. We'll extract the broken key and open the lock carefully, preserving both the mechanism and your period ironwork."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Farnborough | Snapped Keys in Post-War Semis",
+ "broken-key-removal.meta.description": "Broken key stuck in your lock? Shieldx removes snapped keys from euro cylinders & mortice locks across Farnborough. Fast extraction for post-war semis & period properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Farnborough requires a skilled locksmith trained in modern locksmithing techniques to extract snapped or sheared keys safely. Our technicians use specialised key extractor tools and broken-key probes to retrieve fragments from mortice locks and euro cylinders without causing damage. This non-destructive method ensures your lock remains fully functional after removal.",
+ "broken-key-removal.local-context-body": "Terrace properties and semi-detached homes across North Farnborough frequently present broken key scenarios, particularly where original or aging cylinders remain in service. Wear on euro cylinders and mortice locks accelerates in these densely populated commuter areas, where keys endure heavy daily use and temperature fluctuations typical of post-war construction. Extraction becomes a common requirement before rekeying or lock replacement can proceed.\n\nFarnborough's mixed rental and owner-occupier stock means broken key removal often occurs under time pressure. Landlords managing multiple properties across Mytchett and adjacent areas need swift extraction to maintain tenancy changeovers, while the prevalence of original period hardware in properties built between the 1940s and 1960s means extractors must frequently work with corroded or non-standard lock mechanisms where standard removal tools may not grip effectively.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "I've snapped my key in the lock of my post-war semi in Ash Vale \u2013 can you remove it without damaging the cylinder?",
+   "a": "Yes, we specialise in extracting broken keys from euro cylinders and mortice locks without cylinder damage, which is especially important in post-war semis where original or upgraded locks are common. Call us on 01252 493213 and we can usually attend the same day."
+  },
+  {
+   "q": "My interwar villa in Farnborough Green has a period night latch with a snapped key stuck inside \u2013 will removal preserve the lock?",
+   "a": "Absolutely; we use specialist extraction techniques to remove snapped keys from period night latches and older mortice locks while preserving their integrity, which matters for listed or character properties. We understand the heritage value of Farnborough Green homes and work accordingly."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Farnborough | Post-War Homes",
+ "burglar-repair-service.meta.description": "Burglar repair service in Farnborough. Post-break-in lock changes, door repairs and security upgrades for semis and period homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Farnborough locksmith specialises in burglar repair and professional locksmithing to restore security after break-ins. Following forced entry, we repair damaged doors and install TS007 anti-snap cylinders to prevent future attacks. All work meets insurance-compliant standards, ensuring your home is properly protected and certified secure.",
+ "burglar-repair-service.local-context-body": "Break-ins across Farnborough's post-war semis and terraces\u2014particularly in areas like Ash Vale where rental turnover is high\u2014create urgent demand for rapid lock and door reinstatement. Insurance assessors expect swift, compliant repairs that restore security without compromise. Interwar properties in Farnborough Green, meanwhile, require specialist handling to preserve original joinery while upgrading locks to modern standards.\n\nMany properties built in the 1950s\u201370s retain original timber frames and single-cylinder mortice locks vulnerable to forced-entry damage. Burglar repair work must account for non-standard door widths and older lock housings that complicate straightforward replacement; insurance-quality reinstatement often involves both structural timber repair and cylinder upgrade rather than full-frame substitution. Local rental stock also means landlord-tenant agreements and deposit-protection protocols frequently govern repair scope and responsibility.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you offer emergency callouts after a break-in in North Farnborough?",
+   "a": "Yes, we provide same-day emergency repair and reinstatement for break-ins across North Farnborough and surrounding areas. Our team can secure your property and handle all lock and door repairs to insurance-standard within hours of the incident."
+  },
+  {
+   "q": "Can you repair period locks on interwar villas in Farnborough Green after a break-in?",
+   "a": "Absolutely\u2014we specialise in repairing and upgrading original locks on interwar properties while preserving their character. After a break-in, we'll restore your villa's security with period-appropriate cylinder replacements or modern upgrades, whichever suits your insurance requirements."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Farnborough | Post-War Semis",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Farnborough & Cove. Same-day boarding of smashed doors and windows after break-ins or storm damage to secure your property.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Farnborough from our experienced locksmith specialists combines locksmithing expertise with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our technicians arrive 24/7 with plywood boards and security screws to create weatherproof temporary seals. All work is insurance-compliant and documented for your records.",
+ "emergency-boarding-up.local-context-body": "Farnborough's mixed residential landscape\u2014from post-war semis in North Camp to interwar villas across South Farnborough\u2014creates varied boarding-up scenarios. Semi-detached and detached properties often feature original timber frames and period joinery vulnerable to forced entry or weather damage. Storm impact and break-ins affecting these older structures demand rapid temporary securing, particularly in North Camp where rental turnover and property density concentrate incident frequency.\n\nListed-building status affects a number of interwar and period properties in South Farnborough, restricting material choices for temporary boarding. Standard plywood and metal sheets may breach conservation guidelines, requiring boarding solutions that preserve original timber frames and glazing profiles. Local authority planning contact prior to boarding is essential for heritage properties, adding a coordination step absent in post-war stock work.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a broken window in a post-war semi in West Heath after a break-in?",
+   "a": "We typically arrive within 60 minutes for emergency boarding calls across Farnborough, including West Heath. Our team carries pre-cut boards sized for standard post-war semi frames to minimise delay and secure your property immediately."
+  },
+  {
+   "q": "Do you board up period windows on interwar villas, or will it damage original frames?",
+   "a": "Yes\u2014we specialise in heritage-conscious boarding for older properties in South Farnborough and Farnborough Green. We use temporary protective framing methods that preserve original woodwork until your glazier or joiner can carry out proper repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Farnborough | Semi-Detached & Period Homes",
+ "lock-changes.meta.description": "Professional lock changes in Farnborough for moves, lost keys & security upgrades. Serving post-war semis, period villas & rental properties across North Camp & Cove.",
+ "lock-changes.hero-paragraph": "Lock changes in Farnborough from our certified locksmiths combine expert locksmithing with modern security. Whether you're moving home, changing tenancy, or upgrading your property's security, we install BS3621-approved mortice locks and TS007 anti-snap cylinders to meet current standards. Our technicians ensure every installation protects your home effectively.",
+ "lock-changes.local-context-body": "Lock changes in Farnborough respond to the area's mixed residential character. Post-war semis across Ash Vale and Hawley frequently require full lock replacement following house sales or key loss, with many original cylinders now beyond secure repair. Interwar properties in Farnborough Green and South Farnborough demand period-appropriate solutions\u2014conservation-minded homeowners often seek sympathetic upgrades that preserve original hardware aesthetic while meeting modern security standards.\n\nRental property turnover in North Camp and Ramillies Park creates sustained demand for rapid rekeying and master key system installation. Many Farnborough terraces and semis retain original timber frames and period door mechanisms that need careful handling during lock replacement; locksmiths must account for older door depths and non-standard aperture sizes common to pre-1960s construction. Listed-building designation affects some interwar properties, requiring compliance with heritage conservation guidance before lock work proceeds.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved into a post-war semi in North Camp \u2013 do I need to change all the locks?",
+   "a": "Yes, we'd recommend it for security and peace of mind. Many post-war semis in North Camp still have original or worn period locks; our lock changes give you fresh cylinders and keys, especially important given the rental turnover in that area."
+  },
+  {
+   "q": "Our interwar villa in South Farnborough has original period locks \u2013 can you replace them without damaging the doors?",
+   "a": "Absolutely. We specialise in preserving period properties while upgrading security; we can fit modern, secure cylinders into your existing period lock cases, or source matching heritage locks if replacement is needed."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Farnborough \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Farnborough for post-war semis & period properties. Multipoint, mortice & night latch fixes. Emergency 24/7 service available.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Farnborough from our experienced locksmiths combine skilled locksmithing with swift solutions. Whether your lock is stiff, jammed, or the key won't turn, our technicians perform precise mortice maintenance and multipoint servicing. All work carries manufacturer warranty, ensuring your security is restored to the highest standard.",
+ "lock-repairs.local-context-body": "Properties across Cove and the wider post-war stock often feature original multipoint and mortice locks installed decades ago, now prone to gearbox wear and night latch failure. Semi-detached homes in particular show accelerated lock degradation where weather exposure and regular use compound mechanical stress on cylinder and bolt mechanisms, making repair\u2014rather than replacement\u2014a cost-effective first response.\n\nOlder interwar villas in South Farnborough frequently present period-appropriate locks that require specialist knowledge to repair without compromising original ironmongery or door frames. High rental turnover in the area also means master key systems and shared-access locks demand prompt repair to avoid tenant lockouts; understanding whether a lock is repairable or needs rekeying saves time and minimises disruption on properties with multiple occupancy or rapid turnovers.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My semi-detached in North Farnborough has a sticking multipoint lock \u2013 is it worth repairing?",
+   "a": "Yes, most multipoint failures on post-war semis are wear-related and fully repairable. We can service or replace the gearbox mechanism without affecting your door frame, often restoring full function within hours."
+  },
+  {
+   "q": "I rent out a property in North Camp and need locks rekeyed between tenants quickly \u2013 what's your turnaround?",
+   "a": "We specialise in rapid rekeying for rental properties and can typically complete mortice and night latch repairs same-day. Contact us on 01252 493213 to arrange an urgent visit."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Farnborough | Semi-Detached Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Farnborough: BS3621 mortice locks, TS007 anti-snap cylinders & multipoint systems. Serving North Camp, South Farnborough & Cove.",
+ "door-lock-installation.hero-paragraph": "Our Farnborough locksmith specialises in door lock installation and expert locksmithing tailored to your security needs. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, our technicians deliver reliable solutions. We handle new property fittings and security improvements with precision and professionalism.",
+ "door-lock-installation.local-context-body": "Many properties in Ramillies Park and North Camp are post-war semis and terraces where original locks have degraded significantly. Door lock installation here typically involves fitting BS3621 mortice locks and TS007 anti-snap cylinders to replace worn mechanisms. High residential turnover, particularly in rental properties across these neighbourhoods, creates ongoing demand for reliable, modern locking systems that meet current security standards.\n\nInterwar villas in South Farnborough often retain period doors and frames that require careful measurement and sometimes specialist fitting to accommodate new multipoint systems without compromising original woodwork. Many properties in this area are owner-occupied, meaning installations frequently prioritise aesthetic compatibility alongside security performance. Door materials\u2014typically solid timber in older stock, UPVC in post-war builds\u2014determine cylinder choice and installation approach.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "We live in a post-war semi in Hawley\u2014do we need a BS3621 mortice lock?",
+   "a": "Yes, BS3621 mortice locks are the standard for post-war semis in Hawley and across Farnborough, offering high security and insurance compliance. We can fit one to match your existing door setup and replace older, weaker locks that many homes of that era still have."
+  },
+  {
+   "q": "Our interwar villa in Farnborough Green has original locks\u2014can you upgrade them without damage?",
+   "a": "Absolutely. We specialise in period-appropriate upgrades for interwar properties like those in Farnborough Green, installing modern TS007 anti-snap cylinders that preserve the character of original lock casings while meeting current security standards."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Farnborough | Post-War Semis",
+ "door-lock-replacement.meta.description": "Door lock replacement in Farnborough & North Farnborough. Like-for-like swaps or security upgrades for post-war semis. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our Farnborough locksmiths specialise in door lock replacement and locksmithing for residential and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we deliver swift, professional solutions. We install BS3621-approved locks and offer anti-snap upgrades to enhance your security. Our technicians perform like-for-like cylinder swaps where appropriate, ensuring minimal disruption to your property.",
+ "door-lock-replacement.local-context-body": "Farnborough Green's interwar villas and North Farnborough's post-war semis each present distinct door lock replacement scenarios. Older villas often retain original rim locks or mortice sets that may be difficult to source or require careful period-appropriate matching, while the dominant semi-detached stock tends toward simpler cylinder locks now showing their age. Replacement work frequently balances upgrading security with respecting the character of period properties.\n\nThe rental sector across North Camp and Ramillies Park creates demand for straightforward, durable cylinder replacements that can be executed quickly during tenancy transitions. Many post-war properties have timber or composite doors with standard lock housings, simplifying installation, though older properties occasionally feature non-standard apertures or period frames that complicate fitting. Local considerations around access and rekeying protocols are common, particularly in higher-turnover rental blocks where security continuity matters between occupants.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a post-war semi in North Farnborough with the original lock from the 1950s\u2014can you replace it with something modern?",
+   "a": "Yes, we routinely upgrade original locks on post-war semis throughout North Farnborough and similar commuter areas. We'll match your door style and fit a modern, secure cylinder while preserving the existing frame and furniture if you prefer."
+  },
+  {
+   "q": "We're landlords managing rental properties in the Ramillies Park area\u2014how quickly can you replace locks between tenants?",
+   "a": "We offer rapid same-day lock replacement for rental turnovers across Farnborough's high-turnover zones. We can also supply and fit master key systems so you maintain access control across multiple properties."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Farnborough \u2013 Fast, Trusted Local Service",
+ "door-repairs.meta.description": "Door repairs in Farnborough for post-war semis & detached homes. uPVC alignment, composite doors, timber easing & handle repair.",
+ "door-repairs.hero-paragraph": "Our Farnborough locksmith team specialises in door repairs using expert locksmithing techniques tailored to your needs. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix issues through hinge adjustment and frame alignment. Call us for prompt, reliable repairs.",
+ "door-repairs.local-context-body": "Ash Vale's post-war semis frequently develop door misalignment and frame settlement issues common to their era, particularly where original wooden frames have warped or hinges have worn. These properties, built to modest specifications, often require straightforward rehang and hardware replacement rather than full frame renewal, making professional realignment a practical necessity for both security and daily function.\n\nOlder properties across South Farnborough, including period villas, demand careful assessment before intervention. Doors in these interwar homes may sit within listed structures or conservation areas, requiring repairs that preserve original materials and proportions rather than substitute modern equivalents. Understanding the distinction between cosmetic wear, structural settlement, and genuine hardware failure is essential, as replacement must sometimes yield to repair to maintain character and legal standing.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Farnborough's post-war semis often drop or misalign?",
+   "a": "Post-war semi-detached homes in areas like West Heath and Ramillies Park were built with timber frames that naturally settle over decades. This movement commonly causes door frames to shift, leading to dropped or misaligned doors that won't close properly\u2014a repair we handle regularly across the town."
+  },
+  {
+   "q": "Do rental properties in North Camp need more frequent door repairs?",
+   "a": "Yes, the high turnover of rental stock in North Camp means doors experience heavier use and wear from multiple tenancies. We specialise in rapid door repairs and adjustments for landlords and managing agents who need quick turnarounds between lettings."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Farnborough",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Farnborough & North Farnborough. Expert espagnolette & shootbolt fixes for post-war semis, terraces & detached homes.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Farnborough requires skilled locksmithing expertise from a qualified locksmith. Common issues like windows that won't lock or broken handles compromise your home's security and need prompt attention. Our technicians specialise in restoring espagnolette mechanisms and shootbolt locks to full working order, ensuring insurance-compliant fitting standards throughout.",
+ "window-lock-repair-replacement.local-context-body": "Semi-detached homes across South Farnborough and post-war properties in Cove frequently feature espagnolette locks on original timber sash and casement windows. These mechanical systems, standard in interwar and immediate post-war construction, wear predictably over decades. Window lock repair and replacement addresses both functional failures\u2014stiff handles, misaligned bolts\u2014and security upgrades for properties where original hardware no longer meets modern standards.\n\nFarnborough's rental stock in North Camp and Ramillies Park creates urgent turnaround demand for window lock work, particularly where multiple tenancies have occurred. Shootbolt locks on secondary glazing and replacement UPVC units require swift diagnosis and parts availability, as delayed repairs affect letting schedules. Older villas in South Farnborough may retain listed-building status, restricting lock replacement to sympathetic period-appropriate designs that preserve original window joinery.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do many post-war semis in North Farnborough need window lock replacement?",
+   "a": "Post-war semis typically have original espagnolette locks that have worn out after decades of use; our technicians can replace them with modern, smooth-operating shootbolt or espagnolette systems that restore security and ease of operation without altering the original window frame aesthetics."
+  },
+  {
+   "q": "Can you repair period window locks on interwar villas in Farnborough Green?",
+   "a": "Yes\u2014we specialise in repairing and restoring original period espagnolette locks found on interwar properties, preserving their character while upgrading the internal cylinders to modern standards for improved security and smooth function."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Farnborough \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation in Farnborough for post-war homes. Wall, floor and freestanding safes with secure anchoring and insurance documentation.",
+ "safe-installation.hero-paragraph": "Safe installation in Farnborough requires a locksmith with expertise in locksmithing to ensure your valuables are properly secured. Our technicians specialise in floor anchoring and wall mounting techniques, positioning safes to resist leverage attacks. We handle all insurance approval requirements and work with Eurograde and AiS approved models to guarantee cash rating compliance.",
+ "safe-installation.local-context-body": "Farnborough's post-war semi-detached properties and older interwar villas present distinct safe installation needs. Properties in West Heath and similar suburban areas typically feature solid brick construction suitable for wall-mounted safes, while period homes in South Farnborough require careful assessment to avoid structural compromise. High rental turnover across Ramillies Park and North Camp creates demand for portable or floor-mounted safes that tenants can relocate, alongside landlord-fitted wall units for common areas.\n\nInsurance requirements in the area frequently specify anchoring standards and fire-rating thresholds that influence safe selection and placement. Many properties built in the 1950s\u201370s have cavity wall construction that demands precise fitting methodology; older villas may contain original plasterwork or listed features that restrict drilling locations. Local surveyors and insurers expect photographic documentation and certification of installation depth and fixing points, particularly for high-value contents in owner-occupied homes.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do many interwar villas in South Farnborough need specialist safe installation advice?",
+   "a": "Interwar properties often have period plasterwork, original joinery, and specific wall compositions that require careful drilling and anchoring to avoid structural damage. Our team assesses each villa's construction before installation to ensure the safe is properly secured without compromising the property's character or integrity."
+  },
+  {
+   "q": "What insurance documentation do landlords in Ramillies Park and North Camp typically need for rental properties?",
+   "a": "With high rental turnover in these post-war estates, insurers require proof of professional installation, anchor certification, and secure positioning documentation. We provide full installation certificates and anchor verification reports that satisfy most major insurers and satisfy deposit-protection scheme requirements."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Farnborough \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Farnborough for lost keys, combinations & lockouts. Expert non-destructive opening of domestic & commercial safes in post-war homes.",
+ "safe-opening.hero-paragraph": "Our Farnborough locksmith team specialises in safe opening through expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access without damage. Our technicians use combination dial manipulation and precision tools to resolve your safe access issues efficiently.",
+ "safe-opening.local-context-body": "Detached homes in Gun Hill Park and semi-detached properties across West Heath often contain safes installed during renovations or inherited from previous owners. Combination loss and misplaced keys are common triggers for non-destructive opening requests, particularly in owner-occupied properties where documentation has been lost or where safes were fitted years earlier without recorded access details.\n\nPost-war construction in the area means many safes are of mid-20th-century manufacture, requiring technicians familiar with older mechanical and electromechanical models. Listed interwar properties in South Farnborough occasionally contain period-appropriate safes integral to their original fittings, necessitating particular care to preserve surrounding joinery and plasterwork during opening work.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited an interwar villa in South Farnborough with a vintage safe I can't open\u2014do you handle period safes?",
+   "a": "Yes, we specialise in non-destructive safe opening for older properties, including interwar villas. We assess period mechanisms carefully to preserve their integrity while regaining access, then advise on modern security upgrades if needed."
+  },
+  {
+   "q": "We manage rental properties in Ramillies Park and need to open a tenant's safe quickly\u2014how fast can you attend?",
+   "a": "We offer rapid same-day safe opening for landlords and letting agents across Ramillies Park and the wider Farnborough area. Call 01252 493213 to confirm availability for urgent access lockouts."
+  }
+ ],
+ "home.areas-covered": [
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane",
+  "Hawley Lane",
+  "North Camp",
+  "North Farnborough",
+  "Ramillies Park",
+  "South Farnborough",
+  "West Heath"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Farnborough Green",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Fox Lane",
+  "Hawley Lane",
+  "West Heath",
+  "Cove"
+ ],
+ "locked-out.areas-covered": [
+  "North Camp",
+  "Ramillies Park",
+  "North Farnborough",
+  "South Farnborough",
+  "Fox Lane",
+  "Hawley Lane",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court"
+ ],
+ "broken-key-removal.areas-covered": [
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane",
+  "Hawley Lane"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Cove",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "West Heath",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane"
+ ],
+ "lock-changes.areas-covered": [
+  "Fox Lane",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green"
+ ],
+ "lock-repairs.areas-covered": [
+  "South Farnborough",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane"
+ ],
+ "door-lock-installation.areas-covered": [
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Hawley Lane",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Cypress Hull Court",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Farnborough Green",
+  "Fox Lane",
+  "Hawley Lane",
+  "West Heath"
+ ],
+ "door-repairs.areas-covered": [
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Hawley Lane",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "West Heath",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green"
+ ],
+ "safe-installation.areas-covered": [
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane",
+  "Hawley Lane"
+ ],
+ "safe-opening.areas-covered": [
+  "West Heath",
+  "North Farnborough",
+  "Ramillies Park",
+  "North Camp",
+  "South Farnborough",
+  "Cove",
+  "Cypress Hull Court",
+  "Farnborough Green",
+  "Fox Lane"
+ ]
 }

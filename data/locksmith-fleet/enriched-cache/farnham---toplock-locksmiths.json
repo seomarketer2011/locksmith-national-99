@@ -1,351 +1,325 @@
 {
-  "meta.title": "Locksmith Farnham | Local Locksmithing Service 24/7",
-  "meta.description": "Farnham locksmith covering emergency call-outs, lock repairs and replacements for Victorian terraces, interwar semis and modern homes across the area.",
-  "home.hero-paragraph": "Farnham locksmith services and locksmithing expertise are available whenever you need emergency lock help. We specialise in emergency lockouts, lock changes, and security upgrades, with fully insured technicians operating 24/7. All work is completed using non-destructive entry methods, so your property remains undamaged.",
-  "home.local-context-heading": "Farnham's Victorian and suburban lock needs",
-  "home.local-context-body": "Farnham's mixed Victorian and post-war housing stock creates varied locksmith demands. Victorian properties in Boundstone retain original mortice locks that need specialist attention, while interwar semis around Shortheath commonly feature worn Yale and Chubb mechanisms requiring replacement. Modern detached homes in Runfold expect contemporary digital and smart lock installations. Each era demands different expertise and materials.\n\nConservation areas in Farnham's town centre impose restrictions on lock replacements and external fittings. Period properties must retain sympathetic hardware that matches original designs, which limits standard off-the-shelf solutions. Landlords managing properties across different neighborhoods should verify whether their doors fall within conservation designations before commissioning lock work, as non-compliant installations may require costly remedial action.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terrace in Lower Bourne has the original mortice locks – can you help with those?",
-      "a": "Yes, we specialise in period locks and mortice mechanisms found in Lower Bourne's older millside properties. We can repair, restore, or replace them while respecting the character of your home."
-    },
-    {
-      "q": "The Yale and Chubb locks on my interwar semi in Badshot Lea are wearing out – what should I do?",
-      "a": "Worn Yale and Chubb mechanisms are common in interwar semis across the area and often need urgent replacement for security. We'll assess the damage and fit modern, reliable alternatives that suit your door."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Farnham – 24/7 Victorian & Modern",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Farnham. Locked out? Key snapped? Fast response to Victorian terraces, interwar semis & modern homes. Non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Farnham combines professional locksmithing expertise with rapid response when you need it most. Whether you're locked out, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to resolve your situation quickly and safely.",
-  "emergency-locksmith.local-context-body": "Properties across Upper Hale and Upper Bourne present distinct emergency scenarios. Post-war semi-detached homes frequently experience worn Yale and Chubb lock failures requiring immediate replacement, while Victorian terraces demand specialist attention to original mortice locks that may jam or break under stress. Detached properties in outlying areas often need rapid access restoration after weather damage or mechanical failure.\n\nFarnham's conservation areas, particularly around the town centre, impose restrictions on lock replacement that affect response protocols. Listed Victorian properties require locks sympathetic to period specifications, meaning standard emergency fixes may need follow-up work with heritage-appropriate mechanisms. Locksmiths must verify building status before proceeding with any permanent installation, particularly in Upper Bourne's villa stock.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Upper Bourne – how quickly can you arrive?",
-      "a": "We're on call 24/7 across Farnham and typically reach Upper Bourne within 30 minutes. Victorian properties often have mortice locks that require specialist handling, so we carry the right tools and expertise to avoid damage to period mechanisms."
-    },
-    {
-      "q": "My interwar semi in Upper Hale has a snapped key in the Yale lock – can you help tonight?",
-      "a": "Yes – we handle snapped keys in Yale and Chubb mechanisms (common in Farnham's interwar stock) as emergency call-outs any time. We'll extract the broken piece safely and rekey or replace the lock if needed, often the same evening."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Farnham? Emergency Entry for Victorian Homes",
-  "locked-out.meta.description": "Locked out in Farnham? Non-destructive entry for lost or snapped keys. Fast emergency service for Victorian terraces, semis & homes. Call 01252 493218.",
-  "locked-out.hero-paragraph": "When you're locked out in Farnham, our experienced locksmith specialises in locksmithing techniques that restore access quickly and safely. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive entry methods to open your door without damage. Our damage-free approach means you can rely on professional help that protects your property.",
-  "locked-out.local-context-body": "Victorian terraces in Hale frequently feature mortice locks set deep within period doorframes, requiring specialist non-destructive techniques to avoid damage to original joinery during lockout recovery. Interwar semis across Fairfield typically have standard Yale mechanisms that respond well to standard entry methods, though worn cylinders occasionally complicate swift access without key duplication on-site.\n\nFarnham's conservation areas impose restrictions on cosmetic damage to doors and frames during forced entry, necessitating careful assessment before proceeding. Period properties with listed-building status require documentation of the method used; locksmiths must verify eligibility for non-destructive approaches before attempting entry on protected structures.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Boundstone—will non-destructive entry damage the original period locks?",
-      "a": "No. Our locksmiths specialise in non-destructive techniques for period properties and understand how to work around original mortice locks without causing damage. We'll access your home safely while preserving the conservation-area features that make your property special."
-    },
-    {
-      "q": "My keys snapped inside the lock of my interwar semi in Badshot Lea—how quickly can you help?",
-      "a": "We typically respond within 30–60 minutes across Farnham. Snapped keys in worn Yale or Chubb mechanisms (common in Badshot Lea properties) are straightforward for us to extract non-destructively, so you'll be back inside fast."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Farnham | Victorian & Interwar Locks",
-  "broken-key-removal.meta.description": "Broken key removal in Farnham from Toplok Locksmiths. Expert extraction from euro cylinders, mortice locks & night latches. Fast professional service for Victorian & interwar properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Farnham by our experienced locksmith specialists represents a core locksmithing service we deliver daily. Whether your key has snapped in a mortice lock or euro cylinder, we employ non-destructive extraction methods using precision key extractor tools to retrieve the fragment safely. This protects your lock from damage whilst restoring swift access to your property.",
-  "broken-key-removal.local-context-body": "Interwar semis across Fairfield frequently house worn Yale and Chubb mechanisms that have deteriorated over decades, making keys more prone to snapping during operation. Detached properties in Compton present a similar challenge, where older cylinder locks combined with regular use create conditions for key fracture. Broken key removal becomes essential when standard extraction fails, requiring specialist tools to avoid further damage to the lock mechanism itself.\n\nFarnham's conservation areas impose restrictions on lock replacement following key removal, particularly in period properties where original mortice locks must be carefully restored rather than simply replaced. Additionally, the prevalence of euro cylinders in post-1920s suburban stock means extraction techniques must account for the cylinder's precision engineering; forcing removal risks internal pin damage that renders the entire lock assembly unusable.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian properties in Boundstone frequently need broken key removal?",
-      "a": "Victorian mortice locks in Boundstone's conservation area properties are prone to key breakage due to age-related wear and the higher precision required by their original mechanisms. Our technicians specialise in extracting keys from these period locks without damaging the historic fittings."
-    },
-    {
-      "q": "Can you remove a broken key from the worn Yale locks common in Badshot Lea semis?",
-      "a": "Yes—the interwar Yale and Chubb mechanisms found throughout Badshot Lea's semi-detached homes are particularly susceptible to key breakage from corrosion and wear. We can extract the broken key and advise on whether replacement is necessary to prevent future incidents."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Farnham | Victorian Lock Repair",
-  "burglar-repair-service.meta.description": "Burglar repair service in Farnham. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period properties. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "When your home or business has suffered a break-in, our Farnham locksmith team specialises in burglar repair and locksmithing to restore your security. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks, whilst reinforcing damaged doors to prevent forced entry. Your property's safety is our priority.",
-  "burglar-repair-service.local-context-body": "Break-ins across Farnham's neighborhoods demand swift, compliant reinstatement. Semi-detached homes in Fairfield, typical of the interwar stock, often suffer forced-entry damage to period-appropriate door frames and Yale mechanisms that require both structural and lock replacement to restore security. Post-war detached properties in Heath End similarly benefit from rapid assessment and modern lock upgrades following intrusion, where insurance claims typically mandate professional certification.\n\nFarnham's town centre conservation areas impose additional constraints on burglar repair work. Listed properties in Hale require approved materials and lock styles that preserve historical character, meaning repairs cannot simply substitute contemporary hardware—specialist sourcing and installation knowledge is essential to satisfy both insurer and conservation officer requirements.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle insurance reinstatement for Victorian properties in Hale after a break-in?",
-      "a": "Yes. Victorian terraces and semis in Hale often have original mortice locks that require specialist restoration or replacement to meet modern insurance standards. We assess period damage and reinstate to both security and heritage specifications."
-    },
-    {
-      "q": "Can you repair interwar semi-detached doors damaged in a burglary in Fairfield?",
-      "a": "Absolutely. Interwar semis like those in Fairfield typically have timber frame doors and Yale/Chubb locks vulnerable to forced entry. We repair frames, replace compromised locks, and provide insurance-standard reinstatement quickly."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Farnham | Victorian & Modern Homes",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Farnham for Victorian terraces and period properties. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Farnham requires expert locksmith knowledge and locksmithing precision to secure your property fast. Whether you're facing smashed windows or damaged doors, our 24/7 service deploys plywood boards and security screws to create a weatherproof temporary seal. Insurance-compliant work that protects your home or business immediately.",
-  "emergency-boarding-up.local-context-body": "Farnham's interwar semis in areas like Badshot Lea present common boarding-up scenarios following break-ins, where original wooden frames and single-glazed windows are frequent entry points. Post-war detached properties in Rowledge, meanwhile, typically feature more robust modern glazing but remain vulnerable during storm damage or forced-entry incidents. The diversity of construction standards across these periods means boarding-up protocols must account for varying frame depths and materials.\n\nConservation area designations in Farnham's town centre restrict boarding-up materials and methods on period properties, requiring temporary solutions that preserve original character pending proper repairs. Suburban properties outside these zones allow faster installation of standard plywood and steel-frame systems, though surveyors often recommend structural assessment of frames before boarding to identify underlying damage that may need addressing once security is restored.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a Victorian terrace in Lower Bourne after a break-in?",
-      "a": "We typically arrive within 60 minutes for emergency calls in Lower Bourne and surrounding areas. Victorian properties often have period features around doors and windows, so we carefully measure and fit boards to protect both the opening and any original joinery."
-    },
-    {
-      "q": "Do you board up interwar semi-detached homes in Holt Pound differently from modern properties?",
-      "a": "Yes—interwar semis in Holt Pound often have non-standard window and door frames, so we custom-cut boards on-site rather than using one-size-fits-all solutions. This ensures a secure fit and prevents further weather damage to the property's structure."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Farnham – Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Farnham for new homes, lost keys & security upgrades. Serving Victorian terraces, interwar semis & modern detached properties across all areas.",
-  "lock-changes.hero-paragraph": "Our Farnham locksmiths specialise in lock changes and locksmithing services for homes and businesses throughout the area. Whether you're moving home, need to upgrade security after lost keys, or managing a tenancy turnover, we install modern cylinders and multipoint mechanisms to BS3621 standards. Our technicians work efficiently to minimise disruption.",
-  "lock-changes.local-context-body": "Lock changes in Holt Pound typically address worn Yale and Chubb mechanisms in interwar semis where keys have been lost or locks have deteriorated after decades of use. Heath End's post-war detached properties often require full lock replacement during house sales, with homeowners opting for modern five-lever mortice locks or contemporary cylinder options. Both neighborhoods see seasonal demand spikes when occupancy changes occur.\n\nFarnham's conservation areas in the town centre present compliance considerations for lock changes, particularly in Victorian properties where original period hardware may be protected. Surveyors and listed-building officers may restrict modern lock installation on visible external doors. Additionally, many older properties feature non-standard door frames and timber quality variations, requiring locksmiths to assess compatibility before specifying replacement locks and ensuring correct fitting without structural alteration.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian property in Boundstone—do I need specialist lock changes?",
-      "a": "Yes. Victorian properties in Boundstone often have original mortice and period locks that require specialist knowledge to replace safely without damaging the door frame. We're experienced in matching period-appropriate replacements or upgrading to modern secure alternatives while preserving the character of your home."
-    },
-    {
-      "q": "Our interwar semi in Fairfield has old Yale locks that don't work properly—is replacement urgent?",
-      "a": "Very likely. Interwar semis across Fairfield commonly have worn Yale and Chubb mechanisms that pose a security risk and should be replaced promptly. We can fit modern, reliable locks quickly to restore full security to your property."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Farnham | Victorian & Modern Homes",
-  "lock-repairs.meta.description": "Lock repairs in Farnham for Victorian mortice locks, Yale mechanisms & multipoint failures. Emergency same-day service. Call 01252 493218.",
-  "lock-repairs.hero-paragraph": "Our Farnham locksmith specialises in lock repairs, combining expert locksmithing with practical solutions for your security needs. Whether you're dealing with stiff locks, jammed mechanisms, or keys that won't turn smoothly, we diagnose and repair the underlying issue. Our technicians perform mortice maintenance and multipoint servicing to restore functionality, all backed by manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Boundstone's Victorian terraces retain original mortice locks that frequently require specialist repair rather than replacement, given their conservation-area status and period authenticity. Interwar semis in Badshot Lea, by contrast, house more conventional Yale and Chubb mechanisms that commonly develop wear in their gearbox and multipoint components, necessitating timely repair to prevent security compromise.\n\nConservation-area listings in Boundstone impose restrictions on lock alteration, meaning repair of existing mechanisms often takes precedence over wholesale upgrades. Across Farnham's mixed housing stock, the prevalence of period night latches and traditional mortice locks in older properties demands familiarity with non-standard repair procedures that differ significantly from work on contemporary domestic doors.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Upper Bourne has a stiff mortice lock – is it worth repairing?",
-      "a": "Yes – Victorian mortice locks are repairable and often preferred in conservation areas. We specialise in servicing period mechanisms; repair is usually more cost-effective and sympathetic to your property than replacement."
-    },
-    {
-      "q": "The Yale lock on my interwar semi in Shortheath keeps jamming. Can you fix it without replacing the whole thing?",
-      "a": "Often, yes. We repair worn Yale gearboxes and latches common in interwar semis. We'll diagnose whether it's internal wear or a misaligned strike plate – repair typically takes one visit."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Farnham | Victorian & Period Locks",
-  "door-lock-installation.meta.description": "Door lock installation in Farnham: BS3621 mortice locks, anti-snap cylinders & multipoint systems. Expert fitting for Victorian terraces and interwar semis.",
-  "door-lock-installation.hero-paragraph": "Our Farnham locksmiths specialise in door lock installation using expert locksmithing techniques tailored to your property's needs. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders to industry standards. Your doors deserve professional protection.",
-  "door-lock-installation.local-context-body": "Properties across Upper Bourne's Victorian terraces and villas typically feature original mortice locks that require specialist replacement with BS3621-compliant mechanisms. Modern anti-snap TS007 cylinders are increasingly fitted to these period properties, balancing contemporary security standards with the constraints of original door frames and masonry. Post-war semis in Wrecclesham often need straightforward multipoint lock upgrades, where worn mechanisms are replaced with contemporary hardware suited to standard timber door construction.\n\nListed-building consent considerations affect installation work in Farnham's conservation areas, particularly in the town centre, where period-appropriate lock housings must be sourced to avoid visible damage to original joinery. Interwar properties commonly present worn Yale and Chubb locks in need of urgent replacement; these older mechanisms are typically housed in standard timber frames, making installation straightforward once the appropriate modern equivalent is selected. Door material and existing lock positioning determine fitting time and whether frame reinforcement is necessary.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Upper Bourne – what locks do you recommend for period properties?",
-      "a": "Victorian properties like yours often retain original mortice locks that may need sympathetic upgrading. We install BS3621 mortice locks that match period aesthetics while meeting modern security standards, preserving your home's character."
-    },
-    {
-      "q": "My interwar semi in Upper Hale has old Yale locks that won't turn smoothly – should I replace them?",
-      "a": "Worn Yale and Chubb mechanisms are common in post-war semis and indicate it's time for replacement. We fit modern TS007 anti-snap cylinders and multipoint systems that restore security and smooth operation without damaging your existing door frame."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Farnham | Victorian & Modern Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in Farnham including Victorian period locks in Boundstone and modern upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Farnham by our experienced locksmiths combines traditional locksmithing expertise with modern security solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
-  "door-lock-replacement.local-context-body": "Lower Bourne's Victorian properties and the interwar semis of Holt Pound present distinct replacement scenarios. Period terraces often retain original mortice locks requiring careful removal and specialist fitting to preserve door integrity, while worn Yale and Chubb mechanisms in Holt Pound's housing stock typically demand straightforward like-for-like swaps or modern upgrades to restore security.\n\nConservation area designation across Farnham's town centre adds practical constraints to door lock replacement work. Listed properties require consideration of period-appropriate hardware, and certain Victorian doors feature solid timber construction that may require adjustment during installation. Accurate measurement and understanding of existing lock housings prevents unnecessary door damage during removal.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have an interwar semi in Badshot Lea with an old Yale lock that's sticking – can you replace it with the same type?",
-      "a": "Yes, we can swap your worn Yale for an identical or upgraded replacement in the same position. Many Badshot Lea properties have these mechanisms, and we can install a modern equivalent that fits your existing door prep without damage."
-    },
-    {
-      "q": "Our Victorian terraced house in the town centre is listed – will you be able to replace our period mortice lock?",
-      "a": "We specialise in period lock replacements for Farnham's conservation properties. We can source sympathetic replacements that meet listed building requirements and match your original mortice, or upgrade to a secure modern lock if your surveyor permits."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Farnham – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Farnham including misaligned doors, hardware fixes and realignment for Victorian terraces, semis and modern homes.",
-  "door-repairs.hero-paragraph": "Door repairs in Farnham by our experienced locksmith combines expert locksmithing with practical solutions for common issues. Whether your door has dropped, won't close properly, or is letting in draughts, our technicians specialise in hinge adjustment and frame alignment. We service uPVC, composite and timber doors with precision and care.",
-  "door-repairs.local-context-body": "Post-war semis in Wrecclesham and Upper Hale frequently develop dropped or misaligned doors due to foundation settlement typical of 1950s–60s construction. Worn hinges and frames are commonplace in these properties, often requiring professional realignment rather than simple adjustments. Door repairs here typically address both structural settling and hardware degradation affecting security and weather-tightness.\n\nFarnham's town centre conservation areas impose planning restrictions on external door modifications, meaning repairs to period properties must preserve original aesthetics and materials. This constraint, combined with the prevalence of traditional mortice locks in older stock, means door repair work often involves careful matching of existing hardware rather than wholesale replacement with modern alternatives.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Victorian properties like those in Lower Bourne need specialist repair?",
-      "a": "Victorian terraces and villas often have original hardwood frames and period ironmongery that can warp or settle unevenly over time. Our technicians understand how to realign these doors without forcing frames or damaging listed features, preserving both function and character."
-    },
-    {
-      "q": "My interwar semi in Holt Pound has a dropped door—is this common?",
-      "a": "Yes, interwar semis commonly experience door drop due to timber frame movement and wear on hinges over decades. We can adjust or replace the hardware and realign the frame to restore a proper fit and smooth operation."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Farnham | Espagnolette",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Farnham. Failed espagnolette and shootbolt locks fixed on Victorian, interwar and modern properties throughout the area.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Farnham demands specialist locksmith expertise in traditional locksmithing techniques. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, our technicians restore security efficiently. We fit all lock types to insurance-compliant standards, ensuring your home remains properly protected.",
-  "window-lock-repair-replacement.local-context-body": "Farnham's Victorian terraces in Compton feature original sash windows with period-appropriate espagnolette locks that often require specialist attention. Interwar semis across Fairfield typically have steel casement windows where shootbolt mechanisms have corroded or seized after decades of use, making replacement a common necessity. Detached properties in newer developments generally have modern uPVC frames with standard multi-point locks, though these still benefit from professional repair when wear occurs.\n\nListed-building constraints apply to window lock work in Farnham's conservation areas, particularly around the town centre, where replacements must match original hardware specifications and finishes. Many properties built between the wars used hardwood frames that demand careful handling during lock removal and installation, as forcing corroded bolts risks frame damage. Local builders and property managers frequently encounter shootbolt locks stuck by paint accumulation or mineral deposits from the area's water supply, requiring gentle technical intervention rather than force.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks fail so often in Badshot Lea's interwar semis?",
-      "a": "Interwar properties in Badshot Lea were built with espagnolette and shootbolt mechanisms that are now 80–90 years old; metal fatigue and wear are inevitable. We specialise in diagnosing whether your window locks can be repaired or need full replacement, ensuring your sashes operate smoothly and securely again."
-    },
-    {
-      "q": "Can you fit modern window locks to Victorian properties in the town centre conservation areas?",
-      "a": "Yes—we understand Farnham's conservation requirements and can install period-appropriate window lock replacements that maintain the original aesthetic while meeting current security standards. Contact us to discuss sympathetic options that comply with local planning guidance."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Farnham | Victorian & Period Homes",
-  "safe-installation.meta.description": "Professional safe installation in Farnham, including wall, floor and freestanding safes with secure anchoring and insurance documentation for period properties.",
-  "safe-installation.hero-paragraph": "Safe installation by a qualified Farnham locksmith combines expert locksmithing with secure positioning techniques. Our technicians specialise in floor anchoring and wall mounting to ensure your valuables remain protected. Whether you require installation for insurance approval or a new safe, we follow Eurograde standards and AiS approved methods to guarantee optimal security for your premises.",
-  "safe-installation.local-context-body": "Fairfield's interwar semis and detached properties in Ewshot represent the bulk of residential safe installation requests across Farnham. These post-1920s homes typically have solid brick construction and concrete floors suitable for floor safes, whereas the older Victorian stock in central conservation areas often requires specialist fixings to avoid damage to period walls and listed features.\n\nListed-building consent becomes a practical necessity in Farnham's town centre, where wall or floor anchoring may require conservation officer approval before work begins. Insurance documentation requirements vary by safe type and property classification; underwriters commonly request photographic evidence of installation depth and bolt-down specifications, particularly for properties in lower-security suburban areas where portable safes would be unsuitable.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do Victorian properties in Lower Bourne need specialist safe installation?",
-      "a": "Victorian terraces and villas often have solid stone or brick walls that require precise drilling and anchoring techniques to avoid structural damage. Our engineers assess your period property's construction before installation to ensure your safe is secured safely without compromising original masonry."
-    },
-    {
-      "q": "What insurance documentation do I need for a safe installed in my Holt Pound home?",
-      "a": "Most insurers require proof of professional installation with anchoring certificates for interwar semis like those in Holt Pound. We provide full installation documentation and can liaise with your provider to confirm your safe meets their security requirements."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Farnham | Victorian & Period Properties",
-  "safe-opening.meta.description": "Safe opening in Farnham for lost keys, combinations & lockouts. Non-destructive methods for homes in Hale, Heath End & across the area.",
-  "safe-opening.hero-paragraph": "Our Farnham locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians use combination dial manipulation and other precision approaches to restore your access quickly and professionally.",
-  "safe-opening.local-context-body": "Badshot Lea's interwar semis frequently contain older domestic safes installed during the mid-20th century, often with lost combinations or corroded mechanisms. Safe opening in these properties demands non-destructive techniques to preserve both the safes themselves and the period fixtures common to homes of this age across the area.\n\nFarnham's mixed Victorian and post-war housing stock means safe opening work regularly encounters listed-building constraints, particularly in conservation areas like Boundstone. Access routes and working methods must comply with local authority requirements, and any damage to period joinery or walls during safe removal or opening requires careful planning and specialist knowledge of heritage property regulations.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian property in Hale with an old safe, but the combination is lost—can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening using specialist techniques that preserve both the safe and its contents. Victorian safes in period properties like those in Hale often have unique mechanisms, so we assess each one individually to find the best approach."
-    },
-    {
-      "q": "We've just moved into an interwar semi in Fairfield and found a locked safe in the study—what's the fastest way to access it?",
-      "a": "We offer same-day safe opening for properties across Farnham, including interwar semis in Fairfield. Our non-destructive methods mean you'll regain access quickly without costly repairs to your home."
-    }
-  ],
-  "home.areas-covered": [
-    "Badshot Lea",
-    "Boundstone",
-    "Cargate",
-    "Compton",
-    "Ewshot",
-    "Fairfield",
-    "Hale",
-    "Heath End",
-    "Holt Pound",
-    "Lower Bourne",
-    "Mount Pleasant",
-    "Rowledge",
-    "Runfold",
-    "Shortheath",
-    "Tilford",
-    "Upper Bourne",
-    "Upper Hale",
-    "Waverley Estate",
-    "Weybourne",
-    "Wrecclesham"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Hale",
-    "Wrecclesham",
-    "Upper Hale",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "locked-out.areas-covered": [
-    "Weybourne",
-    "Ewshot",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Lower Bourne",
-    "Tilford",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Upper Bourne",
-    "Runfold",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Tilford"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Holt Pound",
-    "Mount Pleasant",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Runfold",
-    "Tilford"
-  ],
-  "lock-changes.areas-covered": [
-    "Heath End",
-    "Badshot Lea",
-    "Upper Hale",
-    "Wrecclesham",
-    "Holt Pound",
-    "Runfold",
-    "Tilford",
-    "Fairfield"
-  ],
-  "lock-repairs.areas-covered": [
-    "Boundstone",
-    "Cargate",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Compton",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Fairfield",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "door-repairs.areas-covered": [
-    "Rowledge",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Shortheath",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "safe-installation.areas-covered": [
-    "Waverley Estate",
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford"
-  ],
-  "safe-opening.areas-covered": [
-    "Upper Hale",
-    "Wrecclesham",
-    "Heath End",
-    "Badshot Lea",
-    "Holt Pound",
-    "Runfold",
-    "Tilford",
-    "Fairfield"
-  ]
+ "meta.title": "Locksmith Farnham | Local Locksmithing Service 24/7",
+ "meta.description": "Farnham locksmith covering emergency call-outs, lock repairs and replacements for Victorian terraces, interwar semis and modern homes across the area.",
+ "home.hero-paragraph": "Farnham locksmith services and locksmithing expertise are available whenever you need emergency lock help. We specialise in emergency lockouts, lock changes, and security upgrades, with fully insured technicians operating 24/7. All work is completed using non-destructive entry methods, so your property remains undamaged.",
+ "home.local-context-heading": "Farnham's Victorian and suburban lock needs",
+ "home.local-context-body": "Farnham's mixed Victorian and post-war housing stock creates varied locksmith demands. Victorian properties in Boundstone retain original mortice locks that need specialist attention, while interwar semis around Shortheath commonly feature worn Yale and Chubb mechanisms requiring replacement. Modern detached homes in Runfold expect contemporary digital and smart lock installations. Each era demands different expertise and materials.\n\nConservation areas in Farnham's town centre impose restrictions on lock replacements and external fittings. Period properties must retain sympathetic hardware that matches original designs, which limits standard off-the-shelf solutions. Landlords managing properties across different neighbourhoods should verify whether their doors fall within conservation designations before commissioning lock work, as non-compliant installations may require costly remedial action.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terrace in Lower Bourne has the original mortice locks \u2013 can you help with those?",
+   "a": "Yes, we specialise in period locks and mortice mechanisms found in Lower Bourne's older millside properties. We can repair, restore, or replace them while respecting the character of your home."
+  },
+  {
+   "q": "The Yale and Chubb locks on my interwar semi in Badshot Lea are wearing out \u2013 what should I do?",
+   "a": "Worn Yale and Chubb mechanisms are common in interwar semis across the area and often need urgent replacement for security. We'll assess the damage and fit modern, reliable alternatives that suit your door."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Farnham \u2013 24/7 Victorian & Modern",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Farnham. Locked out? Key snapped? Fast response to Victorian terraces, interwar semis & modern homes. Non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Farnham combines professional locksmithing expertise with rapid response when you need it most. Whether you're locked out, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to resolve your situation quickly and safely.",
+ "emergency-locksmith.local-context-body": "Properties across Upper Hale and Upper Bourne present distinct emergency scenarios. Post-war semi-detached homes frequently experience worn Yale and Chubb lock failures requiring immediate replacement, while Victorian terraces demand specialist attention to original mortice locks that may jam or break under stress. Detached properties in outlying areas often need rapid access restoration after weather damage or mechanical failure.\n\nFarnham's conservation areas, particularly around the town centre, impose restrictions on lock replacement that affect response protocols. Listed Victorian properties require locks sympathetic to period specifications, meaning standard emergency fixes may need follow-up work with heritage-appropriate mechanisms. Locksmiths must verify building status before proceeding with any permanent installation, particularly in Upper Bourne's villa stock.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Upper Bourne \u2013 how quickly can you arrive?",
+   "a": "We're on call 24/7 across Farnham and typically reach Upper Bourne within 30 minutes. Victorian properties often have mortice locks that require specialist handling, so we carry the right tools and expertise to avoid damage to period mechanisms."
+  },
+  {
+   "q": "My interwar semi in Upper Hale has a snapped key in the Yale lock \u2013 can you help tonight?",
+   "a": "Yes \u2013 we handle snapped keys in Yale and Chubb mechanisms (common in Farnham's interwar stock) as emergency call-outs any time. We'll extract the broken piece safely and rekey or replace the lock if needed, often the same evening."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Farnham? Emergency Entry for Victorian Homes",
+ "locked-out.meta.description": "Locked out in Farnham? Non-destructive entry for lost or snapped keys. Fast emergency service for Victorian terraces, semis & homes. Call 01252 493218.",
+ "locked-out.hero-paragraph": "When you're locked out in Farnham, our experienced locksmith specialises in locksmithing techniques that restore access quickly and safely. Whether your keys are lost, snapped, or trapped inside, we employ non-destructive entry methods to open your door without damage. Our damage-free approach means you can rely on professional help that protects your property.",
+ "locked-out.local-context-body": "Victorian terraces in Hale frequently feature mortice locks set deep within period doorframes, requiring specialist non-destructive techniques to avoid damage to original joinery during lockout recovery. Interwar semis across Fairfield typically have standard Yale mechanisms that respond well to standard entry methods, though worn cylinders occasionally complicate swift access without key duplication on-site.\n\nFarnham's conservation areas impose restrictions on cosmetic damage to doors and frames during forced entry, necessitating careful assessment before proceeding. Period properties with listed-building status require documentation of the method used; locksmiths must verify eligibility for non-destructive approaches before attempting entry on protected structures.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Boundstone\u2014will non-destructive entry damage the original period locks?",
+   "a": "No. Our locksmiths specialise in non-destructive techniques for period properties and understand how to work around original mortice locks without causing damage. We'll access your home safely while preserving the conservation-area features that make your property special."
+  },
+  {
+   "q": "My keys snapped inside the lock of my interwar semi in Badshot Lea\u2014how quickly can you help?",
+   "a": "We typically respond within 30\u201360 minutes across Farnham. Snapped keys in worn Yale or Chubb mechanisms (common in Badshot Lea properties) are straightforward for us to extract non-destructively, so you'll be back inside fast."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Farnham | Victorian & Interwar Locks",
+ "broken-key-removal.meta.description": "Broken key removal in Farnham from Toplok Locksmiths. Expert extraction from euro cylinders, mortice locks & night latches. Fast professional service for Victorian & interwar properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Farnham by our experienced locksmith specialists represents a core locksmithing service we deliver daily. Whether your key has snapped in a mortice lock or euro cylinder, we employ non-destructive extraction methods using precision key extractor tools to retrieve the fragment safely. This protects your lock from damage whilst restoring swift access to your property.",
+ "broken-key-removal.local-context-body": "Interwar semis across Fairfield frequently house worn Yale and Chubb mechanisms that have deteriorated over decades, making keys more prone to snapping during operation. Detached properties in Compton present a similar challenge, where older cylinder locks combined with regular use create conditions for key fracture. Broken key removal becomes essential when standard extraction fails, requiring specialist tools to avoid further damage to the lock mechanism itself.\n\nFarnham's conservation areas impose restrictions on lock replacement following key removal, particularly in period properties where original mortice locks must be carefully restored rather than simply replaced. Additionally, the prevalence of euro cylinders in post-1920s suburban stock means extraction techniques must account for the cylinder's precision engineering; forcing removal risks internal pin damage that renders the entire lock assembly unusable.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian properties in Boundstone frequently need broken key removal?",
+   "a": "Victorian mortice locks in Boundstone's conservation area properties are prone to key breakage due to age-related wear and the higher precision required by their original mechanisms. Our technicians specialise in extracting keys from these period locks without damaging the historic fittings."
+  },
+  {
+   "q": "Can you remove a broken key from the worn Yale locks common in Badshot Lea semis?",
+   "a": "Yes\u2014the interwar Yale and Chubb mechanisms found throughout Badshot Lea's semi-detached homes are particularly susceptible to key breakage from corrosion and wear. We can extract the broken key and advise on whether replacement is necessary to prevent future incidents."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Farnham | Victorian Lock Repair",
+ "burglar-repair-service.meta.description": "Burglar repair service in Farnham. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period properties. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "When your home or business has suffered a break-in, our Farnham locksmith team specialises in burglar repair and locksmithing to restore your security. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks, whilst reinforcing damaged doors to prevent forced entry. Your property's safety is our priority.",
+ "burglar-repair-service.local-context-body": "Break-ins across Farnham's neighbourhoods demand swift, compliant reinstatement. Semi-detached homes in Fairfield, typical of the interwar stock, often suffer forced-entry damage to period-appropriate door frames and Yale mechanisms that require both structural and lock replacement to restore security. Post-war detached properties in Heath End similarly benefit from rapid assessment and modern lock upgrades following intrusion, where insurance claims typically mandate professional certification.\n\nFarnham's town centre conservation areas impose additional constraints on burglar repair work. Listed properties in Hale require approved materials and lock styles that preserve historical character, meaning repairs cannot simply substitute contemporary hardware\u2014specialist sourcing and installation knowledge is essential to satisfy both insurer and conservation officer requirements.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle insurance reinstatement for Victorian properties in Hale after a break-in?",
+   "a": "Yes. Victorian terraces and semis in Hale often have original mortice locks that require specialist restoration or replacement to meet modern insurance standards. We assess period damage and reinstate to both security and heritage specifications."
+  },
+  {
+   "q": "Can you repair interwar semi-detached doors damaged in a burglary in Fairfield?",
+   "a": "Absolutely. Interwar semis like those in Fairfield typically have timber frame doors and Yale/Chubb locks vulnerable to forced entry. We repair frames, replace compromised locks, and provide insurance-standard reinstatement quickly."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Farnham | Victorian & Modern Homes",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Farnham for Victorian terraces and period properties. Same-day boarding of smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Farnham requires expert locksmith knowledge and locksmithing precision to secure your property fast. Whether you're facing smashed windows or damaged doors, our 24/7 service deploys plywood boards and security screws to create a weatherproof temporary seal. Insurance-compliant work that protects your home or business immediately.",
+ "emergency-boarding-up.local-context-body": "Farnham's interwar semis in areas like Badshot Lea present common boarding-up scenarios following break-ins, where original wooden frames and single-glazed windows are frequent entry points. Post-war detached properties in Rowledge, meanwhile, typically feature more robust modern glazing but remain vulnerable during storm damage or forced-entry incidents. The diversity of construction standards across these periods means boarding-up protocols must account for varying frame depths and materials.\n\nConservation area designations in Farnham's town centre restrict boarding-up materials and methods on period properties, requiring temporary solutions that preserve original character pending proper repairs. Suburban properties outside these zones allow faster installation of standard plywood and steel-frame systems, though surveyors often recommend structural assessment of frames before boarding to identify underlying damage that may need addressing once security is restored.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a Victorian terrace in Lower Bourne after a break-in?",
+   "a": "We typically arrive within 60 minutes for emergency calls in Lower Bourne and surrounding areas. Victorian properties often have period features around doors and windows, so we carefully measure and fit boards to protect both the opening and any original joinery."
+  },
+  {
+   "q": "Do you board up interwar semi-detached homes in Holt Pound differently from modern properties?",
+   "a": "Yes\u2014interwar semis in Holt Pound often have non-standard window and door frames, so we custom-cut boards on-site rather than using one-size-fits-all solutions. This ensures a secure fit and prevents further weather damage to the property's structure."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Farnham \u2013 Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Farnham for new homes, lost keys & security upgrades. Serving Victorian terraces, interwar semis & modern detached properties across all areas.",
+ "lock-changes.hero-paragraph": "Our Farnham locksmiths specialise in lock changes and locksmithing services for homes and businesses throughout the area. Whether you're moving home, need to upgrade security after lost keys, or managing a tenancy turnover, we install modern cylinders and multipoint mechanisms to BS3621 standards. Our technicians work efficiently to minimise disruption.",
+ "lock-changes.local-context-body": "Lock changes in Holt Pound typically address worn Yale and Chubb mechanisms in interwar semis where keys have been lost or locks have deteriorated after decades of use. Heath End's post-war detached properties often require full lock replacement during house sales, with homeowners opting for modern five-lever mortice locks or contemporary cylinder options. Both neighbourhoods see seasonal demand spikes when occupancy changes occur.\n\nFarnham's conservation areas in the town centre present compliance considerations for lock changes, particularly in Victorian properties where original period hardware may be protected. Surveyors and listed-building officers may restrict modern lock installation on visible external doors. Additionally, many older properties feature non-standard door frames and timber quality variations, requiring locksmiths to assess compatibility before specifying replacement locks and ensuring correct fitting without structural alteration.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian property in Boundstone\u2014do I need specialist lock changes?",
+   "a": "Yes. Victorian properties in Boundstone often have original mortice and period locks that require specialist knowledge to replace safely without damaging the door frame. We're experienced in matching period-appropriate replacements or upgrading to modern secure alternatives while preserving the character of your home."
+  },
+  {
+   "q": "Our interwar semi in Fairfield has old Yale locks that don't work properly\u2014is replacement urgent?",
+   "a": "Very likely. Interwar semis across Fairfield commonly have worn Yale and Chubb mechanisms that pose a security risk and should be replaced promptly. We can fit modern, reliable locks quickly to restore full security to your property."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Farnham | Victorian & Modern Homes",
+ "lock-repairs.meta.description": "Lock repairs in Farnham for Victorian mortice locks, Yale mechanisms & multipoint failures. Emergency same-day service. Call 01252 493218.",
+ "lock-repairs.hero-paragraph": "Our Farnham locksmith specialises in lock repairs, combining expert locksmithing with practical solutions for your security needs. Whether you're dealing with stiff locks, jammed mechanisms, or keys that won't turn smoothly, we diagnose and repair the underlying issue. Our technicians perform mortice maintenance and multipoint servicing to restore functionality, all backed by manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Boundstone's Victorian terraces retain original mortice locks that frequently require specialist repair rather than replacement, given their conservation-area status and period authenticity. Interwar semis in Badshot Lea, by contrast, house more conventional Yale and Chubb mechanisms that commonly develop wear in their gearbox and multipoint components, necessitating timely repair to prevent security compromise.\n\nConservation-area listings in Boundstone impose restrictions on lock alteration, meaning repair of existing mechanisms often takes precedence over wholesale upgrades. Across Farnham's mixed housing stock, the prevalence of period night latches and traditional mortice locks in older properties demands familiarity with non-standard repair procedures that differ significantly from work on contemporary domestic doors.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Upper Bourne has a stiff mortice lock \u2013 is it worth repairing?",
+   "a": "Yes \u2013 Victorian mortice locks are repairable and often preferred in conservation areas. We specialise in servicing period mechanisms; repair is usually more cost-effective and sympathetic to your property than replacement."
+  },
+  {
+   "q": "The Yale lock on my interwar semi in Shortheath keeps jamming. Can you fix it without replacing the whole thing?",
+   "a": "Often, yes. We repair worn Yale gearboxes and latches common in interwar semis. We'll diagnose whether it's internal wear or a misaligned strike plate \u2013 repair typically takes one visit."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Farnham | Victorian & Period Locks",
+ "door-lock-installation.meta.description": "Door lock installation in Farnham: BS3621 mortice locks, anti-snap cylinders & multipoint systems. Expert fitting for Victorian terraces and interwar semis.",
+ "door-lock-installation.hero-paragraph": "Our Farnham locksmiths specialise in door lock installation using expert locksmithing techniques tailored to your property's needs. Whether you're upgrading security, meeting insurance requirements, or fitting new locks, we install BS3621 mortice locks and TS007 anti-snap cylinders to industry standards. Your doors deserve professional protection.",
+ "door-lock-installation.local-context-body": "Properties across Upper Bourne's Victorian terraces and villas typically feature original mortice locks that require specialist replacement with BS3621-compliant mechanisms. Modern anti-snap TS007 cylinders are increasingly fitted to these period properties, balancing contemporary security standards with the constraints of original door frames and masonry. Post-war semis in Wrecclesham often need straightforward multipoint lock upgrades, where worn mechanisms are replaced with contemporary hardware suited to standard timber door construction.\n\nListed-building consent considerations affect installation work in Farnham's conservation areas, particularly in the town centre, where period-appropriate lock housings must be sourced to avoid visible damage to original joinery. Interwar properties commonly present worn Yale and Chubb locks in need of urgent replacement; these older mechanisms are typically housed in standard timber frames, making installation straightforward once the appropriate modern equivalent is selected. Door material and existing lock positioning determine fitting time and whether frame reinforcement is necessary.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Upper Bourne \u2013 what locks do you recommend for period properties?",
+   "a": "Victorian properties like yours often retain original mortice locks that may need sympathetic upgrading. We install BS3621 mortice locks that match period aesthetics while meeting modern security standards, preserving your home's character."
+  },
+  {
+   "q": "My interwar semi in Upper Hale has old Yale locks that won't turn smoothly \u2013 should I replace them?",
+   "a": "Worn Yale and Chubb mechanisms are common in post-war semis and indicate it's time for replacement. We fit modern TS007 anti-snap cylinders and multipoint systems that restore security and smooth operation without damaging your existing door frame."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Farnham | Victorian & Modern Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in Farnham including Victorian period locks in Boundstone and modern upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Farnham by our experienced locksmiths combines traditional locksmithing expertise with modern security solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards, ensuring your property remains secure and compliant.",
+ "door-lock-replacement.local-context-body": "Lower Bourne's Victorian properties and the interwar semis of Holt Pound present distinct replacement scenarios. Period terraces often retain original mortice locks requiring careful removal and specialist fitting to preserve door integrity, while worn Yale and Chubb mechanisms in Holt Pound's housing stock typically demand straightforward like-for-like swaps or modern upgrades to restore security.\n\nConservation area designation across Farnham's town centre adds practical constraints to door lock replacement work. Listed properties require consideration of period-appropriate hardware, and certain Victorian doors feature solid timber construction that may require adjustment during installation. Accurate measurement and understanding of existing lock housings prevents unnecessary door damage during removal.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have an interwar semi in Badshot Lea with an old Yale lock that's sticking \u2013 can you replace it with the same type?",
+   "a": "Yes, we can swap your worn Yale for an identical or upgraded replacement in the same position. Many Badshot Lea properties have these mechanisms, and we can install a modern equivalent that fits your existing door prep without damage."
+  },
+  {
+   "q": "Our Victorian terraced house in the town centre is listed \u2013 will you be able to replace our period mortice lock?",
+   "a": "We specialise in period lock replacements for Farnham's conservation properties. We can source sympathetic replacements that meet listed building requirements and match your original mortice, or upgrade to a secure modern lock if your surveyor permits."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Farnham \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Farnham including misaligned doors, hardware fixes and realignment for Victorian terraces, semis and modern homes.",
+ "door-repairs.hero-paragraph": "Door repairs in Farnham by our experienced locksmith combines expert locksmithing with practical solutions for common issues. Whether your door has dropped, won't close properly, or is letting in draughts, our technicians specialise in hinge adjustment and frame alignment. We service uPVC, composite and timber doors with precision and care.",
+ "door-repairs.local-context-body": "Post-war semis in Wrecclesham and Upper Hale frequently develop dropped or misaligned doors due to foundation settlement typical of 1950s\u201360s construction. Worn hinges and frames are commonplace in these properties, often requiring professional realignment rather than simple adjustments. Door repairs here typically address both structural settling and hardware degradation affecting security and weather-tightness.\n\nFarnham's town centre conservation areas impose planning restrictions on external door modifications, meaning repairs to period properties must preserve original aesthetics and materials. This constraint, combined with the prevalence of traditional mortice locks in older stock, means door repair work often involves careful matching of existing hardware rather than wholesale replacement with modern alternatives.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Victorian properties like those in Lower Bourne need specialist repair?",
+   "a": "Victorian terraces and villas often have original hardwood frames and period ironmongery that can warp or settle unevenly over time. Our technicians understand how to realign these doors without forcing frames or damaging listed features, preserving both function and character."
+  },
+  {
+   "q": "My interwar semi in Holt Pound has a dropped door\u2014is this common?",
+   "a": "Yes, interwar semis commonly experience door drop due to timber frame movement and wear on hinges over decades. We can adjust or replace the hardware and realign the frame to restore a proper fit and smooth operation."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Farnham | Espagnolette",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Farnham. Failed espagnolette and shootbolt locks fixed on Victorian, interwar and modern properties throughout the area.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Farnham demands specialist locksmith expertise in traditional locksmithing techniques. Whether your windows won't lock due to broken handles or failed espagnolette mechanisms, our technicians restore security efficiently. We fit all lock types to insurance-compliant standards, ensuring your home remains properly protected.",
+ "window-lock-repair-replacement.local-context-body": "Farnham's Victorian terraces in Compton feature original sash windows with period-appropriate espagnolette locks that often require specialist attention. Interwar semis across Fairfield typically have steel casement windows where shootbolt mechanisms have corroded or seized after decades of use, making replacement a common necessity. Detached properties in newer developments generally have modern uPVC frames with standard multi-point locks, though these still benefit from professional repair when wear occurs.\n\nListed-building constraints apply to window lock work in Farnham's conservation areas, particularly around the town centre, where replacements must match original hardware specifications and finishes. Many properties built between the wars used hardwood frames that demand careful handling during lock removal and installation, as forcing corroded bolts risks frame damage. Local builders and property managers frequently encounter shootbolt locks stuck by paint accumulation or mineral deposits from the area's water supply, requiring gentle technical intervention rather than force.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks fail so often in Badshot Lea's interwar semis?",
+   "a": "Interwar properties in Badshot Lea were built with espagnolette and shootbolt mechanisms that are now 80\u201390 years old; metal fatigue and wear are inevitable. We specialise in diagnosing whether your window locks can be repaired or need full replacement, ensuring your sashes operate smoothly and securely again."
+  },
+  {
+   "q": "Can you fit modern window locks to Victorian properties in the town centre conservation areas?",
+   "a": "Yes\u2014we understand Farnham's conservation requirements and can install period-appropriate window lock replacements that maintain the original aesthetic while meeting current security standards. Contact us to discuss sympathetic options that comply with local planning guidance."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Farnham | Victorian & Period Homes",
+ "safe-installation.meta.description": "Professional safe installation in Farnham, including wall, floor and freestanding safes with secure anchoring and insurance documentation for period properties.",
+ "safe-installation.hero-paragraph": "Safe installation by a qualified Farnham locksmith combines expert locksmithing with secure positioning techniques. Our technicians specialise in floor anchoring and wall mounting to ensure your valuables remain protected. Whether you require installation for insurance approval or a new safe, we follow Eurograde standards and AiS approved methods to guarantee optimal security for your premises.",
+ "safe-installation.local-context-body": "Fairfield's interwar semis and detached properties in Ewshot represent the bulk of residential safe installation requests across Farnham. These post-1920s homes typically have solid brick construction and concrete floors suitable for floor safes, whereas the older Victorian stock in central conservation areas often requires specialist fixings to avoid damage to period walls and listed features.\n\nListed-building consent becomes a practical necessity in Farnham's town centre, where wall or floor anchoring may require conservation officer approval before work begins. Insurance documentation requirements vary by safe type and property classification; underwriters commonly request photographic evidence of installation depth and bolt-down specifications, particularly for properties in lower-security suburban areas where portable safes would be unsuitable.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do Victorian properties in Lower Bourne need specialist safe installation?",
+   "a": "Victorian terraces and villas often have solid stone or brick walls that require precise drilling and anchoring techniques to avoid structural damage. Our engineers assess your period property's construction before installation to ensure your safe is secured safely without compromising original masonry."
+  },
+  {
+   "q": "What insurance documentation do I need for a safe installed in my Holt Pound home?",
+   "a": "Most insurers require proof of professional installation with anchoring certificates for interwar semis like those in Holt Pound. We provide full installation documentation and can liaise with your provider to confirm your safe meets their security requirements."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Farnham | Victorian & Period Properties",
+ "safe-opening.meta.description": "Safe opening in Farnham for lost keys, combinations & lockouts. Non-destructive methods for homes in Hale, Heath End & across the area.",
+ "safe-opening.hero-paragraph": "Our Farnham locksmith team specialises in safe opening using expert locksmithing techniques. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians use combination dial manipulation and other precision approaches to restore your access quickly and professionally.",
+ "safe-opening.local-context-body": "Badshot Lea's interwar semis frequently contain older domestic safes installed during the mid-20th century, often with lost combinations or corroded mechanisms. Safe opening in these properties demands non-destructive techniques to preserve both the safes themselves and the period fixtures common to homes of this age across the area.\n\nFarnham's mixed Victorian and post-war housing stock means safe opening work regularly encounters listed-building constraints, particularly in conservation areas like Boundstone. Access routes and working methods must comply with local authority requirements, and any damage to period joinery or walls during safe removal or opening requires careful planning and specialist knowledge of heritage property regulations.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian property in Hale with an old safe, but the combination is lost\u2014can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening using specialist techniques that preserve both the safe and its contents. Victorian safes in period properties like those in Hale often have unique mechanisms, so we assess each one individually to find the best approach."
+  },
+  {
+   "q": "We've just moved into an interwar semi in Fairfield and found a locked safe in the study\u2014what's the fastest way to access it?",
+   "a": "We offer same-day safe opening for properties across Farnham, including interwar semis in Fairfield. Our non-destructive methods mean you'll regain access quickly without costly repairs to your home."
+  }
+ ],
+ "home.areas-covered": [
+  "Badshot Lea",
+  "Hale",
+  "Rowledge",
+  "Runfold",
+  "Upper Hale",
+  "Weybourne",
+  "Wrecclesham"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Hale",
+  "Wrecclesham",
+  "Upper Hale",
+  "Badshot Lea",
+  "Runfold",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "locked-out.areas-covered": [
+  "Weybourne",
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Runfold",
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "lock-changes.areas-covered": [
+  "Badshot Lea",
+  "Upper Hale",
+  "Wrecclesham",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "lock-repairs.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "door-repairs.areas-covered": [
+  "Rowledge",
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Weybourne"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "safe-installation.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ],
+ "safe-opening.areas-covered": [
+  "Upper Hale",
+  "Wrecclesham",
+  "Badshot Lea",
+  "Runfold",
+  "Hale",
+  "Rowledge",
+  "Weybourne"
+ ]
 }

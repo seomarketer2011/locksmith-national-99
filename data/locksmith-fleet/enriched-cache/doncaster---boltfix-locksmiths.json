@@ -1,509 +1,417 @@
 {
-  "meta.title": "Locksmith Doncaster | Local Locksmithing Service 24/7",
-  "meta.description": "Boltfix Locksmiths Doncaster | Emergency & specialist lock services for Victorian terraces, modern homes & council estates across Doncaster.",
-  "home.hero-paragraph": "Doncaster locksmith services specialising in professional locksmithing and expert lock assistance are available around the clock. We handle emergency lockouts, lock changes, and lock repairs with fully insured, non-destructive entry methods. Our DBS-checked technicians respond 24/7 to keep your home and business secure.",
-  "home.local-context-heading": "Doncaster's Mixed Heritage Needs Specialist Locks",
-  "home.local-context-body": "Doncaster's housing stock spans Victorian terraces through modern detached properties, each with distinct security needs. Older properties in Balby and Wheatley often feature period locks requiring specialist restoration work, while post-war council estates in Bentley and Armthorpe typically have standard cylinder locks needing regular servicing. Newer suburbs like Bessacarr increasingly demand smart lock installation and integrated security systems. Lock maintenance and upgrading form a substantial part of local locksmith work across these varied property types.\n\nMany Doncaster properties, particularly in areas like Intake and Edenthorpe, have uPVC composite doors now fitted to older semi-detached and council housing stock. These doors require compatible locking mechanisms and specialist knowledge during repair or replacement. Landlords managing multiple properties should be aware of current security expectations for rental properties, as tenant turnover often necessitates lock changes and cylinder replacement to maintain building security standards across portfolios.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terrace in Balby has original period locks—can you restore them rather than replace?",
-      "a": "Yes, we specialise in restoring period locks on Doncaster's Victorian terraces. We can repair, clean and re-key original mechanisms while preserving your property's character, or advise on sympathetic modern alternatives if restoration isn't viable."
-    },
-    {
-      "q": "I'm moving to a new-build in Pennine View and want to upgrade to smart locks—what's involved?",
-      "a": "We install smart locks and integrated security systems on modern Doncaster properties. We'll assess your doors, recommend systems that suit your needs, and handle full installation with handover support."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Doncaster – 24/7 Lockouts",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith Doncaster – locked out, snapped keys, urgent repairs. Fast response across Cantley, Intake & beyond. Available now.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Doncaster, our experienced locksmiths specialise in rapid locksmithing solutions for lockouts and snapped keys. We're available 24/7 and use non-destructive entry techniques whenever possible to minimise damage to your property. Our DBS-checked team responds swiftly to get you back inside.",
-  "emergency-locksmith.local-context-body": "Victorian terraces in Balby frequently present emergency lockout situations involving period locks that require careful handling during urgent access. Semi-detached homes across Bentley, many built in the interwar period, often feature standard cylinder locks prone to jamming or breakage—common triggers for emergency callouts in this popular family area.\n\nPost-war properties throughout Doncaster typically incorporate straightforward cylinder mechanisms, allowing faster emergency resolution than period properties. However, listed buildings and conservation-area terraces demand specialist awareness of original ironwork and heritage restrictions, which can affect methodology during urgent access situations.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Balby – how quickly can you attend?",
-      "a": "We're typically with you within 30–60 minutes across Doncaster, including Balby's conservation streets. Our emergency locksmiths carry specialist tools for period locks common in Victorian properties, so we can often open the door without damage."
-    },
-    {
-      "q": "My door won't lock properly after a break-in in the City Centre – what do you do first?",
-      "a": "We attend immediately to secure your property, inspect the lock and frame for damage, and either repair or replace the cylinder. If required, we'll also fit emergency boarding or recommend additional security measures before you have time to arrange further work."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Doncaster? Emergency Entry for Terraces & Semis",
-  "locked-out.meta.description": "Locked out in Doncaster? Boltfix provides fast, non-destructive entry for lost or snapped keys. Emergency service across Bessacarr, Balby & beyond. 24/7 available.",
-  "locked-out.hero-paragraph": "When you're locked out in Doncaster, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, snapped them in the lock, or accidentally shut the door behind you, we use non-destructive entry methods to regain access without causing damage to your property.",
-  "locked-out.local-context-body": "Locked-out situations in Doncaster span a broad demographic. Wheatley's Victorian terraces often present tricky access challenges due to period sash windows and original rim locks, while post-war semi-detached properties in Pennine View typically feature more straightforward cylinder locks on standard uPVC doors. The variety means technicians must carry specialist tools for both heritage restoration contexts and modern entry points.\n\nPeriod properties across older neighbourhoods frequently carry listed-building restrictions that prohibit forced entry or drilling. Non-destructive techniques—picking, bumping, and careful manipulation—are essential here, adding time to callouts. Council estates with high-turnover lettings see frequent lock-related lockouts; those properties usually favour standardised mechanisms, enabling faster resolution than heritage stock but requiring familiarity with bulk-install patterns common to social housing.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Balby – will you damage my period locks?",
-      "a": "No. Our locksmiths specialise in non-destructive entry for period properties and understand the restoration value of original Victorian locks. We'll regain access without harming your antique mechanisms."
-    },
-    {
-      "q": "My key snapped in the lock of my semi-detached in Edenthorpe – how quickly can you help?",
-      "a": "We attend lockouts across Doncaster, including 1970s semis like those in Edenthorpe, typically within the hour. We'll extract the broken key and open your door without forcing the lock cylinder."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Doncaster – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Doncaster by Boltfix. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast service for Balby Victorian terraces & all properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Doncaster requires a locksmith experienced in locksmithing techniques to safely extract damaged keys without compromising your lock. Our technicians use specialised key extractor tools and broken-key probes to handle snapped or sheared keys trapped in mortice locks and euro cylinders. We employ non-destructive methods to preserve your existing hardware whenever possible.",
-  "broken-key-removal.local-context-body": "Doncaster's post-war council estates in Armthorpe contain large numbers of semi-detached properties fitted with standard cylinder locks from decades past. These locks are particularly prone to key breakage due to wear and metal fatigue, making broken key removal a routine service across these neighborhoods. Older euro cylinders in terraced stock elsewhere also frequently experience snapped keys, especially when residents apply force to stiff mechanisms.\n\nExtraction work in Doncaster properties must account for the prevalence of mortice locks alongside euro cylinders, requiring technicians to adapt technique based on lock type and age. Listed-building constraints affect some Victorian properties, where period-appropriate methods may be needed to preserve original hardware rather than force removal that risks damage to the door frame or lock casing itself.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Balby often need broken key removal?",
-      "a": "Period locks in Victorian properties use older cylinder designs that can corrode or wear unevenly, making keys more prone to snapping inside the mechanism. Our locksmiths have specialist knowledge of extracting keys from these heritage locks without damaging the original fittings."
-    },
-    {
-      "q": "How quickly can you remove a broken key from a council estate property in Intake?",
-      "a": "We typically respond within the hour for broken key removal from standard cylinder locks common in post-war council estates across Doncaster. Most extractions take 15–30 minutes, and we can rekey or fit a replacement lock on the same visit."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Doncaster | Emergency Lock Repair",
-  "burglar-repair-service.meta.description": "Burglar repair service in Doncaster. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and modern homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Doncaster locksmith team specialises in burglar repair and locksmithing services for properties affected by forced entry or break-ins. Following a break-in, we assess damage to doors and locks, then install insurance-compliant solutions such as TS007 anti-snap cylinders and BS3621 mortice locks to restore security and prevent future intrusions.",
-  "burglar-repair-service.local-context-body": "Break-ins across Doncaster's mixed housing stock create distinct repair demands. Victorian terraces in Wheatley frequently feature period-appropriate locks and timber frames that require specialist reinstatement to preserve character while restoring security. Post-war council estates in Bentley typically involve standard cylinder locks and modern door frames where swift replacement protocols keep properties secure and compliant with insurance assessments.\n\nListed-building status affects repair methodology across parts of Doncaster, particularly in older neighborhoods where original joinery and lock mechanisms must be matched or authentically restored rather than replaced with modern equivalents. Insurance companies processing claims often require photographic evidence of damage and confirmation that replacements meet current British Standards, making documentation and material specification critical elements of the repair process.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle insurance-standard repairs for break-ins on Victorian properties in Balby and Wheatley?",
-      "a": "Yes. Our burglar repair service covers period lock restoration and door reinstatement to insurance-quality standards, essential for Doncaster's Victorian terraces where original mechanisms often need specialist handling and documentation for claims."
-    },
-    {
-      "q": "Can you repair cylinder locks quickly after a break-in on council estates like Bentley and Armthorpe?",
-      "a": "Absolutely. We specialise in fast post-break-in cylinder lock replacement and door repair across Doncaster's post-war estates, with same-day availability and full insurance-compliant documentation to support your claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Doncaster | Victorian & Modern Homes",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Doncaster. Same-day secure boarding of smashed doors and windows after break-ins or storm damage. Serving Bessacarr and beyond.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Doncaster from experienced locksmiths specialising in locksmithing offers rapid protection when smashed windows or damaged doors compromise your property. Our 24/7 service uses quality plywood boards and security screws to create a weatherproof temporary seal, ensuring your premises remains secure and insurance-compliant whilst permanent repairs are arranged.",
-  "emergency-boarding-up.local-context-body": "Emergency boarding up in Doncaster addresses damage across a diverse built environment. Semi-detached properties in Bentley and older terraced stock frequently require rapid protection after break-ins or weather events. Modern detached homes in affluent suburbs demand swift, aesthetically considered boarding solutions that preserve property value. The range of property ages and conditions means boarding specialists encounter varied door frames, window reveals, and structural considerations depending on location and era.\n\nVictorian and post-war properties in Doncaster often feature timber-framed windows and solid wooden doors that require specialist boarding techniques to avoid further damage during emergency work. Listed-building status applies to many period properties across the city, which may restrict the materials and methods permissible for temporary boarding. Post-war council estates typically have standardised door and window dimensions, streamlining the boarding process, though damp and structural settling can affect frame stability and fixings.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian sash windows in properties like those in Balby after break-ins?",
-      "a": "Yes, we board up period windows carefully to protect the frame and glazing bars typical of Doncaster's Victorian terraces. We use materials that won't damage original joinery, and can arrange proper repairs once the emergency is resolved."
-    },
-    {
-      "q": "How quickly can you board up a door or window in Edenthorpe or similar semi-detached areas after storm damage?",
-      "a": "We aim to arrive within 2 hours across Doncaster, including Edenthorpe's 1970s properties. We secure doors and windows with sturdy plywood and fixings to protect your home from weather and further intrusion while you arrange permanent repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Doncaster | Victorian & Modern Homes",
-  "lock-changes.meta.description": "Lock changes in Doncaster for moved homes, lost keys & security upgrades. Serving Victorian terraces, council estates & modern suburbs. Fast professional service.",
-  "lock-changes.hero-paragraph": "Expert lock changes in Doncaster from our professional locksmith team specialising in locksmithing solutions for every property. Whether you're moving home, changing tenancy, or upgrading security, we fit high-specification locks including BS3621 mortice locks and TS007 anti-snap cylinders. All work meets current UK standards.",
-  "lock-changes.local-context-body": "Properties across Wheatley and other Victorian terrace neighborhoods often require lock changes that respect period authenticity while meeting modern security needs. These older properties frequently feature original hardware that demands specialist knowledge during replacement. Conversely, semi-detached homes in areas like Auckley tend to have straightforward cylinder locks suitable for standard upgrades, allowing faster turnaround on change-outs following house moves or key loss incidents.\n\nLock changes in Doncaster's older stock sometimes encounter practical constraints around door frame condition and listed-building considerations, particularly where properties retain heritage status. Modern suburbs present fewer complications, though high-specification smart locks increasingly feature in affluent areas, requiring installers to coordinate integration with existing security systems and ensure compatibility with contemporary door mechanisms.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Balby – do I need specialist lock changes?",
-      "a": "Victorian properties often have period locks that require careful handling during replacement. We have experience with Balby's heritage stock and can advise whether to restore original mechanisms or upgrade to modern cylinders while respecting the property's character."
-    },
-    {
-      "q": "We're upgrading security in our new Bessacarr home – can you install smart locks as part of a lock change?",
-      "a": "Yes – many affluent homeowners in Bessacarr choose smart lock installation during a full lock change for integrated security. We can replace standard cylinders with digital or app-controlled systems tailored to modern detached and semi-detached homes."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Doncaster | Victorian & Modern Homes",
-  "lock-repairs.meta.description": "Expert lock repairs in Doncaster for Victorian terraces, post-war council estates & modern homes. Multipoint, mortice & cylinder locks fixed 24/7.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs from our Doncaster locksmith team combine expert locksmithing with practical solutions for your security needs. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn smoothly, our technicians specialise in mortice maintenance and multipoint servicing. All work comes with manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Doncaster's semi-detached properties in Cantley and across other post-war suburbs frequently rely on multipoint and mortice locks that have served reliably for decades but now require specialist repair rather than replacement. As these mechanisms age, gearbox wear and night latch failure become commonplace, particularly where original ironmongery remains in situ. Repair work addresses both functionality and the cost-efficiency homeowners seek when locks still hold structural integrity.\n\nVictorian and period properties scattered throughout the city present additional complexity: older mortice locks demand knowledge of non-standard specifications and restoration techniques that differ markedly from modern cylinder repairs. Listed-building considerations in some areas constrain replacement options, making skilled repair the preferred solution to maintain both security and heritage compliance. Material variation—timber doors predominating in older stock versus modern composite frames—affects access points and repair methodology.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do locks in Wheatley Victorian terraces need specialist repair?",
-      "a": "Victorian period properties often have original mortice and night latch mechanisms that require specialist knowledge to repair safely without damaging the mechanism or door frame. We have experience restoring these heritage locks to working order while preserving their character."
-    },
-    {
-      "q": "How often should multipoint locks be serviced in post-war properties like Intake?",
-      "a": "Council estate and semi-detached homes with multipoint locks benefit from annual maintenance to prevent gearbox wear and sticking. Regular servicing catches problems early and avoids emergency callouts when the lock fails completely."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Doncaster – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Doncaster. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for Victorian terraces and modern homes.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation from our Doncaster locksmith combines expert locksmithing with reliable security solutions. Whether you're upgrading for insurance requirements or fitting new locks to your property, we install BS3621 mortice locks and TS007 anti-snap cylinders to meet current security standards. Our technicians ensure every installation meets British specifications for lasting protection.",
-  "door-lock-installation.local-context-body": "Doncaster's mixed housing stock creates varied lock installation demands. Victorian terraces in Balby retain period wooden doors requiring careful mortice fitting, whilst modern detached homes in Bessacarr increasingly specify TS007 anti-snap cylinders and multipoint systems as part of comprehensive security upgrades. Semi-detached properties across Bentley, common throughout the city's interwar suburbs, typically need standard BS3621 mortice locks fitted to solid timber frames—a straightforward installation that forms regular work for local locksmiths.\n\nListed-building status affects lock installation approaches in Doncaster's older Victorian stock, where period-appropriate fittings must be retained and new locks carefully selected to preserve character. Post-war council estates in Armthorpe and similar areas often feature aluminium or composite doors requiring different fixing methods than traditional timber, with cylinder locks predominating; locksmiths working in these zones need familiarity with both older cylinder standards and modern anti-snap specifications for upgrades.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Balby with the original period locks – can you install modern BS3621 mortice locks without damaging the door?",
-      "a": "Yes. Our locksmiths specialise in fitting BS3621 mortice locks into Victorian properties across Balby and Wheatley while preserving period features where possible. We'll assess your door and recommend the best approach to maintain both security and character."
-    },
-    {
-      "q": "What's the best lock for a semi-detached home in Auckley that's hard to access for rekeying?",
-      "a": "A TS007 anti-snap cylinder with a multipoint lock is ideal for semi-detached properties in rural areas like Auckley, as it reduces the need for frequent visits and provides high security against forced entry. We can fit and test it to ensure it's maintenance-free for years."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Doncaster – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Doncaster. Specialist service for Victorian terraces, modern detached homes & post-war properties. Same-day available.",
-  "door-lock-replacement.hero-paragraph": "Our Doncaster locksmith specialises in door lock replacement and expert locksmithing for domestic and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional service across Doncaster and surrounding areas.",
-  "door-lock-replacement.local-context-body": "Victorian terraces throughout Balby retain original period lock mechanisms that often require specialist replacement knowledge, particularly when upgrading to modern cylinders without compromising historic fabric. Semi-detached properties in Auckley and rural detached homes in Fishlake typically feature standard cylinder locks suited to straightforward like-for-like swaps, though suburban variations mean assessment of existing fitment is essential before replacement work begins.\n\nListed-building status affects lock replacement decisions across Doncaster's older stock, especially Victorian properties where period-appropriate solutions may be required by local conservation guidelines. Post-war council estates commonly use standardised lock profiles, making replacement logistics simpler; however, communal entry doors in these areas often demand coordination with landlords or managing agents before work proceeds.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "My Victorian terrace in Balby has the original period lock – can you replace it with a modern one?",
-      "a": "Yes, we can upgrade your period lock to a modern cylinder lock while preserving the aesthetic of your Victorian property. We'll ensure the new lock fits your existing door furniture and meets current security standards."
-    },
-    {
-      "q": "Our council estate property in Armthorpe needs a new lock – how quickly can you fit it?",
-      "a": "We typically complete standard cylinder lock replacements in council properties the same day you call. We stock common sizes and types, so fitting is usually straightforward on post-war estate doors."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Doncaster | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Doncaster for misaligned, dropped or damaged doors. uPVC, composite, timber. Serving Auckley, Fishlake and surrounding areas.",
-  "door-repairs.hero-paragraph": "Our Doncaster locksmith team specialises in door repairs and locksmithing solutions for residential and commercial properties. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Common repairs include hinge adjustment, frame alignment, and multipoint realignment to restore full functionality.",
-  "door-repairs.local-context-body": "Modern detached homes in Bessacarr frequently feature contemporary composite doors and integrated frame systems that require specialist alignment techniques when settlement or weather exposure causes dropped or misaligned doors. Post-war semi-detached properties across Edenthorpe typically have standard timber frames prone to warping and shrinkage, necessitating regular hardware adjustment and threshold realignment to maintain secure closure and weatherproofing.\n\nMany of Doncaster's older terraced properties retain original timber door frames and period hardware that demand careful handling during repair work. Where properties fall within conservation areas or are listed, modifications to doors and frames must comply with local planning restrictions, affecting choice of materials and repair methods available to engineers attending call-outs.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Victorian terraces in Balby and Wheatley need specialist repair?",
-      "a": "Victorian properties often have original wooden frames and period hardware that can warp or settle unevenly over time, causing doors to drop or misalign. Our locksmiths understand period-specific repairs and can restore these doors without compromising their character or original fittings."
-    },
-    {
-      "q": "How often should I have my council estate door checked in areas like Bentley and Armthorpe?",
-      "a": "Post-war properties typically use standard cylinder locks and frames that benefit from annual maintenance to prevent misalignment and wear. We recommend a professional inspection every 12 months to catch dropped hinges or frame issues early and avoid security gaps."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement | Doncaster",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Doncaster. Espagnolette & shootbolt locks fixed for Victorian terraces, modern homes & City Centre properties.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Doncaster requires skilled locksmith expertise in locksmithing techniques. Whether you're dealing with windows that won't lock or broken handles, our technicians specialise in fixing espagnolette mechanisms and shootbolt locks. We ensure all work meets insurance-compliant standards, giving you peace of mind and reliable home security.",
-  "window-lock-repair-replacement.local-context-body": "Window lock failures are common across Doncaster's Victorian terraces in Wheatley, where original espagnolette mechanisms have often deteriorated after decades of use. Semi-detached properties in Pennine View, built during the 1980s, typically feature standard shootbolt locks that require periodic maintenance and occasional replacement due to wear. Both property types benefit from prompt repair to maintain security and thermal efficiency.\n\nDoncaster's older properties frequently present access challenges during repair work, as period window frames can be narrow or difficult to work within. Replacement locks must often be sourced to match existing frame specifications, particularly in Victorian stock where modern standard sizes may not fit. Listed-building status, common across Wheatley's terrace stock, may restrict lock types and finishes, requiring consultation before replacement work begins.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Balby need specialist window lock repair?",
-      "a": "Victorian sash windows often use period espagnolette mechanisms that differ from modern designs, requiring specialist knowledge to repair or replace without damaging original frames. Boltfix locksmiths are experienced in restoring these heritage locks while maintaining the character of older properties."
-    },
-    {
-      "q": "What window lock maintenance do post-war council estates in Intake typically need?",
-      "a": "Post-war properties in Intake commonly feature standard shootbolt and cylinder window locks that benefit from regular maintenance and timely replacement to prevent weather damage and security gaps. We can assess and upgrade these locks to improve both function and security."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Doncaster – Fast, Trusted Local Service",
-  "safe-installation.meta.description": "Professional safe installation in Doncaster for Victorian terraces, modern homes & council estates. Secure anchoring, insurance documentation & compliance.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Doncaster by our experienced locksmith team combines traditional locksmithing expertise with modern security standards. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting techniques. All installations comply with Eurograde and AiS approved specifications for maximum protection.",
-  "safe-installation.local-context-body": "Doncaster's affluent modern suburbs like Cusworth feature detached properties where homeowners increasingly seek built-in safe installation for valuables and documentation. These newer builds offer flexibility in wall and floor anchoring, contrasting with older Victorian terraces in Wheatley where period properties present structural constraints and require sensitive fitting around original plasterwork and heritage features.\n\nListed building status affects many Victorian and post-war properties across Doncaster, requiring safe installers to obtain conservation officer approval before wall anchoring work proceeds. Modern suburban properties typically have cavity walls and concrete foundations that allow straightforward floor safe installation, whereas older stock often features solid brick construction that demands specialist drilling techniques and structural assessment before fitting.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in Balby with solid stone walls – can you still install a safe securely?",
-      "a": "Yes, we regularly install safes in Doncaster's period Victorian properties. We assess your wall composition and use appropriate anchoring methods for stone or brick to ensure your safe meets insurance requirements without compromising the property's structural integrity."
-    },
-    {
-      "q": "We've just bought a modern detached home in Auckley and want to install a floor safe – do you provide the insurance documentation needed?",
-      "a": "Absolutely. We install floor safes in modern detached properties across Auckley and provide full installation documentation that your insurer will require for coverage verification."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Doncaster | Victorian & Modern Homes",
-  "safe-opening.meta.description": "Safe opening in Doncaster for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes across Balby, Bentley & beyond.",
-  "safe-opening.hero-paragraph": "Our Doncaster locksmith team specialises in safe opening, combining years of locksmithing expertise with precision techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians hold industry credentials and prioritise protecting your valuable contents throughout the opening process.",
-  "safe-opening.local-context-body": "Safe opening work in Doncaster reflects the city's diverse property ages. Affluent homeowners in Bessacarr's modern detached properties frequently install home safes for valuables and documents, often encountering lost combination or key scenarios. Similarly, period properties across the city's Victorian and post-war stock sometimes contain older safe models requiring specialist non-destructive techniques to access without damage.\n\nCouncil estates in areas like Armthorpe present particular considerations for safe opening technicians. Tenant safes are common in these properties, and access often requires verification of ownership before proceeding. Additionally, many older safes across Doncaster's mixed housing stock predate modern locking mechanisms, meaning standard combination-reset tools may be ineffective—necessitating careful manipulation or specialist drilling techniques that preserve the safe's structural integrity.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Balby with an old safe I can't open – do you handle antique safes?",
-      "a": "Yes, we specialise in non-destructive opening of period safes common in Balby's Victorian properties. We'll assess the lock type and attempt to restore access without damage, preserving both the safe and any historical value."
-    },
-    {
-      "q": "Our council estate property in Armthorpe has a built-in safe with a lost combination – how quickly can you help?",
-      "a": "We offer same-day safe opening for lost combinations across Armthorpe and surrounding areas. We'll use non-destructive techniques to regain access, then help you change the combination or rekey the safe."
-    }
-  ],
-  "home.areas-covered": [
-    "Ackworth Moor Top",
-    "Adwick Upon Dearne",
-    "Adwick le Street",
-    "Alverley",
-    "Arksey",
-    "Armthorpe",
-    "Auckley",
-    "Austerfield",
-    "Badsworth",
-    "Balby",
-    "Barnburgh",
-    "Barnby Dun",
-    "Belle Vue",
-    "Bentley",
-    "Bentley Rise",
-    "Bessacarr",
-    "Bessacarr Grange",
-    "Billingley",
-    "Bircotes",
-    "Blaxton",
-    "Bolton upon Dearne",
-    "Braithwaite",
-    "Braithwell",
-    "Bramley",
-    "Bramley Lings",
-    "Branton",
-    "Brodsworth",
-    "Burghwallis",
-    "Cadeby",
-    "Campsall",
-    "Cantley",
-    "Carcroft",
-    "City Centre",
-    "Clay Lane",
-    "Clayton",
-    "Cliff Hills",
-    "Clifton",
-    "Conanby",
-    "Cusworth",
-    "Cusworth Village",
-    "Dale Hill",
-    "Dalton",
-    "Dalton Magna",
-    "Denaby Main",
-    "Dolcliffe Common",
-    "Dunscroft",
-    "Dunsville",
-    "East Dene",
-    "East Hardwick",
-    "East Herringthorpe",
-    "Eastwood",
-    "Edenthorpe",
-    "Everton",
-    "Fenwick",
-    "Finningley",
-    "Fishlake",
-    "Flanderwell",
-    "Goldthorpe",
-    "Great Houghton",
-    "Gringley on the Hill",
-    "Hampole",
-    "Harlington",
-    "Haslam Park",
-    "Hatfield Woodhouse",
-    "Hellaby",
-    "Herringthorpe",
-    "Hexthorpe",
-    "Hickleton",
-    "High Ackworth",
-    "High Melton",
-    "Highfields",
-    "Highgate",
-    "Highwoods",
-    "Hill Estate",
-    "Hooton Pagnell",
-    "Hooton Roberts",
-    "Hyde Park",
-    "Instoneville",
-    "Intake",
-    "Kilnhurst",
-    "Kirk Bramwith",
-    "Kirk Sandall",
-    "Kirk Smeaton",
-    "Lakeside",
-    "Little Hemsworth",
-    "Little Smeaton",
-    "Littleworth",
-    "Long Sandall",
-    "Loversall",
-    "Low Ackworth",
-    "Micklebring",
-    "Minsthorpe",
-    "Misson",
-    "Moorends",
-    "Moorthorpe",
-    "Moss",
-    "New Edlington",
-    "New Rossington",
-    "New Village",
-    "North Elmsall",
-    "Norton",
-    "Old Cantley",
-    "Old Denaby",
-    "Old Edlington",
-    "Parkgate",
-    "Ravenfield",
-    "Rossington",
-    "Rostholme",
-    "Ryecroft",
-    "Sandhill",
-    "Scawsby",
-    "Scawthorpe",
-    "Scrooby",
-    "Shinwell",
-    "Skellow",
-    "South Bramwith",
-    "South Kirkby",
-    "Sprotbrough",
-    "Stainton",
-    "Stockbridge",
-    "Styrrup",
-    "Sutton",
-    "Swinton Bridge",
-    "Sykehouse",
-    "Thorpe Audlin",
-    "Thorpe-in-Balne",
-    "Thrybergh",
-    "Toll Bar",
-    "Upton",
-    "Wadworth",
-    "Walden Stubbs",
-    "Warmsworth",
-    "Wentbridge",
-    "Westwoodside",
-    "Wheatley",
-    "Wheatley Hills",
-    "Whiston",
-    "White City",
-    "Wickersley",
-    "Woodlands",
-    "Wroot"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Fenwick",
-    "Long Sandall",
-    "Highfields",
-    "Minsthorpe",
-    "Conanby",
-    "Carcroft",
-    "Brodsworth",
-    "Walden Stubbs",
-    "Old Cantley",
-    "Stainton",
-    "Balby"
-  ],
-  "locked-out.areas-covered": [
-    "Scawsby",
-    "Swinton Bridge",
-    "Low Ackworth",
-    "Clayton",
-    "Everton",
-    "Little Hemsworth",
-    "Gringley on the Hill",
-    "Littleworth",
-    "Great Houghton",
-    "Sprotbrough",
-    "New Edlington"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Moss",
-    "South Kirkby",
-    "Whiston",
-    "White City",
-    "Cliff Hills",
-    "Blaxton",
-    "Old Denaby",
-    "Hill Estate",
-    "Ackworth Moor Top",
-    "Hellaby",
-    "Austerfield"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Cantley",
-    "Badsworth",
-    "East Dene",
-    "Barnburgh",
-    "Sykehouse",
-    "Kilnhurst",
-    "Bolton upon Dearne",
-    "Loversall",
-    "Arksey",
-    "Westwoodside",
-    "Clifton"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Shinwell",
-    "Armthorpe",
-    "Norton",
-    "Harlington",
-    "Thrybergh",
-    "New Village",
-    "Fishlake",
-    "Adwick Upon Dearne",
-    "Campsall",
-    "Parkgate",
-    "Bircotes"
-  ],
-  "lock-changes.areas-covered": [
-    "Little Smeaton",
-    "Wentbridge",
-    "Haslam Park",
-    "Dale Hill",
-    "Instoneville",
-    "Wheatley",
-    "Belle Vue",
-    "Bessacarr",
-    "Thorpe-in-Balne",
-    "High Ackworth",
-    "Upton"
-  ],
-  "lock-repairs.areas-covered": [
-    "Styrrup",
-    "City Centre",
-    "Clay Lane",
-    "North Elmsall",
-    "Moorthorpe",
-    "Kirk Smeaton",
-    "Braithwell",
-    "Auckley",
-    "Denaby Main",
-    "Edenthorpe",
-    "Braithwaite"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Barnby Dun",
-    "Warmsworth",
-    "Kirk Bramwith",
-    "Dunsville",
-    "Billingley",
-    "Moorends",
-    "Hyde Park",
-    "Eastwood",
-    "Wroot",
-    "Cusworth",
-    "Rostholme"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Cadeby",
-    "Sandhill",
-    "Thorpe Audlin",
-    "Wadworth",
-    "Highwoods",
-    "Hooton Pagnell",
-    "Skellow",
-    "Bramley",
-    "Dunscroft",
-    "Woodlands",
-    "Scrooby"
-  ],
-  "door-repairs.areas-covered": [
-    "Burghwallis",
-    "Dalton",
-    "Bramley Lings",
-    "Dalton Magna",
-    "East Hardwick",
-    "Hampole",
-    "Old Edlington",
-    "Intake",
-    "Scawthorpe",
-    "Bentley",
-    "Lakeside"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Ryecroft",
-    "Stockbridge",
-    "Kirk Sandall",
-    "Hexthorpe",
-    "Dolcliffe Common",
-    "Adwick le Street",
-    "Alverley",
-    "South Bramwith",
-    "Wickersley",
-    "Goldthorpe",
-    "Rossington"
-  ],
-  "safe-installation.areas-covered": [
-    "Hatfield Woodhouse",
-    "New Rossington",
-    "East Herringthorpe",
-    "Highgate",
-    "Ravenfield",
-    "Sutton",
-    "Micklebring",
-    "Finningley",
-    "High Melton",
-    "Flanderwell"
-  ],
-  "safe-opening.areas-covered": [
-    "Misson",
-    "Cusworth Village",
-    "Wheatley Hills",
-    "Bessacarr Grange",
-    "Bentley Rise",
-    "Toll Bar",
-    "Herringthorpe",
-    "Hooton Roberts",
-    "Hickleton",
-    "Branton"
-  ]
+ "meta.title": "Locksmith Doncaster | Local Locksmithing Service 24/7",
+ "meta.description": "Boltfix Locksmiths Doncaster | Emergency & specialist lock services for Victorian terraces, modern homes & council estates across Doncaster.",
+ "home.hero-paragraph": "Doncaster locksmith services specialising in professional locksmithing and expert lock assistance are available around the clock. We handle emergency lockouts, lock changes, and lock repairs with fully insured, non-destructive entry methods. Our DBS-checked technicians respond 24/7 to keep your home and business secure.",
+ "home.local-context-heading": "Doncaster's Mixed Heritage Needs Specialist Locks",
+ "home.local-context-body": "Doncaster's housing stock spans Victorian terraces through modern detached properties, each with distinct security needs. Older properties in Balby and Wheatley often feature period locks requiring specialist restoration work, while post-war council estates in Bentley and Armthorpe typically have standard cylinder locks needing regular servicing. Newer suburbs like Bessacarr increasingly demand smart lock installation and integrated security systems. Lock maintenance and upgrading form a substantial part of local locksmith work across these varied property types.\n\nMany Doncaster properties, particularly in areas like Intake and Edenthorpe, have uPVC composite doors now fitted to older semi-detached and council housing stock. These doors require compatible locking mechanisms and specialist knowledge during repair or replacement. Landlords managing multiple properties should be aware of current security expectations for rental properties, as tenant turnover often necessitates lock changes and cylinder replacement to maintain building security standards across portfolios.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terrace in Balby has original period locks\u2014can you restore them rather than replace?",
+   "a": "Yes, we specialise in restoring period locks on Doncaster's Victorian terraces. We can repair, clean and re-key original mechanisms while preserving your property's character, or advise on sympathetic modern alternatives if restoration isn't viable."
+  },
+  {
+   "q": "I'm moving to a new-build in Pennine View and want to upgrade to smart locks\u2014what's involved?",
+   "a": "We install smart locks and integrated security systems on modern Doncaster properties. We'll assess your doors, recommend systems that suit your needs, and handle full installation with handover support."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Doncaster \u2013 24/7 Lockouts",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith Doncaster \u2013 locked out, snapped keys, urgent repairs. Fast response across Cantley, Intake & beyond. Available now.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Doncaster, our experienced locksmiths specialise in rapid locksmithing solutions for lockouts and snapped keys. We're available 24/7 and use non-destructive entry techniques whenever possible to minimise damage to your property. Our DBS-checked team responds swiftly to get you back inside.",
+ "emergency-locksmith.local-context-body": "Victorian terraces in Balby frequently present emergency lockout situations involving period locks that require careful handling during urgent access. Semi-detached homes across Bentley, many built in the interwar period, often feature standard cylinder locks prone to jamming or breakage\u2014common triggers for emergency callouts in this popular family area.\n\nPost-war properties throughout Doncaster typically incorporate straightforward cylinder mechanisms, allowing faster emergency resolution than period properties. However, listed buildings and conservation-area terraces demand specialist awareness of original ironwork and heritage restrictions, which can affect methodology during urgent access situations.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Balby \u2013 how quickly can you attend?",
+   "a": "We're typically with you within 30\u201360 minutes across Doncaster, including Balby's conservation streets. Our emergency locksmiths carry specialist tools for period locks common in Victorian properties, so we can often open the door without damage."
+  },
+  {
+   "q": "My door won't lock properly after a break-in in the City Centre \u2013 what do you do first?",
+   "a": "We attend immediately to secure your property, inspect the lock and frame for damage, and either repair or replace the cylinder. If required, we'll also fit emergency boarding or recommend additional security measures before you have time to arrange further work."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Doncaster? Emergency Entry for Terraces & Semis",
+ "locked-out.meta.description": "Locked out in Doncaster? Boltfix provides fast, non-destructive entry for lost or snapped keys. Emergency service across Bessacarr, Balby & beyond. 24/7 available.",
+ "locked-out.hero-paragraph": "When you're locked out in Doncaster, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, snapped them in the lock, or accidentally shut the door behind you, we use non-destructive entry methods to regain access without causing damage to your property.",
+ "locked-out.local-context-body": "Locked-out situations in Doncaster span a broad demographic. Wheatley's Victorian terraces often present tricky access challenges due to period sash windows and original rim locks, while post-war semi-detached properties in Pennine View typically feature more straightforward cylinder locks on standard uPVC doors. The variety means technicians must carry specialist tools for both heritage restoration contexts and modern entry points.\n\nPeriod properties across older neighbourhoods frequently carry listed-building restrictions that prohibit forced entry or drilling. Non-destructive techniques\u2014picking, bumping, and careful manipulation\u2014are essential here, adding time to callouts. Council estates with high-turnover lettings see frequent lock-related lockouts; those properties usually favour standardised mechanisms, enabling faster resolution than heritage stock but requiring familiarity with bulk-install patterns common to social housing.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Balby \u2013 will you damage my period locks?",
+   "a": "No. Our locksmiths specialise in non-destructive entry for period properties and understand the restoration value of original Victorian locks. We'll regain access without harming your antique mechanisms."
+  },
+  {
+   "q": "My key snapped in the lock of my semi-detached in Edenthorpe \u2013 how quickly can you help?",
+   "a": "We attend lockouts across Doncaster, including 1970s semis like those in Edenthorpe, typically within the hour. We'll extract the broken key and open your door without forcing the lock cylinder."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Doncaster \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Doncaster by Boltfix. Snapped keys extracted from euro cylinders, mortice locks & night latches. Fast service for Balby Victorian terraces & all properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Doncaster requires a locksmith experienced in locksmithing techniques to safely extract damaged keys without compromising your lock. Our technicians use specialised key extractor tools and broken-key probes to handle snapped or sheared keys trapped in mortice locks and euro cylinders. We employ non-destructive methods to preserve your existing hardware whenever possible.",
+ "broken-key-removal.local-context-body": "Doncaster's post-war council estates in Armthorpe contain large numbers of semi-detached properties fitted with standard cylinder locks from decades past. These locks are particularly prone to key breakage due to wear and metal fatigue, making broken key removal a routine service across these neighbourhoods. Older euro cylinders in terraced stock elsewhere also frequently experience snapped keys, especially when residents apply force to stiff mechanisms.\n\nExtraction work in Doncaster properties must account for the prevalence of mortice locks alongside euro cylinders, requiring technicians to adapt technique based on lock type and age. Listed-building constraints affect some Victorian properties, where period-appropriate methods may be needed to preserve original hardware rather than force removal that risks damage to the door frame or lock casing itself.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Balby often need broken key removal?",
+   "a": "Period locks in Victorian properties use older cylinder designs that can corrode or wear unevenly, making keys more prone to snapping inside the mechanism. Our locksmiths have specialist knowledge of extracting keys from these heritage locks without damaging the original fittings."
+  },
+  {
+   "q": "How quickly can you remove a broken key from a council estate property in Intake?",
+   "a": "We typically respond within the hour for broken key removal from standard cylinder locks common in post-war council estates across Doncaster. Most extractions take 15\u201330 minutes, and we can rekey or fit a replacement lock on the same visit."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Doncaster | Emergency Lock Repair",
+ "burglar-repair-service.meta.description": "Burglar repair service in Doncaster. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and modern homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Doncaster locksmith team specialises in burglar repair and locksmithing services for properties affected by forced entry or break-ins. Following a break-in, we assess damage to doors and locks, then install insurance-compliant solutions such as TS007 anti-snap cylinders and BS3621 mortice locks to restore security and prevent future intrusions.",
+ "burglar-repair-service.local-context-body": "Break-ins across Doncaster's mixed housing stock create distinct repair demands. Victorian terraces in Wheatley frequently feature period-appropriate locks and timber frames that require specialist reinstatement to preserve character while restoring security. Post-war council estates in Bentley typically involve standard cylinder locks and modern door frames where swift replacement protocols keep properties secure and compliant with insurance assessments.\n\nListed-building status affects repair methodology across parts of Doncaster, particularly in older neighbourhoods where original joinery and lock mechanisms must be matched or authentically restored rather than replaced with modern equivalents. Insurance companies processing claims often require photographic evidence of damage and confirmation that replacements meet current British Standards, making documentation and material specification critical elements of the repair process.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle insurance-standard repairs for break-ins on Victorian properties in Balby and Wheatley?",
+   "a": "Yes. Our burglar repair service covers period lock restoration and door reinstatement to insurance-quality standards, essential for Doncaster's Victorian terraces where original mechanisms often need specialist handling and documentation for claims."
+  },
+  {
+   "q": "Can you repair cylinder locks quickly after a break-in on council estates like Bentley and Armthorpe?",
+   "a": "Absolutely. We specialise in fast post-break-in cylinder lock replacement and door repair across Doncaster's post-war estates, with same-day availability and full insurance-compliant documentation to support your claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Doncaster | Victorian & Modern Homes",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Doncaster. Same-day secure boarding of smashed doors and windows after break-ins or storm damage. Serving Bessacarr and beyond.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Doncaster from experienced locksmiths specialising in locksmithing offers rapid protection when smashed windows or damaged doors compromise your property. Our 24/7 service uses quality plywood boards and security screws to create a weatherproof temporary seal, ensuring your premises remains secure and insurance-compliant whilst permanent repairs are arranged.",
+ "emergency-boarding-up.local-context-body": "Emergency boarding up in Doncaster addresses damage across a diverse built environment. Semi-detached properties in Bentley and older terraced stock frequently require rapid protection after break-ins or weather events. Modern detached homes in affluent suburbs demand swift, aesthetically considered boarding solutions that preserve property value. The range of property ages and conditions means boarding specialists encounter varied door frames, window reveals, and structural considerations depending on location and era.\n\nVictorian and post-war properties in Doncaster often feature timber-framed windows and solid wooden doors that require specialist boarding techniques to avoid further damage during emergency work. Listed-building status applies to many period properties across the city, which may restrict the materials and methods permissible for temporary boarding. Post-war council estates typically have standardised door and window dimensions, streamlining the boarding process, though damp and structural settling can affect frame stability and fixings.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian sash windows in properties like those in Balby after break-ins?",
+   "a": "Yes, we board up period windows carefully to protect the frame and glazing bars typical of Doncaster's Victorian terraces. We use materials that won't damage original joinery, and can arrange proper repairs once the emergency is resolved."
+  },
+  {
+   "q": "How quickly can you board up a door or window in Edenthorpe or similar semi-detached areas after storm damage?",
+   "a": "We aim to arrive within 2 hours across Doncaster, including Edenthorpe's 1970s properties. We secure doors and windows with sturdy plywood and fixings to protect your home from weather and further intrusion while you arrange permanent repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Doncaster | Victorian & Modern Homes",
+ "lock-changes.meta.description": "Lock changes in Doncaster for moved homes, lost keys & security upgrades. Serving Victorian terraces, council estates & modern suburbs. Fast professional service.",
+ "lock-changes.hero-paragraph": "Expert lock changes in Doncaster from our professional locksmith team specialising in locksmithing solutions for every property. Whether you're moving home, changing tenancy, or upgrading security, we fit high-specification locks including BS3621 mortice locks and TS007 anti-snap cylinders. All work meets current UK standards.",
+ "lock-changes.local-context-body": "Properties across Wheatley and other Victorian terrace neighbourhoods often require lock changes that respect period authenticity while meeting modern security needs. These older properties frequently feature original hardware that demands specialist knowledge during replacement. Conversely, semi-detached homes in areas like Auckley tend to have straightforward cylinder locks suitable for standard upgrades, allowing faster turnaround on change-outs following house moves or key loss incidents.\n\nLock changes in Doncaster's older stock sometimes encounter practical constraints around door frame condition and listed-building considerations, particularly where properties retain heritage status. Modern suburbs present fewer complications, though high-specification smart locks increasingly feature in affluent areas, requiring installers to coordinate integration with existing security systems and ensure compatibility with contemporary door mechanisms.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Balby \u2013 do I need specialist lock changes?",
+   "a": "Victorian properties often have period locks that require careful handling during replacement. We have experience with Balby's heritage stock and can advise whether to restore original mechanisms or upgrade to modern cylinders while respecting the property's character."
+  },
+  {
+   "q": "We're upgrading security in our new Bessacarr home \u2013 can you install smart locks as part of a lock change?",
+   "a": "Yes \u2013 many affluent homeowners in Bessacarr choose smart lock installation during a full lock change for integrated security. We can replace standard cylinders with digital or app-controlled systems tailored to modern detached and semi-detached homes."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Doncaster | Victorian & Modern Homes",
+ "lock-repairs.meta.description": "Expert lock repairs in Doncaster for Victorian terraces, post-war council estates & modern homes. Multipoint, mortice & cylinder locks fixed 24/7.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs from our Doncaster locksmith team combine expert locksmithing with practical solutions for your security needs. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn smoothly, our technicians specialise in mortice maintenance and multipoint servicing. All work comes with manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Doncaster's semi-detached properties in Cantley and across other post-war suburbs frequently rely on multipoint and mortice locks that have served reliably for decades but now require specialist repair rather than replacement. As these mechanisms age, gearbox wear and night latch failure become commonplace, particularly where original ironmongery remains in situ. Repair work addresses both functionality and the cost-efficiency homeowners seek when locks still hold structural integrity.\n\nVictorian and period properties scattered throughout the city present additional complexity: older mortice locks demand knowledge of non-standard specifications and restoration techniques that differ markedly from modern cylinder repairs. Listed-building considerations in some areas constrain replacement options, making skilled repair the preferred solution to maintain both security and heritage compliance. Material variation\u2014timber doors predominating in older stock versus modern composite frames\u2014affects access points and repair methodology.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do locks in Wheatley Victorian terraces need specialist repair?",
+   "a": "Victorian period properties often have original mortice and night latch mechanisms that require specialist knowledge to repair safely without damaging the mechanism or door frame. We have experience restoring these heritage locks to working order while preserving their character."
+  },
+  {
+   "q": "How often should multipoint locks be serviced in post-war properties like Intake?",
+   "a": "Council estate and semi-detached homes with multipoint locks benefit from annual maintenance to prevent gearbox wear and sticking. Regular servicing catches problems early and avoids emergency callouts when the lock fails completely."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Doncaster \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Doncaster. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for Victorian terraces and modern homes.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation from our Doncaster locksmith combines expert locksmithing with reliable security solutions. Whether you're upgrading for insurance requirements or fitting new locks to your property, we install BS3621 mortice locks and TS007 anti-snap cylinders to meet current security standards. Our technicians ensure every installation meets British specifications for lasting protection.",
+ "door-lock-installation.local-context-body": "Doncaster's mixed housing stock creates varied lock installation demands. Victorian terraces in Balby retain period wooden doors requiring careful mortice fitting, whilst modern detached homes in Bessacarr increasingly specify TS007 anti-snap cylinders and multipoint systems as part of comprehensive security upgrades. Semi-detached properties across Bentley, common throughout the city's interwar suburbs, typically need standard BS3621 mortice locks fitted to solid timber frames\u2014a straightforward installation that forms regular work for local locksmiths.\n\nListed-building status affects lock installation approaches in Doncaster's older Victorian stock, where period-appropriate fittings must be retained and new locks carefully selected to preserve character. Post-war council estates in Armthorpe and similar areas often feature aluminium or composite doors requiring different fixing methods than traditional timber, with cylinder locks predominating; locksmiths working in these zones need familiarity with both older cylinder standards and modern anti-snap specifications for upgrades.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Balby with the original period locks \u2013 can you install modern BS3621 mortice locks without damaging the door?",
+   "a": "Yes. Our locksmiths specialise in fitting BS3621 mortice locks into Victorian properties across Balby and Wheatley while preserving period features where possible. We'll assess your door and recommend the best approach to maintain both security and character."
+  },
+  {
+   "q": "What's the best lock for a semi-detached home in Auckley that's hard to access for rekeying?",
+   "a": "A TS007 anti-snap cylinder with a multipoint lock is ideal for semi-detached properties in rural areas like Auckley, as it reduces the need for frequent visits and provides high security against forced entry. We can fit and test it to ensure it's maintenance-free for years."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Doncaster \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Doncaster. Specialist service for Victorian terraces, modern detached homes & post-war properties. Same-day available.",
+ "door-lock-replacement.hero-paragraph": "Our Doncaster locksmith specialises in door lock replacement and expert locksmithing for domestic and commercial properties. Whether you've experienced a failed lock, lost your keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional service across Doncaster and surrounding areas.",
+ "door-lock-replacement.local-context-body": "Victorian terraces throughout Balby retain original period lock mechanisms that often require specialist replacement knowledge, particularly when upgrading to modern cylinders without compromising historic fabric. Semi-detached properties in Auckley and rural detached homes in Fishlake typically feature standard cylinder locks suited to straightforward like-for-like swaps, though suburban variations mean assessment of existing fitment is essential before replacement work begins.\n\nListed-building status affects lock replacement decisions across Doncaster's older stock, especially Victorian properties where period-appropriate solutions may be required by local conservation guidelines. Post-war council estates commonly use standardised lock profiles, making replacement logistics simpler; however, communal entry doors in these areas often demand coordination with landlords or managing agents before work proceeds.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "My Victorian terrace in Balby has the original period lock \u2013 can you replace it with a modern one?",
+   "a": "Yes, we can upgrade your period lock to a modern cylinder lock while preserving the aesthetic of your Victorian property. We'll ensure the new lock fits your existing door furniture and meets current security standards."
+  },
+  {
+   "q": "Our council estate property in Armthorpe needs a new lock \u2013 how quickly can you fit it?",
+   "a": "We typically complete standard cylinder lock replacements in council properties the same day you call. We stock common sizes and types, so fitting is usually straightforward on post-war estate doors."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Doncaster | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Doncaster for misaligned, dropped or damaged doors. uPVC, composite, timber. Serving Auckley, Fishlake and surrounding areas.",
+ "door-repairs.hero-paragraph": "Our Doncaster locksmith team specialises in door repairs and locksmithing solutions for residential and commercial properties. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Common repairs include hinge adjustment, frame alignment, and multipoint realignment to restore full functionality.",
+ "door-repairs.local-context-body": "Modern detached homes in Bessacarr frequently feature contemporary composite doors and integrated frame systems that require specialist alignment techniques when settlement or weather exposure causes dropped or misaligned doors. Post-war semi-detached properties across Edenthorpe typically have standard timber frames prone to warping and shrinkage, necessitating regular hardware adjustment and threshold realignment to maintain secure closure and weatherproofing.\n\nMany of Doncaster's older terraced properties retain original timber door frames and period hardware that demand careful handling during repair work. Where properties fall within conservation areas or are listed, modifications to doors and frames must comply with local planning restrictions, affecting choice of materials and repair methods available to engineers attending call-outs.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Victorian terraces in Balby and Wheatley need specialist repair?",
+   "a": "Victorian properties often have original wooden frames and period hardware that can warp or settle unevenly over time, causing doors to drop or misalign. Our locksmiths understand period-specific repairs and can restore these doors without compromising their character or original fittings."
+  },
+  {
+   "q": "How often should I have my council estate door checked in areas like Bentley and Armthorpe?",
+   "a": "Post-war properties typically use standard cylinder locks and frames that benefit from annual maintenance to prevent misalignment and wear. We recommend a professional inspection every 12 months to catch dropped hinges or frame issues early and avoid security gaps."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement | Doncaster",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Doncaster. Espagnolette & shootbolt locks fixed for Victorian terraces, modern homes & City Centre properties.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Doncaster requires skilled locksmith expertise in locksmithing techniques. Whether you're dealing with windows that won't lock or broken handles, our technicians specialise in fixing espagnolette mechanisms and shootbolt locks. We ensure all work meets insurance-compliant standards, giving you peace of mind and reliable home security.",
+ "window-lock-repair-replacement.local-context-body": "Window lock failures are common across Doncaster's Victorian terraces in Wheatley, where original espagnolette mechanisms have often deteriorated after decades of use. Semi-detached properties in Pennine View, built during the 1980s, typically feature standard shootbolt locks that require periodic maintenance and occasional replacement due to wear. Both property types benefit from prompt repair to maintain security and thermal efficiency.\n\nDoncaster's older properties frequently present access challenges during repair work, as period window frames can be narrow or difficult to work within. Replacement locks must often be sourced to match existing frame specifications, particularly in Victorian stock where modern standard sizes may not fit. Listed-building status, common across Wheatley's terrace stock, may restrict lock types and finishes, requiring consultation before replacement work begins.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Balby need specialist window lock repair?",
+   "a": "Victorian sash windows often use period espagnolette mechanisms that differ from modern designs, requiring specialist knowledge to repair or replace without damaging original frames. Boltfix locksmiths are experienced in restoring these heritage locks while maintaining the character of older properties."
+  },
+  {
+   "q": "What window lock maintenance do post-war council estates in Intake typically need?",
+   "a": "Post-war properties in Intake commonly feature standard shootbolt and cylinder window locks that benefit from regular maintenance and timely replacement to prevent weather damage and security gaps. We can assess and upgrade these locks to improve both function and security."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Doncaster \u2013 Fast, Trusted Local Service",
+ "safe-installation.meta.description": "Professional safe installation in Doncaster for Victorian terraces, modern homes & council estates. Secure anchoring, insurance documentation & compliance.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Doncaster by our experienced locksmith team combines traditional locksmithing expertise with modern security standards. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting techniques. All installations comply with Eurograde and AiS approved specifications for maximum protection.",
+ "safe-installation.local-context-body": "Doncaster's affluent modern suburbs like Cusworth feature detached properties where homeowners increasingly seek built-in safe installation for valuables and documentation. These newer builds offer flexibility in wall and floor anchoring, contrasting with older Victorian terraces in Wheatley where period properties present structural constraints and require sensitive fitting around original plasterwork and heritage features.\n\nListed building status affects many Victorian and post-war properties across Doncaster, requiring safe installers to obtain conservation officer approval before wall anchoring work proceeds. Modern suburban properties typically have cavity walls and concrete foundations that allow straightforward floor safe installation, whereas older stock often features solid brick construction that demands specialist drilling techniques and structural assessment before fitting.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in Balby with solid stone walls \u2013 can you still install a safe securely?",
+   "a": "Yes, we regularly install safes in Doncaster's period Victorian properties. We assess your wall composition and use appropriate anchoring methods for stone or brick to ensure your safe meets insurance requirements without compromising the property's structural integrity."
+  },
+  {
+   "q": "We've just bought a modern detached home in Auckley and want to install a floor safe \u2013 do you provide the insurance documentation needed?",
+   "a": "Absolutely. We install floor safes in modern detached properties across Auckley and provide full installation documentation that your insurer will require for coverage verification."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Doncaster | Victorian & Modern Homes",
+ "safe-opening.meta.description": "Safe opening in Doncaster for lost keys, combinations & lockouts. Non-destructive methods for domestic and commercial safes across Balby, Bentley & beyond.",
+ "safe-opening.hero-paragraph": "Our Doncaster locksmith team specialises in safe opening, combining years of locksmithing expertise with precision techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ non-destructive methods to access your safe without damage. Our technicians hold industry credentials and prioritise protecting your valuable contents throughout the opening process.",
+ "safe-opening.local-context-body": "Safe opening work in Doncaster reflects the city's diverse property ages. Affluent homeowners in Bessacarr's modern detached properties frequently install home safes for valuables and documents, often encountering lost combination or key scenarios. Similarly, period properties across the city's Victorian and post-war stock sometimes contain older safe models requiring specialist non-destructive techniques to access without damage.\n\nCouncil estates in areas like Armthorpe present particular considerations for safe opening technicians. Tenant safes are common in these properties, and access often requires verification of ownership before proceeding. Additionally, many older safes across Doncaster's mixed housing stock predate modern locking mechanisms, meaning standard combination-reset tools may be ineffective\u2014necessitating careful manipulation or specialist drilling techniques that preserve the safe's structural integrity.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Balby with an old safe I can't open \u2013 do you handle antique safes?",
+   "a": "Yes, we specialise in non-destructive opening of period safes common in Balby's Victorian properties. We'll assess the lock type and attempt to restore access without damage, preserving both the safe and any historical value."
+  },
+  {
+   "q": "Our council estate property in Armthorpe has a built-in safe with a lost combination \u2013 how quickly can you help?",
+   "a": "We offer same-day safe opening for lost combinations across Armthorpe and surrounding areas. We'll use non-destructive techniques to regain access, then help you change the combination or rekey the safe."
+  }
+ ],
+ "home.areas-covered": [
+  "Adwick Upon Dearne",
+  "Adwick le Street",
+  "Arksey",
+  "Armthorpe",
+  "Auckley",
+  "Austerfield",
+  "Balby",
+  "Barnburgh",
+  "Barnby Dun",
+  "Bentley",
+  "Bessacarr",
+  "Blaxton",
+  "Braithwaite",
+  "Braithwell",
+  "Branton",
+  "Brodsworth",
+  "Burghwallis",
+  "Cadeby",
+  "Campsall",
+  "Cantley",
+  "Carcroft",
+  "City Centre",
+  "Clayton",
+  "Clifton",
+  "Conanby",
+  "Cusworth",
+  "Denaby Main",
+  "Dunscroft",
+  "Dunsville",
+  "Edenthorpe",
+  "Fenwick",
+  "Finningley",
+  "Fishlake",
+  "Hampole",
+  "Harlington",
+  "Hatfield Woodhouse",
+  "Hexthorpe",
+  "Hickleton",
+  "High Melton",
+  "Highfields",
+  "Hooton Pagnell",
+  "Hyde Park",
+  "Instoneville",
+  "Intake",
+  "Kirk Bramwith",
+  "Kirk Sandall",
+  "Lakeside",
+  "Loversall",
+  "Micklebring",
+  "Moorends",
+  "Moss",
+  "New Edlington",
+  "New Rossington",
+  "Norton",
+  "Old Cantley",
+  "Old Denaby",
+  "Old Edlington",
+  "Rossington",
+  "Scawsby",
+  "Scawthorpe",
+  "Skellow",
+  "South Bramwith",
+  "Sprotbrough",
+  "Stainton",
+  "Sutton",
+  "Sykehouse",
+  "Thorpe-in-Balne",
+  "Toll Bar",
+  "Wadworth",
+  "Warmsworth",
+  "Wheatley",
+  "Wheatley Hills",
+  "Woodlands"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Fenwick",
+  "Highfields",
+  "Conanby",
+  "Carcroft",
+  "Brodsworth",
+  "Old Cantley",
+  "Stainton",
+  "Balby",
+  "Instoneville"
+ ],
+ "locked-out.areas-covered": [
+  "Scawsby",
+  "Clayton",
+  "Sprotbrough",
+  "New Edlington",
+  "Stainton",
+  "Sutton",
+  "Sykehouse",
+  "Thorpe-in-Balne",
+  "Toll Bar"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Moss",
+  "Blaxton",
+  "Old Denaby",
+  "Austerfield",
+  "Adwick Upon Dearne",
+  "Adwick le Street",
+  "Arksey",
+  "Armthorpe",
+  "Auckley"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Cantley",
+  "Barnburgh",
+  "Sykehouse",
+  "Loversall",
+  "Arksey",
+  "Clifton",
+  "Barnby Dun",
+  "Bentley",
+  "Bessacarr"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Armthorpe",
+  "Norton",
+  "Harlington",
+  "Fishlake",
+  "Adwick Upon Dearne",
+  "Campsall",
+  "Hatfield Woodhouse",
+  "Hexthorpe",
+  "Hickleton"
+ ],
+ "lock-changes.areas-covered": [
+  "Instoneville",
+  "Wheatley",
+  "Bessacarr",
+  "Thorpe-in-Balne",
+  "Moorends",
+  "Moss",
+  "New Edlington",
+  "New Rossington",
+  "Norton"
+ ],
+ "lock-repairs.areas-covered": [
+  "City Centre",
+  "Braithwell",
+  "Auckley",
+  "Denaby Main",
+  "Edenthorpe",
+  "Braithwaite",
+  "Old Edlington",
+  "Rossington",
+  "Scawsby"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Barnby Dun",
+  "Warmsworth",
+  "Kirk Bramwith",
+  "Dunsville",
+  "Moorends",
+  "Hyde Park",
+  "Cusworth",
+  "Branton",
+  "Brodsworth"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Cadeby",
+  "Wadworth",
+  "Hooton Pagnell",
+  "Skellow",
+  "Dunscroft",
+  "Woodlands",
+  "City Centre",
+  "Clayton",
+  "Clifton"
+ ],
+ "door-repairs.areas-covered": [
+  "Burghwallis",
+  "Hampole",
+  "Old Edlington",
+  "Intake",
+  "Scawthorpe",
+  "Bentley",
+  "Lakeside",
+  "Dunsville",
+  "Edenthorpe"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Kirk Sandall",
+  "Hexthorpe",
+  "Adwick le Street",
+  "South Bramwith",
+  "Rossington",
+  "Blaxton",
+  "Braithwaite",
+  "Braithwell",
+  "Branton"
+ ],
+ "safe-installation.areas-covered": [
+  "Hatfield Woodhouse",
+  "New Rossington",
+  "Sutton",
+  "Micklebring",
+  "Finningley",
+  "High Melton",
+  "Wheatley",
+  "Wheatley Hills",
+  "Woodlands"
+ ],
+ "safe-opening.areas-covered": [
+  "Wheatley Hills",
+  "Toll Bar",
+  "Hickleton",
+  "Branton",
+  "Auckley",
+  "Austerfield",
+  "Balby",
+  "Barnburgh",
+  "Barnby Dun"
+ ]
 }

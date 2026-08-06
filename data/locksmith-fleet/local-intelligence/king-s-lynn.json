@@ -1,150 +1,151 @@
 {
-  "location": "King's Lynn",
-  "neighborhoods": [
-    {
-      "name": "North Lynn",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "older residential core, likely Victorian/Edwardian terraces"
-    },
-    {
-      "name": "South Lynn",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached",
-        "post-war housing"
-      ]
-    },
-    {
-      "name": "West Lynn",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic riverside area"
-    },
-    {
-      "name": "Gaywood",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "suburban expansion area, mixed ages"
-    },
-    {
-      "name": "Reffley",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "1960s–70s residential development"
-    },
-    {
-      "name": "Saddlebow",
-      "era": "mixed",
-      "types": [
-        "semi-detached",
-        "rural properties"
-      ],
-      "notes": "village character, commuter belt"
-    },
-    {
-      "name": "North Wootton",
-      "era": "mixed",
-      "types": [
-        "semi-detached",
-        "rural properties"
-      ]
-    },
-    {
-      "name": "North Runcton",
-      "era": "mixed",
-      "types": [
-        "semi-detached",
-        "rural properties"
-      ]
-    },
-    {
-      "name": "King's Reach",
-      "era": "modern",
-      "types": [
-        "flat",
-        "new-build"
-      ],
-      "notes": "newer waterside development"
-    },
-    {
-      "name": "Purfleet Quay",
-      "era": "modern",
-      "types": [
-        "flat",
-        "new-build"
-      ],
-      "notes": "modern waterfront regeneration"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "council estate"
-    ],
-    "era": "mixed Victorian and post-war",
-    "notable": "Historic medieval town centre with extensive Victorian terraces; post-1960s suburban expansion. Significant riverside flat/modern development."
+ "location": "King's Lynn",
+ "neighborhoods": [
+  {
+   "name": "North Lynn",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "older residential core, likely Victorian/Edwardian terraces"
   },
-  "locksmith_relevant": [
-    "Historic North and South Lynn terraces feature original sash windows and period locks requiring specialist knowledge and care.",
-    "High volume of post-war council estate properties in Gaywood and Reffley demand affordable, reliable rekeying and repair services.",
-    "Modern riverside flats at King's Reach and Purfleet Quay have contemporary electronic systems; locksmiths need dual traditional and smart-lock expertise."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=King's%20Lynn",
-    "overpass": "OSM Overpass bbox query, 10 named areas",
-    "coords": {
-      "lat": 52.7538673,
-      "lon": 0.3954774
-    }
+  {
+   "name": "South Lynn",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached",
+    "post-war housing"
+   ]
   },
-  "generated_at": "2026-05-13T18:05:50.594Z",
-  "all_areas": [
-    "Gaywood",
-    "King's Reach",
-    "North Lynn",
-    "North Runcton",
-    "North Wootton",
-    "Purfleet Quay",
-    "Reffley",
-    "Saddlebow",
-    "South Lynn",
-    "West Lynn"
-  ],
-  "geo": {
-    "latitude": 52.7538673,
-    "longitude": 0.3954774
+  {
+   "name": "West Lynn",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic riverside area"
   },
-  "postcode_districts": [
-    "PE30",
-    "PE34"
-  ],
-  "postcode_meta": {
-    "PE34": {
-      "count": 2,
-      "sample": "PE34 3JH",
-      "admin": "King's Lynn and West Norfolk",
-      "via": "admin_district=king's lynn and west norfolk"
-    },
-    "PE30": {
-      "count": 7,
-      "sample": "PE30 3RY",
-      "admin": "King's Lynn and West Norfolk",
-      "via": "admin_district=king's lynn and west norfolk"
-    }
+  {
+   "name": "Gaywood",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "suburban expansion area, mixed ages"
+  },
+  {
+   "name": "Reffley",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "1960s\u201370s residential development"
+  },
+  {
+   "name": "Saddlebow",
+   "era": "mixed",
+   "types": [
+    "semi-detached",
+    "rural properties"
+   ],
+   "notes": "village character, commuter belt"
+  },
+  {
+   "name": "North Wootton",
+   "era": "mixed",
+   "types": [
+    "semi-detached",
+    "rural properties"
+   ]
+  },
+  {
+   "name": "North Runcton",
+   "era": "mixed",
+   "types": [
+    "semi-detached",
+    "rural properties"
+   ]
+  },
+  {
+   "name": "King's Reach",
+   "era": "modern",
+   "types": [
+    "flat",
+    "new-build"
+   ],
+   "notes": "newer waterside development"
+  },
+  {
+   "name": "Purfleet Quay",
+   "era": "modern",
+   "types": [
+    "flat",
+    "new-build"
+   ],
+   "notes": "modern waterfront regeneration"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "council estate"
+  ],
+  "era": "mixed Victorian and post-war",
+  "notable": "Historic medieval town centre with extensive Victorian terraces; post-1960s suburban expansion. Significant riverside flat/modern development."
+ },
+ "locksmith_relevant": [
+  "Historic North and South Lynn terraces feature original sash windows and period locks requiring specialist knowledge and care.",
+  "High volume of post-war council estate properties in Gaywood and Reffley demand affordable, reliable rekeying and repair services.",
+  "Modern riverside flats at King's Reach and Purfleet Quay have contemporary electronic systems; locksmiths need dual traditional and smart-lock expertise."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=King's%20Lynn",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for King's Lynn, 11 named areas",
+  "coords": {
+   "lat": 52.7538673,
+   "lon": 0.3954774
+  }
+ },
+ "generated_at": "2026-05-13T18:05:50.594Z",
+ "all_areas": [
+  "Fairstead",
+  "Gaywood",
+  "King's Reach",
+  "North Lynn",
+  "North Wootton",
+  "Purfleet Quay",
+  "Reffley",
+  "South Lynn",
+  "South Wootton",
+  "Templemead",
+  "West Lynn"
+ ],
+ "geo": {
+  "latitude": 52.7538673,
+  "longitude": 0.3954774
+ },
+ "postcode_districts": [
+  "PE30",
+  "PE34"
+ ],
+ "postcode_meta": {
+  "PE34": {
+   "count": 2,
+   "sample": "PE34 3JH",
+   "admin": "King's Lynn and West Norfolk",
+   "via": "admin_district=king's lynn and west norfolk"
+  },
+  "PE30": {
+   "count": 7,
+   "sample": "PE30 3RY",
+   "admin": "King's Lynn and West Norfolk",
+   "via": "admin_district=king's lynn and west norfolk"
+  }
+ }
 }

@@ -1,194 +1,176 @@
 {
-  "location": "West Bridgford",
-  "neighborhoods": [
-    {
-      "name": "The Park",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "conservation area, high-value period properties"
-    },
-    {
-      "name": "Lady Bay",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "riverside location, affluent residential"
-    },
-    {
-      "name": "Wilford",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached",
-        "flat"
-      ],
-      "notes": "traditional working-class area transitioning to mixed tenure"
-    },
-    {
-      "name": "Hockley",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic industrial-residential mix"
-    },
-    {
-      "name": "Sneinton",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "dense Victorian terraces, period properties predominant"
-    },
-    {
-      "name": "St Ann's",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "conservation area, listed buildings"
-    },
-    {
-      "name": "The Meadows",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "high HMO and student let density"
-    },
-    {
-      "name": "Forest Fields",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "mixed tenure, student accommodation present"
-    },
-    {
-      "name": "Thorneywood",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban owner-occupied character"
-    },
-    {
-      "name": "Edwalton",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached"
-      ],
-      "notes": "newer residential development"
-    },
-    {
-      "name": "Colwick",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "riverside village character"
-    },
-    {
-      "name": "Compton Acres",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached"
-      ],
-      "notes": "recent residential estate"
-    },
-    {
-      "name": "Rainbow Quarter",
-      "era": "modern",
-      "types": [
-        "flat",
-        "new-build"
-      ],
-      "notes": "contemporary mixed-use development"
-    },
-    {
-      "name": "Bakersfield",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "historic suburban residential"
-    },
-    {
-      "name": "Silverdale",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "established suburban area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian terrace",
-      "semi-detached",
-      "post-war council estate",
-      "modern flat"
-    ],
-    "era": "mixed Victorian through modern, with significant post-war and contemporary infill",
-    "notable": "High conservation-area density in central wards with listed properties; substantial student HMO presence in Meadows and Forest Fields."
+ "location": "West Bridgford",
+ "neighborhoods": [
+  {
+   "name": "The Park",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "conservation area, high-value period properties"
   },
-  "locksmith_relevant": [
-    "Victorian terraces dominate central areas; period locks and sash windows require specialist knowledge and tools.",
-    "High student turnover in Meadows and Forest Fields creates frequent lock-outs and emergency access demand.",
-    "Conservation-listed properties restrict modern security fitting; locksmiths must understand period-appropriate approaches."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=West%20Bridgford",
-    "overpass": "OSM Overpass bbox query, 21 named areas",
-    "coords": {
-      "lat": 52.9310754,
-      "lon": -1.1256663
-    }
+  {
+   "name": "Lady Bay",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "riverside location, affluent residential"
   },
-  "generated_at": "2026-05-13T18:06:32.055Z",
-  "all_areas": [
-    "Abbey Park",
-    "Bakersfield",
-    "Colwick",
-    "Compton Acres",
-    "Edwalton",
-    "Forest Fields",
-    "Gamston",
-    "Hockley",
-    "Lace Market",
-    "Lady Bay",
-    "Rainbow Quarter",
-    "Ruddington",
-    "Sharphill",
-    "Silverdale",
-    "Sneinton",
-    "St Ann's",
-    "The Meadows",
-    "The Park",
-    "Thorneywood",
-    "Tollerton",
-    "Wilford"
-  ],
-  "geo": {
-    "latitude": 52.9310754,
-    "longitude": -1.1256663
+  {
+   "name": "Wilford",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached",
+    "flat"
+   ],
+   "notes": "traditional working-class area transitioning to mixed tenure"
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Hockley",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic industrial-residential mix"
+  },
+  {
+   "name": "Sneinton",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "dense Victorian terraces, period properties predominant"
+  },
+  {
+   "name": "St Ann's",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "conservation area, listed buildings"
+  },
+  {
+   "name": "The Meadows",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "high HMO and student let density"
+  },
+  {
+   "name": "Forest Fields",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "mixed tenure, student accommodation present"
+  },
+  {
+   "name": "Thorneywood",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban owner-occupied character"
+  },
+  {
+   "name": "Edwalton",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached"
+   ],
+   "notes": "newer residential development"
+  },
+  {
+   "name": "Colwick",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "riverside village character"
+  },
+  {
+   "name": "Compton Acres",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached"
+   ],
+   "notes": "recent residential estate"
+  },
+  {
+   "name": "Rainbow Quarter",
+   "era": "modern",
+   "types": [
+    "flat",
+    "new-build"
+   ],
+   "notes": "contemporary mixed-use development"
+  },
+  {
+   "name": "Bakersfield",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "historic suburban residential"
+  },
+  {
+   "name": "Silverdale",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "established suburban area"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian terrace",
+   "semi-detached",
+   "post-war council estate",
+   "modern flat"
+  ],
+  "era": "mixed Victorian through modern, with significant post-war and contemporary infill",
+  "notable": "High conservation-area density in central wards with listed properties; substantial student HMO presence in Meadows and Forest Fields."
+ },
+ "locksmith_relevant": [
+  "Victorian terraces dominate central areas; period locks and sash windows require specialist knowledge and tools.",
+  "High student turnover in Meadows and Forest Fields creates frequent lock-outs and emergency access demand.",
+  "Conservation-listed properties restrict modern security fitting; locksmiths must understand period-appropriate approaches."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=West%20Bridgford",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for West Bridgford, 3 named areas",
+  "coords": {
+   "lat": 52.9310754,
+   "lon": -1.1256663
+  }
+ },
+ "generated_at": "2026-05-13T18:06:32.055Z",
+ "all_areas": [
+  "Abbey Park",
+  "Compton Acres",
+  "Lady Bay"
+ ],
+ "geo": {
+  "latitude": 52.9310754,
+  "longitude": -1.1256663
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

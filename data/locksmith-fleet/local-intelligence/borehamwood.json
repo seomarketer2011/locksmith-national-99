@@ -1,152 +1,139 @@
 {
-  "location": "Borehamwood",
-  "neighborhoods": [
-    {
-      "name": "Elstree",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "historic film studio area; some period properties"
-    },
-    {
-      "name": "Broadfields",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Brockley Park",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "estate homes"
-      ]
-    },
-    {
-      "name": "Chalet Estate",
-      "era": "interwar",
-      "types": [
-        "chalet bungalow",
-        "detached"
-      ],
-      "notes": "distinctive bungalow-style properties"
-    },
-    {
-      "name": "Barnet Gate",
-      "era": "mixed",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Ridge",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Rowley Green",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Shenley",
-      "era": "post-war",
-      "types": [
-        "suburban detached"
-      ]
-    },
-    {
-      "name": "Stanmore",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "The Hale",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "apartment"
-      ]
-    },
-    {
-      "name": "Highwood Hill",
-      "era": "interwar",
-      "types": [
-        "detached",
-        "villa"
-      ]
-    },
-    {
-      "name": "Mill Hill Village",
-      "era": "Victorian",
-      "types": [
-        "detached",
-        "period property"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "detached",
-      "interwar bungalow"
-    ],
-    "era": "predominantly interwar and post-war suburban",
-    "notable": "Film industry heritage (Elstree); extensive 1930s–1950s residential expansion; mixed character from bungalow estates to modern infill"
+ "location": "Borehamwood",
+ "neighborhoods": [
+  {
+   "name": "Elstree",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "historic film studio area; some period properties"
   },
-  "locksmith_relevant": [
-    "Interwar properties dominate, often featuring original sash windows and period locks requiring specialist knowledge and careful handling.",
-    "Chalet Estate bungalows have distinctive layouts; locksmiths need familiarity with non-standard door frames and period hardware replacement.",
-    "Modern infill (The Hale) sits alongside older stock, creating demand for both contemporary smart locks and sympathetic restoration of period mechanisms."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Borehamwood",
-    "overpass": "OSM Overpass bbox query, 12 named areas",
-    "coords": {
-      "lat": 51.6555295,
-      "lon": -0.2764051
-    }
+  {
+   "name": "Broadfields",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "generated_at": "2026-05-13T18:08:40.847Z",
-  "all_areas": [
-    "Barnet Gate",
-    "Broadfields",
-    "Brockley Park",
-    "Chalet Estate",
-    "Elstree",
-    "Highwood Hill",
-    "Mill Hill Village",
-    "Ridge",
-    "Rowley Green",
-    "Shenley",
-    "Stanmore",
-    "The Hale"
-  ],
-  "geo": {
-    "latitude": 51.6555295,
-    "longitude": -0.2764051
+  {
+   "name": "Brockley Park",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "estate homes"
+   ]
   },
-  "postcode_districts": [
-    "WD6"
-  ],
-  "postcode_meta": {
-    "WD6": {
-      "count": 1,
-      "sample": "WD6 3HA",
-      "admin": "Hertsmere",
-      "via": "parish=elstree and borehamwood"
-    }
+  {
+   "name": "Chalet Estate",
+   "era": "interwar",
+   "types": [
+    "chalet bungalow",
+    "detached"
+   ],
+   "notes": "distinctive bungalow-style properties"
+  },
+  {
+   "name": "Barnet Gate",
+   "era": "mixed",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Ridge",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Rowley Green",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Shenley",
+   "era": "post-war",
+   "types": [
+    "suburban detached"
+   ]
+  },
+  {
+   "name": "Stanmore",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "The Hale",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "apartment"
+   ]
+  },
+  {
+   "name": "Highwood Hill",
+   "era": "interwar",
+   "types": [
+    "detached",
+    "villa"
+   ]
+  },
+  {
+   "name": "Mill Hill Village",
+   "era": "Victorian",
+   "types": [
+    "detached",
+    "period property"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "detached",
+   "interwar bungalow"
+  ],
+  "era": "predominantly interwar and post-war suburban",
+  "notable": "Film industry heritage (Elstree); extensive 1930s\u20131950s residential expansion; mixed character from bungalow estates to modern infill"
+ },
+ "locksmith_relevant": [
+  "Interwar properties dominate, often featuring original sash windows and period locks requiring specialist knowledge and careful handling.",
+  "Chalet Estate bungalows have distinctive layouts; locksmiths need familiarity with non-standard door frames and period hardware replacement.",
+  "Modern infill (The Hale) sits alongside older stock, creating demand for both contemporary smart locks and sympathetic restoration of period mechanisms."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Borehamwood",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Borehamwood, 0 named areas",
+  "coords": {
+   "lat": 51.6555295,
+   "lon": -0.2764051
+  }
+ },
+ "generated_at": "2026-05-13T18:08:40.847Z",
+ "all_areas": [],
+ "geo": {
+  "latitude": 51.6555295,
+  "longitude": -0.2764051
+ },
+ "postcode_districts": [
+  "WD6"
+ ],
+ "postcode_meta": {
+  "WD6": {
+   "count": 1,
+   "sample": "WD6 3HA",
+   "admin": "Hertsmere",
+   "via": "parish=elstree and borehamwood"
+  }
+ }
 }

@@ -1,56 +1,55 @@
 {
-  "location": "Ormskirk",
-  "neighborhoods": [
-    {
-      "name": "Aughton",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential suburb, family homes"
-    },
-    {
-      "name": "Town Green",
-      "era": "Victorian and Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "town centre conservation area, listed buildings"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian, Edwardian and post-war",
-    "notable": "Historic market town character with 19th-century core; significant student and HMO activity around Edge Hill University"
+ "location": "Ormskirk",
+ "neighborhoods": [
+  {
+   "name": "Aughton",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential suburb, family homes"
   },
-  "locksmith_relevant": [
-    "Town Green conservation area contains period sash windows and original locks requiring specialist repair and sympathetic replacement.",
-    "High student population and rental density drive demand for emergency callouts, rekeying, and multi-occupancy security upgrades.",
-    "Victorian and Edwardian terraces common across Ormskirk; many have original doors needing reinforcement or modern lock installation without damage."
+  {
+   "name": "Town Green",
+   "era": "Victorian and Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "town centre conservation area, listed buildings"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
   ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Ormskirk",
-    "overpass": "OSM Overpass bbox query, 2 named areas",
-    "coords": {
-      "lat": 53.5673603,
-      "lon": -2.8859603
-    }
-  },
-  "generated_at": "2026-05-13T18:09:28.425Z",
-  "all_areas": [
-    "Aughton",
-    "Town Green"
-  ],
-  "geo": {
-    "latitude": 53.5673603,
-    "longitude": -2.8859603
-  },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  "era": "mixed Victorian, Edwardian and post-war",
+  "notable": "Historic market town character with 19th-century core; significant student and HMO activity around Edge Hill University"
+ },
+ "locksmith_relevant": [
+  "Town Green conservation area contains period sash windows and original locks requiring specialist repair and sympathetic replacement.",
+  "High student population and rental density drive demand for emergency callouts, rekeying, and multi-occupancy security upgrades.",
+  "Victorian and Edwardian terraces common across Ormskirk; many have original doors needing reinforcement or modern lock installation without damage."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Ormskirk",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Ormskirk, 1 named areas",
+  "coords": {
+   "lat": 53.5673603,
+   "lon": -2.8859603
+  }
+ },
+ "generated_at": "2026-05-13T18:09:28.425Z",
+ "all_areas": [
+  "Town Green"
+ ],
+ "geo": {
+  "latitude": 53.5673603,
+  "longitude": -2.8859603
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

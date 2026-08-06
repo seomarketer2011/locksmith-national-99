@@ -1,311 +1,255 @@
 {
-  "meta.title": "Locksmith in Westhoughton | Emergency 24/7 Service",
-  "meta.description": "Trusted locksmith in Westhoughton serving Victorian terraces, council estates and modern homes. Emergency call-outs, lock repairs, re-keying and security upgrades.",
-  "home.hero-paragraph": "Westhoughton locksmith services specialise in professional locksmithing and lock services for residential and commercial properties. We handle emergency lockouts, lock changes, and lock repairs with rapid response times. Our DBS-checked technicians are available 24/7 and fully insured, using non-destructive entry methods whenever possible.",
-  "home.local-context-heading": "Locking Victorian terraces and council estates",
-  "home.local-context-body": "Westhoughton's housing stock—predominantly Victorian terraces in areas like Daisy Hill and interwar semis across Wingates—typically features original mortice locks and timber frames that require specialist attention. Properties from the cotton-mill era often retain period hardware that demands knowledge of heritage mechanisms. Wear on these traditional locks is common, and re-keying or replacement with period-appropriate fittings is frequent locksmith work in older residential areas.\n\nPost-war council estates introduce different requirements: standardised locks across multiple units mean bulk re-keying projects and communal door maintenance form regular commercial work. For landlords managing multiple properties or HMOs, understanding local authority regulations around emergency access and lock standards is essential. Council estate properties typically benefit from straightforward modern lock systems, but compliance and tenant access protocols should be confirmed with local housing standards before any work begins.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terrace in Lostock has the original mortice locks – can you help with period-appropriate replacements?",
-      "a": "Yes. Many of our clients in the historic mill-area terraces need specialist work on original mortice locks and timber frames. We source and fit period-appropriate replacements that respect conservation requirements while meeting modern security standards."
-    },
-    {
-      "q": "We manage a council estate property in Wingates – what's involved in bulk re-keying the communal doors?",
-      "a": "We handle standardised lock systems across interwar and post-war estates regularly. We'll survey your communal doors, quote for mass re-keying, and schedule work to minimise tenant disruption – all coordinated with your management schedule."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Westhoughton – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Westhoughton. Locked out? Key snapped? Fast response to terraced homes, semis & council estates. Urgent lock repairs.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Westhoughton combines expert locksmithing with rapid response to get you back inside when lockouts strike. Whether you're facing a snapped key, a door that won't lock, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Westhoughton's Victorian and interwar housing—concentrated in areas like Daisy Hill and Hag Fold—creates particular emergency locksmith demand. Timber-framed terraces and semi-detached properties from this era often feature original mortice locks prone to jamming or breaking under pressure. Weekend lockouts in these older residential streets are common, especially when wear on period mechanisms reaches critical point.\n\nMill-era properties and listed conservation areas near Lostock add a complication for emergency work. Forced entry or rapid lock replacement risks breaching heritage protections, requiring locksmiths to balance urgent access with preservation constraints. Post-war council estates across Hindley Green, by contrast, typically house standardised locks where swift replacement is straightforward, but high-turnover tenancy means communal entrances frequently need securing after emergency incidents.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terraced home in Hag Fold – how quickly can you attend?",
-      "a": "We're available 24/7 for emergency lockouts across Westhoughton, including Hag Fold. Our technicians specialise in period properties with original mortice locks and can safely access your home without damage, typically arriving within the hour during peak times."
-    },
-    {
-      "q": "My council estate flat in Hunger Hill has a broken communal door lock – can you help tonight?",
-      "a": "Yes – we handle emergency repairs to communal doors on post-war council estates across Westhoughton, including Hunger Hill. We can restore secure access and re-key standardised locks quickly, minimising disruption to residents."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Westhoughton | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Westhoughton? Fast non-destructive entry for Victorian terraces, semis & council homes. Lost keys or snapped? Call 01942 461068.",
-  "locked-out.hero-paragraph": "When you're locked out in Westhoughton, our locksmith experts in locksmithing can help you regain access quickly. Whether your keys have snapped, been lost, or locked inside, we specialise in non-destructive entry techniques that guarantee damage-free results. Our technicians arrive promptly to resolve your situation with minimal disruption.",
-  "locked-out.local-context-body": "Lockouts in Wingates and Daisy Hill often involve the interwar semis and Victorian terraces typical of those areas. Period properties with original timber frames and mortice locks present particular challenges during non-destructive entry; accessing these without damage requires specialist knowledge of older locking mechanisms and frame construction.\n\nMill-era properties near Lostock frequently carry listed-building status, meaning forced entry or damage during lockout resolution risks conservation compliance issues. Local locksmiths must verify heritage designations before proceeding, as period-appropriate methods and materials become mandatory rather than optional on protected properties.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Daisy Hill – will non-destructive entry damage my original mortice lock?",
-      "a": "No. Our non-destructive techniques are ideal for period properties; we can open original mortice locks without force, preserving the heritage fittings that define Daisy Hill's older residential character. We'll get you back inside safely and keep your lock intact."
-    },
-    {
-      "q": "My key snapped in the lock of my interwar semi in Hag Fold – how quickly can you help?",
-      "a": "We're local to Westhoughton and typically arrive within the hour. We'll remove the broken key non-destructively and have you inside without damaging the frame or lock—essential for maintaining the quality of Hag Fold's established suburban properties."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Westhoughton – Fast Local Service",
-  "broken-key-removal.meta.description": "Broken key removal in Westhoughton for Victorian mortice locks, uPVC & night latches. Professional extraction, 24/7 emergency service. Non-destructive methods.",
-  "broken-key-removal.hero-paragraph": "A broken key removal service in Westhoughton from our expert locksmiths combines precision locksmithing with specialist techniques. When keys snap or shear inside locks—whether mortice locks or euro cylinders—we employ non-destructive extraction methods using professional-grade key extractor tools. Our technicians work carefully to retrieve broken fragments without damaging your lock mechanism.",
-  "broken-key-removal.local-context-body": "Terraced properties in Daisy Hill and across Westhoughton frequently present broken key scenarios in original mortice locks, where metal fatigue in older cylinders makes extraction complex. Victorian-era locks are particularly prone to key snapping under pressure, requiring careful removal techniques that preserve the lock mechanism itself rather than forcing replacement of heritage hardware.\n\nMill-era and listed properties near conservation areas demand extraction methods that avoid damage to period metalwork and surrounding timber frames. Standard lever extraction tools risk scarring original lock casings, making specialist knowledge of Victorian and interwar lock construction essential for this work in Westhoughton.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Lostock need specialist broken key removal?",
-      "a": "Victorian mortice locks in Lostock's mill-era terraces use deeper, more delicate pin mechanisms than modern euro cylinders. Extracting a snapped key requires precision tools and experience to avoid damaging the lock body—especially important in heritage properties where period-appropriate replacement is costly."
-    },
-    {
-      "q": "Can you remove a broken key from the standardised locks in Hunger Hill council properties?",
-      "a": "Yes—post-war council estates like Hunger Hill use consistent lock types, which means we can often extract broken keys quickly without dismantling. We carry the right extraction tools for these common mechanisms and can usually complete the job on the same day."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Westhoughton – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Westhoughton. Post-break-in lock and door repairs for Victorian terraces, council estates and semis. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair services in Westhoughton from our expert locksmith team combine skilled locksmithing with proven security upgrades. Following forced entry or break-in damage, we restore your property's integrity using insurance-compliant methods including door reinforcement and TS007 anti-snap cylinders. Your home's protection is our priority.",
-  "burglar-repair-service.local-context-body": "Post-break-in repairs in Westhoughton require understanding of the area's mixed housing legacy. Victorian terraces in Lostock and interwar semis across Wingates often feature original timber frames and period joinery that sustain damage during forced entry. Insurance-standard reinstatement demands careful matching of door materials and hardware to original specifications, particularly where heritage considerations apply or where listed-building consent may be needed.\n\nLock and door repair work is further complicated by the prevalence of mortice locks in older properties alongside standardised cylinder mechanisms in post-war council stock. Specialists must assess whether damage extends beyond the lock mechanism to the frame itself—common in terraced properties where jambs are shallow. Documentation for insurance claims requires photographic evidence and detailed repair specifications, especially critical for listed conservation areas where replacement standards differ substantially from modern installations.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle break-in repairs on Victorian terrace properties in Lostock and Daisy Hill?",
-      "a": "Yes. Victorian terraces in those areas often have original mortice locks and timber frames that require specialist attention after forced entry. We source period-appropriate replacements and repair frames to insurance standards."
-    },
-    {
-      "q": "Can you help with emergency lock replacement on council estate properties after a break-in?",
-      "a": "Absolutely. Post-war council estates across Westhoughton have standardised lock systems, which we can rapidly reinstate to insurable condition and re-key same-day if needed."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Westhoughton – Fast Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Westhoughton for Victorian terraces and council estates. Same-day response to secure smashed doors and windows after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Westhoughton from our experienced locksmith team specialises in locksmithing solutions for properties requiring immediate protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises with robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures rapid response, with all work completed to insurance-compliant standards.",
-  "emergency-boarding-up.local-context-body": "Hag Fold's interwar semis and the terraced properties throughout Westhoughton frequently require emergency boarding after break-ins or storm damage. The older timber frames and original joinery in these properties demand careful handling during boarding to avoid further structural compromise, particularly where sash windows or period doors are damaged.\n\nMany properties near Lostock retain heritage significance, meaning boarding materials and methods must comply with conservation guidelines if the building is listed. Standard plywood solutions may not be acceptable; temporary boarding often requires coordination with local conservation officers before permanent repairs proceed.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up Victorian terrace windows in Lostock the same way as modern properties?",
-      "a": "No—Victorian terraces in Lostock often have period timber frames that need careful boarding to avoid damage to listed features. We use heritage-compatible materials and techniques to secure your property while preserving original joinery where possible."
-    },
-    {
-      "q": "How quickly can you board up a broken communal door on a Hunger Hill council estate?",
-      "a": "We typically arrive within 1–2 hours for emergency boarding calls in Hunger Hill and can secure standardised council estate doors rapidly, minimising access risk for all residents while you arrange permanent repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Westhoughton – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Westhoughton for Victorian terraces, council estates & semis. Fast professional replacement after key loss or moving home.",
-  "lock-changes.hero-paragraph": "Lock changes in Westhoughton by our experienced locksmith team combine modern locksmithing techniques with certified security standards. Whether you're moving home, have lost keys, or upgrading your property's security, we install TS007 anti-snap cylinders and BS3621 mortice locks to ensure your doors meet current protection requirements.",
-  "lock-changes.local-context-body": "Lock changes in Westhoughton address a diverse housing stock shaped by over a century of building. Victorian terraces around Lostock often retain original mortice locks that may require specialist attention during replacement, whilst interwar semis in Wingates typically feature simpler mechanisms suited to swift upgrades. New occupants moving into these properties frequently request full lock changes for security peace of mind, a service that demands familiarity with both period fittings and modern security standards.\n\nHeritage considerations complicate lock changes in mill-era properties near Lostock, where listed-building status may restrict replacement options to period-appropriate designs. Even non-listed Victorian and interwar properties often feature timber frames that need careful handling to avoid damage during lock removal and installation. Local tradespeople must assess whether existing lock housings can accommodate modern cylinders or require full casing replacement, adding time and cost to straightforward jobs.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Daisy Hill – do I need specialist help changing the locks?",
-      "a": "Yes, Victorian terraces often have original mortice locks fitted into timber frames that require careful handling. Our locksmiths are experienced with period properties and can replace them safely while preserving the integrity of your door."
-    },
-    {
-      "q": "We're managing a council estate property in Hindley Green and need to re-key multiple doors – can you help?",
-      "a": "Absolutely. Post-war council estates typically have standardised lock systems, making bulk re-keying straightforward and cost-effective. We handle commercial re-keying work regularly across Westhoughton's estate properties."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Westhoughton – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Lock repairs in Westhoughton for Victorian terraces, interwar semis & council estates. Mortice, multipoint & night latch fixes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Our experienced locksmith team specialises in lock repairs across Westhoughton, delivering expert locksmithing solutions for residential and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn smoothly, we diagnose the issue and perform precise repairs. From mortice maintenance to multipoint servicing, all work comes with manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Hindley Green's mix of Victorian terraces, interwar semis, and post-war council housing means lock repairs address multiple mechanical systems. Original mortice locks in older terraces often require specialist attention when worn gearboxes or internal components fail, while standardised multipoint locks on newer semis respond to more straightforward servicing. Council estate properties similarly benefit from targeted repairs that extend lock life without full replacement.\n\nMill-era properties and listed buildings near Lostock demand period-appropriate repairs; replacements must match heritage specifications rather than adopt modern equivalents. Timber-frame doors—common across Westhoughton's Victorian stock—present wear patterns that affect lock alignment and internal pin mechanisms, making diagnosis of gearbox or night-latch failure essential before repair or renewal.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian mortice locks in Daisy Hill need specialist repair?",
-      "a": "Victorian terraces in Daisy Hill often have original mortice locks with worn gearboxes and internal components that standard repairs can't fix. Our locksmiths specialise in dismantling and restoring these period mechanisms rather than forcing replacement, preserving your home's character."
-    },
-    {
-      "q": "How often should multipoint locks on Wingates semis be serviced?",
-      "a": "Interwar semis in Wingates typically have multipoint locks that benefit from annual maintenance to prevent gearbox wear and misalignment. We recommend a service check every 12–18 months to catch sticking or failed points before they compromise security."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Westhoughton – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Westhoughton for Victorian terraces & semis. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Westhoughton by our qualified locksmith specialists combines modern locksmithing expertise with proven security. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware to meet insurance requirements, or installing BS3621 mortice locks, we ensure every installation meets current security standards and functions reliably.",
-  "door-lock-installation.local-context-body": "Westhoughton's Victorian terraces in Daisy Hill and interwar semis across the town frequently require door lock installation to meet modern security standards. Original mortice locks in these properties often lack the durability and anti-tampering features of contemporary BS3621 fittings, making professional installation essential for both front and rear doors where timber frames remain original.\n\nListed properties and conservation-area terraces near Lostock present a specific consideration: replacement locks must balance security upgrades with period authenticity. Installers need to assess whether TS007 anti-snap cylinders or heritage-appropriate mortice locks are suitable under local planning constraints, and timber-frame condition often influences whether frame reinforcement is necessary before fitting modern multipoint systems.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you fit mortice locks suitable for Victorian terraces in Daisy Hill and similar period properties?",
-      "a": "Yes. Victorian terraces in Daisy Hill often have original timber frames and traditional mortice preparations. We install BS3621-certified mortice locks that match period specifications and work with your existing door structure, ensuring both security and heritage compatibility."
-    },
-    {
-      "q": "Can you replace locks on council estate communal doors in Westhoughton?",
-      "a": "Absolutely. Post-war council estates across Westhoughton require robust, standardised locks on shared entrance doors. We supply and fit TS007 anti-snap cylinders and multipoint systems designed for high-traffic communal access, with bulk re-keying available if needed."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Westhoughton – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Westhoughton for Victorian terraces, council estates & modern homes. Expert like-for-like swaps & security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Westhoughton locksmith specialises in door lock replacement and the technical aspects of locksmithing. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Our certified locksmiths ensure your property receives the security it deserves.",
-  "door-lock-replacement.local-context-body": "Wingates' interwar semis and the broader terraced stock throughout Westhoughton often retain original mortice locks fitted during construction. Door lock replacement here typically involves either like-for-like reinstatement of period mechanisms or upgrading to modern security standards while maintaining timber frame integrity. These older properties frequently need specialist handling to avoid frame damage during removal and installation.\n\nMill-era properties near Lostock and conservation areas require period-appropriate lock replacements that satisfy listed-building consent requirements. Standard commercial locks may not be acceptable; heritage-specification mortice locks and traditional hardware are often mandated. Pre-replacement assessment of conservation status is essential to ensure compliance and avoid enforcement action from local planning authorities.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Daisy Hill with an original mortice lock that's stuck – can you replace it with a modern lock?",
-      "a": "Yes, we specialise in replacing period locks in Victorian properties across Westhoughton. We can fit a modern mortice lock that matches your timber frame and security needs, or source a heritage-appropriate replacement if you're in a conservation area."
-    },
-    {
-      "q": "Our council estate property in Hindley Green has a standard lock that won't turn – how quickly can you do a replacement?",
-      "a": "We can typically replace standardised locks on post-war council properties the same day. Call 01942 461068 to book; most council estate lock swaps take under an hour."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Westhoughton – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Westhoughton for Victorian terraces, council estates & semis. uPVC alignment, composite door realignment, handle repair & more.",
-  "door-repairs.hero-paragraph": "Door repairs in Westhoughton require skilled locksmith expertise in locksmithing techniques to restore proper function. Dropped or catching doors are common issues we address through hinge adjustment and frame alignment. Whether your uPVC, composite, or timber door won't close properly, our technicians diagnose the root cause and implement lasting solutions.",
-  "door-repairs.local-context-body": "Westhoughton's terraced housing stock, particularly in Hindley Green, frequently experiences door settlement and misalignment due to the age and ground movement common in Victorian and interwar properties. Semi-detached homes in the same area often show dropped doors and worn hinges, issues compounded by decades of use and the original timber frames that characterise these dwellings. Door repair work in these neighbourhoods typically involves realignment of frames, hinge replacement, and adjustment of latch mechanisms.\n\nMill-era properties and listed terraces near Lostock require attention to heritage considerations when repairs involve hardware or frame replacement. Many older doors feature mortice locks and original ironwork that must be preserved or matched period-appropriately rather than substituted with modern equivalents. Post-war council estates in Hunger Hill, by contrast, tend to have standardised doors and locks that allow straightforward repair and replacement protocols, though communal entrance doors often require reinforced hinges and heavy-duty hardware due to higher traffic volumes.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Lostock often need realignment?",
-      "a": "Victorian timber frames naturally settle and shift over time, causing doors to drop or bind against frames. Our specialists are experienced in adjusting and rehinging period doors common in Lostock's mill-era terraces, restoring smooth operation without compromising original joinery."
-    },
-    {
-      "q": "What door repair work is typical for Wingates council estate properties?",
-      "a": "Interwar and post-war semis in Wingates frequently develop dropped doors and worn hardware from regular use. We handle standardised lock adjustments, hinge repairs, and communal entrance door maintenance that keeps these properties secure and functional."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Westhoughton – Same-Day",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Westhoughton. Espagnolette & shootbolt locks fixed on Victorian terraces, semis & modern homes. Expert service.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Westhoughton by our experienced locksmith combines expert locksmithing knowledge with precision work on espagnolette mechanisms and shootbolt locks. Whether your windows won't lock due to broken handles or failed mechanisms, we restore security with insurance-compliant fitting. Our technicians diagnose and resolve issues efficiently, ensuring your home remains protected.",
-  "window-lock-repair-replacement.local-context-body": "Victorian and interwar properties across Hunger Hill and beyond feature timber sash and casement windows with period espagnolette and shootbolt mechanisms that require specialist attention. These original locks often jam or fail after decades of use, particularly in terraced housing where window maintenance has been deferred. Replacement must balance functional security with period authenticity on properties built before standardised modern hardware became common.\n\nListed properties and conservation-area terraces near Lostock present additional constraints: replacements must match original lock styles and materials to comply with heritage designations. Council estates from the post-war expansion typically have standardised window furniture that allows straightforward like-for-like repair, whereas older properties demand careful assessment of timber condition and frame integrity before any new lock installation proceeds.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Daisy Hill often need window lock replacement?",
-      "a": "Victorian timber frames are prone to warping and settling, which puts strain on original espagnolette and shootbolt mechanisms. We specialise in diagnosing wear in period frames and fitting robust modern replacements that work reliably with older sash and casement windows."
-    },
-    {
-      "q": "Do the council estates in Hindley Green require bulk window lock servicing?",
-      "a": "Yes—many post-war council properties share similar window specifications, making them candidates for planned maintenance programmes. We offer efficient re-keying and repair of communal windows and can advise on cost-effective bulk replacement schedules for housing associations and managing agents."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Westhoughton – Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Westhoughton for Victorian terraces and modern homes. Secure anchoring, insurance documentation, wall and floor safes.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Westhoughton by our locksmith specialists combines expert locksmithing with secure positioning. Whether you're installing a new safe or need one certified for insurance approval, our technicians ensure proper wall mounting and anti-leverage positioning to meet Eurograde and AiS approved standards. We'll secure your valuables correctly from the start.",
-  "safe-installation.local-context-body": "Properties across Lostock and Wingates range from Victorian terraces to interwar semis, many with solid brick construction that accommodates wall-mounted safes without structural compromise. Older terraced homes in particular benefit from the depth and stability of period masonry, making floor and wall installation straightforward where listed-building consent is not required. Freestanding safes suit properties where permanent fixing is impractical, though anchoring to joists or concrete remains the standard for insurance compliance.\n\nHeritage properties near the mill conservation areas may require sympathetic safe placement to preserve original features; insurance documentation must specify period-appropriate installation methods. Standardised council-estate semis from the post-war decades typically feature uniform wall composition, simplifying the surveying and quotation process, though anchoring specifications vary depending on render type and cavity depth. Proper fixing verification is essential across all property ages before handover.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Daisy Hill need specialist safe installation?",
-      "a": "Victorian terraces have solid brick walls and original timber frames that require careful drilling and anchoring to avoid structural damage. Our installers assess wall composition and use appropriate fixings to ensure your safe is secure without compromising the property's integrity."
-    },
-    {
-      "q": "Do council estate properties in Westhoughton need insurance documentation for safe installation?",
-      "a": "Yes—most insurers require a professional installation certificate and photographic evidence of anchoring, especially for post-war council properties where standardised construction allows us to work quickly and provide full documentation for your claim eligibility."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Westhoughton | Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Westhoughton for Victorian terraces and modern homes. Lost keys, combinations, lockouts. Non-destructive methods.",
-  "safe-opening.hero-paragraph": "Our Westhoughton locksmith specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encounter a jammed mechanism, our technicians use combination dial manipulation and other precision approaches to regain access without damage to your safe.",
-  "safe-opening.local-context-body": "Properties across Hindley Green—from Victorian terraces to post-war council estates—frequently house safes installed decades ago, often without documented combinations or keys. Domestic safes in these older properties typically require non-destructive opening when access is lost, particularly where sentimental or financial contents are at stake and the safe itself holds value.\n\nLostock's heritage terraces and conservation areas present additional considerations for safe opening work. Listed-building status or period-property designations may restrict drilling or manipulation methods, requiring locksmiths to prioritise techniques that preserve original fixtures and comply with local heritage conservation requirements. Assessment of the safe's construction and age informs the most appropriate non-destructive approach.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Lostock with an old safe built into the wall—the previous owner lost the combination. Can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties like your Victorian terrace. Our technicians use professional manipulation and decoding methods to access heritage safes without harming the surrounding masonry or period features."
-    },
-    {
-      "q": "We manage a block of council flats in Hunger Hill and need to open a communal safe—we've lost the key. How quickly can you attend?",
-      "a": "We can typically attend same-day for commercial lockouts on council estate properties across Westhoughton. Call 01942 461068 to confirm availability, and we'll open the safe non-destructively so you can resume access to communal areas without delay."
-    }
-  ],
-  "home.areas-covered": [
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Hunger Hill",
-    "Lostock",
-    "Wingates"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Hag Fold",
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "locked-out.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Wingates",
-    "Hunger Hill",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Lostock",
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Daisy Hill",
-    "Hunger Hill",
-    "Wingates",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "lock-changes.areas-covered": [
-    "Hindley Green",
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Lostock"
-  ],
-  "lock-repairs.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "door-repairs.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "safe-installation.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ],
-  "safe-opening.areas-covered": [
-    "Hunger Hill",
-    "Wingates",
-    "Daisy Hill",
-    "Hag Fold",
-    "Hindley Green",
-    "Lostock"
-  ]
+ "meta.title": "Locksmith in Westhoughton | Emergency 24/7 Service",
+ "meta.description": "Trusted locksmith in Westhoughton serving Victorian terraces, council estates and modern homes. Emergency call-outs, lock repairs, re-keying and security upgrades.",
+ "home.hero-paragraph": "Westhoughton locksmith services specialise in professional locksmithing and lock services for residential and commercial properties. We handle emergency lockouts, lock changes, and lock repairs with rapid response times. Our DBS-checked technicians are available 24/7 and fully insured, using non-destructive entry methods whenever possible.",
+ "home.local-context-heading": "Locking Victorian terraces and council estates",
+ "home.local-context-body": "Westhoughton's housing stock\u2014predominantly Victorian terraces in areas like Daisy Hill and interwar semis across Wingates\u2014typically features original mortice locks and timber frames that require specialist attention. Properties from the cotton-mill era often retain period hardware that demands knowledge of heritage mechanisms. Wear on these traditional locks is common, and re-keying or replacement with period-appropriate fittings is frequent locksmith work in older residential areas.\n\nPost-war council estates introduce different requirements: standardised locks across multiple units mean bulk re-keying projects and communal door maintenance form regular commercial work. For landlords managing multiple properties or HMOs, understanding local authority regulations around emergency access and lock standards is essential. Council estate properties typically benefit from straightforward modern lock systems, but compliance and tenant access protocols should be confirmed with local housing standards before any work begins.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terrace in Lostock has the original mortice locks \u2013 can you help with period-appropriate replacements?",
+   "a": "Yes. Many of our clients in the historic mill-area terraces need specialist work on original mortice locks and timber frames. We source and fit period-appropriate replacements that respect conservation requirements while meeting modern security standards."
+  },
+  {
+   "q": "We manage a council estate property in Wingates \u2013 what's involved in bulk re-keying the communal doors?",
+   "a": "We handle standardised lock systems across interwar and post-war estates regularly. We'll survey your communal doors, quote for mass re-keying, and schedule work to minimise tenant disruption \u2013 all coordinated with your management schedule."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Westhoughton \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Westhoughton. Locked out? Key snapped? Fast response to terraced homes, semis & council estates. Urgent lock repairs.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Westhoughton combines expert locksmithing with rapid response to get you back inside when lockouts strike. Whether you're facing a snapped key, a door that won't lock, or need post-break-in repairs, our DBS-checked technicians arrive 24/7 using non-destructive entry methods to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Westhoughton's Victorian and interwar housing\u2014concentrated in areas like Daisy Hill and Hag Fold\u2014creates particular emergency locksmith demand. Timber-framed terraces and semi-detached properties from this era often feature original mortice locks prone to jamming or breaking under pressure. Weekend lockouts in these older residential streets are common, especially when wear on period mechanisms reaches critical point.\n\nMill-era properties and listed conservation areas near Lostock add a complication for emergency work. Forced entry or rapid lock replacement risks breaching heritage protections, requiring locksmiths to balance urgent access with preservation constraints. Post-war council estates across Hindley Green, by contrast, typically house standardised locks where swift replacement is straightforward, but high-turnover tenancy means communal entrances frequently need securing after emergency incidents.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terraced home in Hag Fold \u2013 how quickly can you attend?",
+   "a": "We're available 24/7 for emergency lockouts across Westhoughton, including Hag Fold. Our technicians specialise in period properties with original mortice locks and can safely access your home without damage, typically arriving within the hour during peak times."
+  },
+  {
+   "q": "My council estate flat in Hunger Hill has a broken communal door lock \u2013 can you help tonight?",
+   "a": "Yes \u2013 we handle emergency repairs to communal doors on post-war council estates across Westhoughton, including Hunger Hill. We can restore secure access and re-key standardised locks quickly, minimising disruption to residents."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Westhoughton | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Westhoughton? Fast non-destructive entry for Victorian terraces, semis & council homes. Lost keys or snapped? Call 01942 461068.",
+ "locked-out.hero-paragraph": "When you're locked out in Westhoughton, our locksmith experts in locksmithing can help you regain access quickly. Whether your keys have snapped, been lost, or locked inside, we specialise in non-destructive entry techniques that guarantee damage-free results. Our technicians arrive promptly to resolve your situation with minimal disruption.",
+ "locked-out.local-context-body": "Lockouts in Wingates and Daisy Hill often involve the interwar semis and Victorian terraces typical of those areas. Period properties with original timber frames and mortice locks present particular challenges during non-destructive entry; accessing these without damage requires specialist knowledge of older locking mechanisms and frame construction.\n\nMill-era properties near Lostock frequently carry listed-building status, meaning forced entry or damage during lockout resolution risks conservation compliance issues. Local locksmiths must verify heritage designations before proceeding, as period-appropriate methods and materials become mandatory rather than optional on protected properties.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Daisy Hill \u2013 will non-destructive entry damage my original mortice lock?",
+   "a": "No. Our non-destructive techniques are ideal for period properties; we can open original mortice locks without force, preserving the heritage fittings that define Daisy Hill's older residential character. We'll get you back inside safely and keep your lock intact."
+  },
+  {
+   "q": "My key snapped in the lock of my interwar semi in Hag Fold \u2013 how quickly can you help?",
+   "a": "We're local to Westhoughton and typically arrive within the hour. We'll remove the broken key non-destructively and have you inside without damaging the frame or lock\u2014essential for maintaining the quality of Hag Fold's established suburban properties."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Westhoughton \u2013 Fast Local Service",
+ "broken-key-removal.meta.description": "Broken key removal in Westhoughton for Victorian mortice locks, uPVC & night latches. Professional extraction, 24/7 emergency service. Non-destructive methods.",
+ "broken-key-removal.hero-paragraph": "A broken key removal service in Westhoughton from our expert locksmiths combines precision locksmithing with specialist techniques. When keys snap or shear inside locks\u2014whether mortice locks or euro cylinders\u2014we employ non-destructive extraction methods using professional-grade key extractor tools. Our technicians work carefully to retrieve broken fragments without damaging your lock mechanism.",
+ "broken-key-removal.local-context-body": "Terraced properties in Daisy Hill and across Westhoughton frequently present broken key scenarios in original mortice locks, where metal fatigue in older cylinders makes extraction complex. Victorian-era locks are particularly prone to key snapping under pressure, requiring careful removal techniques that preserve the lock mechanism itself rather than forcing replacement of heritage hardware.\n\nMill-era and listed properties near conservation areas demand extraction methods that avoid damage to period metalwork and surrounding timber frames. Standard lever extraction tools risk scarring original lock casings, making specialist knowledge of Victorian and interwar lock construction essential for this work in Westhoughton.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Lostock need specialist broken key removal?",
+   "a": "Victorian mortice locks in Lostock's mill-era terraces use deeper, more delicate pin mechanisms than modern euro cylinders. Extracting a snapped key requires precision tools and experience to avoid damaging the lock body\u2014especially important in heritage properties where period-appropriate replacement is costly."
+  },
+  {
+   "q": "Can you remove a broken key from the standardised locks in Hunger Hill council properties?",
+   "a": "Yes\u2014post-war council estates like Hunger Hill use consistent lock types, which means we can often extract broken keys quickly without dismantling. We carry the right extraction tools for these common mechanisms and can usually complete the job on the same day."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Westhoughton \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Westhoughton. Post-break-in lock and door repairs for Victorian terraces, council estates and semis. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair services in Westhoughton from our expert locksmith team combine skilled locksmithing with proven security upgrades. Following forced entry or break-in damage, we restore your property's integrity using insurance-compliant methods including door reinforcement and TS007 anti-snap cylinders. Your home's protection is our priority.",
+ "burglar-repair-service.local-context-body": "Post-break-in repairs in Westhoughton require understanding of the area's mixed housing legacy. Victorian terraces in Lostock and interwar semis across Wingates often feature original timber frames and period joinery that sustain damage during forced entry. Insurance-standard reinstatement demands careful matching of door materials and hardware to original specifications, particularly where heritage considerations apply or where listed-building consent may be needed.\n\nLock and door repair work is further complicated by the prevalence of mortice locks in older properties alongside standardised cylinder mechanisms in post-war council stock. Specialists must assess whether damage extends beyond the lock mechanism to the frame itself\u2014common in terraced properties where jambs are shallow. Documentation for insurance claims requires photographic evidence and detailed repair specifications, especially critical for listed conservation areas where replacement standards differ substantially from modern installations.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle break-in repairs on Victorian terrace properties in Lostock and Daisy Hill?",
+   "a": "Yes. Victorian terraces in those areas often have original mortice locks and timber frames that require specialist attention after forced entry. We source period-appropriate replacements and repair frames to insurance standards."
+  },
+  {
+   "q": "Can you help with emergency lock replacement on council estate properties after a break-in?",
+   "a": "Absolutely. Post-war council estates across Westhoughton have standardised lock systems, which we can rapidly reinstate to insurable condition and re-key same-day if needed."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Westhoughton \u2013 Fast Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Westhoughton for Victorian terraces and council estates. Same-day response to secure smashed doors and windows after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Westhoughton from our experienced locksmith team specialises in locksmithing solutions for properties requiring immediate protection. Whether you're dealing with smashed windows or damaged doors, we secure your premises with robust plywood boards and weatherproof temporary seals. Our 24/7 service ensures rapid response, with all work completed to insurance-compliant standards.",
+ "emergency-boarding-up.local-context-body": "Hag Fold's interwar semis and the terraced properties throughout Westhoughton frequently require emergency boarding after break-ins or storm damage. The older timber frames and original joinery in these properties demand careful handling during boarding to avoid further structural compromise, particularly where sash windows or period doors are damaged.\n\nMany properties near Lostock retain heritage significance, meaning boarding materials and methods must comply with conservation guidelines if the building is listed. Standard plywood solutions may not be acceptable; temporary boarding often requires coordination with local conservation officers before permanent repairs proceed.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up Victorian terrace windows in Lostock the same way as modern properties?",
+   "a": "No\u2014Victorian terraces in Lostock often have period timber frames that need careful boarding to avoid damage to listed features. We use heritage-compatible materials and techniques to secure your property while preserving original joinery where possible."
+  },
+  {
+   "q": "How quickly can you board up a broken communal door on a Hunger Hill council estate?",
+   "a": "We typically arrive within 1\u20132 hours for emergency boarding calls in Hunger Hill and can secure standardised council estate doors rapidly, minimising access risk for all residents while you arrange permanent repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Westhoughton \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Westhoughton for Victorian terraces, council estates & semis. Fast professional replacement after key loss or moving home.",
+ "lock-changes.hero-paragraph": "Lock changes in Westhoughton by our experienced locksmith team combine modern locksmithing techniques with certified security standards. Whether you're moving home, have lost keys, or upgrading your property's security, we install TS007 anti-snap cylinders and BS3621 mortice locks to ensure your doors meet current protection requirements.",
+ "lock-changes.local-context-body": "Lock changes in Westhoughton address a diverse housing stock shaped by over a century of building. Victorian terraces around Lostock often retain original mortice locks that may require specialist attention during replacement, whilst interwar semis in Wingates typically feature simpler mechanisms suited to swift upgrades. New occupants moving into these properties frequently request full lock changes for security peace of mind, a service that demands familiarity with both period fittings and modern security standards.\n\nHeritage considerations complicate lock changes in mill-era properties near Lostock, where listed-building status may restrict replacement options to period-appropriate designs. Even non-listed Victorian and interwar properties often feature timber frames that need careful handling to avoid damage during lock removal and installation. Local tradespeople must assess whether existing lock housings can accommodate modern cylinders or require full casing replacement, adding time and cost to straightforward jobs.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Daisy Hill \u2013 do I need specialist help changing the locks?",
+   "a": "Yes, Victorian terraces often have original mortice locks fitted into timber frames that require careful handling. Our locksmiths are experienced with period properties and can replace them safely while preserving the integrity of your door."
+  },
+  {
+   "q": "We're managing a council estate property in Hindley Green and need to re-key multiple doors \u2013 can you help?",
+   "a": "Absolutely. Post-war council estates typically have standardised lock systems, making bulk re-keying straightforward and cost-effective. We handle commercial re-keying work regularly across Westhoughton's estate properties."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Westhoughton \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Lock repairs in Westhoughton for Victorian terraces, interwar semis & council estates. Mortice, multipoint & night latch fixes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Our experienced locksmith team specialises in lock repairs across Westhoughton, delivering expert locksmithing solutions for residential and commercial properties. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn smoothly, we diagnose the issue and perform precise repairs. From mortice maintenance to multipoint servicing, all work comes with manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Hindley Green's mix of Victorian terraces, interwar semis, and post-war council housing means lock repairs address multiple mechanical systems. Original mortice locks in older terraces often require specialist attention when worn gearboxes or internal components fail, while standardised multipoint locks on newer semis respond to more straightforward servicing. Council estate properties similarly benefit from targeted repairs that extend lock life without full replacement.\n\nMill-era properties and listed buildings near Lostock demand period-appropriate repairs; replacements must match heritage specifications rather than adopt modern equivalents. Timber-frame doors\u2014common across Westhoughton's Victorian stock\u2014present wear patterns that affect lock alignment and internal pin mechanisms, making diagnosis of gearbox or night-latch failure essential before repair or renewal.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian mortice locks in Daisy Hill need specialist repair?",
+   "a": "Victorian terraces in Daisy Hill often have original mortice locks with worn gearboxes and internal components that standard repairs can't fix. Our locksmiths specialise in dismantling and restoring these period mechanisms rather than forcing replacement, preserving your home's character."
+  },
+  {
+   "q": "How often should multipoint locks on Wingates semis be serviced?",
+   "a": "Interwar semis in Wingates typically have multipoint locks that benefit from annual maintenance to prevent gearbox wear and misalignment. We recommend a service check every 12\u201318 months to catch sticking or failed points before they compromise security."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Westhoughton \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Westhoughton for Victorian terraces & semis. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Westhoughton by our qualified locksmith specialists combines modern locksmithing expertise with proven security. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware to meet insurance requirements, or installing BS3621 mortice locks, we ensure every installation meets current security standards and functions reliably.",
+ "door-lock-installation.local-context-body": "Westhoughton's Victorian terraces in Daisy Hill and interwar semis across the town frequently require door lock installation to meet modern security standards. Original mortice locks in these properties often lack the durability and anti-tampering features of contemporary BS3621 fittings, making professional installation essential for both front and rear doors where timber frames remain original.\n\nListed properties and conservation-area terraces near Lostock present a specific consideration: replacement locks must balance security upgrades with period authenticity. Installers need to assess whether TS007 anti-snap cylinders or heritage-appropriate mortice locks are suitable under local planning constraints, and timber-frame condition often influences whether frame reinforcement is necessary before fitting modern multipoint systems.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you fit mortice locks suitable for Victorian terraces in Daisy Hill and similar period properties?",
+   "a": "Yes. Victorian terraces in Daisy Hill often have original timber frames and traditional mortice preparations. We install BS3621-certified mortice locks that match period specifications and work with your existing door structure, ensuring both security and heritage compatibility."
+  },
+  {
+   "q": "Can you replace locks on council estate communal doors in Westhoughton?",
+   "a": "Absolutely. Post-war council estates across Westhoughton require robust, standardised locks on shared entrance doors. We supply and fit TS007 anti-snap cylinders and multipoint systems designed for high-traffic communal access, with bulk re-keying available if needed."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Westhoughton \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Westhoughton for Victorian terraces, council estates & modern homes. Expert like-for-like swaps & security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Westhoughton locksmith specialises in door lock replacement and the technical aspects of locksmithing. Whether you've experienced a failed lock, lost keys, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Our certified locksmiths ensure your property receives the security it deserves.",
+ "door-lock-replacement.local-context-body": "Wingates' interwar semis and the broader terraced stock throughout Westhoughton often retain original mortice locks fitted during construction. Door lock replacement here typically involves either like-for-like reinstatement of period mechanisms or upgrading to modern security standards while maintaining timber frame integrity. These older properties frequently need specialist handling to avoid frame damage during removal and installation.\n\nMill-era properties near Lostock and conservation areas require period-appropriate lock replacements that satisfy listed-building consent requirements. Standard commercial locks may not be acceptable; heritage-specification mortice locks and traditional hardware are often mandated. Pre-replacement assessment of conservation status is essential to ensure compliance and avoid enforcement action from local planning authorities.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Daisy Hill with an original mortice lock that's stuck \u2013 can you replace it with a modern lock?",
+   "a": "Yes, we specialise in replacing period locks in Victorian properties across Westhoughton. We can fit a modern mortice lock that matches your timber frame and security needs, or source a heritage-appropriate replacement if you're in a conservation area."
+  },
+  {
+   "q": "Our council estate property in Hindley Green has a standard lock that won't turn \u2013 how quickly can you do a replacement?",
+   "a": "We can typically replace standardised locks on post-war council properties the same day. Call 01942 461068 to book; most council estate lock swaps take under an hour."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Westhoughton \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Westhoughton for Victorian terraces, council estates & semis. uPVC alignment, composite door realignment, handle repair & more.",
+ "door-repairs.hero-paragraph": "Door repairs in Westhoughton require skilled locksmith expertise in locksmithing techniques to restore proper function. Dropped or catching doors are common issues we address through hinge adjustment and frame alignment. Whether your uPVC, composite, or timber door won't close properly, our technicians diagnose the root cause and implement lasting solutions.",
+ "door-repairs.local-context-body": "Westhoughton's terraced housing stock, particularly in Hindley Green, frequently experiences door settlement and misalignment due to the age and ground movement common in Victorian and interwar properties. Semi-detached homes in the same area often show dropped doors and worn hinges, issues compounded by decades of use and the original timber frames that characterise these dwellings. Door repair work in these neighbourhoods typically involves realignment of frames, hinge replacement, and adjustment of latch mechanisms.\n\nMill-era properties and listed terraces near Lostock require attention to heritage considerations when repairs involve hardware or frame replacement. Many older doors feature mortice locks and original ironwork that must be preserved or matched period-appropriately rather than substituted with modern equivalents. Post-war council estates in Hunger Hill, by contrast, tend to have standardised doors and locks that allow straightforward repair and replacement protocols, though communal entrance doors often require reinforced hinges and heavy-duty hardware due to higher traffic volumes.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Lostock often need realignment?",
+   "a": "Victorian timber frames naturally settle and shift over time, causing doors to drop or bind against frames. Our specialists are experienced in adjusting and rehinging period doors common in Lostock's mill-era terraces, restoring smooth operation without compromising original joinery."
+  },
+  {
+   "q": "What door repair work is typical for Wingates council estate properties?",
+   "a": "Interwar and post-war semis in Wingates frequently develop dropped doors and worn hardware from regular use. We handle standardised lock adjustments, hinge repairs, and communal entrance door maintenance that keeps these properties secure and functional."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Westhoughton \u2013 Same-Day",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Westhoughton. Espagnolette & shootbolt locks fixed on Victorian terraces, semis & modern homes. Expert service.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Westhoughton by our experienced locksmith combines expert locksmithing knowledge with precision work on espagnolette mechanisms and shootbolt locks. Whether your windows won't lock due to broken handles or failed mechanisms, we restore security with insurance-compliant fitting. Our technicians diagnose and resolve issues efficiently, ensuring your home remains protected.",
+ "window-lock-repair-replacement.local-context-body": "Victorian and interwar properties across Hunger Hill and beyond feature timber sash and casement windows with period espagnolette and shootbolt mechanisms that require specialist attention. These original locks often jam or fail after decades of use, particularly in terraced housing where window maintenance has been deferred. Replacement must balance functional security with period authenticity on properties built before standardised modern hardware became common.\n\nListed properties and conservation-area terraces near Lostock present additional constraints: replacements must match original lock styles and materials to comply with heritage designations. Council estates from the post-war expansion typically have standardised window furniture that allows straightforward like-for-like repair, whereas older properties demand careful assessment of timber condition and frame integrity before any new lock installation proceeds.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Daisy Hill often need window lock replacement?",
+   "a": "Victorian timber frames are prone to warping and settling, which puts strain on original espagnolette and shootbolt mechanisms. We specialise in diagnosing wear in period frames and fitting robust modern replacements that work reliably with older sash and casement windows."
+  },
+  {
+   "q": "Do the council estates in Hindley Green require bulk window lock servicing?",
+   "a": "Yes\u2014many post-war council properties share similar window specifications, making them candidates for planned maintenance programmes. We offer efficient re-keying and repair of communal windows and can advise on cost-effective bulk replacement schedules for housing associations and managing agents."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Westhoughton \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Westhoughton for Victorian terraces and modern homes. Secure anchoring, insurance documentation, wall and floor safes.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Westhoughton by our locksmith specialists combines expert locksmithing with secure positioning. Whether you're installing a new safe or need one certified for insurance approval, our technicians ensure proper wall mounting and anti-leverage positioning to meet Eurograde and AiS approved standards. We'll secure your valuables correctly from the start.",
+ "safe-installation.local-context-body": "Properties across Lostock and Wingates range from Victorian terraces to interwar semis, many with solid brick construction that accommodates wall-mounted safes without structural compromise. Older terraced homes in particular benefit from the depth and stability of period masonry, making floor and wall installation straightforward where listed-building consent is not required. Freestanding safes suit properties where permanent fixing is impractical, though anchoring to joists or concrete remains the standard for insurance compliance.\n\nHeritage properties near the mill conservation areas may require sympathetic safe placement to preserve original features; insurance documentation must specify period-appropriate installation methods. Standardised council-estate semis from the post-war decades typically feature uniform wall composition, simplifying the surveying and quotation process, though anchoring specifications vary depending on render type and cavity depth. Proper fixing verification is essential across all property ages before handover.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Daisy Hill need specialist safe installation?",
+   "a": "Victorian terraces have solid brick walls and original timber frames that require careful drilling and anchoring to avoid structural damage. Our installers assess wall composition and use appropriate fixings to ensure your safe is secure without compromising the property's integrity."
+  },
+  {
+   "q": "Do council estate properties in Westhoughton need insurance documentation for safe installation?",
+   "a": "Yes\u2014most insurers require a professional installation certificate and photographic evidence of anchoring, especially for post-war council properties where standardised construction allows us to work quickly and provide full documentation for your claim eligibility."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Westhoughton | Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Westhoughton for Victorian terraces and modern homes. Lost keys, combinations, lockouts. Non-destructive methods.",
+ "safe-opening.hero-paragraph": "Our Westhoughton locksmith specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or encounter a jammed mechanism, our technicians use combination dial manipulation and other precision approaches to regain access without damage to your safe.",
+ "safe-opening.local-context-body": "Properties across Hindley Green\u2014from Victorian terraces to post-war council estates\u2014frequently house safes installed decades ago, often without documented combinations or keys. Domestic safes in these older properties typically require non-destructive opening when access is lost, particularly where sentimental or financial contents are at stake and the safe itself holds value.\n\nLostock's heritage terraces and conservation areas present additional considerations for safe opening work. Listed-building status or period-property designations may restrict drilling or manipulation methods, requiring locksmiths to prioritise techniques that preserve original fixtures and comply with local heritage conservation requirements. Assessment of the safe's construction and age informs the most appropriate non-destructive approach.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Lostock with an old safe built into the wall\u2014the previous owner lost the combination. Can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties like your Victorian terrace. Our technicians use professional manipulation and decoding methods to access heritage safes without harming the surrounding masonry or period features."
+  },
+  {
+   "q": "We manage a block of council flats in Hunger Hill and need to open a communal safe\u2014we've lost the key. How quickly can you attend?",
+   "a": "We can typically attend same-day for commercial lockouts on council estate properties across Westhoughton. Call 01942 461068 to confirm availability, and we'll open the safe non-destructively so you can resume access to communal areas without delay."
+  }
+ ],
+ "home.areas-covered": [
+  "Daisy Hill",
+  "Wingates"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "locked-out.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Daisy Hill",
+  "Wingates"
+ ],
+ "lock-changes.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "lock-repairs.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "door-repairs.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "safe-installation.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ],
+ "safe-opening.areas-covered": [
+  "Wingates",
+  "Daisy Hill"
+ ]
 }

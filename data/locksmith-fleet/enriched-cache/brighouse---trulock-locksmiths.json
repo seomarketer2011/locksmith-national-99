@@ -1,362 +1,297 @@
 {
-  "meta.title": "Locksmith Brighouse | Local Locksmithing Service 24/7",
-  "meta.description": "Brighouse locksmith serving Victorian terraces, listed properties and modern homes. Emergency call-outs, repairs, key-cutting and security upgrades 24/7.",
-  "home.hero-paragraph": "Brighouse locksmith services specialising in locksmithing and emergency lock help. We handle lockouts, lock changes and security upgrades with non-destructive entry techniques. Our DBS-checked locksmiths operate 24/7, fully insured, ensuring rapid response to domestic and commercial emergencies across the area.",
-  "home.local-context-heading": "Locksmith work across Brighouse",
-  "home.local-context-body": "Brighouse's Victorian terraces and mill-worker housing, particularly around Fixby and Bradley, feature original sash windows and period locks that require specialist maintenance. These heritage properties often have non-standard mechanisms unsuited to modern key-cutting equipment. Semi-detached properties from the post-war expansion typically have simpler cylinder locks, though newer estates increasingly incorporate smart lock systems demanding technical expertise across multiple platforms.\n\nListed properties throughout the area face restrictions on lock replacement and security upgrades due to conservation requirements. Landlords managing HMOs should verify that fire safety regulations align with lock specification—particularly on escape routes and communal doors. Many Victorian terraces have original wooden frames that complicate standard lock installation, necessitating careful assessment before work begins.",
-  "home.local-faqs": [
-    {
-      "q": "We have a Victorian terrace in Upper Edge with original sash windows and period locks – can you service these?",
-      "a": "Yes, we specialise in servicing period locks on Victorian and Edwardian properties throughout Brighouse, including original sash window mechanisms and traditional mortice locks. We understand listed property restrictions and can advise on compliant security upgrades without compromising your home's heritage value."
-    },
-    {
-      "q": "Our property in Rastrick is listed – what are our options for upgrading the front door lock?",
-      "a": "Listed buildings require careful lock selection to maintain period authenticity. We can install sympathetic upgrades or modern locks that work within conservation guidelines, and we're experienced in sourcing solutions that satisfy both heritage requirements and your security needs."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Brighouse – Victorian Terraces 24/7",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Brighouse. Locked out of Victorian terraces or modern homes? Fast non-destructive entry, key repairs, urgent lock fixes. Always available.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith team in Brighouse specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths respond 24/7. We use non-destructive entry techniques wherever possible to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Brighouse's emergency locksmith demand reflects its mixed housing stock. Victorian terraces in Woodhouse frequently present urgent access issues involving period sash locks and original ironwork, while modern detached properties in Norwood Park typically involve cylinder locks and contemporary door mechanisms. Lockouts and snapped keys occur across both heritage and newer properties, though the remedies differ substantially depending on the building's age and construction.\n\nListed building status affects response protocols across much of Brighouse's Victorian mill-village core. Many period properties have restricted options for lock replacement or modification without planning consent, meaning emergency repairs must often preserve original fittings or use sympathetic alternatives. Post-break-in security upgrades in heritage properties require particular care to avoid damage to listed features, making knowledge of both traditional and modern lock systems essential for this area.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Woodhouse – can you help with original sash window locks?",
-      "a": "Yes. Many Victorian terraces in Woodhouse have period locks on sash windows that require specialist handling; we carry period-appropriate tools and can gain emergency access without damaging listed features. Call us on 01484 945033 for immediate assistance."
-    },
-    {
-      "q": "My door won't lock after a break-in attempt – what's the fastest fix in Hartshead Moor?",
-      "a": "We attend post-break-in lockouts across Hartshead Moor's semi-detached properties within the hour, 24/7. We can assess cylinder lock damage, replace or repair on-site, and fit temporary or upgraded security while you arrange insurance claims."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Brighouse Victorian Terraces? Fast Entry",
-  "locked-out.meta.description": "Locked out in Brighouse? Non-destructive entry service for Victorian terraces, modern homes & businesses. Fast 24/7 emergency locksmith response.",
-  "locked-out.hero-paragraph": "When you're locked out in Brighouse, our locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free methods ensure your property remains secure and intact.",
-  "locked-out.local-context-body": "Locked-out situations in Brighouse vary significantly by neighborhood and property age. Victorian terraces in Hipperholme, with their original period joinery and sash windows, present distinct non-destructive entry challenges compared to post-war semi-detached properties in Rastrick. Period properties often feature traditional mortice locks and heritage-specification doors that require careful handling to avoid damage, while modern suburban properties typically allow faster, more straightforward cylinder-lock access.\n\nListed-building status affects a substantial proportion of Brighouse's housing stock, particularly in the historic mill villages. Emergency entry to protected properties may require adherence to conservation guidelines, meaning standard forced-entry techniques cannot be used. Locksmiths working in these areas must possess specialist knowledge of period mechanisms and non-invasive access methods to comply with local planning restrictions and preserve original fabric.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Hove Edge with a period sash window – can you get in without damaging the frame?",
-      "a": "Yes, we specialise in non-destructive entry for period properties like your Victorian terrace. We'll assess the sash window and door mechanisms carefully to avoid harm to original features, which is especially important in heritage areas."
-    },
-    {
-      "q": "My key snapped in the lock of my semi-detached in Brackenhall – how quickly can you help?",
-      "a": "We can typically attend within the hour and extract the broken key without forcing the lock or door. For standard cylinder locks found in post-war semis like yours, non-destructive removal is usually straightforward."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Brighouse | Victorian Sash Locks",
-  "broken-key-removal.meta.description": "Broken key removal in Brighouse Victorian terraces & modern homes. Professional extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. 24/7 service.",
-  "broken-key-removal.hero-paragraph": "Our Brighouse locksmith specialises in broken key removal using expert locksmithing techniques. Whether you're dealing with a snapped key or one stuck firmly in the lock, we employ non-destructive methods with precision key extractor tools. We handle everything from standard locks to euro cylinders, restoring access without damage to your door or lock mechanism.",
-  "broken-key-removal.local-context-body": "Brighouse's stock of Victorian terraces and stone cottages—particularly prevalent in areas like Hipperholme—often feature original mortice locks and night latches that have accumulated decades of wear. Keys snapping in these period mechanisms is a routine callout, especially where residents attempt forced extraction or apply excessive leverage to stiff locks. Semi-detached properties in Scheoles and surrounding post-war suburbs present a different profile, typically fitted with modern euro cylinders prone to breakage when keys are inserted at poor angles or strike internal obstructions.\n\nListed-building status affects a significant portion of Brighouse's Victorian mill-village properties, creating restrictions on lock replacement and repair methods. Locksmiths must often preserve original hardware rather than substitute modern alternatives, requiring careful key removal without damage to the surrounding mechanism. Dense terrace rows also mean limited access space and tight door frames, which complicates extraction work and demands specialised tools to avoid collateral damage to architraves and door edges.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash locks in Hove Edge properties break keys so often?",
-      "a": "Victorian mortice locks feature tighter tolerances and harder steel than modern cylinders, and decades of use can cause internal wear that catches and snaps keys. We specialise in extracting broken keys from these heritage locks without damaging the mechanism—essential for listed properties where lock replacement requires planning consent."
-    },
-    {
-      "q": "Can you remove a broken key from a euro cylinder in a Brackenhall semi-detached without replacing the whole lock?",
-      "a": "Yes—most post-war semi-detached homes like those in Brackenhall use standard euro cylinders, which we can often drill and extract the key from, then re-pin or swap the cylinder depending on damage. This keeps costs down and avoids unnecessary full-lock replacement."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Brighouse – Fast Response",
-  "burglar-repair-service.meta.description": "Emergency burglar repair in Brighouse. Post-break-in lock changes, door repairs & security upgrades for Victorian terraces & modern homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Brighouse locksmiths specialise in burglar repair and locksmithing services to restore security after break-ins and forced entry. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to prevent future incidents. Our door reinforcement techniques address damage from attempted intrusions, ensuring your home meets current security standards.",
-  "burglar-repair-service.local-context-body": "Brighouse's mixed housing stock creates varied burglar repair demands. Victorian terraces in Woodhouse typically feature original timber frames and period locks that require sympathetic reinstatement following break-ins, while semi-detached properties in Hartshead Moor present more straightforward cylinder lock replacements. Modern detached homes in Norwood Park increasingly demand smart lock integration alongside traditional security upgrades, reflecting different vulnerability profiles across the town's residential areas.\n\nListed building status affects significant portions of Brighouse's Victorian housing, restricting lock and door repair options to period-appropriate materials and mechanisms. Insurance reinstatement specifications often require matching original hardware on protected properties, extending timelines and requiring access to specialist components. Post-war semi-detached areas allow faster standardised repairs, but dense terrace clustering means shared wall vulnerabilities and neighbour disturbance considerations during emergency work.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Are you experienced with repairing Victorian sash window locks after a break-in in properties like those in Fixby?",
-      "a": "Yes. Many Victorian terraces in Fixby have original sash locks that require specialist knowledge to repair properly. We understand listed property restrictions and can reinstate security to insurance standards without compromising period features."
-    },
-    {
-      "q": "Can you repair modern cylinder locks and doors quickly on new-build properties in Norwood Park?",
-      "a": "Absolutely. Our emergency burglar repair service handles standard cylinder locks and composite doors common in modern estates. We can typically attend the same day and complete full reinstatement, including door frame repairs and lock replacement, to your insurer's requirements."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Brighouse | Victorian Terraces",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Brighouse for Victorian terraces and modern homes. Same-day door and window boarding after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Brighouse from our experienced locksmiths combines skilled locksmithing with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, we arrive 24/7 to secure your premises. Our team uses robust plywood boards and security screws to create an insurance-compliant temporary seal, minimising further damage whilst you arrange permanent repairs.",
-  "emergency-boarding-up.local-context-body": "Brighouse's dense Victorian terraces in areas like Fixby present particular boarding-up challenges due to period sash windows and original timber frames that require careful handling after break-ins or weather damage. Semi-detached properties across Bradley, by contrast, typically feature standard glazing and door frames that allow faster temporary securing, though the volume of properties means call-out demand can spike significantly during storm seasons.\n\nListed building status affects a substantial proportion of Brighouse's older stock, particularly in mill village settlements. Emergency boarding work on protected properties often requires liaison with local conservation officers before permanent repairs can proceed, adding coordination layers that temporary secure measures must accommodate. The prevalence of traditional stone mullions and period glazing bars means boarding solutions need to avoid further damage to irreplaceable frames.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a Victorian sash window in Fixby after a break-in?",
-      "a": "We typically arrive within 1–2 hours for emergency calls in Fixby and can board up period sash windows while preserving the frame to avoid damage to listed features. Our team uses materials that won't compromise your property's heritage status."
-    },
-    {
-      "q": "Do you board up listed properties in Bailiff Bridge, and what restrictions apply?",
-      "a": "Yes, we're experienced with listed mill-village terraces in Bailiff Bridge. We use sympathetic boarding methods that comply with local conservation requirements and can advise on temporary vs. permanent solutions that won't breach planning restrictions."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Brighouse | Victorian Terrace Specialists",
-  "lock-changes.meta.description": "Lock changes in Brighouse for Victorian terraces, modern homes & listed properties. Fast professional service for lost keys, moving house & security upgrades.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Brighouse from our experienced locksmiths combine expert locksmithing with modern security standards. Whether you're moving home, changing tenancy, or upgrading your security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively. Our technicians ensure every installation meets current UK safety requirements.",
-  "lock-changes.local-context-body": "Properties across Brackenhall and the surrounding post-war estates typically feature standard cylinder locks on uPVC doors, making straightforward lock replacement straightforward for most householders. Conversely, period properties in Hove Edge retain original wooden doors and vintage lock mechanisms that demand specialist attention during changes, particularly where key compatibility or period authenticity matters to owners.\n\nListed-building status affects a significant portion of Brighouse's housing stock, especially the Victorian terraces and converted mill properties. Lock changes on these properties may require conservation officer approval before work proceeds, and locksmiths must often source period-appropriate hardware or work within strict aesthetic guidelines rather than simply installing modern replacements.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Fixby – do I need specialist lock replacement?",
-      "a": "Many of Fixby's original Victorian terraces have period sash windows and heritage locks that require careful handling. We assess whether your locks are listed or protected and can source compatible replacements that meet conservation standards while improving security."
-    },
-    {
-      "q": "What's the quickest lock change option for a modern semi-detached in Bradley?",
-      "a": "Post-war semi-detached properties in Bradley typically have standard cylinder locks that we can replace quickly – usually within the same visit. If you're upgrading to a smart lock system, we can advise on compatibility and installation on newer builds."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Brighouse | Victorian Sash & Period Locks",
-  "lock-repairs.meta.description": "Lock repair specialists in Brighouse. Fix multipoint, mortice & cylinder locks in Victorian terraces & modern homes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Our experienced Brighouse locksmith specialises in lock repairs and locksmithing services for residential and commercial properties. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, we diagnose the issue and carry out precise repairs. From mortice maintenance to multipoint servicing, our work comes backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Victorian terraces in Hove Edge and similar areas frequently retain original mortice locks and night latches that require specialist repair rather than replacement. These period mechanisms are common across Brighouse's heritage housing stock, where multipoint locks on sash-windowed properties often develop wear in the gearbox components. Standard cylinder lock repairs dominate the post-war semi-detached properties in Brackenhall, where door mechanisms typically fail under regular domestic use patterns.\n\nListed property status across mill village heritage zones restricts lock repair options significantly. Many Victorian properties cannot accommodate modern lock systems without consent, making repair of existing mechanisms—particularly mortice and night latch components—the only viable option. Period-appropriate servicing knowledge is therefore essential for work in these conservation-sensitive areas, where material and mechanism compatibility directly affects approval and compliance.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Rastrick need specialist lock repair?",
-      "a": "Many properties in Rastrick feature original period locks and sash fasteners that require knowledge of traditional mechanisms; our locksmiths understand how to repair these heritage fittings without damaging the frame or compromising listed-building restrictions."
-    },
-    {
-      "q": "My multipoint lock has failed on my terraced home in Hipperholme – can you repair it?",
-      "a": "Yes; multipoint lock failures are common in Hipperholme's stone-built terraces due to age and settlement. We carry parts for standard gearbox and mortice repairs and can usually restore function without replacing the entire mechanism."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Brighouse – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Brighouse & Rastrick. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted to Victorian terraces and modern homes.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Brighouse by our experienced locksmith combines modern locksmithing expertise with trusted security solutions. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, we ensure every fitting meets current security standards. Our technicians deliver reliable, compliant installations tailored to your property's needs.",
-  "door-lock-installation.local-context-body": "Door lock installation in Brighouse addresses the security needs of a diverse housing stock. Victorian terraces in Fixby and similar mill-worker housing often retain original timber frames and period joinery, requiring careful fitting of modern BS3621 mortice locks without compromising structural integrity. Semi-detached properties across Bradley, built during post-war expansion, typically feature standard timber or composite doors suited to straightforward TS007 anti-snap cylinder installation.\n\nListed properties present a common constraint in Brighouse's heritage mill villages. Many Victorian terraces carry listed status, meaning door lock installation must comply with conservation officer approval before work begins; visible modern hardware may be rejected in favour of period-appropriate mechanisms or internal-only fitting solutions. Multipoint lock systems, increasingly standard on modern doors, are readily accommodated in newer suburban properties but require specialist assessment on period properties to avoid damage to original frames.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Hipperholme with original sash windows and period locks – can you fit a modern BS3621 mortice lock without damaging the property?",
-      "a": "Yes, we specialise in fitting BS3621 mortice locks to period properties across Hipperholme and similar Victorian terraces. Our locksmiths understand heritage considerations and will ensure the installation complements your original joinery while meeting current security standards."
-    },
-    {
-      "q": "My semi-detached in Scheoles has a standard cylinder lock – what's the advantage of upgrading to a TS007 anti-snap cylinder?",
-      "a": "TS007 anti-snap cylinders provide protection against a common attack method on standard locks, particularly important in Scheoles' working-class residential areas. We'll fit one that's fully compatible with your existing door hardware and deadlock setup."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Brighouse | Victorian Terrace Specialists",
-  "door-lock-replacement.meta.description": "Door lock replacement in Brighouse & Rastrick. Like-for-like swaps or security upgrades for Victorian terraces, semis & modern doors. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Brighouse locksmith specialises in door lock replacement and expert locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift, professional service. We fit BS3621-approved mechanisms and offer anti-snap upgrades to enhance your property's security. Like-for-like cylinder swaps ensure seamless installation.",
-  "door-lock-replacement.local-context-body": "Brighouse's property mix demands flexible door lock replacement approaches. Victorian terraces in Bailiff Bridge often retain original hardware requiring careful removal and period-appropriate reinstatement, while modern estates like Norwood Park feature standard cylinder locks suited to straightforward swaps. Post-war semi-detached properties typically need conventional mortice or rim locks, creating a broad spectrum of replacement scenarios across the town.\n\nListed building status affects many Victorian properties in the mill village areas, restricting lock choices to designs that preserve external appearance and character. Owners of heritage terraces must balance security upgrades with conservation requirements, meaning locksmiths need knowledge of listed-building guidelines before recommending or installing replacements that alter visible door furniture.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Upper Edge with an original sash window lock that's broken. Can you replace it with a modern equivalent?",
-      "a": "Yes, we can replace your period lock with a modern cylinder lock that fits the existing hardware, or source a sympathetic reproduction if your property is listed. We'll assess whether planning consent is needed before any work begins."
-    },
-    {
-      "q": "We've just moved to a new-build in Rastrick and want to upgrade the standard cylinder locks to smart locks. What's involved?",
-      "a": "We can replace your cylinder locks with smart locks, keypads, or integrated systems designed for modern doors. Our team will ensure the new lock fits your door's existing frame and mechanism without structural changes."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Brighouse | Victorian & Modern Doors",
-  "door-repairs.meta.description": "Door repairs in Brighouse for Victorian terraces, semi-detached homes & modern properties. Alignment, hardware fixes & realignment services.",
-  "door-repairs.hero-paragraph": "Brighouse locksmiths specialise in comprehensive door repairs that blend practical locksmithing expertise with precision engineering. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, our technicians diagnose the root cause. We perform hinge adjustment, frame alignment, and multipoint realignment to restore smooth operation and weatherproofing.",
-  "door-repairs.local-context-body": "Brighouse's interwar semi-detached properties in Bonegate and post-war suburban expansion areas typically feature standard timber or composite doors with conventional hanging hardware. These homes rarely present the access complications of older terraced stock, making door repair and realignment straightforward in most cases. However, Victorian terraces throughout the town—particularly in Woodhouse—often contain original period doors and vintage hardware that demand careful handling during repair work to preserve character and avoid damaging historic fabric.\n\nListed building status affects a significant proportion of Brighouse's older properties, creating practical constraints on door repair methods and material replacement. Many Victorian and mill-village properties cannot accommodate modern door furniture or hinges without conservation officer approval, which extends timescales and restricts the standard solutions available. Surveyors and property owners must verify listing status before commissioning repairs, as non-compliant modifications can result in enforcement action and costly reinstatement.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Victorian terraces around Hove Edge often need realignment?",
-      "a": "Victorian properties in Hove Edge commonly settle unevenly over time, causing door frames to shift and drop. Our specialists understand period construction and can realign doors without forcing frames or damaging original joinery."
-    },
-    {
-      "q": "Can you repair doors with original period hardware in listed properties?",
-      "a": "Yes—many homes in Brighouse's historic mill villages are listed, restricting modern replacements. We repair and restore original locks, hinges and hardware to meet conservation requirements while restoring full function."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair Brighouse | Victorian Sash Locks",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Brighouse. Expert fixes for sash windows, espagnolette & shootbolt locks. Serving Victorian terraces & Hove Edge.",
-  "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Brighouse from our experienced locksmith specialists in locksmithing. We address windows that won't lock and broken handles with precision, servicing espagnolette mechanisms and shootbolt locks. Our fittings meet insurance-compliant standards, ensuring your home security is restored to the highest specification.",
-  "window-lock-repair-replacement.local-context-body": "Woodhouse's Victorian terraces feature original sash windows with period espagnolette and shootbolt mechanisms that frequently require specialist attention. These heritage locks are integral to the character of listed properties and demand careful repair or sympathetic replacement. Modern semi-detached homes in Hartshead Moor typically have standard casement window locks with simpler shootbolt systems, which generally service more straightforwardly but still benefit from preventative maintenance.\n\nListed building consent requirements in Brighouse's mill village heritage areas constrain window lock replacement options significantly. Period-appropriate mechanisms or exact-match components are often mandatory, ruling out modern alternatives and requiring knowledge of historical lock specifications. Non-listed interwar properties in areas like Bonegate allow greater flexibility, though original locks may still be embedded in wooden frames in ways that complicate removal and installation.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Fixby need specialist espagnolette lock repair?",
-      "a": "Many original sash windows in Fixby's mill-worker terraces use period-specific espagnolette and shootbolt locks that differ from modern equivalents. We're experienced in servicing and replacing these heritage locks while maintaining the aesthetic integrity of listed properties."
-    },
-    {
-      "q": "Can you repair window locks on listed properties in Bailiff Bridge?",
-      "a": "Yes—Bailiff Bridge's Victorian mill village has numerous listed terraces with restricted modification rights. We source period-appropriate replacement locks and advise on compliance, ensuring repairs meet conservation requirements without compromising security."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Brighouse | Victorian Terrace Safes",
-  "safe-installation.meta.description": "Safe installation in Brighouse for Victorian terraces & modern homes. Secure anchoring, insurance documentation & expert positioning. Wall, floor & freestanding.",
-  "safe-installation.hero-paragraph": "Professional safe installation from a Brighouse locksmith specialising in locksmithing ensures your valuables remain secure. Whether you're protecting new safes or meeting insurance approval requirements, our technicians use floor anchoring and wall mounting to position units safely. All work meets Eurograde and AiS approved standards for complete peace of mind.",
-  "safe-installation.local-context-body": "Brighouse's mix of Victorian terrace housing in areas like Hove Edge and newer semi-detached properties across Brackenhall creates distinct safe installation requirements. Period terraces often have solid stone or brick walls suitable for wall-mounted safes, while post-war semis typically feature cavity walls requiring reinforced fixings and specialist anchoring methods to meet insurance specifications.\n\nListed building status affects many Victorian properties in the town's heritage mill villages, restricting visible external modifications and drilling into original fabric. Installation work must account for these conservation constraints, and floor-mounted safes often become the preferred option where wall penetration is prohibited. Insurance providers frequently require documented evidence of proper anchoring and installation standards, particularly in older stock where structural variability demands site-specific assessment.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed Victorian properties in Brighouse's mill villages?",
-      "a": "Yes. We're experienced with listed property restrictions and can advise on discreet wall and floor safe installations that comply with conservation requirements common in Brighouse's historic terraces. We'll ensure all work and documentation meets insurance and listed building standards."
-    },
-    {
-      "q": "Can you anchor a safe properly in the newer semi-detached homes in Clifton?",
-      "a": "Absolutely. Modern post-war and interwar properties like those in Clifton have standard construction that's ideal for secure safe fitting—we'll anchor wall, floor, or freestanding models with full insurance-grade documentation for your peace of mind."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Brighouse – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Brighouse for lost keys, combinations & lockouts. Non-destructive methods for Victorian terraces, modern homes & businesses.",
-  "safe-opening.hero-paragraph": "Our Brighouse locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods wherever possible. Whether you've lost your combination, misplaced keys, or experienced a jammed mechanism, we can access your safe efficiently. Our technicians employ combination dial manipulation and other professional approaches to restore access without unnecessary damage.",
-  "safe-opening.local-context-body": "Rastrick's Victorian semi-detached and villa properties frequently contain period safes installed during the late 19th and early 20th centuries, often integrated into fireplaces, walls or studies. Lost combinations and misplaced keys are common in properties of this age, where original documentation rarely survives. Non-destructive opening techniques preserve both the safe's integrity and the property's character—a critical consideration in conservation areas.\n\nHipperholme's listed mill-village properties present additional constraints; any safe opening work must comply with heritage restrictions that limit drilling, cutting or structural alteration. Access to safes in listed stone cottages often requires working around period masonry and ironwork that cannot be damaged. Local safe-opening work therefore demands familiarity with heritage protocols and alternative techniques suited to protected properties.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've lost the combination to a safe in my Victorian terrace in Fixby – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties throughout Brighouse. Our technicians use specialist manipulation and electronic bypass techniques to access your safe without drilling or forcing, preserving both the safe and your listed property's integrity."
-    },
-    {
-      "q": "What's the best way to handle a locked safe in a post-war semi in Bradley if I've lost the key?",
-      "a": "We can open modern safes non-destructively using decoding or picking methods, which typically takes less time than older heritage models. Call us on 01484 945033 with your safe's make and model, and we'll confirm a timeline and price before we start."
-    }
-  ],
-  "home.areas-covered": [
-    "Bailiff Bridge",
-    "Bonegate",
-    "Brackenhall",
-    "Bradley",
-    "Clifton",
-    "Cowcliffe",
-    "Deighton",
-    "Fartown Green",
-    "Field Lane",
-    "Fixby",
-    "Hartshead Moor",
-    "Hartshead Moor Top",
-    "Hipperholme",
-    "Hove Edge",
-    "Lane Head",
-    "Lower Shelf",
-    "Netheroyd Hill",
-    "Norwood Park",
-    "Prince Royd",
-    "Rastrick",
-    "Riddings",
-    "Scholes",
-    "Sheepridge",
-    "Slead Syke",
-    "Toothill",
-    "Top of Cowcliffe",
-    "Upper Edge",
-    "Waring Green",
-    "Woodhouse",
-    "Woodhouse Hill",
-    "Wyke"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Riddings",
-    "Scholes",
-    "Fixby",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate"
-  ],
-  "locked-out.areas-covered": [
-    "Brackenhall",
-    "Bailiff Bridge",
-    "Toothill",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Slead Syke",
-    "Lane Head",
-    "Hipperholme",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Rastrick",
-    "Hartshead Moor Top",
-    "Bradley",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Upper Edge",
-    "Bonegate",
-    "Scheoles"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Prince Royd",
-    "Top of Cowcliffe",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ],
-  "lock-changes.areas-covered": [
-    "Hove Edge",
-    "Wyke",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ],
-  "lock-repairs.areas-covered": [
-    "Bonegate",
-    "Clifton",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bradley",
-    "Scheoles"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Fartown Green",
-    "Lower Shelf",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Upper Edge",
-    "Cowcliffe",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Bonegate",
-    "Bradley",
-    "Scheoles"
-  ],
-  "door-repairs.areas-covered": [
-    "Norwood Park",
-    "Field Lane",
-    "Hartshead Moor",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley",
-    "Scheoles"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Woodhouse",
-    "Waring Green",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ],
-  "safe-installation.areas-covered": [
-    "Woodhouse Hill",
-    "Deighton",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ],
-  "safe-opening.areas-covered": [
-    "Netheroyd Hill",
-    "Sheepridge",
-    "Hartshead Moor",
-    "Norwood Park",
-    "Rastrick",
-    "Upper Edge",
-    "Bonegate",
-    "Bradley"
-  ]
+ "meta.title": "Locksmith Brighouse | Local Locksmithing Service 24/7",
+ "meta.description": "Brighouse locksmith serving Victorian terraces, listed properties and modern homes. Emergency call-outs, repairs, key-cutting and security upgrades 24/7.",
+ "home.hero-paragraph": "Brighouse locksmith services specialising in locksmithing and emergency lock help. We handle lockouts, lock changes and security upgrades with non-destructive entry techniques. Our DBS-checked locksmiths operate 24/7, fully insured, ensuring rapid response to domestic and commercial emergencies across the area.",
+ "home.local-context-heading": "Locksmith work across Brighouse",
+ "home.local-context-body": "Brighouse's Victorian terraces and mill-worker housing, particularly around Fixby and Bradley, feature original sash windows and period locks that require specialist maintenance. These heritage properties often have non-standard mechanisms unsuited to modern key-cutting equipment. Semi-detached properties from the post-war expansion typically have simpler cylinder locks, though newer estates increasingly incorporate smart lock systems demanding technical expertise across multiple platforms.\n\nListed properties throughout the area face restrictions on lock replacement and security upgrades due to conservation requirements. Landlords managing HMOs should verify that fire safety regulations align with lock specification\u2014particularly on escape routes and communal doors. Many Victorian terraces have original wooden frames that complicate standard lock installation, necessitating careful assessment before work begins.",
+ "home.local-faqs": [
+  {
+   "q": "We have a Victorian terrace in Upper Edge with original sash windows and period locks \u2013 can you service these?",
+   "a": "Yes, we specialise in servicing period locks on Victorian and Edwardian properties throughout Brighouse, including original sash window mechanisms and traditional mortice locks. We understand listed property restrictions and can advise on compliant security upgrades without compromising your home's heritage value."
+  },
+  {
+   "q": "Our property in Rastrick is listed \u2013 what are our options for upgrading the front door lock?",
+   "a": "Listed buildings require careful lock selection to maintain period authenticity. We can install sympathetic upgrades or modern locks that work within conservation guidelines, and we're experienced in sourcing solutions that satisfy both heritage requirements and your security needs."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Brighouse \u2013 Victorian Terraces 24/7",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Brighouse. Locked out of Victorian terraces or modern homes? Fast non-destructive entry, key repairs, urgent lock fixes. Always available.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith team in Brighouse specialises in locksmithing solutions when you need them most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths respond 24/7. We use non-destructive entry techniques wherever possible to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Brighouse's emergency locksmith demand reflects its mixed housing stock. Victorian terraces in Woodhouse frequently present urgent access issues involving period sash locks and original ironwork, while modern detached properties in Norwood Park typically involve cylinder locks and contemporary door mechanisms. Lockouts and snapped keys occur across both heritage and newer properties, though the remedies differ substantially depending on the building's age and construction.\n\nListed building status affects response protocols across much of Brighouse's Victorian mill-village core. Many period properties have restricted options for lock replacement or modification without planning consent, meaning emergency repairs must often preserve original fittings or use sympathetic alternatives. Post-break-in security upgrades in heritage properties require particular care to avoid damage to listed features, making knowledge of both traditional and modern lock systems essential for this area.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Woodhouse \u2013 can you help with original sash window locks?",
+   "a": "Yes. Many Victorian terraces in Woodhouse have period locks on sash windows that require specialist handling; we carry period-appropriate tools and can gain emergency access without damaging listed features. Call us on 01484 945033 for immediate assistance."
+  },
+  {
+   "q": "My door won't lock after a break-in attempt \u2013 what's the fastest fix in Hartshead Moor?",
+   "a": "We attend post-break-in lockouts across Hartshead Moor's semi-detached properties within the hour, 24/7. We can assess cylinder lock damage, replace or repair on-site, and fit temporary or upgraded security while you arrange insurance claims."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Brighouse Victorian Terraces? Fast Entry",
+ "locked-out.meta.description": "Locked out in Brighouse? Non-destructive entry service for Victorian terraces, modern homes & businesses. Fast 24/7 emergency locksmith response.",
+ "locked-out.hero-paragraph": "When you're locked out in Brighouse, our locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped inside, we use non-destructive entry techniques to regain access without damaging your door or frame. Our damage-free methods ensure your property remains secure and intact.",
+ "locked-out.local-context-body": "Locked-out situations in Brighouse vary significantly by neighbourhood and property age. Victorian terraces in Hipperholme, with their original period joinery and sash windows, present distinct non-destructive entry challenges compared to post-war semi-detached properties in Rastrick. Period properties often feature traditional mortice locks and heritage-specification doors that require careful handling to avoid damage, while modern suburban properties typically allow faster, more straightforward cylinder-lock access.\n\nListed-building status affects a substantial proportion of Brighouse's housing stock, particularly in the historic mill villages. Emergency entry to protected properties may require adherence to conservation guidelines, meaning standard forced-entry techniques cannot be used. Locksmiths working in these areas must possess specialist knowledge of period mechanisms and non-invasive access methods to comply with local planning restrictions and preserve original fabric.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Hove Edge with a period sash window \u2013 can you get in without damaging the frame?",
+   "a": "Yes, we specialise in non-destructive entry for period properties like your Victorian terrace. We'll assess the sash window and door mechanisms carefully to avoid harm to original features, which is especially important in heritage areas."
+  },
+  {
+   "q": "My key snapped in the lock of my semi-detached in Brackenhall \u2013 how quickly can you help?",
+   "a": "We can typically attend within the hour and extract the broken key without forcing the lock or door. For standard cylinder locks found in post-war semis like yours, non-destructive removal is usually straightforward."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Brighouse | Victorian Sash Locks",
+ "broken-key-removal.meta.description": "Broken key removal in Brighouse Victorian terraces & modern homes. Professional extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. 24/7 service.",
+ "broken-key-removal.hero-paragraph": "Our Brighouse locksmith specialises in broken key removal using expert locksmithing techniques. Whether you're dealing with a snapped key or one stuck firmly in the lock, we employ non-destructive methods with precision key extractor tools. We handle everything from standard locks to euro cylinders, restoring access without damage to your door or lock mechanism.",
+ "broken-key-removal.local-context-body": "Brighouse's stock of Victorian terraces and stone cottages\u2014particularly prevalent in areas like Hipperholme\u2014often feature original mortice locks and night latches that have accumulated decades of wear. Keys snapping in these period mechanisms is a routine callout, especially where residents attempt forced extraction or apply excessive leverage to stiff locks. Semi-detached properties in Scheoles and surrounding post-war suburbs present a different profile, typically fitted with modern euro cylinders prone to breakage when keys are inserted at poor angles or strike internal obstructions.\n\nListed-building status affects a significant portion of Brighouse's Victorian mill-village properties, creating restrictions on lock replacement and repair methods. Locksmiths must often preserve original hardware rather than substitute modern alternatives, requiring careful key removal without damage to the surrounding mechanism. Dense terrace rows also mean limited access space and tight door frames, which complicates extraction work and demands specialised tools to avoid collateral damage to architraves and door edges.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash locks in Hove Edge properties break keys so often?",
+   "a": "Victorian mortice locks feature tighter tolerances and harder steel than modern cylinders, and decades of use can cause internal wear that catches and snaps keys. We specialise in extracting broken keys from these heritage locks without damaging the mechanism\u2014essential for listed properties where lock replacement requires planning consent."
+  },
+  {
+   "q": "Can you remove a broken key from a euro cylinder in a Brackenhall semi-detached without replacing the whole lock?",
+   "a": "Yes\u2014most post-war semi-detached homes like those in Brackenhall use standard euro cylinders, which we can often drill and extract the key from, then re-pin or swap the cylinder depending on damage. This keeps costs down and avoids unnecessary full-lock replacement."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Brighouse \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Emergency burglar repair in Brighouse. Post-break-in lock changes, door repairs & security upgrades for Victorian terraces & modern homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Brighouse locksmiths specialise in burglar repair and locksmithing services to restore security after break-ins and forced entry. We fit insurance-compliant TS007 anti-snap cylinders and BS3621 mortice locks to prevent future incidents. Our door reinforcement techniques address damage from attempted intrusions, ensuring your home meets current security standards.",
+ "burglar-repair-service.local-context-body": "Brighouse's mixed housing stock creates varied burglar repair demands. Victorian terraces in Woodhouse typically feature original timber frames and period locks that require sympathetic reinstatement following break-ins, while semi-detached properties in Hartshead Moor present more straightforward cylinder lock replacements. Modern detached homes in Norwood Park increasingly demand smart lock integration alongside traditional security upgrades, reflecting different vulnerability profiles across the town's residential areas.\n\nListed building status affects significant portions of Brighouse's Victorian housing, restricting lock and door repair options to period-appropriate materials and mechanisms. Insurance reinstatement specifications often require matching original hardware on protected properties, extending timelines and requiring access to specialist components. Post-war semi-detached areas allow faster standardised repairs, but dense terrace clustering means shared wall vulnerabilities and neighbour disturbance considerations during emergency work.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Are you experienced with repairing Victorian sash window locks after a break-in in properties like those in Fixby?",
+   "a": "Yes. Many Victorian terraces in Fixby have original sash locks that require specialist knowledge to repair properly. We understand listed property restrictions and can reinstate security to insurance standards without compromising period features."
+  },
+  {
+   "q": "Can you repair modern cylinder locks and doors quickly on new-build properties in Norwood Park?",
+   "a": "Absolutely. Our emergency burglar repair service handles standard cylinder locks and composite doors common in modern estates. We can typically attend the same day and complete full reinstatement, including door frame repairs and lock replacement, to your insurer's requirements."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Brighouse | Victorian Terraces",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Brighouse for Victorian terraces and modern homes. Same-day door and window boarding after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Brighouse from our experienced locksmiths combines skilled locksmithing with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, we arrive 24/7 to secure your premises. Our team uses robust plywood boards and security screws to create an insurance-compliant temporary seal, minimising further damage whilst you arrange permanent repairs.",
+ "emergency-boarding-up.local-context-body": "Brighouse's dense Victorian terraces in areas like Fixby present particular boarding-up challenges due to period sash windows and original timber frames that require careful handling after break-ins or weather damage. Semi-detached properties across Bradley, by contrast, typically feature standard glazing and door frames that allow faster temporary securing, though the volume of properties means call-out demand can spike significantly during storm seasons.\n\nListed building status affects a substantial proportion of Brighouse's older stock, particularly in mill village settlements. Emergency boarding work on protected properties often requires liaison with local conservation officers before permanent repairs can proceed, adding coordination layers that temporary secure measures must accommodate. The prevalence of traditional stone mullions and period glazing bars means boarding solutions need to avoid further damage to irreplaceable frames.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a Victorian sash window in Fixby after a break-in?",
+   "a": "We typically arrive within 1\u20132 hours for emergency calls in Fixby and can board up period sash windows while preserving the frame to avoid damage to listed features. Our team uses materials that won't compromise your property's heritage status."
+  },
+  {
+   "q": "Do you board up listed properties in Bailiff Bridge, and what restrictions apply?",
+   "a": "Yes, we're experienced with listed mill-village terraces in Bailiff Bridge. We use sympathetic boarding methods that comply with local conservation requirements and can advise on temporary vs. permanent solutions that won't breach planning restrictions."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Brighouse | Victorian Terrace Specialists",
+ "lock-changes.meta.description": "Lock changes in Brighouse for Victorian terraces, modern homes & listed properties. Fast professional service for lost keys, moving house & security upgrades.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Brighouse from our experienced locksmiths combine expert locksmithing with modern security standards. Whether you're moving home, changing tenancy, or upgrading your security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property effectively. Our technicians ensure every installation meets current UK safety requirements.",
+ "lock-changes.local-context-body": "Properties across Brackenhall and the surrounding post-war estates typically feature standard cylinder locks on uPVC doors, making straightforward lock replacement straightforward for most householders. Conversely, period properties in Hove Edge retain original wooden doors and vintage lock mechanisms that demand specialist attention during changes, particularly where key compatibility or period authenticity matters to owners.\n\nListed-building status affects a significant portion of Brighouse's housing stock, especially the Victorian terraces and converted mill properties. Lock changes on these properties may require conservation officer approval before work proceeds, and locksmiths must often source period-appropriate hardware or work within strict aesthetic guidelines rather than simply installing modern replacements.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Fixby \u2013 do I need specialist lock replacement?",
+   "a": "Many of Fixby's original Victorian terraces have period sash windows and heritage locks that require careful handling. We assess whether your locks are listed or protected and can source compatible replacements that meet conservation standards while improving security."
+  },
+  {
+   "q": "What's the quickest lock change option for a modern semi-detached in Bradley?",
+   "a": "Post-war semi-detached properties in Bradley typically have standard cylinder locks that we can replace quickly \u2013 usually within the same visit. If you're upgrading to a smart lock system, we can advise on compatibility and installation on newer builds."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Brighouse | Victorian Sash & Period Locks",
+ "lock-repairs.meta.description": "Lock repair specialists in Brighouse. Fix multipoint, mortice & cylinder locks in Victorian terraces & modern homes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Our experienced Brighouse locksmith specialises in lock repairs and locksmithing services for residential and commercial properties. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, we diagnose the issue and carry out precise repairs. From mortice maintenance to multipoint servicing, our work comes backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Victorian terraces in Hove Edge and similar areas frequently retain original mortice locks and night latches that require specialist repair rather than replacement. These period mechanisms are common across Brighouse's heritage housing stock, where multipoint locks on sash-windowed properties often develop wear in the gearbox components. Standard cylinder lock repairs dominate the post-war semi-detached properties in Brackenhall, where door mechanisms typically fail under regular domestic use patterns.\n\nListed property status across mill village heritage zones restricts lock repair options significantly. Many Victorian properties cannot accommodate modern lock systems without consent, making repair of existing mechanisms\u2014particularly mortice and night latch components\u2014the only viable option. Period-appropriate servicing knowledge is therefore essential for work in these conservation-sensitive areas, where material and mechanism compatibility directly affects approval and compliance.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Rastrick need specialist lock repair?",
+   "a": "Many properties in Rastrick feature original period locks and sash fasteners that require knowledge of traditional mechanisms; our locksmiths understand how to repair these heritage fittings without damaging the frame or compromising listed-building restrictions."
+  },
+  {
+   "q": "My multipoint lock has failed on my terraced home in Hipperholme \u2013 can you repair it?",
+   "a": "Yes; multipoint lock failures are common in Hipperholme's stone-built terraces due to age and settlement. We carry parts for standard gearbox and mortice repairs and can usually restore function without replacing the entire mechanism."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Brighouse \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Brighouse & Rastrick. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems fitted to Victorian terraces and modern homes.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Brighouse by our experienced locksmith combines modern locksmithing expertise with trusted security solutions. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, we ensure every fitting meets current security standards. Our technicians deliver reliable, compliant installations tailored to your property's needs.",
+ "door-lock-installation.local-context-body": "Door lock installation in Brighouse addresses the security needs of a diverse housing stock. Victorian terraces in Fixby and similar mill-worker housing often retain original timber frames and period joinery, requiring careful fitting of modern BS3621 mortice locks without compromising structural integrity. Semi-detached properties across Bradley, built during post-war expansion, typically feature standard timber or composite doors suited to straightforward TS007 anti-snap cylinder installation.\n\nListed properties present a common constraint in Brighouse's heritage mill villages. Many Victorian terraces carry listed status, meaning door lock installation must comply with conservation officer approval before work begins; visible modern hardware may be rejected in favour of period-appropriate mechanisms or internal-only fitting solutions. Multipoint lock systems, increasingly standard on modern doors, are readily accommodated in newer suburban properties but require specialist assessment on period properties to avoid damage to original frames.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Hipperholme with original sash windows and period locks \u2013 can you fit a modern BS3621 mortice lock without damaging the property?",
+   "a": "Yes, we specialise in fitting BS3621 mortice locks to period properties across Hipperholme and similar Victorian terraces. Our locksmiths understand heritage considerations and will ensure the installation complements your original joinery while meeting current security standards."
+  },
+  {
+   "q": "My semi-detached in Scheoles has a standard cylinder lock \u2013 what's the advantage of upgrading to a TS007 anti-snap cylinder?",
+   "a": "TS007 anti-snap cylinders provide protection against a common attack method on standard locks, particularly important in Scheoles' working-class residential areas. We'll fit one that's fully compatible with your existing door hardware and deadlock setup."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Brighouse | Victorian Terrace Specialists",
+ "door-lock-replacement.meta.description": "Door lock replacement in Brighouse & Rastrick. Like-for-like swaps or security upgrades for Victorian terraces, semis & modern doors. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Brighouse locksmith specialises in door lock replacement and expert locksmithing solutions tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we deliver swift, professional service. We fit BS3621-approved mechanisms and offer anti-snap upgrades to enhance your property's security. Like-for-like cylinder swaps ensure seamless installation.",
+ "door-lock-replacement.local-context-body": "Brighouse's property mix demands flexible door lock replacement approaches. Victorian terraces in Bailiff Bridge often retain original hardware requiring careful removal and period-appropriate reinstatement, while modern estates like Norwood Park feature standard cylinder locks suited to straightforward swaps. Post-war semi-detached properties typically need conventional mortice or rim locks, creating a broad spectrum of replacement scenarios across the town.\n\nListed building status affects many Victorian properties in the mill village areas, restricting lock choices to designs that preserve external appearance and character. Owners of heritage terraces must balance security upgrades with conservation requirements, meaning locksmiths need knowledge of listed-building guidelines before recommending or installing replacements that alter visible door furniture.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Upper Edge with an original sash window lock that's broken. Can you replace it with a modern equivalent?",
+   "a": "Yes, we can replace your period lock with a modern cylinder lock that fits the existing hardware, or source a sympathetic reproduction if your property is listed. We'll assess whether planning consent is needed before any work begins."
+  },
+  {
+   "q": "We've just moved to a new-build in Rastrick and want to upgrade the standard cylinder locks to smart locks. What's involved?",
+   "a": "We can replace your cylinder locks with smart locks, keypads, or integrated systems designed for modern doors. Our team will ensure the new lock fits your door's existing frame and mechanism without structural changes."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Brighouse | Victorian & Modern Doors",
+ "door-repairs.meta.description": "Door repairs in Brighouse for Victorian terraces, semi-detached homes & modern properties. Alignment, hardware fixes & realignment services.",
+ "door-repairs.hero-paragraph": "Brighouse locksmiths specialise in comprehensive door repairs that blend practical locksmithing expertise with precision engineering. Whether your uPVC or composite door has dropped, won't close properly, or is letting in draughts, our technicians diagnose the root cause. We perform hinge adjustment, frame alignment, and multipoint realignment to restore smooth operation and weatherproofing.",
+ "door-repairs.local-context-body": "Brighouse's interwar semi-detached properties in Bonegate and post-war suburban expansion areas typically feature standard timber or composite doors with conventional hanging hardware. These homes rarely present the access complications of older terraced stock, making door repair and realignment straightforward in most cases. However, Victorian terraces throughout the town\u2014particularly in Woodhouse\u2014often contain original period doors and vintage hardware that demand careful handling during repair work to preserve character and avoid damaging historic fabric.\n\nListed building status affects a significant proportion of Brighouse's older properties, creating practical constraints on door repair methods and material replacement. Many Victorian and mill-village properties cannot accommodate modern door furniture or hinges without conservation officer approval, which extends timescales and restricts the standard solutions available. Surveyors and property owners must verify listing status before commissioning repairs, as non-compliant modifications can result in enforcement action and costly reinstatement.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Victorian terraces around Hove Edge often need realignment?",
+   "a": "Victorian properties in Hove Edge commonly settle unevenly over time, causing door frames to shift and drop. Our specialists understand period construction and can realign doors without forcing frames or damaging original joinery."
+  },
+  {
+   "q": "Can you repair doors with original period hardware in listed properties?",
+   "a": "Yes\u2014many homes in Brighouse's historic mill villages are listed, restricting modern replacements. We repair and restore original locks, hinges and hardware to meet conservation requirements while restoring full function."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair Brighouse | Victorian Sash Locks",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Brighouse. Expert fixes for sash windows, espagnolette & shootbolt locks. Serving Victorian terraces & Hove Edge.",
+ "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Brighouse from our experienced locksmith specialists in locksmithing. We address windows that won't lock and broken handles with precision, servicing espagnolette mechanisms and shootbolt locks. Our fittings meet insurance-compliant standards, ensuring your home security is restored to the highest specification.",
+ "window-lock-repair-replacement.local-context-body": "Woodhouse's Victorian terraces feature original sash windows with period espagnolette and shootbolt mechanisms that frequently require specialist attention. These heritage locks are integral to the character of listed properties and demand careful repair or sympathetic replacement. Modern semi-detached homes in Hartshead Moor typically have standard casement window locks with simpler shootbolt systems, which generally service more straightforwardly but still benefit from preventative maintenance.\n\nListed building consent requirements in Brighouse's mill village heritage areas constrain window lock replacement options significantly. Period-appropriate mechanisms or exact-match components are often mandatory, ruling out modern alternatives and requiring knowledge of historical lock specifications. Non-listed interwar properties in areas like Bonegate allow greater flexibility, though original locks may still be embedded in wooden frames in ways that complicate removal and installation.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Fixby need specialist espagnolette lock repair?",
+   "a": "Many original sash windows in Fixby's mill-worker terraces use period-specific espagnolette and shootbolt locks that differ from modern equivalents. We're experienced in servicing and replacing these heritage locks while maintaining the aesthetic integrity of listed properties."
+  },
+  {
+   "q": "Can you repair window locks on listed properties in Bailiff Bridge?",
+   "a": "Yes\u2014Bailiff Bridge's Victorian mill village has numerous listed terraces with restricted modification rights. We source period-appropriate replacement locks and advise on compliance, ensuring repairs meet conservation requirements without compromising security."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Brighouse | Victorian Terrace Safes",
+ "safe-installation.meta.description": "Safe installation in Brighouse for Victorian terraces & modern homes. Secure anchoring, insurance documentation & expert positioning. Wall, floor & freestanding.",
+ "safe-installation.hero-paragraph": "Professional safe installation from a Brighouse locksmith specialising in locksmithing ensures your valuables remain secure. Whether you're protecting new safes or meeting insurance approval requirements, our technicians use floor anchoring and wall mounting to position units safely. All work meets Eurograde and AiS approved standards for complete peace of mind.",
+ "safe-installation.local-context-body": "Brighouse's mix of Victorian terrace housing in areas like Hove Edge and newer semi-detached properties across Brackenhall creates distinct safe installation requirements. Period terraces often have solid stone or brick walls suitable for wall-mounted safes, while post-war semis typically feature cavity walls requiring reinforced fixings and specialist anchoring methods to meet insurance specifications.\n\nListed building status affects many Victorian properties in the town's heritage mill villages, restricting visible external modifications and drilling into original fabric. Installation work must account for these conservation constraints, and floor-mounted safes often become the preferred option where wall penetration is prohibited. Insurance providers frequently require documented evidence of proper anchoring and installation standards, particularly in older stock where structural variability demands site-specific assessment.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed Victorian properties in Brighouse's mill villages?",
+   "a": "Yes. We're experienced with listed property restrictions and can advise on discreet wall and floor safe installations that comply with conservation requirements common in Brighouse's historic terraces. We'll ensure all work and documentation meets insurance and listed building standards."
+  },
+  {
+   "q": "Can you anchor a safe properly in the newer semi-detached homes in Clifton?",
+   "a": "Absolutely. Modern post-war and interwar properties like those in Clifton have standard construction that's ideal for secure safe fitting\u2014we'll anchor wall, floor, or freestanding models with full insurance-grade documentation for your peace of mind."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Brighouse \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Brighouse for lost keys, combinations & lockouts. Non-destructive methods for Victorian terraces, modern homes & businesses.",
+ "safe-opening.hero-paragraph": "Our Brighouse locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods wherever possible. Whether you've lost your combination, misplaced keys, or experienced a jammed mechanism, we can access your safe efficiently. Our technicians employ combination dial manipulation and other professional approaches to restore access without unnecessary damage.",
+ "safe-opening.local-context-body": "Rastrick's Victorian semi-detached and villa properties frequently contain period safes installed during the late 19th and early 20th centuries, often integrated into fireplaces, walls or studies. Lost combinations and misplaced keys are common in properties of this age, where original documentation rarely survives. Non-destructive opening techniques preserve both the safe's integrity and the property's character\u2014a critical consideration in conservation areas.\n\nHipperholme's listed mill-village properties present additional constraints; any safe opening work must comply with heritage restrictions that limit drilling, cutting or structural alteration. Access to safes in listed stone cottages often requires working around period masonry and ironwork that cannot be damaged. Local safe-opening work therefore demands familiarity with heritage protocols and alternative techniques suited to protected properties.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've lost the combination to a safe in my Victorian terrace in Fixby \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties throughout Brighouse. Our technicians use specialist manipulation and electronic bypass techniques to access your safe without drilling or forcing, preserving both the safe and your listed property's integrity."
+  },
+  {
+   "q": "What's the best way to handle a locked safe in a post-war semi in Bradley if I've lost the key?",
+   "a": "We can open modern safes non-destructively using decoding or picking methods, which typically takes less time than older heritage models. Call us on 01484 945033 with your safe's make and model, and we'll confirm a timeline and price before we start."
+  }
+ ],
+ "home.areas-covered": [
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge",
+  "Rastrick"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Rastrick",
+  "Hipperholme",
+  "Hove Edge",
+  "Bailiff Bridge",
+  "Clifton"
+ ],
+ "locked-out.areas-covered": [
+  "Bailiff Bridge",
+  "Rastrick",
+  "Hove Edge",
+  "Clifton",
+  "Hipperholme"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Hipperholme",
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hove Edge"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Rastrick",
+  "Hipperholme",
+  "Hove Edge",
+  "Bailiff Bridge",
+  "Clifton"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge"
+ ],
+ "lock-changes.areas-covered": [
+  "Hove Edge",
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme"
+ ],
+ "lock-repairs.areas-covered": [
+  "Clifton",
+  "Rastrick",
+  "Hipperholme",
+  "Hove Edge",
+  "Bailiff Bridge"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Rastrick",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge",
+  "Bailiff Bridge"
+ ],
+ "door-repairs.areas-covered": [
+  "Rastrick",
+  "Hove Edge",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge"
+ ],
+ "safe-installation.areas-covered": [
+  "Rastrick",
+  "Bailiff Bridge",
+  "Clifton",
+  "Hipperholme",
+  "Hove Edge"
+ ],
+ "safe-opening.areas-covered": [
+  "Rastrick",
+  "Hipperholme",
+  "Hove Edge",
+  "Bailiff Bridge",
+  "Clifton"
+ ]
 }

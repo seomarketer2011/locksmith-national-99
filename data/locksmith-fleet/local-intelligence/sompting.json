@@ -1,57 +1,55 @@
 {
-  "location": "Sompting",
-  "neighborhoods": [
-    {
-      "name": "Sompting",
-      "era": "mixed Victorian to modern",
-      "types": [
-        "semi-detached",
-        "detached",
-        "terrace",
-        "bungalow"
-      ],
-      "notes": "village centre with conservation elements; St Mary the Virgin Church area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "detached",
-      "bungalow"
-    ],
-    "era": "mixed late Victorian through post-war",
-    "notable": "Sompting is a commuter village with significant 1930s–1960s suburban growth; proximity to Lancing College influences character"
-  },
-  "locksmith_relevant": [
-    "Sompting's mix of older Victorian properties and mid-century bungalows means varied lock mechanisms—period sash windows and original timber doors are common.",
-    "High proportion of semi-detached homes built 1920s–1960s often have worn original locks and modest security; PVCu door replacements increasingly need modern cylinder upgrades.",
-    "Proximity to A27 and railway makes this a commuter base; many residents need reliable rekeying and spare key services for second homes and rental properties."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Sompting",
-    "overpass": "OSM Overpass bbox query, 1 named areas",
-    "coords": {
-      "lat": 50.8347898,
-      "lon": -0.3531525
-    }
-  },
-  "generated_at": "2026-05-13T18:04:42.959Z",
-  "all_areas": [
-    "Sompting"
-  ],
-  "geo": {
-    "latitude": 50.8347898,
-    "longitude": -0.3531525
-  },
-  "postcode_districts": [
-    "BN15"
-  ],
-  "postcode_meta": {
-    "BN15": {
-      "count": 1,
-      "sample": "BN15 0AP",
-      "admin": "Adur",
-      "via": "parish=sompting"
-    }
+ "location": "Sompting",
+ "neighborhoods": [
+  {
+   "name": "Sompting",
+   "era": "mixed Victorian to modern",
+   "types": [
+    "semi-detached",
+    "detached",
+    "terrace",
+    "bungalow"
+   ],
+   "notes": "village centre with conservation elements; St Mary the Virgin Church area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "detached",
+   "bungalow"
+  ],
+  "era": "mixed late Victorian through post-war",
+  "notable": "Sompting is a commuter village with significant 1930s\u20131960s suburban growth; proximity to Lancing College influences character"
+ },
+ "locksmith_relevant": [
+  "Sompting's mix of older Victorian properties and mid-century bungalows means varied lock mechanisms\u2014period sash windows and original timber doors are common.",
+  "High proportion of semi-detached homes built 1920s\u20131960s often have worn original locks and modest security; PVCu door replacements increasingly need modern cylinder upgrades.",
+  "Proximity to A27 and railway makes this a commuter base; many residents need reliable rekeying and spare key services for second homes and rental properties."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Sompting",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Sompting admin area), 0 named areas",
+  "coords": {
+   "lat": 50.8347898,
+   "lon": -0.3531525
+  }
+ },
+ "generated_at": "2026-05-13T18:04:42.959Z",
+ "all_areas": [],
+ "geo": {
+  "latitude": 50.8347898,
+  "longitude": -0.3531525
+ },
+ "postcode_districts": [
+  "BN15"
+ ],
+ "postcode_meta": {
+  "BN15": {
+   "count": 1,
+   "sample": "BN15 0AP",
+   "admin": "Adur",
+   "via": "parish=sompting"
+  }
+ }
 }

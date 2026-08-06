@@ -1,117 +1,115 @@
 {
-  "location": "Huntingdon",
-  "neighborhoods": [
-    {
-      "name": "Hartford",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "riverside area, older housing stock"
-    },
-    {
-      "name": "Great Stukeley",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "commuter village character"
-    },
-    {
-      "name": "Hinchingbrooke",
-      "era": "mixed interwar and modern",
-      "types": [
-        "semi-detached",
-        "detached",
-        "new-build"
-      ],
-      "notes": "near historic Hinchingbrooke House"
-    },
-    {
-      "name": "Newtown",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential expansion area"
-    },
-    {
-      "name": "Oxmoor",
-      "era": "post-war",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "suburban development"
-    },
-    {
-      "name": "Sapley",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "mixed residential character"
-    },
-    {
-      "name": "St Johns Park",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "recent residential development"
-    },
-    {
-      "name": "Stukeley Meadows",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ],
-      "notes": "contemporary estate"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed Victorian riverside core with extensive post-war suburban expansion",
-    "notable": "Historic town center with Georgian properties; significant modern residential growth. Many older properties retain period locks and mechanisms."
+ "location": "Huntingdon",
+ "neighborhoods": [
+  {
+   "name": "Hartford",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "riverside area, older housing stock"
   },
-  "locksmith_relevant": [
-    "Hartford's riverside Victorian terraces often feature original cast-iron hardware and period locks requiring specialist knowledge and care.",
-    "Post-war estates across Sapley, Newtown, and Oxmoor have high volumes of standard cylinder locks and uPVC door seals—common callout areas.",
-    "New-build developments in St Johns Park and Stukeley Meadows drive demand for smart lock installation and electronic access system support."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Huntingdon",
-    "overpass": "OSM Overpass bbox query, 8 named areas",
-    "coords": {
-      "lat": 52.3305093,
-      "lon": -0.1843514
-    }
+  {
+   "name": "Great Stukeley",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "commuter village character"
   },
-  "generated_at": "2026-05-13T18:04:14.970Z",
-  "all_areas": [
-    "Great Stukeley",
-    "Hartford",
-    "Hinchingbrooke",
-    "Newtown",
-    "Oxmoor",
-    "Sapley",
-    "St Johns Park",
-    "Stukeley Meadows"
-  ],
-  "geo": {
-    "latitude": 52.3305093,
-    "longitude": -0.1843514
+  {
+   "name": "Hinchingbrooke",
+   "era": "mixed interwar and modern",
+   "types": [
+    "semi-detached",
+    "detached",
+    "new-build"
+   ],
+   "notes": "near historic Hinchingbrooke House"
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Newtown",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential expansion area"
+  },
+  {
+   "name": "Oxmoor",
+   "era": "post-war",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "suburban development"
+  },
+  {
+   "name": "Sapley",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "mixed residential character"
+  },
+  {
+   "name": "St Johns Park",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "flat"
+   ],
+   "notes": "recent residential development"
+  },
+  {
+   "name": "Stukeley Meadows",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ],
+   "notes": "contemporary estate"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed Victorian riverside core with extensive post-war suburban expansion",
+  "notable": "Historic town center with Georgian properties; significant modern residential growth. Many older properties retain period locks and mechanisms."
+ },
+ "locksmith_relevant": [
+  "Hartford's riverside Victorian terraces often feature original cast-iron hardware and period locks requiring specialist knowledge and care.",
+  "Post-war estates across Sapley, Newtown, and Oxmoor have high volumes of standard cylinder locks and uPVC door seals\u2014common callout areas.",
+  "New-build developments in St Johns Park and Stukeley Meadows drive demand for smart lock installation and electronic access system support."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Huntingdon",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Huntingdon admin area), 6 named areas",
+  "coords": {
+   "lat": 52.3305093,
+   "lon": -0.1843514
+  }
+ },
+ "generated_at": "2026-05-13T18:04:14.970Z",
+ "all_areas": [
+  "Hartford",
+  "Hinchingbrooke",
+  "Newtown",
+  "Oxmoor",
+  "Sapley",
+  "Stukeley Meadows"
+ ],
+ "geo": {
+  "latitude": 52.3305093,
+  "longitude": -0.1843514
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

@@ -1,340 +1,372 @@
 {
-  "meta.title": "Locksmith Boston | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted Boston locksmith for Victorian terraces, council estates & modern homes. Emergency call-outs, repairs, replacements & security upgrades 24/7.",
-  "home.hero-paragraph": "Boston locksmith services and expert locksmithing help are available around the clock from our fully insured team. We specialise in emergency lockouts, lock changes, and lock repairs for domestic and commercial properties. All our engineers are DBS checked and use non-destructive entry methods whenever possible.",
-  "home.local-context-heading": "Locking Boston's Georgian Core and Modern Suburbs",
-  "home.local-context-body": "Boston's mixed housing stock—Victorian terraces in the town center, post-war semis in Skirbeck Quarter, and newer developments around Haven Village—creates varied locksmith demands. Period properties with original sash locks need specialist attention to avoid damaging listed features, while council-estate housing typically requires insurance-approved locks meeting rental standards. Each property type calls for different expertise.\n\nLandlords in Boston often face specific pressures: HMO licensing requirements specify approved locks and access controls, conservation-area restrictions limit hardware visibility on listed terraces, and the prevalence of traditional timber doors means hinges and frames need careful assessment during upgrades. Local properties frequently have non-standard door dimensions inherited from their era of construction, requiring bespoke fitting rather than off-the-shelf solutions.",
-  "home.local-faqs": [
-    {
-      "q": "Do you handle locks in Boston's Victorian terraces and listed properties?",
-      "a": "Yes. Our locksmiths have specialist experience with period sash locks and original hardware common in Boston's Georgian and Victorian town center. We understand listed-building regulations and can upgrade security without compromising heritage features."
-    },
-    {
-      "q": "What locks do you recommend for rental properties in Fenside and Skirbeck?",
-      "a": "We fit insurance-approved locks and rental-standard hardware suited to council-estate and semi-detached properties across Boston's post-war suburbs. These meet landlord requirements and provide reliable security for family homes."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Boston – 24/7 Response",
-  "emergency-locksmith.meta.description": "Emergency locksmith Boston – 24/7 lockouts, snapped keys & urgent repairs. Fast response for Victorian terraces, council estates & modern homes.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Boston combines expert locksmithing with rapid response times to get you back inside when you need it most. Whether you're facing a lockout, snapped key, or post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Boston frequently involve period properties across the historic town center and Victorian terraces in Bargate, where original sash locks and heritage hardware may require specialist handling during urgent callouts. Post-war suburban areas like Fenside also generate significant demand, particularly from semi-detached properties where standard pin-tumbler locks and rental-standard hardware dominate the emergency repair landscape.\n\nListed-building status across much of Boston's Georgian and Victorian core means emergency repairs to doors and locks in these properties often need to preserve original joinery and period fittings, limiting rapid replacement options. Many older terraces also feature traditional wooden doors susceptible to warping and swelling, which commonly trigger lock-engagement problems independent of mechanical failure—a distinction that affects diagnosis speed during out-of-hours callouts.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Trinity and my sash lock won't turn – can you help at night?",
-      "a": "Yes, we operate 24/7 emergency callouts across Boston including the historic Trinity conservation area. For period sash locks common in Victorian terraces, our locksmiths carry specialist tools and avoid damage to original hardware – crucial for listed properties."
-    },
-    {
-      "q": "It's midnight and my council-estate door lock is broken in Skirbeck Quarter – do you know insurance-approved replacements?",
-      "a": "We're available round-the-clock for emergency lock failures and can fit insurance-approved locks that meet rental-standard requirements for post-war properties. Call 01205 601044 and we'll attend quickly with the right parts for your property type."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Boston – Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Boston? Shieldx provides fast non-destructive entry for lost or snapped keys. Emergency 24/7 service across Victorian terraces, Fenside homes & modern flats.",
-  "locked-out.hero-paragraph": "When you're locked out in Boston, our locksmith technicians specialise in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry methods to ensure damage-free access to your property. Our rapid response team arrives equipped to handle any lockout situation.",
-  "locked-out.local-context-body": "Boston's post-war suburban areas, particularly around Staniland, feature semi-detached properties where locked-out calls frequently involve modern mortice locks and Yale-style mechanisms installed to rental standards. These developments account for a significant proportion of non-emergency access work, where property managers and tenants require swift, damage-free entry without affecting insurance compliance or deposit agreements.\n\nThe Victorian terraces of Trinity present a distinct challenge: sash locks and period hardware in listed properties mean that forced entry risks conservation penalties and listed-building consent violations. Non-destructive entry techniques become essential here, as traditional methods of lock forcing can damage original joinery or ironwork that cannot be easily replaced.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Bargate — will non-destructive entry damage my original sash locks?",
-      "a": "No. Our locksmiths specialise in non-destructive techniques that preserve period hardware common in Boston's listed Georgian and Victorian properties. We'll carefully manipulate or bypass your lock without forcing it, protecting both the mechanism and your property's character."
-    },
-    {
-      "q": "How quickly can you reach me if I'm locked out in Fenside or Haven Village?",
-      "a": "We typically arrive within 30–60 minutes across Boston, including the post-war suburbs and modern riverside developments. Call 01205 601044 with your location, and we'll confirm our ETA and begin non-destructive entry as soon as we arrive."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Boston – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Boston & Trinity. Expert extraction from euro cylinders, mortice locks & night latches. Non-destructive. 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Boston requires experienced locksmiths skilled in locksmithing techniques that preserve your lock's integrity. Whether you're dealing with a snapped key in a mortice lock or euro cylinder, our technicians employ non-destructive methods using specialised key extractor tools. We'll have you back in quickly without costly replacements.",
-  "broken-key-removal.local-context-body": "Witham's established inner suburbs contain numerous interwar semis and terraces where wear on original euro cylinders and mortice locks remains common. Broken key incidents in these properties often involve locks that have been in service for decades, with metal fatigue a frequent contributor. The historic Trinity conservation area presents additional complexity: period sash locks and traditional hardware sometimes require specialist extraction techniques to avoid damage to listed fittings.\n\nBoston's older properties frequently feature original hardwood doors and period frames where key breakage can be compounded by lock corrosion or misalignment. Many Victorian and Georgian terraces in the town center have undergone multiple lock replacements over time, meaning cylinders and mortice mechanisms vary widely in condition and specification. Insurance-approved locks in rental properties across post-war areas may have specific extraction protocols that differ from domestic standard locks, affecting both method and timeline.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash locks in Trinity need specialist key removal?",
-      "a": "Trinity's Georgian and Victorian terraces often have original or heritage-matched sash locks with narrower, more delicate cylinders than modern euro locks. A snapped key in these period mechanisms requires careful extraction to avoid damaging the original hardware—we use specialised tools to preserve listed-property integrity."
-    },
-    {
-      "q": "What's the fastest way to get back into a council property in Skirbeck Quarter if my key breaks?",
-      "a": "Post-war council estates like Skirbeck Quarter typically use standardised mortice locks and night latches that we can extract keys from and replace quickly while maintaining your insurance-approved lock standard. Call us on 01205 601044 and we'll attend within hours to minimise disruption."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Boston | Victorian Terrace Lock Repair",
-  "burglar-repair-service.meta.description": "Emergency burglar repair service in Boston. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant, fast response across Skirbeck Quarter and the town centre.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair in Boston requires expert locksmith knowledge and locksmithing skills to restore security after forced entry. Our technicians specialise in repairing damaged doors and smashed locks, installing TS007 anti-snap cylinders and BS3621 mortice locks to meet insurance-compliant standards. We ensure your property is properly secured and certified.",
-  "burglar-repair-service.local-context-body": "Post-break-in repairs in Trinity's Victorian terraces demand particular attention to period-appropriate hardware and listed-building compliance. Many properties in this historic core retain original sash locks and period joinery that constrain material choices during reinstatement. Conversely, Staniland's semi-detached housing, developed post-war with standard frames and fittings, typically allows faster insurance-approved lock replacement and door remediation without conservation considerations.\n\nBoston's prevalence of older properties means break-in repairs frequently involve traditional wooden frames and period ironwork, requiring locksmiths to source compatible hardware rather than rely on off-the-shelf modern solutions. Listed-building consent can delay reinstatement in the town center, while council-estate properties in outer suburbs may require specific insurance-approved locks to meet landlord or housing-association standards. Door material—from original timber in Victorian stock to modern composite in newer builds—shapes repair methodology and parts availability.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my Victorian terrace in St Thomas, can you repair my original sash lock to insurance standards?",
-      "a": "Yes. We specialise in post-break-in reinstatement of period locks found in Boston's Victorian terraces, and we ensure all repairs meet insurance requirements so your claim isn't compromised. We can source matching hardware to preserve the character of your property while upgrading security where needed."
-    },
-    {
-      "q": "My council property in Skirbeck Quarter was broken into—do you work with landlords and insurance companies on emergency door repairs?",
-      "a": "Absolutely. We handle full post-break-in door and lock repairs on rental properties across the post-war suburbs, and we liaise directly with insurers to ensure work meets their approval standards and gets documented for your claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Boston – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Boston including Trinity & Witham. Same-day door and window boarding after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Boston from our experienced locksmiths combines practical locksmithing expertise with rapid response. We specialise in securing properties damaged by smashed windows or broken glazing, using robust plywood boards and security screws to create weatherproof temporary seals. Our 24/7 service ensures your property remains insurance-compliant following break-ins or weather damage.",
-  "emergency-boarding-up.local-context-body": "Break-ins affecting Boston's older residential core—particularly Victorian terraces in St Thomas—often require boarding up of period-appropriate doors and sash windows. The town's mixed housing stock means emergency callouts span both heritage properties and post-war semi-detached homes in Skirbeck Quarter, where faster-access damage to rental stock demands rapid secure closure before weather or further intrusion occurs.\n\nBoston's Georgian and Victorian town center contains numerous listed buildings where temporary boarding must avoid damage to original frames and architraves. Local contractors working in these areas need awareness of conservation officer requirements and listed-building protocols; timber-frame sash windows and recessed period doorways often dictate non-standard boarding methods that preserve structural integrity for subsequent proper repairs.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "How quickly can you board up a Victorian sash window in Bargate after a break-in?",
-      "a": "We attend emergency boarding calls within 60 minutes across Boston. For listed properties in Bargate's historic terraces, we use boarding methods that protect original joinery and comply with conservation requirements, ensuring your period property is secured without damage to listed features."
-    },
-    {
-      "q": "Do you board up council-estate properties to insurance standards in Fenside?",
-      "a": "Yes. Our emergency boarding service in Fenside and similar post-war suburbs meets standard insurance-approval requirements for temporary door and window protection. We'll photograph and document the boarding for your claim, then arrange proper repairs once your insurer approves."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Boston | Victorian & Period Property Specialists",
-  "lock-changes.meta.description": "Lock changes in Boston – fast professional replacement for lost keys, moving home & security upgrades. Trinity, Staniland & beyond.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Boston from our experienced locksmith team specialise in locksmithing solutions for every situation. Whether you're moving home, upgrading security, or managing a tenancy turnover, we fit high-specification locks including BS3621 mortice locks and TS007 anti-snap cylinders. Our work meets current UK security standards.",
-  "lock-changes.local-context-body": "Lock changes in Boston reflect the town's split between heritage and modern residential areas. Properties in Bargate's Victorian terraces often retain original period hardware, requiring specialist knowledge during replacement to preserve listed-building integrity. Conversely, newer developments in Haven Village and established semi-detached homes in Fenside typically need straightforward modern lock installations, where insurance-approved or rental-standard hardware is the standard requirement.\n\nBoston's Georgian and Victorian town center properties frequently feature sash locks and period-specific hardware that demand careful handling during replacement. Older terraced homes may have non-standard door frames or recessed lock positions, necessitating custom fitting rather than direct substitution. Listed-building consent requirements also apply to significant lock replacements in the historic core, adding a formal step before work can proceed.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Bargate and want to change the locks—will this affect the listed building status?",
-      "a": "Listed properties in Bargate's historic core often have restrictions on external hardware changes. We're familiar with heritage-sensitive lock replacements that maintain period appearance while meeting modern security standards—contact us to discuss your specific property."
-    },
-    {
-      "q": "We're renting a council property in Fenside and our landlord requires insurance-approved locks. Can you fit compliant hardware?",
-      "a": "Yes—we regularly install insurance-approved and rental-standard locks across Fenside's semi-detached and bungalow properties. We'll ensure your new lock meets your landlord's requirements and provide certification."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Boston | Victorian Terrace & Period Locks",
-  "lock-repairs.meta.description": "Lock repair in Boston for Victorian terraces & period properties. Expert fixes for multipoint, mortice & sash locks. Emergency 24/7 service available.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs in Boston from our qualified locksmith team specialising in professional locksmithing. Whether your lock is stiff, jammed, or the key won't turn, we diagnose and repair all mechanisms to manufacturer warranty standards. Our technicians handle mortice maintenance and multipoint servicing to restore smooth operation and security.",
-  "lock-repairs.local-context-body": "Boston's mixed Victorian and post-war housing stock creates varied lock repair demands. Properties in Trinity, with their period terraces and original sash locks, frequently require specialist gearbox and mortice repairs that preserve heritage fittings. Meanwhile, semi-detached homes across Staniland suburbs typically need multipoint and night latch servicing suited to modern rental and insurance standards.\n\nListed buildings in Boston's Georgian and Victorian town center impose constraints on lock repair work. Replacements and modifications to original hardware must comply with conservation area rules, meaning repairs to period mechanisms take precedence over wholesale upgrades. Council-estate properties across post-war areas likewise demand insurance-approved lock specifications, affecting which repair solutions are viable for landlords and tenants.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Boston's town center has a broken sash lock – can you repair the original hardware?",
-      "a": "Yes. Boston's Georgian and Victorian terraces often feature period sash locks that require specialist knowledge to repair without damaging listed features. We can restore original mechanisms or fit sympathetic replacements that meet heritage standards."
-    },
-    {
-      "q": "Our council property in Skirbeck Quarter needs an insurance-approved multipoint lock repair – how quickly can you attend?",
-      "a": "We prioritize multipoint and mortice lock repairs on rental properties across the post-war estates, including Skirbeck Quarter, and aim for same-day or next-day attendance. Insurance-compliant repairs ensure your tenancy requirements are met."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Boston | Victorian & Modern Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Boston, Bargate & Fenside. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for period and modern properties.",
-  "door-lock-installation.hero-paragraph": "Expert door lock installation in Boston from our experienced locksmith team specialising in locksmithing solutions. Whether you're fitting new locks for security upgrades, meeting insurance requirements, or replacing worn mechanisms, we install BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. Our technicians ensure your doors are properly secured with quality hardware fitted correctly.",
-  "door-lock-installation.local-context-body": "Door lock installation across Boston requires sensitivity to the town's dual character. Victorian terraces in St Thomas retain original timber frames and period hardware that demand careful handling during BS3621 mortice fitting, while modern semi-detached properties in Staniland typically accommodate standard multipoint systems without structural constraint. The older stock's varied door constructions—from solid wood to composite—means installers must assess material compatibility before selecting appropriate lock specifications.\n\nListed buildings and conservation-area properties throughout Boston's historic core introduce planning considerations that can affect installation timescales and method. Many period properties feature non-standard door thicknesses or heritage-sensitive frames where TS007 anti-snap cylinders require specialist positioning to avoid visible damage. Insurance requirements for rental properties in post-war areas often mandate specific lock standards, creating a secondary driver for installation demand beyond security upgrades alone.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install BS3621 mortice locks on Victorian sash windows in Boston's town center?",
-      "a": "Yes. Boston's Georgian and Victorian terraces in areas like St Thomas often have original period hardware, and we specialise in fitting BS3621 mortice locks that meet insurance requirements while respecting listed-property constraints and heritage aesthetics."
-    },
-    {
-      "q": "Can you fit TS007 anti-snap cylinders to council-estate properties in Skirbeck Quarter?",
-      "a": "Yes. We regularly install TS007-rated anti-snap cylinders on rental and social-housing properties across the post-war estates, ensuring compliance with landlord insurance standards and tenant security needs."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Boston | Victorian & Modern Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in Boston. Upgrades for Victorian terraces, council estates & modern homes. Same-day service. Call 01205 601044.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Boston from our experienced locksmith combines modern locksmithing techniques with trusted craftsmanship. Whether you've experienced a failed lock, lost keys, or are moving home, we specialise in like-for-like cylinder swaps and anti-snap upgrades meeting BS3621 standards. Our technicians ensure your new lock provides reliable security and peace of mind.",
-  "door-lock-replacement.local-context-body": "Georgian and Victorian terraces in Boston's town center frequently require door lock replacement within the constraints of listed-building consent. Period properties across Skirbeck and the medieval core often retain original sash locks and period hardware; replacements must balance security upgrades with conservation requirements. Modern developments in Haven Village, by contrast, feature contemporary door furniture where straightforward like-for-like swaps or upgrades to digital systems are standard practice.\n\nBoston's older housing stock—particularly council estates and post-war semi-detached properties—commonly uses insurance-approved locks to meet rental or mortgage-protection standards. Locksmiths must verify whether replacement work requires compliance with specific insurance schedules or landlord specifications, especially in properties where tenancy agreements govern security hardware choice. Sash doors and timber frames in period properties also demand precision fitting to avoid damage during removal and installation.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian sash lock in my St Thomas terrace – can you replace it without damaging the original hardware?",
-      "a": "Yes. Our locksmiths specialise in heritage-sensitive replacements for Boston's period properties; we can fit modern secure locks while preserving your original frames and listed-building aesthetics. We'll advise on sympathetic upgrades that meet current security standards."
-    },
-    {
-      "q": "My council-estate property in Skirbeck Quarter needs a new lock – does it need to be insurance-approved?",
-      "a": "Many rental and social-housing properties in Skirbeck Quarter require locks meeting specific insurance or tenancy standards. We'll check your lease or insurer's requirements and fit an approved replacement that satisfies both security and compliance."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Boston – Same-Day Service Available",
-  "door-repairs.meta.description": "Door repairs in Boston, including Victorian terraces in St Thomas. uPVC alignment, composite door realignment, timber easing & handle repair.",
-  "door-repairs.hero-paragraph": "When your door needs professional attention, Boston's trusted locksmith specialists in door repairs and locksmithing are ready to help. Whether you're dealing with a dropped door, catching frame, or draughts affecting your uPVC or composite entrance, our technicians handle hinge adjustment and multipoint realignment with precision. We restore your doors to proper working order quickly.",
-  "door-repairs.local-context-body": "Fenside's post-war semi-detached and bungalow stock frequently requires door realignment and hardware repair due to settlement and age-related frame movement. These properties, built to rental and insurance standards, often feature standardized door frames and hinges that respond well to adjustment and straightforward hardware replacement when misalignment occurs.\n\nBoston's substantial Victorian and Georgian terrace properties in the town center present distinct challenges: original hardwood frames and period hinges demand careful handling during repair, and dropped doors in listed buildings require solutions that preserve historic character. Modern Haven Village developments, by contrast, involve contemporary frame systems where door adjustments typically follow current building specifications.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash doors in Trinity often drop or misalign, and can you fix them?",
-      "a": "Victorian terraces in Trinity's historic core frequently suffer from settling and timber movement, causing sash doors to drop or bind. We specialise in realigning period frames and rehanging doors without compromising listed-building requirements."
-    },
-    {
-      "q": "Do you repair council-estate door hardware in the post-war suburbs?",
-      "a": "Yes—properties in Skirbeck Quarter and Fenside often need insurance-approved locks and rental-standard hinges replaced or adjusted. We're familiar with insurance requirements and can ensure your repairs meet landlord standards."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Boston | Victorian Terraces",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Boston, Skirbeck Quarter & St Thomas. Espagnolette, shootbolt & handle locks fixed on uPVC, aluminium, timber windows.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Boston locksmith team specialises in window lock repair and replacement, combining traditional locksmithing expertise with modern security solutions. Whether you're dealing with windows that won't lock or broken handles, we restore espagnolette mechanisms and shootbolt locks to full working order. All our fitting work is insurance-compliant, ensuring your home meets current security standards.",
-  "window-lock-repair-replacement.local-context-body": "Victorian terraces throughout St Thomas feature original sash windows with period espagnolette locks that frequently require specialist repair or careful replacement to maintain authenticity. Semi-detached properties in Staniland, built during post-war suburban expansion, typically have standard shootbolt mechanisms on uPVC and timber frames where wear and weathering drive replacement demand across the town's mixed housing stock.\n\nListed buildings in Boston's Georgian and Victorian town center impose restrictions on window lock replacement; any work on heritage properties must preserve original hardware or use sympathetic reproduction fittings. Conversely, council-estate properties in Skirbeck Quarter prioritize insurance-approved locks and durable modern mechanisms, creating distinct technical and compliance requirements depending on property age and status.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Bargate need specialist window lock repair?",
-      "a": "Period sash windows in Boston's listed Georgian and Victorian terraces often have original espagnolette locks that require careful handling to preserve their heritage value. Our locksmiths understand how to repair or sensitively replace these traditional mechanisms without compromising the building's listed status."
-    },
-    {
-      "q": "What window lock standards apply to rental properties in Fenside?",
-      "a": "Post-war council-estate properties in Fenside typically need insurance-approved shootbolt locks that meet modern rental standards. We can upgrade or repair your window locks to comply with landlord insurance requirements while ensuring smooth operation."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Boston | Victorian & Period Properties",
-  "safe-installation.meta.description": "Professional safe installation in Boston for Victorian terraces, modern flats & council homes. Secure anchoring, insurance documentation & anti-leverage positioning.",
-  "safe-installation.hero-paragraph": "Professional safe installation from Boston's trusted locksmith specialists combines expert locksmithing with secure positioning techniques. Our engineers handle floor anchoring and wall mounting to AiS approved standards, ensuring your new safe meets insurance requirements. Whether you need cash rating verification or Eurograde certification, we deliver installations that protect your valuables to the highest specifications.",
-  "safe-installation.local-context-body": "Trinity's Victorian terraces and Bargate's listed period properties present particular safe-installation challenges, as wall anchoring must account for original plasterwork and cavity depths that differ markedly from modern construction. Post-war suburban properties in areas like Witham, conversely, feature more straightforward cavity specifications, though many remain rental stock where landlord approval and insurance compliance take priority over heritage considerations.\n\nListed-building consent applies to visible safe installations in Boston's conservation areas, requiring discrete placement or specialist concealment methods. Older terraces frequently contain solid brick or lime-mortar walls that demand different anchoring techniques than modern cavity construction, and many insurers require documented installation photographs and engineer specifications before cover is activated on high-value safes.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian terrace properties like those in St Thomas and Trinity?",
-      "a": "Yes. We specialise in safe installation in period properties, including Victorian terraces where we assess wall construction carefully to ensure proper anchoring without compromising listed features or original plasterwork. We provide full insurance documentation for each installation."
-    },
-    {
-      "q": "Can you anchor a safe in a post-war semi-detached property in Staniland?",
-      "a": "Absolutely. Post-war semi-detached and detached homes in Staniland typically have standard brick and block construction, making them ideal for both wall and floor-mounted safes. We'll assess your property and secure the safe to meet your insurer's requirements with certified documentation."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Boston | Victorian & Period Property Safes",
-  "safe-opening.meta.description": "Safe opening in Boston: lost keys, combinations, jammed safes. Non-destructive methods for Victorian terraces and period properties. Domestic & commercial.",
-  "safe-opening.hero-paragraph": "When you need safe opening in Boston, our locksmith team combines expert locksmithing with non-destructive techniques to regain access to your secure storage. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ specialised methods including combination dial manipulation to restore access without damage to your safe.",
-  "safe-opening.local-context-body": "Safe deposit boxes and home safes are common in Haven Village's modern flat developments, where residents often require swift non-destructive access after losing combinations or keys. Older terraced properties across the town centre similarly house period safes that demand specialist handling to avoid damage to irreplaceable fixtures and surrounding period joinery.\n\nBoston's listed Georgian and Victorian terraces present particular constraints: safe opening must preserve original wall finishes and avoid methods that compromise structural integrity or heritage value. Council estate properties in Skirbeck Quarter frequently feature standard domestic safes where insurance documentation requirements often necessitate rapid, damage-free access to satisfy claim processes.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Bargate with an old safe built into the wall—the previous owner lost the combination. Can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties like those in Boston's historic terraces. Our technicians use specialist techniques to access your safe while preserving the original fixtures and listed building integrity."
-    },
-    {
-      "q": "We rent a property in Fenside and our tenant has locked themselves out of the safe. Do you offer emergency safe opening for rental properties?",
-      "a": "Absolutely—we provide rapid non-destructive safe opening for rental properties across Fenside and the wider Boston area, and we can work around insurance requirements and landlord protocols."
-    }
-  ],
-  "home.areas-covered": [
-    "Bargate",
-    "Fenside",
-    "Haven Village",
-    "Skirbeck",
-    "Skirbeck Quarter",
-    "St Thomas",
-    "Staniland",
-    "Trinity",
-    "Witham"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "St Thomas",
-    "Trinity",
-    "Fenside",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "locked-out.areas-covered": [
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Skirbeck",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Skirbeck Quarter",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Bargate",
-    "Haven Village"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Staniland",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "lock-changes.areas-covered": [
-    "Fenside",
-    "Trinity",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "lock-repairs.areas-covered": [
-    "Bargate",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Haven Village"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Witham",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Haven Village",
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate"
-  ],
-  "door-repairs.areas-covered": [
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "safe-installation.areas-covered": [
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ],
-  "safe-opening.areas-covered": [
-    "Trinity",
-    "Fenside",
-    "St Thomas",
-    "Witham",
-    "Staniland",
-    "Skirbeck Quarter",
-    "Bargate",
-    "Haven Village"
-  ]
+ "meta.title": "Locksmith Boston | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted Boston locksmith for Victorian terraces, council estates & modern homes. Emergency call-outs, repairs, replacements & security upgrades 24/7.",
+ "home.hero-paragraph": "Boston locksmith services and expert locksmithing help are available around the clock from our fully insured team. We specialise in emergency lockouts, lock changes, and lock repairs for domestic and commercial properties. All our engineers are DBS checked and use non-destructive entry methods whenever possible.",
+ "home.local-context-heading": "Locking Boston's Georgian Core and Modern Suburbs",
+ "home.local-context-body": "Boston's mixed housing stock\u2014Victorian terraces in the town centre, post-war semis in Skirbeck Quarter, and newer developments around Haven Village\u2014creates varied locksmith demands. Period properties with original sash locks need specialist attention to avoid damaging listed features, while council-estate housing typically requires insurance-approved locks meeting rental standards. Each property type calls for different expertise.\n\nLandlords in Boston often face specific pressures: HMO licensing requirements specify approved locks and access controls, conservation-area restrictions limit hardware visibility on listed terraces, and the prevalence of traditional timber doors means hinges and frames need careful assessment during upgrades. Local properties frequently have non-standard door dimensions inherited from their era of construction, requiring bespoke fitting rather than off-the-shelf solutions.",
+ "home.local-faqs": [
+  {
+   "q": "Do you handle locks in Boston's Victorian terraces and listed properties?",
+   "a": "Yes. Our locksmiths have specialist experience with period sash locks and original hardware common in Boston's Georgian and Victorian town centre. We understand listed-building regulations and can upgrade security without compromising heritage features."
+  },
+  {
+   "q": "What locks do you recommend for rental properties in Fenside and Skirbeck?",
+   "a": "We fit insurance-approved locks and rental-standard hardware suited to council-estate and semi-detached properties across Boston's post-war suburbs. These meet landlord requirements and provide reliable security for family homes."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Boston \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "Emergency locksmith Boston \u2013 24/7 lockouts, snapped keys & urgent repairs. Fast response for Victorian terraces, council estates & modern homes.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Boston combines expert locksmithing with rapid response times to get you back inside when you need it most. Whether you're facing a lockout, snapped key, or post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Boston frequently involve period properties across the historic town centre and Victorian terraces in Bargate, where original sash locks and heritage hardware may require specialist handling during urgent callouts. Post-war suburban areas like Fenside also generate significant demand, particularly from semi-detached properties where standard pin-tumbler locks and rental-standard hardware dominate the emergency repair landscape.\n\nListed-building status across much of Boston's Georgian and Victorian core means emergency repairs to doors and locks in these properties often need to preserve original joinery and period fittings, limiting rapid replacement options. Many older terraces also feature traditional wooden doors susceptible to warping and swelling, which commonly trigger lock-engagement problems independent of mechanical failure\u2014a distinction that affects diagnosis speed during out-of-hours callouts.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Trinity and my sash lock won't turn \u2013 can you help at night?",
+   "a": "Yes, we operate 24/7 emergency callouts across Boston including the historic Trinity conservation area. For period sash locks common in Victorian terraces, our locksmiths carry specialist tools and avoid damage to original hardware \u2013 crucial for listed properties."
+  },
+  {
+   "q": "It's midnight and my council-estate door lock is broken in Skirbeck Quarter \u2013 do you know insurance-approved replacements?",
+   "a": "We're available round-the-clock for emergency lock failures and can fit insurance-approved locks that meet rental-standard requirements for post-war properties. Call 01205 601044 and we'll attend quickly with the right parts for your property type."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Boston \u2013 Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Boston? Shieldx provides fast non-destructive entry for lost or snapped keys. Emergency 24/7 service across Victorian terraces, Fenside homes & modern flats.",
+ "locked-out.hero-paragraph": "When you're locked out in Boston, our locksmith technicians specialise in locksmithing solutions that get you back inside quickly. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry methods to ensure damage-free access to your property. Our rapid response team arrives equipped to handle any lockout situation.",
+ "locked-out.local-context-body": "Boston's post-war suburban areas, particularly around Staniland, feature semi-detached properties where locked-out calls frequently involve modern mortice locks and Yale-style mechanisms installed to rental standards. These developments account for a significant proportion of non-emergency access work, where property managers and tenants require swift, damage-free entry without affecting insurance compliance or deposit agreements.\n\nThe Victorian terraces of Trinity present a distinct challenge: sash locks and period hardware in listed properties mean that forced entry risks conservation penalties and listed-building consent violations. Non-destructive entry techniques become essential here, as traditional methods of lock forcing can damage original joinery or ironwork that cannot be easily replaced.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Bargate \u2014 will non-destructive entry damage my original sash locks?",
+   "a": "No. Our locksmiths specialise in non-destructive techniques that preserve period hardware common in Boston's listed Georgian and Victorian properties. We'll carefully manipulate or bypass your lock without forcing it, protecting both the mechanism and your property's character."
+  },
+  {
+   "q": "How quickly can you reach me if I'm locked out in Fenside or Haven Village?",
+   "a": "We typically arrive within 30\u201360 minutes across Boston, including the post-war suburbs and modern riverside developments. Call 01205 601044 with your location, and we'll confirm our ETA and begin non-destructive entry as soon as we arrive."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Boston \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Boston & Trinity. Expert extraction from euro cylinders, mortice locks & night latches. Non-destructive. 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Boston requires experienced locksmiths skilled in locksmithing techniques that preserve your lock's integrity. Whether you're dealing with a snapped key in a mortice lock or euro cylinder, our technicians employ non-destructive methods using specialised key extractor tools. We'll have you back in quickly without costly replacements.",
+ "broken-key-removal.local-context-body": "Witham's established inner suburbs contain numerous interwar semis and terraces where wear on original euro cylinders and mortice locks remains common. Broken key incidents in these properties often involve locks that have been in service for decades, with metal fatigue a frequent contributor. The historic Trinity conservation area presents additional complexity: period sash locks and traditional hardware sometimes require specialist extraction techniques to avoid damage to listed fittings.\n\nBoston's older properties frequently feature original hardwood doors and period frames where key breakage can be compounded by lock corrosion or misalignment. Many Victorian and Georgian terraces in the town centre have undergone multiple lock replacements over time, meaning cylinders and mortice mechanisms vary widely in condition and specification. Insurance-approved locks in rental properties across post-war areas may have specific extraction protocols that differ from domestic standard locks, affecting both method and timeline.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash locks in Trinity need specialist key removal?",
+   "a": "Trinity's Georgian and Victorian terraces often have original or heritage-matched sash locks with narrower, more delicate cylinders than modern euro locks. A snapped key in these period mechanisms requires careful extraction to avoid damaging the original hardware\u2014we use specialised tools to preserve listed-property integrity."
+  },
+  {
+   "q": "What's the fastest way to get back into a council property in Skirbeck Quarter if my key breaks?",
+   "a": "Post-war council estates like Skirbeck Quarter typically use standardised mortice locks and night latches that we can extract keys from and replace quickly while maintaining your insurance-approved lock standard. Call us on 01205 601044 and we'll attend within hours to minimise disruption."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Boston | Victorian Terrace Lock Repair",
+ "burglar-repair-service.meta.description": "Emergency burglar repair service in Boston. Post-break-in lock changes, door repairs and security upgrades. Insurance-compliant, fast response across Skirbeck Quarter and the town centre.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair in Boston requires expert locksmith knowledge and locksmithing skills to restore security after forced entry. Our technicians specialise in repairing damaged doors and smashed locks, installing TS007 anti-snap cylinders and BS3621 mortice locks to meet insurance-compliant standards. We ensure your property is properly secured and certified.",
+ "burglar-repair-service.local-context-body": "Post-break-in repairs in Trinity's Victorian terraces demand particular attention to period-appropriate hardware and listed-building compliance. Many properties in this historic core retain original sash locks and period joinery that constrain material choices during reinstatement. Conversely, Staniland's semi-detached housing, developed post-war with standard frames and fittings, typically allows faster insurance-approved lock replacement and door remediation without conservation considerations.\n\nBoston's prevalence of older properties means break-in repairs frequently involve traditional wooden frames and period ironwork, requiring locksmiths to source compatible hardware rather than rely on off-the-shelf modern solutions. Listed-building consent can delay reinstatement in the town centre, while council-estate properties in outer suburbs may require specific insurance-approved locks to meet landlord or housing-association standards. Door material\u2014from original timber in Victorian stock to modern composite in newer builds\u2014shapes repair methodology and parts availability.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my Victorian terrace in St Thomas, can you repair my original sash lock to insurance standards?",
+   "a": "Yes. We specialise in post-break-in reinstatement of period locks found in Boston's Victorian terraces, and we ensure all repairs meet insurance requirements so your claim isn't compromised. We can source matching hardware to preserve the character of your property while upgrading security where needed."
+  },
+  {
+   "q": "My council property in Skirbeck Quarter was broken into\u2014do you work with landlords and insurance companies on emergency door repairs?",
+   "a": "Absolutely. We handle full post-break-in door and lock repairs on rental properties across the post-war suburbs, and we liaise directly with insurers to ensure work meets their approval standards and gets documented for your claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Boston \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Boston including Trinity & Witham. Same-day door and window boarding after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Boston from our experienced locksmiths combines practical locksmithing expertise with rapid response. We specialise in securing properties damaged by smashed windows or broken glazing, using robust plywood boards and security screws to create weatherproof temporary seals. Our 24/7 service ensures your property remains insurance-compliant following break-ins or weather damage.",
+ "emergency-boarding-up.local-context-body": "Break-ins affecting Boston's older residential core\u2014particularly Victorian terraces in St Thomas\u2014often require boarding up of period-appropriate doors and sash windows. The town's mixed housing stock means emergency callouts span both heritage properties and post-war semi-detached homes in Skirbeck Quarter, where faster-access damage to rental stock demands rapid secure closure before weather or further intrusion occurs.\n\nBoston's Georgian and Victorian town centre contains numerous listed buildings where temporary boarding must avoid damage to original frames and architraves. Local contractors working in these areas need awareness of conservation officer requirements and listed-building protocols; timber-frame sash windows and recessed period doorways often dictate non-standard boarding methods that preserve structural integrity for subsequent proper repairs.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "How quickly can you board up a Victorian sash window in Bargate after a break-in?",
+   "a": "We attend emergency boarding calls within 60 minutes across Boston. For listed properties in Bargate's historic terraces, we use boarding methods that protect original joinery and comply with conservation requirements, ensuring your period property is secured without damage to listed features."
+  },
+  {
+   "q": "Do you board up council-estate properties to insurance standards in Fenside?",
+   "a": "Yes. Our emergency boarding service in Fenside and similar post-war suburbs meets standard insurance-approval requirements for temporary door and window protection. We'll photograph and document the boarding for your claim, then arrange proper repairs once your insurer approves."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Boston | Victorian & Period Property Specialists",
+ "lock-changes.meta.description": "Lock changes in Boston \u2013 fast professional replacement for lost keys, moving home & security upgrades. Trinity, Staniland & beyond.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Boston from our experienced locksmith team specialise in locksmithing solutions for every situation. Whether you're moving home, upgrading security, or managing a tenancy turnover, we fit high-specification locks including BS3621 mortice locks and TS007 anti-snap cylinders. Our work meets current UK security standards.",
+ "lock-changes.local-context-body": "Lock changes in Boston reflect the town's split between heritage and modern residential areas. Properties in Bargate's Victorian terraces often retain original period hardware, requiring specialist knowledge during replacement to preserve listed-building integrity. Conversely, newer developments in Haven Village and established semi-detached homes in Fenside typically need straightforward modern lock installations, where insurance-approved or rental-standard hardware is the standard requirement.\n\nBoston's Georgian and Victorian town centre properties frequently feature sash locks and period-specific hardware that demand careful handling during replacement. Older terraced homes may have non-standard door frames or recessed lock positions, necessitating custom fitting rather than direct substitution. Listed-building consent requirements also apply to significant lock replacements in the historic core, adding a formal step before work can proceed.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Bargate and want to change the locks\u2014will this affect the listed building status?",
+   "a": "Listed properties in Bargate's historic core often have restrictions on external hardware changes. We're familiar with heritage-sensitive lock replacements that maintain period appearance while meeting modern security standards\u2014contact us to discuss your specific property."
+  },
+  {
+   "q": "We're renting a council property in Fenside and our landlord requires insurance-approved locks. Can you fit compliant hardware?",
+   "a": "Yes\u2014we regularly install insurance-approved and rental-standard locks across Fenside's semi-detached and bungalow properties. We'll ensure your new lock meets your landlord's requirements and provide certification."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Boston | Victorian Terrace & Period Locks",
+ "lock-repairs.meta.description": "Lock repair in Boston for Victorian terraces & period properties. Expert fixes for multipoint, mortice & sash locks. Emergency 24/7 service available.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs in Boston from our qualified locksmith team specialising in professional locksmithing. Whether your lock is stiff, jammed, or the key won't turn, we diagnose and repair all mechanisms to manufacturer warranty standards. Our technicians handle mortice maintenance and multipoint servicing to restore smooth operation and security.",
+ "lock-repairs.local-context-body": "Boston's mixed Victorian and post-war housing stock creates varied lock repair demands. Properties in Trinity, with their period terraces and original sash locks, frequently require specialist gearbox and mortice repairs that preserve heritage fittings. Meanwhile, semi-detached homes across Staniland suburbs typically need multipoint and night latch servicing suited to modern rental and insurance standards.\n\nListed buildings in Boston's Georgian and Victorian town centre impose constraints on lock repair work. Replacements and modifications to original hardware must comply with conservation area rules, meaning repairs to period mechanisms take precedence over wholesale upgrades. Council-estate properties across post-war areas likewise demand insurance-approved lock specifications, affecting which repair solutions are viable for landlords and tenants.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Boston's town centre has a broken sash lock \u2013 can you repair the original hardware?",
+   "a": "Yes. Boston's Georgian and Victorian terraces often feature period sash locks that require specialist knowledge to repair without damaging listed features. We can restore original mechanisms or fit sympathetic replacements that meet heritage standards."
+  },
+  {
+   "q": "Our council property in Skirbeck Quarter needs an insurance-approved multipoint lock repair \u2013 how quickly can you attend?",
+   "a": "We prioritise multipoint and mortice lock repairs on rental properties across the post-war estates, including Skirbeck Quarter, and aim for same-day or next-day attendance. Insurance-compliant repairs ensure your tenancy requirements are met."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Boston | Victorian & Modern Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Boston, Bargate & Fenside. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Specialist service for period and modern properties.",
+ "door-lock-installation.hero-paragraph": "Expert door lock installation in Boston from our experienced locksmith team specialising in locksmithing solutions. Whether you're fitting new locks for security upgrades, meeting insurance requirements, or replacing worn mechanisms, we install BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. Our technicians ensure your doors are properly secured with quality hardware fitted correctly.",
+ "door-lock-installation.local-context-body": "Door lock installation across Boston requires sensitivity to the town's dual character. Victorian terraces in St Thomas retain original timber frames and period hardware that demand careful handling during BS3621 mortice fitting, while modern semi-detached properties in Staniland typically accommodate standard multipoint systems without structural constraint. The older stock's varied door constructions\u2014from solid wood to composite\u2014means installers must assess material compatibility before selecting appropriate lock specifications.\n\nListed buildings and conservation-area properties throughout Boston's historic core introduce planning considerations that can affect installation timescales and method. Many period properties feature non-standard door thicknesses or heritage-sensitive frames where TS007 anti-snap cylinders require specialist positioning to avoid visible damage. Insurance requirements for rental properties in post-war areas often mandate specific lock standards, creating a secondary driver for installation demand beyond security upgrades alone.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install BS3621 mortice locks on Victorian sash windows in Boston's town centre?",
+   "a": "Yes. Boston's Georgian and Victorian terraces in areas like St Thomas often have original period hardware, and we specialise in fitting BS3621 mortice locks that meet insurance requirements while respecting listed-property constraints and heritage aesthetics."
+  },
+  {
+   "q": "Can you fit TS007 anti-snap cylinders to council-estate properties in Skirbeck Quarter?",
+   "a": "Yes. We regularly install TS007-rated anti-snap cylinders on rental and social-housing properties across the post-war estates, ensuring compliance with landlord insurance standards and tenant security needs."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Boston | Victorian & Modern Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in Boston. Upgrades for Victorian terraces, council estates & modern homes. Same-day service. Call 01205 601044.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Boston from our experienced locksmith combines modern locksmithing techniques with trusted craftsmanship. Whether you've experienced a failed lock, lost keys, or are moving home, we specialise in like-for-like cylinder swaps and anti-snap upgrades meeting BS3621 standards. Our technicians ensure your new lock provides reliable security and peace of mind.",
+ "door-lock-replacement.local-context-body": "Georgian and Victorian terraces in Boston's town centre frequently require door lock replacement within the constraints of listed-building consent. Period properties across Skirbeck and the medieval core often retain original sash locks and period hardware; replacements must balance security upgrades with conservation requirements. Modern developments in Haven Village, by contrast, feature contemporary door furniture where straightforward like-for-like swaps or upgrades to digital systems are standard practice.\n\nBoston's older housing stock\u2014particularly council estates and post-war semi-detached properties\u2014commonly uses insurance-approved locks to meet rental or mortgage-protection standards. Locksmiths must verify whether replacement work requires compliance with specific insurance schedules or landlord specifications, especially in properties where tenancy agreements govern security hardware choice. Sash doors and timber frames in period properties also demand precision fitting to avoid damage during removal and installation.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian sash lock in my St Thomas terrace \u2013 can you replace it without damaging the original hardware?",
+   "a": "Yes. Our locksmiths specialise in heritage-sensitive replacements for Boston's period properties; we can fit modern secure locks while preserving your original frames and listed-building aesthetics. We'll advise on sympathetic upgrades that meet current security standards."
+  },
+  {
+   "q": "My council-estate property in Skirbeck Quarter needs a new lock \u2013 does it need to be insurance-approved?",
+   "a": "Many rental and social-housing properties in Skirbeck Quarter require locks meeting specific insurance or tenancy standards. We'll check your lease or insurer's requirements and fit an approved replacement that satisfies both security and compliance."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Boston \u2013 Same-Day Service Available",
+ "door-repairs.meta.description": "Door repairs in Boston, including Victorian terraces in St Thomas. uPVC alignment, composite door realignment, timber easing & handle repair.",
+ "door-repairs.hero-paragraph": "When your door needs professional attention, Boston's trusted locksmith specialists in door repairs and locksmithing are ready to help. Whether you're dealing with a dropped door, catching frame, or draughts affecting your uPVC or composite entrance, our technicians handle hinge adjustment and multipoint realignment with precision. We restore your doors to proper working order quickly.",
+ "door-repairs.local-context-body": "Fenside's post-war semi-detached and bungalow stock frequently requires door realignment and hardware repair due to settlement and age-related frame movement. These properties, built to rental and insurance standards, often feature standardised door frames and hinges that respond well to adjustment and straightforward hardware replacement when misalignment occurs.\n\nBoston's substantial Victorian and Georgian terrace properties in the town centre present distinct challenges: original hardwood frames and period hinges demand careful handling during repair, and dropped doors in listed buildings require solutions that preserve historic character. Modern Haven Village developments, by contrast, involve contemporary frame systems where door adjustments typically follow current building specifications.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash doors in Trinity often drop or misalign, and can you fix them?",
+   "a": "Victorian terraces in Trinity's historic core frequently suffer from settling and timber movement, causing sash doors to drop or bind. We specialise in realigning period frames and rehanging doors without compromising listed-building requirements."
+  },
+  {
+   "q": "Do you repair council-estate door hardware in the post-war suburbs?",
+   "a": "Yes\u2014properties in Skirbeck Quarter and Fenside often need insurance-approved locks and rental-standard hinges replaced or adjusted. We're familiar with insurance requirements and can ensure your repairs meet landlord standards."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Boston | Victorian Terraces",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Boston, Skirbeck Quarter & St Thomas. Espagnolette, shootbolt & handle locks fixed on uPVC, aluminium, timber windows.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Boston locksmith team specialises in window lock repair and replacement, combining traditional locksmithing expertise with modern security solutions. Whether you're dealing with windows that won't lock or broken handles, we restore espagnolette mechanisms and shootbolt locks to full working order. All our fitting work is insurance-compliant, ensuring your home meets current security standards.",
+ "window-lock-repair-replacement.local-context-body": "Victorian terraces throughout St Thomas feature original sash windows with period espagnolette locks that frequently require specialist repair or careful replacement to maintain authenticity. Semi-detached properties in Staniland, built during post-war suburban expansion, typically have standard shootbolt mechanisms on uPVC and timber frames where wear and weathering drive replacement demand across the town's mixed housing stock.\n\nListed buildings in Boston's Georgian and Victorian town centre impose restrictions on window lock replacement; any work on heritage properties must preserve original hardware or use sympathetic reproduction fittings. Conversely, council-estate properties in Skirbeck Quarter prioritise insurance-approved locks and durable modern mechanisms, creating distinct technical and compliance requirements depending on property age and status.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Bargate need specialist window lock repair?",
+   "a": "Period sash windows in Boston's listed Georgian and Victorian terraces often have original espagnolette locks that require careful handling to preserve their heritage value. Our locksmiths understand how to repair or sensitively replace these traditional mechanisms without compromising the building's listed status."
+  },
+  {
+   "q": "What window lock standards apply to rental properties in Fenside?",
+   "a": "Post-war council-estate properties in Fenside typically need insurance-approved shootbolt locks that meet modern rental standards. We can upgrade or repair your window locks to comply with landlord insurance requirements while ensuring smooth operation."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Boston | Victorian & Period Properties",
+ "safe-installation.meta.description": "Professional safe installation in Boston for Victorian terraces, modern flats & council homes. Secure anchoring, insurance documentation & anti-leverage positioning.",
+ "safe-installation.hero-paragraph": "Professional safe installation from Boston's trusted locksmith specialists combines expert locksmithing with secure positioning techniques. Our engineers handle floor anchoring and wall mounting to AiS approved standards, ensuring your new safe meets insurance requirements. Whether you need cash rating verification or Eurograde certification, we deliver installations that protect your valuables to the highest specifications.",
+ "safe-installation.local-context-body": "Trinity's Victorian terraces and Bargate's listed period properties present particular safe-installation challenges, as wall anchoring must account for original plasterwork and cavity depths that differ markedly from modern construction. Post-war suburban properties in areas like Witham, conversely, feature more straightforward cavity specifications, though many remain rental stock where landlord approval and insurance compliance take priority over heritage considerations.\n\nListed-building consent applies to visible safe installations in Boston's conservation areas, requiring discrete placement or specialist concealment methods. Older terraces frequently contain solid brick or lime-mortar walls that demand different anchoring techniques than modern cavity construction, and many insurers require documented installation photographs and engineer specifications before cover is activated on high-value safes.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian terrace properties like those in St Thomas and Trinity?",
+   "a": "Yes. We specialise in safe installation in period properties, including Victorian terraces where we assess wall construction carefully to ensure proper anchoring without compromising listed features or original plasterwork. We provide full insurance documentation for each installation."
+  },
+  {
+   "q": "Can you anchor a safe in a post-war semi-detached property in Staniland?",
+   "a": "Absolutely. Post-war semi-detached and detached homes in Staniland typically have standard brick and block construction, making them ideal for both wall and floor-mounted safes. We'll assess your property and secure the safe to meet your insurer's requirements with certified documentation."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Boston | Victorian & Period Property Safes",
+ "safe-opening.meta.description": "Safe opening in Boston: lost keys, combinations, jammed safes. Non-destructive methods for Victorian terraces and period properties. Domestic & commercial.",
+ "safe-opening.hero-paragraph": "When you need safe opening in Boston, our locksmith team combines expert locksmithing with non-destructive techniques to regain access to your secure storage. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ specialised methods including combination dial manipulation to restore access without damage to your safe.",
+ "safe-opening.local-context-body": "Safe deposit boxes and home safes are common in Haven Village's modern flat developments, where residents often require swift non-destructive access after losing combinations or keys. Older terraced properties across the town centre similarly house period safes that demand specialist handling to avoid damage to irreplaceable fixtures and surrounding period joinery.\n\nBoston's listed Georgian and Victorian terraces present particular constraints: safe opening must preserve original wall finishes and avoid methods that compromise structural integrity or heritage value. Council estate properties in Skirbeck Quarter frequently feature standard domestic safes where insurance documentation requirements often necessitate rapid, damage-free access to satisfy claim processes.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Bargate with an old safe built into the wall\u2014the previous owner lost the combination. Can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties like those in Boston's historic terraces. Our technicians use specialist techniques to access your safe while preserving the original fixtures and listed building integrity."
+  },
+  {
+   "q": "We rent a property in Fenside and our tenant has locked themselves out of the safe. Do you offer emergency safe opening for rental properties?",
+   "a": "Absolutely\u2014we provide rapid non-destructive safe opening for rental properties across Fenside and the wider Boston area, and we can work around insurance requirements and landlord protocols."
+  }
+ ],
+ "home.areas-covered": [
+  "Algarkirk",
+  "Bargate",
+  "Benington",
+  "Bicker",
+  "Butterwick",
+  "Fenside",
+  "Fishtoft",
+  "Fosdyke",
+  "Frampton",
+  "Freiston",
+  "Haltoft End",
+  "Hubbert's Bridge",
+  "Kirton",
+  "Leake Common Side",
+  "Leverton",
+  "North End",
+  "Old Leake",
+  "Skirbeck",
+  "Skirbeck Quarter",
+  "St Thomas",
+  "Staniland",
+  "Sutterton",
+  "Swineshead",
+  "Trinity",
+  "Wigtoft",
+  "Witham",
+  "Wrangle",
+  "Wyberton"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "St Thomas",
+  "Trinity",
+  "Fenside",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Leverton",
+  "North End"
+ ],
+ "locked-out.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Fosdyke",
+  "Frampton"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Skirbeck",
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Algarkirk"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Skirbeck Quarter",
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Bargate",
+  "Fosdyke",
+  "Frampton"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Staniland",
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Fosdyke",
+  "Frampton"
+ ],
+ "lock-changes.areas-covered": [
+  "Fenside",
+  "Trinity",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Sutterton",
+  "Swineshead"
+ ],
+ "lock-repairs.areas-covered": [
+  "Bargate",
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Algarkirk",
+  "Benington"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Witham",
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Leverton",
+  "North End"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Sutterton",
+  "Swineshead"
+ ],
+ "door-repairs.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Algarkirk",
+  "Benington"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Algarkirk",
+  "Benington"
+ ],
+ "safe-installation.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Leverton",
+  "North End"
+ ],
+ "safe-opening.areas-covered": [
+  "Trinity",
+  "Fenside",
+  "St Thomas",
+  "Witham",
+  "Staniland",
+  "Skirbeck Quarter",
+  "Bargate",
+  "Sutterton",
+  "Swineshead"
+ ]
 }

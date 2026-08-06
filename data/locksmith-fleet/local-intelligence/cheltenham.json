@@ -1,227 +1,221 @@
 {
-  "location": "Cheltenham",
-  "neighborhoods": [
-    {
-      "name": "Montpellier",
-      "era": "Regency",
-      "types": [
-        "villa",
-        "terrace"
-      ],
-      "notes": "conservation area, listed buildings, high-value properties"
-    },
-    {
-      "name": "Pittville",
-      "era": "Regency",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "conservation area, historic spa town character"
-    },
-    {
-      "name": "Charlton Kings",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "detached"
-      ],
-      "notes": "affluent suburban, listed buildings"
-    },
-    {
-      "name": "Prestbury",
-      "era": "Victorian",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "upmarket residential"
-    },
-    {
-      "name": "Leckhampton",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "conservation area, popular residential"
-    },
-    {
-      "name": "Lansdown",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Battledown",
-      "era": "Edwardian",
-      "types": [
-        "detached",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Warden Hill",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Alstone",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "working-class historic area"
-    },
-    {
-      "name": "Moorend",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Kingsditch",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Southam",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Swindon Village",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Rowanfield",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Bafford",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "villa",
-      "detached"
-    ],
-    "era": "mixed Regency/Victorian spa-town character with substantial post-war suburban growth",
-    "notable": "High concentration of listed buildings and conservation areas; affluent Victorian/Regency core; significant student HMO conversion in central areas"
+ "location": "Cheltenham",
+ "neighborhoods": [
+  {
+   "name": "Montpellier",
+   "era": "Regency",
+   "types": [
+    "villa",
+    "terrace"
+   ],
+   "notes": "conservation area, listed buildings, high-value properties"
   },
-  "locksmith_relevant": [
-    "Cheltenham's Regency villas and listed terraces demand period-appropriate locks and specialist knowledge of sash windows and original hardware.",
-    "High student population renting central Victorian properties creates frequent lock changes, HMO multiple-occupancy security, and emergency callout demand.",
-    "Affluent Charlton Kings and Prestbury homeowners prioritize insurance-approved locks, UPVC door upgrades, and high-security cylinder replacements on properties worth £400k–£800k+."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Cheltenham",
-    "overpass": "OSM Overpass bbox query, 40 named areas",
-    "coords": {
-      "lat": 51.8995685,
-      "lon": -2.0711559
-    }
+  {
+   "name": "Pittville",
+   "era": "Regency",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "conservation area, historic spa town character"
   },
-  "generated_at": "2026-05-13T12:22:10.184Z",
-  "all_areas": [
-    "Alstone",
-    "Arle",
-    "Bafford",
-    "Battledown",
-    "Beeches",
-    "Charlton Kings",
-    "Charlton Park",
-    "Cleevemount",
-    "East End",
-    "Ewens Farm",
-    "Fairview",
-    "Kingsditch",
-    "Lansdown",
-    "Leckhampton",
-    "Little Herberts",
-    "Lynworth",
-    "Marle Hill",
-    "Montpellier",
-    "Moorend",
-    "Naunton",
-    "Noverton",
-    "Oakley",
-    "Pilley",
-    "Pittville",
-    "Prestbury",
-    "Rowanfield",
-    "Ryeworth",
-    "Sandford",
-    "Shaw Green",
-    "Sixways",
-    "Southam",
-    "Spring Bottom",
-    "St Mark's",
-    "St Paul’s",
-    "St Peter's",
-    "Swindon Village",
-    "Tivoli",
-    "Warden Hill",
-    "Whaddon",
-    "Wymans Brook"
-  ],
-  "geo": {
-    "latitude": 51.8995685,
-    "longitude": -2.0711559
+  {
+   "name": "Charlton Kings",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "detached"
+   ],
+   "notes": "affluent suburban, listed buildings"
   },
-  "postcode_districts": [
-    "GL50",
-    "GL51",
-    "GL52",
-    "GL53"
-  ],
-  "postcode_meta": {
-    "GL52": {
-      "count": 12,
-      "sample": "GL52 3EL",
-      "admin": "Cheltenham"
-    },
-    "GL51": {
-      "count": 6,
-      "sample": "GL51 9RJ",
-      "admin": "Cheltenham"
-    },
-    "GL50": {
-      "count": 6,
-      "sample": "GL50 2LT",
-      "admin": "Cheltenham"
-    },
-    "GL53": {
-      "count": 12,
-      "sample": "GL53 8JP",
-      "admin": "Cheltenham"
-    }
+  {
+   "name": "Prestbury",
+   "era": "Victorian",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "upmarket residential"
+  },
+  {
+   "name": "Leckhampton",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "conservation area, popular residential"
+  },
+  {
+   "name": "Lansdown",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Battledown",
+   "era": "Edwardian",
+   "types": [
+    "detached",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Warden Hill",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Alstone",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "working-class historic area"
+  },
+  {
+   "name": "Moorend",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Kingsditch",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Southam",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Swindon Village",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Rowanfield",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Bafford",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "villa",
+   "detached"
+  ],
+  "era": "mixed Regency/Victorian spa-town character with substantial post-war suburban growth",
+  "notable": "High concentration of listed buildings and conservation areas; affluent Victorian/Regency core; significant student HMO conversion in central areas"
+ },
+ "locksmith_relevant": [
+  "Cheltenham's Regency villas and listed terraces demand period-appropriate locks and specialist knowledge of sash windows and original hardware.",
+  "High student population renting central Victorian properties creates frequent lock changes, HMO multiple-occupancy security, and emergency callout demand.",
+  "Affluent Charlton Kings and Prestbury homeowners prioritize insurance-approved locks, UPVC door upgrades, and high-security cylinder replacements on properties worth \u00a3400k\u2013\u00a3800k+."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Cheltenham",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Cheltenham admin area), 34 named areas",
+  "coords": {
+   "lat": 51.8995685,
+   "lon": -2.0711559
+  }
+ },
+ "generated_at": "2026-05-13T12:22:10.184Z",
+ "all_areas": [
+  "Alstone",
+  "Arle",
+  "Battledown",
+  "Benhall",
+  "Charlton Kings",
+  "Cleevemount",
+  "Ewens Farm",
+  "Fairview",
+  "Fiddler's Green",
+  "Hatherley",
+  "Hesters Way",
+  "Kingsditch",
+  "Lansdown",
+  "Leckhampton",
+  "Lynworth",
+  "Marle Hill",
+  "Montpellier",
+  "Naunton",
+  "Noverton",
+  "Oakley",
+  "Pittville",
+  "Prestbury",
+  "Rowanfield",
+  "Springbank",
+  "St Mark's",
+  "St Paul\u2019s",
+  "St Peter's",
+  "Swindon Village",
+  "The Reddings",
+  "Tivoli",
+  "Up Hatherley",
+  "Warden Hill",
+  "Whaddon",
+  "Wymans Brook"
+ ],
+ "geo": {
+  "latitude": 51.8995685,
+  "longitude": -2.0711559
+ },
+ "postcode_districts": [
+  "GL50",
+  "GL51",
+  "GL52",
+  "GL53"
+ ],
+ "postcode_meta": {
+  "GL52": {
+   "count": 12,
+   "sample": "GL52 3EL",
+   "admin": "Cheltenham"
+  },
+  "GL51": {
+   "count": 6,
+   "sample": "GL51 9RJ",
+   "admin": "Cheltenham"
+  },
+  "GL50": {
+   "count": 6,
+   "sample": "GL50 2LT",
+   "admin": "Cheltenham"
+  },
+  "GL53": {
+   "count": 12,
+   "sample": "GL53 8JP",
+   "admin": "Cheltenham"
+  }
+ }
 }

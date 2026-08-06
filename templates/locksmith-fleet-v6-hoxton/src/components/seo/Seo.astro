@@ -1,0 +1,63 @@
+---
+import jsonLDGenerator from "../../utils/jsonLD";
+import enriched from "../../data/enriched.json";
+
+type Props = {
+  title: string;
+  description: string;
+  url: string;
+  image?: { src: string; alt: string };
+  robots?: boolean;
+  frontmatter?: any;
+};
+
+const {
+  title,
+  description,
+  url = Astro.url,
+  image,
+  frontmatter,
+  robots,
+} = Astro.props;
+
+// Auto-discover FAQs for this page from enriched.json by URL slug.
+// Used to emit FAQPage schema. Returns [] silently if enrichment is missing.
+const e: Record<string, any> = enriched as any;
+const segments = (Astro.url.pathname || "/").split("/").filter(Boolean);
+const slug = segments.length === 0 ? "home" : segments[0];
+const faqs: { q: string; a: string }[] = Array.isArray(e[`${slug}.local-faqs`])
+  ? e[`${slug}.local-faqs`]
+  : [];
+
+const jsonLD = jsonLDGenerator({
+  type: frontmatter ? "post" : "website",
+  post: frontmatter,
+  url,
+  faqs,
+});
+
+const ogImage = image?.src || "/og.png";
+const ogImageAlt = image?.alt || "{{name}}";
+---
+
+<link rel="canonical" href={url} />
+
+<meta property="og:site_name" content="{{name}}" />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={url} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:image:alt" content={ogImageAlt} />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content={ogImage} />
+<meta name="twitter:image:alt" content={ogImageAlt} />
+
+{robots && <meta name="robots" content="noindex, nofollow" />}
+
+<Fragment set:html={jsonLD} />

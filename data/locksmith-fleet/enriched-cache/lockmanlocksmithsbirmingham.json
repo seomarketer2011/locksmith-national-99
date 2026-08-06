@@ -1,567 +1,441 @@
 {
-  "meta.title": "Locksmith Birmingham | Local Locksmithing Service 24/7",
-  "meta.description": "Locksmith services in Birmingham covering Victorian terraces, HMOs and post-war properties. Emergency call-outs, lock repairs, replacements and security upgrades.",
-  "home.hero-paragraph": "Birmingham locksmith services specialise in professional locksmithing and lock services for residential and commercial properties. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. All work is carried out by DBS checked technicians, fully insured, with a 24/7 emergency call-out service available across the city.",
-  "home.local-context-heading": "Locksmith Work Across Birmingham's Period Properties",
-  "home.local-context-body": "Birmingham's housing stock—Victorian terraces, interwar semis, and post-war estates—creates varied locksmith demands. Properties in Alum Rock and similar inner areas often retain original period locks and mechanisms that require specialist knowledge to maintain and repair. Aging systems in council estates like Great Barr similarly need modernization, while the city's extensive terraced housing generates consistent rekeying work as tenancies change.\n\nThe growing HMO sector in Aston and Digbeth has driven increased lock replacement frequency due to regular tenant turnover. Landlords managing multiple-occupancy properties should verify that lock upgrades meet current regulations for fire safety and access control. Many period properties also fall under conservation restrictions, meaning replacement locks must match original hardware styles and specifications.",
-  "home.local-faqs": [
-    {
-      "q": "Why do Victorian terraces and villas in central Birmingham need specialist locksmith services?",
-      "a": "Many period properties across Birmingham's inner city retain original Victorian and Edwardian locks and mechanisms that require specialist knowledge to repair, rekey, or replace without damaging historic fabric. We stock period-appropriate parts and understand the unique challenges these original systems present."
-    },
-    {
-      "q": "What lock services do HMO landlords in Aston and Digbeth typically need?",
-      "a": "High tenant turnover in Birmingham's growing HMO sector demands frequent rekeying and lock replacement to maintain security between occupants. We offer rapid turnaround services tailored to landlord compliance and student accommodation standards."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Birmingham – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Birmingham. Locked out of your Victorian terrace or HMO? Fast response, key extraction, lock repairs. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Birmingham brings expert locksmithing and rapid response when you need it most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods whenever possible. Fast, professional, dependable.",
-  "emergency-locksmith.local-context-body": "Bearwood's Victorian terraces and semi-detached properties frequently present emergency lockout scenarios where original period mechanisms have become stiff or unreliable, particularly during winter months when humidity affects wooden door frames and cast-iron locks. Lockouts in these properties demand quick response times, as residents often lack modern spare key systems for heritage locks that resist standardized rekeying solutions.\n\nListed-building status across much of central Birmingham means emergency interventions on Victorian and Edwardian properties must avoid damage to original joinery, frames, and decorative hardware—complicating forced-entry protocols that work on standard modern doors. High HMO turnover in inner suburbs drives frequent emergency call-outs when outgoing tenants fail to return keys or locks are damaged during rapid tenant transitions, creating demand for rapid-access locksmith attendance without damage to rental inventory.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Bearwood late at night — how quickly can you arrive?",
-      "a": "We're available 24/7 for emergency lockouts across Birmingham. Our team typically reaches Bearwood properties within 30–45 minutes, and we carry specialist tools for period locks common in Victorian terraces, so we can often open your door without damage."
-    },
-    {
-      "q": "My HMO in Digbeth has a snapped key in the lock after a tenant left — what's the next step?",
-      "a": "We regularly handle snapped-key extractions in Digbeth's busy HMO sector. We'll remove the broken piece and either repair the lock or rekey it the same day, ensuring your property is secure before the next tenant moves in."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Birmingham | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Birmingham? Lockman provides fast, non-destructive entry for lost or snapped keys. Expert service for Victorian terraces, HMOs & flats. 24/7 emergency locksmith.",
-  "locked-out.hero-paragraph": "When you're locked out in Birmingham, our locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry methods to regain access without damage to your door or frame.",
-  "locked-out.local-context-body": "Hall Green's semi-detached homes and the Victorian terraces of Erdington frequently require non-destructive entry after keys are mislaid or snapped in locks. The variety of original mechanisms in period properties, alongside modern composite doors in interwar suburbs, means locked-out calls span everything from traditional mortice locks to contemporary multipoint systems. Quick, damage-free access is essential when residents find themselves unexpectedly shut out.\n\nListed-building status affects many of Birmingham's older terraced properties, particularly in central wards, restricting the methods available for entry without council consent. Additionally, the high turnover in HMO properties across Digbeth and Aston means locks are frequently changed between tenants; confusion over working keys or access procedures during changeovers is a common trigger for emergency lockout calls in these areas.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Handsworth—will a locksmith damage the original period lock?",
-      "a": "No. Lockman uses non-destructive entry techniques that preserve original Victorian mechanisms, which is especially important in Handsworth's mixed-tenure properties where period features add value and character. We'll open the door without forcing or drilling unless absolutely necessary."
-    },
-    {
-      "q": "I'm a landlord with student HMOs in Aston and a tenant has lost their key—how quickly can you get them back in?",
-      "a": "We offer same-day emergency lockout call-outs across Aston and Digbeth, and we'll gain non-destructive entry without damaging the lock, keeping your property secure and avoiding costly replacements between tenants. Call 0121 400 0413 for immediate assistance."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Birmingham – Fast Local Service",
-  "broken-key-removal.meta.description": "Broken key removal in Birmingham for Victorian terraces & modern homes. Expert extraction from euro cylinders & mortice locks. Fast, non-destructive. Call 0121 400 0413.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Birmingham requires a locksmith with genuine locksmithing expertise to extract snapped or sheared keys safely from your lock. Our technicians use specialist key extractor tools and broken-key probes to retrieve fragments without damaging euro cylinders, mortice locks, or other mechanisms. We prioritise non-destructive methods to preserve your lock's integrity.",
-  "broken-key-removal.local-context-body": "Handsworth's Victorian terraces and semi-detached properties frequently present broken key scenarios, particularly where original period locks remain in service. Worn euro cylinders and mortice mechanisms in these older homes are prone to key fractures during normal use, especially when locks have not been professionally maintained or replaced for decades. The density of such properties across Birmingham's inner suburbs means broken key removal calls are a routine part of locksmith work in the city.\n\nPost-war council estates and newer properties in outer areas like Frankley tend to have more standardized lock systems, but aging mechanisms still result in key breakage. A practical consideration specific to Birmingham work is the prevalence of non-standard or period-specific cylinders in listed properties and Victorian properties, which may require careful extraction methods to avoid damage to the lock body itself. Quick removal without assessment can risk rendering the entire lock unusable, extending downtime for residents.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian locks in Edgbaston properties get broken keys stuck so often?",
-      "a": "Victorian mortice locks and night latches use older, narrower keyways that can trap modern keys at odd angles, causing them to snap under pressure. Period properties in Edgbaston's conservation areas often have original mechanisms that are more prone to this than modern euro cylinders, and we specialise in extracting keys from these delicate heritage locks without damaging the mechanism."
-    },
-    {
-      "q": "Can you remove a broken key from a euro cylinder in my Handsworth HMO rental?",
-      "a": "Yes—euro cylinders in high-turnover rental properties like those in Handsworth often see more wear and key breakages due to frequent lock changes and tenant damage. We can extract the broken segment and either rekey the existing cylinder or fit a new one, with a rapid response time suited to landlord requirements."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Birmingham – Fast Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Birmingham. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period homes. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Birmingham locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We restore security using door reinforcement and insurance-compliant BS3621 mortice locks. Whether you're dealing with smashed locks or a compromised door frame, our technicians ensure your home meets current security standards and regains full protection.",
-  "burglar-repair-service.local-context-body": "Many of Birmingham's Victorian terraces in Erdington and similar inner areas retain original timber frames and period lock mechanisms that require specialist repair after forced-entry damage. Break-ins to these properties often damage not just the lock but the door surround and architraves, necessitating careful reinstatement that respects the original construction while meeting modern security standards.\n\nPost-break-in repairs in Birmingham's high-turnover HMO properties—particularly concentrated in Aston—frequently involve insurance assessments and compliance checks. Landlords must ensure repairs meet tenancy deposit scheme requirements and basic security standards, which can extend timescales for reinstatement work beyond simple lock replacement.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "We've just had a break-in at our Victorian terrace in Erdington. Can you repair the original period lock, or will I need a full replacement?",
-      "a": "We specialise in period lock repair and can often restore original Victorian mechanisms, but if the lock is beyond safe repair, we'll source a matching replacement that maintains your home's character while meeting modern security standards. Our insurance-quality reinstatement work is documented for your claim."
-    },
-    {
-      "q": "Our Aston HMO was broken into and the landlord's insurance requires documented, professional repair before we can re-let. How quickly can you attend?",
-      "a": "We offer rapid emergency attendance across Aston and provide full photographic documentation and certificates suitable for insurance and letting compliance. We'll repair or replace your locks and doors to insurable standard so you can get tenants back in without delay."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Birmingham – Fast Response 24/7",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Birmingham. Same-day secure boarding of smashed doors and windows after break-ins or storm damage. Serving Edgbaston, Harborne and across the city.",
-  "emergency-boarding-up.hero-paragraph": "Our emergency boarding up locksmith service in Birmingham combines expert locksmithing with rapid crisis response. When smashed windows or damaged doors compromise your property's security, our technicians arrive 24/7 to install robust plywood boards and weatherproof temporary seals. We ensure all work meets insurance-compliant standards, protecting your premises until permanent repairs can be arranged.",
-  "emergency-boarding-up.local-context-body": "Emergency boarding up in Birmingham must account for the city's diverse housing legacy. Victorian terraces in Alum Rock and period villas across central areas often feature original timber frames and sash windows that require careful handling during emergency boarding to preserve structural integrity and avoid further damage. Post-war council estates in Frankley and Great Barr, by contrast, typically have standard brick and modern window frames that allow faster boarding protocols while still meeting urgent safety standards.\n\nListed-building status affects a significant proportion of Birmingham's older properties, particularly Victorian and Edwardian homes in inner-city areas. Emergency boarding contractors must verify whether a property falls under heritage protection before installation, as temporary boarding solutions may require planning approval or conservation officer notification. The prevalence of original period locks and wooden door frames in terraced housing also means boarding work often involves detailed assessment of existing damage to avoid compromising historical features during the securing process.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "We've had a break-in at our Victorian terrace in Digbeth – how quickly can you board up the damaged sash window?",
-      "a": "We're on call 24/7 and aim to arrive within the hour in central Birmingham areas like Digbeth. Victorian sash windows need careful boarding to avoid further damage to the original frame, so we use specialist techniques and materials suited to period properties."
-    },
-    {
-      "q": "A storm has smashed our front door in Frankley – will boarding up be secure until we can replace it?",
-      "a": "Yes, our emergency boarding uses heavy-duty plywood and reinforced fixings designed to be both secure and weatherproof, protecting your property overnight or longer. We work quickly on council estates like Frankley where post-war properties are more exposed to weather damage."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Birmingham – Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Birmingham for Victorian terraces, modern homes & HMOs. Lost keys? Moving home? Fast professional replacement service.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Birmingham require expert locksmithing knowledge, and our experienced locksmiths specialise in this essential service. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we fit high-specification locks meeting BS3621 standards. Our technicians install robust TS007 anti-snap cylinders and multipoint mechanisms to ensure your property receives durable, tested protection.",
-  "lock-changes.local-context-body": "Lock changes in Birmingham reflect the city's diverse housing stock. Aston's Victorian terraces and converted flats frequently require lock replacement due to high tenant turnover in the HMO sector, where landlords must rekey between occupants. Similarly, period properties across inner-city areas often retain original mechanisms that need upgrading for modern security standards or functional reliability after years of use.\n\nMany of Birmingham's Victorian properties feature original mortice locks and period-appropriate hardware that demand specialist knowledge during replacement. Listed buildings in central areas require sympathetic lock solutions that preserve character while meeting current security expectations. Additionally, the prevalence of solid timber doors in terraced housing means lock changes must account for door thickness and existing aperture sizes to ensure proper fit and function.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved into a Victorian terrace in Handsworth. Do I need specialist lock changes?",
-      "a": "Yes—many Victorian terraces have original period locks and mechanisms that require specialist knowledge to replace safely without damaging the door frame or architrave. We carry period-appropriate locks and can ensure your new locks match the style and security standards of your property."
-    },
-    {
-      "q": "We're managing an HMO in Digbeth with frequent tenant changes. How often should we change locks?",
-      "a": "We recommend changing locks between every tenancy to ensure security and prevent key copies being retained. As a high-density HMO area, Digbeth sees rapid turnover—our team can schedule regular lock changes quickly and efficiently to keep your property secure and compliant."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Birmingham – Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Birmingham for Victorian terraces, council estates & modern homes. Multipoint, mortice & night latch fixes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Birmingham from our experienced locksmith specialists combine precision locksmithing techniques with lasting solutions. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and resolve the issue efficiently. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably and come backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Edgbaston's Victorian villas and listed properties frequently require specialized lock repairs that respect period features and conservation constraints. Multipoint locks and mortice mechanisms in these older properties often show wear after decades of use, particularly where original hardware remains in place. Similarly, Harborne's Edwardian semi-detached homes rely on gearbox and night latch systems that benefit from timely repair rather than wholesale replacement, maintaining both function and architectural integrity.\n\nLock repair work in Birmingham must account for the prevalence of period mechanisms across the housing stock. Many terraced and villa properties contain original or heritage-standard locks that demand knowledge of traditional gearbox and mortice systems; unsuitable modern repairs can breach conservation area requirements. Additionally, the high density of HMOs in inner areas means night latches and multipoint systems experience accelerated wear cycles due to frequent tenant turnover, making rapid, accurate diagnosis and repair essential for compliance and turnaround.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Bearwood need specialist lock repair?",
-      "a": "Many Victorian properties in Bearwood still have original mortice locks and period mechanisms that require expert knowledge to repair without damage. We specialise in restoring these heritage locks rather than forcing replacement, preserving your property's character while restoring full function."
-    },
-    {
-      "q": "How often should HMO landlords in Aston plan lock repairs?",
-      "a": "With frequent tenant turnover in Aston's HMO sector, multipoint and night latch failures are common. We recommend annual inspections and prompt repair of worn gearboxes to avoid emergency callouts and maintain tenant security compliance."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Birmingham – Fast Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Birmingham. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Specialist fitting for Victorian terraces and modern homes.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Birmingham requires a locksmith with expertise in modern locksmithing techniques. Whether you're securing new fittings, meeting insurance requirements, or upgrading your home security, our technicians install BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. We ensure your property receives robust protection tailored to your needs.",
-  "door-lock-installation.local-context-body": "Birmingham's housing stock presents varied lock installation needs across its neighborhoods. Victorian villas and semi-detached homes in Moseley, many within the conservation area, often retain original period mechanisms that require careful assessment before modern BS3621 mortice locks or TS007 anti-snap cylinders are fitted. Interwar semi-detached properties in Kings Heath typically accommodate standard lock installations more straightforwardly, though many still feature older hardware due for replacement as part of security upgrades.\n\nListed properties and conservation-area designations across central Birmingham mean lock installations frequently require approval before work begins, particularly where visible external fittings are involved. The prevalence of solid timber doors in period properties demands specific installation techniques and consideration of door thickness, while the high concentration of HMO properties in inner suburbs means multipoint lock fitting has become routine to meet letting standards and tenant changeover requirements.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Bearwood with the original locks – can you fit modern BS3621 mortice locks without damaging the door?",
-      "a": "Yes – our locksmiths specialise in fitting BS3621 mortice locks to period properties across Birmingham's Victorian terraces. We take care to preserve the original door fabric while upgrading to modern, insurance-approved standards."
-    },
-    {
-      "q": "We're a landlord with HMO properties in Aston – how often should we replace locks between tenants?",
-      "a": "We recommend fitting new TS007 anti-snap cylinders and rekeying multipoint locks after each tenant change to ensure security and compliance. Our team handles rapid turnarounds for the frequent changeovers typical in Aston's HMO sector."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Birmingham – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Birmingham. Expert service for Victorian terraces, modern homes & period properties. Same-day appointments available.",
-  "door-lock-replacement.hero-paragraph": "Our Birmingham locksmiths specialise in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've lost keys, experienced a failed lock, or are moving home, we install like-for-like cylinders or recommend anti-snap upgrades to BS3621 standards. Fast, reliable service across the city.",
-  "door-lock-replacement.local-context-body": "Birmingham's terraced housing stock, particularly in inner-city areas like Aston, frequently requires door lock replacement due to wear, tenant turnover, and security upgrades. Many of these Victorian properties retain original mechanisms that have degraded over decades, making like-for-like replacement straightforward but occasionally requiring sourcing period-appropriate hardware. Semi-detached homes in Castle Bromwich and post-war suburbs present different challenges, with modern locks often needing straightforward swap-outs or upgrades to higher-security cylinders.\n\nHMO properties concentrated in Aston and Digbeth create sustained demand for lock replacement as tenancies change and landlords refresh security measures to meet evolving lettings standards. Period properties with original doors—whether solid timber or glazed panels—may require careful assessment to ensure new locks align with door construction and existing furniture holes, particularly where listed-building status applies or where heritage character must be preserved.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian villa in Edgbaston with an original period lock that's stuck. Can you replace it without damaging the door frame?",
-      "a": "Yes. Our locksmiths specialise in period lock replacement on Victorian and Edwardian properties across Birmingham's conservation areas. We can either restore your original mechanism or fit a like-for-like modern replacement that preserves the aesthetic of your listed building."
-    },
-    {
-      "q": "We're a landlord with several HMO properties in Aston and need all the locks changed between tenants. How quickly can you do this?",
-      "a": "We offer rapid lock replacement for multi-occupied properties across Aston and Digbeth. We can usually attend same-day or next-day to swap your locks, ensuring your properties are secure and compliant between lettings."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Birmingham – Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Birmingham for Victorian terraces, post-war homes & HMOs. Alignment, hardware fixes, handle repair & more. Call Lockman today.",
-  "door-repairs.hero-paragraph": "Expert door repairs in Birmingham from our experienced locksmith team, combining traditional locksmithing with modern solutions. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Our technicians specialise in hinge adjustment, frame alignment and multipoint realignment to restore your door to full working order.",
-  "door-repairs.local-context-body": "Birmingham's stock of Victorian semi-detached villas and terraced properties—particularly in areas like Moseley—frequently develops alignment and settling issues as properties age. Original door frames in these period homes often drop or warp, requiring both structural assessment and careful hardware adjustment to maintain weatherproofing and security without compromising historic fabric.\n\nPeriod properties across the city typically retain original lock mechanisms and door furniture that must be worked around during repairs. HMO properties in inner suburbs undergo frequent door replacements due to tenant turnover, meaning repairs often involve modern composite or uPVC doors alongside older timber frames, necessitating familiarity with both traditional and contemporary hardware systems.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace door in Aston has dropped and won't close properly—is this common?",
-      "a": "Yes, very common in Birmingham's Victorian terraces. Settlement and age often cause door frames to shift, leading to misalignment. We can realign or rehang your door and repair any damaged hardware to restore a secure fit."
-    },
-    {
-      "q": "Our HMO in Digbeth needs the front door fixed after tenant turnover damage—how quickly can you help?",
-      "a": "We offer same-day and next-day callouts for door repairs across Digbeth and inner Birmingham. Whether it's a dropped frame, broken hinges, or damaged locking hardware, we'll assess and repair it fast to keep your property secure and lettable."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Birmingham – Same-Day",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Birmingham. Espagnolette and shootbolt locks fixed on Victorian terraces, semis & modern homes. Emergency callouts.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Birmingham locksmiths specialise in window lock repair and replacement, combining traditional locksmithing expertise with modern techniques. Whether you're dealing with windows that won't lock or broken handles affecting your home security, we service espagnolette mechanisms and shootbolt locks to insurance-compliant standards. Fast, reliable solutions for domestic and commercial properties across Birmingham.",
-  "window-lock-repair-replacement.local-context-body": "Window lock failures are particularly common in Birmingham's Victorian terraces and semi-detached properties, where original espagnolette and shootbolt mechanisms often date back a century or more. Properties in Handsworth and surrounding inner-city areas frequently require specialist repair or full replacement of these period locks, as corrosion and wear accumulate over decades. Replacement work must account for frame materials and glazing styles that differ significantly from modern installations.\n\nMany of Birmingham's period properties fall within conservation areas or carry listed-building status, which restricts the types of replacement locks permissible and requires careful attention to original aesthetics. HMOs concentrated in inner suburbs also demand regular window lock attention due to high tenant turnover and security compliance expectations. Sourcing period-appropriate components and ensuring compliance with both heritage guidance and rental standards adds a planning layer to what appears straightforward repair work.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Edgbaston need specialist window lock repair?",
-      "a": "Victorian properties in Edgbaston's conservation area often have original or period-style espagnolette locks that require careful handling and sometimes bespoke parts to maintain their heritage value and function. Our locksmiths are experienced in repairing these delicate mechanisms without compromising the listed building status of your home."
-    },
-    {
-      "q": "How often should HMO landlords in Aston and Digbeth replace window locks?",
-      "a": "With frequent tenant turnover in Birmingham's growing HMO sector, window shootbolt and espagnolette locks can wear quickly and become a security risk. We recommend inspection and replacement every 12–18 months to ensure safe, compliant lettings and tenant security."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Birmingham | Fast Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Birmingham homes & businesses. Expert anchoring, insurance documentation & anti-leverage positioning for all safe types.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Birmingham from our expert locksmiths combines precision locksmithing with secure placement tailored to your needs. Whether you're installing a new safe or meeting insurance approval requirements, our technicians ensure proper floor anchoring and wall mounting to AiS approved standards. We assess your cash rating and Eurograde specifications to guarantee optimal security for your premises.",
-  "safe-installation.local-context-body": "Birmingham's interwar suburban properties, particularly across Hall Green and Bournville, commonly require safe installation in homes with solid brick construction and stable floor joists ideal for secure anchoring. Victorian terraces in central areas present different challenges, with older masonry and period features demanding careful positioning to avoid structural compromise while meeting insurance requirements for valuable item storage.\n\nListed properties and period homes in Birmingham often fall under conservation area restrictions that require planning consent before wall or floor safe installation. Additionally, many older properties feature lime mortar rather than modern cement, necessitating specialist drilling techniques to prevent structural damage. Insurance underwriters frequently stipulate specific safe ratings and anchoring standards for Birmingham properties, particularly for high-value claims.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I have a Victorian villa in central Birmingham with original floorboards – can you install a safe without damaging the period features?",
-      "a": "Yes, we specialise in safe installation in period properties across Birmingham's Victorian and Edwardian villas. We'll assess your floorboards and advise on discrete wall or freestanding options that preserve your original features while providing full insurance-compliant anchoring."
-    },
-    {
-      "q": "We're converting a warehouse in Digbeth into student lets – what's the best safe solution for multiple tenants?",
-      "a": "For HMO conversions in Digbeth and similar regeneration areas, we recommend wall-mounted safes in communal spaces with proper documentation for landlord insurance. We'll handle secure installation and provide the certification needed to meet lettings requirements."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Birmingham – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Birmingham: non-destructive opening for lost keys, combinations, lockouts. Serving Victorian terraces, HMOs, family homes across the city.",
-  "safe-opening.hero-paragraph": "Our Birmingham locksmiths specialise in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced your keys, or face a jammed mechanism, our technicians employ combination dial manipulation to regain access whilst preserving your safe's integrity. We handle domestic and commercial safes with precision and discretion.",
-  "safe-opening.local-context-body": "Many Birmingham properties, particularly the Victorian terraces and semi-detached homes in Handsworth, contain period safes built into walls or concealed in original fixtures. These antique safes often have mechanical locks without modern key codes or combination records, making non-destructive opening essential to preserve both the safe and the listed fabric of the building. Homeowners inheriting properties or discovering safes during renovations frequently lack documentation, creating steady demand for specialist opening work.\n\nPost-war council estates across the city often house safes installed decades ago when tenant records have been lost or dispersed. Opening these safes without damage requires knowledge of older locking mechanisms and patience with corroded internal components—common issues in Birmingham's aging stock. Listed-building status in conservation areas like Edgbaston means destructive methods are typically refused by local authorities, making non-destructive opening not just preferable but often a planning requirement.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian villa in Erdington with an original period safe—can you open it without damage?",
-      "a": "Yes. Our locksmiths specialise in non-destructive opening of period safes common in Victorian terraces and villas across Birmingham's inner areas. We use specialist techniques to preserve both the safe and its antique locking mechanism."
-    },
-    {
-      "q": "We manage HMO properties in Digbeth and need a safe opened after a tenant left—how quickly can you attend?",
-      "a": "We offer same-day safe opening for landlords and property managers across Digbeth and Aston's HMO sector. Call 0121 400 0413 to arrange a visit; we'll open it non-destructively so the safe remains usable for the next tenancy."
-    }
-  ],
-  "home.areas-covered": [
-    "Acocks Green",
-    "Alum Rock",
-    "Alumwell",
-    "Aston",
-    "Attwood Green",
-    "Balsall Heath",
-    "Barr Common",
-    "Bartley Green",
-    "Bearwood",
-    "Bentley",
-    "Bentley Heath",
-    "Bescot",
-    "Billesley",
-    "Birchfield",
-    "Birchills",
-    "Blossomfield",
-    "Boldmere",
-    "Bordesley",
-    "Bordesley Green",
-    "Bournbrook",
-    "Bournville",
-    "Brandhall",
-    "Brandwood End",
-    "Brookvale Village",
-    "Buckland End",
-    "Caldmore",
-    "California",
-    "Castle Bromwich",
-    "Castle Vale",
-    "Causeway Green",
-    "Chad Valley",
-    "Chinese Quarter",
-    "Coal Pool",
-    "Cotteridge",
-    "Curdworth",
-    "Darlaston Green",
-    "Daw End",
-    "Dickens Heath",
-    "Digbeth",
-    "Druids Heath",
-    "Edgbaston",
-    "Elmdon Heath",
-    "Erdington",
-    "Fallings Heath",
-    "Fordbridge",
-    "Four Oaks",
-    "Fox Hollies",
-    "Frankley",
-    "Garretts Green",
-    "Gillity Village",
-    "Gravelly Hill",
-    "Great Barr",
-    "Greet",
-    "Hall End",
-    "Hall Green",
-    "Hamstead",
-    "Handsworth",
-    "Handsworth Wood",
-    "Harborne",
-    "Harden",
-    "Haslucks Green",
-    "Hawkesley",
-    "Hay Mills",
-    "Highgate",
-    "Highters Heath",
-    "Hill Top",
-    "Hockley Port",
-    "Hodge Hill",
-    "Hollywood",
-    "Jewellery Quarter",
-    "Kineton Green",
-    "Kings Heath",
-    "Kings Norton",
-    "Kingshurst",
-    "Kingstanding",
-    "King’s Hill",
-    "Kitts Green",
-    "Knowle",
-    "Ladywood",
-    "Lane Head",
-    "Langley Green",
-    "Langley Village",
-    "Lapal",
-    "Leamore",
-    "Lifford",
-    "Little Aston",
-    "Little Sutton",
-    "Londonderry",
-    "Longbridge",
-    "Lozells",
-    "Lyndon Green",
-    "Marston Green",
-    "Masefield",
-    "Mere Green",
-    "Metchley",
-    "Middleton",
-    "Minworth",
-    "Monkspath",
-    "Moseley",
-    "Nechells",
-    "New Mills",
-    "New Oscott",
-    "Newtown",
-    "Northfield",
-    "Olton",
-    "Palfrey",
-    "Park Central",
-    "Park Hall",
-    "Perry Barr",
-    "Perry Beeches",
-    "Pheasey",
-    "Pleck",
-    "Queslett",
-    "Quinton",
-    "Rea Valley",
-    "Rednal",
-    "Rood End",
-    "Rubery",
-    "Rushall",
-    "Ryecroft",
-    "Saltley",
-    "Selly Oak",
-    "Selly Park",
-    "Shard End",
-    "Sharmans Cross",
-    "Sheldon",
-    "Shenley Fields",
-    "Short Heath",
-    "Small Heath",
-    "Smith's Wood",
-    "Solihull Lodge",
-    "Sparkbrook",
-    "Sparkhill",
-    "Springfield",
-    "Stechford",
-    "Stirchley",
-    "Stockland Green",
-    "Streetly",
-    "The Chuckery",
-    "The Delves",
-    "The Flatts",
-    "The Woods",
-    "Tile Cross",
-    "Tower Hill",
-    "Turves Green",
-    "Tyburn",
-    "Tyseley",
-    "Ulverley Green",
-    "Upper Witton",
-    "Vauxhall",
-    "Wake Green",
-    "Walkers Heath",
-    "Walmley",
-    "Ward End",
-    "Warley Salop",
-    "Warley Wigorn",
-    "Warstock",
-    "Washwood Heath",
-    "Water Orton",
-    "Weoley Castle",
-    "West Heath",
-    "Whiteheath Gate",
-    "Winson Green",
-    "Wood Green",
-    "Woodgate",
-    "Wylde Green",
-    "Yardley",
-    "Yardley Wood",
-    "Yew Tree",
-    "Yew Tree & Tame Bridge Neighbourhood Centre"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Hall Green",
-    "Kings Norton",
-    "Brandwood End",
-    "Yew Tree",
-    "Tower Hill",
-    "Hamstead",
-    "Rea Valley",
-    "Greet",
-    "Kingstanding",
-    "Shard End",
-    "Vauxhall",
-    "Kineton Green",
-    "Quinton",
-    "Woodgate"
-  ],
-  "locked-out.areas-covered": [
-    "Jewellery Quarter",
-    "Highters Heath",
-    "Bartley Green",
-    "Hawkesley",
-    "Boldmere",
-    "Kingshurst",
-    "Highgate",
-    "West Heath",
-    "Darlaston Green",
-    "Lozells",
-    "Solihull Lodge",
-    "Bournbrook",
-    "Warley Wigorn"
-  ],
-  "broken-key-removal.areas-covered": [
-    "The Flatts",
-    "Washwood Heath",
-    "Palfrey",
-    "New Oscott",
-    "Great Barr",
-    "Handsworth Wood",
-    "Birchills",
-    "Ulverley Green",
-    "Northfield",
-    "Stirchley",
-    "Leamore",
-    "Lifford",
-    "Walkers Heath"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Hall End",
-    "Smith's Wood",
-    "Mere Green",
-    "Hockley Port",
-    "Upper Witton",
-    "Rood End",
-    "Little Sutton",
-    "Warstock",
-    "The Delves",
-    "Water Orton",
-    "Marston Green",
-    "Pheasey",
-    "Handsworth"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Digbeth",
-    "Perry Beeches",
-    "Yardley Wood",
-    "Rubery",
-    "Elmdon Heath",
-    "Whiteheath Gate",
-    "Lapal",
-    "King’s Hill",
-    "Bescot",
-    "Buckland End",
-    "Wylde Green",
-    "Bordesley",
-    "Winson Green"
-  ],
-  "lock-changes.areas-covered": [
-    "Streetly",
-    "Coal Pool",
-    "Tile Cross",
-    "Short Heath",
-    "Weoley Castle",
-    "Selly Oak",
-    "Turves Green",
-    "Selly Park",
-    "Queslett",
-    "Rednal",
-    "Four Oaks",
-    "Shenley Fields",
-    "Erdington"
-  ],
-  "lock-repairs.areas-covered": [
-    "Nechells",
-    "Ward End",
-    "Brandhall",
-    "Newtown",
-    "Brookvale Village",
-    "Lane Head",
-    "Longbridge",
-    "Hay Mills",
-    "Harborne",
-    "Small Heath",
-    "California",
-    "Blossomfield",
-    "Yew Tree & Tame Bridge Neighbourhood Centre"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Bentley",
-    "Springfield",
-    "Castle Bromwich",
-    "Warley Salop",
-    "Gravelly Hill",
-    "Monkspath",
-    "Garretts Green",
-    "Fordbridge",
-    "Chad Valley",
-    "Sharmans Cross",
-    "Bournville",
-    "Park Hall",
-    "Tyseley"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Fallings Heath",
-    "Sheldon",
-    "Sparkhill",
-    "Barr Common",
-    "Ryecroft",
-    "Walmley",
-    "Caldmore",
-    "Hodge Hill",
-    "Kitts Green",
-    "Harden",
-    "Hollywood",
-    "Bearwood",
-    "Daw End"
-  ],
-  "door-repairs.areas-covered": [
-    "Middleton",
-    "Yardley",
-    "Castle Vale",
-    "Pleck",
-    "Curdworth",
-    "Little Aston",
-    "Rushall",
-    "Billesley",
-    "Langley Village",
-    "Alumwell",
-    "Moseley",
-    "Balsall Heath",
-    "Causeway Green"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Druids Heath",
-    "Frankley",
-    "Cotteridge",
-    "Stechford",
-    "Sparkbrook",
-    "Chinese Quarter",
-    "Stockland Green",
-    "Aston",
-    "Bentley Heath",
-    "The Woods",
-    "Edgbaston",
-    "Perry Barr",
-    "Lyndon Green"
-  ],
-  "safe-installation.areas-covered": [
-    "Alum Rock",
-    "Metchley",
-    "Birchfield",
-    "Wake Green",
-    "The Chuckery",
-    "Ladywood",
-    "Saltley",
-    "Park Central",
-    "Fox Hollies",
-    "Acocks Green",
-    "Hill Top",
-    "Londonderry",
-    "Dickens Heath"
-  ],
-  "safe-opening.areas-covered": [
-    "Masefield",
-    "Langley Green",
-    "Haslucks Green",
-    "Wood Green",
-    "Kings Heath",
-    "Attwood Green",
-    "New Mills",
-    "Olton",
-    "Knowle",
-    "Bordesley Green",
-    "Gillity Village",
-    "Minworth",
-    "Tyburn"
-  ]
+ "meta.title": "Locksmith Birmingham | Local Locksmithing Service 24/7",
+ "meta.description": "Locksmith services in Birmingham covering Victorian terraces, HMOs and post-war properties. Emergency call-outs, lock repairs, replacements and security upgrades.",
+ "home.hero-paragraph": "Birmingham locksmith services specialise in professional locksmithing and lock services for residential and commercial properties. We handle emergency lockouts, lock changes, and lock repairs with non-destructive entry methods. All work is carried out by DBS checked technicians, fully insured, with a 24/7 emergency call-out service available across the city.",
+ "home.local-context-heading": "Locksmith Work Across Birmingham's Period Properties",
+ "home.local-context-body": "Birmingham's housing stock\u2014Victorian terraces, interwar semis, and post-war estates\u2014creates varied locksmith demands. Properties in Alum Rock and similar inner areas often retain original period locks and mechanisms that require specialist knowledge to maintain and repair. Aging systems in council estates like Great Barr similarly need modernisation, while the city's extensive terraced housing generates consistent rekeying work as tenancies change.\n\nThe growing HMO sector in Aston and Digbeth has driven increased lock replacement frequency due to regular tenant turnover. Landlords managing multiple-occupancy properties should verify that lock upgrades meet current regulations for fire safety and access control. Many period properties also fall under conservation restrictions, meaning replacement locks must match original hardware styles and specifications.",
+ "home.local-faqs": [
+  {
+   "q": "Why do Victorian terraces and villas in central Birmingham need specialist locksmith services?",
+   "a": "Many period properties across Birmingham's inner city retain original Victorian and Edwardian locks and mechanisms that require specialist knowledge to repair, rekey, or replace without damaging historic fabric. We stock period-appropriate parts and understand the unique challenges these original systems present."
+  },
+  {
+   "q": "What lock services do HMO landlords in Aston and Digbeth typically need?",
+   "a": "High tenant turnover in Birmingham's growing HMO sector demands frequent rekeying and lock replacement to maintain security between occupants. We offer rapid turnaround services tailored to landlord compliance and student accommodation standards."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Birmingham \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Birmingham. Locked out of your Victorian terrace or HMO? Fast response, key extraction, lock repairs. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Birmingham brings expert locksmithing and rapid response when you need it most. Whether you're locked out of your home, facing a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry methods whenever possible. Fast, professional, dependable.",
+ "emergency-locksmith.local-context-body": "Bearwood's Victorian terraces and semi-detached properties frequently present emergency lockout scenarios where original period mechanisms have become stiff or unreliable, particularly during winter months when humidity affects wooden door frames and cast-iron locks. Lockouts in these properties demand quick response times, as residents often lack modern spare key systems for heritage locks that resist standardised rekeying solutions.\n\nListed-building status across much of central Birmingham means emergency interventions on Victorian and Edwardian properties must avoid damage to original joinery, frames, and decorative hardware\u2014complicating forced-entry protocols that work on standard modern doors. High HMO turnover in inner suburbs drives frequent emergency call-outs when outgoing tenants fail to return keys or locks are damaged during rapid tenant transitions, creating demand for rapid-access locksmith attendance without damage to rental inventory.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Bearwood late at night \u2014 how quickly can you arrive?",
+   "a": "We're available 24/7 for emergency lockouts across Birmingham. Our team typically reaches Bearwood properties within 30\u201345 minutes, and we carry specialist tools for period locks common in Victorian terraces, so we can often open your door without damage."
+  },
+  {
+   "q": "My HMO in Digbeth has a snapped key in the lock after a tenant left \u2014 what's the next step?",
+   "a": "We regularly handle snapped-key extractions in Digbeth's busy HMO sector. We'll remove the broken piece and either repair the lock or rekey it the same day, ensuring your property is secure before the next tenant moves in."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Birmingham | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Birmingham? Lockman provides fast, non-destructive entry for lost or snapped keys. Expert service for Victorian terraces, HMOs & flats. 24/7 emergency locksmith.",
+ "locked-out.hero-paragraph": "When you're locked out in Birmingham, our locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry methods to regain access without damage to your door or frame.",
+ "locked-out.local-context-body": "Hall Green's semi-detached homes and the Victorian terraces of Erdington frequently require non-destructive entry after keys are mislaid or snapped in locks. The variety of original mechanisms in period properties, alongside modern composite doors in interwar suburbs, means locked-out calls span everything from traditional mortice locks to contemporary multipoint systems. Quick, damage-free access is essential when residents find themselves unexpectedly shut out.\n\nListed-building status affects many of Birmingham's older terraced properties, particularly in central wards, restricting the methods available for entry without council consent. Additionally, the high turnover in HMO properties across Digbeth and Aston means locks are frequently changed between tenants; confusion over working keys or access procedures during changeovers is a common trigger for emergency lockout calls in these areas.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Handsworth\u2014will a locksmith damage the original period lock?",
+   "a": "No. Lockman uses non-destructive entry techniques that preserve original Victorian mechanisms, which is especially important in Handsworth's mixed-tenure properties where period features add value and character. We'll open the door without forcing or drilling unless absolutely necessary."
+  },
+  {
+   "q": "I'm a landlord with student HMOs in Aston and a tenant has lost their key\u2014how quickly can you get them back in?",
+   "a": "We offer same-day emergency lockout call-outs across Aston and Digbeth, and we'll gain non-destructive entry without damaging the lock, keeping your property secure and avoiding costly replacements between tenants. Call 0121 400 0413 for immediate assistance."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Birmingham \u2013 Fast Local Service",
+ "broken-key-removal.meta.description": "Broken key removal in Birmingham for Victorian terraces & modern homes. Expert extraction from euro cylinders & mortice locks. Fast, non-destructive. Call 0121 400 0413.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Birmingham requires a locksmith with genuine locksmithing expertise to extract snapped or sheared keys safely from your lock. Our technicians use specialist key extractor tools and broken-key probes to retrieve fragments without damaging euro cylinders, mortice locks, or other mechanisms. We prioritise non-destructive methods to preserve your lock's integrity.",
+ "broken-key-removal.local-context-body": "Handsworth's Victorian terraces and semi-detached properties frequently present broken key scenarios, particularly where original period locks remain in service. Worn euro cylinders and mortice mechanisms in these older homes are prone to key fractures during normal use, especially when locks have not been professionally maintained or replaced for decades. The density of such properties across Birmingham's inner suburbs means broken key removal calls are a routine part of locksmith work in the city.\n\nPost-war council estates and newer properties in outer areas like Frankley tend to have more standardised lock systems, but aging mechanisms still result in key breakage. A practical consideration specific to Birmingham work is the prevalence of non-standard or period-specific cylinders in listed properties and Victorian properties, which may require careful extraction methods to avoid damage to the lock body itself. Quick removal without assessment can risk rendering the entire lock unusable, extending downtime for residents.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian locks in Edgbaston properties get broken keys stuck so often?",
+   "a": "Victorian mortice locks and night latches use older, narrower keyways that can trap modern keys at odd angles, causing them to snap under pressure. Period properties in Edgbaston's conservation areas often have original mechanisms that are more prone to this than modern euro cylinders, and we specialise in extracting keys from these delicate heritage locks without damaging the mechanism."
+  },
+  {
+   "q": "Can you remove a broken key from a euro cylinder in my Handsworth HMO rental?",
+   "a": "Yes\u2014euro cylinders in high-turnover rental properties like those in Handsworth often see more wear and key breakages due to frequent lock changes and tenant damage. We can extract the broken segment and either rekey the existing cylinder or fit a new one, with a rapid response time suited to landlord requirements."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Birmingham \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Birmingham. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and period homes. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Birmingham locksmith team specialises in burglar repair and locksmithing services for properties damaged by forced entry. We restore security using door reinforcement and insurance-compliant BS3621 mortice locks. Whether you're dealing with smashed locks or a compromised door frame, our technicians ensure your home meets current security standards and regains full protection.",
+ "burglar-repair-service.local-context-body": "Many of Birmingham's Victorian terraces in Erdington and similar inner areas retain original timber frames and period lock mechanisms that require specialist repair after forced-entry damage. Break-ins to these properties often damage not just the lock but the door surround and architraves, necessitating careful reinstatement that respects the original construction while meeting modern security standards.\n\nPost-break-in repairs in Birmingham's high-turnover HMO properties\u2014particularly concentrated in Aston\u2014frequently involve insurance assessments and compliance checks. Landlords must ensure repairs meet tenancy deposit scheme requirements and basic security standards, which can extend timescales for reinstatement work beyond simple lock replacement.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "We've just had a break-in at our Victorian terrace in Erdington. Can you repair the original period lock, or will I need a full replacement?",
+   "a": "We specialise in period lock repair and can often restore original Victorian mechanisms, but if the lock is beyond safe repair, we'll source a matching replacement that maintains your home's character while meeting modern security standards. Our insurance-quality reinstatement work is documented for your claim."
+  },
+  {
+   "q": "Our Aston HMO was broken into and the landlord's insurance requires documented, professional repair before we can re-let. How quickly can you attend?",
+   "a": "We offer rapid emergency attendance across Aston and provide full photographic documentation and certificates suitable for insurance and letting compliance. We'll repair or replace your locks and doors to insurable standard so you can get tenants back in without delay."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Birmingham \u2013 Fast Response 24/7",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Birmingham. Same-day secure boarding of smashed doors and windows after break-ins or storm damage. Serving Edgbaston, Harborne and across the city.",
+ "emergency-boarding-up.hero-paragraph": "Our emergency boarding up locksmith service in Birmingham combines expert locksmithing with rapid crisis response. When smashed windows or damaged doors compromise your property's security, our technicians arrive 24/7 to install robust plywood boards and weatherproof temporary seals. We ensure all work meets insurance-compliant standards, protecting your premises until permanent repairs can be arranged.",
+ "emergency-boarding-up.local-context-body": "Emergency boarding up in Birmingham must account for the city's diverse housing legacy. Victorian terraces in Alum Rock and period villas across central areas often feature original timber frames and sash windows that require careful handling during emergency boarding to preserve structural integrity and avoid further damage. Post-war council estates in Frankley and Great Barr, by contrast, typically have standard brick and modern window frames that allow faster boarding protocols while still meeting urgent safety standards.\n\nListed-building status affects a significant proportion of Birmingham's older properties, particularly Victorian and Edwardian homes in inner-city areas. Emergency boarding contractors must verify whether a property falls under heritage protection before installation, as temporary boarding solutions may require planning approval or conservation officer notification. The prevalence of original period locks and wooden door frames in terraced housing also means boarding work often involves detailed assessment of existing damage to avoid compromising historical features during the securing process.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "We've had a break-in at our Victorian terrace in Digbeth \u2013 how quickly can you board up the damaged sash window?",
+   "a": "We're on call 24/7 and aim to arrive within the hour in central Birmingham areas like Digbeth. Victorian sash windows need careful boarding to avoid further damage to the original frame, so we use specialist techniques and materials suited to period properties."
+  },
+  {
+   "q": "A storm has smashed our front door in Frankley \u2013 will boarding up be secure until we can replace it?",
+   "a": "Yes, our emergency boarding uses heavy-duty plywood and reinforced fixings designed to be both secure and weatherproof, protecting your property overnight or longer. We work quickly on council estates like Frankley where post-war properties are more exposed to weather damage."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Birmingham \u2013 Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Birmingham for Victorian terraces, modern homes & HMOs. Lost keys? Moving home? Fast professional replacement service.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Birmingham require expert locksmithing knowledge, and our experienced locksmiths specialise in this essential service. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we fit high-specification locks meeting BS3621 standards. Our technicians install robust TS007 anti-snap cylinders and multipoint mechanisms to ensure your property receives durable, tested protection.",
+ "lock-changes.local-context-body": "Lock changes in Birmingham reflect the city's diverse housing stock. Aston's Victorian terraces and converted flats frequently require lock replacement due to high tenant turnover in the HMO sector, where landlords must rekey between occupants. Similarly, period properties across inner-city areas often retain original mechanisms that need upgrading for modern security standards or functional reliability after years of use.\n\nMany of Birmingham's Victorian properties feature original mortice locks and period-appropriate hardware that demand specialist knowledge during replacement. Listed buildings in central areas require sympathetic lock solutions that preserve character while meeting current security expectations. Additionally, the prevalence of solid timber doors in terraced housing means lock changes must account for door thickness and existing aperture sizes to ensure proper fit and function.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved into a Victorian terrace in Handsworth. Do I need specialist lock changes?",
+   "a": "Yes\u2014many Victorian terraces have original period locks and mechanisms that require specialist knowledge to replace safely without damaging the door frame or architrave. We carry period-appropriate locks and can ensure your new locks match the style and security standards of your property."
+  },
+  {
+   "q": "We're managing an HMO in Digbeth with frequent tenant changes. How often should we change locks?",
+   "a": "We recommend changing locks between every tenancy to ensure security and prevent key copies being retained. As a high-density HMO area, Digbeth sees rapid turnover\u2014our team can schedule regular lock changes quickly and efficiently to keep your property secure and compliant."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Birmingham \u2013 Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Birmingham for Victorian terraces, council estates & modern homes. Multipoint, mortice & night latch fixes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Birmingham from our experienced locksmith specialists combine precision locksmithing techniques with lasting solutions. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and resolve the issue efficiently. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably and come backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Edgbaston's Victorian villas and listed properties frequently require specialised lock repairs that respect period features and conservation constraints. Multipoint locks and mortice mechanisms in these older properties often show wear after decades of use, particularly where original hardware remains in place. Similarly, Harborne's Edwardian semi-detached homes rely on gearbox and night latch systems that benefit from timely repair rather than wholesale replacement, maintaining both function and architectural integrity.\n\nLock repair work in Birmingham must account for the prevalence of period mechanisms across the housing stock. Many terraced and villa properties contain original or heritage-standard locks that demand knowledge of traditional gearbox and mortice systems; unsuitable modern repairs can breach conservation area requirements. Additionally, the high density of HMOs in inner areas means night latches and multipoint systems experience accelerated wear cycles due to frequent tenant turnover, making rapid, accurate diagnosis and repair essential for compliance and turnaround.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Bearwood need specialist lock repair?",
+   "a": "Many Victorian properties in Bearwood still have original mortice locks and period mechanisms that require expert knowledge to repair without damage. We specialise in restoring these heritage locks rather than forcing replacement, preserving your property's character while restoring full function."
+  },
+  {
+   "q": "How often should HMO landlords in Aston plan lock repairs?",
+   "a": "With frequent tenant turnover in Aston's HMO sector, multipoint and night latch failures are common. We recommend annual inspections and prompt repair of worn gearboxes to avoid emergency callouts and maintain tenant security compliance."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Birmingham \u2013 Fast Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Birmingham. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint systems. Specialist fitting for Victorian terraces and modern homes.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Birmingham requires a locksmith with expertise in modern locksmithing techniques. Whether you're securing new fittings, meeting insurance requirements, or upgrading your home security, our technicians install BS3621 mortice locks and TS007 anti-snap cylinders to the highest standards. We ensure your property receives robust protection tailored to your needs.",
+ "door-lock-installation.local-context-body": "Birmingham's housing stock presents varied lock installation needs across its neighbourhoods. Victorian villas and semi-detached homes in Moseley, many within the conservation area, often retain original period mechanisms that require careful assessment before modern BS3621 mortice locks or TS007 anti-snap cylinders are fitted. Interwar semi-detached properties in Kings Heath typically accommodate standard lock installations more straightforwardly, though many still feature older hardware due for replacement as part of security upgrades.\n\nListed properties and conservation-area designations across central Birmingham mean lock installations frequently require approval before work begins, particularly where visible external fittings are involved. The prevalence of solid timber doors in period properties demands specific installation techniques and consideration of door thickness, while the high concentration of HMO properties in inner suburbs means multipoint lock fitting has become routine to meet letting standards and tenant changeover requirements.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Bearwood with the original locks \u2013 can you fit modern BS3621 mortice locks without damaging the door?",
+   "a": "Yes \u2013 our locksmiths specialise in fitting BS3621 mortice locks to period properties across Birmingham's Victorian terraces. We take care to preserve the original door fabric while upgrading to modern, insurance-approved standards."
+  },
+  {
+   "q": "We're a landlord with HMO properties in Aston \u2013 how often should we replace locks between tenants?",
+   "a": "We recommend fitting new TS007 anti-snap cylinders and rekeying multipoint locks after each tenant change to ensure security and compliance. Our team handles rapid turnarounds for the frequent changeovers typical in Aston's HMO sector."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Birmingham \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Birmingham. Expert service for Victorian terraces, modern homes & period properties. Same-day appointments available.",
+ "door-lock-replacement.hero-paragraph": "Our Birmingham locksmiths specialise in door lock replacement using expert locksmithing techniques tailored to your needs. Whether you've lost keys, experienced a failed lock, or are moving home, we install like-for-like cylinders or recommend anti-snap upgrades to BS3621 standards. Fast, reliable service across the city.",
+ "door-lock-replacement.local-context-body": "Birmingham's terraced housing stock, particularly in inner-city areas like Aston, frequently requires door lock replacement due to wear, tenant turnover, and security upgrades. Many of these Victorian properties retain original mechanisms that have degraded over decades, making like-for-like replacement straightforward but occasionally requiring sourcing period-appropriate hardware. Semi-detached homes in Castle Bromwich and post-war suburbs present different challenges, with modern locks often needing straightforward swap-outs or upgrades to higher-security cylinders.\n\nHMO properties concentrated in Aston and Digbeth create sustained demand for lock replacement as tenancies change and landlords refresh security measures to meet evolving lettings standards. Period properties with original doors\u2014whether solid timber or glazed panels\u2014may require careful assessment to ensure new locks align with door construction and existing furniture holes, particularly where listed-building status applies or where heritage character must be preserved.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian villa in Edgbaston with an original period lock that's stuck. Can you replace it without damaging the door frame?",
+   "a": "Yes. Our locksmiths specialise in period lock replacement on Victorian and Edwardian properties across Birmingham's conservation areas. We can either restore your original mechanism or fit a like-for-like modern replacement that preserves the aesthetic of your listed building."
+  },
+  {
+   "q": "We're a landlord with several HMO properties in Aston and need all the locks changed between tenants. How quickly can you do this?",
+   "a": "We offer rapid lock replacement for multi-occupied properties across Aston and Digbeth. We can usually attend same-day or next-day to swap your locks, ensuring your properties are secure and compliant between lettings."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Birmingham \u2013 Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Birmingham for Victorian terraces, post-war homes & HMOs. Alignment, hardware fixes, handle repair & more. Call Lockman today.",
+ "door-repairs.hero-paragraph": "Expert door repairs in Birmingham from our experienced locksmith team, combining traditional locksmithing with modern solutions. Whether your uPVC, composite or timber door has dropped, won't close properly, or is letting in draughts, we diagnose and fix the issue. Our technicians specialise in hinge adjustment, frame alignment and multipoint realignment to restore your door to full working order.",
+ "door-repairs.local-context-body": "Birmingham's stock of Victorian semi-detached villas and terraced properties\u2014particularly in areas like Moseley\u2014frequently develops alignment and settling issues as properties age. Original door frames in these period homes often drop or warp, requiring both structural assessment and careful hardware adjustment to maintain weatherproofing and security without compromising historic fabric.\n\nPeriod properties across the city typically retain original lock mechanisms and door furniture that must be worked around during repairs. HMO properties in inner suburbs undergo frequent door replacements due to tenant turnover, meaning repairs often involve modern composite or uPVC doors alongside older timber frames, necessitating familiarity with both traditional and contemporary hardware systems.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace door in Aston has dropped and won't close properly\u2014is this common?",
+   "a": "Yes, very common in Birmingham's Victorian terraces. Settlement and age often cause door frames to shift, leading to misalignment. We can realign or rehang your door and repair any damaged hardware to restore a secure fit."
+  },
+  {
+   "q": "Our HMO in Digbeth needs the front door fixed after tenant turnover damage\u2014how quickly can you help?",
+   "a": "We offer same-day and next-day callouts for door repairs across Digbeth and inner Birmingham. Whether it's a dropped frame, broken hinges, or damaged locking hardware, we'll assess and repair it fast to keep your property secure and lettable."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Birmingham \u2013 Same-Day",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Birmingham. Espagnolette and shootbolt locks fixed on Victorian terraces, semis & modern homes. Emergency callouts.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Birmingham locksmiths specialise in window lock repair and replacement, combining traditional locksmithing expertise with modern techniques. Whether you're dealing with windows that won't lock or broken handles affecting your home security, we service espagnolette mechanisms and shootbolt locks to insurance-compliant standards. Fast, reliable solutions for domestic and commercial properties across Birmingham.",
+ "window-lock-repair-replacement.local-context-body": "Window lock failures are particularly common in Birmingham's Victorian terraces and semi-detached properties, where original espagnolette and shootbolt mechanisms often date back a century or more. Properties in Handsworth and surrounding inner-city areas frequently require specialist repair or full replacement of these period locks, as corrosion and wear accumulate over decades. Replacement work must account for frame materials and glazing styles that differ significantly from modern installations.\n\nMany of Birmingham's period properties fall within conservation areas or carry listed-building status, which restricts the types of replacement locks permissible and requires careful attention to original aesthetics. HMOs concentrated in inner suburbs also demand regular window lock attention due to high tenant turnover and security compliance expectations. Sourcing period-appropriate components and ensuring compliance with both heritage guidance and rental standards adds a planning layer to what appears straightforward repair work.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Edgbaston need specialist window lock repair?",
+   "a": "Victorian properties in Edgbaston's conservation area often have original or period-style espagnolette locks that require careful handling and sometimes bespoke parts to maintain their heritage value and function. Our locksmiths are experienced in repairing these delicate mechanisms without compromising the listed building status of your home."
+  },
+  {
+   "q": "How often should HMO landlords in Aston and Digbeth replace window locks?",
+   "a": "With frequent tenant turnover in Birmingham's growing HMO sector, window shootbolt and espagnolette locks can wear quickly and become a security risk. We recommend inspection and replacement every 12\u201318 months to ensure safe, compliant lettings and tenant security."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Birmingham | Fast Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Birmingham homes & businesses. Expert anchoring, insurance documentation & anti-leverage positioning for all safe types.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Birmingham from our expert locksmiths combines precision locksmithing with secure placement tailored to your needs. Whether you're installing a new safe or meeting insurance approval requirements, our technicians ensure proper floor anchoring and wall mounting to AiS approved standards. We assess your cash rating and Eurograde specifications to guarantee optimal security for your premises.",
+ "safe-installation.local-context-body": "Birmingham's interwar suburban properties, particularly across Hall Green and Bournville, commonly require safe installation in homes with solid brick construction and stable floor joists ideal for secure anchoring. Victorian terraces in central areas present different challenges, with older masonry and period features demanding careful positioning to avoid structural compromise while meeting insurance requirements for valuable item storage.\n\nListed properties and period homes in Birmingham often fall under conservation area restrictions that require planning consent before wall or floor safe installation. Additionally, many older properties feature lime mortar rather than modern cement, necessitating specialist drilling techniques to prevent structural damage. Insurance underwriters frequently stipulate specific safe ratings and anchoring standards for Birmingham properties, particularly for high-value claims.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I have a Victorian villa in central Birmingham with original floorboards \u2013 can you install a safe without damaging the period features?",
+   "a": "Yes, we specialise in safe installation in period properties across Birmingham's Victorian and Edwardian villas. We'll assess your floorboards and advise on discrete wall or freestanding options that preserve your original features while providing full insurance-compliant anchoring."
+  },
+  {
+   "q": "We're converting a warehouse in Digbeth into student lets \u2013 what's the best safe solution for multiple tenants?",
+   "a": "For HMO conversions in Digbeth and similar regeneration areas, we recommend wall-mounted safes in communal spaces with proper documentation for landlord insurance. We'll handle secure installation and provide the certification needed to meet lettings requirements."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Birmingham \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Birmingham: non-destructive opening for lost keys, combinations, lockouts. Serving Victorian terraces, HMOs, family homes across the city.",
+ "safe-opening.hero-paragraph": "Our Birmingham locksmiths specialise in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced your keys, or face a jammed mechanism, our technicians employ combination dial manipulation to regain access whilst preserving your safe's integrity. We handle domestic and commercial safes with precision and discretion.",
+ "safe-opening.local-context-body": "Many Birmingham properties, particularly the Victorian terraces and semi-detached homes in Handsworth, contain period safes built into walls or concealed in original fixtures. These antique safes often have mechanical locks without modern key codes or combination records, making non-destructive opening essential to preserve both the safe and the listed fabric of the building. Homeowners inheriting properties or discovering safes during renovations frequently lack documentation, creating steady demand for specialist opening work.\n\nPost-war council estates across the city often house safes installed decades ago when tenant records have been lost or dispersed. Opening these safes without damage requires knowledge of older locking mechanisms and patience with corroded internal components\u2014common issues in Birmingham's aging stock. Listed-building status in conservation areas like Edgbaston means destructive methods are typically refused by local authorities, making non-destructive opening not just preferable but often a planning requirement.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian villa in Erdington with an original period safe\u2014can you open it without damage?",
+   "a": "Yes. Our locksmiths specialise in non-destructive opening of period safes common in Victorian terraces and villas across Birmingham's inner areas. We use specialist techniques to preserve both the safe and its antique locking mechanism."
+  },
+  {
+   "q": "We manage HMO properties in Digbeth and need a safe opened after a tenant left\u2014how quickly can you attend?",
+   "a": "We offer same-day safe opening for landlords and property managers across Digbeth and Aston's HMO sector. Call 0121 400 0413 to arrange a visit; we'll open it non-destructively so the safe remains usable for the next tenancy."
+  }
+ ],
+ "home.areas-covered": [
+  "Acocks Green",
+  "Alum Rock",
+  "Aston",
+  "Balsall Heath",
+  "Bartley Green",
+  "Billesley",
+  "Birchfield",
+  "Boldmere",
+  "Bordesley",
+  "Bordesley Green",
+  "Bournbrook",
+  "Bournville",
+  "Brandwood End",
+  "Buckland End",
+  "California",
+  "Castle Vale",
+  "Cotteridge",
+  "Digbeth",
+  "Druids Heath",
+  "Edgbaston",
+  "Erdington",
+  "Four Oaks",
+  "Fox Hollies",
+  "Frankley",
+  "Garretts Green",
+  "Gravelly Hill",
+  "Greet",
+  "Hall Green",
+  "Hamstead",
+  "Handsworth",
+  "Harborne",
+  "Hawkesley",
+  "Hay Mills",
+  "Highgate",
+  "Highters Heath",
+  "Hockley Port",
+  "Hodge Hill",
+  "Jewellery Quarter",
+  "Kings Heath",
+  "Kings Norton",
+  "Kingstanding",
+  "Kitts Green",
+  "Ladywood",
+  "Lifford",
+  "Little Sutton",
+  "Longbridge",
+  "Lozells",
+  "Lyndon Green",
+  "Mere Green",
+  "Metchley",
+  "Minworth",
+  "Moseley",
+  "Nechells",
+  "New Oscott",
+  "Northfield",
+  "Park Central",
+  "Perry Barr",
+  "Perry Beeches",
+  "Queslett",
+  "Rea Valley",
+  "Rednal",
+  "Saltley",
+  "Selly Oak",
+  "Selly Park",
+  "Shard End",
+  "Sheldon",
+  "Shenley Fields",
+  "Short Heath",
+  "Small Heath",
+  "Sparkbrook",
+  "Sparkhill",
+  "Springfield",
+  "Stechford",
+  "Stirchley",
+  "Stockland Green",
+  "Tile Cross",
+  "Turves Green",
+  "Tyburn",
+  "Tyseley",
+  "Vauxhall",
+  "Wake Green",
+  "Walkers Heath",
+  "Walmley",
+  "Ward End",
+  "Warstock",
+  "Washwood Heath",
+  "Weoley Castle",
+  "West Heath",
+  "Winson Green",
+  "Woodgate",
+  "Wylde Green",
+  "Yardley",
+  "Yardley Wood"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Hall Green",
+  "Kings Norton",
+  "Brandwood End",
+  "Hamstead",
+  "Rea Valley",
+  "Greet",
+  "Kingstanding",
+  "Shard End",
+  "Vauxhall",
+  "Woodgate"
+ ],
+ "locked-out.areas-covered": [
+  "Jewellery Quarter",
+  "Highters Heath",
+  "Bartley Green",
+  "Hawkesley",
+  "Boldmere",
+  "Highgate",
+  "West Heath",
+  "Lozells",
+  "Bournbrook"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Washwood Heath",
+  "New Oscott",
+  "Northfield",
+  "Stirchley",
+  "Lifford",
+  "Walkers Heath",
+  "Acocks Green",
+  "Alum Rock",
+  "Aston"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Mere Green",
+  "Hockley Port",
+  "Little Sutton",
+  "Warstock",
+  "Handsworth",
+  "Boldmere",
+  "Bordesley",
+  "Bordesley Green",
+  "Bournbrook"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Digbeth",
+  "Perry Beeches",
+  "Yardley Wood",
+  "Buckland End",
+  "Wylde Green",
+  "Bordesley",
+  "Winson Green",
+  "Hockley Port",
+  "Hodge Hill"
+ ],
+ "lock-changes.areas-covered": [
+  "Tile Cross",
+  "Short Heath",
+  "Weoley Castle",
+  "Selly Oak",
+  "Turves Green",
+  "Selly Park",
+  "Queslett",
+  "Rednal",
+  "Four Oaks",
+  "Shenley Fields",
+  "Erdington"
+ ],
+ "lock-repairs.areas-covered": [
+  "Nechells",
+  "Ward End",
+  "Longbridge",
+  "Hay Mills",
+  "Harborne",
+  "Small Heath",
+  "California",
+  "Perry Barr",
+  "Perry Beeches"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Springfield",
+  "Gravelly Hill",
+  "Garretts Green",
+  "Bournville",
+  "Tyseley",
+  "California",
+  "Castle Vale",
+  "Cotteridge",
+  "Digbeth"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Sheldon",
+  "Sparkhill",
+  "Walmley",
+  "Hodge Hill",
+  "Kitts Green",
+  "Four Oaks",
+  "Fox Hollies",
+  "Frankley",
+  "Garretts Green"
+ ],
+ "door-repairs.areas-covered": [
+  "Yardley",
+  "Castle Vale",
+  "Billesley",
+  "Moseley",
+  "Balsall Heath",
+  "Hamstead",
+  "Handsworth",
+  "Harborne",
+  "Hawkesley"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Druids Heath",
+  "Frankley",
+  "Cotteridge",
+  "Stechford",
+  "Sparkbrook",
+  "Stockland Green",
+  "Aston",
+  "Edgbaston",
+  "Perry Barr",
+  "Lyndon Green"
+ ],
+ "safe-installation.areas-covered": [
+  "Alum Rock",
+  "Metchley",
+  "Birchfield",
+  "Wake Green",
+  "Ladywood",
+  "Saltley",
+  "Park Central",
+  "Fox Hollies",
+  "Acocks Green"
+ ],
+ "safe-opening.areas-covered": [
+  "Kings Heath",
+  "Bordesley Green",
+  "Minworth",
+  "Tyburn",
+  "Tyseley",
+  "Vauxhall",
+  "Wake Green",
+  "Walkers Heath",
+  "Walmley"
+ ]
 }

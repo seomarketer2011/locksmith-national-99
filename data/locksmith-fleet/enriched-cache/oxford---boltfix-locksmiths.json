@@ -1,409 +1,379 @@
 {
-  "meta.title": "Locksmith Oxford | Local Locksmithing Service 24/7",
-  "meta.description": "Trusted Oxford locksmith for emergencies, lock changes, and security. Specialist in listed buildings and conservation areas. Fast response 24/7.",
-  "home.hero-paragraph": "Oxford locksmith services specialising in locksmithing and professional lock services across the city. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry techniques. All work is completed by DBS checked technicians, fully insured, with no call-out fees and 24/7 availability.",
-  "home.local-context-heading": "Locksmith expertise across Oxford's diverse properties",
-  "home.local-context-body": "Oxford's mixed housing stock—from Victorian terraces and conservation-area villas in Park Town to post-war semis in Marston—creates varied lock maintenance demands. Older properties often need period-appropriate lock restoration or security upgrades on original timber frames, while newer estates typically require modern multipoint system repairs and key replacements. The age and construction method of each property type directly affects which lock mechanisms are suitable and how installation should proceed.\n\nStudent rental properties and HMOs in central Oxford frequently operate under stricter security requirements, including landlord-mandated multipoint locks and rapid-access provisions for managing turnovers. Conservation areas impose additional constraints: any lock or door modification must preserve the building's heritage character, making specialist knowledge essential before work begins. Professional assessment of listed-building compliance prevents costly remediation and ensures customer confidence in the work undertaken.",
-  "home.local-faqs": [
-    {
-      "q": "I'm renting in student areas like Jericho or East Oxford and I've been locked out – how quickly can Boltfix respond?",
-      "a": "We prioritize emergency lockouts in Oxford's high-density student neighborhoods and operate rapid response call-outs across central and east Oxford. Call 01865 685117 and we'll dispatch a locksmith to get you back inside as quickly as possible, even outside standard hours."
-    },
-    {
-      "q": "I live in a listed building or conservation area property (North Oxford, Iffley, etc.) – can you help with lock repairs without damaging the heritage features?",
-      "a": "Yes – we hold specialist accreditation for listed and conservation properties and understand Oxford's strict modification rules. We'll advise on compliant solutions and restore or upgrade locks while preserving the character and integrity of your period home."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Oxford – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Oxford. Locked out, key snapped, or door won't lock? Fast response to listed properties, HMOs and all Oxford neighborhoods. Call now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Oxford brings professional locksmithing expertise to your door when you need it most. Whether you're locked out, have suffered a snapped key, or require post-break-in repairs, our DBS-checked locksmiths respond 24/7 with non-destructive entry techniques and swift resolution.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Oxford happen across starkly different property types. Student-heavy areas like Jericho see frequent urgent callouts from shared rental properties where tenants lose keys or locks jam under heavy use. Victorian terraces and period semi-detached homes in these neighborhoods often have original or poorly maintained locks that fail without warning, especially during winter months when door frames shift and mechanisms bind.\n\nListed buildings and conservation areas across North Oxford and the City Centre present a practical constraint: standard lock repairs or replacements must preserve original hardware and door fabric, or satisfy planning consent requirements before work can begin. Emergency locksmiths handling post-break-in security in these zones need to source heritage-compliant hardware and understand listed-building protocols to avoid breaching conservation restrictions—a delay that matters when a property is unsecured.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my student rental in East Oxford—how quickly can you respond?",
-      "a": "We offer 24/7 emergency callouts across Oxford, including the densely rented student areas of East Oxford and Jericho. Our typical response time is under 1 hour, and we can often access Victorian terraces without damage to doors or frames."
-    },
-    {
-      "q": "My listed property in Iffley has a broken lock—will a locksmith damage the conservation features?",
-      "a": "Yes; we hold specialist heritage accreditation for listed buildings and conservation areas like Iffley, and we understand the strict rules around door and frame modification. We'll restore your lock using period-appropriate methods and materials wherever possible."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Oxford | Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Oxford? Fast, non-destructive entry for lost or snapped keys. Available 24/7 across Botley, Marston, and all neighborhoods.",
-  "locked-out.hero-paragraph": "When you're locked out in Oxford, our experienced locksmiths specialise in locksmithing techniques that restore access quickly. Whether you've snapped a key, lost yours entirely, or simply had the door slam shut, we use non-destructive entry methods to ensure your property remains damage-free. Our rapid response gets you back inside without unnecessary delay.",
-  "locked-out.local-context-body": "Locked-out calls in Oxford span the full breadth of the city's housing—from Victorian semis in Iffley's conservation streets to the rental-heavy terraces and post-war estates of Cowley. Student areas and HMO properties generate the highest urgent demand, particularly when keys are mislaid or snapped during term-time. Non-destructive entry techniques are essential where properties carry heritage restrictions or where landlords require damage-free access.\n\nListed buildings and conservation-area properties in North Oxford and similar zones impose strict limits on lock replacement and door modification. Any entry work must preserve original hardware and finishes; specialist knowledge of period mechanisms—sash locks, mortice fittings, and heritage-grade materials—is necessary to meet planning compliance and protect property value. Standard destructive methods are unsuitable; careful non-invasive techniques are both a practical and legal requirement.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Jericho—how quickly can you arrive?",
-      "a": "We typically respond to lockouts in Jericho within 30–45 minutes during business hours. Student areas like yours see high call volumes, so we keep fast-response capacity for emergency access without damage to your period features."
-    },
-    {
-      "q": "My listed building in North Oxford has a heritage lock I'm worried about—can you open it without damage?",
-      "a": "Yes—our team has experience with conservation-area properties and listed buildings across North Oxford. We use non-destructive entry techniques that preserve original and period-appropriate locks, avoiding the modifications that conservation officers restrict."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Oxford – Fast Local Service",
-  "broken-key-removal.meta.description": "Broken key removal Oxford: expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Serving New Hinksey, Barton & across Oxford.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Oxford requires expert locksmith knowledge and precision locksmithing to restore access without damage. When a key snaps or shears inside your lock, our technicians use specialised key extractor tools and probes to retrieve fragments safely. Whether your euro cylinder or mortice lock is affected, we employ non-destructive methods to ensure your lock remains fully functional.",
-  "broken-key-removal.local-context-body": "Victorian terraces in East Oxford, where student lettings dominate, frequently present snapped keys in worn euro cylinders—common in rapid turnover properties where locks endure heavy use and inconsistent maintenance. Iffley's conservation-area properties, often owner-occupied with period detailing, similarly require broken key extraction but demand extra care around original door furniture and listed-status restrictions on replacement hardware.\n\nListed buildings and conservation areas across Oxford restrict lock and door modifications without planning consent or conservation officer approval. Broken key removal that avoids unnecessary cylinder replacement becomes essential in these properties, as sourcing matching heritage locks can delay tenancy or sale completion. Knowledge of period-appropriate lock types and non-invasive extraction techniques directly affects compliance and customer confidence.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do student HMOs in East Oxford and Jericho need fast broken key removal?",
-      "a": "Multi-occupancy properties with high turnover see frequent lockouts and worn euro cylinders; a snapped key left unremoved blocks access for the next tenant. Our rapid removal service keeps rental turnarounds on schedule and avoids damage to the high-security multi-point systems these properties rely on."
-    },
-    {
-      "q": "Can you remove a broken key from a listed building lock in North Oxford without damaging the original mechanism?",
-      "a": "Yes—our heritage-aware approach extracts snapped keys from period mortice locks and night latches in conservation areas without modification. We understand Oxford's listed-building compliance requirements and restore access while preserving the architectural integrity your property needs."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Oxford – Fast Response",
-  "burglar-repair-service.meta.description": "Emergency burglar repair in Oxford. Post-break-in lock changes, door repairs & security upgrades for Victorian terraces, listed buildings & HMOs.",
-  "burglar-repair-service.hero-paragraph": "Oxford's trusted locksmiths specialise in burglar repair and locksmithing following break-ins and forced entry damage. We restore security with door reinforcement and insurance-compliant BS3621 mortice locks. Our technicians assess smashed locks and damaged frames, installing TS007 anti-snap cylinders where needed to prevent future intrusion.",
-  "burglar-repair-service.local-context-body": "Break-ins across Oxford's diverse housing stock demand repair approaches tailored to local property types. Listed Victorian and Edwardian properties in conservation areas like North Oxford present particular challenges: replacement locks and door repairs must preserve period authenticity and comply with heritage restrictions, making specialist reinstatement essential. Student rental properties in central neighborhoods and larger estates like Barton, where multi-point security systems are standard, require rapid restoration of high-security mechanisms to meet landlord and insurer expectations.\n\nOxford's conservation area designations significantly constrain burglar repair work. Visible lock replacements, door frame modifications, and external hardware changes often require planning consent or conservation officer approval before reinstatement can proceed. Insurance assessors expect documented compliance with local heritage rules, particularly for listed buildings. This administrative layer means repair timescales extend beyond immediate physical work, and locksmiths must verify restrictions before quoting and scheduling jobs in protected zones.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle break-ins on listed buildings in North Oxford conservation areas?",
-      "a": "Yes. We're experienced with heritage-sensitive repairs on listed properties and understand Oxford's conservation restrictions—we'll restore your locks and doors to pre-incident condition without triggering planning issues. We can advise on compliant lock upgrades if needed."
-    },
-    {
-      "q": "How quickly can you repair a break-in at an HMO property in Cowley?",
-      "a": "We offer same-day emergency callouts for rental properties across Cowley and similar areas. Multi-point lock systems on shared houses are our bread and butter, and we'll have you secure and documented for your insurance claim fast."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Oxford – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Oxford – same-day secure boarding of smashed doors and windows. Listed property specialists for conservation areas.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Oxford from our experienced locksmith team combines skilled locksmithing with rapid response to secure your property. Whether you're dealing with smashed windows or damaged doors, we stabilise the area using robust plywood boards and security screws. Our 24/7 service ensures your premises remain protected and compliant with insurance requirements until permanent repairs can be arranged.",
-  "emergency-boarding-up.local-context-body": "Break-ins and storm damage requiring emergency boarding up occur across Oxford's varied housing stock, from Victorian villas in Park Town's conservation area to the expanding semi-detached and new-build properties in Kennington. Rapid board-up response is critical in these neighborhoods to secure properties, prevent further weather exposure, and deter opportunistic entry while permanent repairs are arranged.\n\nListed-building status and conservation-area designation significantly constrain boarding-up methods in central and north Oxford. Temporary boards must avoid damaging historic frames, glazing bars, or architectural detail; permanent solutions often require planning consent and listed-building approval before installation. Compliance with these restrictions extends timescales but is essential to avoid enforcement action and preserve property value.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up listed buildings and conservation properties in Oxford?",
-      "a": "Yes. We understand Oxford's strict conservation area rules and listed-building requirements, and our boarding-up work complies with local planning restrictions. We use sympathetic materials and methods that won't damage heritage features, ensuring your property is secure without breaching conservation consent."
-    },
-    {
-      "q": "How quickly can you board up after a break-in in student areas like Botley or Blackbird Leys?",
-      "a": "We offer same-day emergency boarding up across Oxford, including high-density student and residential zones. Our rapid response team will secure smashed doors and windows promptly, protecting your property from further intrusion or weather damage while you arrange permanent repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Oxford | Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock replacement in Oxford: fast professional service for moves, lost keys & upgrades. Listed building specialists.",
-  "lock-changes.hero-paragraph": "Our Oxford locksmith specialises in lock changes, applying expert locksmithing techniques to secure your property. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we install high-specification locks meeting BS3621 standards. Our technicians fit secure euro cylinders and TS007 anti-snap mechanisms to provide lasting peace of mind.",
-  "lock-changes.local-context-body": "Lock changes are routine after house moves across Oxford's mixed stock, from Victorian semis in Botley to post-war estates in Marston. Rental turnover—particularly in HMO conversions and student areas—drives frequent lock replacements for security and tenant changeover. Each property type presents different requirements: period terraces often retain original mortice locks requiring specialist handling, while modern semi-detached homes typically use cylinder locks compatible with standard multipoint systems.\n\nListed buildings and conservation-area properties in North Oxford impose strict constraints on lock replacement. Planning approval or conservation officer consent may be required before installing new hardware, especially if external doors or period fittings are altered. Locksmiths working in these areas must verify listed-building status and advise clients on compliant options that preserve architectural character while meeting modern security standards.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in North Oxford and want to change the locks—what should I know?",
-      "a": "North Oxford's conservation area restrictions mean any lock replacement must preserve the character of period doors and hardware; we're experienced in fitting modern high-security locks that comply with conservation guidelines while protecting your new home. We'll ensure the work meets both your security needs and local planning requirements."
-    },
-    {
-      "q": "We're landlords with HMO properties in Jericho—how often should we change locks between tenants?",
-      "a": "For student rental turnover in Jericho's high-density lets, we recommend full lock changes at each tenancy change to reset security and maintain a clear key audit trail. Our rapid response service minimises void periods, and we can install durable multi-point systems built to handle frequent changes."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Oxford – Same-Day Service Available",
-  "lock-repairs.meta.description": "Expert lock repairs in Oxford, including multipoint & mortice locks. Fast response for Victorian homes, listed properties & student rentals. 24/7 available.",
-  "lock-repairs.hero-paragraph": "Lock repairs in Oxford from our expert locksmiths combine precision locksmithing with practical solutions for your security needs. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, our technicians perform gearbox repair and mortice maintenance to restore full function. All work includes manufacturer warranty cover for your peace of mind.",
-  "lock-repairs.local-context-body": "Oxford's mixed Victorian and post-war housing stock generates consistent lock repair demand. Iffley's conservation-area properties—Victorian detachers and semis alongside riverside homes—frequently require gearbox and mortice lock repairs that respect period authenticity. East Oxford's dense terrace stock, much of it rented to students and young professionals, sees high wear on multipoint systems and night latches, where repair often extends lock life before full replacement becomes necessary.\n\nListed-building and conservation-area designations in North Oxford and similar neighborhoods create compliance constraints: lock repairs must preserve original door frames and hardware profiles, ruling out heavy modification or incompatible replacements. Older properties commonly house traditional mortice locks requiring specialist gearbox work; modern HMO conversions demand rapid multipoint repair to maintain security on shared entrance doors. Material compatibility—wooden frames, period hardware, contemporary composite doors—shapes which repair method is feasible.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do multipoint locks fail so often in Oxford student properties?",
-      "a": "High-turnover HMO rentals in areas like Jericho and East Oxford see intensive use and wear on multipoint systems. We repair worn gearboxes and misaligned keeps, which are the most common failure points in these busy shared houses."
-    },
-    {
-      "q": "Can you repair my mortice lock without damaging the listed door frame?",
-      "a": "Yes—we're experienced in sympathetic repairs to conservation properties in Park Town and similar areas. We can often restore original mortice locks in place rather than forcing replacement, respecting both the lock mechanism and your listed building's heritage status."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Oxford – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Oxford, including mortice locks, anti-snap cylinders & multipoint systems. Listed building specialists serving North Oxford & city centre.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Oxford from experienced locksmiths specialising in locksmithing ensures your property meets current security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware after a house move, or meeting insurance requirements, our technicians install BS3621 mortice locks and multipoint mechanisms to exacting standards. We're available across Oxford for residential and commercial installations.",
-  "door-lock-installation.local-context-body": "Interwar semis and post-war terraced homes across Cowley form a significant portion of Oxford's rental stock, where standardized lock upgrades to BS3621 mortice and TS007 anti-snap cylinders are routine. These properties typically feature timber frames suited to traditional mortice installation, though varied door construction and age-related wear often require on-site assessment before fitting multipoint systems. HMO conversions in student-dense areas demand rapid turnaround and compliance with insurance-mandated security standards.\n\nConservation areas including Iffley impose strict controls on external door and lock modifications, requiring any installation work to preserve period character and comply with planning restrictions. Listed-building consent is frequently necessary before fitting modern cylinders or multipoint hardware, necessitating locksmith familiarity with heritage guidance and liaison with conservation officers. Awareness of these constraints at the point of customer contact prevents abortive visits and ensures compliant, sympathetic lock installation across Oxford's protected stock.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install anti-snap cylinders on listed buildings in Oxford's conservation areas?",
-      "a": "Yes—we're experienced with TS007 anti-snap cylinders on heritage properties in areas like North Oxford and Park Town, where conservation restrictions apply. We ensure all upgrades comply with planning guidance and preserve the character of listed doors."
-    },
-    {
-      "q": "Can you fit multipoint locks quickly on student rental properties in East Oxford?",
-      "a": "Absolutely. We offer rapid BS3621 mortice and multipoint lock installation for HMOs and rental properties across student-heavy neighborhoods like Jericho and East Oxford, ensuring high-security compliance and fast emergency response."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Oxford – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Oxford for Victorian, listed & modern homes. Expert upgrades & like-for-like swaps. Conservation-aware. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Oxford by our locksmith specialists combines expert locksmithing with reliable solutions for failed locks and house moves. We fit BS3621-approved mechanisms and offer anti-snap upgrades to enhance your security. Whether you've lost keys or need a like-for-like cylinder swap, our technicians deliver prompt, professional service across Oxford.",
-  "door-lock-replacement.local-context-body": "Properties across Marston and similar post-war estates commonly feature aluminium-framed doors with standard cylinder locks that wear quickly in high-turnover rental situations. Victorian detached homes in Park Town, conversely, retain original wooden frames where period-appropriate lock mechanisms must be carefully matched to avoid damaging heritage joinery. Door lock replacement across Oxford's 78 neighborhoods therefore demands stock knowledge of both modern multi-point systems and heritage-compliant restoration.\n\nListed buildings and conservation-area properties in North Oxford impose strict controls on visible lock modification; replacements must preserve external appearance and often require conservation officer approval before work proceeds. Standard domestic locks rarely satisfy HMO licensing requirements for shared student housing, where multi-point deadbolts and keyed night latches are mandatory. Material compatibility—whether timber, composite, or metal frames—dictates lock type selection and fitting methodology.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I live in a Park Town conservation area property – can you replace my front door lock without damaging the original frame?",
-      "a": "Yes. Our locksmiths hold specialist listed-building accreditation and understand conservation area restrictions on modifications. We perform like-for-like lock replacements that preserve the integrity of Victorian doors and frames, ensuring compliance with Oxford's heritage rules."
-    },
-    {
-      "q": "My HMO rental property in East Oxford needs a multi-point lock upgrade – how quickly can you fit it?",
-      "a": "We offer same-day emergency lock replacement for student rental properties across high-demand areas like East Oxford and Jericho. Our rapid response team can upgrade to high-security multi-point systems to meet landlord and tenant security requirements."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Oxford – Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Oxford: uPVC alignment, composite realignment & handle fixes. Listed-building specialist. Call 01865 685117.",
-  "door-repairs.hero-paragraph": "Our Oxford locksmiths specialise in door repairs and locksmithing services for residential and commercial properties across the city. Whether your door has dropped, won't close properly, or is catching on the frame, we diagnose and repair issues affecting uPVC, composite and timber doors. Our technicians perform hinge adjustment and multipoint realignment to restore smooth operation and security.",
-  "door-repairs.local-context-body": "Victorian terraces in Jericho and the large detached properties of North Oxford both present characteristic door alignment and hardware issues. Older timber frames settle unevenly, causing doors to drop or bind; period hardware—heavy brass hinges, mortice locks, and traditional latches—requires knowledgeable adjustment rather than replacement to preserve both function and character. Post-war semi-detached homes across the city show similar wear patterns, though with lighter-duty mechanisms prone to misalignment after decades of use.\n\nListed buildings and properties within conservation areas impose specific constraints on door repairs. Modifications to external doors, frames, or hardware must respect planning conditions and heritage guidelines; replacements cannot alter a building's listed character. HMO properties in dense student areas like Holywell demand rapid repair turnaround to meet landlord obligations and safety standards. Understanding these regulatory overlays—alongside the material diversity of Oxford's housing stock—shapes how door repair work proceeds from survey through completion.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Can you repair doors in listed buildings and conservation areas without damaging the original features?",
-      "a": "Yes. Our locksmiths hold specialist heritage accreditation for listed-building work, essential in Oxford's conservation areas like North Oxford and Park Town where door modifications are heavily restricted. We repair alignment, hardware and frames while preserving period character and meeting local planning compliance."
-    },
-    {
-      "q": "My student HMO in East Oxford has a dropped internal door—can you fix it quickly?",
-      "a": "Absolutely. Student areas like East Oxford generate frequent urgent calls, and we offer rapid same-day door repair for dropped, misaligned or damaged doors in multi-occupancy properties. We also inspect and upgrade multi-point locking systems to meet HMO security standards while you're there."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Oxford | Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Oxford. Espagnolette and shootbolt locks fixed on uPVC, aluminium and timber. Conservation-area compliant.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Oxford requires skilled locksmithing expertise, and our locksmiths specialise in restoring security to your home. Whether you're dealing with windows that won't lock or broken handles affecting espagnolette mechanisms, we deliver insurance-compliant fitting that meets industry standards. Our technicians diagnose and repair failed mechanisms efficiently, ensuring your windows function reliably and securely.",
-  "window-lock-repair-replacement.local-context-body": "Window locks fail across Oxford's diverse housing stock, from Victorian villas in Park Town to semi-detached properties throughout Kennington. Espagnolette and shootbolt locks on sash and casement windows are particularly common in older properties, where decades of use and weather exposure degrade mechanisms. Rapid replacement is essential in rental areas, where faulty locks create security gaps and tenant complaints.\n\nConservation area properties, especially listed Victorian and Edwardian homes, require specialist care during window lock repair and replacement. Listed-building consent may be necessary before modification, and period-appropriate lock styles must be matched to avoid damaging historic fabric. Modern HMO properties demand high-security multi-point systems that meet current rental safety standards, making accurate specification and compliant installation critical.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in North Oxford need specialist espagnolette lock repair?",
-      "a": "Victorian properties in North Oxford's conservation area often have period-correct sash windows with delicate frames; our technicians know how to repair or replace espagnolette locks without altering the original joinery or breaching conservation restrictions. We source heritage-compliant hardware to maintain listed-building compliance."
-    },
-    {
-      "q": "My Jericho terrace has a broken shootbolt lock—can you repair it quickly?",
-      "a": "Yes; student-heavy areas like Jericho see frequent window lock failures due to heavy use in rental properties. We offer same-day repair and replacement of shootbolt locks on period terraces, ensuring your HMO or rental property meets security standards without waiting."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Oxford – Trusted Local Service",
-  "safe-installation.meta.description": "Safe installation Oxford: wall, floor & freestanding safes with insurance documentation. Listed property specialists for North Oxford & conservation areas.",
-  "safe-installation.hero-paragraph": "Safe installation by Oxford locksmiths combining expert locksmithing with secure positioning ensures your valuables are protected from day one. Our technicians specialise in floor anchoring and wall mounting to AiS approved standards, meeting insurance requirements for new safes. We assess cash ratings and Eurograde certifications to match your security needs precisely.",
-  "safe-installation.local-context-body": "Oxford's mixed residential stock—from listed Georgian townhouses in the City Centre to semi-detached family homes across Barton—creates varied safe installation requirements. Victorian properties and interwar semis often feature solid timber or brick construction ideal for wall-mounted safes, while modern estates may require floor anchoring into concrete. Insurance companies typically mandate professional installation documentation for high-value item coverage, making certified fitting essential across Oxford's diverse neighborhoods.\n\nConservation area properties and listed buildings in North Oxford require careful consideration of wall integrity and fire-safety regulations before installation. Many period properties feature lime mortar and heritage plasterwork that cannot tolerate conventional wall anchors; specialist assessment and sensitive fixing methods are necessary to preserve structural integrity and comply with local authority conservation guidelines.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed buildings and conservation areas like Iffley?",
-      "a": "Yes—we're experienced in heritage-aware safe installation for Oxford's listed properties and conservation areas. We ensure all anchoring and modifications comply with conservation restrictions, and we'll liaise with your local authority if required."
-    },
-    {
-      "q": "What insurance documentation do you provide after safe installation?",
-      "a": "We supply full installation certificates and anchoring specifications that most insurers require for high-value contents cover. This is especially important for rental HMOs in student areas and multi-occupancy properties across Cowley and East Oxford, where landlords need proof of proper securing."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Oxford – Fast Same-Day Service",
-  "safe-opening.meta.description": "Expert safe opening in Oxford: lost keys, combinations & lockouts solved non-destructively. HMO & listed properties covered.",
-  "safe-opening.hero-paragraph": "When you need safe opening in Oxford, our experienced locksmiths bring specialist locksmithing expertise to every job. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use non-destructive opening techniques to access your safe without damage. Our technicians employ precision combination dial manipulation to restore your access quickly and professionally.",
-  "safe-opening.local-context-body": "Holywell's dense Victorian and Edwardian terraces—many converted into student HMOs—frequently house safes left by previous tenants or landlords. Safe lockouts and lost combinations are common in these multi-occupancy properties, where keys pass between residents and documentation rarely survives. Headington's expanding mix of period homes and newer builds also generates safe-opening calls, particularly when inherited properties or rental transitions leave occupants without access to valuables or documents.\n\nOxford's conservation areas and listed buildings present a specific constraint: safe removal or drilling must comply with heritage protection rules, and structural modifications require specialist awareness. Non-destructive opening techniques are therefore not merely preferable but often mandatory in North Oxford and similar protected zones, where visual and structural integrity cannot be compromised. Locksmiths working on safes in these properties must combine technical skill with conservation knowledge.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm locked out of my safe in a listed building in North Oxford—can you open it without damaging the property?",
-      "a": "Yes. Our non-destructive safe opening methods preserve both the safe and your listed building's integrity, which is essential in Oxford's conservation areas where modifications are restricted. We use specialist techniques to recover lost combinations and access without drilling or force."
-    },
-    {
-      "q": "We rent out HMO properties in Botley and a tenant has lost the safe key—how quickly can you help?",
-      "a": "We offer rapid emergency safe opening for landlords managing multi-unit properties across Oxford. Our non-destructive approach means you can re-secure the safe immediately without costly replacement, ideal for high-turnover student and rental areas."
-    }
-  ],
-  "home.areas-covered": [
-    "Bartlemas",
-    "Barton",
-    "Barton Park",
-    "Binsey",
-    "Blackbird Leys",
-    "Botley",
-    "Church Cowley",
-    "City Centre",
-    "Cold Harbour",
-    "Cowley",
-    "Cowley Airfield",
-    "Cowley Marsh",
-    "Cutteslowe",
-    "Donnington",
-    "East Oxford",
-    "Elsfield",
-    "Florence Park",
-    "Foxcombe Hill",
-    "Gipsy Lane Estate",
-    "Grandpont",
-    "Greater Leys",
-    "Harcourt Hill",
-    "Headington",
-    "Headington Hill",
-    "Headington Quarry",
-    "Headington Shops",
-    "Highfield",
-    "Hinksey Hill",
-    "Holywell",
-    "Iffley",
-    "Iffley Fields",
-    "Jericho",
-    "Kennington",
-    "Littlemore",
-    "Littlemore Park",
-    "Lower Wolvercote",
-    "Lye Valley",
-    "Marston",
-    "Minchery Farm",
-    "New Botley",
-    "New Headington",
-    "New Hinksey",
-    "New Marston",
-    "Norham Manor",
-    "North Hinksey",
-    "North Oxford",
-    "Northway",
-    "Old Boars Hill",
-    "Old Headington",
-    "Old Rose Hill",
-    "Osney",
-    "Oxpens",
-    "Park Town",
-    "Redbridge",
-    "Risinghurst",
-    "Robin Hood",
-    "Rose Hill",
-    "Sandford-on-Thames",
-    "Sandhills",
-    "Slade Park",
-    "South Hinksey",
-    "South Oxford",
-    "St Clement's",
-    "St Ebbes",
-    "St Ebbes by the River",
-    "St Thomas'",
-    "Summertown",
-    "Sunnymead",
-    "Temple Cowley",
-    "The Lakes",
-    "Town Furze",
-    "Upper Wolvercote",
-    "Wadham Park",
-    "Walton Manor",
-    "Waterways",
-    "West Oxford",
-    "Wolvercote",
-    "Wood Farm"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Wadham Park",
-    "New Botley",
-    "Rose Hill",
-    "Upper Wolvercote",
-    "Headington Shops",
-    "Barton",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "locked-out.areas-covered": [
-    "Town Furze",
-    "Blackbird Leys",
-    "Old Boars Hill",
-    "Cowley",
-    "South Hinksey",
-    "Donnington",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Foxcombe Hill",
-    "Headington Quarry",
-    "Risinghurst",
-    "Highfield",
-    "Cold Harbour",
-    "Northway",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "The Lakes",
-    "Cutteslowe",
-    "Elsfield",
-    "Bartlemas",
-    "Cowley Marsh",
-    "Redbridge",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "City Centre",
-    "Harcourt Hill",
-    "St Ebbes",
-    "Robin Hood",
-    "Old Rose Hill",
-    "Walton Manor",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "lock-changes.areas-covered": [
-    "North Oxford",
-    "Botley",
-    "Littlemore",
-    "St Ebbes by the River",
-    "Summertown",
-    "New Marston",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "lock-repairs.areas-covered": [
-    "Wood Farm",
-    "New Hinksey",
-    "Barton Park",
-    "Oxpens",
-    "Grandpont",
-    "Iffley",
-    "Sandford-on-Thames",
-    "Marston"
-  ],
-  "door-lock-installation.areas-covered": [
-    "West Oxford",
-    "Old Headington",
-    "South Oxford",
-    "St Clement's",
-    "Littlemore Park",
-    "New Headington",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "East Oxford",
-    "Slade Park",
-    "St Thomas'",
-    "Hinksey Hill",
-    "Park Town",
-    "Gipsy Lane Estate",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "door-repairs.areas-covered": [
-    "Marston",
-    "Binsey",
-    "North Hinksey",
-    "Waterways",
-    "Church Cowley",
-    "Lower Wolvercote",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Sandford-on-Thames",
-    "Sunnymead",
-    "Greater Leys",
-    "Cowley Airfield",
-    "Wolvercote",
-    "Headington",
-    "New Hinksey",
-    "Marston"
-  ],
-  "safe-installation.areas-covered": [
-    "Temple Cowley",
-    "Minchery Farm",
-    "Holywell",
-    "Iffley Fields",
-    "Florence Park",
-    "Sandhills",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ],
-  "safe-opening.areas-covered": [
-    "Headington Hill",
-    "Osney",
-    "Norham Manor",
-    "Jericho",
-    "Lye Valley",
-    "Kennington",
-    "New Hinksey",
-    "Sandford-on-Thames"
-  ]
+ "meta.title": "Locksmith Oxford | Local Locksmithing Service 24/7",
+ "meta.description": "Trusted Oxford locksmith for emergencies, lock changes, and security. Specialist in listed buildings and conservation areas. Fast response 24/7.",
+ "home.hero-paragraph": "Oxford locksmith services specialising in locksmithing and professional lock services across the city. We handle emergency lockouts, lock changes, and security upgrades with non-destructive entry techniques. All work is completed by DBS checked technicians, fully insured, with no call-out fees and 24/7 availability.",
+ "home.local-context-heading": "Locksmith expertise across Oxford's diverse properties",
+ "home.local-context-body": "Oxford's mixed housing stock\u2014from Victorian terraces and conservation-area villas in Park Town to post-war semis in Marston\u2014creates varied lock maintenance demands. Older properties often need period-appropriate lock restoration or security upgrades on original timber frames, while newer estates typically require modern multipoint system repairs and key replacements. The age and construction method of each property type directly affects which lock mechanisms are suitable and how installation should proceed.\n\nStudent rental properties and HMOs in central Oxford frequently operate under stricter security requirements, including landlord-mandated multipoint locks and rapid-access provisions for managing turnovers. Conservation areas impose additional constraints: any lock or door modification must preserve the building's heritage character, making specialist knowledge essential before work begins. Professional assessment of listed-building compliance prevents costly remediation and ensures customer confidence in the work undertaken.",
+ "home.local-faqs": [
+  {
+   "q": "I'm renting in student areas like Jericho or East Oxford and I've been locked out \u2013 how quickly can Boltfix respond?",
+   "a": "We prioritise emergency lockouts in Oxford's high-density student neighbourhoods and operate rapid response call-outs across central and east Oxford. Call 01865 685117 and we'll dispatch a locksmith to get you back inside as quickly as possible, even outside standard hours."
+  },
+  {
+   "q": "I live in a listed building or conservation area property (North Oxford, Iffley, etc.) \u2013 can you help with lock repairs without damaging the heritage features?",
+   "a": "Yes \u2013 we hold specialist accreditation for listed and conservation properties and understand Oxford's strict modification rules. We'll advise on compliant solutions and restore or upgrade locks while preserving the character and integrity of your period home."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Oxford \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Oxford. Locked out, key snapped, or door won't lock? Fast response to listed properties, HMOs and all Oxford neighbourhoods. Call now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Oxford brings professional locksmithing expertise to your door when you need it most. Whether you're locked out, have suffered a snapped key, or require post-break-in repairs, our DBS-checked locksmiths respond 24/7 with non-destructive entry techniques and swift resolution.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Oxford happen across starkly different property types. Student-heavy areas like Jericho see frequent urgent callouts from shared rental properties where tenants lose keys or locks jam under heavy use. Victorian terraces and period semi-detached homes in these neighbourhoods often have original or poorly maintained locks that fail without warning, especially during winter months when door frames shift and mechanisms bind.\n\nListed buildings and conservation areas across North Oxford and the City Centre present a practical constraint: standard lock repairs or replacements must preserve original hardware and door fabric, or satisfy planning consent requirements before work can begin. Emergency locksmiths handling post-break-in security in these zones need to source heritage-compliant hardware and understand listed-building protocols to avoid breaching conservation restrictions\u2014a delay that matters when a property is unsecured.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my student rental in East Oxford\u2014how quickly can you respond?",
+   "a": "We offer 24/7 emergency callouts across Oxford, including the densely rented student areas of East Oxford and Jericho. Our typical response time is under 1 hour, and we can often access Victorian terraces without damage to doors or frames."
+  },
+  {
+   "q": "My listed property in Iffley has a broken lock\u2014will a locksmith damage the conservation features?",
+   "a": "Yes; we hold specialist heritage accreditation for listed buildings and conservation areas like Iffley, and we understand the strict rules around door and frame modification. We'll restore your lock using period-appropriate methods and materials wherever possible."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Oxford | Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Oxford? Fast, non-destructive entry for lost or snapped keys. Available 24/7 across Botley, Marston, and all neighbourhoods.",
+ "locked-out.hero-paragraph": "When you're locked out in Oxford, our experienced locksmiths specialise in locksmithing techniques that restore access quickly. Whether you've snapped a key, lost yours entirely, or simply had the door slam shut, we use non-destructive entry methods to ensure your property remains damage-free. Our rapid response gets you back inside without unnecessary delay.",
+ "locked-out.local-context-body": "Locked-out calls in Oxford span the full breadth of the city's housing\u2014from Victorian semis in Iffley's conservation streets to the rental-heavy terraces and post-war estates of Cowley. Student areas and HMO properties generate the highest urgent demand, particularly when keys are mislaid or snapped during term-time. Non-destructive entry techniques are essential where properties carry heritage restrictions or where landlords require damage-free access.\n\nListed buildings and conservation-area properties in North Oxford and similar zones impose strict limits on lock replacement and door modification. Any entry work must preserve original hardware and finishes; specialist knowledge of period mechanisms\u2014sash locks, mortice fittings, and heritage-grade materials\u2014is necessary to meet planning compliance and protect property value. Standard destructive methods are unsuitable; careful non-invasive techniques are both a practical and legal requirement.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Jericho\u2014how quickly can you arrive?",
+   "a": "We typically respond to lockouts in Jericho within 30\u201345 minutes during business hours. Student areas like yours see high call volumes, so we keep fast-response capacity for emergency access without damage to your period features."
+  },
+  {
+   "q": "My listed building in North Oxford has a heritage lock I'm worried about\u2014can you open it without damage?",
+   "a": "Yes\u2014our team has experience with conservation-area properties and listed buildings across North Oxford. We use non-destructive entry techniques that preserve original and period-appropriate locks, avoiding the modifications that conservation officers restrict."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Oxford \u2013 Fast Local Service",
+ "broken-key-removal.meta.description": "Broken key removal Oxford: expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Serving New Hinksey, Barton & across Oxford.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Oxford requires expert locksmith knowledge and precision locksmithing to restore access without damage. When a key snaps or shears inside your lock, our technicians use specialised key extractor tools and probes to retrieve fragments safely. Whether your euro cylinder or mortice lock is affected, we employ non-destructive methods to ensure your lock remains fully functional.",
+ "broken-key-removal.local-context-body": "Victorian terraces in East Oxford, where student lettings dominate, frequently present snapped keys in worn euro cylinders\u2014common in rapid turnover properties where locks endure heavy use and inconsistent maintenance. Iffley's conservation-area properties, often owner-occupied with period detailing, similarly require broken key extraction but demand extra care around original door furniture and listed-status restrictions on replacement hardware.\n\nListed buildings and conservation areas across Oxford restrict lock and door modifications without planning consent or conservation officer approval. Broken key removal that avoids unnecessary cylinder replacement becomes essential in these properties, as sourcing matching heritage locks can delay tenancy or sale completion. Knowledge of period-appropriate lock types and non-invasive extraction techniques directly affects compliance and customer confidence.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do student HMOs in East Oxford and Jericho need fast broken key removal?",
+   "a": "Multi-occupancy properties with high turnover see frequent lockouts and worn euro cylinders; a snapped key left unremoved blocks access for the next tenant. Our rapid removal service keeps rental turnarounds on schedule and avoids damage to the high-security multi-point systems these properties rely on."
+  },
+  {
+   "q": "Can you remove a broken key from a listed building lock in North Oxford without damaging the original mechanism?",
+   "a": "Yes\u2014our heritage-aware approach extracts snapped keys from period mortice locks and night latches in conservation areas without modification. We understand Oxford's listed-building compliance requirements and restore access while preserving the architectural integrity your property needs."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Oxford \u2013 Fast Response",
+ "burglar-repair-service.meta.description": "Emergency burglar repair in Oxford. Post-break-in lock changes, door repairs & security upgrades for Victorian terraces, listed buildings & HMOs.",
+ "burglar-repair-service.hero-paragraph": "Oxford's trusted locksmiths specialise in burglar repair and locksmithing following break-ins and forced entry damage. We restore security with door reinforcement and insurance-compliant BS3621 mortice locks. Our technicians assess smashed locks and damaged frames, installing TS007 anti-snap cylinders where needed to prevent future intrusion.",
+ "burglar-repair-service.local-context-body": "Break-ins across Oxford's diverse housing stock demand repair approaches tailored to local property types. Listed Victorian and Edwardian properties in conservation areas like North Oxford present particular challenges: replacement locks and door repairs must preserve period authenticity and comply with heritage restrictions, making specialist reinstatement essential. Student rental properties in central neighbourhoods and larger estates like Barton, where multi-point security systems are standard, require rapid restoration of high-security mechanisms to meet landlord and insurer expectations.\n\nOxford's conservation area designations significantly constrain burglar repair work. Visible lock replacements, door frame modifications, and external hardware changes often require planning consent or conservation officer approval before reinstatement can proceed. Insurance assessors expect documented compliance with local heritage rules, particularly for listed buildings. This administrative layer means repair timescales extend beyond immediate physical work, and locksmiths must verify restrictions before quoting and scheduling jobs in protected zones.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle break-ins on listed buildings in North Oxford conservation areas?",
+   "a": "Yes. We're experienced with heritage-sensitive repairs on listed properties and understand Oxford's conservation restrictions\u2014we'll restore your locks and doors to pre-incident condition without triggering planning issues. We can advise on compliant lock upgrades if needed."
+  },
+  {
+   "q": "How quickly can you repair a break-in at an HMO property in Cowley?",
+   "a": "We offer same-day emergency callouts for rental properties across Cowley and similar areas. Multi-point lock systems on shared houses are our bread and butter, and we'll have you secure and documented for your insurance claim fast."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Oxford \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Oxford \u2013 same-day secure boarding of smashed doors and windows. Listed property specialists for conservation areas.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Oxford from our experienced locksmith team combines skilled locksmithing with rapid response to secure your property. Whether you're dealing with smashed windows or damaged doors, we stabilise the area using robust plywood boards and security screws. Our 24/7 service ensures your premises remain protected and compliant with insurance requirements until permanent repairs can be arranged.",
+ "emergency-boarding-up.local-context-body": "Break-ins and storm damage requiring emergency boarding up occur across Oxford's varied housing stock, from Victorian villas in Park Town's conservation area to the expanding semi-detached and new-build properties in Kennington. Rapid board-up response is critical in these neighbourhoods to secure properties, prevent further weather exposure, and deter opportunistic entry while permanent repairs are arranged.\n\nListed-building status and conservation-area designation significantly constrain boarding-up methods in central and north Oxford. Temporary boards must avoid damaging historic frames, glazing bars, or architectural detail; permanent solutions often require planning consent and listed-building approval before installation. Compliance with these restrictions extends timescales but is essential to avoid enforcement action and preserve property value.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up listed buildings and conservation properties in Oxford?",
+   "a": "Yes. We understand Oxford's strict conservation area rules and listed-building requirements, and our boarding-up work complies with local planning restrictions. We use sympathetic materials and methods that won't damage heritage features, ensuring your property is secure without breaching conservation consent."
+  },
+  {
+   "q": "How quickly can you board up after a break-in in student areas like Botley or Blackbird Leys?",
+   "a": "We offer same-day emergency boarding up across Oxford, including high-density student and residential zones. Our rapid response team will secure smashed doors and windows promptly, protecting your property from further intrusion or weather damage while you arrange permanent repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Oxford | Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock replacement in Oxford: fast professional service for moves, lost keys & upgrades. Listed building specialists.",
+ "lock-changes.hero-paragraph": "Our Oxford locksmith specialises in lock changes, applying expert locksmithing techniques to secure your property. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we install high-specification locks meeting BS3621 standards. Our technicians fit secure euro cylinders and TS007 anti-snap mechanisms to provide lasting peace of mind.",
+ "lock-changes.local-context-body": "Lock changes are routine after house moves across Oxford's mixed stock, from Victorian semis in Botley to post-war estates in Marston. Rental turnover\u2014particularly in HMO conversions and student areas\u2014drives frequent lock replacements for security and tenant changeover. Each property type presents different requirements: period terraces often retain original mortice locks requiring specialist handling, while modern semi-detached homes typically use cylinder locks compatible with standard multipoint systems.\n\nListed buildings and conservation-area properties in North Oxford impose strict constraints on lock replacement. Planning approval or conservation officer consent may be required before installing new hardware, especially if external doors or period fittings are altered. Locksmiths working in these areas must verify listed-building status and advise clients on compliant options that preserve architectural character while meeting modern security standards.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in North Oxford and want to change the locks\u2014what should I know?",
+   "a": "North Oxford's conservation area restrictions mean any lock replacement must preserve the character of period doors and hardware; we're experienced in fitting modern high-security locks that comply with conservation guidelines while protecting your new home. We'll ensure the work meets both your security needs and local planning requirements."
+  },
+  {
+   "q": "We're landlords with HMO properties in Jericho\u2014how often should we change locks between tenants?",
+   "a": "For student rental turnover in Jericho's high-density lets, we recommend full lock changes at each tenancy change to reset security and maintain a clear key audit trail. Our rapid response service minimises void periods, and we can install durable multi-point systems built to handle frequent changes."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Oxford \u2013 Same-Day Service Available",
+ "lock-repairs.meta.description": "Expert lock repairs in Oxford, including multipoint & mortice locks. Fast response for Victorian homes, listed properties & student rentals. 24/7 available.",
+ "lock-repairs.hero-paragraph": "Lock repairs in Oxford from our expert locksmiths combine precision locksmithing with practical solutions for your security needs. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, our technicians perform gearbox repair and mortice maintenance to restore full function. All work includes manufacturer warranty cover for your peace of mind.",
+ "lock-repairs.local-context-body": "Oxford's mixed Victorian and post-war housing stock generates consistent lock repair demand. Iffley's conservation-area properties\u2014Victorian detachers and semis alongside riverside homes\u2014frequently require gearbox and mortice lock repairs that respect period authenticity. East Oxford's dense terrace stock, much of it rented to students and young professionals, sees high wear on multipoint systems and night latches, where repair often extends lock life before full replacement becomes necessary.\n\nListed-building and conservation-area designations in North Oxford and similar neighbourhoods create compliance constraints: lock repairs must preserve original door frames and hardware profiles, ruling out heavy modification or incompatible replacements. Older properties commonly house traditional mortice locks requiring specialist gearbox work; modern HMO conversions demand rapid multipoint repair to maintain security on shared entrance doors. Material compatibility\u2014wooden frames, period hardware, contemporary composite doors\u2014shapes which repair method is feasible.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do multipoint locks fail so often in Oxford student properties?",
+   "a": "High-turnover HMO rentals in areas like Jericho and East Oxford see intensive use and wear on multipoint systems. We repair worn gearboxes and misaligned keeps, which are the most common failure points in these busy shared houses."
+  },
+  {
+   "q": "Can you repair my mortice lock without damaging the listed door frame?",
+   "a": "Yes\u2014we're experienced in sympathetic repairs to conservation properties in Park Town and similar areas. We can often restore original mortice locks in place rather than forcing replacement, respecting both the lock mechanism and your listed building's heritage status."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Oxford \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Oxford, including mortice locks, anti-snap cylinders & multipoint systems. Listed building specialists serving North Oxford & city centre.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Oxford from experienced locksmiths specialising in locksmithing ensures your property meets current security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new hardware after a house move, or meeting insurance requirements, our technicians install BS3621 mortice locks and multipoint mechanisms to exacting standards. We're available across Oxford for residential and commercial installations.",
+ "door-lock-installation.local-context-body": "Interwar semis and post-war terraced homes across Cowley form a significant portion of Oxford's rental stock, where standardised lock upgrades to BS3621 mortice and TS007 anti-snap cylinders are routine. These properties typically feature timber frames suited to traditional mortice installation, though varied door construction and age-related wear often require on-site assessment before fitting multipoint systems. HMO conversions in student-dense areas demand rapid turnaround and compliance with insurance-mandated security standards.\n\nConservation areas including Iffley impose strict controls on external door and lock modifications, requiring any installation work to preserve period character and comply with planning restrictions. Listed-building consent is frequently necessary before fitting modern cylinders or multipoint hardware, necessitating locksmith familiarity with heritage guidance and liaison with conservation officers. Awareness of these constraints at the point of customer contact prevents abortive visits and ensures compliant, sympathetic lock installation across Oxford's protected stock.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install anti-snap cylinders on listed buildings in Oxford's conservation areas?",
+   "a": "Yes\u2014we're experienced with TS007 anti-snap cylinders on heritage properties in areas like North Oxford and Park Town, where conservation restrictions apply. We ensure all upgrades comply with planning guidance and preserve the character of listed doors."
+  },
+  {
+   "q": "Can you fit multipoint locks quickly on student rental properties in East Oxford?",
+   "a": "Absolutely. We offer rapid BS3621 mortice and multipoint lock installation for HMOs and rental properties across student-heavy neighbourhoods like Jericho and East Oxford, ensuring high-security compliance and fast emergency response."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Oxford \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Oxford for Victorian, listed & modern homes. Expert upgrades & like-for-like swaps. Conservation-aware. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Oxford by our locksmith specialists combines expert locksmithing with reliable solutions for failed locks and house moves. We fit BS3621-approved mechanisms and offer anti-snap upgrades to enhance your security. Whether you've lost keys or need a like-for-like cylinder swap, our technicians deliver prompt, professional service across Oxford.",
+ "door-lock-replacement.local-context-body": "Properties across Marston and similar post-war estates commonly feature aluminium-framed doors with standard cylinder locks that wear quickly in high-turnover rental situations. Victorian detached homes in Park Town, conversely, retain original wooden frames where period-appropriate lock mechanisms must be carefully matched to avoid damaging heritage joinery. Door lock replacement across Oxford's 78 neighbourhoods therefore demands stock knowledge of both modern multi-point systems and heritage-compliant restoration.\n\nListed buildings and conservation-area properties in North Oxford impose strict controls on visible lock modification; replacements must preserve external appearance and often require conservation officer approval before work proceeds. Standard domestic locks rarely satisfy HMO licensing requirements for shared student housing, where multi-point deadbolts and keyed night latches are mandatory. Material compatibility\u2014whether timber, composite, or metal frames\u2014dictates lock type selection and fitting methodology.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I live in a Park Town conservation area property \u2013 can you replace my front door lock without damaging the original frame?",
+   "a": "Yes. Our locksmiths hold specialist listed-building accreditation and understand conservation area restrictions on modifications. We perform like-for-like lock replacements that preserve the integrity of Victorian doors and frames, ensuring compliance with Oxford's heritage rules."
+  },
+  {
+   "q": "My HMO rental property in East Oxford needs a multi-point lock upgrade \u2013 how quickly can you fit it?",
+   "a": "We offer same-day emergency lock replacement for student rental properties across high-demand areas like East Oxford and Jericho. Our rapid response team can upgrade to high-security multi-point systems to meet landlord and tenant security requirements."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Oxford \u2013 Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Oxford: uPVC alignment, composite realignment & handle fixes. Listed-building specialist. Call 01865 685117.",
+ "door-repairs.hero-paragraph": "Our Oxford locksmiths specialise in door repairs and locksmithing services for residential and commercial properties across the city. Whether your door has dropped, won't close properly, or is catching on the frame, we diagnose and repair issues affecting uPVC, composite and timber doors. Our technicians perform hinge adjustment and multipoint realignment to restore smooth operation and security.",
+ "door-repairs.local-context-body": "Victorian terraces in Jericho and the large detached properties of North Oxford both present characteristic door alignment and hardware issues. Older timber frames settle unevenly, causing doors to drop or bind; period hardware\u2014heavy brass hinges, mortice locks, and traditional latches\u2014requires knowledgeable adjustment rather than replacement to preserve both function and character. Post-war semi-detached homes across the city show similar wear patterns, though with lighter-duty mechanisms prone to misalignment after decades of use.\n\nListed buildings and properties within conservation areas impose specific constraints on door repairs. Modifications to external doors, frames, or hardware must respect planning conditions and heritage guidelines; replacements cannot alter a building's listed character. HMO properties in dense student areas like Holywell demand rapid repair turnaround to meet landlord obligations and safety standards. Understanding these regulatory overlays\u2014alongside the material diversity of Oxford's housing stock\u2014shapes how door repair work proceeds from survey through completion.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Can you repair doors in listed buildings and conservation areas without damaging the original features?",
+   "a": "Yes. Our locksmiths hold specialist heritage accreditation for listed-building work, essential in Oxford's conservation areas like North Oxford and Park Town where door modifications are heavily restricted. We repair alignment, hardware and frames while preserving period character and meeting local planning compliance."
+  },
+  {
+   "q": "My student HMO in East Oxford has a dropped internal door\u2014can you fix it quickly?",
+   "a": "Absolutely. Student areas like East Oxford generate frequent urgent calls, and we offer rapid same-day door repair for dropped, misaligned or damaged doors in multi-occupancy properties. We also inspect and upgrade multi-point locking systems to meet HMO security standards while you're there."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Oxford | Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Oxford. Espagnolette and shootbolt locks fixed on uPVC, aluminium and timber. Conservation-area compliant.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Oxford requires skilled locksmithing expertise, and our locksmiths specialise in restoring security to your home. Whether you're dealing with windows that won't lock or broken handles affecting espagnolette mechanisms, we deliver insurance-compliant fitting that meets industry standards. Our technicians diagnose and repair failed mechanisms efficiently, ensuring your windows function reliably and securely.",
+ "window-lock-repair-replacement.local-context-body": "Window locks fail across Oxford's diverse housing stock, from Victorian villas in Park Town to semi-detached properties throughout Kennington. Espagnolette and shootbolt locks on sash and casement windows are particularly common in older properties, where decades of use and weather exposure degrade mechanisms. Rapid replacement is essential in rental areas, where faulty locks create security gaps and tenant complaints.\n\nConservation area properties, especially listed Victorian and Edwardian homes, require specialist care during window lock repair and replacement. Listed-building consent may be necessary before modification, and period-appropriate lock styles must be matched to avoid damaging historic fabric. Modern HMO properties demand high-security multi-point systems that meet current rental safety standards, making accurate specification and compliant installation critical.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in North Oxford need specialist espagnolette lock repair?",
+   "a": "Victorian properties in North Oxford's conservation area often have period-correct sash windows with delicate frames; our technicians know how to repair or replace espagnolette locks without altering the original joinery or breaching conservation restrictions. We source heritage-compliant hardware to maintain listed-building compliance."
+  },
+  {
+   "q": "My Jericho terrace has a broken shootbolt lock\u2014can you repair it quickly?",
+   "a": "Yes; student-heavy areas like Jericho see frequent window lock failures due to heavy use in rental properties. We offer same-day repair and replacement of shootbolt locks on period terraces, ensuring your HMO or rental property meets security standards without waiting."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Oxford \u2013 Trusted Local Service",
+ "safe-installation.meta.description": "Safe installation Oxford: wall, floor & freestanding safes with insurance documentation. Listed property specialists for North Oxford & conservation areas.",
+ "safe-installation.hero-paragraph": "Safe installation by Oxford locksmiths combining expert locksmithing with secure positioning ensures your valuables are protected from day one. Our technicians specialise in floor anchoring and wall mounting to AiS approved standards, meeting insurance requirements for new safes. We assess cash ratings and Eurograde certifications to match your security needs precisely.",
+ "safe-installation.local-context-body": "Oxford's mixed residential stock\u2014from listed Georgian townhouses in the City Centre to semi-detached family homes across Barton\u2014creates varied safe installation requirements. Victorian properties and interwar semis often feature solid timber or brick construction ideal for wall-mounted safes, while modern estates may require floor anchoring into concrete. Insurance companies typically mandate professional installation documentation for high-value item coverage, making certified fitting essential across Oxford's diverse neighbourhoods.\n\nConservation area properties and listed buildings in North Oxford require careful consideration of wall integrity and fire-safety regulations before installation. Many period properties feature lime mortar and heritage plasterwork that cannot tolerate conventional wall anchors; specialist assessment and sensitive fixing methods are necessary to preserve structural integrity and comply with local authority conservation guidelines.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed buildings and conservation areas like Iffley?",
+   "a": "Yes\u2014we're experienced in heritage-aware safe installation for Oxford's listed properties and conservation areas. We ensure all anchoring and modifications comply with conservation restrictions, and we'll liaise with your local authority if required."
+  },
+  {
+   "q": "What insurance documentation do you provide after safe installation?",
+   "a": "We supply full installation certificates and anchoring specifications that most insurers require for high-value contents cover. This is especially important for rental HMOs in student areas and multi-occupancy properties across Cowley and East Oxford, where landlords need proof of proper securing."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Oxford \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Expert safe opening in Oxford: lost keys, combinations & lockouts solved non-destructively. HMO & listed properties covered.",
+ "safe-opening.hero-paragraph": "When you need safe opening in Oxford, our experienced locksmiths bring specialist locksmithing expertise to every job. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we use non-destructive opening techniques to access your safe without damage. Our technicians employ precision combination dial manipulation to restore your access quickly and professionally.",
+ "safe-opening.local-context-body": "Holywell's dense Victorian and Edwardian terraces\u2014many converted into student HMOs\u2014frequently house safes left by previous tenants or landlords. Safe lockouts and lost combinations are common in these multi-occupancy properties, where keys pass between residents and documentation rarely survives. Headington's expanding mix of period homes and newer builds also generates safe-opening calls, particularly when inherited properties or rental transitions leave occupants without access to valuables or documents.\n\nOxford's conservation areas and listed buildings present a specific constraint: safe removal or drilling must comply with heritage protection rules, and structural modifications require specialist awareness. Non-destructive opening techniques are therefore not merely preferable but often mandatory in North Oxford and similar protected zones, where visual and structural integrity cannot be compromised. Locksmiths working on safes in these properties must combine technical skill with conservation knowledge.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm locked out of my safe in a listed building in North Oxford\u2014can you open it without damaging the property?",
+   "a": "Yes. Our non-destructive safe opening methods preserve both the safe and your listed building's integrity, which is essential in Oxford's conservation areas where modifications are restricted. We use specialist techniques to recover lost combinations and access without drilling or force."
+  },
+  {
+   "q": "We rent out HMO properties in Botley and a tenant has lost the safe key\u2014how quickly can you help?",
+   "a": "We offer rapid emergency safe opening for landlords managing multi-unit properties across Oxford. Our non-destructive approach means you can re-secure the safe immediately without costly replacement, ideal for high-turnover student and rental areas."
+  }
+ ],
+ "home.areas-covered": [
+  "Barton",
+  "Barton Park",
+  "Binsey",
+  "Blackbird Leys",
+  "City Centre",
+  "Cowley",
+  "Cutteslowe",
+  "East Oxford",
+  "Grandpont",
+  "Greater Leys",
+  "Headington",
+  "Holywell",
+  "Iffley",
+  "Jericho",
+  "Littlemore",
+  "Lye Valley",
+  "Marston",
+  "Minchery Farm",
+  "New Hinksey",
+  "New Marston",
+  "Norham Manor",
+  "North Oxford",
+  "Northway",
+  "Osney",
+  "Risinghurst",
+  "Rose Hill",
+  "Sandhills",
+  "South Oxford",
+  "St Ebbes",
+  "Summertown",
+  "Sunnymead",
+  "Walton Manor",
+  "West Oxford",
+  "Wolvercote",
+  "Wood Farm"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Rose Hill",
+  "Barton",
+  "New Hinksey",
+  "East Oxford",
+  "Grandpont",
+  "Greater Leys",
+  "Headington",
+  "Holywell",
+  "Iffley"
+ ],
+ "locked-out.areas-covered": [
+  "Blackbird Leys",
+  "Cowley",
+  "New Hinksey",
+  "St Ebbes",
+  "Summertown",
+  "Sunnymead",
+  "Walton Manor",
+  "West Oxford",
+  "Wolvercote"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Risinghurst",
+  "Northway",
+  "New Hinksey",
+  "Barton",
+  "Barton Park",
+  "Binsey",
+  "Blackbird Leys",
+  "City Centre",
+  "Cowley"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Cutteslowe",
+  "New Hinksey",
+  "East Oxford",
+  "Grandpont",
+  "Greater Leys",
+  "Headington",
+  "Holywell",
+  "Iffley",
+  "Jericho"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "City Centre",
+  "St Ebbes",
+  "Walton Manor",
+  "New Hinksey",
+  "Barton",
+  "Barton Park",
+  "Binsey",
+  "Blackbird Leys",
+  "Cowley"
+ ],
+ "lock-changes.areas-covered": [
+  "North Oxford",
+  "Littlemore",
+  "Summertown",
+  "New Marston",
+  "New Hinksey",
+  "Lye Valley",
+  "Marston",
+  "Minchery Farm",
+  "Norham Manor"
+ ],
+ "lock-repairs.areas-covered": [
+  "Wood Farm",
+  "New Hinksey",
+  "Barton Park",
+  "Grandpont",
+  "Iffley",
+  "Marston",
+  "North Oxford",
+  "Northway",
+  "Osney"
+ ],
+ "door-lock-installation.areas-covered": [
+  "West Oxford",
+  "South Oxford",
+  "New Hinksey",
+  "Littlemore",
+  "Lye Valley",
+  "Marston",
+  "Minchery Farm",
+  "New Marston",
+  "Norham Manor"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "East Oxford",
+  "New Hinksey",
+  "North Oxford",
+  "Northway",
+  "Osney",
+  "Risinghurst",
+  "Rose Hill",
+  "Sandhills",
+  "South Oxford"
+ ],
+ "door-repairs.areas-covered": [
+  "Marston",
+  "Binsey",
+  "New Hinksey",
+  "St Ebbes",
+  "Summertown",
+  "Sunnymead",
+  "Walton Manor",
+  "West Oxford",
+  "Wolvercote"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Sunnymead",
+  "Greater Leys",
+  "Wolvercote",
+  "Headington",
+  "New Hinksey",
+  "Marston",
+  "Littlemore",
+  "Lye Valley",
+  "Minchery Farm"
+ ],
+ "safe-installation.areas-covered": [
+  "Minchery Farm",
+  "Holywell",
+  "Sandhills",
+  "New Hinksey",
+  "Barton",
+  "Barton Park",
+  "Binsey",
+  "Blackbird Leys",
+  "City Centre"
+ ],
+ "safe-opening.areas-covered": [
+  "Osney",
+  "Norham Manor",
+  "Jericho",
+  "Lye Valley",
+  "New Hinksey",
+  "East Oxford",
+  "Grandpont",
+  "Greater Leys",
+  "Headington"
+ ]
 }

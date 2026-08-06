@@ -1,412 +1,372 @@
 {
-  "location": "Liverpool",
-  "neighborhoods": [
-    {
-      "name": "City Centre",
-      "era": "Victorian to modern",
-      "types": [
-        "flat",
-        "office conversion"
-      ],
-      "notes": "listed buildings, high foot traffic"
-    },
-    {
-      "name": "Georgian Quarter",
-      "era": "Georgian/Regency",
-      "types": [
-        "townhouse",
-        "villa"
-      ],
-      "notes": "conservation area, listed properties"
-    },
-    {
-      "name": "Cavern Quarter",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "historic district, listed facades"
-    },
-    {
-      "name": "Anfield",
-      "era": "Victorian/Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "dense residential, older stock"
-    },
-    {
-      "name": "Everton",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "council estate"
-      ],
-      "notes": "mixed historic and post-war"
-    },
-    {
-      "name": "Kensington",
-      "era": "Victorian/Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "student HMO density"
-    },
-    {
-      "name": "Edge Hill",
-      "era": "Victorian/Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "student area, high turnover lettings"
-    },
-    {
-      "name": "Mossley Hill",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "affluent area, period properties"
-    },
-    {
-      "name": "Aigburth",
-      "era": "Edwardian/interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "suburban residential"
-    },
-    {
-      "name": "Childwall",
-      "era": "Edwardian/interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "suburban, period stock"
-    },
-    {
-      "name": "Allerton",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "suburban residential"
-    },
-    {
-      "name": "Croxteth",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "large estate, modernised locks common"
-    },
-    {
-      "name": "Fazakerley",
-      "era": "post-war",
-      "types": [
-        "council estate"
-      ],
-      "notes": "1950s–70s estate properties"
-    },
-    {
-      "name": "Kirkdale",
-      "era": "Victorian/Edwardian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "older residential stock"
-    },
-    {
-      "name": "Old Swan",
-      "era": "Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mixed residential area"
-    },
-    {
-      "name": "Huyton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "suburban estate"
-    },
-    {
-      "name": "Garston",
-      "era": "Victorian/interwar",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "riverside industrial heritage"
-    },
-    {
-      "name": "Baltic Triangle",
-      "era": "Victorian industrial",
-      "types": [
-        "converted warehouse",
-        "flat"
-      ],
-      "notes": "regeneration area, loft conversions"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "Victorian/Edwardian",
-      "council estate"
-    ],
-    "era": "predominantly pre-1945 Victorian and Edwardian, substantial post-war council stock",
-    "notable": "High density of older period locks in Georgian Quarter and conservation areas; large council estates with standardised locks. Student HMO areas (Kensington, Edge Hill) require frequent rekeying."
+ "location": "Liverpool",
+ "neighborhoods": [
+  {
+   "name": "City Centre",
+   "era": "Victorian to modern",
+   "types": [
+    "flat",
+    "office conversion"
+   ],
+   "notes": "listed buildings, high foot traffic"
   },
-  "locksmith_relevant": [
-    "Georgian Quarter and Cavern Quarter listed properties often require sympathetic lock repairs preserving original hardware.",
-    "Victorian terraces across Anfield, Kirkdale, and Everton dominate call-outs for worn period locks and sash-window catches.",
-    "Post-war council estates (Croxteth, Fazakerley, Huyton) present bulk rekeying and estate-standard lock replacement opportunities."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Liverpool",
-    "overpass": "OSM Overpass bbox query, 88 named areas",
-    "coords": {
-      "lat": 53.3933411,
-      "lon": -2.9166389
-    }
+  {
+   "name": "Georgian Quarter",
+   "era": "Georgian/Regency",
+   "types": [
+    "townhouse",
+    "villa"
+   ],
+   "notes": "conservation area, listed properties"
   },
-  "generated_at": "2026-05-13T12:08:03.399Z",
-  "all_areas": [
-    "Aigburth",
-    "Allerton",
-    "Anfield",
-    "Bakers Green",
-    "Baltic Triangle",
-    "Belle Vale",
-    "Bowring Park",
-    "Broad Green",
-    "Bromborough Pool",
-    "Cabbage Hall",
-    "Canning / Georgian Quarter",
-    "Cavern Quarter",
-    "Childwall",
-    "Chinatown",
-    "City Centre",
-    "Clock Tower Park",
-    "Clubmoor",
-    "Cressington",
-    "Croxteth",
-    "Deysbrook",
-    "Dingle",
-    "Dovecot",
-    "Eastham Village",
-    "Edge Hill",
-    "Elm Park",
-    "Everton",
-    "Fairfield",
-    "Fazakerley",
-    "Fincham",
-    "Garston",
-    "Gateacre",
-    "Gillmoss",
-    "Grassendale",
-    "Halewood Green",
-    "Hartley's Village",
-    "Heathfield",
-    "Hunts Cross",
-    "Huyton Farm",
-    "Huyton Quarry",
-    "Islington",
-    "Kensington",
-    "Kirkdale",
-    "Knotty Ash",
-    "Knowledge Quarter",
-    "Knowsley",
-    "Lower Bebington",
-    "Lower Tranmere",
-    "Mosscroft",
-    "Mossley Hill",
-    "Netherley",
-    "Norris Green",
-    "Oak Hill Park",
-    "Old Swan",
-    "Olive Mount",
-    "Orrell Park",
-    "Page Moss",
-    "Pluckington",
-    "Port Sunlight",
-    "Poulton",
-    "Pride Quarter",
-    "Raby Mere",
-    "Roby",
-    "Rock Ferry",
-    "Ropewalks",
-    "Sandfield Park",
-    "Sandown Park",
-    "Seaforth",
-    "South Tranmere",
-    "Speke",
-    "Spital",
-    "St George's Quarter / Cultural Quarter",
-    "Stanley",
-    "Stanton",
-    "Stockbridge Village",
-    "Stoneycroft",
-    "Swanside",
-    "Toxteth",
-    "Tuebrook",
-    "Vauxhall",
-    "Victoria Park",
-    "Walton",
-    "Waterfront",
-    "Wavertree",
-    "Wavertree Green",
-    "West Derby",
-    "Woodhey",
-    "Woolfall",
-    "Woolton"
-  ],
-  "geo": {
-    "latitude": 53.3933411,
-    "longitude": -2.9166389
+  {
+   "name": "Cavern Quarter",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "historic district, listed facades"
   },
-  "postcode_districts": [
-    "L1",
-    "L10",
-    "L11",
-    "L12",
-    "L13",
-    "L14",
-    "L15",
-    "L16",
-    "L18",
-    "L19",
-    "L2",
-    "L24",
-    "L25",
-    "L27",
-    "L3",
-    "L4",
-    "L5",
-    "L6",
-    "L7",
-    "L8",
-    "L9"
-  ],
-  "postcode_meta": {
-    "L9": {
-      "count": 3,
-      "sample": "L9 7AH",
-      "admin": "Liverpool"
-    },
-    "L11": {
-      "count": 2,
-      "sample": "L11 0AU",
-      "admin": "Liverpool"
-    },
-    "L4": {
-      "count": 3,
-      "sample": "L4 5TX",
-      "admin": "Liverpool"
-    },
-    "L6": {
-      "count": 3,
-      "sample": "L6 4BW",
-      "admin": "Liverpool"
-    },
-    "L13": {
-      "count": 5,
-      "sample": "L13 9DH",
-      "admin": "Liverpool"
-    },
-    "L12": {
-      "count": 3,
-      "sample": "L12 5HW",
-      "admin": "Liverpool"
-    },
-    "L7": {
-      "count": 4,
-      "sample": "L7 0LG",
-      "admin": "Liverpool"
-    },
-    "L15": {
-      "count": 4,
-      "sample": "L15 0HW",
-      "admin": "Liverpool"
-    },
-    "L14": {
-      "count": 3,
-      "sample": "L14 5PQ",
-      "admin": "Liverpool"
-    },
-    "L25": {
-      "count": 4,
-      "sample": "L25 7TH",
-      "admin": "Liverpool"
-    },
-    "L16": {
-      "count": 1,
-      "sample": "L16 7PF",
-      "admin": "Liverpool"
-    },
-    "L24": {
-      "count": 1,
-      "sample": "L24 1WB",
-      "admin": "Liverpool"
-    },
-    "L19": {
-      "count": 3,
-      "sample": "L19 2JX",
-      "admin": "Liverpool"
-    },
-    "L18": {
-      "count": 1,
-      "sample": "L18 6HF",
-      "admin": "Liverpool"
-    },
-    "L8": {
-      "count": 2,
-      "sample": "L8 9SX",
-      "admin": "Liverpool"
-    },
-    "L27": {
-      "count": 1,
-      "sample": "L27 7BQ",
-      "admin": "Liverpool"
-    },
-    "L1": {
-      "count": 3,
-      "sample": "L1 5EB",
-      "admin": "Liverpool"
-    },
-    "L3": {
-      "count": 4,
-      "sample": "L3 8AG",
-      "admin": "Liverpool"
-    },
-    "L5": {
-      "count": 1,
-      "sample": "L5 3SY",
-      "admin": "Liverpool"
-    },
-    "L2": {
-      "count": 3,
-      "sample": "L2 5SF",
-      "admin": "Liverpool"
-    },
-    "L10": {
-      "count": 1,
-      "sample": "L10 1LD",
-      "admin": "Liverpool"
-    }
+  {
+   "name": "Anfield",
+   "era": "Victorian/Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "dense residential, older stock"
+  },
+  {
+   "name": "Everton",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "council estate"
+   ],
+   "notes": "mixed historic and post-war"
+  },
+  {
+   "name": "Kensington",
+   "era": "Victorian/Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "student HMO density"
+  },
+  {
+   "name": "Edge Hill",
+   "era": "Victorian/Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "student area, high turnover lettings"
+  },
+  {
+   "name": "Mossley Hill",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "affluent area, period properties"
+  },
+  {
+   "name": "Aigburth",
+   "era": "Edwardian/interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "suburban residential"
+  },
+  {
+   "name": "Childwall",
+   "era": "Edwardian/interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "suburban, period stock"
+  },
+  {
+   "name": "Allerton",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "suburban residential"
+  },
+  {
+   "name": "Croxteth",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "large estate, modernised locks common"
+  },
+  {
+   "name": "Fazakerley",
+   "era": "post-war",
+   "types": [
+    "council estate"
+   ],
+   "notes": "1950s\u201370s estate properties"
+  },
+  {
+   "name": "Kirkdale",
+   "era": "Victorian/Edwardian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "older residential stock"
+  },
+  {
+   "name": "Old Swan",
+   "era": "Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mixed residential area"
+  },
+  {
+   "name": "Huyton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "suburban estate"
+  },
+  {
+   "name": "Garston",
+   "era": "Victorian/interwar",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "riverside industrial heritage"
+  },
+  {
+   "name": "Baltic Triangle",
+   "era": "Victorian industrial",
+   "types": [
+    "converted warehouse",
+    "flat"
+   ],
+   "notes": "regeneration area, loft conversions"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "Victorian/Edwardian",
+   "council estate"
+  ],
+  "era": "predominantly pre-1945 Victorian and Edwardian, substantial post-war council stock",
+  "notable": "High density of older period locks in Georgian Quarter and conservation areas; large council estates with standardised locks. Student HMO areas (Kensington, Edge Hill) require frequent rekeying."
+ },
+ "locksmith_relevant": [
+  "Georgian Quarter and Cavern Quarter listed properties often require sympathetic lock repairs preserving original hardware.",
+  "Victorian terraces across Anfield, Kirkdale, and Everton dominate call-outs for worn period locks and sash-window catches.",
+  "Post-war council estates (Croxteth, Fazakerley, Huyton) present bulk rekeying and estate-standard lock replacement opportunities."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Liverpool",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Liverpool admin area), 48 named areas",
+  "coords": {
+   "lat": 53.3933411,
+   "lon": -2.9166389
+  }
+ },
+ "generated_at": "2026-05-13T12:08:03.399Z",
+ "all_areas": [
+  "Aigburth",
+  "Allerton",
+  "Anfield",
+  "Baltic Triangle",
+  "Belle Vale",
+  "Broad Green",
+  "Canning / Georgian Quarter",
+  "Cavern Quarter",
+  "Childwall",
+  "Chinatown",
+  "City Centre",
+  "Clubmoor",
+  "Cressington",
+  "Croxteth",
+  "Dingle",
+  "Dovecot",
+  "Edge Hill",
+  "Elm Park",
+  "Everton",
+  "Fairfield",
+  "Fazakerley",
+  "Garston",
+  "Gateacre",
+  "Gillmoss",
+  "Grassendale",
+  "Hunts Cross",
+  "Kensington",
+  "Kirkdale",
+  "Knotty Ash",
+  "Knowledge Quarter",
+  "Mossley Hill",
+  "Netherley",
+  "Norris Green",
+  "Old Swan",
+  "Orrell Park",
+  "Pride Quarter",
+  "Ropewalks",
+  "Speke",
+  "St George's Quarter / Cultural Quarter",
+  "Stoneycroft",
+  "Toxteth",
+  "Tuebrook",
+  "Vauxhall",
+  "Walton",
+  "Waterfront",
+  "Wavertree",
+  "West Derby",
+  "Woolton"
+ ],
+ "geo": {
+  "latitude": 53.3933411,
+  "longitude": -2.9166389
+ },
+ "postcode_districts": [
+  "L1",
+  "L10",
+  "L11",
+  "L12",
+  "L13",
+  "L14",
+  "L15",
+  "L16",
+  "L18",
+  "L19",
+  "L2",
+  "L24",
+  "L25",
+  "L27",
+  "L3",
+  "L4",
+  "L5",
+  "L6",
+  "L7",
+  "L8",
+  "L9"
+ ],
+ "postcode_meta": {
+  "L9": {
+   "count": 3,
+   "sample": "L9 7AH",
+   "admin": "Liverpool"
+  },
+  "L11": {
+   "count": 2,
+   "sample": "L11 0AU",
+   "admin": "Liverpool"
+  },
+  "L4": {
+   "count": 3,
+   "sample": "L4 5TX",
+   "admin": "Liverpool"
+  },
+  "L6": {
+   "count": 3,
+   "sample": "L6 4BW",
+   "admin": "Liverpool"
+  },
+  "L13": {
+   "count": 5,
+   "sample": "L13 9DH",
+   "admin": "Liverpool"
+  },
+  "L12": {
+   "count": 3,
+   "sample": "L12 5HW",
+   "admin": "Liverpool"
+  },
+  "L7": {
+   "count": 4,
+   "sample": "L7 0LG",
+   "admin": "Liverpool"
+  },
+  "L15": {
+   "count": 4,
+   "sample": "L15 0HW",
+   "admin": "Liverpool"
+  },
+  "L14": {
+   "count": 3,
+   "sample": "L14 5PQ",
+   "admin": "Liverpool"
+  },
+  "L25": {
+   "count": 4,
+   "sample": "L25 7TH",
+   "admin": "Liverpool"
+  },
+  "L16": {
+   "count": 1,
+   "sample": "L16 7PF",
+   "admin": "Liverpool"
+  },
+  "L24": {
+   "count": 1,
+   "sample": "L24 1WB",
+   "admin": "Liverpool"
+  },
+  "L19": {
+   "count": 3,
+   "sample": "L19 2JX",
+   "admin": "Liverpool"
+  },
+  "L18": {
+   "count": 1,
+   "sample": "L18 6HF",
+   "admin": "Liverpool"
+  },
+  "L8": {
+   "count": 2,
+   "sample": "L8 9SX",
+   "admin": "Liverpool"
+  },
+  "L27": {
+   "count": 1,
+   "sample": "L27 7BQ",
+   "admin": "Liverpool"
+  },
+  "L1": {
+   "count": 3,
+   "sample": "L1 5EB",
+   "admin": "Liverpool"
+  },
+  "L3": {
+   "count": 4,
+   "sample": "L3 8AG",
+   "admin": "Liverpool"
+  },
+  "L5": {
+   "count": 1,
+   "sample": "L5 3SY",
+   "admin": "Liverpool"
+  },
+  "L2": {
+   "count": 3,
+   "sample": "L2 5SF",
+   "admin": "Liverpool"
+  },
+  "L10": {
+   "count": 1,
+   "sample": "L10 1LD",
+   "admin": "Liverpool"
+  }
+ }
 }

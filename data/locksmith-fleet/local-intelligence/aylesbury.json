@@ -1,193 +1,190 @@
 {
-  "location": "Aylesbury",
-  "neighborhoods": [
-    {
-      "name": "Bedgrove",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban residential area"
-    },
-    {
-      "name": "Broughton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "established commuter suburb"
-    },
-    {
-      "name": "Coppice",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached"
-      ],
-      "notes": "recent estate development"
-    },
-    {
-      "name": "Elmhurst",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "pre-war suburban expansion"
-    },
-    {
-      "name": "Fairford Leys",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "major 1990s–2000s estate; high rented proportion"
-    },
-    {
-      "name": "Haydon Hill",
-      "era": "modern",
-      "types": [
-        "new-build"
-      ],
-      "notes": "contemporary family homes"
-    },
-    {
-      "name": "Kingsbrook",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "large mixed-use development; student and rental focus"
-    },
-    {
-      "name": "Quarrendon",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established working-class residential"
-    },
-    {
-      "name": "Southcourt",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "council-built stock; diverse tenure mix"
-    },
-    {
-      "name": "Victoria Park",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "terrace"
-      ],
-      "notes": "town centre historic area; period features common"
-    },
-    {
-      "name": "Walton",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban residential expansion"
-    },
-    {
-      "name": "Walton Court",
-      "era": "modern",
-      "types": [
-        "flat"
-      ],
-      "notes": "apartment complex; multi-unit security"
-    },
-    {
-      "name": "Watermead",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached"
-      ],
-      "notes": "riverside development area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "new-build",
-      "post-war estate"
-    ],
-    "era": "mixed post-war and modern, with Victorian town-centre core",
-    "notable": "Significant new-build proportion (Fairford Leys, Kingsbrook) and rental-dominated young demographics; growing flat conversion activity in central areas."
+ "location": "Aylesbury",
+ "neighborhoods": [
+  {
+   "name": "Bedgrove",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban residential area"
   },
-  "locksmith_relevant": [
-    "Modern estates (Fairford Leys, Kingsbrook) dominate Aylesbury's rental market; multi-unit access control and tenant-turnover lock changes are high-volume work.",
-    "Victorian and Edwardian stock in Victoria Park and town centre require specialised period lock restoration and sash-window security upgrades.",
-    "Post-war suburban semi-detached homes across Bedgrove, Broughton, Walton have standard uPVC doors; rapid re-keying and cylinder replacement form bread-and-butter service calls."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Aylesbury",
-    "overpass": "OSM Overpass bbox query, 13 named areas",
-    "coords": {
-      "lat": 51.8161412,
-      "lon": -0.8130383
-    }
+  {
+   "name": "Broughton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "established commuter suburb"
   },
-  "generated_at": "2026-05-13T12:31:24.851Z",
-  "all_areas": [
-    "Bedgrove",
-    "Broughton",
-    "Coppice",
-    "Elmhurst",
-    "Fairford Leys",
-    "Haydon Hill",
-    "Kingsbrook",
-    "Quarrendon",
-    "Southcourt",
-    "Victoria Park",
-    "Walton",
-    "Walton Court",
-    "Watermead"
-  ],
-  "geo": {
-    "latitude": 51.8161412,
-    "longitude": -0.8130383
+  {
+   "name": "Coppice",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached"
+   ],
+   "notes": "recent estate development"
   },
-  "postcode_districts": [
-    "HP19",
-    "HP20",
-    "HP21",
-    "HP22"
-  ],
-  "postcode_meta": {
-    "HP19": {
-      "count": 4,
-      "sample": "HP19 9JQ",
-      "admin": "Buckinghamshire",
-      "via": "admin_ward=aylesbury north west"
-    },
-    "HP20": {
-      "count": 4,
-      "sample": "HP20 1XZ",
-      "admin": "Buckinghamshire",
-      "via": "admin_ward=aylesbury north"
-    },
-    "HP21": {
-      "count": 4,
-      "sample": "HP21 9LR",
-      "admin": "Buckinghamshire",
-      "via": "admin_ward=aylesbury south west"
-    },
-    "HP22": {
-      "count": 1,
-      "sample": "HP22 7AL",
-      "admin": "Buckinghamshire",
-      "via": "constituency=aylesbury"
-    }
+  {
+   "name": "Elmhurst",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "pre-war suburban expansion"
+  },
+  {
+   "name": "Fairford Leys",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "flat"
+   ],
+   "notes": "major 1990s\u20132000s estate; high rented proportion"
+  },
+  {
+   "name": "Haydon Hill",
+   "era": "modern",
+   "types": [
+    "new-build"
+   ],
+   "notes": "contemporary family homes"
+  },
+  {
+   "name": "Kingsbrook",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "flat"
+   ],
+   "notes": "large mixed-use development; student and rental focus"
+  },
+  {
+   "name": "Quarrendon",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established working-class residential"
+  },
+  {
+   "name": "Southcourt",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "council-built stock; diverse tenure mix"
+  },
+  {
+   "name": "Victoria Park",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "terrace"
+   ],
+   "notes": "town centre historic area; period features common"
+  },
+  {
+   "name": "Walton",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban residential expansion"
+  },
+  {
+   "name": "Walton Court",
+   "era": "modern",
+   "types": [
+    "flat"
+   ],
+   "notes": "apartment complex; multi-unit security"
+  },
+  {
+   "name": "Watermead",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached"
+   ],
+   "notes": "riverside development area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "new-build",
+   "post-war estate"
+  ],
+  "era": "mixed post-war and modern, with Victorian town-centre core",
+  "notable": "Significant new-build proportion (Fairford Leys, Kingsbrook) and rental-dominated young demographics; growing flat conversion activity in central areas."
+ },
+ "locksmith_relevant": [
+  "Modern estates (Fairford Leys, Kingsbrook) dominate Aylesbury's rental market; multi-unit access control and tenant-turnover lock changes are high-volume work.",
+  "Victorian and Edwardian stock in Victoria Park and town centre require specialised period lock restoration and sash-window security upgrades.",
+  "Post-war suburban semi-detached homes across Bedgrove, Broughton, Walton have standard uPVC doors; rapid re-keying and cylinder replacement form bread-and-butter service calls."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Aylesbury",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Aylesbury admin area), 10 named areas",
+  "coords": {
+   "lat": 51.8161412,
+   "lon": -0.8130383
+  }
+ },
+ "generated_at": "2026-05-13T12:31:24.851Z",
+ "all_areas": [
+  "Bedgrove",
+  "Broughton",
+  "Coppice",
+  "Elmhurst",
+  "Haydon Hill",
+  "Quarrendon",
+  "Southcourt",
+  "Victoria Park",
+  "Walton",
+  "Walton Court"
+ ],
+ "geo": {
+  "latitude": 51.8161412,
+  "longitude": -0.8130383
+ },
+ "postcode_districts": [
+  "HP19",
+  "HP20",
+  "HP21",
+  "HP22"
+ ],
+ "postcode_meta": {
+  "HP19": {
+   "count": 4,
+   "sample": "HP19 9JQ",
+   "admin": "Buckinghamshire",
+   "via": "admin_ward=aylesbury north west"
+  },
+  "HP20": {
+   "count": 4,
+   "sample": "HP20 1XZ",
+   "admin": "Buckinghamshire",
+   "via": "admin_ward=aylesbury north"
+  },
+  "HP21": {
+   "count": 4,
+   "sample": "HP21 9LR",
+   "admin": "Buckinghamshire",
+   "via": "admin_ward=aylesbury south west"
+  },
+  "HP22": {
+   "count": 1,
+   "sample": "HP22 7AL",
+   "admin": "Buckinghamshire",
+   "via": "constituency=aylesbury"
+  }
+ }
 }

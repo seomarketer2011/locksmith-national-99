@@ -1,360 +1,365 @@
 {
-  "meta.title": "Hastings Locksmith | 24/7 Emergency Call-Out Service",
-  "meta.description": "Emergency locksmith in Hastings covering Victorian terraces, period properties and modern homes. 24/7 call-outs, lock changes, repairs and security upgrades.",
-  "home.hero-paragraph": "Hastings locksmith services specialising in locksmithing and emergency lock assistance are available around the clock. We handle lockouts, lock changes, and security upgrades with non-destructive entry methods. Our DBS-checked technicians are fully insured and operate 24/7 with no call-out fees, ensuring rapid response when you need us most.",
-  "home.local-context-heading": "Hastings Locksmith Services for Period & Modern Homes",
-  "home.local-context-body": "Hastings properties span Victorian terraces through post-war semis, each with distinct security needs. Bohemia's dense period conversions and flat divisions commonly require rekeying for multiple occupants and sash-window locks, while Victorian stock across the city often features worn original mechanisms. Post-war suburbs like Ore handle standard cylinder locks prone to weathering and breakage, driving frequent emergency callouts.\n\nThe Old Town's listed buildings demand heritage-compliant repairs—period-appropriate locks and careful fitting prevent damage to protected structures. Multi-occupancy properties, particularly conversions, need careful attention to fire-safety door standards alongside tenant access changes. Understanding whether a property has original period locks or modern replacements shapes both the repair approach and compliance with local conservation guidance.",
-  "home.local-faqs": [
-    {
-      "q": "I have a Victorian terrace in Trinity Triangle – what should I know about rekeying for multiple tenants?",
-      "a": "Victorian terraces in high-density areas like Trinity Triangle often house multiple flats, so we recommend master-keying systems to manage access securely across units while maintaining individual tenant privacy. We're experienced in installing compliant multi-occupancy locks without damaging original period features."
-    },
-    {
-      "q": "My listed property in the Old Town needs a new lock – can you help without compromising its heritage status?",
-      "a": "Yes – our locksmiths understand conservation area requirements and work with period-appropriate locks on listed buildings in the Old Town. We'll advise on sympathetic repairs and replacements that satisfy both security and heritage guidelines."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Hastings – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Hastings. Locked out of your Victorian terrace or semi-detached? Fast response, non-destructive entry, urgent repairs. Available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Hastings brings professional locksmithing expertise to your door when you need it most. Whether you're locked out of your home, dealing with a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 with non-destructive entry techniques to resolve your situation quickly and safely.",
-  "emergency-locksmith.local-context-body": "Hastings's mixed housing stock means emergency locksmith calls span Victorian terraces in conservation areas through to post-war semis in suburbs like Ore. Lockouts in period properties—particularly multi-occupancy conversions across the denser residential zones—often involve older cylinder mechanisms and sash windows requiring careful handling. Standard suburban semis typically present straightforward access scenarios, though wear on original locks remains common across all property ages.\n\nListed buildings in the Old Town and period villas on the Edwardian seafront create a secondary consideration: forced entry or lock replacement must comply with heritage conservation standards, potentially delaying emergency access protocols. Many Victorian terraces also feature original timber frames and non-standard door depths, which can complicate rapid lock cylinder extraction and temporary securing solutions that would be routine elsewhere.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace flat in Bohemia – how quickly can you arrive?",
-      "a": "We're based in Hastings and typically respond to emergency lockouts in Bohemia within 30–45 minutes, 24/7. We carry specialist tools for period sash windows and Victorian locks, so we can often gain entry without forcing your door."
-    },
-    {
-      "q": "My listed building in the Old Town has a broken lock after a break-in – will you damage the heritage features?",
-      "a": "No. Our emergency locksmiths understand Hastings' conservation requirements and use non-destructive methods on listed properties whenever possible. If replacement is necessary, we source period-appropriate locks that comply with heritage standards and can advise on local planning considerations."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Hastings | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Hastings? Fast non-destructive entry for homes, flats & Victorian terraces. 24/7 emergency service when keys are lost or stuck inside.",
-  "locked-out.hero-paragraph": "When you're locked out in Hastings, our experienced locksmiths specialise in locksmithing techniques that restore access quickly. Whether you've lost your keys, left them inside, or snapped a key in the lock, we use non-destructive entry methods to gain entry without damage. Our damage-free approach means your door and locks remain intact.",
-  "locked-out.local-context-body": "The Hastings housing mix—from Victorian terraces in the Old Town to post-war semi-detached homes in Clive Vale—creates varied locked-out scenarios. Flat conversions across high-density areas mean tenants in multi-occupancy buildings frequently lose or snap keys, while suburban properties typically feature standard cylinder locks that respond well to non-destructive entry techniques.\n\nListed buildings and heritage conservation rules in the Old Town require locksmiths to avoid damage to period frames and original joinery during entry work. Across newer suburbs like Ore and Hollington, access points are more straightforward, but the sheer volume of wear-and-tear lock failures in these post-war properties means emergency call-outs often involve cylinder locks stuck or seized from salt-air corrosion near the seafront.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Bohemia – can you get me in without damaging the original sash windows or period door frame?",
-      "a": "Yes. Our locksmiths are experienced with period properties across Bohemia's dense Victorian conversions and use non-destructive techniques that protect listed features and original joinery. We'll assess your lock type on arrival and avoid any damage to heritage elements."
-    },
-    {
-      "q": "What's your response time if I'm locked out in Silverhill or West Hill?",
-      "a": "We're based in Hastings and typically attend lockouts in Silverhill and West Hill within 30–45 minutes. Call 01424 571056 with your postcode and we'll confirm arrival time before dispatching our nearest engineer."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Hastings – Fast 24/7 Service",
-  "broken-key-removal.meta.description": "Broken key removal in Hastings Victorian terraces & period properties. Expert extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Hastings requires a skilled locksmith trained in precise locksmithing techniques. Snapped or sheared keys lodged in euro cylinders and mortice locks demand specialist attention to avoid further damage. Our technicians employ non-destructive methods using key extractor tools and broken-key probes, restoring access without compromising your lock's integrity.",
-  "broken-key-removal.local-context-body": "Hastings's dense Victorian terraces in Trinity Triangle and contemporary flat developments in Tilekiln generate frequent broken key incidents across both period and modern cylinder locks. Multi-occupancy conversions in the city's older stock mean landlords and tenants regularly require swift key extraction and rekeying, whilst newer builds typically present straightforward euro-cylinder removals where snap-offs occur at the shear line.\n\nListed properties throughout Hastings's Old Town and conservation areas require locksmiths to work within heritage constraints during key extraction; removing broken fragments from original mortice locks demands period-appropriate reassembly to avoid damage to protected mechanisms. Post-war suburban properties in areas like Ore favour standard pin-tumbler cylinders, making removal more routine, though sash-windowed Victorian properties occasionally present complications when locks are set within period-specific frames that limit access angles.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Hastings Old Town need specialist key removal?",
-      "a": "Many listed properties in the Old Town use heritage-compliant mortice locks with narrower tolerances than modern euro cylinders, so broken key extraction requires careful technique to avoid damage to period metalwork. We're trained to remove snapped keys without compromising the historical integrity of your lock."
-    },
-    {
-      "q": "Is broken key removal urgent in post-war suburbs like Hollington?",
-      "a": "Yes—semi-detached homes in Hollington typically rely on single front-door cylinder locks, so a snapped key leaves you locked out fast. We offer same-day emergency extraction to get you back inside without forcing the lock."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Hastings – Same-Day Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Hastings covering Victorian terraces and modern homes. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
-  "burglar-repair-service.hero-paragraph": "Our Hastings locksmiths specialise in burglar repair and locksmithing solutions for properties affected by forced entry. We restore security through door reinforcement and installation of TS007 anti-snap cylinders, ensuring your home meets insurance-compliant standards. Damaged locks and forced entry damage require swift, professional attention to restore both function and protection.",
-  "burglar-repair-service.local-context-body": "Break-ins across Hastings affect a wide variety of properties, from Victorian terraces in Bohemia—where flat conversions and multi-occupancy create shared-access vulnerabilities—to semi-detached homes in Clive Vale with standard cylinder locks that require swift replacement. Post-break-in repairs must account for these different security profiles: period properties need careful reinstatement, while newer suburban stock typically requires straightforward lock and frame replacement.\n\nListed buildings in Hastings's Old Town conservation area add complexity to burglar repair work, as replacements must meet heritage officer approval before installation. Many Victorian and Edwardian properties feature sash windows and period doors that cannot be altered without consent, making specialist repair and upgrade planning essential for insurance-compliant reinstatement. Standard suburban properties, by contrast, allow faster turnaround on door and lock replacement.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle break-ins on listed properties in Hastings Old Town?",
-      "a": "Yes. We're experienced with heritage-compliant lock and door repairs on listed buildings in the Old Town conservation area, ensuring repairs meet planning requirements while restoring security quickly after a break-in."
-    },
-    {
-      "q": "How quickly can you repair a forced sash window in a Victorian terrace?",
-      "a": "We typically attend emergency burglar repairs in Victorian terraces across Bohemia and Trinity Triangle within hours. Sash-window frame and lock repairs are common in these multi-occupancy conversions, and we can often complete reinstatement the same day."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Hastings – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Hastings – same-day secure boarding of smashed doors and windows in Victorian terraces, listed properties and modern homes.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Hastings from our experienced locksmith team combines expert locksmithing with rapid response. When smashed windows or damaged doors leave your property vulnerable, we secure the area using robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
-  "emergency-boarding-up.local-context-body": "Storm damage and break-ins affect Hastings's diverse housing stock unevenly. Semi-detached properties in Silverhill and post-war suburbs experience frequent damage to standard wooden and UPVC doors and frames; Victorian terraces in the Old Town present different challenges due to period joinery and listed-building constraints. Multi-occupancy flats across central areas require rapid boarding to prevent unauthorised access across shared entrance doors, which are often narrower and more ornate than suburban equivalents.\n\nListed buildings in the Old Town conservation area require boarding solutions that preserve historic fabric and comply with planning restrictions—temporary plywood fixtures must be reversible and non-damaging to original frames. Standard suburban properties in areas like Silverhill allow faster installation of temporary security boarding, but older sash windows and period architraves still demand care to avoid irreversible damage during emergency response work.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up listed properties in Hastings Old Town after break-ins?",
-      "a": "Yes. Our team understands heritage protection rules for listed buildings in the Old Town conservation area and uses boarding methods that comply with conservation officer requirements, ensuring your property is secure without compromising its period character."
-    },
-    {
-      "q": "How quickly can you board up storm-damaged windows in Silverhill Park or Broomgrove?",
-      "a": "We typically arrive within 1–2 hours for emergency calls across Hastings suburbs like Silverhill Park and Broomgrove. Semi-detached properties in these areas are our priority, and we carry standard-sized boards to minimize delays."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes in Hastings – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Hastings for Victorian terraces, listed properties & modern homes. Professional replacement after key loss, moving house or security upgrades.",
-  "lock-changes.hero-paragraph": "Lock changes in Hastings require a skilled locksmith trained in modern locksmithing techniques to ensure your property remains secure. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we fit BS3621 mortice locks and TS007 anti-snap cylinders to industry standards. Our work meets all current security specifications for residential properties.",
-  "lock-changes.local-context-body": "Lock changes are frequent across Hastings's conversion-heavy neighborhoods, particularly in areas like Bohemia and Trinity Triangle where Victorian terraces have been subdivided into flats. Multi-occupancy properties require careful coordination of rekeying to ensure all residents receive new keys simultaneously, and landlords often request master-key systems for emergency access. Post-war semis in suburban areas such as Ore typically involve straightforward cylinder replacements, whereas period properties demand more specialized attention.\n\nListed buildings in the Old Town conservation area present specific constraints for lock changes. Period properties often retain original hardware or require sympathetic replacements that preserve their heritage character, meaning locksmiths must source compatible locks rather than fit modern alternatives. Additionally, many Victorian sash windows across the city require specialized locking mechanisms; these cannot simply be replaced with contemporary cylinder locks without compromising both function and compliance with conservation guidelines.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Trinity Triangle – do I need specialist locks for listed building compliance?",
-      "a": "Yes, if your property is listed or in the Old Town conservation area, period-appropriate locks are often required by planning rules. We source and fit heritage-compliant locks that meet conservation standards while keeping your home secure."
-    },
-    {
-      "q": "We've converted our Edwardian flat into two units – can you rekey the locks separately for each tenant?",
-      "a": "Absolutely. Multi-occupancy properties across Hastings's flat conversion areas need independent rekeying so tenants have their own keys. We'll ensure each unit has separate, fully keyed locks without affecting the others."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Hastings – Same-Day Service Available",
-  "lock-repairs.meta.description": "Lock repair service in Hastings for Victorian terraces, sash windows & modern homes. Multipoint, mortice & cylinder locks fixed 24/7.",
-  "lock-repairs.hero-paragraph": "Our Hastings locksmith specialises in lock repairs and expert locksmithing to restore your doors to full working order. Whether you're experiencing a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem efficiently. From mortice maintenance to multipoint servicing, all work carries manufacturer warranty for your peace of mind.",
-  "lock-repairs.local-context-body": "Victorian terraces and flat conversions throughout Trinity Triangle experience high wear on multipoint locks and night latches due to frequent tenant turnover and shared-access patterns. Sash windows in period properties also demand specialist repair knowledge to preserve both function and heritage integrity without damaging original frames or hardware.\n\nPost-war semi-detached homes in Broomgrove and similar suburban areas typically run standard cylinder locks that fail predictably under heavy use. Repair timescales matter here: landlords managing multiple properties often need same-day gearbox or mortice fixes to avoid rental void periods, and listed-building properties across the Old Town may require period-appropriate lock casings that limit replacement options.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Belmont has a stiff mortice lock – is repair possible, or do I need replacement?",
-      "a": "Most Victorian mortice locks can be repaired by cleaning, lubricating, or replacing internal gearbox components; we avoid removing period locks from listed properties where possible. If the lock is seized or the mechanism is worn beyond repair, we'll discuss heritage-compliant replacement options that match your property's character."
-    },
-    {
-      "q": "The multipoint lock on my semi-detached in Baldslow jammed after years of use – how quickly can you fix it?",
-      "a": "Multipoint lock repairs on post-war semis are straightforward and usually completed same-day; common issues include worn gearboxes or misaligned components. Call us on 01424 571056 for an emergency slot if you're locked out."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Hastings – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Hastings, including Victorian terraces & modern homes. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings.",
-  "door-lock-installation.hero-paragraph": "Our Hastings locksmith team specialises in professional door lock installation drawing on decades of locksmithing expertise. Whether you're fitting new locks for a property move, upgrading security, or meeting insurance requirements, we install high-security options including BS3621 mortice locks and TS007 anti-snap cylinders. All work meets current UK standards.",
-  "door-lock-installation.local-context-body": "Hastings's mixed Victorian and interwar housing stock means door lock installation work spans period properties and modern suburban homes alike. Victorian terraces in Bohemia and West Hill often require careful assessment before fitting new locks, as sash windows and period joinery demand specialist knowledge. Semi-detached properties across Clive Vale and post-war suburbs typically feature standard timber or composite doors suited to straightforward cylinder lock replacement and multipoint fitting.\n\nListed buildings and conservation-area properties in Hastings's Old Town present a key practical consideration: new lock installations must comply with heritage conservation requirements, sometimes limiting cylinder choice or requiring approval before work begins. Across the city's converted flats and HMOs, landlord-tenant regulations and multi-occupancy access protocols shape lock specification and installation sequencing. Understanding these local constraints—alongside the prevalence of older, worn cylinder locks in interwar stock—ensures compliant and secure results.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Old Town need specialist lock installation?",
-      "a": "Listed properties in Hastings' Old Town conservation area often have period-appropriate doors and frames that require careful measurement and sometimes custom fitting to preserve heritage value while upgrading to modern BS3621 mortice locks. Our installers are experienced in working sensitively with period joinery to avoid damage."
-    },
-    {
-      "q": "What lock upgrades do flat conversions in Trinity Triangle typically need?",
-      "a": "Multi-occupancy Victorian terraces across Bohemia and Trinity Triangle benefit from TS007 anti-snap cylinder locks on individual flats to meet modern security standards and landlord insurance requirements. We can install these quickly across multiple units with minimal disruption."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Hastings – Fast Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Hastings & Bohemia. Specialist service for Victorian terraces, period properties & modern doors. Same-day available.",
-  "door-lock-replacement.hero-paragraph": "Our Hastings locksmith specialists offer professional door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we provide like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Our technicians ensure secure, reliable solutions for residential and commercial properties across the area.",
-  "door-lock-replacement.local-context-body": "Hastings's seafront villas and suburban semi-detached homes in Silverhill typically feature standard cylinder locks that wear predictably with age and salt-air exposure. Victorian terraces in Bohemia, often subdivided into flats, require frequent rekeying and lock replacement to manage multiple occupancy and turnover—a pattern that drives consistent demand for straightforward like-for-like swap work across the borough's conversion stock.\n\nListed buildings in the Old Town conservation area impose heritage compliance requirements on lock replacement; period-appropriate mechanisms or sympathetic modern equivalents must be specified to satisfy conservation officer approval. Across newer suburban properties, standard British Standard cylinder locks dominate, making replacement straightforward; older period properties sometimes retain original mechanisms that complicate sourcing and may require specialist advice before removal.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "Do you replace locks on listed properties in Hastings Old Town?",
-      "a": "Yes. We're experienced with heritage-compliant lock replacements on listed Georgian and medieval properties in the Old Town conservation area, ensuring new locks match period aesthetics and planning requirements. Always discuss your listed status with us before booking so we source appropriate period-style hardware."
-    },
-    {
-      "q": "What lock types do you typically fit in Hastings post-war suburbs?",
-      "a": "Most semi-detached homes in Broomgrove and similar post-war estates use standard cylinder locks, which we routinely replace with like-for-like or upgraded BS3621 mortice locks for better security. We'll assess your current lock and advise the best replacement within your door type."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Hastings – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Hastings – uPVC, composite & timber doors. Serving Victorian terraces, period properties & modern homes. Expert alignment & hardware fixes.",
-  "door-repairs.hero-paragraph": "Expert door repairs in Hastings from our experienced locksmith team, combining traditional locksmithing with modern solutions. Whether your uPVC or timber door has dropped, won't close properly, or is letting in draughts, our technicians specialise in hinge adjustment and frame alignment to restore full function. We're available 24/7 for urgent repairs.",
-  "door-repairs.local-context-body": "Hastings's dense Victorian terrace stock and newer semi-detached suburbs in areas like Baldslow generate steady demand for door repairs. Period properties in these neighborhoods frequently suffer from dropped frames and misaligned doors due to foundation settlement and timber movement, while post-war semis typically present standard wear on cylinder locks and hinges. Flat conversions across the city multiply the number of access points requiring attention, particularly where multi-occupancy has intensified wear patterns.\n\nListed buildings in Hastings's Old Town conservation area and period villas in Belmont necessitate heritage-compliant repairs; replacement doors and hardware must match original specifications, and specialist carpentry is often required to preserve period detailing. Contemporary developments like Tilekiln feature modern composite and uPVC doors with different failure modes, typically hinge and frame issues rather than the timber movement common to older stock. Local surveyors and landlords frequently mandate repairs before letting, particularly in HMO properties where safety standards and insurance compliance depend on functioning, secure doors.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do sash windows in Hastings' Old Town listed properties need specialist door repair attention?",
-      "a": "Many of Hastings' Victorian and Georgian listed buildings in the Old Town conservation area have period sash windows and doors with heritage-compliant frames that can drop or misalign over time. Our locksmiths understand the conservation requirements and can repair or adjust these without compromising their listed status."
-    },
-    {
-      "q": "What's the most common door problem you see in Ore and Hollington?",
-      "a": "Post-war semi-detached homes in Ore and Hollington often develop misaligned or dropped doors due to natural settling of the structure. We regularly repair standard cylinder locks and realign frames in these suburbs to restore smooth operation and security."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Hastings – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Hastings, including Victorian terraces in Trinity Triangle. Espagnolette and shootbolt locks fixed or replaced.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Hastings from our experienced locksmiths combines expert locksmithing knowledge with practical solutions. Whether your windows won't lock or you're dealing with broken handles, we address common issues affecting espagnolette mechanisms and shootbolt locks. Our fitting meets insurance-compliant standards, ensuring your home security is restored to the highest specification.",
-  "window-lock-repair-replacement.local-context-body": "Properties across Belmont and the wider Hastings seafront feature period sash windows that demand specialist espagnolette and shootbolt lock repair. Victorian and Edwardian villas alongside interwar semi-detached homes in suburban areas like Baldslow often retain original window ironwork, though frequent salt-air corrosion and mechanical wear require prompt replacement to maintain security and smooth operation.\n\nWindow lock repairs in Hastings's Old Town conservation area and listed properties must comply with heritage planning guidance, which restricts modifications to original timber sashes and period hardware. Standard cylinder locks prevalent in post-war suburban stock are simpler to service, but older properties frequently present corroded or seized mechanisms that benefit from careful restoration rather than full replacement.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash windows in Hastings' Old Town listed buildings need specialist lock repairs?",
-      "a": "Listed properties in Hastings' dense Old Town conservation area often have original timber sash frames that require heritage-compliant espagnolette and shootbolt locks to preserve their character. We ensure replacements meet conservation standards while restoring full security and smooth operation."
-    },
-    {
-      "q": "What window lock problems are common in post-war semis across Ore and Hollington?",
-      "a": "Standard cylinder locks and shootbolts in post-war semi-detached homes across Ore and Hollington frequently wear or jam due to age and weathering. We can repair or replace these quickly to restore your window security without disrupting your daily routine."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Hastings – Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation in Hastings. Wall, floor and freestanding safes with secure anchoring, insurance documentation and heritage-compliant fitting for Victorian properties.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Hastings from our experienced locksmith team combines expert locksmithing with secure positioning techniques. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting to AiS approved standards, protecting your valuables with precision and care.",
-  "safe-installation.local-context-body": "Hastings's housing stock ranges from period conversions in the Old Town to sprawling post-war suburbs like Ore and Hollington. Safe installation in Victorian terraces and converted flats demands careful site assessment—often involving reinforced floor joists and wall anchoring that accounts for original plasterwork and structural quirks. Semi-detached properties across outer residential areas typically offer more straightforward installation, with solid modern walls and standard access points that reduce fitting complexity.\n\nListed buildings and conservation-area properties in Hastings require specialist consideration: wall-mounted safes must avoid damage to original features, and floor anchoring in period properties sometimes necessitates structural surveys before work begins. Insurance underwriters frequently stipulate that safes meet specific fixings standards—particularly in multi-occupancy flat conversions—meaning installation documentation and photographic evidence are essential to policy compliance across the town.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in listed buildings in Hastings's Old Town?",
-      "a": "Yes. We're experienced with heritage-compliant safe installation in listed properties—our team understands the constraints of period buildings and works with conservation officers where needed to ensure your safe is fitted without compromising the building's character or requiring unnecessary planning consent."
-    },
-    {
-      "q": "I have a Victorian terrace in Bohemia with a converted flat—can you install separate safes for multiple occupants?",
-      "a": "Absolutely. Multi-occupancy terraces and flat conversions are common across Bohemia, and we regularly install individual wall or floor safes in separate units with keyed or combination access to suit each tenant's needs."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Hastings – Fast & Trusted Service",
-  "safe-opening.meta.description": "Safe opening in Hastings for lost combinations & keys. Non-destructive methods for domestic & commercial safes in Victorian terraces, period properties & modern homes.",
-  "safe-opening.hero-paragraph": "Our Hastings locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or your mechanism has jammed, we use combination dial manipulation and precision tools to regain access without damage to your safe.",
-  "safe-opening.local-context-body": "Hastings's flat conversions and multi-occupancy properties in areas like Tilekiln create regular demand for safe opening where tenants or landlords have lost access to communal storage safes, deposit boxes, or personal safes within individual units. Post-war semi-detached properties across Baldslow and similar suburbs frequently contain older domestic safes installed decades ago, often with missing documentation or worn combination mechanisms requiring non-destructive expert access.\n\nListed buildings and period properties in the Old Town conservation area present particular constraints for safe opening work, as any damage to surrounding fixtures or walls must be avoided entirely and comply with heritage conservation standards. Standard cylinder locks on safes installed in post-war housing are generally straightforward to approach, but Victorian-era safes often feature mechanical combination dials with specific wear patterns that demand careful manipulation rather than forced entry.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've lost the combination to a safe in my Victorian terrace in the Old Town—can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties, including listed buildings in Hastings Old Town. Our technicians use specialist methods to preserve both the safe and your heritage-compliant interiors."
-    },
-    {
-      "q": "We're a letting agent with multiple flat conversions across Trinity Triangle—what's your turnaround for emergency safe access?",
-      "a": "We offer same-day emergency safe opening for multi-occupancy properties and conversion flats across Hastings. Call 01424 571056 and we'll attend quickly to regain access without damage to your tenant's belongings or the property."
-    }
-  ],
-  "home.areas-covered": [
-    "America Ground",
-    "Bachelor's Bump",
-    "Baldslow",
-    "Belmont",
-    "Blacklands",
-    "Bohemia",
-    "Broomgrove",
-    "Bulverhythe",
-    "Castleham",
-    "Clive Vale",
-    "Cuckoo Hill",
-    "Filsham",
-    "Friar's Hill",
-    "Glyne Gap",
-    "Guestling Green",
-    "Harley Shute",
-    "High Wickham",
-    "Hollington",
-    "Old Town",
-    "Ore",
-    "Shellies Green",
-    "Silverhill",
-    "Silverhill Park",
-    "St Helen's",
-    "St Leonards Green",
-    "Tilekiln",
-    "Trinity Triangle",
-    "West Hill",
-    "West Marina"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Harley Shute",
-    "Friar's Hill",
-    "Silverhill",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina"
-  ],
-  "locked-out.areas-covered": [
-    "Glyne Gap",
-    "Clive Vale",
-    "Tilekiln",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Trinity Triangle",
-    "Castleham",
-    "Blacklands",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "St Helen's",
-    "West Marina",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "Baldslow",
-    "Belmont"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "High Wickham",
-    "Old Town",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "West Marina",
-    "Baldslow",
-    "Belmont"
-  ],
-  "lock-changes.areas-covered": [
-    "Baldslow",
-    "Belmont",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Silverhill"
-  ],
-  "lock-repairs.areas-covered": [
-    "Hollington",
-    "Ore",
-    "Castleham",
-    "West Hill",
-    "Old Town",
-    "West Marina",
-    "Baldslow",
-    "Belmont"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Filsham",
-    "Bohemia",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "West Hill",
-    "Cuckoo Hill",
-    "Castleham",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow",
-    "Belmont"
-  ],
-  "door-repairs.areas-covered": [
-    "America Ground",
-    "Guestling Green",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Bulverhythe",
-    "Shellies Green",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ],
-  "safe-installation.areas-covered": [
-    "Broomgrove",
-    "Bachelor's Bump",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ],
-  "safe-opening.areas-covered": [
-    "St Leonards Green",
-    "Silverhill Park",
-    "Castleham",
-    "West Hill",
-    "Hollington",
-    "Old Town",
-    "West Marina",
-    "Baldslow"
-  ]
+ "meta.title": "Hastings Locksmith | 24/7 Emergency Call-Out Service",
+ "meta.description": "Emergency locksmith in Hastings covering Victorian terraces, period properties and modern homes. 24/7 call-outs, lock changes, repairs and security upgrades.",
+ "home.hero-paragraph": "Hastings locksmith services specialising in locksmithing and emergency lock assistance are available around the clock. We handle lockouts, lock changes, and security upgrades with non-destructive entry methods. Our DBS-checked technicians are fully insured and operate 24/7 with no call-out fees, ensuring rapid response when you need us most.",
+ "home.local-context-heading": "Hastings Locksmith Services for Period & Modern Homes",
+ "home.local-context-body": "Hastings properties span Victorian terraces through post-war semis, each with distinct security needs. Bohemia's dense period conversions and flat divisions commonly require rekeying for multiple occupants and sash-window locks, while Victorian stock across the city often features worn original mechanisms. Post-war suburbs like Ore handle standard cylinder locks prone to weathering and breakage, driving frequent emergency callouts.\n\nThe Old Town's listed buildings demand heritage-compliant repairs\u2014period-appropriate locks and careful fitting prevent damage to protected structures. Multi-occupancy properties, particularly conversions, need careful attention to fire-safety door standards alongside tenant access changes. Understanding whether a property has original period locks or modern replacements shapes both the repair approach and compliance with local conservation guidance.",
+ "home.local-faqs": [
+  {
+   "q": "I have a Victorian terrace in Trinity Triangle \u2013 what should I know about rekeying for multiple tenants?",
+   "a": "Victorian terraces in high-density areas like Trinity Triangle often house multiple flats, so we recommend master-keying systems to manage access securely across units while maintaining individual tenant privacy. We're experienced in installing compliant multi-occupancy locks without damaging original period features."
+  },
+  {
+   "q": "My listed property in the Old Town needs a new lock \u2013 can you help without compromising its heritage status?",
+   "a": "Yes \u2013 our locksmiths understand conservation area requirements and work with period-appropriate locks on listed buildings in the Old Town. We'll advise on sympathetic repairs and replacements that satisfy both security and heritage guidelines."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Hastings \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Hastings. Locked out of your Victorian terrace or semi-detached? Fast response, non-destructive entry, urgent repairs. Available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Hastings brings professional locksmithing expertise to your door when you need it most. Whether you're locked out of your home, dealing with a snapped key, or require post-break-in repairs, our DBS-checked locksmiths arrive 24/7 with non-destructive entry techniques to resolve your situation quickly and safely.",
+ "emergency-locksmith.local-context-body": "Hastings's mixed housing stock means emergency locksmith calls span Victorian terraces in conservation areas through to post-war semis in suburbs like Ore. Lockouts in period properties\u2014particularly multi-occupancy conversions across the denser residential zones\u2014often involve older cylinder mechanisms and sash windows requiring careful handling. Standard suburban semis typically present straightforward access scenarios, though wear on original locks remains common across all property ages.\n\nListed buildings in the Old Town and period villas on the Edwardian seafront create a secondary consideration: forced entry or lock replacement must comply with heritage conservation standards, potentially delaying emergency access protocols. Many Victorian terraces also feature original timber frames and non-standard door depths, which can complicate rapid lock cylinder extraction and temporary securing solutions that would be routine elsewhere.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace flat in Bohemia \u2013 how quickly can you arrive?",
+   "a": "We're based in Hastings and typically respond to emergency lockouts in Bohemia within 30\u201345 minutes, 24/7. We carry specialist tools for period sash windows and Victorian locks, so we can often gain entry without forcing your door."
+  },
+  {
+   "q": "My listed building in the Old Town has a broken lock after a break-in \u2013 will you damage the heritage features?",
+   "a": "No. Our emergency locksmiths understand Hastings' conservation requirements and use non-destructive methods on listed properties whenever possible. If replacement is necessary, we source period-appropriate locks that comply with heritage standards and can advise on local planning considerations."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Hastings | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Hastings? Fast non-destructive entry for homes, flats & Victorian terraces. 24/7 emergency service when keys are lost or stuck inside.",
+ "locked-out.hero-paragraph": "When you're locked out in Hastings, our experienced locksmiths specialise in locksmithing techniques that restore access quickly. Whether you've lost your keys, left them inside, or snapped a key in the lock, we use non-destructive entry methods to gain entry without damage. Our damage-free approach means your door and locks remain intact.",
+ "locked-out.local-context-body": "The Hastings housing mix\u2014from Victorian terraces in the Old Town to post-war semi-detached homes in Clive Vale\u2014creates varied locked-out scenarios. Flat conversions across high-density areas mean tenants in multi-occupancy buildings frequently lose or snap keys, while suburban properties typically feature standard cylinder locks that respond well to non-destructive entry techniques.\n\nListed buildings and heritage conservation rules in the Old Town require locksmiths to avoid damage to period frames and original joinery during entry work. Across newer suburbs like Ore and Hollington, access points are more straightforward, but the sheer volume of wear-and-tear lock failures in these post-war properties means emergency call-outs often involve cylinder locks stuck or seized from salt-air corrosion near the seafront.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Bohemia \u2013 can you get me in without damaging the original sash windows or period door frame?",
+   "a": "Yes. Our locksmiths are experienced with period properties across Bohemia's dense Victorian conversions and use non-destructive techniques that protect listed features and original joinery. We'll assess your lock type on arrival and avoid any damage to heritage elements."
+  },
+  {
+   "q": "What's your response time if I'm locked out in Silverhill or West Hill?",
+   "a": "We're based in Hastings and typically attend lockouts in Silverhill and West Hill within 30\u201345 minutes. Call 01424 571056 with your postcode and we'll confirm arrival time before dispatching our nearest engineer."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Hastings \u2013 Fast 24/7 Service",
+ "broken-key-removal.meta.description": "Broken key removal in Hastings Victorian terraces & period properties. Expert extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Hastings requires a skilled locksmith trained in precise locksmithing techniques. Snapped or sheared keys lodged in euro cylinders and mortice locks demand specialist attention to avoid further damage. Our technicians employ non-destructive methods using key extractor tools and broken-key probes, restoring access without compromising your lock's integrity.",
+ "broken-key-removal.local-context-body": "Hastings's dense Victorian terraces in Trinity Triangle and contemporary flat developments in Tilekiln generate frequent broken key incidents across both period and modern cylinder locks. Multi-occupancy conversions in the city's older stock mean landlords and tenants regularly require swift key extraction and rekeying, whilst newer builds typically present straightforward euro-cylinder removals where snap-offs occur at the shear line.\n\nListed properties throughout Hastings's Old Town and conservation areas require locksmiths to work within heritage constraints during key extraction; removing broken fragments from original mortice locks demands period-appropriate reassembly to avoid damage to protected mechanisms. Post-war suburban properties in areas like Ore favour standard pin-tumbler cylinders, making removal more routine, though sash-windowed Victorian properties occasionally present complications when locks are set within period-specific frames that limit access angles.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Hastings Old Town need specialist key removal?",
+   "a": "Many listed properties in the Old Town use heritage-compliant mortice locks with narrower tolerances than modern euro cylinders, so broken key extraction requires careful technique to avoid damage to period metalwork. We're trained to remove snapped keys without compromising the historical integrity of your lock."
+  },
+  {
+   "q": "Is broken key removal urgent in post-war suburbs like Hollington?",
+   "a": "Yes\u2014semi-detached homes in Hollington typically rely on single front-door cylinder locks, so a snapped key leaves you locked out fast. We offer same-day emergency extraction to get you back inside without forcing the lock."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Hastings \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Hastings covering Victorian terraces and modern homes. Post-break-in lock changes, door repairs, insurance-compliant reinstatement.",
+ "burglar-repair-service.hero-paragraph": "Our Hastings locksmiths specialise in burglar repair and locksmithing solutions for properties affected by forced entry. We restore security through door reinforcement and installation of TS007 anti-snap cylinders, ensuring your home meets insurance-compliant standards. Damaged locks and forced entry damage require swift, professional attention to restore both function and protection.",
+ "burglar-repair-service.local-context-body": "Break-ins across Hastings affect a wide variety of properties, from Victorian terraces in Bohemia\u2014where flat conversions and multi-occupancy create shared-access vulnerabilities\u2014to semi-detached homes in Clive Vale with standard cylinder locks that require swift replacement. Post-break-in repairs must account for these different security profiles: period properties need careful reinstatement, while newer suburban stock typically requires straightforward lock and frame replacement.\n\nListed buildings in Hastings's Old Town conservation area add complexity to burglar repair work, as replacements must meet heritage officer approval before installation. Many Victorian and Edwardian properties feature sash windows and period doors that cannot be altered without consent, making specialist repair and upgrade planning essential for insurance-compliant reinstatement. Standard suburban properties, by contrast, allow faster turnaround on door and lock replacement.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle break-ins on listed properties in Hastings Old Town?",
+   "a": "Yes. We're experienced with heritage-compliant lock and door repairs on listed buildings in the Old Town conservation area, ensuring repairs meet planning requirements while restoring security quickly after a break-in."
+  },
+  {
+   "q": "How quickly can you repair a forced sash window in a Victorian terrace?",
+   "a": "We typically attend emergency burglar repairs in Victorian terraces across Bohemia and Trinity Triangle within hours. Sash-window frame and lock repairs are common in these multi-occupancy conversions, and we can often complete reinstatement the same day."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Hastings \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Hastings \u2013 same-day secure boarding of smashed doors and windows in Victorian terraces, listed properties and modern homes.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Hastings from our experienced locksmith team combines expert locksmithing with rapid response. When smashed windows or damaged doors leave your property vulnerable, we secure the area using robust plywood boards and security screws. Our 24/7 service ensures insurance-compliant protection when you need it most.",
+ "emergency-boarding-up.local-context-body": "Storm damage and break-ins affect Hastings's diverse housing stock unevenly. Semi-detached properties in Silverhill and post-war suburbs experience frequent damage to standard wooden and UPVC doors and frames; Victorian terraces in the Old Town present different challenges due to period joinery and listed-building constraints. Multi-occupancy flats across central areas require rapid boarding to prevent unauthorised access across shared entrance doors, which are often narrower and more ornate than suburban equivalents.\n\nListed buildings in the Old Town conservation area require boarding solutions that preserve historic fabric and comply with planning restrictions\u2014temporary plywood fixtures must be reversible and non-damaging to original frames. Standard suburban properties in areas like Silverhill allow faster installation of temporary security boarding, but older sash windows and period architraves still demand care to avoid irreversible damage during emergency response work.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up listed properties in Hastings Old Town after break-ins?",
+   "a": "Yes. Our team understands heritage protection rules for listed buildings in the Old Town conservation area and uses boarding methods that comply with conservation officer requirements, ensuring your property is secure without compromising its period character."
+  },
+  {
+   "q": "How quickly can you board up storm-damaged windows in Silverhill Park or Broomgrove?",
+   "a": "We typically arrive within 1\u20132 hours for emergency calls across Hastings suburbs like Silverhill Park and Broomgrove. Semi-detached properties in these areas are our priority, and we carry standard-sized boards to minimise delays."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes in Hastings \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Hastings for Victorian terraces, listed properties & modern homes. Professional replacement after key loss, moving house or security upgrades.",
+ "lock-changes.hero-paragraph": "Lock changes in Hastings require a skilled locksmith trained in modern locksmithing techniques to ensure your property remains secure. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we fit BS3621 mortice locks and TS007 anti-snap cylinders to industry standards. Our work meets all current security specifications for residential properties.",
+ "lock-changes.local-context-body": "Lock changes are frequent across Hastings's conversion-heavy neighbourhoods, particularly in areas like Bohemia and Trinity Triangle where Victorian terraces have been subdivided into flats. Multi-occupancy properties require careful coordination of rekeying to ensure all residents receive new keys simultaneously, and landlords often request master-key systems for emergency access. Post-war semis in suburban areas such as Ore typically involve straightforward cylinder replacements, whereas period properties demand more specialised attention.\n\nListed buildings in the Old Town conservation area present specific constraints for lock changes. Period properties often retain original hardware or require sympathetic replacements that preserve their heritage character, meaning locksmiths must source compatible locks rather than fit modern alternatives. Additionally, many Victorian sash windows across the city require specialised locking mechanisms; these cannot simply be replaced with contemporary cylinder locks without compromising both function and compliance with conservation guidelines.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Trinity Triangle \u2013 do I need specialist locks for listed building compliance?",
+   "a": "Yes, if your property is listed or in the Old Town conservation area, period-appropriate locks are often required by planning rules. We source and fit heritage-compliant locks that meet conservation standards while keeping your home secure."
+  },
+  {
+   "q": "We've converted our Edwardian flat into two units \u2013 can you rekey the locks separately for each tenant?",
+   "a": "Absolutely. Multi-occupancy properties across Hastings's flat conversion areas need independent rekeying so tenants have their own keys. We'll ensure each unit has separate, fully keyed locks without affecting the others."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Hastings \u2013 Same-Day Service Available",
+ "lock-repairs.meta.description": "Lock repair service in Hastings for Victorian terraces, sash windows & modern homes. Multipoint, mortice & cylinder locks fixed 24/7.",
+ "lock-repairs.hero-paragraph": "Our Hastings locksmith specialises in lock repairs and expert locksmithing to restore your doors to full working order. Whether you're experiencing a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem efficiently. From mortice maintenance to multipoint servicing, all work carries manufacturer warranty for your peace of mind.",
+ "lock-repairs.local-context-body": "Victorian terraces and flat conversions throughout Trinity Triangle experience high wear on multipoint locks and night latches due to frequent tenant turnover and shared-access patterns. Sash windows in period properties also demand specialist repair knowledge to preserve both function and heritage integrity without damaging original frames or hardware.\n\nPost-war semi-detached homes in Broomgrove and similar suburban areas typically run standard cylinder locks that fail predictably under heavy use. Repair timescales matter here: landlords managing multiple properties often need same-day gearbox or mortice fixes to avoid rental void periods, and listed-building properties across the Old Town may require period-appropriate lock casings that limit replacement options.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Belmont has a stiff mortice lock \u2013 is repair possible, or do I need replacement?",
+   "a": "Most Victorian mortice locks can be repaired by cleaning, lubricating, or replacing internal gearbox components; we avoid removing period locks from listed properties where possible. If the lock is seized or the mechanism is worn beyond repair, we'll discuss heritage-compliant replacement options that match your property's character."
+  },
+  {
+   "q": "The multipoint lock on my semi-detached in Baldslow jammed after years of use \u2013 how quickly can you fix it?",
+   "a": "Multipoint lock repairs on post-war semis are straightforward and usually completed same-day; common issues include worn gearboxes or misaligned components. Call us on 01424 571056 for an emergency slot if you're locked out."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Hastings \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Hastings, including Victorian terraces & modern homes. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings.",
+ "door-lock-installation.hero-paragraph": "Our Hastings locksmith team specialises in professional door lock installation drawing on decades of locksmithing expertise. Whether you're fitting new locks for a property move, upgrading security, or meeting insurance requirements, we install high-security options including BS3621 mortice locks and TS007 anti-snap cylinders. All work meets current UK standards.",
+ "door-lock-installation.local-context-body": "Hastings's mixed Victorian and interwar housing stock means door lock installation work spans period properties and modern suburban homes alike. Victorian terraces in Bohemia and West Hill often require careful assessment before fitting new locks, as sash windows and period joinery demand specialist knowledge. Semi-detached properties across Clive Vale and post-war suburbs typically feature standard timber or composite doors suited to straightforward cylinder lock replacement and multipoint fitting.\n\nListed buildings and conservation-area properties in Hastings's Old Town present a key practical consideration: new lock installations must comply with heritage conservation requirements, sometimes limiting cylinder choice or requiring approval before work begins. Across the city's converted flats and HMOs, landlord-tenant regulations and multi-occupancy access protocols shape lock specification and installation sequencing. Understanding these local constraints\u2014alongside the prevalence of older, worn cylinder locks in interwar stock\u2014ensures compliant and secure results.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Old Town need specialist lock installation?",
+   "a": "Listed properties in Hastings' Old Town conservation area often have period-appropriate doors and frames that require careful measurement and sometimes custom fitting to preserve heritage value while upgrading to modern BS3621 mortice locks. Our installers are experienced in working sensitively with period joinery to avoid damage."
+  },
+  {
+   "q": "What lock upgrades do flat conversions in Trinity Triangle typically need?",
+   "a": "Multi-occupancy Victorian terraces across Bohemia and Trinity Triangle benefit from TS007 anti-snap cylinder locks on individual flats to meet modern security standards and landlord insurance requirements. We can install these quickly across multiple units with minimal disruption."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Hastings \u2013 Fast Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Hastings & Bohemia. Specialist service for Victorian terraces, period properties & modern doors. Same-day available.",
+ "door-lock-replacement.hero-paragraph": "Our Hastings locksmith specialists offer professional door lock replacement using modern locksmithing techniques tailored to your needs. Whether you've experienced a failed lock, lost keys, or are moving home, we provide like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Our technicians ensure secure, reliable solutions for residential and commercial properties across the area.",
+ "door-lock-replacement.local-context-body": "Hastings's seafront villas and suburban semi-detached homes in Silverhill typically feature standard cylinder locks that wear predictably with age and salt-air exposure. Victorian terraces in Bohemia, often subdivided into flats, require frequent rekeying and lock replacement to manage multiple occupancy and turnover\u2014a pattern that drives consistent demand for straightforward like-for-like swap work across the borough's conversion stock.\n\nListed buildings in the Old Town conservation area impose heritage compliance requirements on lock replacement; period-appropriate mechanisms or sympathetic modern equivalents must be specified to satisfy conservation officer approval. Across newer suburban properties, standard British Standard cylinder locks dominate, making replacement straightforward; older period properties sometimes retain original mechanisms that complicate sourcing and may require specialist advice before removal.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "Do you replace locks on listed properties in Hastings Old Town?",
+   "a": "Yes. We're experienced with heritage-compliant lock replacements on listed Georgian and medieval properties in the Old Town conservation area, ensuring new locks match period aesthetics and planning requirements. Always discuss your listed status with us before booking so we source appropriate period-style hardware."
+  },
+  {
+   "q": "What lock types do you typically fit in Hastings post-war suburbs?",
+   "a": "Most semi-detached homes in Broomgrove and similar post-war estates use standard cylinder locks, which we routinely replace with like-for-like or upgraded BS3621 mortice locks for better security. We'll assess your current lock and advise the best replacement within your door type."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Hastings \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Hastings \u2013 uPVC, composite & timber doors. Serving Victorian terraces, period properties & modern homes. Expert alignment & hardware fixes.",
+ "door-repairs.hero-paragraph": "Expert door repairs in Hastings from our experienced locksmith team, combining traditional locksmithing with modern solutions. Whether your uPVC or timber door has dropped, won't close properly, or is letting in draughts, our technicians specialise in hinge adjustment and frame alignment to restore full function. We're available 24/7 for urgent repairs.",
+ "door-repairs.local-context-body": "Hastings's dense Victorian terrace stock and newer semi-detached suburbs in areas like Baldslow generate steady demand for door repairs. Period properties in these neighbourhoods frequently suffer from dropped frames and misaligned doors due to foundation settlement and timber movement, while post-war semis typically present standard wear on cylinder locks and hinges. Flat conversions across the city multiply the number of access points requiring attention, particularly where multi-occupancy has intensified wear patterns.\n\nListed buildings in Hastings's Old Town conservation area and period villas in Belmont necessitate heritage-compliant repairs; replacement doors and hardware must match original specifications, and specialist carpentry is often required to preserve period detailing. Contemporary developments like Tilekiln feature modern composite and uPVC doors with different failure modes, typically hinge and frame issues rather than the timber movement common to older stock. Local surveyors and landlords frequently mandate repairs before letting, particularly in HMO properties where safety standards and insurance compliance depend on functioning, secure doors.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do sash windows in Hastings' Old Town listed properties need specialist door repair attention?",
+   "a": "Many of Hastings' Victorian and Georgian listed buildings in the Old Town conservation area have period sash windows and doors with heritage-compliant frames that can drop or misalign over time. Our locksmiths understand the conservation requirements and can repair or adjust these without compromising their listed status."
+  },
+  {
+   "q": "What's the most common door problem you see in Ore and Hollington?",
+   "a": "Post-war semi-detached homes in Ore and Hollington often develop misaligned or dropped doors due to natural settling of the structure. We regularly repair standard cylinder locks and realign frames in these suburbs to restore smooth operation and security."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Hastings \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair and replacement in Hastings, including Victorian terraces in Trinity Triangle. Espagnolette and shootbolt locks fixed or replaced.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Hastings from our experienced locksmiths combines expert locksmithing knowledge with practical solutions. Whether your windows won't lock or you're dealing with broken handles, we address common issues affecting espagnolette mechanisms and shootbolt locks. Our fitting meets insurance-compliant standards, ensuring your home security is restored to the highest specification.",
+ "window-lock-repair-replacement.local-context-body": "Properties across Belmont and the wider Hastings seafront feature period sash windows that demand specialist espagnolette and shootbolt lock repair. Victorian and Edwardian villas alongside interwar semi-detached homes in suburban areas like Baldslow often retain original window ironwork, though frequent salt-air corrosion and mechanical wear require prompt replacement to maintain security and smooth operation.\n\nWindow lock repairs in Hastings's Old Town conservation area and listed properties must comply with heritage planning guidance, which restricts modifications to original timber sashes and period hardware. Standard cylinder locks prevalent in post-war suburban stock are simpler to service, but older properties frequently present corroded or seized mechanisms that benefit from careful restoration rather than full replacement.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash windows in Hastings' Old Town listed buildings need specialist lock repairs?",
+   "a": "Listed properties in Hastings' dense Old Town conservation area often have original timber sash frames that require heritage-compliant espagnolette and shootbolt locks to preserve their character. We ensure replacements meet conservation standards while restoring full security and smooth operation."
+  },
+  {
+   "q": "What window lock problems are common in post-war semis across Ore and Hollington?",
+   "a": "Standard cylinder locks and shootbolts in post-war semi-detached homes across Ore and Hollington frequently wear or jam due to age and weathering. We can repair or replace these quickly to restore your window security without disrupting your daily routine."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Hastings \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation in Hastings. Wall, floor and freestanding safes with secure anchoring, insurance documentation and heritage-compliant fitting for Victorian properties.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Hastings from our experienced locksmith team combines expert locksmithing with secure positioning techniques. Whether you're securing a new safe or meeting insurance approval requirements, we ensure proper floor anchoring and wall mounting to AiS approved standards, protecting your valuables with precision and care.",
+ "safe-installation.local-context-body": "Hastings's housing stock ranges from period conversions in the Old Town to sprawling post-war suburbs like Ore and Hollington. Safe installation in Victorian terraces and converted flats demands careful site assessment\u2014often involving reinforced floor joists and wall anchoring that accounts for original plasterwork and structural quirks. Semi-detached properties across outer residential areas typically offer more straightforward installation, with solid modern walls and standard access points that reduce fitting complexity.\n\nListed buildings and conservation-area properties in Hastings require specialist consideration: wall-mounted safes must avoid damage to original features, and floor anchoring in period properties sometimes necessitates structural surveys before work begins. Insurance underwriters frequently stipulate that safes meet specific fixings standards\u2014particularly in multi-occupancy flat conversions\u2014meaning installation documentation and photographic evidence are essential to policy compliance across the town.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in listed buildings in Hastings's Old Town?",
+   "a": "Yes. We're experienced with heritage-compliant safe installation in listed properties\u2014our team understands the constraints of period buildings and works with conservation officers where needed to ensure your safe is fitted without compromising the building's character or requiring unnecessary planning consent."
+  },
+  {
+   "q": "I have a Victorian terrace in Bohemia with a converted flat\u2014can you install separate safes for multiple occupants?",
+   "a": "Absolutely. Multi-occupancy terraces and flat conversions are common across Bohemia, and we regularly install individual wall or floor safes in separate units with keyed or combination access to suit each tenant's needs."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Hastings \u2013 Fast & Trusted Service",
+ "safe-opening.meta.description": "Safe opening in Hastings for lost combinations & keys. Non-destructive methods for domestic & commercial safes in Victorian terraces, period properties & modern homes.",
+ "safe-opening.hero-paragraph": "Our Hastings locksmith team specialises in safe opening through expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or your mechanism has jammed, we use combination dial manipulation and precision tools to regain access without damage to your safe.",
+ "safe-opening.local-context-body": "Hastings's flat conversions and multi-occupancy properties in areas like Tilekiln create regular demand for safe opening where tenants or landlords have lost access to communal storage safes, deposit boxes, or personal safes within individual units. Post-war semi-detached properties across Baldslow and similar suburbs frequently contain older domestic safes installed decades ago, often with missing documentation or worn combination mechanisms requiring non-destructive expert access.\n\nListed buildings and period properties in the Old Town conservation area present particular constraints for safe opening work, as any damage to surrounding fixtures or walls must be avoided entirely and comply with heritage conservation standards. Standard cylinder locks on safes installed in post-war housing are generally straightforward to approach, but Victorian-era safes often feature mechanical combination dials with specific wear patterns that demand careful manipulation rather than forced entry.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've lost the combination to a safe in my Victorian terrace in the Old Town\u2014can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties, including listed buildings in Hastings Old Town. Our technicians use specialist methods to preserve both the safe and your heritage-compliant interiors."
+  },
+  {
+   "q": "We're a letting agent with multiple flat conversions across Trinity Triangle\u2014what's your turnaround for emergency safe access?",
+   "a": "We offer same-day emergency safe opening for multi-occupancy properties and conversion flats across Hastings. Call 01424 571056 and we'll attend quickly to regain access without damage to your tenant's belongings or the property."
+  }
+ ],
+ "home.areas-covered": [
+  "Bachelor's Bump",
+  "Belmont",
+  "Blacklands",
+  "Bohemia",
+  "Broomgrove",
+  "Bulverhythe",
+  "Castleham",
+  "Clive Vale",
+  "Filsham",
+  "Harley Shute",
+  "High Wickham",
+  "Hollington",
+  "Old Town",
+  "Ore",
+  "Silverhill",
+  "Silverhill Park",
+  "St Helen's",
+  "St Leonards Green",
+  "Tilekiln",
+  "West Hill",
+  "West Marina"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Harley Shute",
+  "Silverhill",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Bachelor's Bump",
+  "Belmont"
+ ],
+ "locked-out.areas-covered": [
+  "Clive Vale",
+  "Tilekiln",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Bachelor's Bump",
+  "Belmont"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Castleham",
+  "Blacklands",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Bachelor's Bump",
+  "Belmont",
+  "Bohemia"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "St Helen's",
+  "West Marina",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "Belmont",
+  "Clive Vale",
+  "Filsham"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "High Wickham",
+  "Old Town",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "West Marina",
+  "Belmont",
+  "Silverhill",
+  "Silverhill Park"
+ ],
+ "lock-changes.areas-covered": [
+  "Belmont",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Silverhill",
+  "Clive Vale",
+  "Filsham"
+ ],
+ "lock-repairs.areas-covered": [
+  "Hollington",
+  "Ore",
+  "Castleham",
+  "West Hill",
+  "Old Town",
+  "West Marina",
+  "Belmont",
+  "Silverhill",
+  "Silverhill Park"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Filsham",
+  "Bohemia",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Silverhill",
+  "Silverhill Park"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "West Hill",
+  "Castleham",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Belmont",
+  "Bachelor's Bump",
+  "Blacklands",
+  "Bohemia"
+ ],
+ "door-repairs.areas-covered": [
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Clive Vale",
+  "Filsham",
+  "Harley Shute",
+  "High Wickham"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Bulverhythe",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Bachelor's Bump",
+  "Belmont",
+  "Blacklands"
+ ],
+ "safe-installation.areas-covered": [
+  "Broomgrove",
+  "Bachelor's Bump",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Clive Vale",
+  "Filsham"
+ ],
+ "safe-opening.areas-covered": [
+  "St Leonards Green",
+  "Silverhill Park",
+  "Castleham",
+  "West Hill",
+  "Hollington",
+  "Old Town",
+  "West Marina",
+  "Silverhill",
+  "St Helen's"
+ ]
 }

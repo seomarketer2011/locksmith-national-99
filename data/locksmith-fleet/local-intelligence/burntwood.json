@@ -1,96 +1,94 @@
 {
-  "location": "Burntwood",
-  "neighborhoods": [
-    {
-      "name": "Chase Terrace",
-      "era": "interwar",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "established residential area with period property stock"
-    },
-    {
-      "name": "Chasetown",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "mixed suburban development, includes some 1960s estates"
-    },
-    {
-      "name": "Hammerwich",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "varied property ages across village-like setting"
-    },
-    {
-      "name": "Woodhouses",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "older residential stock typical of former industrial areas"
-    },
-    {
-      "name": "Brownhills West",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion area with period character"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached"
-    ],
-    "era": "mixed interwar and post-war with Victorian pockets",
-    "notable": "Former industrial/mining heritage area with primarily residential conversion; high proportion of older door and lock systems requiring regular maintenance and upgrade."
+ "location": "Burntwood",
+ "neighborhoods": [
+  {
+   "name": "Chase Terrace",
+   "era": "interwar",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "established residential area with period property stock"
   },
-  "locksmith_relevant": [
-    "Interwar terraces and semis dominate; many feature original period locks needing specialist repair or period-appropriate replacement.",
-    "Post-war estates include diverse locking systems; UPVC and modern composite doors common in updated properties alongside older timber frames.",
-    "Rural character of Hammerwich and Woodhouses means customers often need rural/farm gate locks and security for period properties with heritage considerations."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Burntwood",
-    "overpass": "OSM Overpass bbox query, 5 named areas",
-    "coords": {
-      "lat": 52.6791667,
-      "lon": -1.9154621
-    }
+  {
+   "name": "Chasetown",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "mixed suburban development, includes some 1960s estates"
   },
-  "generated_at": "2026-05-13T18:05:07.068Z",
-  "all_areas": [
-    "Brownhills West",
-    "Chase Terrace",
-    "Chasetown",
-    "Hammerwich",
-    "Woodhouses"
-  ],
-  "geo": {
-    "latitude": 52.6791667,
-    "longitude": -1.9154621
+  {
+   "name": "Hammerwich",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "varied property ages across village-like setting"
   },
-  "postcode_districts": [
-    "WS7"
-  ],
-  "postcode_meta": {
-    "WS7": {
-      "count": 3,
-      "sample": "WS7 4XB",
-      "admin": "Lichfield",
-      "via": "parish=burntwood"
-    }
+  {
+   "name": "Woodhouses",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "older residential stock typical of former industrial areas"
+  },
+  {
+   "name": "Brownhills West",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion area with period character"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached"
+  ],
+  "era": "mixed interwar and post-war with Victorian pockets",
+  "notable": "Former industrial/mining heritage area with primarily residential conversion; high proportion of older door and lock systems requiring regular maintenance and upgrade."
+ },
+ "locksmith_relevant": [
+  "Interwar terraces and semis dominate; many feature original period locks needing specialist repair or period-appropriate replacement.",
+  "Post-war estates include diverse locking systems; UPVC and modern composite doors common in updated properties alongside older timber frames.",
+  "Rural character of Hammerwich and Woodhouses means customers often need rural/farm gate locks and security for period properties with heritage considerations."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Burntwood",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Burntwood admin area), 3 named areas",
+  "coords": {
+   "lat": 52.6791667,
+   "lon": -1.9154621
+  }
+ },
+ "generated_at": "2026-05-13T18:05:07.068Z",
+ "all_areas": [
+  "Chase Terrace",
+  "Chasetown",
+  "Woodhouses"
+ ],
+ "geo": {
+  "latitude": 52.6791667,
+  "longitude": -1.9154621
+ },
+ "postcode_districts": [
+  "WS7"
+ ],
+ "postcode_meta": {
+  "WS7": {
+   "count": 3,
+   "sample": "WS7 4XB",
+   "admin": "Lichfield",
+   "via": "parish=burntwood"
+  }
+ }
 }

@@ -1,348 +1,325 @@
 {
-  "meta.title": "Locksmith Herne Bay | Local Locksmithing Service 24/7",
-  "meta.description": "Locksmith services in Herne Bay covering Victorian terraces, interwar semis & modern homes. Emergency repairs, lock upgrades, coastal corrosion specialists.",
-  "home.hero-paragraph": "Herne Bay locksmiths providing expert locksmithing services and locksmith help are on call for emergency lockouts, lock changes and security upgrades. Our DBS-checked technicians arrive quickly with non-destructive entry methods. Available 24/7 with no call-out fee, we're fully insured and committed to getting you back inside fast.",
-  "home.local-context-heading": "Herne Bay's Period Properties Need Specialist Care",
-  "home.local-context-body": "Herne Bay's housing stock spans Victorian terraces through to post-war semis in areas like Sunningdale Green, each presenting distinct lock requirements. Original mortice locks in period properties need specialist care to avoid joinery damage, while interwar semis benefit from sympathetic upgrades that respect their character. Coastal salt spray accelerates corrosion across all eras, making regular maintenance essential and winter inspections advisable.\n\nLandlords renting HMO properties should verify that locks meet current safety standards, particularly for shared entrances and individual rooms. Many period properties feature traditional wooden frames and original hardware that can be damaged by force or unsuitable modern fittings. A locksmith familiar with Herne Bay's heritage stock can advise on compliant solutions that preserve both the building's integrity and tenant security.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian terrace in Bishopstone has original mortice locks—can you restore them without damaging the woodwork?",
-      "a": "Yes. Our locksmiths specialise in period-appropriate restoration of Victorian and Edwardian mortice locks, using sympathetic techniques that preserve your original joinery. We can upgrade security while maintaining the character of your seafront property."
-    },
-    {
-      "q": "Why do my locks seize up more often in winter, and what can I do about it?",
-      "a": "Coastal salt spray accelerates corrosion and lock degradation, especially during winter months. We recommend preventative maintenance—regular lubrication and inspection—and can supply marine-grade hardware designed to resist weathering in Herne Bay's seaside environment."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Herne Bay | 24/7 Victorian Lock Experts",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Herne Bay. Locked out or key snapped? Fast response for interwar semis, Victorian terraces & coastal lock seizures. Call now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith team in Herne Bay specialises in locksmithing and rapid response to lockouts and snapped keys. Operating 24/7, we deploy DBS-checked technicians who employ non-destructive entry methods to minimise damage to your property. Whether you're locked out of your home or business, we're available round the clock to restore access quickly and professionally.",
-  "emergency-locksmith.local-context-body": "Herne Bay's interwar semis, particularly in Wentworth Park, frequently present emergency lockout situations where period joinery around locks has swollen due to coastal moisture, trapping mechanisms mid-turn. Victorian and Edwardian terraces in the seafront areas compound this issue, as original mortice locks can jam unexpectedly after years of salt-air exposure. Emergency callouts spike during winter months when weather accelerates corrosion and mechanical failure.\n\nCoastal salt spray represents the dominant factor in emergency lock degradation across the town. Seized mechanisms and frozen cylinders require rapid response without forcing damage to heritage woodwork—a particular constraint in properties with listed-building status. Winter weather patterns drive a concentrated surge in emergency demand, making 24-hour availability essential for properties where traditional locks have degraded beyond user operation.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "My Victorian sash window lock has seized in Bishopstone – can you help in an emergency?",
-      "a": "Yes. Coastal salt spray accelerates lock corrosion, and our locksmiths specialise in freeing seized mortice locks on period properties without forcing the mechanism and damaging original joinery. We're available 24/7 and can attend within the hour."
-    },
-    {
-      "q": "I'm locked out of my interwar semi in Wentworth Park – will you damage the door frame?",
-      "a": "No. We use non-destructive entry techniques suited to period joinery and frames common across Herne Bay's interwar stock. If your lock is beyond repair, we'll upgrade it sensitively to match your home's character while restoring full security."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Herne Bay | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Herne Bay? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, semis & modern homes. Call 01227 689272.",
-  "locked-out.hero-paragraph": "When you're locked out in Herne Bay, our experienced locksmiths specialise in swift locksmithing solutions tailored to your situation. Whether you've lost your keys, left them inside, or snapped them in the lock, we gain entry using non-destructive techniques that protect your door from damage. Our technicians arrive promptly to get you back inside.",
-  "locked-out.local-context-body": "Locked-out situations in Herne Bay are shaped by the town's mixed housing stock. Victorian terraces in Greenhill and Edwardian villas in Hampton often feature original mortice locks and sash-window catches that require careful, non-destructive access techniques. Interwar semis across town present different challenges, where period joinery and traditional mechanisms demand specialist handling to avoid damage during entry.\n\nCoastal weathering compounds lockout difficulties here. Salt spray corrosion frequently seizes mechanisms, particularly in winter months, making standard entry tools less effective and extending callout times. Properties with original hardwood doors—common across the town's period stock—also require adapted techniques to prevent splintering or marking during non-destructive entry.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terraced home in Bishopstone – will non-destructive entry damage my original mortice lock?",
-      "a": "No. Our non-destructive techniques are designed specifically for period properties like yours; we can open Victorian mortice locks without forcing or damaging the mechanism, preserving both security and character."
-    },
-    {
-      "q": "My key snapped in the lock of my interwar semi in Broomfield – how quickly can you get me in?",
-      "a": "We typically attend lockouts in Herne Bay within 30–60 minutes. We'll extract the broken key and gain entry non-destructively, then advise on rekeying or repair to avoid future damage to your period joinery."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Herne Bay | Victorian Lock Specialists",
-  "broken-key-removal.meta.description": "Broken key removal in Herne Bay – rapid extraction from euro cylinders, mortice locks & night latches. Serving Sunningdale Green & across town. Non-destructive, 24/7.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Herne Bay requires a skilled locksmith experienced in locksmithing techniques to extract snapped or sheared keys safely from your lock. Our technicians use specialist key extractor tools and broken-key probes to retrieve the fragment without damaging your door or lock mechanism. Whether your key is stuck in a mortice lock or euro cylinder, we employ non-destructive methods to restore access quickly.",
-  "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Herne Bay's period properties, particularly in Greenhill's Victorian terraces where original mortice locks remain in daily use. The interwar semis of Broomfield present a different challenge: their standard rim cylinders and night latches experience regular key failure due to coastal salt spray accelerating metal fatigue, making prompt removal essential to avoid lock damage during extraction.\n\nHerne Bay's seafront exposure means corrosion deposits build up inside cylinders and mortice mechanisms, complicating key removal work. Winter months see the highest volume of callouts as seized locks and frozen tumblers cause keys to snap under pressure. Extraction must account for corroded pin positions and brittle key fragments—rushed techniques risk cylinder scarring that leaves locks inoperable or impossible to rekey.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do broken keys happen so often in Herne Bay's Victorian properties?",
-      "a": "Herne Bay's Victorian and Edwardian seafront terraces in Bishopstone feature original mortice locks that can become brittle and corroded by coastal salt spray, making keys more prone to snapping inside the cylinder. Our broken key removal service is equipped to extract keys from these heritage locks without damaging the period joinery."
-    },
-    {
-      "q": "Can you remove a broken key from my interwar semi's night latch?",
-      "a": "Yes—many of Broomfield's interwar semis use night latches that are common breakage points for older, weathered keys. We specialise in key extraction from night latches, euro cylinders and mortice locks, and can often supply a replacement key fitted to your existing lock on the same visit."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Herne Bay | Emergency Lock Repair",
-  "burglar-repair-service.meta.description": "Burglar repair service in Herne Bay. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and interwar semis. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair services in Herne Bay from our experienced locksmiths combine practical locksmithing expertise with security upgrades. Following forced entry or damage, we install TS007 anti-snap cylinders and BS3621 mortice locks to restore insurance-compliant protection. Door reinforcement strengthens vulnerable frames, ensuring your home meets current security standards.",
-  "burglar-repair-service.local-context-body": "Break-ins across Herne Bay's period properties create distinct repair challenges. Victorian terraces in Greenhill and Edwardian semis in Hampton typically feature original mortice locks and traditional joinery that demand specialist reinstatement rather than crude replacement. Post-break-in repairs must preserve period character while restoring full security, making insurance-compliant reinstatement a technical priority for these heritage-rich properties.\n\nCoastal salt spray accelerates corrosion of replacement hardware, meaning locks installed after a break-in require specification for marine-grade materials to withstand Herne Bay's weathering conditions. Many terraced and semi-detached properties also feature sash windows and solid timber frames vulnerable to forced entry; repair work must account for wood type and original construction methods to avoid further deterioration during remedial fitting.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my Victorian terrace in Bishopstone, can you repair the original mortice lock without damaging the period joinery?",
-      "a": "Yes—we specialise in restoring Victorian and Edwardian mortice locks on Herne Bay's period seafront properties. We'll reinstate your lock to insurance standard while preserving the original frame and detailing."
-    },
-    {
-      "q": "I live in an interwar semi in Hillborough and the break-in damaged both the lock and door frame. Do you handle full reinstatement for insurance claims?",
-      "a": "Absolutely. We repair both lock mechanisms and door frames on interwar semis to insurable condition, with photographic documentation for your claim—and we work quickly to secure your property the same day."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Herne Bay | Victorian Terraces",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Herne Bay - same-day secure boarding for Victorian terraces, seafront properties and period homes after break-ins or storms.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Herne Bay from our experienced locksmiths combines skilled locksmithing with rapid response to secure your property. Whether you're dealing with smashed windows, broken glazing, or damaged doors, we install robust plywood boards and security screws to create a weatherproof temporary seal. Our 24/7 service meets insurance-compliant standards, ensuring your home or business remains protected until permanent repairs are completed.",
-  "emergency-boarding-up.local-context-body": "Storm damage and break-ins demand rapid boarding-up response across Herne Bay's mixed housing. Terraced properties in Bishopstone and Edwardian villas elsewhere feature original sash windows and period joinery that require careful temporary protection to avoid further damage during securing. Interwar semis in Oxenden, with their varied glazing and door frames, present different boarding specifications depending on structural integrity post-incident.\n\nCoastal weathering accelerates deterioration of frames and seals, meaning windows and doors in storm-damaged properties often show pre-existing salt spray damage that complicates boarding-up installation. Listed buildings across the seafront require compliance with conservation protocols even for emergency works, necessitating boarding solutions that preserve original frames and can be removed without trace once permanent repairs are arranged.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Can you board up Victorian sash windows after a break-in without damaging the original frames?",
-      "a": "Yes. Our team uses temporary boarding techniques that protect the period joinery common in Bishopstone and West End terraces, ensuring your Victorian frames aren't harmed while we secure the property. We can arrange permanent repairs with a specialist glazier once the immediate emergency is contained."
-    },
-    {
-      "q": "How quickly can you respond to storm damage boarding in Herne Bay during winter?",
-      "a": "We offer same-day emergency callouts across Herne Bay, including Mickleburgh Hill and Oxenden. Winter coastal storms frequently damage sash windows and door frames due to salt spray corrosion, so we prioritise rapid boarding to prevent water ingress and further deterioration."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Herne Bay | Victorian & Period Homes",
-  "lock-changes.meta.description": "Professional lock changes in Herne Bay for moved homes, lost keys & security upgrades. Fast service for period properties & modern semis across Sunningdale Green & beyond.",
-  "lock-changes.hero-paragraph": "Lock changes in Herne Bay from our experienced locksmith team combine the expertise of professional locksmithing with modern security standards. Whether you're moving home, experiencing lost keys, or upgrading your property's security, we fit high-specification locks including BS3621 mortice and TS007 anti-snap cylinders. Our work meets current UK security benchmarks.",
-  "lock-changes.local-context-body": "Lock changes in Herne Bay reflect the town's mixed residential character. Properties in Hampton—predominantly Edwardian villas and semi-detached homes—often retain original mortice locks that may need replacing during ownership transitions. Similarly, interwar semis across Hillborough frequently require lock upgrades as part of moving-in security measures, though period-appropriate specification helps preserve period joinery and character features.\n\nCoastal exposure creates practical constraints for lock changes in Herne Bay. Salt spray corrosion means replacement locks must be specified to resist weathering, particularly on seafront properties and exposed elevations. Older sash-windowed properties—common across the town's Victorian and Edwardian stock—may have listed-building considerations that govern lock type and installation method, requiring locksmiths to verify planning status before proceeding.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Greenhill with original mortice locks. Can you change them without damaging the period joinery?",
-      "a": "Yes—our locksmiths specialise in period-appropriate lock changes for Herne Bay's Victorian and Edwardian properties. We'll replace your mortice locks while preserving the original woodwork and character of your home."
-    },
-    {
-      "q": "We own an interwar semi in Broomfield and the locks are corroded from coastal salt spray. How quickly can you fit new ones?",
-      "a": "We offer same-day lock changes for weather-damaged mechanisms across Herne Bay's interwar stock. Call 01227 689272 to book—winter corrosion is common here, and we keep emergency slots available."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Herne Bay | Victorian & Edwardian Specialists",
-  "lock-repairs.meta.description": "Expert lock repairs in Herne Bay for Victorian mortice locks, multipoint & uPVC mechanisms. Serving Oxenden, Mickleburgh Hill & surrounding areas. 24/7 emergency callouts.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Herne Bay by our experienced locksmith specialists in locksmithing. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair all mechanisms. We handle mortice maintenance and multipoint servicing with precision, restoring your locks to full working order backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Herne Bay's Victorian terraces in Bishopstone retain original mortice locks that frequently require specialist repair rather than replacement. These heritage mechanisms suffer wear over decades, and their restoration demands knowledge of period-appropriate techniques to preserve both function and character. Interwar semis across Broomfield present different challenges: their multipoint systems and night latches need regular servicing to cope with coastal conditions without unnecessary disturbance to original joinery.\n\nSalt spray from the seafront accelerates lock degradation across all property types, causing seized gearboxes and corroded components that spike emergency callouts during winter months. Repair work on period properties must balance functional restoration with conservation sensitivity; removing and rebuilding failed locks on sash-windowed terraces requires care to avoid damage to surrounding woodwork.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terrace in Bishopstone has a stiff mortice lock – is it worth repairing rather than replacing?",
-      "a": "Yes. Victorian mortice locks are often repairable and restoring them preserves the character of period joinery. We specialise in cleaning, lubricating and adjusting original mechanisms to avoid damage to your doors and frames."
-    },
-    {
-      "q": "Why do my multipoint locks seize up more in winter, and can you fix them?",
-      "a": "Coastal salt spray accelerates corrosion, especially during winter months. We can repair seized multipoint locks by removing rust, lubricating components and adjusting alignment – often restoring full function without replacement."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Herne Bay – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Herne Bay. BS3621 mortice locks and TS007 anti-snap cylinders for Victorian terraces, interwar semis and modern homes. Expert fitting.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Herne Bay from our experienced locksmith team specialises in locksmithing solutions tailored to your property. Whether you require new fittings for added security, upgrades to meet insurance requirements, or installation of BS3621 mortice locks and TS007 anti-snap cylinders, our technicians deliver reliable, compliant work. We ensure your doors are fitted with mechanisms meeting current security standards.",
-  "door-lock-installation.local-context-body": "Herne Bay's interwar semis in Wentworth Park and comparable stock across town frequently require lock installation that respects original joinery and aesthetic. New BS3621 mortice locks and TS007 anti-snap cylinders must be fitted without damaging period frames or door construction, balancing security modernisation with conservation of the built fabric typical of this era.\n\nCoastal salt spray accelerates lock corrosion in Herne Bay, making material selection critical during installation. Stainless steel and corrosion-resistant finishes extend hardware lifespan significantly compared to standard options, particularly on West End seafront properties where salt exposure is constant. Winter weather also drives seasonal demand for lock upgrades before seasonal storms and temperature fluctuations stress vulnerable mechanisms.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "My Victorian seafront terrace in Bishopstone has original mortice locks – can you fit new ones without damaging the joinery?",
-      "a": "Yes – we specialise in period-appropriate lock installations on original Victorian and Edwardian stock. We'll fit BS3621 mortice locks that match your existing hardware style while meeting modern security standards, without unnecessary damage to your period woodwork."
-    },
-    {
-      "q": "Why do my interwar semi-detached locks seize up so often in winter?",
-      "a": "Herne Bay's coastal salt spray accelerates lock corrosion, especially in winter months. We recommend fitting TS007 anti-snap cylinders with corrosion-resistant materials; this upgrade protects your interwar semi's original joinery while preventing seasonal seizures and emergency callouts."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Herne Bay | Victorian & Period Homes",
-  "door-lock-replacement.meta.description": "Door lock replacement in Herne Bay, including Victorian & Edwardian properties. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Herne Bay from our trusted locksmiths combines expert locksmithing with reliable solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we fit BS3621-approved replacements and anti-snap upgrades to strengthen your security. Our like-for-like cylinder swaps ensure minimal disruption to your property.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Herne Bay addresses wear across a diverse housing stock. Hillborough's interwar semis and the Victorian seafront terraces in Bishopstone frequently require like-for-like swaps when original mortice locks fail, while newer detached homes in Hunter's Forstal demand modern cylinder upgrades. Coastal salt spray accelerates degradation; winter months see demand spike as seized mechanisms leave properties vulnerable.\n\nPeriod joinery demands careful consideration during replacement work. Many terraced and semi-detached properties feature traditional wooden frames where new locks must be fitted without damaging original architraves or architrave surrounds. Coastal corrosion means replacement hardware benefits from stainless-steel or marine-grade materials to resist the salt-laden environment and extend service intervals beyond standard lock lifespans.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terraced house in West End with an original mortice lock that's stuck. Can you replace it without damaging the period joinery?",
-      "a": "Yes—our specialists are experienced in replacing mortice locks in Herne Bay's Victorian and Edwardian seafront properties. We can supply period-appropriate locks that match your original hardware while ensuring secure modern operation, and we take care to protect traditional door frames and surrounding woodwork during the swap."
-    },
-    {
-      "q": "My interwar semi in Wentworth Park has a corroded lock from salt spray. Is it better to replace it now or wait?",
-      "a": "We'd recommend replacing it soon. Coastal salt spray accelerates lock degradation across Herne Bay, and a seized or failing lock often worsens quickly—especially in winter. A timely replacement prevents emergency callouts and protects your security."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Herne Bay | Victorian & Period Doors",
-  "door-repairs.meta.description": "Door repairs in Herne Bay including misaligned doors, hardware fixes and period-appropriate solutions for Victorian and Edwardian properties.",
-  "door-repairs.hero-paragraph": "Door repairs in Herne Bay from our experienced locksmith team combine skilled locksmithing with precision work. Whether your door has dropped, won't close properly, or draughts have become an issue, we handle uPVC, composite and timber doors with equal expertise. Our technicians use hinge adjustment and frame alignment to restore your door to full working order.",
-  "door-repairs.local-context-body": "Herne Bay's housing stock—from Victorian seafront semis in West End to interwar villas across Wentworth Park—presents distinct door alignment challenges. Older properties experience settlement and timber movement that causes frames to drop and doors to bind, while newer detached homes in The Fairways may suffer hardware wear from coastal exposure. Each property type requires tailored assessment of frame condition and hinge adjustment before replacement becomes necessary.\n\nCoastal salt spray significantly accelerates corrosion of door hardware, hinges and strike plates, making winter months particularly demanding for repair work. Many period properties feature traditional wooden frames that expand and contract with humidity and temperature fluctuations, compounding alignment issues. Specialists must account for listed-building restrictions in seafront areas and the prevalence of original mortice locks and period joinery that cannot tolerate aggressive intervention.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Victorian terraces like those in Bishopstone need specialist repair?",
-      "a": "Victorian joinery is often warped by salt spray and humidity from our coastal location, causing doors to drop or misalign. Our locksmiths specialise in sympathetic repairs that preserve original frames and period hardware without damage."
-    },
-    {
-      "q": "My interwar semi in Hillborough has a swollen door that won't close—is this common?",
-      "a": "Yes; interwar semis across Herne Bay absorb moisture from coastal air, causing timber doors to swell seasonally. We can plane, hang, and adjust your door while keeping traditional joinery intact."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Herne Bay",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Herne Bay. Expert fixes for espagnolette & shootbolt locks on period sash windows & modern frames. Coastal salt spray specialist.",
-  "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Herne Bay requires skilled locksmithing to restore security and functionality. Our technicians specialise in espagnolette mechanisms and shootbolt locks, addressing common issues like broken handles and failed mechanisms. All work meets insurance-compliant fitting standards, ensuring your windows operate safely and securely.",
-  "window-lock-repair-replacement.local-context-body": "Sash windows are prevalent across Herne Bay's Victorian and Edwardian housing stock, particularly in Greenhill's period terraces, where original espagnolette and shootbolt locks remain common. These traditional mechanisms often require specialist repair rather than replacement to preserve period joinery and aesthetic character. Interwar semis in Broomfield, meanwhile, typically feature simpler window furniture that benefits from straightforward lock replacement when corrosion or mechanical failure occurs.\n\nCoastal salt spray significantly accelerates degradation of window lock hardware throughout Herne Bay, with espagnolette rods and shootbolts particularly vulnerable to seizing during winter months. Many period properties fall under conservation area restrictions or listed-building status, meaning replacement locks must match original profiles and materials—a constraint absent in post-war housing. Accurate assessment of lock type and condition is therefore essential before any repair or replacement work proceeds.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do window locks fail so quickly in Herne Bay?",
-      "a": "Herne Bay's coastal location means salt spray corrodes espagnolette and shootbolt mechanisms faster than inland areas. We regularly repair seized or stiff window locks caused by this weathering, especially in winter months when callouts peak."
-    },
-    {
-      "q": "Can you repair original sash window locks in Victorian properties without damaging the joinery?",
-      "a": "Yes—our specialists regularly restore period shootbolt and mortice locks in West End's Victorian seafront terraces and similar properties. We use sympathetic repair techniques to avoid damaging original frames and glazing bars."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Herne Bay – Fast Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation in Herne Bay for period homes. Secure anchoring, insurance compliance, wall and floor safes.",
-  "safe-installation.hero-paragraph": "Professional safe installation in Herne Bay by our experienced locksmith team combines expert locksmithing with secure positioning methods. Whether you're purchasing a new safe or require insurance approval, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians assess each installation individually, guaranteeing your valuables meet the highest security specifications.",
-  "safe-installation.local-context-body": "Herne Bay's mix of Victorian terraces in Greenhill and interwar semis across Broomfield creates distinct safe installation challenges. Terraced properties often feature solid period joinery and load-bearing walls suitable for floor or wall-mounted safes, while the semis typically have cavity walls requiring specialist anchoring techniques to ensure proper fixing without compromising structural integrity.\n\nCoastal salt spray accelerates corrosion of safe hinges, locking mechanisms and external fixings throughout the town. Installation work must account for increased maintenance intervals and specify marine-grade hardware or protective coatings to prevent seized locks and degraded seals—particularly critical for safes exposed to moisture in seafront properties or those with poor ventilation in older housing stock.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do safes need specialist anchoring in Herne Bay's Victorian and Edwardian properties?",
-      "a": "Period properties in areas like Bishopstone feature original timber joinery and varied wall construction that requires careful assessment before safe installation. We use heritage-appropriate anchoring methods to ensure your safe is secure without compromising the structural integrity or character of your home."
-    },
-    {
-      "q": "Can you install a safe in my interwar semi in Oxenden without damaging the original brickwork?",
-      "a": "Yes—our technicians specialise in safe fitting for interwar properties and use precision drilling and sympathetic installation techniques to minimise damage. We'll also provide full insurance documentation once your safe is securely anchored and tested."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Herne Bay | Period Properties & Safes",
-  "safe-opening.meta.description": "Safe opening in Herne Bay – non-destructive access for lost keys, combinations & lockouts. Serving Hampton, Hillborough & across town.",
-  "safe-opening.hero-paragraph": "Our Herne Bay locksmith team specialises in safe opening using expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we manipulate dials and locks with precision to regain access without damage. Fast, reliable service for domestic and commercial safes across the area.",
-  "safe-opening.local-context-body": "Properties across Broomfield's interwar semis and Bishopstone's Victorian terraces often contain older domestic safes—frequently wall-mounted or floor models installed decades ago. Owners of these period homes regularly lose combinations or keys to safes that remain functional but inaccessible, particularly when properties change hands or documentation goes missing.\n\nCoastal salt spray in Herne Bay accelerates corrosion of safe mechanisms and hinges, complicating non-destructive opening work. Winter months see increased callouts as moisture ingress and oxidation seize internal components; technicians must account for degraded lock pins and corroded tumblers when attempting dial manipulation or key-blank fitting without damage to the safe body itself.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've inherited a Victorian terrace in Greenhill with an old safe—the previous owner lost the combination. Can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties. Our technicians use specialist manipulation and electronic detection methods to restore access to heritage safes without harming the joinery or fabric of your Victorian home."
-    },
-    {
-      "q": "My interwar semi in Eddington has a built-in safe with a seized lock from coastal salt spray. Do you offer emergency callouts?",
-      "a": "Absolutely. Coastal corrosion is common across Herne Bay, especially in winter, and we offer emergency safe-opening services. We'll open it non-destructively and can advise on protective measures to prevent future degradation."
-    }
-  ],
-  "home.areas-covered": [
-    "Beltinge",
-    "Bishopstone",
-    "Broomfield",
-    "Eddington",
-    "Greenhill",
-    "Hampton",
-    "Hillborough",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "Oxenden",
-    "Pinefields",
-    "Studd Hill",
-    "Sunningdale Green",
-    "Talmead",
-    "The Fairways",
-    "Wentworth Park",
-    "West End"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Sunningdale Green",
-    "Mickleburgh Hill",
-    "The Fairways",
-    "Hunter's Forstal",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "locked-out.areas-covered": [
-    "Studd Hill",
-    "West End",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "Wentworth Park",
-    "Greenhill",
-    "Broomfield"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Oxenden",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Talmead",
-    "Pinefields",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Bishopstone",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "lock-changes.areas-covered": [
-    "Wentworth Park",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Greenhill",
-    "Studd Hill",
-    "Broomfield"
-  ],
-  "lock-repairs.areas-covered": [
-    "Hillborough",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Broomfield",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Beltinge",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "door-repairs.areas-covered": [
-    "Hampton",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Greenhill",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Studd Hill",
-    "Broomfield"
-  ],
-  "safe-installation.areas-covered": [
-    "Hunter's Forstal",
-    "The Fairways",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill",
-    "Broomfield"
-  ],
-  "safe-opening.areas-covered": [
-    "Eddington",
-    "The Fairways",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "West End",
-    "Wentworth Park",
-    "Greenhill",
-    "Studd Hill"
-  ]
+ "meta.title": "Locksmith Herne Bay | Local Locksmithing Service 24/7",
+ "meta.description": "Locksmith services in Herne Bay covering Victorian terraces, interwar semis & modern homes. Emergency repairs, lock upgrades, coastal corrosion specialists.",
+ "home.hero-paragraph": "Herne Bay locksmiths providing expert locksmithing services and locksmith help are on call for emergency lockouts, lock changes and security upgrades. Our DBS-checked technicians arrive quickly with non-destructive entry methods. Available 24/7 with no call-out fee, we're fully insured and committed to getting you back inside fast.",
+ "home.local-context-heading": "Herne Bay's Period Properties Need Specialist Care",
+ "home.local-context-body": "Herne Bay's housing stock spans Victorian terraces through to post-war semis in areas like Sunningdale Green, each presenting distinct lock requirements. Original mortice locks in period properties need specialist care to avoid joinery damage, while interwar semis benefit from sympathetic upgrades that respect their character. Coastal salt spray accelerates corrosion across all eras, making regular maintenance essential and winter inspections advisable.\n\nLandlords renting HMO properties should verify that locks meet current safety standards, particularly for shared entrances and individual rooms. Many period properties feature traditional wooden frames and original hardware that can be damaged by force or unsuitable modern fittings. A locksmith familiar with Herne Bay's heritage stock can advise on compliant solutions that preserve both the building's integrity and tenant security.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian terrace in Bishopstone has original mortice locks\u2014can you restore them without damaging the woodwork?",
+   "a": "Yes. Our locksmiths specialise in period-appropriate restoration of Victorian and Edwardian mortice locks, using sympathetic techniques that preserve your original joinery. We can upgrade security while maintaining the character of your seafront property."
+  },
+  {
+   "q": "Why do my locks seize up more often in winter, and what can I do about it?",
+   "a": "Coastal salt spray accelerates corrosion and lock degradation, especially during winter months. We recommend preventative maintenance\u2014regular lubrication and inspection\u2014and can supply marine-grade hardware designed to resist weathering in Herne Bay's seaside environment."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Herne Bay | 24/7 Victorian Lock Experts",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Herne Bay. Locked out or key snapped? Fast response for interwar semis, Victorian terraces & coastal lock seizures. Call now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith team in Herne Bay specialises in locksmithing and rapid response to lockouts and snapped keys. Operating 24/7, we deploy DBS-checked technicians who employ non-destructive entry methods to minimise damage to your property. Whether you're locked out of your home or business, we're available round the clock to restore access quickly and professionally.",
+ "emergency-locksmith.local-context-body": "Herne Bay's interwar semis, particularly in Wentworth Park, frequently present emergency lockout situations where period joinery around locks has swollen due to coastal moisture, trapping mechanisms mid-turn. Victorian and Edwardian terraces in the seafront areas compound this issue, as original mortice locks can jam unexpectedly after years of salt-air exposure. Emergency callouts spike during winter months when weather accelerates corrosion and mechanical failure.\n\nCoastal salt spray represents the dominant factor in emergency lock degradation across the town. Seized mechanisms and frozen cylinders require rapid response without forcing damage to heritage woodwork\u2014a particular constraint in properties with listed-building status. Winter weather patterns drive a concentrated surge in emergency demand, making 24-hour availability essential for properties where traditional locks have degraded beyond user operation.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "My Victorian sash window lock has seized in Bishopstone \u2013 can you help in an emergency?",
+   "a": "Yes. Coastal salt spray accelerates lock corrosion, and our locksmiths specialise in freeing seized mortice locks on period properties without forcing the mechanism and damaging original joinery. We're available 24/7 and can attend within the hour."
+  },
+  {
+   "q": "I'm locked out of my interwar semi in Wentworth Park \u2013 will you damage the door frame?",
+   "a": "No. We use non-destructive entry techniques suited to period joinery and frames common across Herne Bay's interwar stock. If your lock is beyond repair, we'll upgrade it sensitively to match your home's character while restoring full security."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Herne Bay | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Herne Bay? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, semis & modern homes. Call 01227 689272.",
+ "locked-out.hero-paragraph": "When you're locked out in Herne Bay, our experienced locksmiths specialise in swift locksmithing solutions tailored to your situation. Whether you've lost your keys, left them inside, or snapped them in the lock, we gain entry using non-destructive techniques that protect your door from damage. Our technicians arrive promptly to get you back inside.",
+ "locked-out.local-context-body": "Locked-out situations in Herne Bay are shaped by the town's mixed housing stock. Victorian terraces in Greenhill and Edwardian villas in Hampton often feature original mortice locks and sash-window catches that require careful, non-destructive access techniques. Interwar semis across town present different challenges, where period joinery and traditional mechanisms demand specialist handling to avoid damage during entry.\n\nCoastal weathering compounds lockout difficulties here. Salt spray corrosion frequently seizes mechanisms, particularly in winter months, making standard entry tools less effective and extending callout times. Properties with original hardwood doors\u2014common across the town's period stock\u2014also require adapted techniques to prevent splintering or marking during non-destructive entry.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terraced home in Bishopstone \u2013 will non-destructive entry damage my original mortice lock?",
+   "a": "No. Our non-destructive techniques are designed specifically for period properties like yours; we can open Victorian mortice locks without forcing or damaging the mechanism, preserving both security and character."
+  },
+  {
+   "q": "My key snapped in the lock of my interwar semi in Broomfield \u2013 how quickly can you get me in?",
+   "a": "We typically attend lockouts in Herne Bay within 30\u201360 minutes. We'll extract the broken key and gain entry non-destructively, then advise on rekeying or repair to avoid future damage to your period joinery."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Herne Bay | Victorian Lock Specialists",
+ "broken-key-removal.meta.description": "Broken key removal in Herne Bay \u2013 rapid extraction from euro cylinders, mortice locks & night latches. Serving Sunningdale Green & across town. Non-destructive, 24/7.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Herne Bay requires a skilled locksmith experienced in locksmithing techniques to extract snapped or sheared keys safely from your lock. Our technicians use specialist key extractor tools and broken-key probes to retrieve the fragment without damaging your door or lock mechanism. Whether your key is stuck in a mortice lock or euro cylinder, we employ non-destructive methods to restore access quickly.",
+ "broken-key-removal.local-context-body": "Broken key extraction is a frequent callout across Herne Bay's period properties, particularly in Greenhill's Victorian terraces where original mortice locks remain in daily use. The interwar semis of Broomfield present a different challenge: their standard rim cylinders and night latches experience regular key failure due to coastal salt spray accelerating metal fatigue, making prompt removal essential to avoid lock damage during extraction.\n\nHerne Bay's seafront exposure means corrosion deposits build up inside cylinders and mortice mechanisms, complicating key removal work. Winter months see the highest volume of callouts as seized locks and frozen tumblers cause keys to snap under pressure. Extraction must account for corroded pin positions and brittle key fragments\u2014rushed techniques risk cylinder scarring that leaves locks inoperable or impossible to rekey.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do broken keys happen so often in Herne Bay's Victorian properties?",
+   "a": "Herne Bay's Victorian and Edwardian seafront terraces in Bishopstone feature original mortice locks that can become brittle and corroded by coastal salt spray, making keys more prone to snapping inside the cylinder. Our broken key removal service is equipped to extract keys from these heritage locks without damaging the period joinery."
+  },
+  {
+   "q": "Can you remove a broken key from my interwar semi's night latch?",
+   "a": "Yes\u2014many of Broomfield's interwar semis use night latches that are common breakage points for older, weathered keys. We specialise in key extraction from night latches, euro cylinders and mortice locks, and can often supply a replacement key fitted to your existing lock on the same visit."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Herne Bay | Emergency Lock Repair",
+ "burglar-repair-service.meta.description": "Burglar repair service in Herne Bay. Post-break-in lock changes, door repairs and security upgrades for Victorian terraces and interwar semis. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair services in Herne Bay from our experienced locksmiths combine practical locksmithing expertise with security upgrades. Following forced entry or damage, we install TS007 anti-snap cylinders and BS3621 mortice locks to restore insurance-compliant protection. Door reinforcement strengthens vulnerable frames, ensuring your home meets current security standards.",
+ "burglar-repair-service.local-context-body": "Break-ins across Herne Bay's period properties create distinct repair challenges. Victorian terraces in Greenhill and Edwardian semis in Hampton typically feature original mortice locks and traditional joinery that demand specialist reinstatement rather than crude replacement. Post-break-in repairs must preserve period character while restoring full security, making insurance-compliant reinstatement a technical priority for these heritage-rich properties.\n\nCoastal salt spray accelerates corrosion of replacement hardware, meaning locks installed after a break-in require specification for marine-grade materials to withstand Herne Bay's weathering conditions. Many terraced and semi-detached properties also feature sash windows and solid timber frames vulnerable to forced entry; repair work must account for wood type and original construction methods to avoid further deterioration during remedial fitting.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my Victorian terrace in Bishopstone, can you repair the original mortice lock without damaging the period joinery?",
+   "a": "Yes\u2014we specialise in restoring Victorian and Edwardian mortice locks on Herne Bay's period seafront properties. We'll reinstate your lock to insurance standard while preserving the original frame and detailing."
+  },
+  {
+   "q": "I live in an interwar semi in Hillborough and the break-in damaged both the lock and door frame. Do you handle full reinstatement for insurance claims?",
+   "a": "Absolutely. We repair both lock mechanisms and door frames on interwar semis to insurable condition, with photographic documentation for your claim\u2014and we work quickly to secure your property the same day."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Herne Bay | Victorian Terraces",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Herne Bay - same-day secure boarding for Victorian terraces, seafront properties and period homes after break-ins or storms.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Herne Bay from our experienced locksmiths combines skilled locksmithing with rapid response to secure your property. Whether you're dealing with smashed windows, broken glazing, or damaged doors, we install robust plywood boards and security screws to create a weatherproof temporary seal. Our 24/7 service meets insurance-compliant standards, ensuring your home or business remains protected until permanent repairs are completed.",
+ "emergency-boarding-up.local-context-body": "Storm damage and break-ins demand rapid boarding-up response across Herne Bay's mixed housing. Terraced properties in Bishopstone and Edwardian villas elsewhere feature original sash windows and period joinery that require careful temporary protection to avoid further damage during securing. Interwar semis in Oxenden, with their varied glazing and door frames, present different boarding specifications depending on structural integrity post-incident.\n\nCoastal weathering accelerates deterioration of frames and seals, meaning windows and doors in storm-damaged properties often show pre-existing salt spray damage that complicates boarding-up installation. Listed buildings across the seafront require compliance with conservation protocols even for emergency works, necessitating boarding solutions that preserve original frames and can be removed without trace once permanent repairs are arranged.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Can you board up Victorian sash windows after a break-in without damaging the original frames?",
+   "a": "Yes. Our team uses temporary boarding techniques that protect the period joinery common in Bishopstone and West End terraces, ensuring your Victorian frames aren't harmed while we secure the property. We can arrange permanent repairs with a specialist glazier once the immediate emergency is contained."
+  },
+  {
+   "q": "How quickly can you respond to storm damage boarding in Herne Bay during winter?",
+   "a": "We offer same-day emergency callouts across Herne Bay, including Mickleburgh Hill and Oxenden. Winter coastal storms frequently damage sash windows and door frames due to salt spray corrosion, so we prioritise rapid boarding to prevent water ingress and further deterioration."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Herne Bay | Victorian & Period Homes",
+ "lock-changes.meta.description": "Professional lock changes in Herne Bay for moved homes, lost keys & security upgrades. Fast service for period properties & modern semis across Sunningdale Green & beyond.",
+ "lock-changes.hero-paragraph": "Lock changes in Herne Bay from our experienced locksmith team combine the expertise of professional locksmithing with modern security standards. Whether you're moving home, experiencing lost keys, or upgrading your property's security, we fit high-specification locks including BS3621 mortice and TS007 anti-snap cylinders. Our work meets current UK security benchmarks.",
+ "lock-changes.local-context-body": "Lock changes in Herne Bay reflect the town's mixed residential character. Properties in Hampton\u2014predominantly Edwardian villas and semi-detached homes\u2014often retain original mortice locks that may need replacing during ownership transitions. Similarly, interwar semis across Hillborough frequently require lock upgrades as part of moving-in security measures, though period-appropriate specification helps preserve period joinery and character features.\n\nCoastal exposure creates practical constraints for lock changes in Herne Bay. Salt spray corrosion means replacement locks must be specified to resist weathering, particularly on seafront properties and exposed elevations. Older sash-windowed properties\u2014common across the town's Victorian and Edwardian stock\u2014may have listed-building considerations that govern lock type and installation method, requiring locksmiths to verify planning status before proceeding.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Greenhill with original mortice locks. Can you change them without damaging the period joinery?",
+   "a": "Yes\u2014our locksmiths specialise in period-appropriate lock changes for Herne Bay's Victorian and Edwardian properties. We'll replace your mortice locks while preserving the original woodwork and character of your home."
+  },
+  {
+   "q": "We own an interwar semi in Broomfield and the locks are corroded from coastal salt spray. How quickly can you fit new ones?",
+   "a": "We offer same-day lock changes for weather-damaged mechanisms across Herne Bay's interwar stock. Call 01227 689272 to book\u2014winter corrosion is common here, and we keep emergency slots available."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Herne Bay | Victorian & Edwardian Specialists",
+ "lock-repairs.meta.description": "Expert lock repairs in Herne Bay for Victorian mortice locks, multipoint & uPVC mechanisms. Serving Oxenden, Mickleburgh Hill & surrounding areas. 24/7 emergency callouts.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Herne Bay by our experienced locksmith specialists in locksmithing. Whether your lock is stiff, jammed, or the key won't turn, our technicians diagnose and repair all mechanisms. We handle mortice maintenance and multipoint servicing with precision, restoring your locks to full working order backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Herne Bay's Victorian terraces in Bishopstone retain original mortice locks that frequently require specialist repair rather than replacement. These heritage mechanisms suffer wear over decades, and their restoration demands knowledge of period-appropriate techniques to preserve both function and character. Interwar semis across Broomfield present different challenges: their multipoint systems and night latches need regular servicing to cope with coastal conditions without unnecessary disturbance to original joinery.\n\nSalt spray from the seafront accelerates lock degradation across all property types, causing seized gearboxes and corroded components that spike emergency callouts during winter months. Repair work on period properties must balance functional restoration with conservation sensitivity; removing and rebuilding failed locks on sash-windowed terraces requires care to avoid damage to surrounding woodwork.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terrace in Bishopstone has a stiff mortice lock \u2013 is it worth repairing rather than replacing?",
+   "a": "Yes. Victorian mortice locks are often repairable and restoring them preserves the character of period joinery. We specialise in cleaning, lubricating and adjusting original mechanisms to avoid damage to your doors and frames."
+  },
+  {
+   "q": "Why do my multipoint locks seize up more in winter, and can you fix them?",
+   "a": "Coastal salt spray accelerates corrosion, especially during winter months. We can repair seized multipoint locks by removing rust, lubricating components and adjusting alignment \u2013 often restoring full function without replacement."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Herne Bay \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Herne Bay. BS3621 mortice locks and TS007 anti-snap cylinders for Victorian terraces, interwar semis and modern homes. Expert fitting.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Herne Bay from our experienced locksmith team specialises in locksmithing solutions tailored to your property. Whether you require new fittings for added security, upgrades to meet insurance requirements, or installation of BS3621 mortice locks and TS007 anti-snap cylinders, our technicians deliver reliable, compliant work. We ensure your doors are fitted with mechanisms meeting current security standards.",
+ "door-lock-installation.local-context-body": "Herne Bay's interwar semis in Wentworth Park and comparable stock across town frequently require lock installation that respects original joinery and aesthetic. New BS3621 mortice locks and TS007 anti-snap cylinders must be fitted without damaging period frames or door construction, balancing security modernisation with conservation of the built fabric typical of this era.\n\nCoastal salt spray accelerates lock corrosion in Herne Bay, making material selection critical during installation. Stainless steel and corrosion-resistant finishes extend hardware lifespan significantly compared to standard options, particularly on West End seafront properties where salt exposure is constant. Winter weather also drives seasonal demand for lock upgrades before seasonal storms and temperature fluctuations stress vulnerable mechanisms.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "My Victorian seafront terrace in Bishopstone has original mortice locks \u2013 can you fit new ones without damaging the joinery?",
+   "a": "Yes \u2013 we specialise in period-appropriate lock installations on original Victorian and Edwardian stock. We'll fit BS3621 mortice locks that match your existing hardware style while meeting modern security standards, without unnecessary damage to your period woodwork."
+  },
+  {
+   "q": "Why do my interwar semi-detached locks seize up so often in winter?",
+   "a": "Herne Bay's coastal salt spray accelerates lock corrosion, especially in winter months. We recommend fitting TS007 anti-snap cylinders with corrosion-resistant materials; this upgrade protects your interwar semi's original joinery while preventing seasonal seizures and emergency callouts."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Herne Bay | Victorian & Period Homes",
+ "door-lock-replacement.meta.description": "Door lock replacement in Herne Bay, including Victorian & Edwardian properties. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Herne Bay from our trusted locksmiths combines expert locksmithing with reliable solutions. Whether you've experienced a failed lock, lost keys, or are moving home, we fit BS3621-approved replacements and anti-snap upgrades to strengthen your security. Our like-for-like cylinder swaps ensure minimal disruption to your property.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Herne Bay addresses wear across a diverse housing stock. Hillborough's interwar semis and the Victorian seafront terraces in Bishopstone frequently require like-for-like swaps when original mortice locks fail, while newer detached homes in Hunter's Forstal demand modern cylinder upgrades. Coastal salt spray accelerates degradation; winter months see demand spike as seized mechanisms leave properties vulnerable.\n\nPeriod joinery demands careful consideration during replacement work. Many terraced and semi-detached properties feature traditional wooden frames where new locks must be fitted without damaging original architraves or architrave surrounds. Coastal corrosion means replacement hardware benefits from stainless-steel or marine-grade materials to resist the salt-laden environment and extend service intervals beyond standard lock lifespans.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terraced house in West End with an original mortice lock that's stuck. Can you replace it without damaging the period joinery?",
+   "a": "Yes\u2014our specialists are experienced in replacing mortice locks in Herne Bay's Victorian and Edwardian seafront properties. We can supply period-appropriate locks that match your original hardware while ensuring secure modern operation, and we take care to protect traditional door frames and surrounding woodwork during the swap."
+  },
+  {
+   "q": "My interwar semi in Wentworth Park has a corroded lock from salt spray. Is it better to replace it now or wait?",
+   "a": "We'd recommend replacing it soon. Coastal salt spray accelerates lock degradation across Herne Bay, and a seized or failing lock often worsens quickly\u2014especially in winter. A timely replacement prevents emergency callouts and protects your security."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Herne Bay | Victorian & Period Doors",
+ "door-repairs.meta.description": "Door repairs in Herne Bay including misaligned doors, hardware fixes and period-appropriate solutions for Victorian and Edwardian properties.",
+ "door-repairs.hero-paragraph": "Door repairs in Herne Bay from our experienced locksmith team combine skilled locksmithing with precision work. Whether your door has dropped, won't close properly, or draughts have become an issue, we handle uPVC, composite and timber doors with equal expertise. Our technicians use hinge adjustment and frame alignment to restore your door to full working order.",
+ "door-repairs.local-context-body": "Herne Bay's housing stock\u2014from Victorian seafront semis in West End to interwar villas across Wentworth Park\u2014presents distinct door alignment challenges. Older properties experience settlement and timber movement that causes frames to drop and doors to bind, while newer detached homes in The Fairways may suffer hardware wear from coastal exposure. Each property type requires tailored assessment of frame condition and hinge adjustment before replacement becomes necessary.\n\nCoastal salt spray significantly accelerates corrosion of door hardware, hinges and strike plates, making winter months particularly demanding for repair work. Many period properties feature traditional wooden frames that expand and contract with humidity and temperature fluctuations, compounding alignment issues. Specialists must account for listed-building restrictions in seafront areas and the prevalence of original mortice locks and period joinery that cannot tolerate aggressive intervention.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Victorian terraces like those in Bishopstone need specialist repair?",
+   "a": "Victorian joinery is often warped by salt spray and humidity from our coastal location, causing doors to drop or misalign. Our locksmiths specialise in sympathetic repairs that preserve original frames and period hardware without damage."
+  },
+  {
+   "q": "My interwar semi in Hillborough has a swollen door that won't close\u2014is this common?",
+   "a": "Yes; interwar semis across Herne Bay absorb moisture from coastal air, causing timber doors to swell seasonally. We can plane, hang, and adjust your door while keeping traditional joinery intact."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Herne Bay",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Herne Bay. Expert fixes for espagnolette & shootbolt locks on period sash windows & modern frames. Coastal salt spray specialist.",
+ "window-lock-repair-replacement.hero-paragraph": "Expert window lock repair and replacement in Herne Bay requires skilled locksmithing to restore security and functionality. Our technicians specialise in espagnolette mechanisms and shootbolt locks, addressing common issues like broken handles and failed mechanisms. All work meets insurance-compliant fitting standards, ensuring your windows operate safely and securely.",
+ "window-lock-repair-replacement.local-context-body": "Sash windows are prevalent across Herne Bay's Victorian and Edwardian housing stock, particularly in Greenhill's period terraces, where original espagnolette and shootbolt locks remain common. These traditional mechanisms often require specialist repair rather than replacement to preserve period joinery and aesthetic character. Interwar semis in Broomfield, meanwhile, typically feature simpler window furniture that benefits from straightforward lock replacement when corrosion or mechanical failure occurs.\n\nCoastal salt spray significantly accelerates degradation of window lock hardware throughout Herne Bay, with espagnolette rods and shootbolts particularly vulnerable to seizing during winter months. Many period properties fall under conservation area restrictions or listed-building status, meaning replacement locks must match original profiles and materials\u2014a constraint absent in post-war housing. Accurate assessment of lock type and condition is therefore essential before any repair or replacement work proceeds.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do window locks fail so quickly in Herne Bay?",
+   "a": "Herne Bay's coastal location means salt spray corrodes espagnolette and shootbolt mechanisms faster than inland areas. We regularly repair seized or stiff window locks caused by this weathering, especially in winter months when callouts peak."
+  },
+  {
+   "q": "Can you repair original sash window locks in Victorian properties without damaging the joinery?",
+   "a": "Yes\u2014our specialists regularly restore period shootbolt and mortice locks in West End's Victorian seafront terraces and similar properties. We use sympathetic repair techniques to avoid damaging original frames and glazing bars."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Herne Bay \u2013 Fast Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation in Herne Bay for period homes. Secure anchoring, insurance compliance, wall and floor safes.",
+ "safe-installation.hero-paragraph": "Professional safe installation in Herne Bay by our experienced locksmith team combines expert locksmithing with secure positioning methods. Whether you're purchasing a new safe or require insurance approval, we ensure proper floor anchoring and wall mounting to AiS approved standards. Our technicians assess each installation individually, guaranteeing your valuables meet the highest security specifications.",
+ "safe-installation.local-context-body": "Herne Bay's mix of Victorian terraces in Greenhill and interwar semis across Broomfield creates distinct safe installation challenges. Terraced properties often feature solid period joinery and load-bearing walls suitable for floor or wall-mounted safes, while the semis typically have cavity walls requiring specialist anchoring techniques to ensure proper fixing without compromising structural integrity.\n\nCoastal salt spray accelerates corrosion of safe hinges, locking mechanisms and external fixings throughout the town. Installation work must account for increased maintenance intervals and specify marine-grade hardware or protective coatings to prevent seized locks and degraded seals\u2014particularly critical for safes exposed to moisture in seafront properties or those with poor ventilation in older housing stock.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do safes need specialist anchoring in Herne Bay's Victorian and Edwardian properties?",
+   "a": "Period properties in areas like Bishopstone feature original timber joinery and varied wall construction that requires careful assessment before safe installation. We use heritage-appropriate anchoring methods to ensure your safe is secure without compromising the structural integrity or character of your home."
+  },
+  {
+   "q": "Can you install a safe in my interwar semi in Oxenden without damaging the original brickwork?",
+   "a": "Yes\u2014our technicians specialise in safe fitting for interwar properties and use precision drilling and sympathetic installation techniques to minimise damage. We'll also provide full insurance documentation once your safe is securely anchored and tested."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Herne Bay | Period Properties & Safes",
+ "safe-opening.meta.description": "Safe opening in Herne Bay \u2013 non-destructive access for lost keys, combinations & lockouts. Serving Hampton, Hillborough & across town.",
+ "safe-opening.hero-paragraph": "Our Herne Bay locksmith team specialises in safe opening using expert locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we manipulate dials and locks with precision to regain access without damage. Fast, reliable service for domestic and commercial safes across the area.",
+ "safe-opening.local-context-body": "Properties across Broomfield's interwar semis and Bishopstone's Victorian terraces often contain older domestic safes\u2014frequently wall-mounted or floor models installed decades ago. Owners of these period homes regularly lose combinations or keys to safes that remain functional but inaccessible, particularly when properties change hands or documentation goes missing.\n\nCoastal salt spray in Herne Bay accelerates corrosion of safe mechanisms and hinges, complicating non-destructive opening work. Winter months see increased callouts as moisture ingress and oxidation seize internal components; technicians must account for degraded lock pins and corroded tumblers when attempting dial manipulation or key-blank fitting without damage to the safe body itself.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've inherited a Victorian terrace in Greenhill with an old safe\u2014the previous owner lost the combination. Can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties. Our technicians use specialist manipulation and electronic detection methods to restore access to heritage safes without harming the joinery or fabric of your Victorian home."
+  },
+  {
+   "q": "My interwar semi in Eddington has a built-in safe with a seized lock from coastal salt spray. Do you offer emergency callouts?",
+   "a": "Absolutely. Coastal corrosion is common across Herne Bay, especially in winter, and we offer emergency safe-opening services. We'll open it non-destructively and can advise on protective measures to prevent future degradation."
+  }
+ ],
+ "home.areas-covered": [
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Mickleburgh Hill",
+  "Oxenden",
+  "Studd Hill"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "locked-out.areas-covered": [
+  "Studd Hill",
+  "Mickleburgh Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Oxenden",
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Mickleburgh Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden",
+  "Studd Hill"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Bishopstone",
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "lock-changes.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "lock-repairs.areas-covered": [
+  "Hillborough",
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Oxenden"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Beltinge",
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "door-repairs.areas-covered": [
+  "Hampton",
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "safe-installation.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ],
+ "safe-opening.areas-covered": [
+  "Mickleburgh Hill",
+  "Studd Hill",
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Oxenden"
+ ]
 }

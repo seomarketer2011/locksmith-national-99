@@ -1,201 +1,191 @@
 {
-  "location": "Herne Bay",
-  "neighborhoods": [
-    {
-      "name": "Beltinge",
-      "era": "Edwardian",
-      "types": [
-        "villa",
-        "semi-detached"
-      ],
-      "notes": "seafront residential, period properties"
-    },
-    {
-      "name": "Bishopstone",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Broomfield",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Eddington",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Greenhill",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "town centre fringe, mixed commercial"
-    },
-    {
-      "name": "Hampton",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    },
-    {
-      "name": "Hillborough",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Hunter's Forstal",
-      "era": "modern",
-      "types": [
-        "detached",
-        "new-build"
-      ]
-    },
-    {
-      "name": "Mickleburgh Hill",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Oxenden",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Pinefields",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential suburban"
-    },
-    {
-      "name": "Studd Hill",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Sunningdale Green",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Talmead",
-      "era": "modern",
-      "types": [
-        "detached",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "The Fairways",
-      "era": "modern",
-      "types": [
-        "detached",
-        "new-build"
-      ]
-    },
-    {
-      "name": "Wentworth Park",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    },
-    {
-      "name": "West End",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "seafront area"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "detached",
-      "villa"
-    ],
-    "era": "mixed Victorian, Edwardian and interwar with post-war infill",
-    "notable": "Significant period stock with sash windows and traditional locks. Coastal location drives corrosion and weathering of hardware."
+ "location": "Herne Bay",
+ "neighborhoods": [
+  {
+   "name": "Beltinge",
+   "era": "Edwardian",
+   "types": [
+    "villa",
+    "semi-detached"
+   ],
+   "notes": "seafront residential, period properties"
   },
-  "locksmith_relevant": [
-    "Victorian and Edwardian seafront terraces in Bishopstone and West End feature original mortice locks requiring specialist restoration.",
-    "High proportion of interwar semis across town need period-appropriate lock upgrades without damaging joinery.",
-    "Coastal salt spray accelerates lock degradation; emergency callouts spike in winter months for seized mechanisms."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Herne%20Bay",
-    "overpass": "OSM Overpass bbox query, 17 named areas",
-    "coords": {
-      "lat": 51.3719507,
-      "lon": 1.1306951
-    }
+  {
+   "name": "Bishopstone",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
   },
-  "generated_at": "2026-05-13T18:13:08.043Z",
-  "all_areas": [
-    "Beltinge",
-    "Bishopstone",
-    "Broomfield",
-    "Eddington",
-    "Greenhill",
-    "Hampton",
-    "Hillborough",
-    "Hunter's Forstal",
-    "Mickleburgh Hill",
-    "Oxenden",
-    "Pinefields",
-    "Studd Hill",
-    "Sunningdale Green",
-    "Talmead",
-    "The Fairways",
-    "Wentworth Park",
-    "West End"
-  ],
-  "geo": {
-    "latitude": 51.3719507,
-    "longitude": 1.1306951
+  {
+   "name": "Broomfield",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "postcode_districts": [
-    "CT6"
-  ],
-  "postcode_meta": {
-    "CT6": {
-      "count": 17,
-      "sample": "CT6 8LS",
-      "admin": "Canterbury",
-      "via": "constituency=herne bay and sandwich"
-    }
+  {
+   "name": "Eddington",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Greenhill",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "town centre fringe, mixed commercial"
+  },
+  {
+   "name": "Hampton",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
+  },
+  {
+   "name": "Hillborough",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Hunter's Forstal",
+   "era": "modern",
+   "types": [
+    "detached",
+    "new-build"
+   ]
+  },
+  {
+   "name": "Mickleburgh Hill",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Oxenden",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Pinefields",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential suburban"
+  },
+  {
+   "name": "Studd Hill",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Sunningdale Green",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Talmead",
+   "era": "modern",
+   "types": [
+    "detached",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "The Fairways",
+   "era": "modern",
+   "types": [
+    "detached",
+    "new-build"
+   ]
+  },
+  {
+   "name": "Wentworth Park",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
+  },
+  {
+   "name": "West End",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "seafront area"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "detached",
+   "villa"
+  ],
+  "era": "mixed Victorian, Edwardian and interwar with post-war infill",
+  "notable": "Significant period stock with sash windows and traditional locks. Coastal location drives corrosion and weathering of hardware."
+ },
+ "locksmith_relevant": [
+  "Victorian and Edwardian seafront terraces in Bishopstone and West End feature original mortice locks requiring specialist restoration.",
+  "High proportion of interwar semis across town need period-appropriate lock upgrades without damaging joinery.",
+  "Coastal salt spray accelerates lock degradation; emergency callouts spike in winter months for seized mechanisms."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Herne%20Bay",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Herne Bay, 7 named areas",
+  "coords": {
+   "lat": 51.3719507,
+   "lon": 1.1306951
+  }
+ },
+ "generated_at": "2026-05-13T18:13:08.043Z",
+ "all_areas": [
+  "Beltinge",
+  "Bishopstone",
+  "Hampton",
+  "Hillborough",
+  "Mickleburgh Hill",
+  "Oxenden",
+  "Studd Hill"
+ ],
+ "geo": {
+  "latitude": 51.3719507,
+  "longitude": 1.1306951
+ },
+ "postcode_districts": [
+  "CT6"
+ ],
+ "postcode_meta": {
+  "CT6": {
+   "count": 17,
+   "sample": "CT6 8LS",
+   "admin": "Canterbury",
+   "via": "constituency=herne bay and sandwich"
+  }
+ }
 }

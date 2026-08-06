@@ -1,419 +1,392 @@
 {
-  "meta.title": "Locksmith Liverpool | Local Locksmithing Service 24/7",
-  "meta.description": "Locksmith services in Liverpool: emergency call-outs, lock repairs, and rekeying for Victorian terraces, council estates, and modern homes.",
-  "home.hero-paragraph": "Liverpool locksmith services deliver expert locksmithing help for residential and commercial lock services. We specialise in emergency lockouts, lock changes, and lock repairs. All call-outs are available 24/7, with fully insured, DBS-checked engineers using non-destructive entry methods. No call-out fee applies.",
-  "home.local-context-heading": "Locksmith Work Across Victorian and Modern Liverpool",
-  "home.local-context-body": "Liverpool's housing stock spans Victorian terraces in Kirkdale through to post-war council estates in Croxteth and Fazakerley. Older period properties often need specialist attention—worn sash-window catches, period lock mechanisms, and corroded hardware are frequent issues. Estate properties typically require standardised lock replacements and rekeying as tenancies change. The age and variety of local housing means lock maintenance and upgrades are routine across most residential areas.\n\nConservation areas and listed properties in the Georgian Quarter demand sympathetic repair work that preserves original fittings. Student HMO properties in Kensington and Edge Hill cycle through frequent rekeying due to turnover. Modern uPVC doors on renovated terraces need different cylinder and mechanism compatibility than older timber frames, so identifying the correct lock type during a call-out matters for both cost and fit.",
-  "home.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Anfield and Kirkdale need specialist lock attention?",
-      "a": "Victorian properties across these areas commonly suffer worn period locks and sash-window catches due to age and heavy use. We specialise in sympathetic repair and replacement that maintains the character of these homes while restoring security and function."
-    },
-    {
-      "q": "Do you handle rekeying for student HMO properties in Kensington and Edge Hill?",
-      "a": "Yes—we regularly service student lettings and multi-occupancy homes requiring frequent rekeying between tenancies. Our bulk rekeying service ensures quick turnaround and consistent security standards across multiple properties."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Liverpool – 24/7 Fast Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Liverpool serving Victorian terraces and period properties. Locked out? Key snapped? Fast response, non-destructive entry available now.",
-  "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Liverpool combines expert locksmithing with rapid response to get you back inside. Whether you're locked out, dealing with a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques. We specialise in resolving lockouts and extracting broken keys with minimal damage to your property.",
-  "emergency-locksmith.local-context-body": "Victorian terraces across Anfield and Kirkdale frequently present emergency lockout situations due to worn period mechanisms and sash-window catches that jam or fail. Older sash locks and mortice locks in these properties can become unpredictable, particularly in damp conditions common to pre-1945 stock, creating urgent call-outs for tenants and owner-occupiers locked out of their homes.\n\nListed buildings in the Georgian Quarter and conservation areas require locksmiths to work within strict sympathetic repair protocols. Original hardware must be preserved where possible, which means emergency callouts often involve temporary securing measures rather than replacement, followed by scheduled repairs that comply with planning and conservation requirements.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Anfield and need help now—how quickly can you arrive?",
-      "a": "We operate 24/7 emergency call-outs across Liverpool, including Victorian terraces throughout Anfield, Kirkdale, and Everton. Our mobile locksmiths are positioned to reach most locations within 30 minutes of your call to 0151 701 1001."
-    },
-    {
-      "q": "My sash-window catch is broken on my Edwardian semi in Mossley Hill and the door won't secure properly. Is this an emergency you handle?",
-      "a": "Yes—broken sash catches and faulty locks that compromise security are exactly what our emergency service covers, especially in period properties like those in Mossley Hill. We can attend the same day and restore your home's security without unnecessary damage to original fittings."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Liverpool – Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Liverpool? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, council estates & flats. Call now.",
-  "locked-out.hero-paragraph": "When you're locked out in Liverpool, our experienced locksmiths specialise in locksmithing solutions that get you back inside quickly. Whether you've snapped a key, lost your keys entirely, or had your door slam shut, we use non-destructive entry techniques to regain access without damage to your property. Fast, professional help available across Liverpool.",
-  "locked-out.local-context-body": "Lockout situations in Liverpool frequently involve period properties across Kensington and similar Victorian terraces, where sash windows and multi-point locks present distinct access challenges. Properties in the Georgian Quarter and conservation areas require additional care to avoid damage to original joinery and hardware during non-destructive entry, making knowledge of period lock mechanisms essential.\n\nCouncil estates built in the post-war decades often feature standardised cylinder locks that respond well to non-destructive techniques, whereas older listed properties may require specialist approaches that preserve intact original frames and catches. Door materials vary significantly across the city—from solid timber in Victorian stock to composite and uPVC in modern replacements—each demanding different entry protocols to minimise damage.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Anfield – how quickly can you get me back in without damaging the original sash-window catches?",
-      "a": "We specialise in non-destructive entry for period properties across Liverpool's Victorian terraces. Our locksmiths use sympathetic techniques to avoid damage to original hardware, and we're typically on-site within 30–45 minutes in Anfield and surrounding areas."
-    },
-    {
-      "q": "My keys are locked inside my listed property in the Georgian Quarter – will forced entry affect conservation requirements?",
-      "a": "No. We prioritise non-destructive entry methods for conservation-area properties, including those in the Georgian Quarter, ensuring your listed building remains compliant and undamaged while we regain access."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Liverpool – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key stuck in your lock? Lockfix offers professional removal from euro cylinders, mortice locks & night latches across Liverpool's Victorian terraces & modern estates. 24/7.",
-  "broken-key-removal.hero-paragraph": "Broken key removal is a specialist service offered by our Liverpool locksmith team, combining expert locksmithing techniques with precision equipment. When keys snap or shear inside mortice locks or euro cylinders, our technicians employ non-destructive methods using advanced key extractor tools to safely retrieve fragments without damaging your lock mechanism.",
-  "broken-key-removal.local-context-body": "Broken key extraction in Liverpool centres on the city's substantial stock of Victorian and Edwardian properties, particularly the terraced homes across Edge Hill and similar inner-ring residential areas. Older period locks—common in these properties—are prone to key breakage due to wear, corrosion, and metal fatigue accumulated over decades. Student HMO turnover in Edge Hill amplifies demand for rapid key removal and lock assessment when tenants experience breakage during changeover periods.\n\nListed buildings and conservation-area properties in the Georgian Quarter and Cavern Quarter require extraction work to be carried out with care to avoid damage to original hardware and door frames. Many Victorian terraces feature mortice locks and night latches that, while robust, can trap broken key fragments deeply within the cylinder, necessitating non-destructive removal techniques to preserve the mechanism for subsequent repair or sympathetic replacement.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Anfield and Kirkdale suffer broken keys so often?",
-      "a": "Period sash windows and original mortice locks in Victorian properties experience wear that causes keys to snap under normal pressure. We specialise in extracting broken keys from these traditional locks without damaging the mechanism, keeping your period home secure."
-    },
-    {
-      "q": "Can you remove a snapped key from a euro cylinder in a converted warehouse flat in Baltic Triangle?",
-      "a": "Yes—modern euro cylinders in loft conversions sometimes trap broken keys due to wear or manufacturing tolerance shifts. We extract the fragment safely and can supply a replacement key, minimising disruption to your regenerated property."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Liverpool – Fast Same-Day Fix",
-  "burglar-repair-service.meta.description": "Burglar repair service in Liverpool including Anfield. Post-break-in lock changes, door repairs & security upgrades. Insurance-compliant, fast response.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair in Liverpool requires a skilled locksmith with expertise in locksmithing to restore your security after forced entry. Our technicians specialise in repairing damaged doors and installing TS007 anti-snap cylinders to meet insurance requirements. We fit BS3621 mortice locks as standard, ensuring your property is properly protected and compliant with security standards.",
-  "burglar-repair-service.local-context-body": "Post-break-in repairs across Liverpool's older properties present specific challenges tied to the city's housing stock. Victorian and Edwardian terraces in areas like Garston retain original timber frames and period joinery that demand careful reinstatement after forced entry. Council estates including Huyton feature standardised door and lock configurations, allowing faster replacement protocols but requiring exact-match specification to maintain estate consistency and insurance compliance.\n\nListed-building status in conservation areas complicates lock and door repair work, as replacements must match original materials and hardware styles rather than permit modern plastic or aluminium alternatives. Many older properties also feature sash windows with original catches and bolts that sustain damage during break-ins; reinstatement to pre-incident condition is essential for insurance claim validation, particularly in properties subject to planning restrictions.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "How quickly can you attend a break-in repair in Victorian terraces like those in Everton?",
-      "a": "We prioritise emergency call-outs and typically attend break-ins in Everton and similar Victorian terrace areas within 1–2 hours, especially for insurance-quality reinstatement of period locks and sash-window catches that are common in these properties."
-    },
-    {
-      "q": "Can you handle burglary repairs to listed properties in the Georgian Quarter?",
-      "a": "Yes—we specialise in sympathetic lock repairs and door reinstatement for listed and conservation-area properties in the Georgian Quarter, ensuring replacement hardware matches original fittings and meets conservation standards while restoring full security."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Liverpool – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Liverpool for Victorian terraces, semi-detached homes & listed properties. Same-day response after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Liverpool from our experienced locksmith team combines expert locksmithing with rapid response. Whether you're facing smashed windows or damaged doors, we secure your property using sturdy plywood boards and security screws. Our 24/7 service ensures your premises remain protected whilst permanent repairs are arranged, with all work meeting insurance-compliant standards.",
-  "emergency-boarding-up.local-context-body": "Break-ins and weather damage across Liverpool's older residential areas create consistent demand for rapid boarding up. Kirkdale's Victorian terraces frequently require emergency boarding following forced-entry incidents, while properties in Fazakerley's post-war council estates present straightforward access points where standardised door and window frames allow faster securing. The density of period properties means most call-outs involve securing sash windows or original timber-frame doors rather than modern composite materials.\n\nListed properties in conservation areas and the Georgian Quarter require boarding solutions that avoid permanent damage to original joinery and stonework. Many of Liverpool's Victorian and Edwardian properties feature multi-paned sash windows and recessed doorways that demand careful measurement and fitting to preserve structural integrity. Materials and methods must satisfy conservation officer requirements before permanent repairs proceed, adding a compliance layer to emergency work that standard modern housing does not present.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up listed properties in the Georgian Quarter without damaging original woodwork?",
-      "a": "Yes. Our emergency boarding uses sympathetic methods that protect period frames and glazing bars typical of Georgian Quarter properties, ensuring temporary security while preserving heritage features for proper repair."
-    },
-    {
-      "q": "How quickly can you board up a Victorian terrace in Anfield after a break-in?",
-      "a": "We typically arrive within 1–2 hours for emergency calls across Liverpool. Victorian terraces with sash windows need careful boarding to avoid frame damage, and we carry materials suited to period joinery."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Liverpool | Same-Day Service Available",
-  "lock-changes.meta.description": "Lock changes in Liverpool for moved homes, lost keys & security upgrades. Expert service for Victorian terraces, Edwardian properties & modern doors.",
-  "lock-changes.hero-paragraph": "Lock changes in Liverpool require a qualified locksmith with expertise in professional locksmithing. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we install modern cylinders and mechanisms to BS3621 standards. Our technicians fit TS007 anti-snap cylinders and multipoint systems designed to protect your property effectively.",
-  "lock-changes.local-context-body": "Lock changes in Liverpool reflect the city's mixed housing stock. Edwardian properties in Childwall and Victorian terraces across inner suburbs frequently require lock replacement after purchase, particularly where original hardware has worn or keys have been lost. Semi-detached homes in interwar suburbs and post-war council estates in Croxteth also generate steady demand for lock upgrades when tenants change or security improvements are planned.\n\nListed buildings in conservation areas present specific constraints for lock changes work. Georgian Quarter and Cavern Quarter properties often require sympathetic replacement that preserves original door furniture and architectural character, limiting material and finish options. Council estates typically have standardised lock profiles across multiple properties, which can simplify bulk changeovers but requires exact specification matching to avoid compatibility issues with existing door frames.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in Anfield—do I need to replace all the locks?",
-      "a": "We'd recommend replacing at least the front and back door locks for security, especially if you don't have keys from the previous owner. Many Victorian terraces across Anfield use older period mechanisms that can wear quickly; we'll assess whether existing locks are still secure or need full replacement."
-    },
-    {
-      "q": "My listed property in the Georgian Quarter needs new locks—will you preserve the original hardware?",
-      "a": "Yes, we specialise in sympathetic lock changes for conservation-area properties. We can fit modern, secure mechanisms while keeping original door furniture and hardware intact, ensuring your listed building remains compliant with local conservation requirements."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Liverpool – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Liverpool for Victorian terraces, multipoint locks & mortice locks. 24/7 emergency service. Call 0151 701 1001.",
-  "lock-repairs.hero-paragraph": "Lock repairs through our Liverpool locksmith firm combine years of locksmithing expertise with practical solutions for your door security. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn smoothly, our technicians diagnose and fix the problem efficiently. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably and come backed by manufacturer warranty.",
-  "lock-repairs.local-context-body": "Georgian Quarter and Cavern Quarter properties frequently require sympathetic mortice and night latch repairs that preserve original hardware and comply with conservation area restrictions. Victorian terraces in Mossley Hill and across the city's older stock present repeated gearbox failures and worn multipoint mechanisms, particularly where original locks have endured over a century of use. These period properties demand repair approaches that maintain aesthetic integrity while restoring security function.\n\nListed-building consent requirements in conservation areas add procedural steps to repair work, as replacement components must match period specifications. Council estates in post-war developments often feature standardised lock types across multiple units, making bulk repair and maintenance cycles predictable but requiring familiarity with estate-standard mechanisms. Sash-window catches and period-appropriate night latches across Liverpool's pre-1945 housing stock present specialist repair demands beyond standard commercial locks.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace locks in Kirkdale fail so often?",
-      "a": "Victorian mortice locks and night latches in Kirkdale's older terraces wear out due to age and heavy use over 100+ years. We specialise in repairing worn gearboxes and internal mechanisms without replacing the original hardware, which is essential in these period properties."
-    },
-    {
-      "q": "Can you repair council estate locks on properties like those in Croxteth?",
-      "a": "Yes—Croxteth's post-war estates often use standardised multipoint locks that we repair regularly. We can fix common gearbox and latch failures quickly, minimising downtime on these high-turnover properties."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Liverpool – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Liverpool. BS3621 mortice locks, anti-snap cylinders, multipoint replacements. Georgian Quarter listed properties and Victorian terraces.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation from our Liverpool locksmith team combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new locks to meet insurance requirements, or installing BS3621 mortice locks, our technicians deliver reliable solutions tailored to your property's needs.",
-  "door-lock-installation.local-context-body": "Victorian terraces across Anfield and Kirkdale frequently require new lock installations that balance security upgrades with period-appropriate aesthetics. Semi-detached properties in Edge Hill, where high student lettings create rapid tenant turnover, commonly need BS3621 mortice locks and TS007 anti-snap cylinders fitted to meet landlord insurance and letting standards.\n\nListed properties in conservation areas demand sympathetic installation practice; original door furniture and architraves must be preserved during fitting, and some installations require planning consent or conservation officer approval before proceeding. Council estates across the city typically benefit from standardised multipoint lock replacements, where bulk fitting programmes offer efficiency gains but require coordinated access and consistent specification across multiple units.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "We're installing new locks on our Victorian terrace in Everton – what type of lock do you recommend?",
-      "a": "For Victorian terraces, we typically fit BS3621 mortice locks that work well with period timber frames, and can upgrade to TS007 anti-snap cylinders for modern security without compromising the original character of your home."
-    },
-    {
-      "q": "Our Kensington student property needs new locks after tenant turnover – what's the best solution?",
-      "a": "We install durable multipoint locks across Kensington HMOs, which reduce rekeying costs between tenants and provide consistent security across multiple units on the same estate."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Liverpool – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Liverpool. Victorian terraces & council estates. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Liverpool requires a skilled locksmith trained in modern locksmithing techniques. Whether you've experienced a failed lock, lost keys, or are moving home, our locksmiths provide like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. We ensure your new lock meets current security requirements for lasting protection.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Liverpool addresses wear across the city's mixed housing ages. Fazakerley's post-war council estates frequently require standardised lock swaps on original 1950s–70s doors, while Victorian terraces in Kirkdale demand compatible period-appropriate replacements that match existing hardware and door construction. Semi-detached properties across the city often need straightforward like-for-like changeovers when mortice locks fail or become insecure.\n\nListed properties in conservation areas and Georgian Quarter buildings require lock replacements that preserve original aesthetic and material integrity, ruling out modern modifications to door frames or hardware surrounds. Older terraced stock typically uses traditional five-lever mortice locks or rim locks; replacement work must account for worn or irregular apertures in aged timber doors. HMO properties in student areas often cycle through multiple tenancies, making quick, cost-effective lock changes routine maintenance rather than emergency repair.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "My Victorian terrace in Kirkdale has a worn period lock – can you replace it without damaging the original hardware?",
-      "a": "Yes. We specialise in sympathetic lock replacement on period properties across Liverpool's older residential stock. We'll assess whether repair or like-for-like replacement best preserves your original fittings while restoring security."
-    },
-    {
-      "q": "We manage a council estate in Fazakerley – can you handle bulk door lock replacements across multiple properties?",
-      "a": "Absolutely. We regularly undertake standardised lock replacement programmes on post-war estates. Contact us on 0151 701 1001 to discuss estate-wide rekeying or bulk upgrades."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Liverpool – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Liverpool: uPVC alignment, composite realignment & timber easing. Victorian terraces & council estates covered.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Liverpool from experienced locksmiths specialising in locksmithing techniques. Whether your door has dropped, won't close properly, or is catching on the frame, we diagnose and resolve the issue. Our technicians handle hinge adjustment and frame alignment across uPVC, composite and timber doors, restoring smooth operation and security.",
-  "door-repairs.local-context-body": "Liverpool's dense Victorian terrace housing, particularly in Anfield, creates persistent demand for door repairs due to settlement and warping in older timber frames. Dropped doors, misaligned hinges, and weather-worn hardware are common across the city's pre-1945 stock, where original door sets have absorbed over a century of use and structural movement.\n\nListed properties in conservation areas such as the Georgian Quarter require repairs that preserve period-appropriate hardware and finishes. Work on these properties often involves careful assessment of original mechanisms and sympathetic restoration rather than wholesale replacement, reflecting both conservation guidelines and the value of maintaining authentic architectural features.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Anfield and Kirkdale need door repairs so often?",
-      "a": "Victorian properties across these neighbourhoods have original timber frames and sash mechanisms that settle and warp over time, causing doors to drop or misalign. Our team specialises in adjusting period doors without forcing modern solutions that damage historic fabric."
-    },
-    {
-      "q": "Can you repair doors in listed buildings in the Georgian Quarter?",
-      "a": "Yes—we understand conservation area restrictions and work carefully to repair original hardware and misaligned doors while preserving their character. We can advise on sympathetic adjustments that keep your property compliant with planning requirements."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Liverpool – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Liverpool. Expert fixes for espagnolette, shootbolt locks on Victorian terraces, uPVC & aluminium windows.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Liverpool locksmiths specialise in window lock repair and replacement using expert locksmithing techniques tailored to your home's security needs. Whether you're dealing with windows that won't lock or broken handles, we restore espagnolette mechanisms and shootbolt locks to full working order. All fitting meets insurance-compliance standards, ensuring your property remains properly protected.",
-  "window-lock-repair-replacement.local-context-body": "Sash windows remain prevalent across Liverpool's Victorian and Edwardian housing stock, particularly in neighborhoods like Kirkdale where period terraces dominate residential areas. Window lock failure on these older properties is common; espagnolette and shootbolt locks wear under decades of use, and replacement often requires matching original hardware specifications or sourcing period-appropriate alternatives to maintain authenticity.\n\nListed properties in conservation areas and the Georgian Quarter present additional complexity for window lock repair work. Local planning considerations frequently require locks to be replaced with sympathetic designs that preserve original window character, meaning standard modern fittings may not be acceptable. Technicians must often source specialist period hardware and understand the constraints of listed-building consent before proceeding.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Anfield and Kirkdale need specialist espagnolette lock repair?",
-      "a": "Victorian terraces across these areas often have original sash-window catches that wear unevenly due to age and heavy use; our locksmiths are trained to repair or replace these period locks while preserving the authentic hardware that's expected in these heritage properties."
-    },
-    {
-      "q": "Can you repair listed window locks in the Georgian Quarter without affecting conservation requirements?",
-      "a": "Yes—the Georgian Quarter's conservation status means replacement locks must match original styles; we specialise in sympathetic repairs and period-appropriate shootbolt and espagnolette replacements that satisfy both security and heritage standards."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Liverpool – Fast Same-Day Service",
-  "safe-installation.meta.description": "Professional safe installation Liverpool. Wall, floor & freestanding safes for Victorian terraces. Secure anchoring, insurance compliance.",
-  "safe-installation.hero-paragraph": "Professional safe installation from Liverpool's trusted locksmith experts combines modern locksmithing with proven security practices. Whether you need a new safe secured for insurance approval or require expert wall mounting and floor anchoring, our technicians ensure AiS-approved positioning that maximises protection against leverage attacks. We work to Eurograde standards, guaranteeing your valuables meet the highest cash rating requirements.",
-  "safe-installation.local-context-body": "Safe installation in Liverpool addresses security needs across a varied housing stock. Victorian terraces in Garston and converted warehouse flats in the Baltic Triangle represent two distinct installation contexts: terraces often feature solid brick walls suitable for wall-safe anchoring, whilst loft conversions in regenerated industrial buildings typically require floor or freestanding safes due to structural constraints and listed-building considerations affecting wall penetration.\n\nLiverpool's concentration of pre-1945 properties means many safe installations must navigate listed-building consent requirements, particularly in conservation areas where visible fixings or wall modifications face restrictions. Solid-brick Victorian construction generally accommodates wall anchoring without difficulty, but properties with cavity walls—common in interwar semis—require alternative floor or freestanding approaches. Insurance documentation for safe anchoring specifications remains essential across all property types for claim validity.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian terraces, and will you anchor them properly for insurance purposes?",
-      "a": "Yes—Victorian terraces across Anfield, Kirkdale, and Everton are common installations for us. We ensure all safes are anchored to solid masonry or floor joists and provide full insurance documentation so your policy remains valid."
-    },
-    {
-      "q": "Can you install safes in listed properties in the Georgian Quarter without damaging original features?",
-      "a": "Absolutely. We specialise in sympathetic installations in conservation areas and listed properties, using discreet fixings and positioning that preserves period character while meeting insurance anchoring requirements."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Liverpool | Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Liverpool for lost keys, combinations & lockouts. Non-destructive methods for Victorian terraces, period properties & modern safes.",
-  "safe-opening.hero-paragraph": "Our Liverpool locksmiths specialise in safe opening through expert locksmithing techniques designed to resolve your access issues. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access safely. Our technicians prioritise preserving your safe's integrity throughout every job.",
-  "safe-opening.local-context-body": "Liverpool's council estates and Victorian properties frequently house older safes installed decades ago, often without accessible documentation. Residents in Everton and across the city's terrace stock encounter lost combinations or misplaced keys, particularly in properties passed down through families or rented long-term. Safe opening for lockouts addresses a genuine need in housing stock where safes predate modern digital records.\n\nListed properties in conservation areas present particular constraints for safe opening work. Original fixtures cannot be forcibly removed or altered, requiring non-destructive techniques that preserve period-appropriate hardware. Older safes themselves—common in pre-1970s residential properties—often demand specialist knowledge of mechanical locking mechanisms rather than electronic overrides, adding time and expertise to jobs across the city.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm locked out of a Victorian safe in my Anfield terraced house – can you open it without damaging the original woodwork?",
-      "a": "Yes, we specialise in non-destructive safe opening and understand the importance of preserving period features in Victorian properties across Liverpool. We'll use specialist tools to manipulate the lock mechanism rather than drill or force, protecting your home's character."
-    },
-    {
-      "q": "Our council estate property in Croxteth has a standard-issue safe with a lost combination – what's the quickest solution?",
-      "a": "We can open council-standard safes non-destructively by manipulating the lock or decoding the dial, usually within the hour. If the combination is truly irrecoverable, we'll advise whether the lock can be reset or professionally replaced without unnecessary damage."
-    }
-  ],
-  "home.areas-covered": [
-    "Aigburth",
-    "Allerton",
-    "Anfield",
-    "Bakers Green",
-    "Baltic Triangle",
-    "Belle Vale",
-    "Bowring Park",
-    "Broad Green",
-    "Bromborough Pool",
-    "Cabbage Hall",
-    "Canning / Georgian Quarter",
-    "Cavern Quarter",
-    "Childwall",
-    "Chinatown",
-    "City Centre",
-    "Clock Tower Park",
-    "Clubmoor",
-    "Cressington",
-    "Croxteth",
-    "Deysbrook",
-    "Dingle",
-    "Dovecot",
-    "Eastham Village",
-    "Edge Hill",
-    "Elm Park",
-    "Everton",
-    "Fairfield",
-    "Fazakerley",
-    "Fincham",
-    "Garston",
-    "Gateacre",
-    "Gillmoss",
-    "Grassendale",
-    "Halewood Green",
-    "Hartley's Village",
-    "Heathfield",
-    "Hunts Cross",
-    "Huyton Farm",
-    "Huyton Quarry",
-    "Islington",
-    "Kensington",
-    "Kirkdale",
-    "Knotty Ash",
-    "Knowledge Quarter",
-    "Knowsley",
-    "Lower Bebington",
-    "Lower Tranmere",
-    "Mosscroft",
-    "Mossley Hill",
-    "Netherley",
-    "Norris Green",
-    "Oak Hill Park",
-    "Old Swan",
-    "Olive Mount",
-    "Orrell Park",
-    "Page Moss",
-    "Pluckington",
-    "Port Sunlight",
-    "Poulton",
-    "Pride Quarter",
-    "Raby Mere",
-    "Roby",
-    "Rock Ferry",
-    "Ropewalks",
-    "Sandfield Park",
-    "Sandown Park",
-    "Seaforth",
-    "South Tranmere",
-    "Speke",
-    "Spital",
-    "St George's Quarter / Cultural Quarter",
-    "Stanley",
-    "Stanton",
-    "Stockbridge Village",
-    "Stoneycroft",
-    "Swanside",
-    "Toxteth",
-    "Tuebrook",
-    "Vauxhall",
-    "Victoria Park",
-    "Walton",
-    "Waterfront",
-    "Wavertree",
-    "Wavertree Green",
-    "West Derby",
-    "Woodhey",
-    "Woolfall",
-    "Woolton"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Poulton",
-    "Norris Green",
-    "Knotty Ash",
-    "Allerton",
-    "Eastham Village",
-    "Seaforth",
-    "West Derby",
-    "Georgian Quarter"
-  ],
-  "locked-out.areas-covered": [
-    "Hunts Cross",
-    "Anfield",
-    "Islington",
-    "Cavern Quarter",
-    "Kirkdale",
-    "Everton",
-    "Sandown Park",
-    "Georgian Quarter"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Wavertree Green",
-    "Walton",
-    "Gateacre",
-    "Tuebrook",
-    "Stoneycroft",
-    "Port Sunlight",
-    "Croxteth",
-    "Georgian Quarter"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Speke",
-    "Stanton",
-    "Cressington",
-    "Old Swan",
-    "Hartley's Village",
-    "Fazakerley",
-    "Huyton Quarry",
-    "Georgian Quarter"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Bromborough Pool",
-    "Deysbrook",
-    "Roby",
-    "Bowring Park",
-    "Grassendale",
-    "Gillmoss",
-    "Spital",
-    "Georgian Quarter"
-  ],
-  "lock-changes.areas-covered": [
-    "Belle Vale",
-    "Stanley",
-    "Stockbridge Village",
-    "Victoria Park",
-    "Fincham",
-    "Swanside",
-    "Halewood Green",
-    "Georgian Quarter"
-  ],
-  "lock-repairs.areas-covered": [
-    "Oak Hill Park",
-    "Orrell Park",
-    "Vauxhall",
-    "Dingle",
-    "Childwall",
-    "Woodhey",
-    "Rock Ferry",
-    "Georgian Quarter"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Mossley Hill",
-    "Aigburth",
-    "Canning / Georgian Quarter",
-    "Wavertree",
-    "Mosscroft",
-    "Cabbage Hall",
-    "Woolfall",
-    "Georgian Quarter"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Raby Mere",
-    "Sandfield Park",
-    "St George's Quarter / Cultural Quarter",
-    "Lower Tranmere",
-    "Clubmoor",
-    "Pluckington",
-    "Page Moss",
-    "Georgian Quarter"
-  ],
-  "door-repairs.areas-covered": [
-    "Ropewalks",
-    "Clock Tower Park",
-    "Lower Bebington",
-    "Kensington",
-    "Woolton",
-    "Waterfront",
-    "Olive Mount",
-    "Georgian Quarter"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Edge Hill",
-    "Bakers Green",
-    "South Tranmere",
-    "Huyton Farm",
-    "Elm Park",
-    "Garston",
-    "Georgian Quarter",
-    "Huyton"
-  ],
-  "safe-installation.areas-covered": [
-    "Knowsley",
-    "Netherley",
-    "Chinatown",
-    "Toxteth",
-    "Dovecot",
-    "Broad Green",
-    "Georgian Quarter",
-    "Huyton"
-  ],
-  "safe-opening.areas-covered": [
-    "Pride Quarter",
-    "City Centre",
-    "Heathfield",
-    "Knowledge Quarter",
-    "Fairfield",
-    "Baltic Triangle",
-    "Georgian Quarter",
-    "Huyton"
-  ]
+ "meta.title": "Locksmith Liverpool | Local Locksmithing Service 24/7",
+ "meta.description": "Locksmith services in Liverpool: emergency call-outs, lock repairs, and rekeying for Victorian terraces, council estates, and modern homes.",
+ "home.hero-paragraph": "Liverpool locksmith services deliver expert locksmithing help for residential and commercial lock services. We specialise in emergency lockouts, lock changes, and lock repairs. All call-outs are available 24/7, with fully insured, DBS-checked engineers using non-destructive entry methods. No call-out fee applies.",
+ "home.local-context-heading": "Locksmith Work Across Victorian and Modern Liverpool",
+ "home.local-context-body": "Liverpool's housing stock spans Victorian terraces in Kirkdale through to post-war council estates in Croxteth and Fazakerley. Older period properties often need specialist attention\u2014worn sash-window catches, period lock mechanisms, and corroded hardware are frequent issues. Estate properties typically require standardised lock replacements and rekeying as tenancies change. The age and variety of local housing means lock maintenance and upgrades are routine across most residential areas.\n\nConservation areas and listed properties in the Georgian Quarter demand sympathetic repair work that preserves original fittings. Student HMO properties in Kensington and Edge Hill cycle through frequent rekeying due to turnover. Modern uPVC doors on renovated terraces need different cylinder and mechanism compatibility than older timber frames, so identifying the correct lock type during a call-out matters for both cost and fit.",
+ "home.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Anfield and Kirkdale need specialist lock attention?",
+   "a": "Victorian properties across these areas commonly suffer worn period locks and sash-window catches due to age and heavy use. We specialise in sympathetic repair and replacement that maintains the character of these homes while restoring security and function."
+  },
+  {
+   "q": "Do you handle rekeying for student HMO properties in Kensington and Edge Hill?",
+   "a": "Yes\u2014we regularly service student lettings and multi-occupancy homes requiring frequent rekeying between tenancies. Our bulk rekeying service ensures quick turnaround and consistent security standards across multiple properties."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Liverpool \u2013 24/7 Fast Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Liverpool serving Victorian terraces and period properties. Locked out? Key snapped? Fast response, non-destructive entry available now.",
+ "emergency-locksmith.hero-paragraph": "Our emergency locksmith service in Liverpool combines expert locksmithing with rapid response to get you back inside. Whether you're locked out, dealing with a snapped key, or need post-break-in repairs, our DBS-checked locksmiths arrive 24/7 using non-destructive entry techniques. We specialise in resolving lockouts and extracting broken keys with minimal damage to your property.",
+ "emergency-locksmith.local-context-body": "Victorian terraces across Anfield and Kirkdale frequently present emergency lockout situations due to worn period mechanisms and sash-window catches that jam or fail. Older sash locks and mortice locks in these properties can become unpredictable, particularly in damp conditions common to pre-1945 stock, creating urgent call-outs for tenants and owner-occupiers locked out of their homes.\n\nListed buildings in the Georgian Quarter and conservation areas require locksmiths to work within strict sympathetic repair protocols. Original hardware must be preserved where possible, which means emergency callouts often involve temporary securing measures rather than replacement, followed by scheduled repairs that comply with planning and conservation requirements.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Anfield and need help now\u2014how quickly can you arrive?",
+   "a": "We operate 24/7 emergency call-outs across Liverpool, including Victorian terraces throughout Anfield, Kirkdale, and Everton. Our mobile locksmiths are positioned to reach most locations within 30 minutes of your call to 0151 701 1001."
+  },
+  {
+   "q": "My sash-window catch is broken on my Edwardian semi in Mossley Hill and the door won't secure properly. Is this an emergency you handle?",
+   "a": "Yes\u2014broken sash catches and faulty locks that compromise security are exactly what our emergency service covers, especially in period properties like those in Mossley Hill. We can attend the same day and restore your home's security without unnecessary damage to original fittings."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Liverpool \u2013 Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Liverpool? Fast non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, council estates & flats. Call now.",
+ "locked-out.hero-paragraph": "When you're locked out in Liverpool, our experienced locksmiths specialise in locksmithing solutions that get you back inside quickly. Whether you've snapped a key, lost your keys entirely, or had your door slam shut, we use non-destructive entry techniques to regain access without damage to your property. Fast, professional help available across Liverpool.",
+ "locked-out.local-context-body": "Lockout situations in Liverpool frequently involve period properties across Kensington and similar Victorian terraces, where sash windows and multi-point locks present distinct access challenges. Properties in the Georgian Quarter and conservation areas require additional care to avoid damage to original joinery and hardware during non-destructive entry, making knowledge of period lock mechanisms essential.\n\nCouncil estates built in the post-war decades often feature standardised cylinder locks that respond well to non-destructive techniques, whereas older listed properties may require specialist approaches that preserve intact original frames and catches. Door materials vary significantly across the city\u2014from solid timber in Victorian stock to composite and uPVC in modern replacements\u2014each demanding different entry protocols to minimise damage.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Anfield \u2013 how quickly can you get me back in without damaging the original sash-window catches?",
+   "a": "We specialise in non-destructive entry for period properties across Liverpool's Victorian terraces. Our locksmiths use sympathetic techniques to avoid damage to original hardware, and we're typically on-site within 30\u201345 minutes in Anfield and surrounding areas."
+  },
+  {
+   "q": "My keys are locked inside my listed property in the Georgian Quarter \u2013 will forced entry affect conservation requirements?",
+   "a": "No. We prioritise non-destructive entry methods for conservation-area properties, including those in the Georgian Quarter, ensuring your listed building remains compliant and undamaged while we regain access."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Liverpool \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key stuck in your lock? Lockfix offers professional removal from euro cylinders, mortice locks & night latches across Liverpool's Victorian terraces & modern estates. 24/7.",
+ "broken-key-removal.hero-paragraph": "Broken key removal is a specialist service offered by our Liverpool locksmith team, combining expert locksmithing techniques with precision equipment. When keys snap or shear inside mortice locks or euro cylinders, our technicians employ non-destructive methods using advanced key extractor tools to safely retrieve fragments without damaging your lock mechanism.",
+ "broken-key-removal.local-context-body": "Broken key extraction in Liverpool centres on the city's substantial stock of Victorian and Edwardian properties, particularly the terraced homes across Edge Hill and similar inner-ring residential areas. Older period locks\u2014common in these properties\u2014are prone to key breakage due to wear, corrosion, and metal fatigue accumulated over decades. Student HMO turnover in Edge Hill amplifies demand for rapid key removal and lock assessment when tenants experience breakage during changeover periods.\n\nListed buildings and conservation-area properties in the Georgian Quarter and Cavern Quarter require extraction work to be carried out with care to avoid damage to original hardware and door frames. Many Victorian terraces feature mortice locks and night latches that, while robust, can trap broken key fragments deeply within the cylinder, necessitating non-destructive removal techniques to preserve the mechanism for subsequent repair or sympathetic replacement.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Anfield and Kirkdale suffer broken keys so often?",
+   "a": "Period sash windows and original mortice locks in Victorian properties experience wear that causes keys to snap under normal pressure. We specialise in extracting broken keys from these traditional locks without damaging the mechanism, keeping your period home secure."
+  },
+  {
+   "q": "Can you remove a snapped key from a euro cylinder in a converted warehouse flat in Baltic Triangle?",
+   "a": "Yes\u2014modern euro cylinders in loft conversions sometimes trap broken keys due to wear or manufacturing tolerance shifts. We extract the fragment safely and can supply a replacement key, minimising disruption to your regenerated property."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Liverpool \u2013 Fast Same-Day Fix",
+ "burglar-repair-service.meta.description": "Burglar repair service in Liverpool including Anfield. Post-break-in lock changes, door repairs & security upgrades. Insurance-compliant, fast response.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair in Liverpool requires a skilled locksmith with expertise in locksmithing to restore your security after forced entry. Our technicians specialise in repairing damaged doors and installing TS007 anti-snap cylinders to meet insurance requirements. We fit BS3621 mortice locks as standard, ensuring your property is properly protected and compliant with security standards.",
+ "burglar-repair-service.local-context-body": "Post-break-in repairs across Liverpool's older properties present specific challenges tied to the city's housing stock. Victorian and Edwardian terraces in areas like Garston retain original timber frames and period joinery that demand careful reinstatement after forced entry. Council estates including Huyton feature standardised door and lock configurations, allowing faster replacement protocols but requiring exact-match specification to maintain estate consistency and insurance compliance.\n\nListed-building status in conservation areas complicates lock and door repair work, as replacements must match original materials and hardware styles rather than permit modern plastic or aluminium alternatives. Many older properties also feature sash windows with original catches and bolts that sustain damage during break-ins; reinstatement to pre-incident condition is essential for insurance claim validation, particularly in properties subject to planning restrictions.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "How quickly can you attend a break-in repair in Victorian terraces like those in Everton?",
+   "a": "We prioritise emergency call-outs and typically attend break-ins in Everton and similar Victorian terrace areas within 1\u20132 hours, especially for insurance-quality reinstatement of period locks and sash-window catches that are common in these properties."
+  },
+  {
+   "q": "Can you handle burglary repairs to listed properties in the Georgian Quarter?",
+   "a": "Yes\u2014we specialise in sympathetic lock repairs and door reinstatement for listed and conservation-area properties in the Georgian Quarter, ensuring replacement hardware matches original fittings and meets conservation standards while restoring full security."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Liverpool \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Liverpool for Victorian terraces, semi-detached homes & listed properties. Same-day response after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Liverpool from our experienced locksmith team combines expert locksmithing with rapid response. Whether you're facing smashed windows or damaged doors, we secure your property using sturdy plywood boards and security screws. Our 24/7 service ensures your premises remain protected whilst permanent repairs are arranged, with all work meeting insurance-compliant standards.",
+ "emergency-boarding-up.local-context-body": "Break-ins and weather damage across Liverpool's older residential areas create consistent demand for rapid boarding up. Kirkdale's Victorian terraces frequently require emergency boarding following forced-entry incidents, while properties in Fazakerley's post-war council estates present straightforward access points where standardised door and window frames allow faster securing. The density of period properties means most call-outs involve securing sash windows or original timber-frame doors rather than modern composite materials.\n\nListed properties in conservation areas and the Georgian Quarter require boarding solutions that avoid permanent damage to original joinery and stonework. Many of Liverpool's Victorian and Edwardian properties feature multi-paned sash windows and recessed doorways that demand careful measurement and fitting to preserve structural integrity. Materials and methods must satisfy conservation officer requirements before permanent repairs proceed, adding a compliance layer to emergency work that standard modern housing does not present.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up listed properties in the Georgian Quarter without damaging original woodwork?",
+   "a": "Yes. Our emergency boarding uses sympathetic methods that protect period frames and glazing bars typical of Georgian Quarter properties, ensuring temporary security while preserving heritage features for proper repair."
+  },
+  {
+   "q": "How quickly can you board up a Victorian terrace in Anfield after a break-in?",
+   "a": "We typically arrive within 1\u20132 hours for emergency calls across Liverpool. Victorian terraces with sash windows need careful boarding to avoid frame damage, and we carry materials suited to period joinery."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Liverpool | Same-Day Service Available",
+ "lock-changes.meta.description": "Lock changes in Liverpool for moved homes, lost keys & security upgrades. Expert service for Victorian terraces, Edwardian properties & modern doors.",
+ "lock-changes.hero-paragraph": "Lock changes in Liverpool require a qualified locksmith with expertise in professional locksmithing. Whether you're moving home, experiencing lost keys, or upgrading security after a tenancy turnover, we install modern cylinders and mechanisms to BS3621 standards. Our technicians fit TS007 anti-snap cylinders and multipoint systems designed to protect your property effectively.",
+ "lock-changes.local-context-body": "Lock changes in Liverpool reflect the city's mixed housing stock. Edwardian properties in Childwall and Victorian terraces across inner suburbs frequently require lock replacement after purchase, particularly where original hardware has worn or keys have been lost. Semi-detached homes in interwar suburbs and post-war council estates in Croxteth also generate steady demand for lock upgrades when tenants change or security improvements are planned.\n\nListed buildings in conservation areas present specific constraints for lock changes work. Georgian Quarter and Cavern Quarter properties often require sympathetic replacement that preserves original door furniture and architectural character, limiting material and finish options. Council estates typically have standardised lock profiles across multiple properties, which can simplify bulk changeovers but requires exact specification matching to avoid compatibility issues with existing door frames.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in Anfield\u2014do I need to replace all the locks?",
+   "a": "We'd recommend replacing at least the front and back door locks for security, especially if you don't have keys from the previous owner. Many Victorian terraces across Anfield use older period mechanisms that can wear quickly; we'll assess whether existing locks are still secure or need full replacement."
+  },
+  {
+   "q": "My listed property in the Georgian Quarter needs new locks\u2014will you preserve the original hardware?",
+   "a": "Yes, we specialise in sympathetic lock changes for conservation-area properties. We can fit modern, secure mechanisms while keeping original door furniture and hardware intact, ensuring your listed building remains compliant with local conservation requirements."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Liverpool \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Liverpool for Victorian terraces, multipoint locks & mortice locks. 24/7 emergency service. Call 0151 701 1001.",
+ "lock-repairs.hero-paragraph": "Lock repairs through our Liverpool locksmith firm combine years of locksmithing expertise with practical solutions for your door security. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn smoothly, our technicians diagnose and fix the problem efficiently. We specialise in mortice maintenance and multipoint servicing, ensuring your locks function reliably and come backed by manufacturer warranty.",
+ "lock-repairs.local-context-body": "Georgian Quarter and Cavern Quarter properties frequently require sympathetic mortice and night latch repairs that preserve original hardware and comply with conservation area restrictions. Victorian terraces in Mossley Hill and across the city's older stock present repeated gearbox failures and worn multipoint mechanisms, particularly where original locks have endured over a century of use. These period properties demand repair approaches that maintain aesthetic integrity while restoring security function.\n\nListed-building consent requirements in conservation areas add procedural steps to repair work, as replacement components must match period specifications. Council estates in post-war developments often feature standardised lock types across multiple units, making bulk repair and maintenance cycles predictable but requiring familiarity with estate-standard mechanisms. Sash-window catches and period-appropriate night latches across Liverpool's pre-1945 housing stock present specialist repair demands beyond standard commercial locks.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace locks in Kirkdale fail so often?",
+   "a": "Victorian mortice locks and night latches in Kirkdale's older terraces wear out due to age and heavy use over 100+ years. We specialise in repairing worn gearboxes and internal mechanisms without replacing the original hardware, which is essential in these period properties."
+  },
+  {
+   "q": "Can you repair council estate locks on properties like those in Croxteth?",
+   "a": "Yes\u2014Croxteth's post-war estates often use standardised multipoint locks that we repair regularly. We can fix common gearbox and latch failures quickly, minimising downtime on these high-turnover properties."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Liverpool \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Liverpool. BS3621 mortice locks, anti-snap cylinders, multipoint replacements. Georgian Quarter listed properties and Victorian terraces.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation from our Liverpool locksmith team combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders, fitting new locks to meet insurance requirements, or installing BS3621 mortice locks, our technicians deliver reliable solutions tailored to your property's needs.",
+ "door-lock-installation.local-context-body": "Victorian terraces across Anfield and Kirkdale frequently require new lock installations that balance security upgrades with period-appropriate aesthetics. Semi-detached properties in Edge Hill, where high student lettings create rapid tenant turnover, commonly need BS3621 mortice locks and TS007 anti-snap cylinders fitted to meet landlord insurance and letting standards.\n\nListed properties in conservation areas demand sympathetic installation practice; original door furniture and architraves must be preserved during fitting, and some installations require planning consent or conservation officer approval before proceeding. Council estates across the city typically benefit from standardised multipoint lock replacements, where bulk fitting programmes offer efficiency gains but require coordinated access and consistent specification across multiple units.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "We're installing new locks on our Victorian terrace in Everton \u2013 what type of lock do you recommend?",
+   "a": "For Victorian terraces, we typically fit BS3621 mortice locks that work well with period timber frames, and can upgrade to TS007 anti-snap cylinders for modern security without compromising the original character of your home."
+  },
+  {
+   "q": "Our Kensington student property needs new locks after tenant turnover \u2013 what's the best solution?",
+   "a": "We install durable multipoint locks across Kensington HMOs, which reduce rekeying costs between tenants and provide consistent security across multiple units on the same estate."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Liverpool \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Liverpool. Victorian terraces & council estates. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Liverpool requires a skilled locksmith trained in modern locksmithing techniques. Whether you've experienced a failed lock, lost keys, or are moving home, our locksmiths provide like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. We ensure your new lock meets current security requirements for lasting protection.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Liverpool addresses wear across the city's mixed housing ages. Fazakerley's post-war council estates frequently require standardised lock swaps on original 1950s\u201370s doors, while Victorian terraces in Kirkdale demand compatible period-appropriate replacements that match existing hardware and door construction. Semi-detached properties across the city often need straightforward like-for-like changeovers when mortice locks fail or become insecure.\n\nListed properties in conservation areas and Georgian Quarter buildings require lock replacements that preserve original aesthetic and material integrity, ruling out modern modifications to door frames or hardware surrounds. Older terraced stock typically uses traditional five-lever mortice locks or rim locks; replacement work must account for worn or irregular apertures in aged timber doors. HMO properties in student areas often cycle through multiple tenancies, making quick, cost-effective lock changes routine maintenance rather than emergency repair.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "My Victorian terrace in Kirkdale has a worn period lock \u2013 can you replace it without damaging the original hardware?",
+   "a": "Yes. We specialise in sympathetic lock replacement on period properties across Liverpool's older residential stock. We'll assess whether repair or like-for-like replacement best preserves your original fittings while restoring security."
+  },
+  {
+   "q": "We manage a council estate in Fazakerley \u2013 can you handle bulk door lock replacements across multiple properties?",
+   "a": "Absolutely. We regularly undertake standardised lock replacement programmes on post-war estates. Contact us on 0151 701 1001 to discuss estate-wide rekeying or bulk upgrades."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Liverpool \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Liverpool: uPVC alignment, composite realignment & timber easing. Victorian terraces & council estates covered.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Liverpool from experienced locksmiths specialising in locksmithing techniques. Whether your door has dropped, won't close properly, or is catching on the frame, we diagnose and resolve the issue. Our technicians handle hinge adjustment and frame alignment across uPVC, composite and timber doors, restoring smooth operation and security.",
+ "door-repairs.local-context-body": "Liverpool's dense Victorian terrace housing, particularly in Anfield, creates persistent demand for door repairs due to settlement and warping in older timber frames. Dropped doors, misaligned hinges, and weather-worn hardware are common across the city's pre-1945 stock, where original door sets have absorbed over a century of use and structural movement.\n\nListed properties in conservation areas such as the Georgian Quarter require repairs that preserve period-appropriate hardware and finishes. Work on these properties often involves careful assessment of original mechanisms and sympathetic restoration rather than wholesale replacement, reflecting both conservation guidelines and the value of maintaining authentic architectural features.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Anfield and Kirkdale need door repairs so often?",
+   "a": "Victorian properties across these neighbourhoods have original timber frames and sash mechanisms that settle and warp over time, causing doors to drop or misalign. Our team specialises in adjusting period doors without forcing modern solutions that damage historic fabric."
+  },
+  {
+   "q": "Can you repair doors in listed buildings in the Georgian Quarter?",
+   "a": "Yes\u2014we understand conservation area restrictions and work carefully to repair original hardware and misaligned doors while preserving their character. We can advise on sympathetic adjustments that keep your property compliant with planning requirements."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Liverpool \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Liverpool. Expert fixes for espagnolette, shootbolt locks on Victorian terraces, uPVC & aluminium windows.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Liverpool locksmiths specialise in window lock repair and replacement using expert locksmithing techniques tailored to your home's security needs. Whether you're dealing with windows that won't lock or broken handles, we restore espagnolette mechanisms and shootbolt locks to full working order. All fitting meets insurance-compliance standards, ensuring your property remains properly protected.",
+ "window-lock-repair-replacement.local-context-body": "Sash windows remain prevalent across Liverpool's Victorian and Edwardian housing stock, particularly in neighbourhoods like Kirkdale where period terraces dominate residential areas. Window lock failure on these older properties is common; espagnolette and shootbolt locks wear under decades of use, and replacement often requires matching original hardware specifications or sourcing period-appropriate alternatives to maintain authenticity.\n\nListed properties in conservation areas and the Georgian Quarter present additional complexity for window lock repair work. Local planning considerations frequently require locks to be replaced with sympathetic designs that preserve original window character, meaning standard modern fittings may not be acceptable. Technicians must often source specialist period hardware and understand the constraints of listed-building consent before proceeding.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Anfield and Kirkdale need specialist espagnolette lock repair?",
+   "a": "Victorian terraces across these areas often have original sash-window catches that wear unevenly due to age and heavy use; our locksmiths are trained to repair or replace these period locks while preserving the authentic hardware that's expected in these heritage properties."
+  },
+  {
+   "q": "Can you repair listed window locks in the Georgian Quarter without affecting conservation requirements?",
+   "a": "Yes\u2014the Georgian Quarter's conservation status means replacement locks must match original styles; we specialise in sympathetic repairs and period-appropriate shootbolt and espagnolette replacements that satisfy both security and heritage standards."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Liverpool \u2013 Fast Same-Day Service",
+ "safe-installation.meta.description": "Professional safe installation Liverpool. Wall, floor & freestanding safes for Victorian terraces. Secure anchoring, insurance compliance.",
+ "safe-installation.hero-paragraph": "Professional safe installation from Liverpool's trusted locksmith experts combines modern locksmithing with proven security practices. Whether you need a new safe secured for insurance approval or require expert wall mounting and floor anchoring, our technicians ensure AiS-approved positioning that maximises protection against leverage attacks. We work to Eurograde standards, guaranteeing your valuables meet the highest cash rating requirements.",
+ "safe-installation.local-context-body": "Safe installation in Liverpool addresses security needs across a varied housing stock. Victorian terraces in Garston and converted warehouse flats in the Baltic Triangle represent two distinct installation contexts: terraces often feature solid brick walls suitable for wall-safe anchoring, whilst loft conversions in regenerated industrial buildings typically require floor or freestanding safes due to structural constraints and listed-building considerations affecting wall penetration.\n\nLiverpool's concentration of pre-1945 properties means many safe installations must navigate listed-building consent requirements, particularly in conservation areas where visible fixings or wall modifications face restrictions. Solid-brick Victorian construction generally accommodates wall anchoring without difficulty, but properties with cavity walls\u2014common in interwar semis\u2014require alternative floor or freestanding approaches. Insurance documentation for safe anchoring specifications remains essential across all property types for claim validity.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian terraces, and will you anchor them properly for insurance purposes?",
+   "a": "Yes\u2014Victorian terraces across Anfield, Kirkdale, and Everton are common installations for us. We ensure all safes are anchored to solid masonry or floor joists and provide full insurance documentation so your policy remains valid."
+  },
+  {
+   "q": "Can you install safes in listed properties in the Georgian Quarter without damaging original features?",
+   "a": "Absolutely. We specialise in sympathetic installations in conservation areas and listed properties, using discreet fixings and positioning that preserves period character while meeting insurance anchoring requirements."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Liverpool | Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Liverpool for lost keys, combinations & lockouts. Non-destructive methods for Victorian terraces, period properties & modern safes.",
+ "safe-opening.hero-paragraph": "Our Liverpool locksmiths specialise in safe opening through expert locksmithing techniques designed to resolve your access issues. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening methods to regain access safely. Our technicians prioritise preserving your safe's integrity throughout every job.",
+ "safe-opening.local-context-body": "Liverpool's council estates and Victorian properties frequently house older safes installed decades ago, often without accessible documentation. Residents in Everton and across the city's terrace stock encounter lost combinations or misplaced keys, particularly in properties passed down through families or rented long-term. Safe opening for lockouts addresses a genuine need in housing stock where safes predate modern digital records.\n\nListed properties in conservation areas present particular constraints for safe opening work. Original fixtures cannot be forcibly removed or altered, requiring non-destructive techniques that preserve period-appropriate hardware. Older safes themselves\u2014common in pre-1970s residential properties\u2014often demand specialist knowledge of mechanical locking mechanisms rather than electronic overrides, adding time and expertise to jobs across the city.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm locked out of a Victorian safe in my Anfield terraced house \u2013 can you open it without damaging the original woodwork?",
+   "a": "Yes, we specialise in non-destructive safe opening and understand the importance of preserving period features in Victorian properties across Liverpool. We'll use specialist tools to manipulate the lock mechanism rather than drill or force, protecting your home's character."
+  },
+  {
+   "q": "Our council estate property in Croxteth has a standard-issue safe with a lost combination \u2013 what's the quickest solution?",
+   "a": "We can open council-standard safes non-destructively by manipulating the lock or decoding the dial, usually within the hour. If the combination is truly irrecoverable, we'll advise whether the lock can be reset or professionally replaced without unnecessary damage."
+  }
+ ],
+ "home.areas-covered": [
+  "Aigburth",
+  "Allerton",
+  "Anfield",
+  "Baltic Triangle",
+  "Belle Vale",
+  "Broad Green",
+  "Canning / Georgian Quarter",
+  "Cavern Quarter",
+  "Childwall",
+  "Chinatown",
+  "City Centre",
+  "Clubmoor",
+  "Cressington",
+  "Croxteth",
+  "Dingle",
+  "Dovecot",
+  "Edge Hill",
+  "Elm Park",
+  "Everton",
+  "Fairfield",
+  "Fazakerley",
+  "Garston",
+  "Gateacre",
+  "Gillmoss",
+  "Grassendale",
+  "Hunts Cross",
+  "Kensington",
+  "Kirkdale",
+  "Knotty Ash",
+  "Knowledge Quarter",
+  "Mossley Hill",
+  "Netherley",
+  "Norris Green",
+  "Old Swan",
+  "Orrell Park",
+  "Pride Quarter",
+  "Ropewalks",
+  "Speke",
+  "St George's Quarter / Cultural Quarter",
+  "Stoneycroft",
+  "Toxteth",
+  "Tuebrook",
+  "Vauxhall",
+  "Walton",
+  "Waterfront",
+  "Wavertree",
+  "West Derby",
+  "Woolton"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Norris Green",
+  "Knotty Ash",
+  "Allerton",
+  "West Derby",
+  "Vauxhall",
+  "Walton",
+  "Waterfront",
+  "Wavertree",
+  "Woolton"
+ ],
+ "locked-out.areas-covered": [
+  "Hunts Cross",
+  "Anfield",
+  "Cavern Quarter",
+  "Kirkdale",
+  "Everton",
+  "Dovecot",
+  "Edge Hill",
+  "Elm Park",
+  "Fairfield"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Walton",
+  "Gateacre",
+  "Tuebrook",
+  "Stoneycroft",
+  "Croxteth",
+  "Aigburth",
+  "Allerton",
+  "Anfield",
+  "Baltic Triangle"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Speke",
+  "Cressington",
+  "Old Swan",
+  "Fazakerley",
+  "Cavern Quarter",
+  "Childwall",
+  "Chinatown",
+  "City Centre",
+  "Clubmoor"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Grassendale",
+  "Gillmoss",
+  "Pride Quarter",
+  "Ropewalks",
+  "Speke",
+  "St George's Quarter / Cultural Quarter",
+  "Stoneycroft",
+  "Toxteth",
+  "Tuebrook"
+ ],
+ "lock-changes.areas-covered": [
+  "Belle Vale",
+  "Allerton",
+  "Anfield",
+  "Baltic Triangle",
+  "Broad Green",
+  "Canning / Georgian Quarter",
+  "Cavern Quarter",
+  "Childwall",
+  "Chinatown"
+ ],
+ "lock-repairs.areas-covered": [
+  "Orrell Park",
+  "Vauxhall",
+  "Dingle",
+  "Childwall",
+  "Chinatown",
+  "City Centre",
+  "Clubmoor",
+  "Cressington",
+  "Croxteth"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Mossley Hill",
+  "Aigburth",
+  "Canning / Georgian Quarter",
+  "Wavertree",
+  "Dingle",
+  "Dovecot",
+  "Edge Hill",
+  "Elm Park",
+  "Everton"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "St George's Quarter / Cultural Quarter",
+  "Clubmoor",
+  "Garston",
+  "Gateacre",
+  "Gillmoss",
+  "Grassendale",
+  "Hunts Cross",
+  "Kensington",
+  "Kirkdale"
+ ],
+ "door-repairs.areas-covered": [
+  "Ropewalks",
+  "Kensington",
+  "Woolton",
+  "Waterfront",
+  "Knotty Ash",
+  "Knowledge Quarter",
+  "Mossley Hill",
+  "Netherley",
+  "Norris Green"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Edge Hill",
+  "Elm Park",
+  "Garston",
+  "Ropewalks",
+  "Speke",
+  "St George's Quarter / Cultural Quarter",
+  "Stoneycroft",
+  "Toxteth",
+  "Tuebrook"
+ ],
+ "safe-installation.areas-covered": [
+  "Netherley",
+  "Chinatown",
+  "Toxteth",
+  "Dovecot",
+  "Broad Green",
+  "Gateacre",
+  "Gillmoss",
+  "Grassendale",
+  "Hunts Cross"
+ ],
+ "safe-opening.areas-covered": [
+  "Pride Quarter",
+  "City Centre",
+  "Knowledge Quarter",
+  "Fairfield",
+  "Baltic Triangle",
+  "Mossley Hill",
+  "Netherley",
+  "Norris Green",
+  "Old Swan"
+ ]
 }

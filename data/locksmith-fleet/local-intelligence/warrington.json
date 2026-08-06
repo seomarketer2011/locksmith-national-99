@@ -1,343 +1,285 @@
 {
-  "location": "Warrington",
-  "neighborhoods": [
-    {
-      "name": "Castlefields",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "riverside regeneration area with apartment blocks"
-    },
-    {
-      "name": "Centre Park",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "mixed-use"
-      ]
-    },
-    {
-      "name": "Chapelford",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Birchwood",
-      "era": "1960s",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "purpose-built new town overspill area"
-    },
-    {
-      "name": "Great Sankey",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Grappenhall",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "villa"
-      ],
-      "notes": "established residential, some conservation interest"
-    },
-    {
-      "name": "Appleton",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Fearnhead",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Daresbury",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Culcheth",
-      "era": "mixed interwar and post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Callands",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ]
-    },
-    {
-      "name": "Bewsey",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "back-to-back"
-      ],
-      "notes": "older central area, terraced stock"
-    },
-    {
-      "name": "Bank Quay",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ]
-    },
-    {
-      "name": "Dallam",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Howley",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Higher Walton",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Croft",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Burtonwood",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "council estate",
-      "new-build flat"
-    ],
-    "era": "mixed Victorian terraces and post-war suburban expansion with modern riverside regeneration",
-    "notable": "Strong post-1960s overspill development (Birchwood); significant Victorian terrace stock in town centre and west bank"
+ "location": "Warrington",
+ "neighborhoods": [
+  {
+   "name": "Centre Park",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "mixed-use"
+   ]
   },
-  "locksmith_relevant": [
-    "Birchwood's 1960s council estates often feature original locks requiring specialist knowledge of period mechanisms and repair.",
-    "Riverside new-builds (Castlefields, Centre Park) demand smart-lock and modern electronic access systems expertise.",
-    "Victorian terraces across Bewsey, Dallam, Howley present period door frames and sash windows needing careful, heritage-aware fitting."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Warrington",
-    "overpass": "OSM Overpass bbox query, 122 named areas",
-    "coords": {
-      "lat": 53.4015716,
-      "lon": -2.5681941
-    }
+  {
+   "name": "Chapelford",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached"
+   ]
   },
-  "generated_at": "2026-05-13T12:28:17.214Z",
-  "all_areas": [
-    "Abbotsfield",
-    "Agden",
-    "Appleton",
-    "Appleton Park",
-    "Appleton Thorn",
-    "Bank Quay",
-    "Barrow Hall",
-    "Bewsey",
-    "Birchwood",
-    "Blackbrook",
-    "Bold",
-    "Broomedge",
-    "Bruche",
-    "Burtonwood",
-    "Cadishead",
-    "Callands",
-    "Castlefields",
-    "Centre Park",
-    "Chapelford",
-    "Cinnamon Brow",
-    "Cobbs Estate",
-    "Collins Green",
-    "Croft",
-    "Cuerdley Cross",
-    "Culcheth",
-    "Dallam",
-    "Daresbury",
-    "Deansgreen",
-    "Derbyshire Hill",
-    "Doe Green",
-    "Dudlow's Green",
-    "Edgewater Park",
-    "Fairfield",
-    "Fearnhead",
-    "Fowley Common",
-    "Gatewarth",
-    "Gemini",
-    "Glazebrook",
-    "Glazebury",
-    "Gorse Covert",
-    "Grappenhall",
-    "Grappenhall Heys",
-    "Great Sankey",
-    "Greystone Heath",
-    "Halton",
-    "Haydock",
-    "Heatley",
-    "High Legh",
-    "Higher Walton",
-    "Highfields Farm",
-    "Hillcliffe",
-    "Hollins Green",
-    "Hood Manor",
-    "Howley",
-    "Howley Quay",
-    "Hulme",
-    "Kenyon",
-    "Kingswood",
-    "Ladywood",
-    "Lane Ends",
-    "Lane Head",
-    "Latchford",
-    "Lingley Green",
-    "Locking Stumps",
-    "Longbarn",
-    "Longford",
-    "Lower Irlam",
-    "Lower Stretton",
-    "Lower Walton",
-    "Lowton Common",
-    "Lowton Heath",
-    "Lowton St Luke's",
-    "Lowton St Mary's",
-    "Lymm",
-    "Manor Park",
-    "Martinscroft",
-    "Moore",
-    "Murdishaw",
-    "New Bold",
-    "Newchurch",
-    "Newton Common",
-    "Norton",
-    "Oakwood",
-    "Old Hall",
-    "Omega",
-    "Orford",
-    "Oughtrington",
-    "Paddington",
-    "Padgate",
-    "Palacefields",
-    "Penketh",
-    "Pewfall",
-    "Preston on the Hill",
-    "Red Bank",
-    "Risley",
-    "Sandymoor",
-    "Sankey Bridges",
-    "Statham",
-    "Stockton Heath",
-    "Stretton",
-    "Thelwall",
-    "Town of Lowton",
-    "Twiss Green",
-    "Vulcan Village",
-    "Walton",
-    "Walton Lea",
-    "Walton Superior",
-    "Warburton",
-    "Wargrave",
-    "Wash End",
-    "Westbrook",
-    "Westy",
-    "Whitecross",
-    "Whittle Hall",
-    "Wilderspool",
-    "Windmill Hill",
-    "Winwick",
-    "Winwick Park",
-    "Winwick Quay",
-    "Woolston",
-    "Woolston Grange",
-    "Wright's Green"
-  ],
-  "geo": {
-    "latitude": 53.4015716,
-    "longitude": -2.5681941
+  {
+   "name": "Birchwood",
+   "era": "1960s",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "purpose-built new town overspill area"
   },
-  "postcode_districts": [
-    "WA1",
-    "WA13",
-    "WA2",
-    "WA3",
-    "WA4",
-    "WA5"
-  ],
-  "postcode_meta": {
-    "WA5": {
-      "count": 21,
-      "sample": "WA5 4JY",
-      "admin": "Warrington"
-    },
-    "WA13": {
-      "count": 6,
-      "sample": "WA13 0JB",
-      "admin": "Warrington"
-    },
-    "WA3": {
-      "count": 10,
-      "sample": "WA3 4EE",
-      "admin": "Warrington"
-    },
-    "WA2": {
-      "count": 9,
-      "sample": "WA2 9ES",
-      "admin": "Warrington"
-    },
-    "WA1": {
-      "count": 9,
-      "sample": "WA1 3JU",
-      "admin": "Warrington"
-    },
-    "WA4": {
-      "count": 19,
-      "sample": "WA4 6SW",
-      "admin": "Warrington"
-    }
+  {
+   "name": "Great Sankey",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Grappenhall",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "villa"
+   ],
+   "notes": "established residential, some conservation interest"
+  },
+  {
+   "name": "Appleton",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Fearnhead",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Culcheth",
+   "era": "mixed interwar and post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Callands",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ]
+  },
+  {
+   "name": "Bewsey",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "back-to-back"
+   ],
+   "notes": "older central area, terraced stock"
+  },
+  {
+   "name": "Bank Quay",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ]
+  },
+  {
+   "name": "Dallam",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Howley",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Higher Walton",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Croft",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Burtonwood",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "council estate",
+   "new-build flat"
+  ],
+  "era": "mixed Victorian terraces and post-war suburban expansion with modern riverside regeneration",
+  "notable": "Strong post-1960s overspill development (Birchwood); significant Victorian terrace stock in town centre and west bank"
+ },
+ "locksmith_relevant": [
+  "Birchwood's 1960s council estates often feature original locks requiring specialist knowledge of period mechanisms and repair.",
+  "Riverside new-builds (Centre Park, Chapelford) demand smart-lock and modern electronic access systems expertise.",
+  "Victorian terraces across Bewsey, Dallam, Howley present period door frames and sash windows needing careful, heritage-aware fitting."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Warrington",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Warrington UA), 81 named areas",
+  "coords": {
+   "lat": 53.4015716,
+   "lon": -2.5681941
+  }
+ },
+ "generated_at": "2026-05-13T12:28:17.214Z",
+ "all_areas": [
+  "Appleton",
+  "Appleton Park",
+  "Appleton Thorn",
+  "Bank Quay",
+  "Bewsey",
+  "Birchwood",
+  "Blackbrook",
+  "Broomedge",
+  "Bruche",
+  "Burtonwood",
+  "Callands",
+  "Centre Park",
+  "Chapelford",
+  "Cinnamon Brow",
+  "Cobbs Estate",
+  "Collins Green",
+  "Croft",
+  "Cuerdley Cross",
+  "Culcheth",
+  "Dallam",
+  "Deansgreen",
+  "Dudlow's Green",
+  "Edgewater Park",
+  "Fairfield",
+  "Fearnhead",
+  "Fowley Common",
+  "Gemini",
+  "Glazebrook",
+  "Glazebury",
+  "Gorse Covert",
+  "Grappenhall",
+  "Grappenhall Heys",
+  "Great Sankey",
+  "Greystone Heath",
+  "Higher Walton",
+  "Highfields Farm",
+  "Hillcliffe",
+  "Hollins Green",
+  "Hood Manor",
+  "Howley",
+  "Howley Quay",
+  "Hulme",
+  "Kenyon",
+  "Kingswood",
+  "Latchford",
+  "Lingley Green",
+  "Locking Stumps",
+  "Longbarn",
+  "Longford",
+  "Lower Stretton",
+  "Lower Walton",
+  "Lymm",
+  "Martinscroft",
+  "Newchurch",
+  "Oakwood",
+  "Old Hall",
+  "Omega",
+  "Orford",
+  "Oughtrington",
+  "Paddington",
+  "Padgate",
+  "Penketh",
+  "Risley",
+  "Sankey Bridges",
+  "Statham",
+  "Stockton Heath",
+  "Stretton",
+  "Thelwall",
+  "Twiss Green",
+  "Walton",
+  "Walton Lea",
+  "Walton Superior",
+  "Westbrook",
+  "Westy",
+  "Whitecross",
+  "Whittle Hall",
+  "Wilderspool",
+  "Winwick",
+  "Winwick Quay",
+  "Woolston",
+  "Woolston Grange"
+ ],
+ "geo": {
+  "latitude": 53.4015716,
+  "longitude": -2.5681941
+ },
+ "postcode_districts": [
+  "WA1",
+  "WA13",
+  "WA2",
+  "WA3",
+  "WA4",
+  "WA5"
+ ],
+ "postcode_meta": {
+  "WA5": {
+   "count": 21,
+   "sample": "WA5 4JY",
+   "admin": "Warrington"
+  },
+  "WA13": {
+   "count": 6,
+   "sample": "WA13 0JB",
+   "admin": "Warrington"
+  },
+  "WA3": {
+   "count": 10,
+   "sample": "WA3 4EE",
+   "admin": "Warrington"
+  },
+  "WA2": {
+   "count": 9,
+   "sample": "WA2 9ES",
+   "admin": "Warrington"
+  },
+  "WA1": {
+   "count": 9,
+   "sample": "WA1 3JU",
+   "admin": "Warrington"
+  },
+  "WA4": {
+   "count": 19,
+   "sample": "WA4 6SW",
+   "admin": "Warrington"
+  }
+ }
 }

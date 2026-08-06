@@ -1,188 +1,174 @@
 {
-  "location": "Hucknall",
-  "neighborhoods": [
-    {
-      "name": "Bestwood Village",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "historic mining settlement character"
-    },
-    {
-      "name": "Beauvale",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban residential area"
-    },
-    {
-      "name": "Rise Park",
-      "era": "1960s",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Top Valley",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Broomhill",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Newstead",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "cottage"
-      ],
-      "notes": "conservation area with listed buildings"
-    },
-    {
-      "name": "Papplewick",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Linby",
-      "era": "mixed",
-      "types": [
-        "terrace",
-        "detached"
-      ]
-    },
-    {
-      "name": "Butlers Hill",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Hazelgrove",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "detached"
-      ]
-    },
-    {
-      "name": "Westville",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Edgewood",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Hillside",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Ruffs",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Farleys",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "terrace",
-      "council estate"
-    ],
-    "era": "mixed interwar and post-war with Victorian core",
-    "notable": "Historic mining town with traditional Nottinghamshire housing stock; significant post-1945 suburban expansion. Newstead conservation area adds listed-building lock complexity."
+ "location": "Hucknall",
+ "neighborhoods": [
+  {
+   "name": "Bestwood Village",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "historic mining settlement character"
   },
-  "locksmith_relevant": [
-    "Post-war semis dominate Hucknall; expect standard mortice and lever locks requiring skilled rekeying and cylinder replacement work.",
-    "Conservation-listed Victorian properties in Newstead demand specialist locksmith care—period hardware and listed-building approval concerns are routine.",
-    "Interwar terraces (Bestwood, Westville) frequently present deteriorated wooden frames and worn locks; repair vs. replacement decisions are common calls."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Hucknall",
-    "overpass": "OSM Overpass bbox query, 23 named areas",
-    "coords": {
-      "lat": 53.0383633,
-      "lon": -1.2035443
-    }
+  {
+   "name": "Beauvale",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban residential area"
   },
-  "generated_at": "2026-05-13T18:03:17.951Z",
-  "all_areas": [
-    "Aerodrome",
-    "Beardall Fields",
-    "Beauvale",
-    "Bestwood Village",
-    "Broomhill",
-    "Butlers Hill",
-    "Edgewood",
-    "Farleys",
-    "Hazelgrove",
-    "Hillside",
-    "Linby",
-    "Nabbs",
-    "Newstead",
-    "Papplewick",
-    "Rise Park",
-    "Ruffs",
-    "Titchfield",
-    "Top Valley",
-    "Top Wighay",
-    "Washdyke",
-    "Westville",
-    "Whyburn",
-    "Wighay"
-  ],
-  "geo": {
-    "latitude": 53.0383633,
-    "longitude": -1.2035443
+  {
+   "name": "Rise Park",
+   "era": "1960s",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "postcode_districts": [
-    "NG15"
-  ],
-  "postcode_meta": {
-    "NG15": {
-      "count": 16,
-      "sample": "NG15 6PA",
-      "admin": "Ashfield",
-      "via": "admin_ward=hucknall west"
-    }
+  {
+   "name": "Top Valley",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Broomhill",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Newstead",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "cottage"
+   ],
+   "notes": "conservation area with listed buildings"
+  },
+  {
+   "name": "Papplewick",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Linby",
+   "era": "mixed",
+   "types": [
+    "terrace",
+    "detached"
+   ]
+  },
+  {
+   "name": "Butlers Hill",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Hazelgrove",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "detached"
+   ]
+  },
+  {
+   "name": "Westville",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Edgewood",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Hillside",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Ruffs",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Farleys",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "terrace",
+   "council estate"
+  ],
+  "era": "mixed interwar and post-war with Victorian core",
+  "notable": "Historic mining town with traditional Nottinghamshire housing stock; significant post-1945 suburban expansion. Newstead conservation area adds listed-building lock complexity."
+ },
+ "locksmith_relevant": [
+  "Post-war semis dominate Hucknall; expect standard mortice and lever locks requiring skilled rekeying and cylinder replacement work.",
+  "Conservation-listed Victorian properties in Newstead demand specialist locksmith care\u2014period hardware and listed-building approval concerns are routine.",
+  "Interwar terraces (Bestwood, Westville) frequently present deteriorated wooden frames and worn locks; repair vs. replacement decisions are common calls."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Hucknall",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Hucknall admin area), 9 named areas",
+  "coords": {
+   "lat": 53.0383633,
+   "lon": -1.2035443
+  }
+ },
+ "generated_at": "2026-05-13T18:03:17.951Z",
+ "all_areas": [
+  "Beauvale",
+  "Broomhill",
+  "Butlers Hill",
+  "Edgewood",
+  "Farleys",
+  "Ruffs",
+  "Titchfield",
+  "Westville",
+  "Wighay"
+ ],
+ "geo": {
+  "latitude": 53.0383633,
+  "longitude": -1.2035443
+ },
+ "postcode_districts": [
+  "NG15"
+ ],
+ "postcode_meta": {
+  "NG15": {
+   "count": 16,
+   "sample": "NG15 6PA",
+   "admin": "Ashfield",
+   "via": "admin_ward=hucknall west"
+  }
+ }
 }

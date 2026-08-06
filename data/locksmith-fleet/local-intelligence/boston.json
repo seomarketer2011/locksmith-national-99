@@ -1,135 +1,154 @@
 {
-  "location": "Boston",
-  "neighborhoods": [
-    {
-      "name": "Bargate",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "period property"
-      ],
-      "notes": "historic town center, listed buildings"
-    },
-    {
-      "name": "Fenside",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ],
-      "notes": "suburban residential, family homes"
-    },
-    {
-      "name": "Haven Village",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "riverside development, mixed-use"
-    },
-    {
-      "name": "Skirbeck",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential area"
-    },
-    {
-      "name": "Skirbeck Quarter",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "social housing density"
-    },
-    {
-      "name": "St Thomas",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "period property"
-      ],
-      "notes": "older working-class area, varied lock types"
-    },
-    {
-      "name": "Staniland",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban, mixed tenure"
-    },
-    {
-      "name": "Trinity",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "period property"
-      ],
-      "notes": "historic core, conservation interest"
-    },
-    {
-      "name": "Witham",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established inner suburb"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "period property"
-    ],
-    "era": "mixed Victorian and post-war",
-    "notable": "Medieval market town core with significant Victorian terraces; post-war suburban expansion on periphery. High proportion of older properties with traditional locks."
+ "location": "Boston",
+ "neighborhoods": [
+  {
+   "name": "Bargate",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "period property"
+   ],
+   "notes": "historic town center, listed buildings"
   },
-  "locksmith_relevant": [
-    "Boston's Georgian and Victorian town center contains listed terraces with original sash locks and period hardware; upgrades require specialist knowledge.",
-    "Post-war suburbs (Skirbeck Quarter, Fenside) feature council-estate properties where insurance-approved locks and rental-standard hardware are frequent priorities.",
-    "Modern Haven Village developments alongside historic core creates mixed demand: new digital locks alongside heritage-sensitive repairs in adjoining older areas."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Boston",
-    "overpass": "OSM Overpass bbox query, 9 named areas",
-    "coords": {
-      "lat": 52.9776561,
-      "lon": -0.0237985
-    }
+  {
+   "name": "Fenside",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ],
+   "notes": "suburban residential, family homes"
   },
-  "generated_at": "2026-05-13T18:04:05.499Z",
-  "all_areas": [
-    "Bargate",
-    "Fenside",
-    "Haven Village",
-    "Skirbeck",
-    "Skirbeck Quarter",
-    "St Thomas",
-    "Staniland",
-    "Trinity",
-    "Witham"
-  ],
-  "geo": {
-    "latitude": 52.9776561,
-    "longitude": -0.0237985
+  {
+   "name": "Haven Village",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "flat"
+   ],
+   "notes": "riverside development, mixed-use"
   },
-  "postcode_districts": [
-    "PE21"
-  ],
-  "postcode_meta": {
-    "PE21": {
-      "count": 9,
-      "sample": "PE21 0DL",
-      "admin": "Boston",
-      "via": "admin_district=boston"
-    }
+  {
+   "name": "Skirbeck",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential area"
+  },
+  {
+   "name": "Skirbeck Quarter",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "social housing density"
+  },
+  {
+   "name": "St Thomas",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "period property"
+   ],
+   "notes": "older working-class area, varied lock types"
+  },
+  {
+   "name": "Staniland",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban, mixed tenure"
+  },
+  {
+   "name": "Trinity",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "period property"
+   ],
+   "notes": "historic core, conservation interest"
+  },
+  {
+   "name": "Witham",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established inner suburb"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "period property"
+  ],
+  "era": "mixed Victorian and post-war",
+  "notable": "Medieval market town core with significant Victorian terraces; post-war suburban expansion on periphery. High proportion of older properties with traditional locks."
+ },
+ "locksmith_relevant": [
+  "Boston's Georgian and Victorian town center contains listed terraces with original sash locks and period hardware; upgrades require specialist knowledge.",
+  "Post-war suburbs (Skirbeck Quarter, Fenside) feature council-estate properties where insurance-approved locks and rental-standard hardware are frequent priorities.",
+  "Modern Haven Village developments alongside historic core creates mixed demand: new digital locks alongside heritage-sensitive repairs in adjoining older areas."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Boston",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within Boston admin area), 28 named areas",
+  "coords": {
+   "lat": 52.9776561,
+   "lon": -0.0237985
+  }
+ },
+ "generated_at": "2026-05-13T18:04:05.499Z",
+ "all_areas": [
+  "Algarkirk",
+  "Bargate",
+  "Benington",
+  "Bicker",
+  "Butterwick",
+  "Fenside",
+  "Fishtoft",
+  "Fosdyke",
+  "Frampton",
+  "Freiston",
+  "Haltoft End",
+  "Hubbert's Bridge",
+  "Kirton",
+  "Leake Common Side",
+  "Leverton",
+  "North End",
+  "Old Leake",
+  "Skirbeck",
+  "Skirbeck Quarter",
+  "St Thomas",
+  "Staniland",
+  "Sutterton",
+  "Swineshead",
+  "Trinity",
+  "Wigtoft",
+  "Witham",
+  "Wrangle",
+  "Wyberton"
+ ],
+ "geo": {
+  "latitude": 52.9776561,
+  "longitude": -0.0237985
+ },
+ "postcode_districts": [
+  "PE21"
+ ],
+ "postcode_meta": {
+  "PE21": {
+   "count": 9,
+   "sample": "PE21 0DL",
+   "admin": "Boston",
+   "via": "admin_district=boston"
+  }
+ }
 }

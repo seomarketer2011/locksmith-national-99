@@ -1,507 +1,391 @@
 {
-  "meta.title": "Locksmith Manchester | Local Locksmithing Service 24/7",
-  "meta.description": "Locksmith services in Manchester covering Victorian terraces, HMOs and listed conversions. Emergency lock changes, repairs and security upgrades 24/7.",
-  "home.hero-paragraph": "Manchester locksmith services specialising in professional locksmithing and emergency lock assistance are available 24/7. We handle lockouts, lock changes, and security upgrades with non-destructive entry methods. All our engineers are DBS checked and fully insured, with no call-out fees for genuine emergencies across the Greater Manchester area.",
-  "home.local-context-heading": "Why Manchester Properties Need Specialist Locksmiths",
-  "home.local-context-body": "Victorian terraces in Cheetham Hill and similar older stock across Manchester often retain period locks and mechanisms that require specialist attention. Mixed-era properties—from converted mills to Edwardian semis—present varied keying needs. Standard modern locks may not suit heritage hardware, and forced solutions risk damage to original fittings. Locksmiths familiar with period mechanisms and conservation-compliant options are essential for maintaining both security and property integrity in these areas.\n\nMulti-occupancy properties in student-dense zones like Fallowfield demand rapid re-keying between tenants and coordinated master-key systems. Listed-building conversions and canal-quarter developments require insurance-approved locksmiths who understand conservation restrictions on hardware changes. Door types vary significantly across Manchester's stock, so assessment before ordering parts prevents delays and unnecessary site visits.",
-  "home.local-faqs": [
-    {
-      "q": "Do you work on Victorian terraces in areas like Cheetham Hill?",
-      "a": "Yes, we specialise in period locks found in Manchester's Victorian terraces and converted warehouse flats. These older mechanisms often require specialist knowledge, and we're experienced in maintaining and repairing heritage hardware while preserving authenticity."
-    },
-    {
-      "q": "Can you help with rapid re-keying for student HMOs?",
-      "a": "Absolutely. We handle multi-occupancy keying and fast turnarounds between tenants, which is essential given the high HMO density in areas like Fallowfield and Chorlton-on-Medlock. We'll ensure each resident gets secure, independent access quickly."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Manchester – 24/7 Response",
-  "emergency-locksmith.meta.description": "Emergency locksmith Manchester 24/7. Locked out, snapped keys, failed locks? Fast response across Victorian terraces and city centre. Non-destructive entry.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Manchester, our locksmiths combine decades of locksmithing expertise with round-the-clock availability. Whether you're locked out, have snapped a key, or need post-break-in repairs, our DBS-checked technicians arrive promptly using non-destructive entry methods to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Manchester's mixed housing stock—from converted warehouse flats in Castlefield to modern city-centre apartments—creates varied emergency locksmith demands. Listed-building conversions and conservation-area properties require locksmiths familiar with period mechanisms and heritage-compliant hardware, while newer developments present different security challenges. Urgent lockouts, snapped keys, and post-break-in work span this range of property types and eras across the city.\n\nEmergency callouts in Manchester frequently involve heritage locks in Victorian conversions, where period mechanisms may require specialist knowledge rather than straightforward replacement. Listed-building status on many canal-quarter and city-centre properties can restrict hardware choices, meaning emergency repairs must balance immediate access needs with conservation requirements and insurer approval.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Chorlton-cum-Hardy – how quickly can you arrive for an emergency call?",
-      "a": "We operate 24/7 emergency lockouts across Manchester and aim to reach Chorlton-cum-Hardy within 30–45 minutes. Victorian terraces often have period locks that require specialist handling, so we carry heritage-compatible tools to avoid damage to original mechanisms."
-    },
-    {
-      "q": "My converted warehouse flat in the city centre was broken into – do you handle post-break-in security work and insurance approvals?",
-      "a": "Yes. We're familiar with listed-building conversions and canal-quarter developments, and we provide insurance-approved emergency re-keying and lock replacement that meets conservation compliance requirements for city-centre properties."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Manchester | 24/7 Fast Response",
-  "locked-out.meta.description": "Locked out in Manchester? Locktek provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, flats & semis across Burnage & beyond.",
-  "locked-out.hero-paragraph": "When you're locked out in Manchester, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry methods to regain access without damage to your property. Available around the clock for emergency callouts across the Manchester area.",
-  "locked-out.local-context-body": "Fallowfield's high-density student housing means landlords and letting agents frequently call for rapid re-keying between tenants—often after keys go missing or are not returned. The area's Edwardian terraces, typically divided into HMO units, present logistical challenges when occupants are locked out: communal hallways and multiple locks per property require swift, non-destructive access that preserves the landlord's investment in the building fabric.\n\nManchester's converted warehouse flats in the city centre and canal quarter often retain period locks fitted to listed-building frames. Non-destructive entry on these properties demands familiarity with heritage mechanisms and conservation-compliant hardware; forcing entry risks triggering insurance exclusions or breaching local authority conditions. Access work must therefore be aligned with the building's architectural constraints and any third-party approval requirements.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Castlefield—will you damage my period locks?",
-      "a": "No. Our locksmiths specialise in non-destructive entry on heritage mechanisms common in Manchester's Victorian conversions and conservation areas. We'll pick or manipulate your lock without forcing it, preserving both the mechanism and your listed-building compliance."
-    },
-    {
-      "q": "I'm a landlord with student HMOs in Fallowfield—what's your response time for locked-out tenants between lettings?",
-      "a": "We offer rapid same-day attendance across Manchester's high-density student areas. We'll regain non-destructive entry quickly so you can re-key or refresh the lock for the next tenant without property damage."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Manchester – Fast 24/7 Service",
-  "broken-key-removal.meta.description": "Broken key removal service in Manchester. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7 across Victorian terraces & modern properties.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Manchester requires a skilled locksmith with expertise in locksmithing techniques and specialist equipment. When keys snap or shear inside mortice locks or euro cylinders, our technicians employ non-destructive methods using precision key extractor tools to safely retrieve fragments. We'll restore access to your property without unnecessary damage.",
-  "broken-key-removal.local-context-body": "Manchester's converted warehouse flats and Edwardian semis in Didsbury commonly feature original period locks—mortice and night latches—where key breakage is frequent due to wear and corrosion of internal mechanisms. Extracting snapped keys from these heritage fixtures requires careful handling to avoid damage to cylinder walls and surrounding decorative metalwork, particularly in listed conversions where replacement hardware must meet conservation standards.\n\nCity-centre listed-building conversions and canal-quarter developments impose additional constraints on broken key removal work. Locksmiths must verify that replacement locks and cylinders comply with building insurance requirements and conservation approval before installation, extending the timeframe beyond straightforward extraction on standard modern properties.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Ardwick need specialist broken key removal?",
-      "a": "Many Ardwick terraces still use original mortice locks with tight tolerances and heritage mechanisms; extracting a snapped key requires knowledge of these period lock designs to avoid damaging the cylinder. Our locksmiths are trained to handle both antique and modern euro cylinders common across Manchester's mixed-era housing."
-    },
-    {
-      "q": "Can you remove a broken key from a night latch on a student HMO in Fallowfield?",
-      "a": "Yes—student properties and HMOs often see high turnover and wear on entry locks; we specialise in rapid, non-destructive key extraction from night latches and euro cylinders to minimise disruption during tenant changeovers. We can often remove the key and re-key the lock the same day."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Manchester – Same-Day Response",
-  "burglar-repair-service.meta.description": "Emergency burglar repair service in Manchester. Post-break-in lock changes, door repairs and insurance-compliant reinstatement for Victorian flats and terraces.",
-  "burglar-repair-service.hero-paragraph": "Our Manchester locksmiths specialise in burglar repair and locksmithing services, restoring security after forced entry or break-ins. We fit TS007 anti-snap cylinders and BS3621 mortice locks to protect your property to insurance-compliant standards. Damaged doors and compromised frames receive professional reinforcement, ensuring your home regains full security quickly and reliably.",
-  "burglar-repair-service.local-context-body": "Ardwick's densely packed Victorian terraces present specific challenges for post-break-in reinstatement. These period properties often feature original timber frames and heritage locks that require careful assessment during emergency repair, alongside modern security upgrades that comply with both insurance requirements and conservation principles where listed status applies.\n\nManchester's converted warehouse flats in the city centre and canal quarters frequently fall under conservation regulations, meaning replacement locks and door hardware must be insurance-approved but also sympathetic to listed-building restrictions. Locksmiths undertaking burglar repair work in these conversions need familiarity with both contemporary security standards and the material and aesthetic constraints imposed by local authority planning conditions.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you repair Victorian sash locks and period mechanisms after a break-in in the Gay Village?",
-      "a": "Yes. Many Gay Village conversions retain original Victorian locks and hardware; we're experienced in repairing and reinstating these heritage mechanisms to insurance standard while preserving listed-building compliance."
-    },
-    {
-      "q": "Can you re-key multiple doors quickly after a break-in at an HMO in Fallowfield?",
-      "a": "Absolutely. We offer rapid multi-occupancy re-keying for student lets, ensuring each tenant receives new keys and all entry points are secure and insured within 24–48 hours."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Manchester – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Manchester. Same-day secure boarding of smashed doors and windows for Victorian terraces, flats and conversions after break-ins or storm damage.",
-  "emergency-boarding-up.hero-paragraph": "Our Manchester locksmiths specialise in emergency boarding up, combining locksmithing expertise with rapid response to secure your property. Whether you're dealing with smashed windows or damaged doors, we install robust plywood boards with security screws to create a weatherproof temporary seal. Our 24/7 service meets insurance-compliance standards, ensuring your premises remains protected until permanent repairs can be arranged.",
-  "emergency-boarding-up.local-context-body": "Emergency boarding up in Manchester addresses damage across diverse property types, from period terraces in Gorton to modern city-centre conversions. Victorian and Edwardian housing stock dominates residential areas, requiring careful assessment of original joinery and period frames before temporary boarding is fitted. Warehouse conversions and listed-building flats in the city centre present additional complexity, as boarding solutions must preserve architectural features and comply with conservation standards during emergency stabilization.\n\nListed-building status affects many Manchester properties undergoing emergency repair, particularly converted mills and heritage terraces where boarding materials and methods require insurance-company approval and conservation awareness. Storm damage and break-ins occur year-round across the city's mixed neighbourhoods, but older properties—especially those with original timber frames and sashes—demand locksmiths experienced in securing period joinery without causing secondary damage during the boarding process.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "We've had a break-in at our Victorian terrace in Cheetham Hill – how quickly can you board up the windows?",
-      "a": "We offer same-day emergency boarding up across Manchester, including heritage properties like Victorian terraces in Cheetham Hill. Our team is experienced in securing period windows without causing damage to original frames, and we can arrive within hours of your call on 0161 738 1497."
-    },
-    {
-      "q": "Our converted warehouse flat in the city centre was damaged in a storm – do you work with listed buildings?",
-      "a": "Yes, we regularly board up listed-building conversions and canal-quarter developments across Manchester's city centre, ensuring all temporary security measures comply with conservation requirements. Contact us immediately on 0161 738 1497 for urgent storm damage boarding."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Manchester – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Manchester for moved homes, lost keys & security upgrades. Serving Victorian terraces, Edwardian suburbs & city-centre flats.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Manchester from our experienced locksmiths combine expert locksmithing with modern security solutions. Whether you're moving home, changing tenancy, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure every installation meets current standards for your peace of mind.",
-  "lock-changes.local-context-body": "Lock changes are routine after moves in Manchester's mixed housing stock, where terrace properties in Chorlton-cum-Hardy sit alongside converted warehouse flats in the city centre. Each property type carries different lock specifications: period terraces often retain original mechanisms that must be matched or sympathetically replaced, while modern conversions typically need straightforward cylinder swaps. Rental transitions in high-density student areas like Fallowfield compound demand, requiring swift multi-occupancy rekeying between tenants.\n\nListed-building conversions and conservation-area properties require locksmiths to source insurance-approved hardware that meets heritage standards, adding complexity beyond standard lock replacement. Victorian and Edwardian stock frequently features varied door construction—solid timber frames in older properties versus composite or uPVC in refurbished units—which determines both lock type and installation method. Familiarity with these local variables ensures compliant, durable lock changes across Manchester's diverse neighbourhoods.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved into a Victorian terrace in Castlefield – do I need specialist lock knowledge for a change?",
-      "a": "Yes. Victorian terraces often have period locks with heritage mechanisms that require specialist knowledge to replace safely without damaging original fabric. We're familiar with conservation-area requirements in Castlefield and can supply insurance-approved hardware that meets listed-building standards."
-    },
-    {
-      "q": "We're a student HMO in Fallowfield needing locks changed between tenants – how quickly can you re-key?",
-      "a": "We offer rapid re-keying for multi-occupancy properties across Manchester's student areas. We can set up master-key systems or individual keying per tenant to streamline turnover and maintain security compliance between lettings."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Manchester – Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Manchester. Fix multipoint, mortice & night latch locks on Victorian terraces and Edwardian homes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Manchester from experienced locksmiths specialising in locksmithing techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians deliver reliable solutions backed by manufacturer warranty. We handle everything from mortice maintenance to multipoint servicing, restoring your locks to full working order.",
-  "lock-repairs.local-context-body": "Victorian terraces across Fallowfield and inner Manchester often retain original mortice locks and night latches that, after decades of use, develop worn gearboxes and sticky mechanisms. These heritage locks require skilled repair rather than replacement, especially where the door frame itself has settled or warped—a common issue in properties over 120 years old.\n\nListed-building status affects many lock repairs in Manchester's converted mills and canal-quarter flats. Insurance policies frequently stipulate that multipoint locks must meet current security standards, yet conservation rules restrict visible hardware changes. Repairs must therefore restore function while preserving period appearance, adding complexity that goes beyond standard gearbox or latch servicing.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace locks in Cheetham Hill need specialist repair?",
-      "a": "Victorian terraces use period mortice and night latch mechanisms that differ from modern locks; our locksmiths understand heritage lock gearbox repair and can restore them without replacing original hardware, which is often required by insurers on listed properties."
-    },
-    {
-      "q": "How quickly can you repair a multipoint lock on a student HMO in Fallowfield?",
-      "a": "We offer same-day multipoint lock repairs across student-dense areas like Fallowfield and Chorlton-on-Medlock, crucial when landlords need rapid re-keying between tenants or emergency access restoration."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Manchester | Victorian & Modern Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Manchester city centre & Castlefield. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Listed-building approved.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Manchester from our experienced locksmiths combines expert locksmithing with reliable security solutions. Whether you're upgrading to TS007 anti-snap cylinders, fitting new locks after a house move, or meeting insurance requirements, our technicians install to BS3621 standards. We ensure your property receives secure, compliant protection tailored to your needs.",
-  "door-lock-installation.local-context-body": "Didsbury's tree-lined semi-detached properties and the Victorian terraces of Chorlton-on-Medlock frequently require door lock installation to meet modern security standards. Period properties in these neighborhoods often retain original frames and mechanisms, necessitating careful assessment before fitting BS3621 mortice locks or TS007 anti-snap cylinders. New builds and city-centre conversions demand straightforward multipoint installations, while heritage stock calls for sympathetic hardware selection that complies with the property's listed status.\n\nManchester's converted warehouse flats and listed-building developments in the city centre require locksmiths to verify conservation consent before installing new locks. HMO properties across student-dense areas need keying systems that accommodate multiple occupants and frequent tenant changeovers, often driving demand for re-keying rather than full installation. Solid timber and period-frame doors predominate in Victorian and Edwardian stock, affecting cylinder selection and installation methodology compared to modern composite doors.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in Chorlton-on-Medlock need specialist door lock installation?",
-      "a": "Victorian terraces often have period-specific frame widths and timber depths that require careful assessment before fitting modern BS3621 mortice locks. Locktek installers measure and adapt to heritage specifications to ensure both security and conservation compliance without damaging original joinery."
-    },
-    {
-      "q": "What lock upgrades do student HMOs in Fallowfield typically need during turnover?",
-      "a": "High-density student lets benefit from TS007 anti-snap cylinder upgrades and master-keying systems that allow rapid re-keying between tenants while maintaining landlord access. This protects your investment and meets insurance requirements for multi-occupancy properties."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Manchester | Victorian Terraces & Flats",
-  "door-lock-replacement.meta.description": "Door lock replacement in Manchester. Expert swaps and upgrades for Victorian terraces, modern flats and Edwardian semis. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Door lock replacement in Manchester by our experienced locksmiths combines skilled locksmithing with practical solutions. Whether you've lost keys, experienced lock failure, or are moving home, we install BS3621-approved cylinders and anti-snap upgrades. Our like-for-like replacements minimise disruption to your property whilst ensuring maximum security.",
-  "door-lock-replacement.local-context-body": "Cheetham Hill's Victorian terraces and semi-detached properties often retain original period locks that have degraded or become unreliable over decades. Door lock replacement in these properties requires locksmiths to either source heritage-compatible mechanisms or upgrade to modern equivalents that suit the aesthetic and structural demands of older woodwork.\n\nManchester's listed-building conversions and canal-quarter developments impose conservation constraints on lock replacement work. Insurance-approved locksmiths must verify that replacement hardware complies with building regulations and heritage guidelines before installation, particularly where original joinery or period character must be preserved.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in Gorton – will you replace my original period lock with a modern one?",
-      "a": "Yes, we can upgrade to a modern lock while maintaining the aesthetic of your period property. Many Victorian terraces benefit from higher-security replacements, though listed buildings may require conservation-compliant hardware – we'll advise on what's permitted."
-    },
-    {
-      "q": "We're a student HMO in Fallowfield – how quickly can you replace locks between tenants?",
-      "a": "We offer rapid same-day or next-day lock replacement for multi-occupancy properties, which is essential for HMO turnovers in high-density areas. We can also re-key existing locks to save cost if the hardware is sound."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Manchester | Victorian & Modern Homes",
-  "door-repairs.meta.description": "Door repairs in Manchester—uPVC alignment, composite realignment & handle fixes. Serving Victorian terraces, Edwardian semis & city conversions.",
-  "door-repairs.hero-paragraph": "When your door repairs need expert attention in Manchester, our locksmith team brings professional locksmithing knowledge to every job. Whether you're dealing with dropped doors, catching frames, or draughts affecting uPVC, composite or timber doors, we handle hinge adjustment and multipoint realignment with precision. Fast, reliable service for homes and businesses across the city.",
-  "door-repairs.local-context-body": "Manchester's converted warehouse flats in Castlefield and Ancoats frequently require door repairs addressing dropped frames and misaligned hardware—common issues where Victorian brickwork has settled over time. Semi-detached properties across the suburbs show similar wear patterns, particularly on original external doors where timber has warped or hardware has corroded through decades of use.\n\nListed-building conversions in the city centre and conservation-area developments demand repairs using period-appropriate hardware and methods compliant with planning regulations. Locksmiths undertaking door work in these zones must verify conservation requirements before replacing hinges, strikes or threshold components, as modern substitutions may breach listed-building consent conditions.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terrace doors in Manchester often drop or misalign?",
-      "a": "Victorian terraces settle unevenly over time, causing door frames to shift and hinges to strain. We're familiar with period hardware and can realign or repair doors without compromising their heritage character."
-    },
-    {
-      "q": "Can you repair doors on listed buildings in Manchester's City Centre conversions?",
-      "a": "Yes—we work with conservation-compliant hardware on listed conversions, particularly in canal-quarter developments. We'll ensure repairs meet insurance and planning requirements while restoring proper function."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Manchester – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Manchester. Expert fixes for espagnolette, shootbolt locks on Victorian terraces, flats & modern homes. Fast service.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Manchester requires skilled locksmiths trained in modern locksmithing techniques. We specialise in fixing windows that won't lock and restoring broken handles, whether dealing with espagnolette mechanisms or shootbolt locks. All work meets insurance-compliant standards, ensuring your home remains secure and properly functioning.",
-  "window-lock-repair-replacement.local-context-body": "Window lock failures are particularly common in Ardwick's dense Victorian terraces, where original timber sashes and period espagnolette mechanisms have deteriorated over decades. Semi-detached properties across Blackley similarly require attention to worn shootbolt hardware, especially where multi-generational occupancy has accelerated wear. Replacement specifications must account for period-appropriate aesthetics alongside functional security upgrades.\n\nListed-building status affects window lock work across many of Manchester's conservation areas and converted warehouse flats. Insurance-approved replacements often mandate heritage-compliant hardware that matches original styles rather than modern alternatives. Locksmiths undertaking this work need familiarity with period lock mechanisms and conservation officer requirements to avoid breaching building regulations on protected properties.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace window locks in Manchester often need specialist repair?",
-      "a": "Victorian terraces across Manchester commonly feature period espagnolette locks with heritage mechanisms that differ from modern shootbolts; our locksmiths understand these specialist requirements and can repair or replace them while maintaining conservation standards, especially important in listed properties around Castlefield and Ancoats."
-    },
-    {
-      "q": "Do student HMOs in Fallowfield need different window lock solutions than family homes?",
-      "a": "Yes—multi-occupancy properties require robust, keyed window locks that can be rekeyed between tenants; we supply and install durable shootbolt mechanisms suitable for high-turnover HMO lettings, ensuring both security and quick changeovers."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Manchester | Victorian Terrace Safes",
-  "safe-installation.meta.description": "Safe installation in Manchester city centre & Castlefield. Wall, floor & freestanding safes with insurance documentation & secure anchoring.",
-  "safe-installation.hero-paragraph": "Professional safe installation from Manchester's trusted locksmith specialists in locksmithing ensures your valuables are properly secured. Whether you're installing a new safe or meeting insurance approval requirements, our technicians use floor anchoring and wall mounting techniques to achieve AiS-approved security standards. We handle every installation with precision to give you complete peace of mind.",
-  "safe-installation.local-context-body": "Manchester's City Centre conversions and listed-building developments create particular demand for safe installation work. Modern flats in canal-quarter regeneration zones often lack the solid masonry of older properties, requiring specialist anchoring solutions. Edwardian semis in Heaton Chapel, by contrast, offer substantial walls suitable for wall-safe installation, making them straightforward for permanent fixture work.\n\nListed-building status across many central conversions means safe installation must comply with conservation guidelines; insurance-approved locksmiths need familiarity with heritage documentation requirements before any wall penetration work. Period properties throughout Manchester's stock—whether Victorian terraces or Edwardian suburbs—frequently feature plasterboard or lath-and-plaster internal walls that demand careful assessment of load-bearing capacity before floor or wall anchoring.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Can you install a safe in a Victorian terrace or converted warehouse flat in Manchester?",
-      "a": "Yes—we regularly install safes in Manchester's period properties, including Victorian terraces and converted mill flats. We understand the structural considerations of heritage buildings and ensure installations comply with conservation requirements for listed conversions, particularly in the City Centre and canal-quarter developments."
-    },
-    {
-      "q": "Do you provide insurance documentation for safe installations in student HMOs around Fallowfield and Chorlton-on-Medlock?",
-      "a": "Absolutely. We supply full insurance-approved documentation with every safe installation, which is essential for multi-occupancy properties and high-turnover student lets. Proper anchoring and certification protect your landlord liability and tenant valuables."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Manchester | Victorian Terraces & Flats",
-  "safe-opening.meta.description": "Safe opening in Manchester: lost combinations, keys & lockouts. Non-destructive expert service for Victorian terraces, city flats & converted mills.",
-  "safe-opening.hero-paragraph": "Our Manchester locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ combination dial manipulation and precision tools to access your safe without damage. Fast, professional service when you need it most.",
-  "safe-opening.local-context-body": "Ancoats' rapid regeneration has created mixed demand for safe opening across converted warehouse flats and new-build apartments, where residents often inherit safes with unknown combinations or missing documentation. Victorian conversions in the Gay Village similarly require non-destructive access to period fixtures and embedded safes, where heritage considerations shape how opening work must proceed without compromising listed-building fabric.\n\nListed-building conversions across Manchester's canal quarter and conservation areas impose strict requirements on safe opening methods—insurance providers and local authorities typically mandate non-destructive techniques to preserve original metalwork and structural integrity. Locksmiths working on these properties must verify conservation compliance before attempting any opening work.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm locked out of a safe in my Victorian terrace in Cheetham Hill – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties. Many older Manchester terraces contain original or heritage safes that require specialist techniques to preserve both the mechanism and the listed-building fabric, and we'll assess the safest approach on-site."
-    },
-    {
-      "q": "Our student HMO in Chorlton-on-Medlock has a safe with a lost combination – how quickly can you help?",
-      "a": "We offer rapid non-destructive opening for multi-occupancy properties across Manchester, including student accommodation. We can typically access combination safes without drilling, minimising downtime between tenants and avoiding costly damage claims."
-    }
-  ],
-  "home.areas-covered": [
-    "Abbey Hey",
-    "Adswood",
-    "Alkrington",
-    "Ancoats",
-    "Ardwick",
-    "Baguley",
-    "Belle Vue",
-    "Benchill",
-    "Beswick",
-    "Blackfriars",
-    "Blackley",
-    "Boothroyden",
-    "Bradford",
-    "Bramhall Green",
-    "Bridgehall",
-    "Broughton Park",
-    "Brunswick",
-    "Burnage",
-    "Burnage Garden Village",
-    "Cale Green",
-    "Castlefield",
-    "Central Retail District",
-    "Charlestown",
-    "Cheadle Heath",
-    "Cheetham Hill",
-    "Chinatown",
-    "Chorlton-cum-Hardy",
-    "Chorlton-on-Medlock",
-    "Chorltonville",
-    "Circle Square",
-    "City Centre",
-    "Civic Quarter",
-    "Clayton",
-    "Collyhurst",
-    "Crumpsall",
-    "Curry Mile",
-    "Davenport",
-    "Davenport Green",
-    "Didsbury",
-    "Eden Park",
-    "Edgeley",
-    "Fairfield",
-    "Fallowfield",
-    "Fallowfield Triangle",
-    "Farm Fold",
-    "First Street",
-    "Gatley",
-    "Gay Village",
-    "Gillbent",
-    "Gorse Hill",
-    "Gorton",
-    "Green Quarter",
-    "Hale Barns",
-    "Handforth",
-    "Harpurhey",
-    "Heald Green",
-    "Heaton Chapel",
-    "Heaton Mersey",
-    "Heaton Moor",
-    "Heaton Norris",
-    "Heaton Park",
-    "Heaviley",
-    "Higher Blackley",
-    "Higher Broughton",
-    "Holt Lane End",
-    "Hulme",
-    "Irlams o' th' Height",
-    "Kersal",
-    "Kingswood",
-    "Kirkhams",
-    "Kitt's Moss",
-    "Ladybarn",
-    "Lakes Estate",
-    "Levenshulme",
-    "Little Australia",
-    "Little Bolton",
-    "Longsight",
-    "Lower Broughton",
-    "MediaCityUK",
-    "Medieval Quarter",
-    "Middleton Junction",
-    "Miles Platting",
-    "Mosley",
-    "Moss Nook",
-    "Moss Side",
-    "Moston",
-    "NOMA",
-    "New Cross",
-    "New Islington",
-    "New Jackson",
-    "New Moston",
-    "Newall Green",
-    "Newton Heath",
-    "Nimble Nook",
-    "North Reddish",
-    "Northenden",
-    "Northern Moor",
-    "Northern Quarter",
-    "Old Trafford",
-    "Openshaw",
-    "Ordsall",
-    "Park Lane",
-    "Parklands",
-    "Parrs Wood",
-    "Peel Hall",
-    "Pendleton",
-    "Petersfield",
-    "Piccadilly",
-    "Portwood",
-    "Pownall Green",
-    "Rainsough",
-    "Reddish",
-    "Reddish Bridge",
-    "Ringway",
-    "Rusholme",
-    "Sale Moor",
-    "Salford Quays",
-    "Sedgley Park",
-    "Seedley",
-    "Sharston",
-    "Shaw Heath",
-    "Smithy Green",
-    "South Reddish",
-    "Spinningfields",
-    "St. Johns",
-    "Strangeways",
-    "Styal",
-    "Thatch Leach",
-    "The Four Heatons",
-    "Trinity",
-    "Victoria Park",
-    "Weaste",
-    "West Didsbury",
-    "Whalley Range",
-    "Wharfside",
-    "White Gate",
-    "Withington",
-    "Woodford",
-    "Woodford Garden Village",
-    "Woodhouse Park"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Benchill",
-    "Ordsall",
-    "Adswood",
-    "Hale Barns",
-    "Parklands",
-    "NOMA",
-    "Boothroyden",
-    "Shaw Heath",
-    "Sharston",
-    "New Cross",
-    "Ardwick"
-  ],
-  "locked-out.areas-covered": [
-    "Medieval Quarter",
-    "Bradford",
-    "Chorlton-cum-Hardy",
-    "MediaCityUK",
-    "Old Trafford",
-    "Heaton Chapel",
-    "Gillbent",
-    "Moss Nook",
-    "Fallowfield Triangle",
-    "Edgeley",
-    "Victoria Park"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Gatley",
-    "Heaton Moor",
-    "Higher Blackley",
-    "Davenport",
-    "Newton Heath",
-    "Civic Quarter",
-    "Heald Green",
-    "Weaste",
-    "Little Australia",
-    "Parrs Wood",
-    "Newall Green"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Longsight",
-    "Northenden",
-    "Piccadilly",
-    "Lakes Estate",
-    "Central Retail District",
-    "Heaviley",
-    "Pendleton",
-    "Cheetham Hill",
-    "St. Johns",
-    "Gorse Hill",
-    "New Islington"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Cale Green",
-    "Chinatown",
-    "Ancoats",
-    "Whalley Range",
-    "Woodhouse Park",
-    "Circle Square",
-    "Sale Moor",
-    "Moss Side",
-    "Northern Quarter",
-    "Didsbury",
-    "Bridgehall"
-  ],
-  "lock-changes.areas-covered": [
-    "Cheadle Heath",
-    "Handforth",
-    "Collyhurst",
-    "Levenshulme",
-    "Middleton Junction",
-    "Kitt's Moss",
-    "Eden Park",
-    "Salford Quays",
-    "Blackfriars",
-    "Mosley",
-    "Fallowfield"
-  ],
-  "lock-repairs.areas-covered": [
-    "Kersal",
-    "Withington",
-    "Portwood",
-    "Davenport Green",
-    "Alkrington",
-    "Pownall Green",
-    "Burnage",
-    "Openshaw",
-    "Peel Hall",
-    "Irlams o' th' Height",
-    "Northern Moor"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Wharfside",
-    "Higher Broughton",
-    "First Street",
-    "Blackley",
-    "Smithy Green",
-    "Chorltonville",
-    "Castlefield",
-    "Sedgley Park",
-    "Reddish",
-    "White Gate",
-    "The Four Heatons"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Nimble Nook",
-    "Harpurhey",
-    "Rusholme",
-    "Styal",
-    "North Reddish",
-    "Woodford",
-    "Green Quarter",
-    "New Moston",
-    "West Didsbury",
-    "Miles Platting",
-    "Rainsough"
-  ],
-  "door-repairs.areas-covered": [
-    "Heaton Mersey",
-    "Trinity",
-    "Bramhall Green",
-    "Little Bolton",
-    "Woodford Garden Village",
-    "Spinningfields",
-    "Thatch Leach",
-    "Park Lane",
-    "Farm Fold",
-    "South Reddish",
-    "Broughton Park"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Beswick",
-    "Gay Village",
-    "Holt Lane End",
-    "Crumpsall",
-    "Kirkhams",
-    "Ringway",
-    "Fairfield",
-    "City Centre",
-    "Burnage Garden Village",
-    "Heaton Park"
-  ],
-  "safe-installation.areas-covered": [
-    "Seedley",
-    "Belle Vue",
-    "Strangeways",
-    "Kingswood",
-    "Charlestown",
-    "Brunswick",
-    "Ladybarn",
-    "Curry Mile",
-    "Gorton",
-    "Chorlton-on-Medlock"
-  ],
-  "safe-opening.areas-covered": [
-    "Lower Broughton",
-    "Moston",
-    "Reddish Bridge",
-    "Hulme",
-    "New Jackson",
-    "Baguley",
-    "Petersfield",
-    "Heaton Norris",
-    "Abbey Hey",
-    "Clayton"
-  ]
+ "meta.title": "Locksmith Manchester | Local Locksmithing Service 24/7",
+ "meta.description": "Locksmith services in Manchester covering Victorian terraces, HMOs and listed conversions. Emergency lock changes, repairs and security upgrades 24/7.",
+ "home.hero-paragraph": "Manchester locksmith services specialising in professional locksmithing and emergency lock assistance are available 24/7. We handle lockouts, lock changes, and security upgrades with non-destructive entry methods. All our engineers are DBS checked and fully insured, with no call-out fees for genuine emergencies across the Greater Manchester area.",
+ "home.local-context-heading": "Why Manchester Properties Need Specialist Locksmiths",
+ "home.local-context-body": "Victorian terraces in Cheetham Hill and similar older stock across Manchester often retain period locks and mechanisms that require specialist attention. Mixed-era properties\u2014from converted mills to Edwardian semis\u2014present varied keying needs. Standard modern locks may not suit heritage hardware, and forced solutions risk damage to original fittings. Locksmiths familiar with period mechanisms and conservation-compliant options are essential for maintaining both security and property integrity in these areas.\n\nMulti-occupancy properties in student-dense zones like Fallowfield demand rapid re-keying between tenants and coordinated master-key systems. Listed-building conversions and canal-quarter developments require insurance-approved locksmiths who understand conservation restrictions on hardware changes. Door types vary significantly across Manchester's stock, so assessment before ordering parts prevents delays and unnecessary site visits.",
+ "home.local-faqs": [
+  {
+   "q": "Do you work on Victorian terraces in areas like Cheetham Hill?",
+   "a": "Yes, we specialise in period locks found in Manchester's Victorian terraces and converted warehouse flats. These older mechanisms often require specialist knowledge, and we're experienced in maintaining and repairing heritage hardware while preserving authenticity."
+  },
+  {
+   "q": "Can you help with rapid re-keying for student HMOs?",
+   "a": "Absolutely. We handle multi-occupancy keying and fast turnarounds between tenants, which is essential given the high HMO density in areas like Fallowfield and Chorlton-on-Medlock. We'll ensure each resident gets secure, independent access quickly."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Manchester \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "Emergency locksmith Manchester 24/7. Locked out, snapped keys, failed locks? Fast response across Victorian terraces and city centre. Non-destructive entry.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Manchester, our locksmiths combine decades of locksmithing expertise with round-the-clock availability. Whether you're locked out, have snapped a key, or need post-break-in repairs, our DBS-checked technicians arrive promptly using non-destructive entry methods to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Manchester's mixed housing stock\u2014from converted warehouse flats in Castlefield to modern city-centre apartments\u2014creates varied emergency locksmith demands. Listed-building conversions and conservation-area properties require locksmiths familiar with period mechanisms and heritage-compliant hardware, while newer developments present different security challenges. Urgent lockouts, snapped keys, and post-break-in work span this range of property types and eras across the city.\n\nEmergency callouts in Manchester frequently involve heritage locks in Victorian conversions, where period mechanisms may require specialist knowledge rather than straightforward replacement. Listed-building status on many canal-quarter and city-centre properties can restrict hardware choices, meaning emergency repairs must balance immediate access needs with conservation requirements and insurer approval.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Chorlton-cum-Hardy \u2013 how quickly can you arrive for an emergency call?",
+   "a": "We operate 24/7 emergency lockouts across Manchester and aim to reach Chorlton-cum-Hardy within 30\u201345 minutes. Victorian terraces often have period locks that require specialist handling, so we carry heritage-compatible tools to avoid damage to original mechanisms."
+  },
+  {
+   "q": "My converted warehouse flat in the city centre was broken into \u2013 do you handle post-break-in security work and insurance approvals?",
+   "a": "Yes. We're familiar with listed-building conversions and canal-quarter developments, and we provide insurance-approved emergency re-keying and lock replacement that meets conservation compliance requirements for city-centre properties."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Manchester | 24/7 Fast Response",
+ "locked-out.meta.description": "Locked out in Manchester? Locktek provides fast, non-destructive entry for lost or snapped keys. Emergency service for Victorian terraces, flats & semis across Burnage & beyond.",
+ "locked-out.hero-paragraph": "When you're locked out in Manchester, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether your keys are lost, snapped, or trapped behind a closed door, we use non-destructive entry methods to regain access without damage to your property. Available around the clock for emergency callouts across the Manchester area.",
+ "locked-out.local-context-body": "Fallowfield's high-density student housing means landlords and letting agents frequently call for rapid re-keying between tenants\u2014often after keys go missing or are not returned. The area's Edwardian terraces, typically divided into HMO units, present logistical challenges when occupants are locked out: communal hallways and multiple locks per property require swift, non-destructive access that preserves the landlord's investment in the building fabric.\n\nManchester's converted warehouse flats in the city centre and canal quarter often retain period locks fitted to listed-building frames. Non-destructive entry on these properties demands familiarity with heritage mechanisms and conservation-compliant hardware; forcing entry risks triggering insurance exclusions or breaching local authority conditions. Access work must therefore be aligned with the building's architectural constraints and any third-party approval requirements.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Castlefield\u2014will you damage my period locks?",
+   "a": "No. Our locksmiths specialise in non-destructive entry on heritage mechanisms common in Manchester's Victorian conversions and conservation areas. We'll pick or manipulate your lock without forcing it, preserving both the mechanism and your listed-building compliance."
+  },
+  {
+   "q": "I'm a landlord with student HMOs in Fallowfield\u2014what's your response time for locked-out tenants between lettings?",
+   "a": "We offer rapid same-day attendance across Manchester's high-density student areas. We'll regain non-destructive entry quickly so you can re-key or refresh the lock for the next tenant without property damage."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Manchester \u2013 Fast 24/7 Service",
+ "broken-key-removal.meta.description": "Broken key removal service in Manchester. Expert extraction from euro cylinders, mortice locks & night latches. Fast, non-destructive. Available 24/7 across Victorian terraces & modern properties.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Manchester requires a skilled locksmith with expertise in locksmithing techniques and specialist equipment. When keys snap or shear inside mortice locks or euro cylinders, our technicians employ non-destructive methods using precision key extractor tools to safely retrieve fragments. We'll restore access to your property without unnecessary damage.",
+ "broken-key-removal.local-context-body": "Manchester's converted warehouse flats and Edwardian semis in Didsbury commonly feature original period locks\u2014mortice and night latches\u2014where key breakage is frequent due to wear and corrosion of internal mechanisms. Extracting snapped keys from these heritage fixtures requires careful handling to avoid damage to cylinder walls and surrounding decorative metalwork, particularly in listed conversions where replacement hardware must meet conservation standards.\n\nCity-centre listed-building conversions and canal-quarter developments impose additional constraints on broken key removal work. Locksmiths must verify that replacement locks and cylinders comply with building insurance requirements and conservation approval before installation, extending the timeframe beyond straightforward extraction on standard modern properties.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Ardwick need specialist broken key removal?",
+   "a": "Many Ardwick terraces still use original mortice locks with tight tolerances and heritage mechanisms; extracting a snapped key requires knowledge of these period lock designs to avoid damaging the cylinder. Our locksmiths are trained to handle both antique and modern euro cylinders common across Manchester's mixed-era housing."
+  },
+  {
+   "q": "Can you remove a broken key from a night latch on a student HMO in Fallowfield?",
+   "a": "Yes\u2014student properties and HMOs often see high turnover and wear on entry locks; we specialise in rapid, non-destructive key extraction from night latches and euro cylinders to minimise disruption during tenant changeovers. We can often remove the key and re-key the lock the same day."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Manchester \u2013 Same-Day Response",
+ "burglar-repair-service.meta.description": "Emergency burglar repair service in Manchester. Post-break-in lock changes, door repairs and insurance-compliant reinstatement for Victorian flats and terraces.",
+ "burglar-repair-service.hero-paragraph": "Our Manchester locksmiths specialise in burglar repair and locksmithing services, restoring security after forced entry or break-ins. We fit TS007 anti-snap cylinders and BS3621 mortice locks to protect your property to insurance-compliant standards. Damaged doors and compromised frames receive professional reinforcement, ensuring your home regains full security quickly and reliably.",
+ "burglar-repair-service.local-context-body": "Ardwick's densely packed Victorian terraces present specific challenges for post-break-in reinstatement. These period properties often feature original timber frames and heritage locks that require careful assessment during emergency repair, alongside modern security upgrades that comply with both insurance requirements and conservation principles where listed status applies.\n\nManchester's converted warehouse flats in the city centre and canal quarters frequently fall under conservation regulations, meaning replacement locks and door hardware must be insurance-approved but also sympathetic to listed-building restrictions. Locksmiths undertaking burglar repair work in these conversions need familiarity with both contemporary security standards and the material and aesthetic constraints imposed by local authority planning conditions.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you repair Victorian sash locks and period mechanisms after a break-in in the Gay Village?",
+   "a": "Yes. Many Gay Village conversions retain original Victorian locks and hardware; we're experienced in repairing and reinstating these heritage mechanisms to insurance standard while preserving listed-building compliance."
+  },
+  {
+   "q": "Can you re-key multiple doors quickly after a break-in at an HMO in Fallowfield?",
+   "a": "Absolutely. We offer rapid multi-occupancy re-keying for student lets, ensuring each tenant receives new keys and all entry points are secure and insured within 24\u201348 hours."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Manchester \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Manchester. Same-day secure boarding of smashed doors and windows for Victorian terraces, flats and conversions after break-ins or storm damage.",
+ "emergency-boarding-up.hero-paragraph": "Our Manchester locksmiths specialise in emergency boarding up, combining locksmithing expertise with rapid response to secure your property. Whether you're dealing with smashed windows or damaged doors, we install robust plywood boards with security screws to create a weatherproof temporary seal. Our 24/7 service meets insurance-compliance standards, ensuring your premises remains protected until permanent repairs can be arranged.",
+ "emergency-boarding-up.local-context-body": "Emergency boarding up in Manchester addresses damage across diverse property types, from period terraces in Gorton to modern city-centre conversions. Victorian and Edwardian housing stock dominates residential areas, requiring careful assessment of original joinery and period frames before temporary boarding is fitted. Warehouse conversions and listed-building flats in the city centre present additional complexity, as boarding solutions must preserve architectural features and comply with conservation standards during emergency stabilisation.\n\nListed-building status affects many Manchester properties undergoing emergency repair, particularly converted mills and heritage terraces where boarding materials and methods require insurance-company approval and conservation awareness. Storm damage and break-ins occur year-round across the city's mixed neighbourhoods, but older properties\u2014especially those with original timber frames and sashes\u2014demand locksmiths experienced in securing period joinery without causing secondary damage during the boarding process.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "We've had a break-in at our Victorian terrace in Cheetham Hill \u2013 how quickly can you board up the windows?",
+   "a": "We offer same-day emergency boarding up across Manchester, including heritage properties like Victorian terraces in Cheetham Hill. Our team is experienced in securing period windows without causing damage to original frames, and we can arrive within hours of your call on 0161 738 1497."
+  },
+  {
+   "q": "Our converted warehouse flat in the city centre was damaged in a storm \u2013 do you work with listed buildings?",
+   "a": "Yes, we regularly board up listed-building conversions and canal-quarter developments across Manchester's city centre, ensuring all temporary security measures comply with conservation requirements. Contact us immediately on 0161 738 1497 for urgent storm damage boarding."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Manchester \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Manchester for moved homes, lost keys & security upgrades. Serving Victorian terraces, Edwardian suburbs & city-centre flats.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Manchester from our experienced locksmiths combine expert locksmithing with modern security solutions. Whether you're moving home, changing tenancy, or upgrading security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure every installation meets current standards for your peace of mind.",
+ "lock-changes.local-context-body": "Lock changes are routine after moves in Manchester's mixed housing stock, where terrace properties in Chorlton-cum-Hardy sit alongside converted warehouse flats in the city centre. Each property type carries different lock specifications: period terraces often retain original mechanisms that must be matched or sympathetically replaced, while modern conversions typically need straightforward cylinder swaps. Rental transitions in high-density student areas like Fallowfield compound demand, requiring swift multi-occupancy rekeying between tenants.\n\nListed-building conversions and conservation-area properties require locksmiths to source insurance-approved hardware that meets heritage standards, adding complexity beyond standard lock replacement. Victorian and Edwardian stock frequently features varied door construction\u2014solid timber frames in older properties versus composite or uPVC in refurbished units\u2014which determines both lock type and installation method. Familiarity with these local variables ensures compliant, durable lock changes across Manchester's diverse neighbourhoods.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved into a Victorian terrace in Castlefield \u2013 do I need specialist lock knowledge for a change?",
+   "a": "Yes. Victorian terraces often have period locks with heritage mechanisms that require specialist knowledge to replace safely without damaging original fabric. We're familiar with conservation-area requirements in Castlefield and can supply insurance-approved hardware that meets listed-building standards."
+  },
+  {
+   "q": "We're a student HMO in Fallowfield needing locks changed between tenants \u2013 how quickly can you re-key?",
+   "a": "We offer rapid re-keying for multi-occupancy properties across Manchester's student areas. We can set up master-key systems or individual keying per tenant to streamline turnover and maintain security compliance between lettings."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Manchester \u2013 Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Manchester. Fix multipoint, mortice & night latch locks on Victorian terraces and Edwardian homes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Manchester from experienced locksmiths specialising in locksmithing techniques. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians deliver reliable solutions backed by manufacturer warranty. We handle everything from mortice maintenance to multipoint servicing, restoring your locks to full working order.",
+ "lock-repairs.local-context-body": "Victorian terraces across Fallowfield and inner Manchester often retain original mortice locks and night latches that, after decades of use, develop worn gearboxes and sticky mechanisms. These heritage locks require skilled repair rather than replacement, especially where the door frame itself has settled or warped\u2014a common issue in properties over 120 years old.\n\nListed-building status affects many lock repairs in Manchester's converted mills and canal-quarter flats. Insurance policies frequently stipulate that multipoint locks must meet current security standards, yet conservation rules restrict visible hardware changes. Repairs must therefore restore function while preserving period appearance, adding complexity that goes beyond standard gearbox or latch servicing.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace locks in Cheetham Hill need specialist repair?",
+   "a": "Victorian terraces use period mortice and night latch mechanisms that differ from modern locks; our locksmiths understand heritage lock gearbox repair and can restore them without replacing original hardware, which is often required by insurers on listed properties."
+  },
+  {
+   "q": "How quickly can you repair a multipoint lock on a student HMO in Fallowfield?",
+   "a": "We offer same-day multipoint lock repairs across student-dense areas like Fallowfield and Chorlton-on-Medlock, crucial when landlords need rapid re-keying between tenants or emergency access restoration."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Manchester | Victorian & Modern Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Manchester city centre & Castlefield. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings. Listed-building approved.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Manchester from our experienced locksmiths combines expert locksmithing with reliable security solutions. Whether you're upgrading to TS007 anti-snap cylinders, fitting new locks after a house move, or meeting insurance requirements, our technicians install to BS3621 standards. We ensure your property receives secure, compliant protection tailored to your needs.",
+ "door-lock-installation.local-context-body": "Didsbury's tree-lined semi-detached properties and the Victorian terraces of Chorlton-on-Medlock frequently require door lock installation to meet modern security standards. Period properties in these neighbourhoods often retain original frames and mechanisms, necessitating careful assessment before fitting BS3621 mortice locks or TS007 anti-snap cylinders. New builds and city-centre conversions demand straightforward multipoint installations, while heritage stock calls for sympathetic hardware selection that complies with the property's listed status.\n\nManchester's converted warehouse flats and listed-building developments in the city centre require locksmiths to verify conservation consent before installing new locks. HMO properties across student-dense areas need keying systems that accommodate multiple occupants and frequent tenant changeovers, often driving demand for re-keying rather than full installation. Solid timber and period-frame doors predominate in Victorian and Edwardian stock, affecting cylinder selection and installation methodology compared to modern composite doors.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in Chorlton-on-Medlock need specialist door lock installation?",
+   "a": "Victorian terraces often have period-specific frame widths and timber depths that require careful assessment before fitting modern BS3621 mortice locks. Locktek installers measure and adapt to heritage specifications to ensure both security and conservation compliance without damaging original joinery."
+  },
+  {
+   "q": "What lock upgrades do student HMOs in Fallowfield typically need during turnover?",
+   "a": "High-density student lets benefit from TS007 anti-snap cylinder upgrades and master-keying systems that allow rapid re-keying between tenants while maintaining landlord access. This protects your investment and meets insurance requirements for multi-occupancy properties."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Manchester | Victorian Terraces & Flats",
+ "door-lock-replacement.meta.description": "Door lock replacement in Manchester. Expert swaps and upgrades for Victorian terraces, modern flats and Edwardian semis. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Door lock replacement in Manchester by our experienced locksmiths combines skilled locksmithing with practical solutions. Whether you've lost keys, experienced lock failure, or are moving home, we install BS3621-approved cylinders and anti-snap upgrades. Our like-for-like replacements minimise disruption to your property whilst ensuring maximum security.",
+ "door-lock-replacement.local-context-body": "Cheetham Hill's Victorian terraces and semi-detached properties often retain original period locks that have degraded or become unreliable over decades. Door lock replacement in these properties requires locksmiths to either source heritage-compatible mechanisms or upgrade to modern equivalents that suit the aesthetic and structural demands of older woodwork.\n\nManchester's listed-building conversions and canal-quarter developments impose conservation constraints on lock replacement work. Insurance-approved locksmiths must verify that replacement hardware complies with building regulations and heritage guidelines before installation, particularly where original joinery or period character must be preserved.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in Gorton \u2013 will you replace my original period lock with a modern one?",
+   "a": "Yes, we can upgrade to a modern lock while maintaining the aesthetic of your period property. Many Victorian terraces benefit from higher-security replacements, though listed buildings may require conservation-compliant hardware \u2013 we'll advise on what's permitted."
+  },
+  {
+   "q": "We're a student HMO in Fallowfield \u2013 how quickly can you replace locks between tenants?",
+   "a": "We offer rapid same-day or next-day lock replacement for multi-occupancy properties, which is essential for HMO turnovers in high-density areas. We can also re-key existing locks to save cost if the hardware is sound."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Manchester | Victorian & Modern Homes",
+ "door-repairs.meta.description": "Door repairs in Manchester\u2014uPVC alignment, composite realignment & handle fixes. Serving Victorian terraces, Edwardian semis & city conversions.",
+ "door-repairs.hero-paragraph": "When your door repairs need expert attention in Manchester, our locksmith team brings professional locksmithing knowledge to every job. Whether you're dealing with dropped doors, catching frames, or draughts affecting uPVC, composite or timber doors, we handle hinge adjustment and multipoint realignment with precision. Fast, reliable service for homes and businesses across the city.",
+ "door-repairs.local-context-body": "Manchester's converted warehouse flats in Castlefield and Ancoats frequently require door repairs addressing dropped frames and misaligned hardware\u2014common issues where Victorian brickwork has settled over time. Semi-detached properties across the suburbs show similar wear patterns, particularly on original external doors where timber has warped or hardware has corroded through decades of use.\n\nListed-building conversions in the city centre and conservation-area developments demand repairs using period-appropriate hardware and methods compliant with planning regulations. Locksmiths undertaking door work in these zones must verify conservation requirements before replacing hinges, strikes or threshold components, as modern substitutions may breach listed-building consent conditions.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terrace doors in Manchester often drop or misalign?",
+   "a": "Victorian terraces settle unevenly over time, causing door frames to shift and hinges to strain. We're familiar with period hardware and can realign or repair doors without compromising their heritage character."
+  },
+  {
+   "q": "Can you repair doors on listed buildings in Manchester's City Centre conversions?",
+   "a": "Yes\u2014we work with conservation-compliant hardware on listed conversions, particularly in canal-quarter developments. We'll ensure repairs meet insurance and planning requirements while restoring proper function."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Manchester \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Manchester. Expert fixes for espagnolette, shootbolt locks on Victorian terraces, flats & modern homes. Fast service.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Manchester requires skilled locksmiths trained in modern locksmithing techniques. We specialise in fixing windows that won't lock and restoring broken handles, whether dealing with espagnolette mechanisms or shootbolt locks. All work meets insurance-compliant standards, ensuring your home remains secure and properly functioning.",
+ "window-lock-repair-replacement.local-context-body": "Window lock failures are particularly common in Ardwick's dense Victorian terraces, where original timber sashes and period espagnolette mechanisms have deteriorated over decades. Semi-detached properties across Blackley similarly require attention to worn shootbolt hardware, especially where multi-generational occupancy has accelerated wear. Replacement specifications must account for period-appropriate aesthetics alongside functional security upgrades.\n\nListed-building status affects window lock work across many of Manchester's conservation areas and converted warehouse flats. Insurance-approved replacements often mandate heritage-compliant hardware that matches original styles rather than modern alternatives. Locksmiths undertaking this work need familiarity with period lock mechanisms and conservation officer requirements to avoid breaching building regulations on protected properties.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace window locks in Manchester often need specialist repair?",
+   "a": "Victorian terraces across Manchester commonly feature period espagnolette locks with heritage mechanisms that differ from modern shootbolts; our locksmiths understand these specialist requirements and can repair or replace them while maintaining conservation standards, especially important in listed properties around Castlefield and Ancoats."
+  },
+  {
+   "q": "Do student HMOs in Fallowfield need different window lock solutions than family homes?",
+   "a": "Yes\u2014multi-occupancy properties require robust, keyed window locks that can be rekeyed between tenants; we supply and install durable shootbolt mechanisms suitable for high-turnover HMO lettings, ensuring both security and quick changeovers."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Manchester | Victorian Terrace Safes",
+ "safe-installation.meta.description": "Safe installation in Manchester city centre & Castlefield. Wall, floor & freestanding safes with insurance documentation & secure anchoring.",
+ "safe-installation.hero-paragraph": "Professional safe installation from Manchester's trusted locksmith specialists in locksmithing ensures your valuables are properly secured. Whether you're installing a new safe or meeting insurance approval requirements, our technicians use floor anchoring and wall mounting techniques to achieve AiS-approved security standards. We handle every installation with precision to give you complete peace of mind.",
+ "safe-installation.local-context-body": "Manchester's City Centre conversions and listed-building developments create particular demand for safe installation work. Modern flats in canal-quarter regeneration zones often lack the solid masonry of older properties, requiring specialist anchoring solutions. Edwardian semis in Heaton Chapel, by contrast, offer substantial walls suitable for wall-safe installation, making them straightforward for permanent fixture work.\n\nListed-building status across many central conversions means safe installation must comply with conservation guidelines; insurance-approved locksmiths need familiarity with heritage documentation requirements before any wall penetration work. Period properties throughout Manchester's stock\u2014whether Victorian terraces or Edwardian suburbs\u2014frequently feature plasterboard or lath-and-plaster internal walls that demand careful assessment of load-bearing capacity before floor or wall anchoring.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Can you install a safe in a Victorian terrace or converted warehouse flat in Manchester?",
+   "a": "Yes\u2014we regularly install safes in Manchester's period properties, including Victorian terraces and converted mill flats. We understand the structural considerations of heritage buildings and ensure installations comply with conservation requirements for listed conversions, particularly in the City Centre and canal-quarter developments."
+  },
+  {
+   "q": "Do you provide insurance documentation for safe installations in student HMOs around Fallowfield and Chorlton-on-Medlock?",
+   "a": "Absolutely. We supply full insurance-approved documentation with every safe installation, which is essential for multi-occupancy properties and high-turnover student lets. Proper anchoring and certification protect your landlord liability and tenant valuables."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Manchester | Victorian Terraces & Flats",
+ "safe-opening.meta.description": "Safe opening in Manchester: lost combinations, keys & lockouts. Non-destructive expert service for Victorian terraces, city flats & converted mills.",
+ "safe-opening.hero-paragraph": "Our Manchester locksmith team specialises in safe opening using advanced locksmithing techniques that prioritise non-destructive methods. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, we employ combination dial manipulation and precision tools to access your safe without damage. Fast, professional service when you need it most.",
+ "safe-opening.local-context-body": "Ancoats' rapid regeneration has created mixed demand for safe opening across converted warehouse flats and new-build apartments, where residents often inherit safes with unknown combinations or missing documentation. Victorian conversions in the Gay Village similarly require non-destructive access to period fixtures and embedded safes, where heritage considerations shape how opening work must proceed without compromising listed-building fabric.\n\nListed-building conversions across Manchester's canal quarter and conservation areas impose strict requirements on safe opening methods\u2014insurance providers and local authorities typically mandate non-destructive techniques to preserve original metalwork and structural integrity. Locksmiths working on these properties must verify conservation compliance before attempting any opening work.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm locked out of a safe in my Victorian terrace in Cheetham Hill \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties. Many older Manchester terraces contain original or heritage safes that require specialist techniques to preserve both the mechanism and the listed-building fabric, and we'll assess the safest approach on-site."
+  },
+  {
+   "q": "Our student HMO in Chorlton-on-Medlock has a safe with a lost combination \u2013 how quickly can you help?",
+   "a": "We offer rapid non-destructive opening for multi-occupancy properties across Manchester, including student accommodation. We can typically access combination safes without drilling, minimising downtime between tenants and avoiding costly damage claims."
+  }
+ ],
+ "home.areas-covered": [
+  "Ancoats",
+  "Ardwick",
+  "Baguley",
+  "Belle Vue",
+  "Benchill",
+  "Beswick",
+  "Blackley",
+  "Boothroyden",
+  "Bradford",
+  "Brunswick",
+  "Burnage",
+  "Charlestown",
+  "Cheetham Hill",
+  "Chorlton-cum-Hardy",
+  "Chorlton-on-Medlock",
+  "City Centre",
+  "Clayton",
+  "Collyhurst",
+  "Crumpsall",
+  "Didsbury",
+  "Fallowfield",
+  "Gorton",
+  "Harpurhey",
+  "Higher Blackley",
+  "Hulme",
+  "Levenshulme",
+  "Longsight",
+  "Miles Platting",
+  "Moss Side",
+  "Moston",
+  "New Moston",
+  "Newall Green",
+  "Newton Heath",
+  "Northenden",
+  "Northern Moor",
+  "Openshaw",
+  "Parrs Wood",
+  "Peel Hall",
+  "Ringway",
+  "Rusholme",
+  "Sharston",
+  "Strangeways",
+  "Victoria Park",
+  "West Didsbury",
+  "Whalley Range",
+  "Withington",
+  "Woodhouse Park"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Benchill",
+  "Boothroyden",
+  "Sharston",
+  "Ardwick",
+  "Victoria Park",
+  "West Didsbury",
+  "Whalley Range",
+  "Withington",
+  "Woodhouse Park"
+ ],
+ "locked-out.areas-covered": [
+  "Bradford",
+  "Chorlton-cum-Hardy",
+  "Victoria Park",
+  "Clayton",
+  "Collyhurst",
+  "Crumpsall",
+  "Didsbury",
+  "Fallowfield",
+  "Gorton"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Higher Blackley",
+  "Newton Heath",
+  "Parrs Wood",
+  "Newall Green",
+  "Ancoats",
+  "Ardwick",
+  "Baguley",
+  "Belle Vue",
+  "Benchill"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Longsight",
+  "Northenden",
+  "Cheetham Hill",
+  "Boothroyden",
+  "Bradford",
+  "Brunswick",
+  "Burnage",
+  "Charlestown",
+  "Chorlton-cum-Hardy"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Ancoats",
+  "Whalley Range",
+  "Woodhouse Park",
+  "Moss Side",
+  "Didsbury",
+  "Openshaw",
+  "Parrs Wood",
+  "Peel Hall",
+  "Ringway"
+ ],
+ "lock-changes.areas-covered": [
+  "Collyhurst",
+  "Levenshulme",
+  "Fallowfield",
+  "Baguley",
+  "Belle Vue",
+  "Benchill",
+  "Beswick",
+  "Blackley",
+  "Boothroyden"
+ ],
+ "lock-repairs.areas-covered": [
+  "Withington",
+  "Burnage",
+  "Openshaw",
+  "Peel Hall",
+  "Northern Moor",
+  "Brunswick",
+  "Charlestown",
+  "Cheetham Hill",
+  "Chorlton-cum-Hardy"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Blackley",
+  "Chorlton-on-Medlock",
+  "City Centre",
+  "Clayton",
+  "Collyhurst",
+  "Crumpsall",
+  "Didsbury",
+  "Fallowfield",
+  "Gorton"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Harpurhey",
+  "Rusholme",
+  "New Moston",
+  "West Didsbury",
+  "Miles Platting",
+  "Gorton",
+  "Higher Blackley",
+  "Hulme",
+  "Levenshulme"
+ ],
+ "door-repairs.areas-covered": [
+  "Moss Side",
+  "Moston",
+  "New Moston",
+  "Newall Green",
+  "Newton Heath",
+  "Northenden",
+  "Northern Moor",
+  "Openshaw",
+  "Parrs Wood"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Beswick",
+  "Crumpsall",
+  "Ringway",
+  "City Centre",
+  "Peel Hall",
+  "Rusholme",
+  "Sharston",
+  "Strangeways",
+  "Victoria Park"
+ ],
+ "safe-installation.areas-covered": [
+  "Belle Vue",
+  "Strangeways",
+  "Charlestown",
+  "Brunswick",
+  "Gorton",
+  "Chorlton-on-Medlock",
+  "Higher Blackley",
+  "Hulme",
+  "Levenshulme"
+ ],
+ "safe-opening.areas-covered": [
+  "Moston",
+  "Hulme",
+  "Baguley",
+  "Clayton",
+  "New Moston",
+  "Newall Green",
+  "Newton Heath",
+  "Northenden",
+  "Northern Moor"
+ ]
 }

@@ -1,213 +1,369 @@
 {
-  "meta.title": "Locksmith Bournemouth | Local Locksmithing Service 24/7",
-  "meta.description": "Emergency locksmith Bournemouth covering Victorian villas, student HMOs, and coastal properties. 24/7 callouts, rekeying, repairs, and security.",
-  "home.hero-paragraph": "Bournemouth locksmith services for locksmithing and lock help are available when you need them most. We specialise in emergency lockouts, lock changes, and lock repairs for homes and businesses. All our technicians are DBS checked and fully insured, offering 24/7 call-outs with non-destructive entry methods throughout the area.",
-  "home.local-context-heading": "Bournemouth's Victorian Locks and Modern Needs",
-  "home.local-context-body": "Bournemouth's mixed Victorian and Edwardian properties, particularly the seafront villas, often retain original sash windows and period locks that require specialist knowledge to maintain and repair. Interwar semis and modern flats present different challenges, but the city's architectural diversity means locksmith work spans from delicate heritage restoration to straightforward contemporary systems. Properties in areas like Central Bournemouth frequently need attention to aging mechanisms that have deteriorated over decades.\n\nCoastal properties face accelerated lock corrosion from marine air, making regular maintenance and timely replacement essential rather than optional. For landlords managing HMO conversions—increasingly common across Bournemouth—bulk rekeying and standardized security upgrades are practical necessities. Many period properties also fall under conservation area restrictions, which can affect what lock types and modifications are permissible, making it worthwhile to discuss options with a locksmith familiar with local planning considerations before work begins.",
-  "home.local-faqs": [
-    {
-      "q": "My Victorian seafront villa has original sash windows with period locks – can you help maintain these without damage?",
-      "a": "Yes, we specialise in Victorian and Edwardian period locks and understand how to service original sash window mechanisms without compromising their integrity. We recommend annual maintenance to prevent wear, especially given Bournemouth's coastal air which accelerates corrosion."
-    },
-    {
-      "q": "We're managing a student HMO and need to rekey all locks between tenancies – what's the quickest turnaround?",
-      "a": "We handle bulk rekeying for multi-occupancy properties regularly across Bournemouth and can typically complete HMO work within 24–48 hours. We'll also advise on master key systems if you need to balance tenant access with landlord oversight."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Bournemouth – Fast 24/7 Response",
-  "emergency-locksmith.meta.description": "Emergency locksmith in Bournemouth – 24/7 lockouts, snapped keys & repairs. Fast response for Victorian villas, student HMOs & coastal properties.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Bournemouth, our locksmiths bring expert locksmithing skills to your door around the clock. Whether you're locked out, have a snapped key, or need post-break-in repairs, our DBS-checked team uses non-destructive entry methods to resolve the situation quickly. Available 24/7 for genuine emergencies across Bournemouth and surrounding areas.",
-  "emergency-locksmith.local-context-body": "Bournemouth's emergency locksmith demand reflects the city's diverse housing stock. Victorian seafront villas and converted student HMOs generate frequent urgent callouts: period properties often feature original sash windows with heritage locks requiring specialist handling, while shared student houses experience high turnover and bulk rekeying needs alongside regular lockouts. Coastal properties across all neighborhoods present an additional pressure point—marine air accelerates lock corrosion, pushing failure rates higher than inland equivalents.\n\nCoastal salt spray significantly degrades lock mechanisms and door hardware faster than standard urban environments, meaning corroded locks frequently jam or fail without warning. Emergency work on listed Victorian properties requires careful intervention to preserve period features, while HMO regulations across the city demand rapid rekeying and security compliance when tenancies change. Both factors necessitate locksmiths familiar with period metalwork, modern composite doors common in conversions, and the ability to work efficiently under time pressure in shared-access properties.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian villa on the seafront—how quickly can you attend?",
-      "a": "We operate 24/7 and typically respond within 30–60 minutes across Bournemouth, including coastal properties. Victorian sash windows and period locks require specialist handling, so calling us ensures your original fixtures are protected during emergency access."
-    },
-    {
-      "q": "My HMO in Bournemouth has had a break-in—can you rekey multiple locks the same day?",
-      "a": "Yes; we handle emergency post-break-in security calls and bulk rekeying work for shared student houses around the clock. We'll secure all entry points and can issue multiple keys the same day to get your tenants back safely."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Bournemouth | Fast 24/7 Response",
-  "locked-out.meta.description": "Locked out in Bournemouth? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. 24/7 emergency service for Victorian villas, flats & HMOs.",
-  "locked-out.hero-paragraph": "When you're locked out in Bournemouth, our experienced locksmiths apply professional locksmithing techniques to regain your access quickly. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry methods that leave your door and locks completely undamaged. Our rapid response team arrives equipped to handle residential and commercial lockouts.",
-  "locked-out.local-context-body": "Bournemouth's lockout demand reflects its diverse housing mix. Victorian villas in seafront areas often feature original sash windows paired with period-appropriate locks that demand specialist non-destructive entry techniques. Student HMO properties inland generate frequent emergency callouts—shared houses with multiple occupants mean higher rates of forgotten keys and lost access during term time.\n\nCoastal properties present a specific challenge: marine air accelerates lock corrosion, making mechanisms stiffer and more prone to jamming. This degradation can complicate non-destructive entry work, as corroded locks require careful manipulation to avoid damage during picking or manipulation. Inland suburban estates, by contrast, typically feature more modern mechanisms that respond more predictably to standard entry methods.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian villa in Bournemouth – will non-destructive entry damage my period sash windows or original locks?",
-      "a": "No. Our locksmiths specialise in non-destructive entry on period properties and understand how to work around original Victorian mechanisms without forcing windows or locks. We'll use specialist tools to manipulate or bypass the lock safely, preserving your property's character and value."
-    },
-    {
-      "q": "I'm a landlord with student HMO properties in Bournemouth and a tenant is locked out – how quickly can you help?",
-      "a": "We offer emergency callouts across Bournemouth, including rapid response to shared HMO lockouts. Call 01202 935089 and we'll dispatch a technician to regain non-destructive entry while you sort access protocols with your tenant."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Bournemouth – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Bournemouth Victorian & Edwardian properties. Fast extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
-  "broken-key-removal.hero-paragraph": "Broken key removal is a specialist service our Bournemouth locksmiths deliver using precision locksmithing techniques. When keys snap or shear inside locks—whether euro cylinders or mortice locks—we employ advanced key extractor tools to retrieve fragments safely. Our non-destructive method preserves your lock's integrity, avoiding costly replacements and minimising disruption to your property.",
-  "broken-key-removal.local-context-body": "Bournemouth's Victorian seafront villas frequently present broken key removal challenges, particularly where original period locks remain in situ alongside modern security upgrades. The concentration of student HMOs in converted properties generates sustained demand for this service, as shared houses experience higher key breakage rates through heavy use and wear on aging mechanisms.\n\nCoastal properties in the area face accelerated lock degradation due to marine air corrosion, which weakens key material and increases brittleness. This environmental factor compounds breakage risk, making prompt professional extraction essential to avoid cylinder damage during removal attempts. Older euro cylinders common to period properties require specialist handling to prevent further mechanical compromise.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian sash window locks in Bournemouth villas need specialist broken key removal?",
-      "a": "Victorian sash locks use delicate period mechanisms that can snap if forced; our locksmiths understand how to extract broken keys without damaging the original brass or steel components, which is essential for maintaining these listed features in Bournemouth's seafront villas."
-    },
-    {
-      "q": "How does coastal corrosion in Bournemouth affect broken key removal from euro cylinders?",
-      "a": "Marine air accelerates rust and lock degradation, making snapped keys harder to extract without damaging the cylinder itself; we use corrosion-aware techniques to safely remove broken keys from salt-damaged locks common in Bournemouth properties."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Bournemouth – 24/7 Response",
-  "burglar-repair-service.meta.description": "Burglar repair service in Bournemouth. Emergency post-break-in lock changes, door repairs & security upgrades for Victorian villas & modern flats. Insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Our Bournemouth locksmith team specialises in burglar repair and locksmithing services following break-ins and forced entry. We restore security using insurance-compliant methods including door reinforcement and TS007 anti-snap cylinders. Damaged locks and frames are expertly repaired or replaced to BS3621 standards, returning your property to full security quickly.",
-  "burglar-repair-service.local-context-body": "Bournemouth's seafront Victorian villas and substantial HMO conversions across central neighborhoods present distinct burglar repair challenges. Period properties retain original joinery and heritage locks requiring sympathetic reinstatement; shared student houses demand rapid, durable repairs across multiple entry points and communal doors to meet insurance requirements and lettings standards.\n\nCoastal properties face accelerated lock and door frame corrosion from marine air exposure, complicating post-break-in assessment. Rust-compromised mechanisms often require full replacement rather than repair, and salt spray deterioration means replacement components must withstand environmental conditions that exceed inland durability expectations. Insurance reinstatement specifications frequently demand corrosion-resistant materials and upgraded security fittings.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "After a break-in to my Victorian villa in Bournemouth, do you handle period lock repairs as well as replacement?",
-      "a": "Yes. Victorian properties often have original sash window locks and period mechanisms that require specialist knowledge to repair properly. We assess damage first and restore period fittings where possible, or match replacements to your original style—essential for period homes and insurance compliance."
-    },
-    {
-      "q": "I'm renting out an HMO in Bournemouth that's been broken into. Can you rekey all the locks and provide an emergency callout?",
-      "a": "Absolutely. We handle post-break-in emergency repairs and bulk rekeying for shared houses—common in Bournemouth's student lettings. We'll secure the property same-day, repair or replace damaged locks, and rekey to your specification, with full documentation for your landlord insurance claim."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Bournemouth – 24/7 Response",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Bournemouth. Same-day boarding of smashed doors and windows for Victorian villas, terraces and modern properties after break-ins or storms.",
-  "emergency-boarding-up.hero-paragraph": "Our Bournemouth locksmith team specialises in emergency boarding up services that combine expert locksmithing and structural security. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we respond 24/7 to secure your property. We use robust plywood boards and security screws to create insurance-compliant temporary seals that protect your premises until permanent repairs can be arranged.",
-  "emergency-boarding-up.local-context-body": "Bournemouth's diverse housing stock creates varied boarding up scenarios. Victorian seafront villas in areas like Westbourne require careful handling of original glazing and decorative frames after break-ins or weather damage. Conversely, the high density of HMO conversions across student lettings means shared houses frequently need rapid emergency boarding following attempted break-ins or vandalism, with multiple occupants depending on quick secure closure.\n\nCoastal properties present specific challenges for boarding up work. Marine air accelerates corrosion of metal fixtures and frames, meaning damaged doors and window surrounds often show advanced deterioration beneath surface damage. This complicates secure boarding installation, as technicians must assess structural integrity of the surrounding frame before securing temporary coverings, particularly in older properties where wood rot or metal degradation may be extensive.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Why do Victorian seafront villas in Bournemouth need specialist boarding up after break-ins?",
-      "a": "Victorian seafront properties often feature original sash windows and period frames that require careful, sympathetic boarding to avoid further structural damage. Our team understands period construction and uses techniques that protect your home's heritage while securing it immediately."
-    },
-    {
-      "q": "How quickly can you board up a student HMO property in Bournemouth after a break-in?",
-      "a": "With high turnover and shared-house incidents common in Bournemouth's HMO areas, we offer rapid emergency response to board broken doors and windows the same day. We can also coordinate rekeying for multiple locks across the property once the property is secured."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Bournemouth – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Bournemouth for Victorian villas, modern flats & HMOs. Fast professional replacement after key loss, moving home or security upgrades.",
-  "lock-changes.hero-paragraph": "Professional lock changes in Bournemouth from our expert locksmiths combine quality locksmithing with modern security standards. Whether you're moving home, changing locks after lost keys, or upgrading your security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure every installation meets current security requirements.",
-  "lock-changes.local-context-body": "The variety of properties across Bournemouth—from Victorian villas along the seafront to modern flats inland—means lock change work varies significantly by neighbourhood and building age. Properties in areas like Westbourne feature original period mechanisms that require specialist understanding of sash windows and traditional locks, whereas newer developments demand contemporary digital and mortice systems. This mix demands locksmiths familiar with both heritage properties and current security standards.\n\nCoastal location introduces a practical consideration specific to Bournemouth: marine air accelerates corrosion in metal components, meaning locks degrade faster than in inland areas. This affects both the frequency of replacement cycles and the materials chosen during lock changes, as marine-grade or corrosion-resistant options often prove more cost-effective long-term than standard fittings in seafront and near-shore properties.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Bournemouth villas need specialist lock changes?",
-      "a": "Victorian properties along Bournemouth's seafront and inland often have original period locks fitted to sash windows that require careful handling during replacement. Our locksmiths have the expertise to match heritage fittings and ensure new locks work smoothly with period frames without causing damage."
-    },
-    {
-      "q": "How often should locks be changed in Bournemouth HMO properties?",
-      "a": "With Bournemouth's high concentration of student HMO conversions, we recommend rekeying or replacing locks when tenants change, typically annually or between lettings. This ensures previous occupants cannot access the shared house and maintains security for new residents."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Bournemouth | Fast Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Bournemouth for Victorian villas, sash windows & modern properties. Multipoint, mortice & night latch fixes. 24/7 emergency service.",
-  "lock-repairs.hero-paragraph": "Professional lock repairs in Bournemouth from our experienced locksmith team combine skilled locksmithing with modern solutions. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and repair the issue efficiently. We specialise in mortice maintenance and multipoint servicing, restoring your locks to full working order with manufacturer warranty on parts.",
-  "lock-repairs.local-context-body": "Properties across central Bournemouth and the seafront—particularly Victorian villas with their original sash windows and period hardware—frequently depend on mortice and night latch systems that require specialist repair knowledge. These period locks demand careful handling and understanding of their mechanics; standard replacement approaches risk damaging heritage fittings. Shared student properties and HMOs, concentrated throughout the town, experience high-frequency lock failures from heavy use, making reliable gearbox and multipoint repairs essential to managing turnover and tenant access issues.\n\nCoastal location accelerates lock degradation significantly. Marine air corrodes internal gearbox components and multipoint mechanisms faster than inland properties experience, shortening service intervals and increasing repair demand. Moisture ingress compounds wear on locking cylinders and bolt assemblies, making preventative maintenance and prompt repair work critical to avoid security compromises and extended lockout situations.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do locks in Bournemouth seafront properties need repairs so often?",
-      "a": "Coastal air accelerates corrosion of lock mechanisms, causing gearbox and multipoint locks to jam or fail faster than inland properties. We specialise in marine-environment lock repairs and recommend annual maintenance for seafront villas."
-    },
-    {
-      "q": "Can you repair original locks on Victorian villas, or do they need replacing?",
-      "a": "Many original mortice and night latch locks on Bournemouth's Victorian properties can be repaired with specialist knowledge. We aim to preserve period mechanisms where possible, though replacement may be necessary if internal components are severely worn."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Bournemouth | Victorian & Modern Homes",
-  "door-lock-installation.meta.description": "Door lock installation in Bournemouth. BS3621 mortice locks, TS007 anti-snap cylinders & multipoint fittings for Victorian villas, terraces & modern properties.",
-  "door-lock-installation.hero-paragraph": "Our Bournemouth locksmiths specialise in professional door lock installation, combining skilled locksmithing with modern security standards. Whether you require new fittings for enhanced protection or upgrades to meet insurance requirements, we fit TS007 anti-snap cylinders and BS3621 mortice locks. Our installations ensure your property meets current security benchmarks.",
-  "door-lock-installation.local-context-body": "Bournemouth's substantial stock of Victorian and Edwardian properties—particularly the seafront villas—often retain original timber frames and period joinery that require careful assessment before modern lock installation. Interwar semis inland and converted student HMOs across central areas present different demands: HMO properties frequently need bulk rekeying and upgraded security to meet letting standards, while older homes may have non-standard door depths or frame conditions affecting cylinder and mortice fitment.\n\nCoastal exposure presents a specific consideration for door lock installation in Bournemouth. Marine air accelerates corrosion of metal components, meaning locks installed without appropriate surface treatment or stainless-steel specification deteriorate faster than inland equivalents. Properties within a mile of the seafront benefit significantly from TS007 anti-snap cylinders and BS3621 mortices specified with enhanced finishes, as this extends service life and reduces maintenance frequency in the salt-air environment.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you install anti-snap cylinders on Victorian sash windows in Bournemouth?",
-      "a": "Yes. Our TS007 anti-snap cylinder installations are ideal for Bournemouth's Victorian villas, where original sash windows often retain period locks vulnerable to modern attack methods. We ensure the new cylinder fits seamlessly without damaging the historic frame."
-    },
-    {
-      "q": "How often do HMO properties in Bournemouth need rekeying after tenant turnover?",
-      "a": "Given Bournemouth's high density of student HMO conversions, we recommend rekeying all BS3621 mortice locks between tenants—typically 2–3 times yearly. This ensures only current residents have access and meets landlord liability expectations."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Bournemouth | Victorian & Modern",
-  "door-lock-replacement.meta.description": "Door lock replacement in Bournemouth for Victorian villas, HMOs & coastal homes. Expert swaps & security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Our experienced locksmiths in Bournemouth specialise in door lock replacement and locksmithing services for homes and businesses. Whether your lock has failed, you've lost keys, or you're moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional solutions tailored to your needs.",
-  "door-lock-replacement.local-context-body": "Bournemouth's mixed Victorian, Edwardian and post-war housing stock creates distinct lock replacement needs. Period properties—particularly the substantial Victorian villas dotting the seafront and residential streets—often retain original sash windows and period-appropriate locks that require sympathetic handling and knowledge of heritage fittings. Conversely, modern flats and interwar semis typically feature contemporary cylinder locks and multipoint systems suited to straightforward replacement work.\n\nCoastal location accelerates lock degradation significantly. Marine air causes rapid corrosion of metal components, meaning seafront and near-seafront properties experience faster lock failure and require replacement cycles considerably shorter than inland equivalents. Additionally, Bournemouth's high concentration of HMO conversions and student lettings generates frequent bulk rekeying and lock standardisation work across shared houses, where multiple tenants necessitate reliable, standardised hardware and clear security protocols.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian villa in Bournemouth with original period locks—can you replace them without damaging the door frame?",
-      "a": "Yes. Our locksmiths have specialist experience with Victorian and Edwardian properties across Bournemouth and understand period lock removal and replacement without compromising original joinery. We can source heritage-style replacements if you wish to maintain authenticity while upgrading security."
-    },
-    {
-      "q": "My rental property is a student HMO near the seafront—how often should I replace the locks, and does salt air affect them faster?",
-      "a": "Marine air accelerates corrosion significantly on coastal Bournemouth properties. We recommend annual inspections for HMO locks and replacement every 2–3 years rather than the typical 5–7, depending on salt exposure. Bulk rekeying between tenants is also common practice we handle regularly."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Bournemouth | Victorian & Modern Doors",
-  "door-repairs.meta.description": "Door repairs in Bournemouth for Victorian villas, HMOs & coastal properties. uPVC alignment, composite doors, handle repair & more.",
-  "door-repairs.hero-paragraph": "Professional door repairs in Bournemouth from experienced locksmiths practising modern locksmithing techniques. Whether your uPVC or composite door has dropped, is catching, or won't close properly, our specialists diagnose the underlying cause. We perform hinge adjustment, frame alignment, and multipoint realignment to restore smooth operation and eliminate draughts. Fast, reliable service across Bournemouth.",
-  "door-repairs.local-context-body": "Bournemouth's aging housing stock makes door repairs a frequent necessity. Victorian villas along the seafront and Edwardian terraces throughout central areas feature original timber frames and period hardware that require careful realignment when settlement occurs. These properties often have non-standard door dimensions and mechanisms, meaning generic solutions rarely fit. Modern flats in post-war suburban estates present different challenges—dropped composite doors and degraded hinges from high-turnover tenancy cycles are common, particularly in HMO properties where multiple occupants accelerate wear.\n\nCoastal location significantly impacts door repair work across all property types. Marine air accelerates corrosion of metal hardware and promotes timber swelling in sea-facing properties, making regular maintenance essential and sometimes urgent. Historic properties near the seafront may also be listed buildings, requiring repairs that preserve original features and materials rather than allowing standard replacement, adding technical complexity to what might otherwise be routine adjustment work.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Bournemouth villas need specialist door repair attention?",
-      "a": "Victorian villas across Bournemouth often have period-matched door frames and hardware that require careful alignment and specialist knowledge to repair without damaging original features. Our locksmiths understand the tolerances and materials used in period properties, ensuring dropped or misaligned doors are restored safely."
-    },
-    {
-      "q": "How does the Bournemouth coastal climate affect door hardware and what should HMO landlords expect?",
-      "a": "Marine air accelerates corrosion of locks, hinges and door frames, particularly in seafront areas and shared HMO properties. Regular door maintenance and hardware replacement is essential; we help landlords manage bulk rekeying and repair work across multiple units to prevent tenant lockouts."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Bournemouth Villas",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Bournemouth Victorian villas. Espagnolette & shootbolt fixes for sash windows and modern frames.",
-  "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Bournemouth requires specialist locksmith expertise in modern locksmithing techniques. Our technicians address common issues including windows that won't lock and broken handles affecting espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home security is restored to manufacturer specification.",
-  "window-lock-repair-replacement.local-context-body": "Many of Bournemouth's Victorian seafront villas retain their original sash windows fitted with period espagnolette locks, which require specialist handling to avoid damage to glazing bars and frames. These heritage locks often fail after decades of use, particularly in exposed coastal locations where salt air accelerates wear. Replacing them demands knowledge of period-appropriate mechanisms and careful restoration technique to preserve character while restoring function.\n\nCoastal properties throughout Bournemouth experience accelerated corrosion of window hardware due to marine air exposure, causing shootbolt mechanisms to seize and espagnolette rods to corrode faster than inland equivalents. This environmental factor drives frequent maintenance and replacement cycles, making window lock durability a practical concern for property managers and homeowners managing both domestic and rental stock across the town.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian sash windows in Bournemouth need specialist window lock repair?",
-      "a": "Victorian villas across Bournemouth often have original period locks and delicate sash mechanisms that require careful handling and specialist knowledge to repair or replace without damaging the frame or glazing bars. Shield Locksmiths has the expertise to work on these heritage features while maintaining their character."
-    },
-    {
-      "q": "How does Bournemouth's coastal location affect window lock lifespan?",
-      "a": "Marine air accelerates corrosion of espagnolette and shootbolt locks on seafront and near-coastal properties throughout Bournemouth, causing faster wear and jamming. Regular maintenance and timely replacement of corroded locks helps prevent lockouts and security failures."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Bournemouth – Trusted Local Service",
-  "safe-installation.meta.description": "Safe installation in Bournemouth for Victorian villas, flats & HMOs. Secure anchoring, insurance documentation & expert positioning throughout.",
-  "safe-installation.hero-paragraph": "Safe installation in Bournemouth by our experienced locksmith combines expert locksmithing with secure placement. Whether you need floor anchoring or wall mounting for a new safe, our technicians ensure proper anti-leverage positioning to meet insurance approval requirements. We work with Eurograde and AiS approved models to guarantee your valuables receive the protection they deserve.",
-  "safe-installation.local-context-body": "Bournemouth's coastal Victorian villas—particularly around the seafront estates—frequently require safe installation work to protect valuables in period properties where traditional wall cavities and floor joists demand specialist anchoring techniques. The density of interwar semi-detached homes across suburban inland areas similarly presents diverse installation scenarios, from brick cavity walls to solid construction, each requiring assessment before safe fitting can proceed safely.\n\nCoastal properties experience accelerated corrosion from marine air exposure, which affects both safe fixtures and surrounding building fabric. This environmental factor means anchoring bolts and fixings must be specified for corrosion resistance, and insurance documentation must account for the specific conditions of seafront installations. Listed-building status is common among period properties, potentially requiring listed-building consent before structural work for safe installation can commence.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Do you install safes in Victorian villas, and how do you handle period properties?",
-      "a": "Yes, we regularly install safes in Bournemouth's Victorian villas with full awareness of their structural and heritage considerations. We use non-invasive anchoring methods where possible and ensure all work complies with listed property requirements if applicable."
-    },
-    {
-      "q": "I live in a coastal property in Bournemouth—will salt air affect my new safe?",
-      "a": "Coastal properties experience accelerated corrosion from marine air, so we recommend safes with stainless steel or powder-coated finishes and provide anchoring hardware designed to resist salt degradation. We can advise on the best specifications during your consultation."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Bournemouth | Victorian Villa Safes",
-  "safe-opening.meta.description": "Safe opening in Bournemouth for Victorian villas, flats & HMOs. Lost keys, combinations, jammed safes opened non-destructively. Domestic & commercial.",
-  "safe-opening.hero-paragraph": "Our Bournemouth locksmith team specialises in safe opening and locksmithing services for residential and commercial clients. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening techniques to regain access without damage. Our technicians are trained in combination dial manipulation and modern safe systems.",
-  "safe-opening.local-context-body": "The seafront villas of areas like Westbourne and Alum Chine frequently house vintage safes—often original fixtures installed during the Victorian and Edwardian eras. These period properties present unique challenges: combination locks and mechanisms from the early 20th century require specialist knowledge to open without damage, and homeowners commonly lose access following inheritance, renovation, or simple passage of time.\n\nCoastal properties across Bournemouth experience accelerated corrosion of safe mechanisms due to marine air exposure, making non-destructive opening particularly valuable where replacement would be costly and architecturally unsuitable. Many listed Victorian villas cannot tolerate destructive methods, elevating the demand for precision safe-opening techniques that preserve both the fixture and the property's character.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I'm a landlord with student HMO properties in Bournemouth – how quickly can you open a safe if a tenant loses the combination?",
-      "a": "We offer same-day non-destructive safe opening for HMO properties across Bournemouth, which is crucial given the high turnover in shared student lets. Our specialist techniques preserve your safe and contents without damage, saving you replacement costs."
-    },
-    {
-      "q": "My Victorian villa safe has corroded locks from coastal salt air – can you still open it without forcing it?",
-      "a": "Yes. Bournemouth's marine environment accelerates lock corrosion, but our non-destructive methods work even on seized or corroded mechanisms typical of seafront properties. We'll restore access while protecting the safe's original metalwork and value."
-    }
-  ],
-  "home.areas-covered": [],
-  "emergency-locksmith.areas-covered": [],
-  "locked-out.areas-covered": [],
-  "broken-key-removal.areas-covered": [],
-  "burglar-repair-service.areas-covered": [],
-  "emergency-boarding-up.areas-covered": [],
-  "lock-changes.areas-covered": [],
-  "lock-repairs.areas-covered": [],
-  "door-lock-installation.areas-covered": [],
-  "door-lock-replacement.areas-covered": [],
-  "door-repairs.areas-covered": [],
-  "window-lock-repair-replacement.areas-covered": [],
-  "safe-installation.areas-covered": [],
-  "safe-opening.areas-covered": []
+ "meta.title": "Locksmith Bournemouth | Local Locksmithing Service 24/7",
+ "meta.description": "Emergency locksmith Bournemouth covering Victorian villas, student HMOs, and coastal properties. 24/7 callouts, rekeying, repairs, and security.",
+ "home.hero-paragraph": "Bournemouth locksmith services for locksmithing and lock help are available when you need them most. We specialise in emergency lockouts, lock changes, and lock repairs for homes and businesses. All our technicians are DBS checked and fully insured, offering 24/7 call-outs with non-destructive entry methods throughout the area.",
+ "home.local-context-heading": "Bournemouth's Victorian Locks and Modern Needs",
+ "home.local-context-body": "Bournemouth's mixed Victorian and Edwardian properties, particularly the seafront villas, often retain original sash windows and period locks that require specialist knowledge to maintain and repair. Interwar semis and modern flats present different challenges, but the city's architectural diversity means locksmith work spans from delicate heritage restoration to straightforward contemporary systems. Properties in areas like Central Bournemouth frequently need attention to aging mechanisms that have deteriorated over decades.\n\nCoastal properties face accelerated lock corrosion from marine air, making regular maintenance and timely replacement essential rather than optional. For landlords managing HMO conversions\u2014increasingly common across Bournemouth\u2014bulk rekeying and standardised security upgrades are practical necessities. Many period properties also fall under conservation area restrictions, which can affect what lock types and modifications are permissible, making it worthwhile to discuss options with a locksmith familiar with local planning considerations before work begins.",
+ "home.local-faqs": [
+  {
+   "q": "My Victorian seafront villa has original sash windows with period locks \u2013 can you help maintain these without damage?",
+   "a": "Yes, we specialise in Victorian and Edwardian period locks and understand how to service original sash window mechanisms without compromising their integrity. We recommend annual maintenance to prevent wear, especially given Bournemouth's coastal air which accelerates corrosion."
+  },
+  {
+   "q": "We're managing a student HMO and need to rekey all locks between tenancies \u2013 what's the quickest turnaround?",
+   "a": "We handle bulk rekeying for multi-occupancy properties regularly across Bournemouth and can typically complete HMO work within 24\u201348 hours. We'll also advise on master key systems if you need to balance tenant access with landlord oversight."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Bournemouth \u2013 Fast 24/7 Response",
+ "emergency-locksmith.meta.description": "Emergency locksmith in Bournemouth \u2013 24/7 lockouts, snapped keys & repairs. Fast response for Victorian villas, student HMOs & coastal properties.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Bournemouth, our locksmiths bring expert locksmithing skills to your door around the clock. Whether you're locked out, have a snapped key, or need post-break-in repairs, our DBS-checked team uses non-destructive entry methods to resolve the situation quickly. Available 24/7 for genuine emergencies across Bournemouth and surrounding areas.",
+ "emergency-locksmith.local-context-body": "Bournemouth's emergency locksmith demand reflects the city's diverse housing stock. Victorian seafront villas and converted student HMOs generate frequent urgent callouts: period properties often feature original sash windows with heritage locks requiring specialist handling, while shared student houses experience high turnover and bulk rekeying needs alongside regular lockouts. Coastal properties across all neighbourhoods present an additional pressure point\u2014marine air accelerates lock corrosion, pushing failure rates higher than inland equivalents.\n\nCoastal salt spray significantly degrades lock mechanisms and door hardware faster than standard urban environments, meaning corroded locks frequently jam or fail without warning. Emergency work on listed Victorian properties requires careful intervention to preserve period features, while HMO regulations across the city demand rapid rekeying and security compliance when tenancies change. Both factors necessitate locksmiths familiar with period metalwork, modern composite doors common in conversions, and the ability to work efficiently under time pressure in shared-access properties.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian villa on the seafront\u2014how quickly can you attend?",
+   "a": "We operate 24/7 and typically respond within 30\u201360 minutes across Bournemouth, including coastal properties. Victorian sash windows and period locks require specialist handling, so calling us ensures your original fixtures are protected during emergency access."
+  },
+  {
+   "q": "My HMO in Bournemouth has had a break-in\u2014can you rekey multiple locks the same day?",
+   "a": "Yes; we handle emergency post-break-in security calls and bulk rekeying work for shared student houses around the clock. We'll secure all entry points and can issue multiple keys the same day to get your tenants back safely."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Bournemouth | Fast 24/7 Response",
+ "locked-out.meta.description": "Locked out in Bournemouth? Shield Locksmiths provides fast, non-destructive entry for lost or snapped keys. 24/7 emergency service for Victorian villas, flats & HMOs.",
+ "locked-out.hero-paragraph": "When you're locked out in Bournemouth, our experienced locksmiths apply professional locksmithing techniques to regain your access quickly. Whether your keys are lost, snapped, or trapped inside, we specialise in non-destructive entry methods that leave your door and locks completely undamaged. Our rapid response team arrives equipped to handle residential and commercial lockouts.",
+ "locked-out.local-context-body": "Bournemouth's lockout demand reflects its diverse housing mix. Victorian villas in seafront areas often feature original sash windows paired with period-appropriate locks that demand specialist non-destructive entry techniques. Student HMO properties inland generate frequent emergency callouts\u2014shared houses with multiple occupants mean higher rates of forgotten keys and lost access during term time.\n\nCoastal properties present a specific challenge: marine air accelerates lock corrosion, making mechanisms stiffer and more prone to jamming. This degradation can complicate non-destructive entry work, as corroded locks require careful manipulation to avoid damage during picking or manipulation. Inland suburban estates, by contrast, typically feature more modern mechanisms that respond more predictably to standard entry methods.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian villa in Bournemouth \u2013 will non-destructive entry damage my period sash windows or original locks?",
+   "a": "No. Our locksmiths specialise in non-destructive entry on period properties and understand how to work around original Victorian mechanisms without forcing windows or locks. We'll use specialist tools to manipulate or bypass the lock safely, preserving your property's character and value."
+  },
+  {
+   "q": "I'm a landlord with student HMO properties in Bournemouth and a tenant is locked out \u2013 how quickly can you help?",
+   "a": "We offer emergency callouts across Bournemouth, including rapid response to shared HMO lockouts. Call 01202 935089 and we'll dispatch a technician to regain non-destructive entry while you sort access protocols with your tenant."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Bournemouth \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Bournemouth Victorian & Edwardian properties. Fast extraction from euro cylinders, mortice locks & night latches. 24/7 emergency service.",
+ "broken-key-removal.hero-paragraph": "Broken key removal is a specialist service our Bournemouth locksmiths deliver using precision locksmithing techniques. When keys snap or shear inside locks\u2014whether euro cylinders or mortice locks\u2014we employ advanced key extractor tools to retrieve fragments safely. Our non-destructive method preserves your lock's integrity, avoiding costly replacements and minimising disruption to your property.",
+ "broken-key-removal.local-context-body": "Bournemouth's Victorian seafront villas frequently present broken key removal challenges, particularly where original period locks remain in situ alongside modern security upgrades. The concentration of student HMOs in converted properties generates sustained demand for this service, as shared houses experience higher key breakage rates through heavy use and wear on aging mechanisms.\n\nCoastal properties in the area face accelerated lock degradation due to marine air corrosion, which weakens key material and increases brittleness. This environmental factor compounds breakage risk, making prompt professional extraction essential to avoid cylinder damage during removal attempts. Older euro cylinders common to period properties require specialist handling to prevent further mechanical compromise.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian sash window locks in Bournemouth villas need specialist broken key removal?",
+   "a": "Victorian sash locks use delicate period mechanisms that can snap if forced; our locksmiths understand how to extract broken keys without damaging the original brass or steel components, which is essential for maintaining these listed features in Bournemouth's seafront villas."
+  },
+  {
+   "q": "How does coastal corrosion in Bournemouth affect broken key removal from euro cylinders?",
+   "a": "Marine air accelerates rust and lock degradation, making snapped keys harder to extract without damaging the cylinder itself; we use corrosion-aware techniques to safely remove broken keys from salt-damaged locks common in Bournemouth properties."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Bournemouth \u2013 24/7 Response",
+ "burglar-repair-service.meta.description": "Burglar repair service in Bournemouth. Emergency post-break-in lock changes, door repairs & security upgrades for Victorian villas & modern flats. Insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Our Bournemouth locksmith team specialises in burglar repair and locksmithing services following break-ins and forced entry. We restore security using insurance-compliant methods including door reinforcement and TS007 anti-snap cylinders. Damaged locks and frames are expertly repaired or replaced to BS3621 standards, returning your property to full security quickly.",
+ "burglar-repair-service.local-context-body": "Bournemouth's seafront Victorian villas and substantial HMO conversions across central neighbourhoods present distinct burglar repair challenges. Period properties retain original joinery and heritage locks requiring sympathetic reinstatement; shared student houses demand rapid, durable repairs across multiple entry points and communal doors to meet insurance requirements and lettings standards.\n\nCoastal properties face accelerated lock and door frame corrosion from marine air exposure, complicating post-break-in assessment. Rust-compromised mechanisms often require full replacement rather than repair, and salt spray deterioration means replacement components must withstand environmental conditions that exceed inland durability expectations. Insurance reinstatement specifications frequently demand corrosion-resistant materials and upgraded security fittings.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "After a break-in to my Victorian villa in Bournemouth, do you handle period lock repairs as well as replacement?",
+   "a": "Yes. Victorian properties often have original sash window locks and period mechanisms that require specialist knowledge to repair properly. We assess damage first and restore period fittings where possible, or match replacements to your original style\u2014essential for period homes and insurance compliance."
+  },
+  {
+   "q": "I'm renting out an HMO in Bournemouth that's been broken into. Can you rekey all the locks and provide an emergency callout?",
+   "a": "Absolutely. We handle post-break-in emergency repairs and bulk rekeying for shared houses\u2014common in Bournemouth's student lettings. We'll secure the property same-day, repair or replace damaged locks, and rekey to your specification, with full documentation for your landlord insurance claim."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Bournemouth \u2013 24/7 Response",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Bournemouth. Same-day boarding of smashed doors and windows for Victorian villas, terraces and modern properties after break-ins or storms.",
+ "emergency-boarding-up.hero-paragraph": "Our Bournemouth locksmith team specialises in emergency boarding up services that combine expert locksmithing and structural security. Whether you're dealing with smashed windows, damaged doors, or broken glazing, we respond 24/7 to secure your property. We use robust plywood boards and security screws to create insurance-compliant temporary seals that protect your premises until permanent repairs can be arranged.",
+ "emergency-boarding-up.local-context-body": "Bournemouth's diverse housing stock creates varied boarding up scenarios. Victorian seafront villas in areas like Westbourne require careful handling of original glazing and decorative frames after break-ins or weather damage. Conversely, the high density of HMO conversions across student lettings means shared houses frequently need rapid emergency boarding following attempted break-ins or vandalism, with multiple occupants depending on quick secure closure.\n\nCoastal properties present specific challenges for boarding up work. Marine air accelerates corrosion of metal fixtures and frames, meaning damaged doors and window surrounds often show advanced deterioration beneath surface damage. This complicates secure boarding installation, as technicians must assess structural integrity of the surrounding frame before securing temporary coverings, particularly in older properties where wood rot or metal degradation may be extensive.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Why do Victorian seafront villas in Bournemouth need specialist boarding up after break-ins?",
+   "a": "Victorian seafront properties often feature original sash windows and period frames that require careful, sympathetic boarding to avoid further structural damage. Our team understands period construction and uses techniques that protect your home's heritage while securing it immediately."
+  },
+  {
+   "q": "How quickly can you board up a student HMO property in Bournemouth after a break-in?",
+   "a": "With high turnover and shared-house incidents common in Bournemouth's HMO areas, we offer rapid emergency response to board broken doors and windows the same day. We can also coordinate rekeying for multiple locks across the property once the property is secured."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Bournemouth \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Bournemouth for Victorian villas, modern flats & HMOs. Fast professional replacement after key loss, moving home or security upgrades.",
+ "lock-changes.hero-paragraph": "Professional lock changes in Bournemouth from our expert locksmiths combine quality locksmithing with modern security standards. Whether you're moving home, changing locks after lost keys, or upgrading your security, we fit BS3621 mortice locks and TS007 anti-snap cylinders to protect your property. Our technicians ensure every installation meets current security requirements.",
+ "lock-changes.local-context-body": "The variety of properties across Bournemouth\u2014from Victorian villas along the seafront to modern flats inland\u2014means lock change work varies significantly by neighbourhood and building age. Properties in areas like Westbourne feature original period mechanisms that require specialist understanding of sash windows and traditional locks, whereas newer developments demand contemporary digital and mortice systems. This mix demands locksmiths familiar with both heritage properties and current security standards.\n\nCoastal location introduces a practical consideration specific to Bournemouth: marine air accelerates corrosion in metal components, meaning locks degrade faster than in inland areas. This affects both the frequency of replacement cycles and the materials chosen during lock changes, as marine-grade or corrosion-resistant options often prove more cost-effective long-term than standard fittings in seafront and near-shore properties.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Bournemouth villas need specialist lock changes?",
+   "a": "Victorian properties along Bournemouth's seafront and inland often have original period locks fitted to sash windows that require careful handling during replacement. Our locksmiths have the expertise to match heritage fittings and ensure new locks work smoothly with period frames without causing damage."
+  },
+  {
+   "q": "How often should locks be changed in Bournemouth HMO properties?",
+   "a": "With Bournemouth's high concentration of student HMO conversions, we recommend rekeying or replacing locks when tenants change, typically annually or between lettings. This ensures previous occupants cannot access the shared house and maintains security for new residents."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Bournemouth | Fast Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Bournemouth for Victorian villas, sash windows & modern properties. Multipoint, mortice & night latch fixes. 24/7 emergency service.",
+ "lock-repairs.hero-paragraph": "Professional lock repairs in Bournemouth from our experienced locksmith team combine skilled locksmithing with modern solutions. Whether you're dealing with a stiff lock, jammed mechanism, or a key that won't turn, our technicians diagnose and repair the issue efficiently. We specialise in mortice maintenance and multipoint servicing, restoring your locks to full working order with manufacturer warranty on parts.",
+ "lock-repairs.local-context-body": "Properties across central Bournemouth and the seafront\u2014particularly Victorian villas with their original sash windows and period hardware\u2014frequently depend on mortice and night latch systems that require specialist repair knowledge. These period locks demand careful handling and understanding of their mechanics; standard replacement approaches risk damaging heritage fittings. Shared student properties and HMOs, concentrated throughout the town, experience high-frequency lock failures from heavy use, making reliable gearbox and multipoint repairs essential to managing turnover and tenant access issues.\n\nCoastal location accelerates lock degradation significantly. Marine air corrodes internal gearbox components and multipoint mechanisms faster than inland properties experience, shortening service intervals and increasing repair demand. Moisture ingress compounds wear on locking cylinders and bolt assemblies, making preventative maintenance and prompt repair work critical to avoid security compromises and extended lockout situations.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do locks in Bournemouth seafront properties need repairs so often?",
+   "a": "Coastal air accelerates corrosion of lock mechanisms, causing gearbox and multipoint locks to jam or fail faster than inland properties. We specialise in marine-environment lock repairs and recommend annual maintenance for seafront villas."
+  },
+  {
+   "q": "Can you repair original locks on Victorian villas, or do they need replacing?",
+   "a": "Many original mortice and night latch locks on Bournemouth's Victorian properties can be repaired with specialist knowledge. We aim to preserve period mechanisms where possible, though replacement may be necessary if internal components are severely worn."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Bournemouth | Victorian & Modern Homes",
+ "door-lock-installation.meta.description": "Door lock installation in Bournemouth. BS3621 mortice locks, TS007 anti-snap cylinders & multipoint fittings for Victorian villas, terraces & modern properties.",
+ "door-lock-installation.hero-paragraph": "Our Bournemouth locksmiths specialise in professional door lock installation, combining skilled locksmithing with modern security standards. Whether you require new fittings for enhanced protection or upgrades to meet insurance requirements, we fit TS007 anti-snap cylinders and BS3621 mortice locks. Our installations ensure your property meets current security benchmarks.",
+ "door-lock-installation.local-context-body": "Bournemouth's substantial stock of Victorian and Edwardian properties\u2014particularly the seafront villas\u2014often retain original timber frames and period joinery that require careful assessment before modern lock installation. Interwar semis inland and converted student HMOs across central areas present different demands: HMO properties frequently need bulk rekeying and upgraded security to meet letting standards, while older homes may have non-standard door depths or frame conditions affecting cylinder and mortice fitment.\n\nCoastal exposure presents a specific consideration for door lock installation in Bournemouth. Marine air accelerates corrosion of metal components, meaning locks installed without appropriate surface treatment or stainless-steel specification deteriorate faster than inland equivalents. Properties within a mile of the seafront benefit significantly from TS007 anti-snap cylinders and BS3621 mortices specified with enhanced finishes, as this extends service life and reduces maintenance frequency in the salt-air environment.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you install anti-snap cylinders on Victorian sash windows in Bournemouth?",
+   "a": "Yes. Our TS007 anti-snap cylinder installations are ideal for Bournemouth's Victorian villas, where original sash windows often retain period locks vulnerable to modern attack methods. We ensure the new cylinder fits seamlessly without damaging the historic frame."
+  },
+  {
+   "q": "How often do HMO properties in Bournemouth need rekeying after tenant turnover?",
+   "a": "Given Bournemouth's high density of student HMO conversions, we recommend rekeying all BS3621 mortice locks between tenants\u2014typically 2\u20133 times yearly. This ensures only current residents have access and meets landlord liability expectations."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Bournemouth | Victorian & Modern",
+ "door-lock-replacement.meta.description": "Door lock replacement in Bournemouth for Victorian villas, HMOs & coastal homes. Expert swaps & security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Our experienced locksmiths in Bournemouth specialise in door lock replacement and locksmithing services for homes and businesses. Whether your lock has failed, you've lost keys, or you're moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional solutions tailored to your needs.",
+ "door-lock-replacement.local-context-body": "Bournemouth's mixed Victorian, Edwardian and post-war housing stock creates distinct lock replacement needs. Period properties\u2014particularly the substantial Victorian villas dotting the seafront and residential streets\u2014often retain original sash windows and period-appropriate locks that require sympathetic handling and knowledge of heritage fittings. Conversely, modern flats and interwar semis typically feature contemporary cylinder locks and multipoint systems suited to straightforward replacement work.\n\nCoastal location accelerates lock degradation significantly. Marine air causes rapid corrosion of metal components, meaning seafront and near-seafront properties experience faster lock failure and require replacement cycles considerably shorter than inland equivalents. Additionally, Bournemouth's high concentration of HMO conversions and student lettings generates frequent bulk rekeying and lock standardisation work across shared houses, where multiple tenants necessitate reliable, standardised hardware and clear security protocols.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian villa in Bournemouth with original period locks\u2014can you replace them without damaging the door frame?",
+   "a": "Yes. Our locksmiths have specialist experience with Victorian and Edwardian properties across Bournemouth and understand period lock removal and replacement without compromising original joinery. We can source heritage-style replacements if you wish to maintain authenticity while upgrading security."
+  },
+  {
+   "q": "My rental property is a student HMO near the seafront\u2014how often should I replace the locks, and does salt air affect them faster?",
+   "a": "Marine air accelerates corrosion significantly on coastal Bournemouth properties. We recommend annual inspections for HMO locks and replacement every 2\u20133 years rather than the typical 5\u20137, depending on salt exposure. Bulk rekeying between tenants is also common practice we handle regularly."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Bournemouth | Victorian & Modern Doors",
+ "door-repairs.meta.description": "Door repairs in Bournemouth for Victorian villas, HMOs & coastal properties. uPVC alignment, composite doors, handle repair & more.",
+ "door-repairs.hero-paragraph": "Professional door repairs in Bournemouth from experienced locksmiths practising modern locksmithing techniques. Whether your uPVC or composite door has dropped, is catching, or won't close properly, our specialists diagnose the underlying cause. We perform hinge adjustment, frame alignment, and multipoint realignment to restore smooth operation and eliminate draughts. Fast, reliable service across Bournemouth.",
+ "door-repairs.local-context-body": "Bournemouth's aging housing stock makes door repairs a frequent necessity. Victorian villas along the seafront and Edwardian terraces throughout central areas feature original timber frames and period hardware that require careful realignment when settlement occurs. These properties often have non-standard door dimensions and mechanisms, meaning generic solutions rarely fit. Modern flats in post-war suburban estates present different challenges\u2014dropped composite doors and degraded hinges from high-turnover tenancy cycles are common, particularly in HMO properties where multiple occupants accelerate wear.\n\nCoastal location significantly impacts door repair work across all property types. Marine air accelerates corrosion of metal hardware and promotes timber swelling in sea-facing properties, making regular maintenance essential and sometimes urgent. Historic properties near the seafront may also be listed buildings, requiring repairs that preserve original features and materials rather than allowing standard replacement, adding technical complexity to what might otherwise be routine adjustment work.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Bournemouth villas need specialist door repair attention?",
+   "a": "Victorian villas across Bournemouth often have period-matched door frames and hardware that require careful alignment and specialist knowledge to repair without damaging original features. Our locksmiths understand the tolerances and materials used in period properties, ensuring dropped or misaligned doors are restored safely."
+  },
+  {
+   "q": "How does the Bournemouth coastal climate affect door hardware and what should HMO landlords expect?",
+   "a": "Marine air accelerates corrosion of locks, hinges and door frames, particularly in seafront areas and shared HMO properties. Regular door maintenance and hardware replacement is essential; we help landlords manage bulk rekeying and repair work across multiple units to prevent tenant lockouts."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Bournemouth Villas",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Bournemouth Victorian villas. Espagnolette & shootbolt fixes for sash windows and modern frames.",
+ "window-lock-repair-replacement.hero-paragraph": "Window lock repair and replacement in Bournemouth requires specialist locksmith expertise in modern locksmithing techniques. Our technicians address common issues including windows that won't lock and broken handles affecting espagnolette mechanisms and shootbolt locks. All work meets insurance-compliant fitting standards, ensuring your home security is restored to manufacturer specification.",
+ "window-lock-repair-replacement.local-context-body": "Many of Bournemouth's Victorian seafront villas retain their original sash windows fitted with period espagnolette locks, which require specialist handling to avoid damage to glazing bars and frames. These heritage locks often fail after decades of use, particularly in exposed coastal locations where salt air accelerates wear. Replacing them demands knowledge of period-appropriate mechanisms and careful restoration technique to preserve character while restoring function.\n\nCoastal properties throughout Bournemouth experience accelerated corrosion of window hardware due to marine air exposure, causing shootbolt mechanisms to seize and espagnolette rods to corrode faster than inland equivalents. This environmental factor drives frequent maintenance and replacement cycles, making window lock durability a practical concern for property managers and homeowners managing both domestic and rental stock across the town.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian sash windows in Bournemouth need specialist window lock repair?",
+   "a": "Victorian villas across Bournemouth often have original period locks and delicate sash mechanisms that require careful handling and specialist knowledge to repair or replace without damaging the frame or glazing bars. Shield Locksmiths has the expertise to work on these heritage features while maintaining their character."
+  },
+  {
+   "q": "How does Bournemouth's coastal location affect window lock lifespan?",
+   "a": "Marine air accelerates corrosion of espagnolette and shootbolt locks on seafront and near-coastal properties throughout Bournemouth, causing faster wear and jamming. Regular maintenance and timely replacement of corroded locks helps prevent lockouts and security failures."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Bournemouth \u2013 Trusted Local Service",
+ "safe-installation.meta.description": "Safe installation in Bournemouth for Victorian villas, flats & HMOs. Secure anchoring, insurance documentation & expert positioning throughout.",
+ "safe-installation.hero-paragraph": "Safe installation in Bournemouth by our experienced locksmith combines expert locksmithing with secure placement. Whether you need floor anchoring or wall mounting for a new safe, our technicians ensure proper anti-leverage positioning to meet insurance approval requirements. We work with Eurograde and AiS approved models to guarantee your valuables receive the protection they deserve.",
+ "safe-installation.local-context-body": "Bournemouth's coastal Victorian villas\u2014particularly around the seafront estates\u2014frequently require safe installation work to protect valuables in period properties where traditional wall cavities and floor joists demand specialist anchoring techniques. The density of interwar semi-detached homes across suburban inland areas similarly presents diverse installation scenarios, from brick cavity walls to solid construction, each requiring assessment before safe fitting can proceed safely.\n\nCoastal properties experience accelerated corrosion from marine air exposure, which affects both safe fixtures and surrounding building fabric. This environmental factor means anchoring bolts and fixings must be specified for corrosion resistance, and insurance documentation must account for the specific conditions of seafront installations. Listed-building status is common among period properties, potentially requiring listed-building consent before structural work for safe installation can commence.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Do you install safes in Victorian villas, and how do you handle period properties?",
+   "a": "Yes, we regularly install safes in Bournemouth's Victorian villas with full awareness of their structural and heritage considerations. We use non-invasive anchoring methods where possible and ensure all work complies with listed property requirements if applicable."
+  },
+  {
+   "q": "I live in a coastal property in Bournemouth\u2014will salt air affect my new safe?",
+   "a": "Coastal properties experience accelerated corrosion from marine air, so we recommend safes with stainless steel or powder-coated finishes and provide anchoring hardware designed to resist salt degradation. We can advise on the best specifications during your consultation."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Bournemouth | Victorian Villa Safes",
+ "safe-opening.meta.description": "Safe opening in Bournemouth for Victorian villas, flats & HMOs. Lost keys, combinations, jammed safes opened non-destructively. Domestic & commercial.",
+ "safe-opening.hero-paragraph": "Our Bournemouth locksmith team specialises in safe opening and locksmithing services for residential and commercial clients. Whether you've lost your combination, misplaced keys, or encountered a jammed mechanism, we employ non-destructive opening techniques to regain access without damage. Our technicians are trained in combination dial manipulation and modern safe systems.",
+ "safe-opening.local-context-body": "The seafront villas of areas like Westbourne and Alum Chine frequently house vintage safes\u2014often original fixtures installed during the Victorian and Edwardian eras. These period properties present unique challenges: combination locks and mechanisms from the early 20th century require specialist knowledge to open without damage, and homeowners commonly lose access following inheritance, renovation, or simple passage of time.\n\nCoastal properties across Bournemouth experience accelerated corrosion of safe mechanisms due to marine air exposure, making non-destructive opening particularly valuable where replacement would be costly and architecturally unsuitable. Many listed Victorian villas cannot tolerate destructive methods, elevating the demand for precision safe-opening techniques that preserve both the fixture and the property's character.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I'm a landlord with student HMO properties in Bournemouth \u2013 how quickly can you open a safe if a tenant loses the combination?",
+   "a": "We offer same-day non-destructive safe opening for HMO properties across Bournemouth, which is crucial given the high turnover in shared student lets. Our specialist techniques preserve your safe and contents without damage, saving you replacement costs."
+  },
+  {
+   "q": "My Victorian villa safe has corroded locks from coastal salt air \u2013 can you still open it without forcing it?",
+   "a": "Yes. Bournemouth's marine environment accelerates lock corrosion, but our non-destructive methods work even on seized or corroded mechanisms typical of seafront properties. We'll restore access while protecting the safe's original metalwork and value."
+  }
+ ],
+ "home.areas-covered": [
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods",
+  "Townsend",
+  "Wallisdown",
+  "West Cliff",
+  "West Howe",
+  "Westbourne",
+  "Wick",
+  "Winton"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Talbot Woods",
+  "Townsend",
+  "Wallisdown",
+  "West Cliff",
+  "West Howe",
+  "Westbourne",
+  "Wick",
+  "Winton",
+  "Bear Cross"
+ ],
+ "locked-out.areas-covered": [
+  "Queens Park",
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods",
+  "Townsend",
+  "Wallisdown",
+  "West Cliff",
+  "West Howe"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson",
+  "Littledown"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne",
+  "Springbourne"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods",
+  "Townsend"
+ ],
+ "lock-changes.areas-covered": [
+  "Winton",
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson"
+ ],
+ "lock-repairs.areas-covered": [
+  "Iford",
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods",
+  "Townsend",
+  "Wallisdown",
+  "West Cliff",
+  "West Howe",
+  "Westbourne"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "West Howe",
+  "Westbourne",
+  "Wick",
+  "Winton",
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe",
+  "Ensbury"
+ ],
+ "door-repairs.areas-covered": [
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff",
+  "Northbourne"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Moordown",
+  "Muscliff",
+  "Northbourne",
+  "Pokesdown",
+  "Queens Park",
+  "Southbourne",
+  "Springbourne",
+  "Talbot Village",
+  "Talbot Woods"
+ ],
+ "safe-installation.areas-covered": [
+  "West Cliff",
+  "West Howe",
+  "Westbourne",
+  "Wick",
+  "Winton",
+  "Bear Cross",
+  "Boscombe",
+  "Charminster",
+  "East Howe"
+ ],
+ "safe-opening.areas-covered": [
+  "Charminster",
+  "East Howe",
+  "Ensbury",
+  "Ensbury Park",
+  "Iford",
+  "Kinson",
+  "Littledown",
+  "Moordown",
+  "Muscliff"
+ ]
 }

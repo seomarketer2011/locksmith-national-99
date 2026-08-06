@@ -1,173 +1,165 @@
 {
-  "location": "Welwyn Garden City",
-  "neighborhoods": [
-    {
-      "name": "Welwyn",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "historic town centre, original garden city core"
-    },
-    {
-      "name": "Handside",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Peartree",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Stanborough",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "bungalow"
-      ]
-    },
-    {
-      "name": "Haldens",
-      "era": "1960s",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Knightsfield",
-      "era": "1960s",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Birchwood",
-      "era": "modern",
-      "types": [
-        "detached",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "The Ryde",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Wilshere Park",
-      "era": "1960s",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Oaklands",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Hatfield Hyde",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Hall Grove",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "villa"
-      ]
-    },
-    {
-      "name": "Panshanger",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ]
-    },
-    {
-      "name": "Digswell",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "farmhouse"
-      ]
-    },
-    {
-      "name": "Lemsford",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "farmhouse"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "detached",
-      "terrace"
-    ],
-    "era": "mixed interwar and post-war",
-    "notable": "Garden city planned estate with varied mid-century residential stock. Mixture of original 1920s-30s properties and substantial post-war suburban expansion."
+ "location": "Welwyn Garden City",
+ "neighborhoods": [
+  {
+   "name": "Welwyn",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "historic town centre, original garden city core"
   },
-  "locksmith_relevant": [
-    "Interwar garden city homes often feature original period locks and sash windows requiring specialist knowledge and careful handling.",
-    "Post-war semis dominate; many lack modern security, creating high demand for upgrades and additional locks on older frames.",
-    "Planned estate layout with consistent suburban housing means bulk commercial contracts and residential repeat callouts across similar property types."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Welwyn%20Garden%20City",
-    "overpass": "OSM Overpass bbox query, 17 named areas",
-    "coords": {
-      "lat": 51.8031083,
-      "lon": -0.2068872
-    }
+  {
+   "name": "Handside",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   },
-  "generated_at": "2026-05-13T12:31:07.737Z",
-  "all_areas": [
-    "Birchwood",
-    "Burnham Green",
-    "Digswell",
-    "Haldens",
-    "Hall Grove",
-    "Handside",
-    "Hatfield Garden Village",
-    "Hatfield Hyde",
-    "Knightsfield",
-    "Lemsford",
-    "Oaklands",
-    "Panshanger",
-    "Peartree",
-    "Stanborough",
-    "The Ryde",
-    "Welwyn",
-    "Wilshere Park"
-  ],
-  "geo": {
-    "latitude": 51.8031083,
-    "longitude": -0.2068872
+  {
+   "name": "Peartree",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Stanborough",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "bungalow"
+   ]
+  },
+  {
+   "name": "Haldens",
+   "era": "1960s",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Knightsfield",
+   "era": "1960s",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Birchwood",
+   "era": "modern",
+   "types": [
+    "detached",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "The Ryde",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
+  },
+  {
+   "name": "Wilshere Park",
+   "era": "1960s",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Oaklands",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Hatfield Hyde",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Hall Grove",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "villa"
+   ]
+  },
+  {
+   "name": "Panshanger",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ]
+  },
+  {
+   "name": "Digswell",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "farmhouse"
+   ]
+  },
+  {
+   "name": "Lemsford",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "farmhouse"
+   ]
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "detached",
+   "terrace"
+  ],
+  "era": "mixed interwar and post-war",
+  "notable": "Garden city planned estate with varied mid-century residential stock. Mixture of original 1920s-30s properties and substantial post-war suburban expansion."
+ },
+ "locksmith_relevant": [
+  "Interwar garden city homes often feature original period locks and sash windows requiring specialist knowledge and careful handling.",
+  "Post-war semis dominate; many lack modern security, creating high demand for upgrades and additional locks on older frames.",
+  "Planned estate layout with consistent suburban housing means bulk commercial contracts and residential repeat callouts across similar property types."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Welwyn%20Garden%20City",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Welwyn Garden City, 9 named areas",
+  "coords": {
+   "lat": 51.8031083,
+   "lon": -0.2068872
+  }
+ },
+ "generated_at": "2026-05-13T12:31:07.737Z",
+ "all_areas": [
+  "Digswell",
+  "Haldens",
+  "Hall Grove",
+  "Handside",
+  "Hatfield Hyde",
+  "Knightsfield",
+  "Lemsford",
+  "Panshanger",
+  "Peartree"
+ ],
+ "geo": {
+  "latitude": 51.8031083,
+  "longitude": -0.2068872
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

@@ -1,183 +1,178 @@
 {
-  "location": "Rawtenstall",
-  "neighborhoods": [
-    {
-      "name": "Crawshawbooth",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "stone cottage"
-      ],
-      "notes": "historic mill settlement, older locks common"
-    },
-    {
-      "name": "Waterfoot",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "valley-bottom textile workers' housing"
-    },
-    {
-      "name": "Newchurch",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "established residential core"
-    },
-    {
-      "name": "Edenfield",
-      "era": "mixed Victorian and interwar",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "commuter area with period properties"
-    },
-    {
-      "name": "Loveclough",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "stone cottage"
-      ],
-      "notes": "upland hamlet, older traditional locks"
-    },
-    {
-      "name": "Lumb",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "former mill village"
-    },
-    {
-      "name": "Ewood Bridge",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "industrial heritage area"
-    },
-    {
-      "name": "Bent Gate",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "suburban expansion zone"
-    },
-    {
-      "name": "New Hall Hey",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "council estate"
-      ],
-      "notes": "mid-century suburban development"
-    },
-    {
-      "name": "Townsend Fold",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "compact terraced community"
-    },
-    {
-      "name": "Wood Top",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "residential expansion area"
-    },
-    {
-      "name": "Holme",
-      "era": "mixed",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "mixed-era village nucleus"
-    },
-    {
-      "name": "Acre",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "compact terraced settlement"
-    },
-    {
-      "name": "Hareholme",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "suburban estate"
-    },
-    {
-      "name": "Lane Side",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "modern"
-      ],
-      "notes": "later residential addition"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "Victorian terrace",
-      "interwar semi-detached",
-      "stone cottage"
-    ],
-    "era": "predominantly pre-1950, with post-war suburban infill",
-    "notable": "steep hillside terrain drives access complexity; many period properties have original Yorkshire sash locks and heavy oak doors"
+ "location": "Rawtenstall",
+ "neighborhoods": [
+  {
+   "name": "Crawshawbooth",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "stone cottage"
+   ],
+   "notes": "historic mill settlement, older locks common"
   },
-  "locksmith_relevant": [
-    "Victorian terraces dominate Rawtenstall's core; expect period rim locks, sash window furniture, and heavy traditional ironwork requiring specialist knowledge.",
-    "Stone cottages in Loveclough and Crawshawbooth often feature original latches and mortice locks—common call-outs for wear and key loss on heritage stock.",
-    "Steep topography and semi-detached interwar expansion mean diverse lock ages; emergency callouts span both traditional and early modern mechanisms across neighborhoods."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Rawtenstall",
-    "overpass": "OSM Overpass bbox query, 18 named areas",
-    "coords": {
-      "lat": 53.7012824,
-      "lon": -2.2862723
-    }
+  {
+   "name": "Waterfoot",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "valley-bottom textile workers' housing"
   },
-  "generated_at": "2026-05-13T18:09:37.247Z",
-  "all_areas": [
-    "Acre",
-    "Bent Gate",
-    "Clough Fold",
-    "Crawshawbooth",
-    "Edenfield",
-    "Ewood Bridge",
-    "Hareholme",
-    "Holme",
-    "Hugh Mill",
-    "Lane Side",
-    "Loveclough",
-    "Lumb",
-    "New Hall Hey",
-    "Newchurch",
-    "Sagar Holme",
-    "Townsend Fold",
-    "Waterfoot",
-    "Wood Top"
-  ],
-  "geo": {
-    "latitude": 53.7012824,
-    "longitude": -2.2862723
+  {
+   "name": "Newchurch",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "established residential core"
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Edenfield",
+   "era": "mixed Victorian and interwar",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "commuter area with period properties"
+  },
+  {
+   "name": "Loveclough",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "stone cottage"
+   ],
+   "notes": "upland hamlet, older traditional locks"
+  },
+  {
+   "name": "Lumb",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "former mill village"
+  },
+  {
+   "name": "Ewood Bridge",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "industrial heritage area"
+  },
+  {
+   "name": "Bent Gate",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "suburban expansion zone"
+  },
+  {
+   "name": "New Hall Hey",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "council estate"
+   ],
+   "notes": "mid-century suburban development"
+  },
+  {
+   "name": "Townsend Fold",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "compact terraced community"
+  },
+  {
+   "name": "Wood Top",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "residential expansion area"
+  },
+  {
+   "name": "Holme",
+   "era": "mixed",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "mixed-era village nucleus"
+  },
+  {
+   "name": "Acre",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "compact terraced settlement"
+  },
+  {
+   "name": "Hareholme",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "suburban estate"
+  },
+  {
+   "name": "Lane Side",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "modern"
+   ],
+   "notes": "later residential addition"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "Victorian terrace",
+   "interwar semi-detached",
+   "stone cottage"
+  ],
+  "era": "predominantly pre-1950, with post-war suburban infill",
+  "notable": "steep hillside terrain drives access complexity; many period properties have original Yorkshire sash locks and heavy oak doors"
+ },
+ "locksmith_relevant": [
+  "Victorian terraces dominate Rawtenstall's core; expect period rim locks, sash window furniture, and heavy traditional ironwork requiring specialist knowledge.",
+  "Stone cottages in Loveclough and Crawshawbooth often feature original latches and mortice locks\u2014common call-outs for wear and key loss on heritage stock.",
+  "Steep topography and semi-detached interwar expansion mean diverse lock ages; emergency callouts span both traditional and early modern mechanisms across neighborhoods."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Rawtenstall",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Rawtenstall, 13 named areas",
+  "coords": {
+   "lat": 53.7012824,
+   "lon": -2.2862723
+  }
+ },
+ "generated_at": "2026-05-13T18:09:37.247Z",
+ "all_areas": [
+  "Clough Fold",
+  "Crawshawbooth",
+  "Edgeside",
+  "Hareholme",
+  "Hugh Mill",
+  "Loveclough",
+  "Lumb",
+  "New Hall Hey",
+  "Newchurch",
+  "Sagar Holme",
+  "Townsend Fold",
+  "Waterfoot",
+  "Wood Top"
+ ],
+ "geo": {
+  "latitude": 53.7012824,
+  "longitude": -2.2862723
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

@@ -1,156 +1,145 @@
 {
-  "location": "Staines-upon-Thames",
-  "neighborhoods": [
-    {
-      "name": "Stanwell",
-      "era": "interwar and post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban residential; some conservation areas"
-    },
-    {
-      "name": "Thorpe",
-      "era": "mixed Victorian to modern",
-      "types": [
-        "detached",
-        "semi-detached",
-        "new-build"
-      ],
-      "notes": "riverside location; mix of period and contemporary properties"
-    },
-    {
-      "name": "Laleham",
-      "era": "Victorian and Edwardian",
-      "types": [
-        "detached",
-        "semi-detached",
-        "villa"
-      ],
-      "notes": "affluent riverside; listed buildings and period properties"
-    },
-    {
-      "name": "Egham Hythe",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "riverside suburban area"
-    },
-    {
-      "name": "Horton",
-      "era": "interwar to post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential; some conservation heritage"
-    },
-    {
-      "name": "Knowle Green",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "typical Staines suburban development"
-    },
-    {
-      "name": "Birch Green",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "residential area"
-    },
-    {
-      "name": "Stanwell Moor",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban fringe"
-    },
-    {
-      "name": "Hythe End",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "riverside setting"
-    },
-    {
-      "name": "Pooley Green",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "residential"
-    },
-    {
-      "name": "Thorpe Green",
-      "era": "interwar to post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban green area"
-    },
-    {
-      "name": "Thorpe Lea",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "flat"
-      ],
-      "notes": "riverside development; newer stock"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "semi-detached",
-      "detached",
-      "Victorian villa"
-    ],
-    "era": "predominantly interwar and post-war suburban, with Victorian riverside properties",
-    "notable": "Strong riverside character (Thames and Colne); mix of affluent period homes and standard suburban semis. Significant conservation areas in central and riverside zones."
+ "location": "Staines-upon-Thames",
+ "neighborhoods": [
+  {
+   "name": "Stanwell",
+   "era": "interwar and post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban residential; some conservation areas"
   },
-  "locksmith_relevant": [
-    "Victorian and Edwardian riverside villas in Laleham often feature period locks and sash windows requiring specialist knowledge.",
-    "High proportion of interwar semis across Stanwell and Knowle Green means many older Yale and Chubb mechanisms still in use.",
-    "Modern Thorpe Lea riverside development and flat conversions create demand for contemporary UPVC and electronic access control systems."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Staines-upon-Thames",
-    "overpass": "OSM Overpass bbox query, 12 named areas",
-    "coords": {
-      "lat": 51.434012,
-      "lon": -0.511044
-    }
+  {
+   "name": "Thorpe",
+   "era": "mixed Victorian to modern",
+   "types": [
+    "detached",
+    "semi-detached",
+    "new-build"
+   ],
+   "notes": "riverside location; mix of period and contemporary properties"
   },
-  "generated_at": "2026-07-04T20:05:19.795Z",
-  "all_areas": [
-    "Birch Green",
-    "Egham Hythe",
-    "Horton",
-    "Hythe End",
-    "Knowle Green",
-    "Laleham",
-    "Pooley Green",
-    "Stanwell",
-    "Stanwell Moor",
-    "Thorpe",
-    "Thorpe Green",
-    "Thorpe Lea"
-  ],
-  "geo": {
-    "latitude": 51.434012,
-    "longitude": -0.511044
+  {
+   "name": "Laleham",
+   "era": "Victorian and Edwardian",
+   "types": [
+    "detached",
+    "semi-detached",
+    "villa"
+   ],
+   "notes": "affluent riverside; listed buildings and period properties"
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Egham Hythe",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "riverside suburban area"
+  },
+  {
+   "name": "Horton",
+   "era": "interwar to post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential; some conservation heritage"
+  },
+  {
+   "name": "Knowle Green",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "typical Staines suburban development"
+  },
+  {
+   "name": "Birch Green",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "residential area"
+  },
+  {
+   "name": "Stanwell Moor",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban fringe"
+  },
+  {
+   "name": "Hythe End",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "riverside setting"
+  },
+  {
+   "name": "Pooley Green",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "residential"
+  },
+  {
+   "name": "Thorpe Green",
+   "era": "interwar to post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban green area"
+  },
+  {
+   "name": "Thorpe Lea",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "flat"
+   ],
+   "notes": "riverside development; newer stock"
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "semi-detached",
+   "detached",
+   "Victorian villa"
+  ],
+  "era": "predominantly interwar and post-war suburban, with Victorian riverside properties",
+  "notable": "Strong riverside character (Thames and Colne); mix of affluent period homes and standard suburban semis. Significant conservation areas in central and riverside zones."
+ },
+ "locksmith_relevant": [
+  "Victorian and Edwardian riverside villas in Laleham often feature period locks and sash windows requiring specialist knowledge.",
+  "High proportion of interwar semis across Stanwell and Knowle Green means many older Yale and Chubb mechanisms still in use.",
+  "Modern Thorpe Lea riverside development and flat conversions create demand for contemporary UPVC and electronic access control systems."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Staines-upon-Thames",
+  "overpass": "OSM places inside ONS BUA 2022 boundary \"Staines-upon-Thames\" (contains Staines-upon-Thames), 1 named areas",
+  "coords": {
+   "lat": 51.434012,
+   "lon": -0.511044
+  }
+ },
+ "generated_at": "2026-07-04T20:05:19.795Z",
+ "all_areas": [
+  "Knowle Green"
+ ],
+ "geo": {
+  "latitude": 51.434012,
+  "longitude": -0.511044
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }

@@ -1,555 +1,354 @@
 {
-  "meta.title": "Locksmith Chester | Local Locksmithing Service 24/7",
-  "meta.description": "Emergency locksmith Chester: 24/7 call-outs, lock changes, repairs & security upgrades. Serving Victorian terraces, council estates & rural properties.",
-  "home.hero-paragraph": "Chester locksmiths provide expert locksmithing lock services for emergencies and everyday needs. We specialise in lockouts, lock changes, and security upgrades across the area. Our team is fully insured and DBS checked, offering 24/7 call-outs with non-destructive entry techniques to protect your property.",
-  "home.local-context-heading": "Why Chester's Diverse Properties Need Specialist Care",
-  "home.local-context-body": "Chester's mixed Victorian and post-war housing stock creates distinct locksmith needs. Period properties in conservation areas like Farndon require specialist attention to original sash window locks and period mechanisms, while 1950s council estates in Blacon benefit from standardised rekeying and master key systems that simplify access management across multiple properties.\n\nListed properties in Chester's medieval core demand locksmiths experienced with heritage constraints; any lock upgrades typically require conservation officer approval. Landlords managing HMOs across the city should note that fire safety regulations often specify particular lock types and escape mechanisms, particularly on secondary exits, making early consultation with a qualified locksmith essential during property refurbishment or lettings preparation.",
-  "home.local-faqs": [
-    {
-      "q": "We've just moved to a Victorian property in Farndon – do we need specialist locksmiths for our period locks?",
-      "a": "Yes. Period properties in conservation areas like Farndon often have original locks and sash windows requiring specialist knowledge to avoid damage. We assess each lock's age and mechanism, then repair or sensitively upgrade security without compromising character."
-    },
-    {
-      "q": "We own a rental property on a 1950s estate in Blacon – can you help us set up a master key system?",
-      "a": "Absolutely. Council estates like Blacon typically use compatible lock systems across multiple units, making bulk rekeying and master key solutions cost-effective and straightforward. We'll survey your properties and create a secure, manageable system for landlords."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Chester – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Chester. Locked out or key snapped? Fast response across Boughton Heath, Great Boughton & Broughton. Urgent repairs available now.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Chester, our experienced locksmiths bring professional locksmithing expertise to your door within the hour. Whether you're locked out, have a snapped key, or require post-break-in repairs, we specialise in non-destructive entry methods. Our DBS-checked technicians operate round the clock to resolve your crisis swiftly and safely.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Chester often involve period properties in areas like Gresford, where Victorian terraces and semi-detached homes feature original sash windows and traditional locks that require careful handling during forced entry. Post-war council estates such as Acton present different challenges, with uniform lock systems across multiple properties and doors designed for bulk maintenance rather than individual customization, making rapid re-access a priority for residents locked out of their homes.\n\nChester's medieval City Centre properties are frequently listed buildings, meaning emergency lock repairs or replacements must comply with conservation guidelines that restrict modifications to original features. This adds complexity to after-hours call-outs, as locksmiths must distinguish between period locks that can be repaired in situ and situations requiring specialist conservation-approved alternatives, particularly in properties where heritage value prevents standard modern lock installation.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in Gresford—can Shield Locksmiths open it without damaging the original sash windows and period frames?",
-      "a": "Yes. Our emergency locksmiths are trained in handling listed properties and period features common in Gresford's Victorian properties. We use non-destructive entry methods to protect original frames and glazing, then secure you safely inside without costly repairs."
-    },
-    {
-      "q": "My semi-detached in Acton has a broken lock after a break-in—do you offer same-day emergency rekeying?",
-      "a": "We do. Our 24/7 emergency team can attend Acton and similar post-war estates within the hour, rekey or replace your locks on the spot, and fit new hardware to restore security the same day."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Chester? Emergency Entry Service",
-  "locked-out.meta.description": "Locked out in Chester? Shield Locksmiths provides fast, non-destructive emergency entry for lost or snapped keys. Available 24/7 across Boughton Heath, terraces & flats.",
-  "locked-out.hero-paragraph": "When you're locked out in Chester, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, had them locked inside, or experienced a snapped key in the mechanism, we use non-destructive entry methods to restore access without damaging your property. Our damage-free approach means your door and locks remain fully intact.",
-  "locked-out.local-context-body": "Lockouts across Chester's housing stock present distinct challenges depending on location and age. Semi-detached homes in Guilden Sutton, typical of the commuter belt's post-war expansion, often feature standard pin-tumbler locks accessible through non-destructive entry techniques. By contrast, period properties in the medieval City Centre frequently have original mechanisms and listed-building status, requiring specialist knowledge to avoid damage during entry.\n\nChester's mix of Victorian sash windows and modern uPVC frames affects lockout response significantly. Period properties in the city centre may have secondary security fitted to original frames, complicating non-destructive entry without specialist equipment. Council estates from the 1950s–70s expansion (such as Blacon) typically use uniform lock systems that locksmiths encounter regularly, making these calls more straightforward operationally.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my period flat in Chester City Centre – will you damage the original sash windows or listed door frame?",
-      "a": "No. We specialise in non-destructive entry and understand the conservation requirements of listed properties in the City Centre. We'll use specialist techniques to open period locks and frames without harm, preserving your property's historic character."
-    },
-    {
-      "q": "I've snapped my key in the lock of my Blacon semi – how quickly can you get me back in?",
-      "a": "We typically attend Blacon lockouts within 1–2 hours. We'll extract the broken key and gain non-destructive entry without drilling or damaging your lock, so you can keep your existing system if you choose."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Chester | Fast Euro Cylinder Extraction",
-  "broken-key-removal.meta.description": "Broken key stuck in your lock in Chester? Professional removal from euro cylinders, mortice locks & night latches. Fast, non-destructive extraction available 24/7.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Chester is a specialist service that our experienced locksmiths deliver with expert locksmithing techniques tailored to your situation. Whether you're dealing with a snapped key or one stuck firmly in your euro cylinder, we employ non-destructive methods and precision key extractor tools to resolve the problem safely, preserving your lock's integrity throughout.",
-  "broken-key-removal.local-context-body": "Broken key extraction is particularly common in Chester's period properties, where Victorian sash windows and original mortice locks in listed buildings around the City Centre frequently experience key fracture due to age and wear. Affluent commuter villages like Christleton, with their mix of Victorian villas and interwar semi-detached homes, also see regular broken key incidents when older locks are forced or subjected to weather-related expansion and contraction in rural, isolated properties.\n\nListed status in Chester's medieval core means broken key removal must often be performed without damage to original lock casings and decorative escutcheons—extraction techniques differ substantially from modern euro cylinder work. The prevalence of period night latches and traditional mortice locks across the city's Victorian and Edwardian stock requires specialist knowledge of non-standard key profiles and corroded internal mechanisms that cannot simply be drilled out in conservation areas.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "I've snapped my key in a sash window lock at my listed flat in Chester's City Centre – can you remove it without damaging the original mechanism?",
-      "a": "Yes. Period locks in listed properties require careful extraction to preserve the original mechanism and comply with conservation area rules. We use non-destructive removal techniques designed for Victorian and Georgian locks common in the City Centre."
-    },
-    {
-      "q": "A key has broken off in the mortice lock of my council house in Blacon – how quickly can you attend?",
-      "a": "We offer same-day broken key removal across Blacon and other council estates. Since many 1950s properties share similar lock systems, we can often extract and re-cut a replacement key on-site."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Chester | Listed Property Locks",
-  "burglar-repair-service.meta.description": "Emergency burglar repair service in Chester. Post-break-in lock changes, door repairs & reinstatement. Insurance-compliant. Serving Acton, Gresford & beyond.",
-  "burglar-repair-service.hero-paragraph": "Our Chester locksmiths specialise in burglar repair and locksmithing services to restore security after break-ins. We install TS007 anti-snap cylinders and BS3621 mortice locks to meet insurance requirements. Whether your property has sustained forced entry damage or requires door reinforcement, our technicians deliver swift, compliant repairs that restore your peace of mind.",
-  "burglar-repair-service.local-context-body": "After a break-in, Chester's diverse housing requires tailored repair approaches. Victorian terraces in Boughton Heath typically feature solid timber frames and period locks that demand careful reinstatement to meet insurance specifications without compromising original joinery. Semi-detached properties across the commuter belt, particularly in Christleton, often combine period frontages with modern rear extensions, creating mixed security points where both traditional and contemporary door systems need post-incident assessment and repair.\n\nListed building status complicates burglar repair work throughout Chester's medieval core and Victorian suburbs. Insurers require like-for-like reinstatement where original locks, frames, or door furniture are damaged, meaning locksmiths must source period-appropriate components and document compliance carefully. In council estates like Blacon, standardised lock systems simplify replacement, but in heritage areas, delays sourcing correct components are routine and must be factored into emergency response timelines.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle break-ins on listed properties in Chester's City Centre?",
-      "a": "Yes. Many of Chester's medieval and Victorian listed properties have original period locks and sash windows that require specialist care during repair. We're experienced in reinstating these without compromising listed building consent or the property's character."
-    },
-    {
-      "q": "Can you provide insurance-compliant repairs for properties in Christleton and similar commuter villages?",
-      "a": "Absolutely. We complete full burglar repair services to insurance standards, including lock replacement, door frame repair, and security upgrades—essential for isolated homes in affluent commuter areas where security enhancements are often needed after a break-in."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Chester – Fast Response 24/7",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Chester – same-day service for smashed doors and windows. Serving City Centre listed properties and all areas.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Chester from our specialist locksmith team combines expert locksmithing with rapid response. Whether you're dealing with smashed windows or damaged doors, we secure your property using plywood boards and security screws. Our 24/7 service ensures your premises remain protected and insurance-compliant until permanent repairs are completed.",
-  "emergency-boarding-up.local-context-body": "Chester's post-war council estates in Blacon and Acton feature uniform door and window construction typical of 1950s–70s builds, making emergency boarding relatively straightforward in those areas. By contrast, period properties in Farndon—many Georgian and Victorian detached homes in a conservation area—require careful boarding that respects original joinery and listed-building aesthetics, adding complexity to rapid response work.\n\nThe medieval city centre and conservation areas impose planning restrictions that affect boarding methodology; temporary boards must often be installed with reversible fixings to avoid damage to historic frames and listed elements. Rural properties in villages like Ashton Hayes, typically isolated detached homes, may present access challenges during storms or break-ins, requiring longer response times and sometimes specialist equipment to secure exposed sash windows and period doors safely.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Do you board up listed properties in Chester's medieval City Centre without damaging original period features?",
-      "a": "Yes. Our emergency boarding up respects listed building regulations and original sash windows common in Chester's medieval core. We use non-invasive fixings and coordinate with conservation officers where needed to protect your property's historic integrity."
-    },
-    {
-      "q": "Can you board up properties quickly in areas like Blacon after a break-in or storm?",
-      "a": "Absolutely. We attend emergency call-outs across Chester including the 1950s council estates, and can secure uniform semi-detached and terrace properties in Blacon within the hour. We'll make your property weathertight and safe while you arrange permanent repairs."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Chester – Fast Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Chester for moved homes, lost keys & security upgrades. Serving Victorian terraces, council estates & modern properties. Professional service.",
-  "lock-changes.hero-paragraph": "Lock changes in Chester require a skilled locksmith with expertise in locksmithing to ensure your property is properly secured. Whether you're moving home, changing tenancy, or upgrading security, our technicians install BS3621 mortice locks and TS007 anti-snap cylinders to meet modern standards. We assess your needs and fit the right solution for your doors.",
-  "lock-changes.local-context-body": "Lock changes in Guilden Sutton often follow property extensions and modernisation work, where owners upgrade original locks alongside security improvements. Semi-detached homes in this commuter belt area frequently require full lock replacement when purchased, particularly where keys have been lost or shared with previous owners. Victorian terraces in Boughton Heath present different needs: period properties with original wooden frames demand careful lock selection to avoid damage during installation.\n\nChester's historic city centre contains numerous listed properties where lock changes must comply with conservation requirements; replacement locks often need to match period aesthetics and original specifications. Outside listed areas, standard domestic locks predominate, but older properties across the city frequently feature non-standard measurements or worn frames that complicate straightforward replacements and may require frame adjustment or reinforcement.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian property in the City Centre—do I need specialist lock knowledge for a lock change?",
-      "a": "Yes. Chester's listed medieval and Victorian properties often have original period locks and sash windows that require careful handling during replacement. We have specialist knowledge in upgrading these heritage homes while respecting their character and meeting modern security standards."
-    },
-    {
-      "q": "We own a property in Christleton and want to upgrade security after a key loss—what's the quickest option?",
-      "a": "We can attend same-day for lock changes at rural properties around Christleton and other commuter villages. For isolated homes, we recommend full lock replacement rather than rekeying to eliminate any risk from lost keys and give you complete peace of mind."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Chester – Same-Day Service",
-  "lock-repairs.meta.description": "Expert lock repairs in Chester for Victorian terraces, council estates & rural homes. Multipoint, mortice & night latch fixes. 24/7 emergency service available.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs in Chester from our experienced locksmith team specialising in locksmithing solutions. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem efficiently. Our technicians perform mortice maintenance and gearbox repair to restore full functionality, backed by manufacturer warranty on all work completed.",
-  "lock-repairs.local-context-body": "Chester's mixed housing stock creates varied lock repair demands. Period flats in the City Centre's conservation area often house original mortice and night latch mechanisms that require careful restoration rather than replacement. Meanwhile, the post-war semis of Blacon frequently feature standardized multipoint locks fitted during the 1950s expansion; these systems are prone to gearbox failure from decades of use and benefit from targeted repair rather than full lock replacement.\n\nListed building status in Chester's historic core means lock repairs must preserve original mechanisms where possible, limiting options for upgrading or substituting failed components. Repairers working on period properties need to source compatible parts and understand traditional lock construction. Rural properties in the commuter villages, by contrast, often have modern composite or uPVC doors where multipoint lock repairs demand familiarity with current locking technologies and adjustment procedures.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "My Victorian terraced house in Gresford has a stiff mortice lock—is it worth repairing?",
-      "a": "Yes, Victorian mortice locks are built to last and almost always repairable. We'll service the gearbox and lubricate internal mechanisms to restore smooth operation without replacing the original hardware, which preserves your period property's character."
-    },
-    {
-      "q": "Our council flat in Acton has a faulty multipoint lock on the front door. How quickly can you fix it?",
-      "a": "We typically attend multipoint lock repairs within 24 hours across Acton and Chester. Most gearbox and latch failures on these standard council estate locks are straightforward to repair, and we often carry spares for common mechanisms."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Chester – Same-Day Service",
-  "door-lock-installation.meta.description": "Door lock installation in Chester, including Boughton Heath. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for homes and businesses.",
-  "door-lock-installation.hero-paragraph": "Professional door lock installation in Chester by our experienced locksmith specialists combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, we ensure every fitting meets current security benchmarks. Our technicians handle new property fittings and security improvements with precision and care.",
-  "door-lock-installation.local-context-body": "Door lock installation in Chester responds to the varied security needs across the city's housing stock. Properties in Victorian areas like Gresford—typically terraced and semi-detached—often retain original timber frames that require careful assessment before fitting modern mortice locks or TS007 anti-snap cylinders. Conversely, post-war council estates and commuter-belt homes demand straightforward multipoint installations, making lock type selection a practical response to property age and construction rather than aesthetic preference.\n\nChester's medieval City Centre contains numerous listed buildings where lock installation must comply with conservation officer approval; period-appropriate hardware or sympathetic fitting within existing apertures is often required. Rural properties in surrounding villages frequently feature solid timber doors and older frames that may need reinforcement or modification to accommodate contemporary BS3621 mortice locks, adding a surveying step that urban terraced housing typically avoids.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "We live in a Victorian terrace in Gresford – will a new mortice lock work with our original door frame?",
-      "a": "Yes, BS3621 mortice locks are ideal for Victorian and Edwardian properties like those in Gresford. We'll assess your original frame and fit the lock to suit period-appropriate standards without compromising the integrity of your door."
-    },
-    {
-      "q": "Our semi-detached in Acton is part of a council estate – can you install locks that work with a master key system?",
-      "a": "Absolutely. We regularly fit multipoint and mortice locks across Acton's post-war housing stock and can configure TS007 anti-snap cylinders to work with master key systems if you manage multiple properties."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Chester – Fast Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Chester, including listed properties in the City Centre. Like-for-like swaps or security upgrades. Same-day service.",
-  "door-lock-replacement.hero-paragraph": "Our Chester locksmith team specialises in door lock replacement, applying modern locksmithing techniques to secure your property. Whether you've lost keys, experienced lock failure, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional service across Chester.",
-  "door-lock-replacement.local-context-body": "Door lock replacement in Chester responds to the city's varied building ages and property types. Victorian terraces in Boughton Heath often retain original rim locks or mortise systems that have degraded over decades, while semi-detached homes in Great Boughton frequently require straightforward cylinder lock upgrades. Modern replacements must accommodate period door frames without damage, especially where original woodwork remains intact.\n\nListed properties in Chester's medieval City Centre present a compliance layer absent elsewhere: replacements must preserve architectural character and may require conservation officer approval before work begins. Council estates from the 1950s–70s typically feature standardised lock bores that simplify replacement, but rural properties in commuter villages often demand reinforced locks or smart-enabled systems due to isolated locations and security concerns.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a period flat in Chester's City Centre – can you replace my lock without damaging the original frame?",
-      "a": "Yes, we specialise in lock replacement on listed properties and period buildings in the City Centre conservation area. We'll carefully remove and fit a matching or sympathetic replacement that preserves the character of your historic property while improving security."
-    },
-    {
-      "q": "Our semi-detached home in Aston has an old, worn lock – what are my upgrade options?",
-      "a": "We can replace it with a modern, high-security lock (like-for-like or upgraded) that fits your existing door and frame. Many homeowners in Aston's Victorian and Edwardian properties choose BS 3621-approved locks for better protection and peace of mind."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Chester – Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Chester: uPVC alignment, composite doors & timber easing. Serving Broughton, listed properties & period homes.",
-  "door-repairs.hero-paragraph": "Professional door repairs from Chester's trusted locksmith specialists in locksmithing. Whether your uPVC, composite or timber door has dropped, won't close properly, or is catching, our technicians diagnose and repair the issue efficiently. We handle hinge adjustment, frame alignment and multipoint realignment to restore your door's function and eliminate draughts.",
-  "door-repairs.local-context-body": "Misaligned and dropped doors are particularly common in Chester's Victorian terraces and semi-detached homes, where foundation settlement and age-related timber movement affect frame integrity. Properties in areas like Gresford experience these issues frequently, as do older detached properties in rural villages such as Dodleston where isolation and variable maintenance histories compound structural stress on door hardware and hinges.\n\nListed properties in Chester's medieval City Centre require specialist assessment before door repairs proceed, as original frames and ironwork often carry heritage significance. Even routine adjustments to period doors demand awareness of conservation guidelines; conversely, uniform council-estate properties in Blacon typically have standardised frames where repairs follow predictable patterns and bulk component availability simplifies turnaround times.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in Victorian terraces in Boughton Heath often drop or misalign?",
-      "a": "Victorian terraces settle unevenly over time, causing door frames to shift and hinges to strain. Shield Locksmiths can realign frames, adjust hinges, and ensure smooth operation without forcing period doors that may have original hardware."
-    },
-    {
-      "q": "What should I do if my sash window door in Chester's listed City Centre property is sticking?",
-      "a": "Period properties with original sash mechanisms need specialist care to avoid damage to listed features. We assess alignment issues and repair hardware sympathetically, preserving the character of your historic property."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Chester – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Chester. Espagnolette & shootbolt locks fixed on period sash windows & modern frames. Farndon to city centre.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Chester locksmith team specialise in window lock repair and replacement, combining expert locksmithing with practical solutions for your home security. Whether you're dealing with windows that won't lock, broken handles, or failed espagnolette mechanisms, we deliver insurance-compliant fitting to restore full functionality and peace of mind.",
-  "window-lock-repair-replacement.local-context-body": "Victorian and Edwardian properties across Chester's affluent commuter villages like Christleton feature original sash windows with period-appropriate espagnolette locks that require specialist repair rather than wholesale replacement. Similarly, interwar semi-detached homes in Garden City often retain functional shootbolt mechanisms, though wear and misalignment are common after decades of use. Window lock repair addresses both restoration of existing hardware and selective replacement where mechanisms have failed beyond adjustment.\n\nChester's medieval City Centre and conservation areas impose strict listed-building consent requirements on window lock work, particularly where original locks contribute to a property's historical character. Locksmiths must distinguish between sympathetic repair of period locks—often involving adjustment, pin replacement, or bracket realignment—and replacement scenarios requiring planning approval. Modern espagnolette and shootbolt locks installed in non-listed properties typically demand correct spindle length measurement and frame type compatibility to avoid binding or poor engagement.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do sash windows in Chester's City Centre listed properties need specialist window lock repair?",
-      "a": "Period sash windows in Chester's medieval and Victorian conservation areas often have original espagnolette locks that require careful handling to avoid damaging listed building status. Our locksmiths understand the specific mechanics of heritage locks and can repair or replace them while maintaining compliance with conservation guidelines."
-    },
-    {
-      "q": "What window lock problems are common in Aston's Victorian semi-detached homes?",
-      "a": "Victorian and Edwardian properties in Aston often suffer from worn shootbolt locks due to age and weather exposure. We specialise in diagnosing and replacing these traditional locks with modern equivalents that match the period aesthetic while improving security and ease of operation."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Chester – Same-Day Service",
-  "safe-installation.meta.description": "Safe installation in Chester with proper anchoring and insurance documentation. Serving listed properties, council estates and commuter homes.",
-  "safe-installation.hero-paragraph": "Professional safe installation by Chester locksmiths combines expert locksmithing with secure positioning techniques. Whether you're installing a new safe or meeting insurance approval requirements, our technicians ensure proper floor anchoring and wall mounting to AiS approved standards. We assess cash ratings and Eurograde certifications to guarantee your valuables remain protected.",
-  "safe-installation.local-context-body": "Chester's affluent commuter villages such as Christleton attract homeowners seeking enhanced security for valuables and documents. Detached and villa-style properties in these areas frequently require floor and wall-mounted safes, often integrated into studies or master bedrooms where insurance requirements demand proper anchoring and professional installation documentation.\n\nThe city's substantial Victorian and period properties in the medieval core present specific installation challenges. Listed-building status often restricts wall penetration and anchoring methods, necessitating specialist assessment before drilling or bolting. Conversely, post-war housing in areas like Blacon typically permits straightforward floor installation, though cavity wall construction may require alternative mounting approaches to ensure load-bearing security.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "Why do Victorian properties in Chester's City Centre need specialist safe installation?",
-      "a": "Listed buildings and period properties in Chester's medieval core have original plasterwork, timber frames, and structural features that require careful assessment before wall or floor safe installation. We ensure anchoring methods comply with conservation guidelines and insurance requirements for listed properties."
-    },
-    {
-      "q": "Are safe installations common in rural villages like Ashton Hayes?",
-      "a": "Yes—isolated detached homes and period cottages in Ashton Hayes and surrounding commuter villages often require safes for valuables and documents. We provide proper floor or wall anchoring and full insurance documentation to meet the security standards expected in rural properties."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Chester – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Chester: non-destructive access for lost keys, combinations & lockouts. Serving Christleton, Guilden Sutton & surrounding areas.",
-  "safe-opening.hero-paragraph": "Professional safe opening in Chester by our specialist locksmiths combines expertise in locksmithing with modern techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our non-destructive methods ensure your safe is opened safely and efficiently. We handle flat batteries and mechanical faults with precision, protecting your valuables throughout.",
-  "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Chester's period flats and listed properties within the City Centre, where residents and business owners store valuables in heritage-protected buildings. Similarly, semi-detached homes across the Garden City estate frequently contain older safe models installed during the mid-20th century. Non-destructive opening becomes essential when combinations are lost or keys misplaced, avoiding damage to the safe itself and surrounding period features.\n\nListed building consent and conservation area rules affect safe opening work in Chester's central heritage zone. Technicians must verify whether drilling or manipulation methods will breach conservation requirements before proceeding. Older safes in Victorian and interwar properties often feature mechanical locks that respond well to manipulation, though corrosion from age can complicate access and require patient, precise handling.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I have a Victorian safe in my listed property in Chester's City Centre—can you open it without damage?",
-      "a": "Yes. Our non-destructive safe opening methods are ideal for listed properties where damage could breach conservation rules. We'll recover access to your safe while preserving its original condition and any heritage value."
-    },
-    {
-      "q": "We've lost the combination to a master safe covering multiple units on the Blacon estate—what's the fastest approach?",
-      "a": "We can open your safe non-destructively and help you establish a new master combination or rekeying system across your properties. This is common on larger 1950s estates and we can often complete it in a single visit."
-    }
-  ],
-  "home.areas-covered": [
-    "Abbot's Mead",
-    "Abermorddu",
-    "Acton",
-    "Aldford",
-    "Ashton Hayes",
-    "Aston",
-    "Aston Park",
-    "Backford",
-    "Barton",
-    "Bersham",
-    "Bickerton",
-    "Blacon",
-    "Blacon Point",
-    "Borras Park",
-    "Boughton Heath",
-    "Bradley",
-    "Bretton",
-    "Brimstage",
-    "Broughton",
-    "Brown Heath",
-    "Brown Knowl",
-    "Bryn Cefn",
-    "Bryn Offa",
-    "Brynteg",
-    "Burton",
-    "Caego",
-    "Caergwrle",
-    "Caia Park",
-    "Caldy Valley",
-    "Capenhurst",
-    "Cefn-y-bedd",
-    "Cerney",
-    "Cheshire Oaks",
-    "Chester Business Park",
-    "Christleton",
-    "Churton",
-    "City Centre",
-    "Clutton",
-    "Coed-y-Glyn",
-    "Crewe by Farndon",
-    "Croes Eneurys",
-    "Darland",
-    "Ddôl",
-    "Dodleston",
-    "Dukesfield",
-    "Dunham on the Hill",
-    "Eastham Village",
-    "Eccleston",
-    "Elton",
-    "Ewloe",
-    "Farndon",
-    "Felin Puleston",
-    "Garden City",
-    "Garden Village",
-    "Great Barrow",
-    "Great Boughton",
-    "Great Sutton",
-    "Gresford",
-    "Guilden Sutton",
-    "Gwersyllt",
-    "Hale",
-    "Hampton Heath",
-    "Handbridge",
-    "Harthill",
-    "Hawarden",
-    "Heathfield",
-    "Helsby",
-    "High Grove",
-    "Higher Kinnerton",
-    "Higher Runcorn",
-    "Higher Shotton",
-    "Hightown",
-    "Holt",
-    "Hoole",
-    "Hope",
-    "Horton Green",
-    "Hough Green",
-    "Huntington",
-    "King's Mills",
-    "Lache",
-    "Lavister",
-    "Lea-by-Backford",
-    "Little Acton",
-    "Little Sutton",
-    "Littleton",
-    "Llay",
-    "Maesydre",
-    "Mancot",
-    "Manley",
-    "Marford",
-    "Mickle Trafford",
-    "Mollington",
-    "Moss",
-    "Moston",
-    "Mouldsworth",
-    "Ness",
-    "New Broughton",
-    "Newton",
-    "Newtown",
-    "Northgate Village",
-    "Offa",
-    "Oscroft",
-    "Overpool",
-    "Pandy",
-    "Pen-y-ffordd",
-    "Pentre",
-    "Pentre Bach",
-    "Pentre Broughton",
-    "Pentre Maelor",
-    "Plas Coch",
-    "Poulton",
-    "Puddington",
-    "Pulford",
-    "Queens Park",
-    "Queensferry",
-    "Raby",
-    "Raby Mere",
-    "Rhosddu",
-    "Rhosnesni",
-    "Rhosrobin",
-    "Rhostyllen",
-    "Rossett",
-    "Rossmore Estate",
-    "Rowton",
-    "Runcorn Heath",
-    "Saighton",
-    "Saltney",
-    "Saltney Ferry",
-    "Sandycroft",
-    "Saughall",
-    "Sealand",
-    "Shocklach",
-    "Shotwick",
-    "Southsea",
-    "Speke",
-    "Spital",
-    "Stanney Oaks",
-    "Stansty",
-    "Stanton",
-    "Stoak",
-    "Summerhill",
-    "Sydallt",
-    "Tanyfron",
-    "Tarvin",
-    "Tattenhall",
-    "The Coliseum",
-    "The Dunks",
-    "Thornton Hough",
-    "Thornton le Moors",
-    "Tilston",
-    "Trevalyn",
-    "Upton",
-    "Upton Heath",
-    "Vicars Cross",
-    "Waverton",
-    "West Bank",
-    "Westfield",
-    "Westminster Park",
-    "Weston",
-    "Weston Point",
-    "Westwood Park",
-    "Whitby",
-    "Willaston",
-    "Wolverham"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "Hale",
-    "Pen-y-ffordd",
-    "Moston",
-    "Crewe by Farndon",
-    "Brimstage",
-    "Christleton",
-    "Great Boughton",
-    "The Dunks",
-    "Tilston",
-    "Rossmore Estate",
-    "Pentre Bach",
-    "Shocklach",
-    "Dunham on the Hill"
-  ],
-  "locked-out.areas-covered": [
-    "Barton",
-    "Cerney",
-    "Handbridge",
-    "Whitby",
-    "Pandy",
-    "Maesydre",
-    "Heathfield",
-    "Eccleston",
-    "Overpool",
-    "Southsea",
-    "Raby",
-    "Acton",
-    "Saighton"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Rhosddu",
-    "Lea-by-Backford",
-    "Queensferry",
-    "Borras Park",
-    "Manley",
-    "Hough Green",
-    "Little Sutton",
-    "Caia Park",
-    "Sydallt",
-    "Saltney Ferry",
-    "Eastham Village",
-    "Great Sutton",
-    "Stoak"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Brown Heath",
-    "Huntington",
-    "Bersham",
-    "Willaston",
-    "Elton",
-    "Boughton Heath",
-    "Holt",
-    "Aldford",
-    "Churton",
-    "Sandycroft",
-    "High Grove",
-    "Raby Mere",
-    "King's Mills"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Hoole",
-    "Tarvin",
-    "Rossett",
-    "Blacon Point",
-    "West Bank",
-    "Gwersyllt",
-    "Mancot",
-    "Dukesfield",
-    "Ddôl",
-    "Rhosrobin",
-    "Clutton",
-    "Aston Park",
-    "Pentre Broughton"
-  ],
-  "lock-changes.areas-covered": [
-    "Mouldsworth",
-    "Stanney Oaks",
-    "Waverton",
-    "Shotwick",
-    "Bryn Offa",
-    "Bryn Cefn",
-    "Oscroft",
-    "Mickle Trafford",
-    "Westwood Park",
-    "Littleton",
-    "Speke",
-    "Garden City",
-    "Mollington"
-  ],
-  "lock-repairs.areas-covered": [
-    "Northgate Village",
-    "Cheshire Oaks",
-    "Lavister",
-    "Farndon",
-    "Higher Shotton",
-    "Upton Heath",
-    "Pentre Maelor",
-    "Capenhurst",
-    "Horton Green",
-    "Newtown",
-    "Darland",
-    "Abbot's Mead",
-    "Ewloe"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Garden Village",
-    "Lache",
-    "Pentre",
-    "Vicars Cross",
-    "Plas Coch",
-    "Tattenhall",
-    "Gresford",
-    "Llay",
-    "Saltney",
-    "Stansty",
-    "Aston",
-    "Saughall",
-    "Trevalyn"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Bradley",
-    "Harthill",
-    "The Coliseum",
-    "Bretton",
-    "Abermorddu",
-    "Sealand",
-    "Burton",
-    "Offa",
-    "Moss",
-    "Wolverham",
-    "Helsby",
-    "Chester Business Park"
-  ],
-  "door-repairs.areas-covered": [
-    "Pulford",
-    "Croes Eneurys",
-    "Blacon",
-    "Brown Knowl",
-    "Poulton",
-    "Backford",
-    "Hightown",
-    "Caergwrle",
-    "Caego",
-    "Higher Kinnerton",
-    "Thornton Hough",
-    "Runcorn Heath"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "Great Barrow",
-    "Weston Point",
-    "Stanton",
-    "Weston",
-    "Rowton",
-    "Bickerton",
-    "Dodleston",
-    "Summerhill",
-    "Hampton Heath",
-    "Rhosnesni",
-    "Caldy Valley",
-    "Puddington"
-  ],
-  "safe-installation.areas-covered": [
-    "Thornton le Moors",
-    "New Broughton",
-    "Cefn-y-bedd",
-    "Broughton",
-    "Marford",
-    "Tanyfron",
-    "Newton",
-    "Guilden Sutton",
-    "Westminster Park",
-    "Coed-y-Glyn",
-    "Queens Park",
-    "Rhostyllen"
-  ],
-  "safe-opening.areas-covered": [
-    "Ness",
-    "Brynteg",
-    "Westfield",
-    "Upton",
-    "Little Acton",
-    "Higher Runcorn",
-    "Ashton Hayes",
-    "Hawarden",
-    "Spital",
-    "City Centre",
-    "Hope",
-    "Felin Puleston"
-  ]
+ "meta.title": "Locksmith Chester | Local Locksmithing Service 24/7",
+ "meta.description": "Emergency locksmith Chester: 24/7 call-outs, lock changes, repairs & security upgrades. Serving Victorian terraces, council estates & rural properties.",
+ "home.hero-paragraph": "Chester locksmiths provide expert locksmithing lock services for emergencies and everyday needs. We specialise in lockouts, lock changes, and security upgrades across the area. Our team is fully insured and DBS checked, offering 24/7 call-outs with non-destructive entry techniques to protect your property.",
+ "home.local-context-heading": "Why Chester's Diverse Properties Need Specialist Care",
+ "home.local-context-body": "Chester's mixed Victorian and post-war housing stock creates distinct locksmith needs. Period properties in conservation areas like Farndon require specialist attention to original sash window locks and period mechanisms, while 1950s council estates in Blacon benefit from standardised rekeying and master key systems that simplify access management across multiple properties.\n\nListed properties in Chester's medieval core demand locksmiths experienced with heritage constraints; any lock upgrades typically require conservation officer approval. Landlords managing HMOs across the city should note that fire safety regulations often specify particular lock types and escape mechanisms, particularly on secondary exits, making early consultation with a qualified locksmith essential during property refurbishment or lettings preparation.",
+ "home.local-faqs": [
+  {
+   "q": "We've just moved to a Victorian property in Farndon \u2013 do we need specialist locksmiths for our period locks?",
+   "a": "Yes. Period properties in conservation areas like Farndon often have original locks and sash windows requiring specialist knowledge to avoid damage. We assess each lock's age and mechanism, then repair or sensitively upgrade security without compromising character."
+  },
+  {
+   "q": "We own a rental property on a 1950s estate in Blacon \u2013 can you help us set up a master key system?",
+   "a": "Absolutely. Council estates like Blacon typically use compatible lock systems across multiple units, making bulk rekeying and master key solutions cost-effective and straightforward. We'll survey your properties and create a secure, manageable system for landlords."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Chester \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Chester. Locked out or key snapped? Fast response across Boughton Heath, Great Boughton & Broughton. Urgent repairs available now.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Chester, our experienced locksmiths bring professional locksmithing expertise to your door within the hour. Whether you're locked out, have a snapped key, or require post-break-in repairs, we specialise in non-destructive entry methods. Our DBS-checked technicians operate round the clock to resolve your crisis swiftly and safely.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Chester often involve period properties in areas like Gresford, where Victorian terraces and semi-detached homes feature original sash windows and traditional locks that require careful handling during forced entry. Post-war council estates such as Acton present different challenges, with uniform lock systems across multiple properties and doors designed for bulk maintenance rather than individual customisation, making rapid re-access a priority for residents locked out of their homes.\n\nChester's medieval City Centre properties are frequently listed buildings, meaning emergency lock repairs or replacements must comply with conservation guidelines that restrict modifications to original features. This adds complexity to after-hours call-outs, as locksmiths must distinguish between period locks that can be repaired in situ and situations requiring specialist conservation-approved alternatives, particularly in properties where heritage value prevents standard modern lock installation.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in Gresford\u2014can Shield Locksmiths open it without damaging the original sash windows and period frames?",
+   "a": "Yes. Our emergency locksmiths are trained in handling listed properties and period features common in Gresford's Victorian properties. We use non-destructive entry methods to protect original frames and glazing, then secure you safely inside without costly repairs."
+  },
+  {
+   "q": "My semi-detached in Acton has a broken lock after a break-in\u2014do you offer same-day emergency rekeying?",
+   "a": "We do. Our 24/7 emergency team can attend Acton and similar post-war estates within the hour, rekey or replace your locks on the spot, and fit new hardware to restore security the same day."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Chester? Emergency Entry Service",
+ "locked-out.meta.description": "Locked out in Chester? Shield Locksmiths provides fast, non-destructive emergency entry for lost or snapped keys. Available 24/7 across Boughton Heath, terraces & flats.",
+ "locked-out.hero-paragraph": "When you're locked out in Chester, our experienced locksmiths specialise in locksmithing techniques that get you back inside quickly. Whether you've lost your keys, had them locked inside, or experienced a snapped key in the mechanism, we use non-destructive entry methods to restore access without damaging your property. Our damage-free approach means your door and locks remain fully intact.",
+ "locked-out.local-context-body": "Lockouts across Chester's housing stock present distinct challenges depending on location and age. Semi-detached homes in Guilden Sutton, typical of the commuter belt's post-war expansion, often feature standard pin-tumbler locks accessible through non-destructive entry techniques. By contrast, period properties in the medieval City Centre frequently have original mechanisms and listed-building status, requiring specialist knowledge to avoid damage during entry.\n\nChester's mix of Victorian sash windows and modern uPVC frames affects lockout response significantly. Period properties in the city centre may have secondary security fitted to original frames, complicating non-destructive entry without specialist equipment. Council estates from the 1950s\u201370s expansion (such as Blacon) typically use uniform lock systems that locksmiths encounter regularly, making these calls more straightforward operationally.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my period flat in Chester City Centre \u2013 will you damage the original sash windows or listed door frame?",
+   "a": "No. We specialise in non-destructive entry and understand the conservation requirements of listed properties in the City Centre. We'll use specialist techniques to open period locks and frames without harm, preserving your property's historic character."
+  },
+  {
+   "q": "I've snapped my key in the lock of my Blacon semi \u2013 how quickly can you get me back in?",
+   "a": "We typically attend Blacon lockouts within 1\u20132 hours. We'll extract the broken key and gain non-destructive entry without drilling or damaging your lock, so you can keep your existing system if you choose."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Chester | Fast Euro Cylinder Extraction",
+ "broken-key-removal.meta.description": "Broken key stuck in your lock in Chester? Professional removal from euro cylinders, mortice locks & night latches. Fast, non-destructive extraction available 24/7.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Chester is a specialist service that our experienced locksmiths deliver with expert locksmithing techniques tailored to your situation. Whether you're dealing with a snapped key or one stuck firmly in your euro cylinder, we employ non-destructive methods and precision key extractor tools to resolve the problem safely, preserving your lock's integrity throughout.",
+ "broken-key-removal.local-context-body": "Broken key extraction is particularly common in Chester's period properties, where Victorian sash windows and original mortice locks in listed buildings around the City Centre frequently experience key fracture due to age and wear. Affluent commuter villages like Christleton, with their mix of Victorian villas and interwar semi-detached homes, also see regular broken key incidents when older locks are forced or subjected to weather-related expansion and contraction in rural, isolated properties.\n\nListed status in Chester's medieval core means broken key removal must often be performed without damage to original lock casings and decorative escutcheons\u2014extraction techniques differ substantially from modern euro cylinder work. The prevalence of period night latches and traditional mortice locks across the city's Victorian and Edwardian stock requires specialist knowledge of non-standard key profiles and corroded internal mechanisms that cannot simply be drilled out in conservation areas.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "I've snapped my key in a sash window lock at my listed flat in Chester's City Centre \u2013 can you remove it without damaging the original mechanism?",
+   "a": "Yes. Period locks in listed properties require careful extraction to preserve the original mechanism and comply with conservation area rules. We use non-destructive removal techniques designed for Victorian and Georgian locks common in the City Centre."
+  },
+  {
+   "q": "A key has broken off in the mortice lock of my council house in Blacon \u2013 how quickly can you attend?",
+   "a": "We offer same-day broken key removal across Blacon and other council estates. Since many 1950s properties share similar lock systems, we can often extract and re-cut a replacement key on-site."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Chester | Listed Property Locks",
+ "burglar-repair-service.meta.description": "Emergency burglar repair service in Chester. Post-break-in lock changes, door repairs & reinstatement. Insurance-compliant. Serving Acton, Gresford & beyond.",
+ "burglar-repair-service.hero-paragraph": "Our Chester locksmiths specialise in burglar repair and locksmithing services to restore security after break-ins. We install TS007 anti-snap cylinders and BS3621 mortice locks to meet insurance requirements. Whether your property has sustained forced entry damage or requires door reinforcement, our technicians deliver swift, compliant repairs that restore your peace of mind.",
+ "burglar-repair-service.local-context-body": "After a break-in, Chester's diverse housing requires tailored repair approaches. Victorian terraces in Boughton Heath typically feature solid timber frames and period locks that demand careful reinstatement to meet insurance specifications without compromising original joinery. Semi-detached properties across the commuter belt, particularly in Christleton, often combine period frontages with modern rear extensions, creating mixed security points where both traditional and contemporary door systems need post-incident assessment and repair.\n\nListed building status complicates burglar repair work throughout Chester's medieval core and Victorian suburbs. Insurers require like-for-like reinstatement where original locks, frames, or door furniture are damaged, meaning locksmiths must source period-appropriate components and document compliance carefully. In council estates like Blacon, standardised lock systems simplify replacement, but in heritage areas, delays sourcing correct components are routine and must be factored into emergency response timelines.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle break-ins on listed properties in Chester's City Centre?",
+   "a": "Yes. Many of Chester's medieval and Victorian listed properties have original period locks and sash windows that require specialist care during repair. We're experienced in reinstating these without compromising listed building consent or the property's character."
+  },
+  {
+   "q": "Can you provide insurance-compliant repairs for properties in Christleton and similar commuter villages?",
+   "a": "Absolutely. We complete full burglar repair services to insurance standards, including lock replacement, door frame repair, and security upgrades\u2014essential for isolated homes in affluent commuter areas where security enhancements are often needed after a break-in."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Chester \u2013 Fast Response 24/7",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Chester \u2013 same-day service for smashed doors and windows. Serving City Centre listed properties and all areas.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Chester from our specialist locksmith team combines expert locksmithing with rapid response. Whether you're dealing with smashed windows or damaged doors, we secure your property using plywood boards and security screws. Our 24/7 service ensures your premises remain protected and insurance-compliant until permanent repairs are completed.",
+ "emergency-boarding-up.local-context-body": "Chester's post-war council estates in Blacon and Acton feature uniform door and window construction typical of 1950s\u201370s builds, making emergency boarding relatively straightforward in those areas. By contrast, period properties in Farndon\u2014many Georgian and Victorian detached homes in a conservation area\u2014require careful boarding that respects original joinery and listed-building aesthetics, adding complexity to rapid response work.\n\nThe medieval city centre and conservation areas impose planning restrictions that affect boarding methodology; temporary boards must often be installed with reversible fixings to avoid damage to historic frames and listed elements. Rural properties in villages like Ashton Hayes, typically isolated detached homes, may present access challenges during storms or break-ins, requiring longer response times and sometimes specialist equipment to secure exposed sash windows and period doors safely.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Do you board up listed properties in Chester's medieval City Centre without damaging original period features?",
+   "a": "Yes. Our emergency boarding up respects listed building regulations and original sash windows common in Chester's medieval core. We use non-invasive fixings and coordinate with conservation officers where needed to protect your property's historic integrity."
+  },
+  {
+   "q": "Can you board up properties quickly in areas like Blacon after a break-in or storm?",
+   "a": "Absolutely. We attend emergency call-outs across Chester including the 1950s council estates, and can secure uniform semi-detached and terrace properties in Blacon within the hour. We'll make your property weathertight and safe while you arrange permanent repairs."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Chester \u2013 Fast Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Chester for moved homes, lost keys & security upgrades. Serving Victorian terraces, council estates & modern properties. Professional service.",
+ "lock-changes.hero-paragraph": "Lock changes in Chester require a skilled locksmith with expertise in locksmithing to ensure your property is properly secured. Whether you're moving home, changing tenancy, or upgrading security, our technicians install BS3621 mortice locks and TS007 anti-snap cylinders to meet modern standards. We assess your needs and fit the right solution for your doors.",
+ "lock-changes.local-context-body": "Lock changes in Guilden Sutton often follow property extensions and modernisation work, where owners upgrade original locks alongside security improvements. Semi-detached homes in this commuter belt area frequently require full lock replacement when purchased, particularly where keys have been lost or shared with previous owners. Victorian terraces in Boughton Heath present different needs: period properties with original wooden frames demand careful lock selection to avoid damage during installation.\n\nChester's historic city centre contains numerous listed properties where lock changes must comply with conservation requirements; replacement locks often need to match period aesthetics and original specifications. Outside listed areas, standard domestic locks predominate, but older properties across the city frequently feature non-standard measurements or worn frames that complicate straightforward replacements and may require frame adjustment or reinforcement.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian property in the City Centre\u2014do I need specialist lock knowledge for a lock change?",
+   "a": "Yes. Chester's listed medieval and Victorian properties often have original period locks and sash windows that require careful handling during replacement. We have specialist knowledge in upgrading these heritage homes while respecting their character and meeting modern security standards."
+  },
+  {
+   "q": "We own a property in Christleton and want to upgrade security after a key loss\u2014what's the quickest option?",
+   "a": "We can attend same-day for lock changes at rural properties around Christleton and other commuter villages. For isolated homes, we recommend full lock replacement rather than rekeying to eliminate any risk from lost keys and give you complete peace of mind."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Chester \u2013 Same-Day Service",
+ "lock-repairs.meta.description": "Expert lock repairs in Chester for Victorian terraces, council estates & rural homes. Multipoint, mortice & night latch fixes. 24/7 emergency service available.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs in Chester from our experienced locksmith team specialising in locksmithing solutions. Whether you're dealing with a stiff lock, a jammed mechanism, or a key that won't turn, we diagnose and repair the problem efficiently. Our technicians perform mortice maintenance and gearbox repair to restore full functionality, backed by manufacturer warranty on all work completed.",
+ "lock-repairs.local-context-body": "Chester's mixed housing stock creates varied lock repair demands. Period flats in the City Centre's conservation area often house original mortice and night latch mechanisms that require careful restoration rather than replacement. Meanwhile, the post-war semis of Blacon frequently feature standardised multipoint locks fitted during the 1950s expansion; these systems are prone to gearbox failure from decades of use and benefit from targeted repair rather than full lock replacement.\n\nListed building status in Chester's historic core means lock repairs must preserve original mechanisms where possible, limiting options for upgrading or substituting failed components. Repairers working on period properties need to source compatible parts and understand traditional lock construction. Rural properties in the commuter villages, by contrast, often have modern composite or uPVC doors where multipoint lock repairs demand familiarity with current locking technologies and adjustment procedures.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "My Victorian terraced house in Gresford has a stiff mortice lock\u2014is it worth repairing?",
+   "a": "Yes, Victorian mortice locks are built to last and almost always repairable. We'll service the gearbox and lubricate internal mechanisms to restore smooth operation without replacing the original hardware, which preserves your period property's character."
+  },
+  {
+   "q": "Our council flat in Acton has a faulty multipoint lock on the front door. How quickly can you fix it?",
+   "a": "We typically attend multipoint lock repairs within 24 hours across Acton and Chester. Most gearbox and latch failures on these standard council estate locks are straightforward to repair, and we often carry spares for common mechanisms."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Chester \u2013 Same-Day Service",
+ "door-lock-installation.meta.description": "Door lock installation in Chester, including Boughton Heath. BS3621 mortice locks, TS007 anti-snap cylinders, multipoint fittings for homes and businesses.",
+ "door-lock-installation.hero-paragraph": "Professional door lock installation in Chester by our experienced locksmith specialists combines expert locksmithing with modern security standards. Whether you're upgrading to TS007 anti-snap cylinders for enhanced protection or installing BS3621 mortice locks to meet insurance requirements, we ensure every fitting meets current security benchmarks. Our technicians handle new property fittings and security improvements with precision and care.",
+ "door-lock-installation.local-context-body": "Door lock installation in Chester responds to the varied security needs across the city's housing stock. Properties in Victorian areas like Gresford\u2014typically terraced and semi-detached\u2014often retain original timber frames that require careful assessment before fitting modern mortice locks or TS007 anti-snap cylinders. Conversely, post-war council estates and commuter-belt homes demand straightforward multipoint installations, making lock type selection a practical response to property age and construction rather than aesthetic preference.\n\nChester's medieval City Centre contains numerous listed buildings where lock installation must comply with conservation officer approval; period-appropriate hardware or sympathetic fitting within existing apertures is often required. Rural properties in surrounding villages frequently feature solid timber doors and older frames that may need reinforcement or modification to accommodate contemporary BS3621 mortice locks, adding a surveying step that urban terraced housing typically avoids.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "We live in a Victorian terrace in Gresford \u2013 will a new mortice lock work with our original door frame?",
+   "a": "Yes, BS3621 mortice locks are ideal for Victorian and Edwardian properties like those in Gresford. We'll assess your original frame and fit the lock to suit period-appropriate standards without compromising the integrity of your door."
+  },
+  {
+   "q": "Our semi-detached in Acton is part of a council estate \u2013 can you install locks that work with a master key system?",
+   "a": "Absolutely. We regularly fit multipoint and mortice locks across Acton's post-war housing stock and can configure TS007 anti-snap cylinders to work with master key systems if you manage multiple properties."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Chester \u2013 Fast Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Chester, including listed properties in the City Centre. Like-for-like swaps or security upgrades. Same-day service.",
+ "door-lock-replacement.hero-paragraph": "Our Chester locksmith team specialises in door lock replacement, applying modern locksmithing techniques to secure your property. Whether you've lost keys, experienced lock failure, or are moving home, we offer like-for-like cylinder swaps and anti-snap upgrades to BS3621 standards. Fast, professional service across Chester.",
+ "door-lock-replacement.local-context-body": "Door lock replacement in Chester responds to the city's varied building ages and property types. Victorian terraces in Boughton Heath often retain original rim locks or mortise systems that have degraded over decades, while semi-detached homes in Great Boughton frequently require straightforward cylinder lock upgrades. Modern replacements must accommodate period door frames without damage, especially where original woodwork remains intact.\n\nListed properties in Chester's medieval City Centre present a compliance layer absent elsewhere: replacements must preserve architectural character and may require conservation officer approval before work begins. Council estates from the 1950s\u201370s typically feature standardised lock bores that simplify replacement, but rural properties in commuter villages often demand reinforced locks or smart-enabled systems due to isolated locations and security concerns.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a period flat in Chester's City Centre \u2013 can you replace my lock without damaging the original frame?",
+   "a": "Yes, we specialise in lock replacement on listed properties and period buildings in the City Centre conservation area. We'll carefully remove and fit a matching or sympathetic replacement that preserves the character of your historic property while improving security."
+  },
+  {
+   "q": "Our semi-detached home in Aston has an old, worn lock \u2013 what are my upgrade options?",
+   "a": "We can replace it with a modern, high-security lock (like-for-like or upgraded) that fits your existing door and frame. Many homeowners in Aston's Victorian and Edwardian properties choose BS 3621-approved locks for better protection and peace of mind."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Chester \u2013 Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Chester: uPVC alignment, composite doors & timber easing. Serving Broughton, listed properties & period homes.",
+ "door-repairs.hero-paragraph": "Professional door repairs from Chester's trusted locksmith specialists in locksmithing. Whether your uPVC, composite or timber door has dropped, won't close properly, or is catching, our technicians diagnose and repair the issue efficiently. We handle hinge adjustment, frame alignment and multipoint realignment to restore your door's function and eliminate draughts.",
+ "door-repairs.local-context-body": "Misaligned and dropped doors are particularly common in Chester's Victorian terraces and semi-detached homes, where foundation settlement and age-related timber movement affect frame integrity. Properties in areas like Gresford experience these issues frequently, as do older detached properties in rural villages such as Dodleston where isolation and variable maintenance histories compound structural stress on door hardware and hinges.\n\nListed properties in Chester's medieval City Centre require specialist assessment before door repairs proceed, as original frames and ironwork often carry heritage significance. Even routine adjustments to period doors demand awareness of conservation guidelines; conversely, uniform council-estate properties in Blacon typically have standardised frames where repairs follow predictable patterns and bulk component availability simplifies turnaround times.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in Victorian terraces in Boughton Heath often drop or misalign?",
+   "a": "Victorian terraces settle unevenly over time, causing door frames to shift and hinges to strain. Shield Locksmiths can realign frames, adjust hinges, and ensure smooth operation without forcing period doors that may have original hardware."
+  },
+  {
+   "q": "What should I do if my sash window door in Chester's listed City Centre property is sticking?",
+   "a": "Period properties with original sash mechanisms need specialist care to avoid damage to listed features. We assess alignment issues and repair hardware sympathetically, preserving the character of your historic property."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Chester \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Chester. Espagnolette & shootbolt locks fixed on period sash windows & modern frames. Farndon to city centre.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Chester locksmith team specialise in window lock repair and replacement, combining expert locksmithing with practical solutions for your home security. Whether you're dealing with windows that won't lock, broken handles, or failed espagnolette mechanisms, we deliver insurance-compliant fitting to restore full functionality and peace of mind.",
+ "window-lock-repair-replacement.local-context-body": "Victorian and Edwardian properties across Chester's affluent commuter villages like Christleton feature original sash windows with period-appropriate espagnolette locks that require specialist repair rather than wholesale replacement. Similarly, interwar semi-detached homes in Garden City often retain functional shootbolt mechanisms, though wear and misalignment are common after decades of use. Window lock repair addresses both restoration of existing hardware and selective replacement where mechanisms have failed beyond adjustment.\n\nChester's medieval City Centre and conservation areas impose strict listed-building consent requirements on window lock work, particularly where original locks contribute to a property's historical character. Locksmiths must distinguish between sympathetic repair of period locks\u2014often involving adjustment, pin replacement, or bracket realignment\u2014and replacement scenarios requiring planning approval. Modern espagnolette and shootbolt locks installed in non-listed properties typically demand correct spindle length measurement and frame type compatibility to avoid binding or poor engagement.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do sash windows in Chester's City Centre listed properties need specialist window lock repair?",
+   "a": "Period sash windows in Chester's medieval and Victorian conservation areas often have original espagnolette locks that require careful handling to avoid damaging listed building status. Our locksmiths understand the specific mechanics of heritage locks and can repair or replace them while maintaining compliance with conservation guidelines."
+  },
+  {
+   "q": "What window lock problems are common in Aston's Victorian semi-detached homes?",
+   "a": "Victorian and Edwardian properties in Aston often suffer from worn shootbolt locks due to age and weather exposure. We specialise in diagnosing and replacing these traditional locks with modern equivalents that match the period aesthetic while improving security and ease of operation."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Chester \u2013 Same-Day Service",
+ "safe-installation.meta.description": "Safe installation in Chester with proper anchoring and insurance documentation. Serving listed properties, council estates and commuter homes.",
+ "safe-installation.hero-paragraph": "Professional safe installation by Chester locksmiths combines expert locksmithing with secure positioning techniques. Whether you're installing a new safe or meeting insurance approval requirements, our technicians ensure proper floor anchoring and wall mounting to AiS approved standards. We assess cash ratings and Eurograde certifications to guarantee your valuables remain protected.",
+ "safe-installation.local-context-body": "Chester's affluent commuter villages such as Christleton attract homeowners seeking enhanced security for valuables and documents. Detached and villa-style properties in these areas frequently require floor and wall-mounted safes, often integrated into studies or master bedrooms where insurance requirements demand proper anchoring and professional installation documentation.\n\nThe city's substantial Victorian and period properties in the medieval core present specific installation challenges. Listed-building status often restricts wall penetration and anchoring methods, necessitating specialist assessment before drilling or bolting. Conversely, post-war housing in areas like Blacon typically permits straightforward floor installation, though cavity wall construction may require alternative mounting approaches to ensure load-bearing security.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "Why do Victorian properties in Chester's City Centre need specialist safe installation?",
+   "a": "Listed buildings and period properties in Chester's medieval core have original plasterwork, timber frames, and structural features that require careful assessment before wall or floor safe installation. We ensure anchoring methods comply with conservation guidelines and insurance requirements for listed properties."
+  },
+  {
+   "q": "Are safe installations common in rural villages like Ashton Hayes?",
+   "a": "Yes\u2014isolated detached homes and period cottages in Ashton Hayes and surrounding commuter villages often require safes for valuables and documents. We provide proper floor or wall anchoring and full insurance documentation to meet the security standards expected in rural properties."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Chester \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Chester: non-destructive access for lost keys, combinations & lockouts. Serving Christleton, Guilden Sutton & surrounding areas.",
+ "safe-opening.hero-paragraph": "Professional safe opening in Chester by our specialist locksmiths combines expertise in locksmithing with modern techniques. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our non-destructive methods ensure your safe is opened safely and efficiently. We handle flat batteries and mechanical faults with precision, protecting your valuables throughout.",
+ "safe-opening.local-context-body": "Safe deposits and domestic safes are common in Chester's period flats and listed properties within the City Centre, where residents and business owners store valuables in heritage-protected buildings. Similarly, semi-detached homes across the Garden City estate frequently contain older safe models installed during the mid-20th century. Non-destructive opening becomes essential when combinations are lost or keys misplaced, avoiding damage to the safe itself and surrounding period features.\n\nListed building consent and conservation area rules affect safe opening work in Chester's central heritage zone. Technicians must verify whether drilling or manipulation methods will breach conservation requirements before proceeding. Older safes in Victorian and interwar properties often feature mechanical locks that respond well to manipulation, though corrosion from age can complicate access and require patient, precise handling.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I have a Victorian safe in my listed property in Chester's City Centre\u2014can you open it without damage?",
+   "a": "Yes. Our non-destructive safe opening methods are ideal for listed properties where damage could breach conservation rules. We'll recover access to your safe while preserving its original condition and any heritage value."
+  },
+  {
+   "q": "We've lost the combination to a master safe covering multiple units on the Blacon estate\u2014what's the fastest approach?",
+   "a": "We can open your safe non-destructively and help you establish a new master combination or rekeying system across your properties. This is common on larger 1950s estates and we can often complete it in a single visit."
+  }
+ ],
+ "home.areas-covered": [
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon"
+ ],
+ "locked-out.areas-covered": [
+  "Handbridge",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon"
+ ],
+ "broken-key-removal.areas-covered": [
+  "Hough Green",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "Hoole",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hough Green"
+ ],
+ "lock-changes.areas-covered": [
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village"
+ ],
+ "lock-repairs.areas-covered": [
+  "Northgate Village",
+  "Newtown",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache"
+ ],
+ "door-lock-installation.areas-covered": [
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park"
+ ],
+ "door-repairs.areas-covered": [
+  "Blacon",
+  "Queens Park",
+  "Westminster Park",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton",
+  "Newtown"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "Lache",
+  "Newton",
+  "Newtown",
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole"
+ ],
+ "safe-installation.areas-covered": [
+  "Newton",
+  "Westminster Park",
+  "Queens Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newtown"
+ ],
+ "safe-opening.areas-covered": [
+  "Northgate Village",
+  "Queens Park",
+  "Westminster Park",
+  "Blacon",
+  "Handbridge",
+  "Hoole",
+  "Hough Green",
+  "Lache",
+  "Newton"
+ ]
 }

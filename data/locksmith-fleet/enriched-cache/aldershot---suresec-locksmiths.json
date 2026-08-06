@@ -1,348 +1,283 @@
 {
-  "meta.title": "Aldershot Locksmith | Emergency Call-Out 24/7",
-  "meta.description": "Suresec Locksmiths Aldershot: emergency locksmith services, lock repairs and changes for Victorian terraces, post-war homes and businesses across Aldershot.",
-  "home.hero-paragraph": "Aldershot locksmith services for professional locksmithing and expert lock help are available 24/7. We specialise in emergency lockouts, lock changes, and lock repairs. All our engineers are DBS checked and fully insured, with non-destructive entry methods. No call-out fees apply.",
-  "home.local-context-heading": "Mixed-Era Locks Across Aldershot's Neighborhoods",
-  "home.local-context-body": "Aldershot's mixed housing stock—Victorian terraces in North Town alongside post-war semis in East End—creates varied locksmith demands across short distances. Period properties often retain original locks and complex door mechanisms requiring specialist knowledge, while newer suburban estates typically need routine multipoint system maintenance and key duplication. This diversity means locksmiths must stock both heritage hardware and contemporary security systems.\n\nProperties across Aldershot's different eras use different door standards, from solid Victorian frames to modern composite doors. Landlords with multiple properties should verify which lock types are fitted, particularly if managing older terraced stock where period mechanisms may need specialist attention or gradual upgrade. Annual lock checks help identify wear before security becomes compromised.",
-  "home.local-faqs": [
-    {
-      "q": "Why do Victorian locks in North Camp and North Town require specialist attention?",
-      "a": "Victorian terraced properties in these areas often feature original period locks and complex door mechanisms that differ significantly from modern standards. Our locksmiths are trained to work with both period hardware and contemporary multipoint systems, ensuring your heritage property is secured without damage to original fixtures."
-    },
-    {
-      "q": "Do you service both older and newer properties across Aldershot?",
-      "a": "Yes—Aldershot's mixed housing stock means we regularly work on everything from Victorian terraces to post-war estates like Ramillies Park and modern developments in Runfold. We stock both period-appropriate locks and current multipoint systems to match your property type."
-    }
-  ],
-  "emergency-locksmith.meta.title": "Emergency Locksmith Aldershot – 24/7 Response",
-  "emergency-locksmith.meta.description": "24/7 emergency locksmith in Aldershot. Locked out, key snapped, or door won't lock? Fast response to Victorian terraces and suburban homes. Available now.",
-  "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Aldershot, our experienced locksmiths deliver rapid locksmithing solutions around the clock. Whether you're locked out, have a snapped key, or require post-break-in repairs, our DBS-checked team arrives promptly using non-destructive entry methods to minimise damage to your property.",
-  "emergency-locksmith.local-context-body": "Emergency lockouts in Aldershot span both older and newer residential areas, creating varied response demands. North Camp's Victorian terraces frequently present period locks and heavy timber doors requiring careful handling during urgent access, while semi-detached properties across Ash Vale and Ramillies Park typically involve straightforward multipoint systems. The density of the town centre and the dispersed suburban estates mean call-out times must account for both tight street layouts and longer distances between properties.\n\nListed building status affects a significant proportion of North Camp and North Town properties, restricting lock replacement and repair methods during emergency calls. Many Victorian and Edwardian doors feature mortice locks and complex turning mechanisms incompatible with modern forcing techniques, necessitating locksmiths to carry period-appropriate hardware and use non-destructive methods wherever possible. Post-war suburban stock, by contrast, allows faster standardised solutions, but the proximity of era-specific properties across short distances demands stock versatility on every call.",
-  "emergency-locksmith.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terrace in North Camp – will you have the right tools for period locks?",
-      "a": "Yes. North Camp's original Victorian stock often has complex period mechanisms and non-standard mortices that need specialist knowledge. We carry both period-appropriate hardware and modern extraction tools to open your door without damage."
-    },
-    {
-      "q": "My door won't lock properly on my post-war semi in Ash Vale – is this an emergency call?",
-      "a": "If the lock is completely jammed or broken, we'll treat it as urgent, especially after hours. Many Ash Vale properties share standardised lock designs, so we can usually diagnose and repair or replace the mechanism quickly to restore security."
-    }
-  ],
-  "locked-out.meta.title": "Locked Out in Aldershot | 24/7 Emergency Service",
-  "locked-out.meta.description": "Locked out in Aldershot? Suresec provides fast, non-destructive entry for lost or snapped keys. Serving Victorian terraces, semi-detached homes & modern properties 24/7.",
-  "locked-out.hero-paragraph": "When you're locked out in Aldershot, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry techniques to regain access without damage to your property. Our damage-free methods mean your door and frame remain intact.",
-  "locked-out.local-context-body": "Properties in North Camp feature Victorian terraced housing with period-appropriate locks and original door frames that require careful, non-destructive entry techniques. Modern semi-detached homes across Ash Vale and Ramillies Park typically have standardised cylinder locks and multipoint systems, making routine lockouts more straightforward. The contrast in lock mechanisms across these neighborhoods means technicians must adapt their approach depending on the property era and condition.\n\nMany older properties in the North Town conservation area fall under listed-building restrictions, which prohibit forced entry methods that would damage original joinery or hardware. Even where properties aren't formally listed, Victorian and Edwardian terraced stock often has period doors and frames of heritage value. Assessment of local planning constraints and the structural integrity of historic doors is a standard part of responding to lockout calls in Aldershot's central residential zones.",
-  "locked-out.local-faqs": [
-    {
-      "q": "I'm locked out of my Victorian terraced house in North Camp—will non-destructive entry work on period locks?",
-      "a": "Yes. Victorian terraces in North Camp often have complex original lock mechanisms that benefit from specialist non-destructive techniques; we carry period-appropriate tools and avoid damage to listed door furniture, which is essential for these heritage properties."
-    },
-    {
-      "q": "How quickly can you reach me if I'm locked out in the post-war estates like Ash Vale or Ramillies Park?",
-      "a": "Our Aldershot team typically responds within 30–60 minutes across the suburban estates; the standardised multipoint locks on semi-detached properties in these areas are usually opened swiftly without damage."
-    }
-  ],
-  "broken-key-removal.meta.title": "Broken Key Removal Aldershot – Fast Same-Day Service",
-  "broken-key-removal.meta.description": "Broken key removal in Aldershot – swift extraction from euro cylinders, mortice locks & night latches. Serving Victorian terraces & post-war homes. Available 24/7.",
-  "broken-key-removal.hero-paragraph": "Broken key removal in Aldershot is a speciality of our expert locksmith team, drawing on decades of locksmithing experience. Whether you're dealing with a snapped key stuck in a euro cylinder or mortice lock, we use precision key extractor tools to retrieve the fragment safely. Our non-destructive method means your lock remains fully functional and undamaged.",
-  "broken-key-removal.local-context-body": "Tongham's commuter-belt detached properties and the semi-detached stock across Weybourne present broken key scenarios shaped by both newer and ageing hardware. Victorian terraces in North Camp, however, frequently feature original mortice locks and night latches where key fracture—often from wear or metal fatigue—requires experienced extraction to avoid further lock damage and preserve period fittings.\n\nListed building status affects many North Camp properties, making key removal work subject to conservation constraints; replacement locks must match original specifications rather than default to modern multipoint systems. Across Aldershot's mixed era housing, the prevalence of euro cylinders in post-war suburban stock contrasts sharply with traditional brass and cast-iron fittings in older terraced streets, meaning technicians must carry diverse extraction tools and understand both lock standards to complete jobs without forcing or enlarging the cylinder aperture.",
-  "broken-key-removal.local-faqs": [
-    {
-      "q": "Why do Victorian terraced properties in North Camp need specialist key removal?",
-      "a": "Victorian terraced homes in North Camp often feature original mortice locks with tighter tolerances and period-specific cylinder designs; a snapped key in these locks requires careful extraction to avoid damaging the mechanism and the decorative escutcheon. Our locksmiths are trained to work with both heritage hardware and modern replacements."
-    },
-    {
-      "q": "Can you remove a broken key from my semi-detached's euro cylinder without replacing the entire lock?",
-      "a": "Yes—most semi-detached properties across Aldershot's post-war estates like Ash Vale use standard euro cylinders, and we can extract a snapped key and leave the lock body intact if undamaged. We'll assess whether the cylinder itself needs replacement after removal."
-    }
-  ],
-  "burglar-repair-service.meta.title": "Burglar Repair Service Aldershot – Same-Day Fix",
-  "burglar-repair-service.meta.description": "Burglar repair service in Aldershot covering North Camp Victorian terraces and modern suburbs. Post-break-in lock changes, door repairs, insurance-compliant.",
-  "burglar-repair-service.hero-paragraph": "Burglar repair in Aldershot requires experienced locksmiths with genuine locksmithing expertise to restore your security after forced entry or break-in damage. Our technicians specialise in repairing smashed locks and damaged doors, installing reinforced solutions including TS007 anti-snap cylinders and BS3621 mortice locks. All work meets insurance-compliance standards, ensuring your home is properly secured.",
-  "burglar-repair-service.local-context-body": "Break-ins across Aldershot's diverse property types create distinct repair demands. East End's interwar semi-detached homes and terraced properties in North Town both present common targets for forced entry; Victorian door frames and traditional lock mechanisms in older stock often sustain frame damage and lock cylinder compromise requiring full reinstatement rather than simple replacement.\n\nPost-break-in repair work in Aldershot must account for the region's mixed lock standards and door construction methods. Period properties feature timber frames and original hardware that demand careful matching during reinstatement, while the prevalence of multipoint locking systems on post-war suburban estates means technicians must hold insurance-standard replacement stock for both traditional and contemporary mechanisms to meet policyholder requirements without delay.",
-  "burglar-repair-service.local-faqs": [
-    {
-      "q": "Do you handle period door repairs on Victorian properties in North Camp and North Town?",
-      "a": "Yes. Many Victorian and Edwardian terraces in those areas have original frames and specialized door mechanisms that need careful reinstatement after break-ins. We stock period-appropriate hardware and can restore both the security and aesthetic integrity of listed properties."
-    },
-    {
-      "q": "Can you repair multipoint locks on post-war semi-detached homes after a break-in?",
-      "a": "Absolutely. Post-war suburban estates like Ash Vale feature standardized multipoint systems, and we carry full replacement and repair stock for rapid reinstatement. We'll restore your lock to working order and issue an insurance report same-day if needed."
-    }
-  ],
-  "emergency-boarding-up.meta.title": "Emergency Boarding Up Aldershot – Fast Response 24/7",
-  "emergency-boarding-up.meta.description": "Emergency boarding up in Aldershot—same-day secure boarding of smashed doors and windows after break-ins or storms. North Camp to suburbs.",
-  "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Aldershot from our specialist locksmiths combines expert locksmithing with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our team installs secure plywood boards and weatherproof temporary seals within hours. We operate 24/7 and ensure all work meets insurance-compliance standards, protecting your property when it matters most.",
-  "emergency-boarding-up.local-context-body": "Storm damage and break-ins in Weybourne's mix of post-war semi-detached properties and converted flats create frequent demand for rapid boarding. The area's standardised door frames and window sizes allow swift temporary closure, though the density of shared-wall properties means noise and access considerations differ from detached homes elsewhere in the town.\n\nAldershot's interwar and Victorian stock in Upper Hale and North Town often features original timber sashes and period door casings that complicate straightforward boarding. Modern plywood panels must accommodate uneven reveals and non-standard opening sizes common in older properties, requiring custom-cut solutions rather than standard stock sizes.",
-  "emergency-boarding-up.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in North Town need specialist boarding up after break-ins?",
-      "a": "Victorian terraces have original period door frames and multi-pane sash windows that require careful measurement and custom-cut boards to avoid damaging heritage features. We stock both traditional and modern boarding materials to protect your period property while maintaining its structural integrity."
-    },
-    {
-      "q": "How quickly can you board up a semi-detached property in East End after storm damage?",
-      "a": "We aim to arrive within 2 hours for emergency calls across Aldershot's post-war suburban estates like East End. Semi-detached properties typically have standardised window and door sizes, which we can board securely using pre-cut materials to minimise further weather exposure."
-    }
-  ],
-  "lock-changes.meta.title": "Lock Changes Aldershot – Same-Day Service",
-  "lock-changes.meta.description": "Lock changes in Aldershot for lost keys, moving home & security upgrades. Victorian & modern properties. Fast professional service. Call 01252 493214.",
-  "lock-changes.hero-paragraph": "Lock changes in Aldershot by our experienced locksmith combines professional locksmithing with certified expertise. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to meet current standards. Our technicians ensure your property is properly secured.",
-  "lock-changes.local-context-body": "Lock changes in Aldershot reflect the town's distinct residential layers. Semi-detached properties across Ash Vale and Ramillies Park estates typically feature standardised modern multipoint systems, making rapid lock replacement straightforward. By contrast, properties in North Camp—predominantly Victorian terraces—often retain original period joinery and complex door mechanisms that demand careful assessment before specification and installation.\n\nListed buildings and period properties throughout the older residential core require locks compatible with heritage preservation standards; Conservation Area designation can affect material choice and mechanism type. Across Aldershot's mixed streetscapes, locksmiths must verify door construction—timber frame depth, metal reinforcement, and existing hinge configuration—since post-war suburban doors differ significantly from Victorian and Edwardian stock in their ability to accommodate modern security hardware.",
-  "lock-changes.local-faqs": [
-    {
-      "q": "I've just moved to a Victorian terrace in North Camp—do I need specialist lock changes?",
-      "a": "Yes. Victorian terraces in North Camp often have period-specific door frames and original mechanisms that require careful handling during replacement. We stock both heritage-compatible locks and modern multipoint systems to ensure your new lock fits properly and functions securely."
-    },
-    {
-      "q": "We're upgrading security on our semi-detached in Ash Vale—what's the quickest lock change option?",
-      "a": "Post-war semi-detached properties like those in Ash Vale typically use standardised modern lock housings, so we can fit new multipoint or cylinder locks quickly without complications. Most upgrades take under an hour."
-    }
-  ],
-  "lock-repairs.meta.title": "Lock Repairs Aldershot | Same-Day Service",
-  "lock-repairs.meta.description": "Lock repair service in Aldershot for Victorian terraces, modern multipoint systems & mortice locks. Emergency 24/7 available.",
-  "lock-repairs.hero-paragraph": "Expert lock repairs from our Aldershot locksmith specialising in locksmithing solutions for homes and businesses. Whether you're dealing with a stiff lock, a key that won't turn, or a jammed mechanism, our technicians diagnose and repair the issue efficiently. We service mortice locks and multipoint systems to manufacturer warranty standards, ensuring your locks function smoothly and securely.",
-  "lock-repairs.local-context-body": "Aldershot's mixed housing stock creates varied repair demands. Semi-detached properties across Weybourne and the post-war suburbs typically run standardised multipoint systems, generating steady repair calls on predictable hardware. By contrast, North Camp's Victorian terraces often retain original period locks—mortice and night latch mechanisms—which demand specialist knowledge and compatible replacement parts held in stock.\n\nThe town's listed building concentration, particularly in older residential areas, introduces a practical constraint: lock repairs on period properties frequently require conservation-standard hardware that matches original specifications rather than modern equivalents. This extends diagnosis and sourcing time compared to routine suburban repairs, and locksmiths must verify listed-building status before recommending or installing replacements.",
-  "lock-repairs.local-faqs": [
-    {
-      "q": "Why do Victorian terraces in North Camp need specialist lock repair?",
-      "a": "Victorian properties in North Camp often feature original mortice locks and complex period door mechanisms that differ from modern multipoint systems. Our locksmiths are trained to repair and maintain these heritage locks without forcing replacement, preserving both function and character."
-    },
-    {
-      "q": "What's the most common lock repair in Aldershot's post-war estates?",
-      "a": "Semi-detached properties across Weybourne and similar post-war suburban areas typically use standardised multipoint locks that can wear at the gearbox mechanism. We repair these high-volume failure points quickly, getting your door secure again without unnecessary replacement costs."
-    }
-  ],
-  "door-lock-installation.meta.title": "Door Lock Installation Aldershot – Fast & Trusted",
-  "door-lock-installation.meta.description": "Door lock installation in Aldershot, including BS3621 mortice locks and TS007 anti-snap cylinders. Specialist fitting for Victorian terraces in North Camp and modern homes.",
-  "door-lock-installation.hero-paragraph": "Our Aldershot locksmiths specialise in professional door lock installation and locksmithing services tailored to your security needs. Whether you require new fittings, insurance-backed upgrades, or BS3621 mortice locks fitted to current standards, our technicians deliver reliable solutions. We install TS007 anti-snap cylinders and multipoint mechanisms to protect your property effectively.",
-  "door-lock-installation.local-context-body": "Semi-detached properties across Tongham and the post-war estates rely heavily on standardised multipoint locking systems, making routine lock installations straightforward. By contrast, North Camp's Victorian terraced stock often requires more specialist fitting work: period properties frequently have original deep-set mortice housings and non-standard door frames that demand careful measurement and sometimes custom hardware selection before installation can proceed.\n\nListed properties in the older residential cores present a further consideration. Door lock installation on protected structures may require conservation approval, particularly where visible hardware changes are involved. This affects material choice—brass and period-appropriate finishes often take precedence over modern chrome alternatives—and extends timescales for approval before work commences.",
-  "door-lock-installation.local-faqs": [
-    {
-      "q": "Do you fit anti-snap cylinders to Victorian terraced properties in North Camp?",
-      "a": "Yes. North Camp's Victorian terraces often have original period locks with non-standard door frames. We supply and fit TS007 anti-snap cylinders compatible with period mechanisms, ensuring security without compromising your home's character."
-    },
-    {
-      "q": "What's the best lock type for semi-detached homes in Ash Vale?",
-      "a": "Ash Vale's post-war semi-detached stock works well with BS3621 mortice locks or multipoint systems. We assess your door type on-site and recommend the most secure, durable option for modern suburban properties."
-    }
-  ],
-  "door-lock-replacement.meta.title": "Door Lock Replacement Aldershot – Same-Day Service",
-  "door-lock-replacement.meta.description": "Door lock replacement in Aldershot including Victorian terraces and post-war homes. Like-for-like swaps or security upgrades. Same-day service available.",
-  "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Aldershot from our experienced locksmith team specialising in locksmithing solutions. Whether you've experienced a failed lock, lost your keys, or are moving home, we fit high-security replacements meeting BS3621 standards. Our technicians perform like-for-like cylinder swaps and anti-snap upgrades to maximise your property's security.",
-  "door-lock-replacement.local-context-body": "Victorian terraces in North Town often retain original period locks and complex door mechanisms that require specialist attention during replacement work. Semi-detached properties across East End's interwar estates typically feature standardised lock systems, enabling faster like-for-like swaps. The proximity of these different eras across Aldershot means technicians encounter varied hardware and door construction within short distances, affecting both diagnosis and parts availability.\n\nPeriod properties in the town centre may fall under listed-building restrictions that govern lock replacement aesthetics and materials. Post-war suburban stock generally accommodates modern multipoint locking systems without constraint, though door frame condition varies significantly across the town's mixed housing ages. Identifying the correct lock type before arrival—whether period hardware or contemporary multipoint—reduces call duration and ensures appropriate parts are on hand.",
-  "door-lock-replacement.local-faqs": [
-    {
-      "q": "I have a Victorian terraced property in North Camp – will you replace my original period lock with a modern one?",
-      "a": "Yes. Victorian terraces often have complex original mechanisms that can fail or become a security risk. We can upgrade to a modern multipoint lock while ensuring the new hardware fits your period door frame without damage."
-    },
-    {
-      "q": "My semi-detached in Ash Vale has a broken lock – can you fit a like-for-like replacement quickly?",
-      "a": "Absolutely. Post-war suburban properties like those in Ash Vale typically use standardised locks, so we stock compatible replacements and can usually complete the swap the same day."
-    }
-  ],
-  "door-repairs.meta.title": "Door Repairs Aldershot – Fast Same-Day Service",
-  "door-repairs.meta.description": "Door repairs in Aldershot including semi-detached homes in Ash Vale. uPVC alignment, composite door realignment, handle repair and hardware fixes.",
-  "door-repairs.hero-paragraph": "Our Aldershot locksmith team specialises in expert door repairs, combining locksmithing knowledge with precision engineering. Whether your uPVC or composite door has dropped, won't close properly, or is catching on the frame, we diagnose and resolve the issue. Our technicians perform hinge adjustment, multipoint realignment, and frame correction to restore smooth operation and security.",
-  "door-repairs.local-context-body": "Aldershot's post-war suburban estates, particularly South Farnborough, contain large numbers of semi-detached properties where door alignment issues are common. These homes often experience settled foundations and frame movement typical of mid-20th-century construction, leading to dropped or binding doors. East End's interwar semi-detached stock similarly shows wear patterns requiring specialist attention to both door hangers and frame geometry.\n\nThe town's mixed-era property base means door repair work frequently involves non-standard frame dimensions and hardware configurations. Older terraced properties in North Town often have deeper door reveals and period architraves that complicate modern hinge installation, while post-war estates typically feature lighter-duty frames requiring careful assessment before adjustment to avoid structural compromise.",
-  "door-repairs.local-faqs": [
-    {
-      "q": "Why do doors in North Camp Victorian terraces need specialist repair?",
-      "a": "Victorian terraced properties in North Camp often have original period door frames and multi-point mechanisms that have settled unevenly over time, causing misalignment and sticking. Our locksmiths are experienced in adjusting and repairing these heritage doors without compromising their character or original hardware."
-    },
-    {
-      "q": "My semi-detached in Ash Vale has a dropped door—is this common?",
-      "a": "Yes, dropped doors are very common in post-war semi-detached homes across Ash Vale and similar suburban estates, usually caused by hinge wear or frame settlement. We can realign, adjust or replace hinges and repair the frame to restore smooth operation quickly."
-    }
-  ],
-  "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Aldershot – Same-Day Service",
-  "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Aldershot. Espagnolette & shootbolt locks fixed on Victorian terraces, semi-detached homes & modern properties.",
-  "window-lock-repair-replacement.hero-paragraph": "Our Aldershot locksmith specialises in window lock repair and replacement, combining practical locksmithing expertise with reliable service. Whether you're facing windows that won't lock or broken handles, we restore security using insurance-compliant fitting methods. We service espagnolette mechanisms, shootbolt locks, and child restrictors to ensure your home remains properly secured.",
-  "window-lock-repair-replacement.local-context-body": "Interwar semi-detached properties in Heath End frequently retain original metal espagnolette locks on timber sash windows, many now worn or seized after decades of use. Post-war estates like Ramillies Park feature standardised shootbolt systems on casement windows, where wear patterns are predictable across similar housing stock. Window lock failure affects both property types differently: period locks often require careful adjustment or specialist replacement to preserve original hardware, while modern multipoint systems typically need straightforward component swaps.\n\nMixed housing eras across short distances means locksmiths encounter both period brass and contemporary aluminium window frames requiring different lock mechanisms and installation methods. Listed properties in North Camp's Victorian terraces may restrict lock replacement to period-appropriate designs, adding complexity beyond straightforward repair work. Availability of matching original hardware for older windows can lengthen timescales, whereas post-war suburban properties usually accommodate modern replacements without restriction.",
-  "window-lock-repair-replacement.local-faqs": [
-    {
-      "q": "Why do Victorian terrace windows in North Camp need specialist espagnolette lock repair?",
-      "a": "Victorian sash windows in North Camp often have original period lock mechanisms that are difficult to source and require specialist knowledge to repair safely without damaging the timber frames. We stock both period-appropriate and modern replacement options to preserve your home's character while ensuring security."
-    },
-    {
-      "q": "Are window shootbolt locks standard across Aldershot's semi-detached properties?",
-      "a": "Post-war semi-detached homes in areas like Upper Hale and Weybourne typically feature standardised multipoint shootbolt systems, making replacement straightforward and cost-effective. If your lock is sticking or damaged, we can usually fit a like-for-like replacement the same day."
-    }
-  ],
-  "safe-installation.meta.title": "Safe Installation Aldershot – Fast & Trusted Service",
-  "safe-installation.meta.description": "Professional safe installation in Aldershot, including wall, floor and freestanding safes with secure anchoring and insurance documentation for homeowners across Badshot Lea and surrounding areas.",
-  "safe-installation.hero-paragraph": "Our Aldershot locksmith team specialises in safe installation and locksmithing expertise that meets insurance approval requirements. We secure new safes using floor anchoring and wall mounting techniques to AiS approved standards. Whether you need cash rating certification or Eurograde compliance, our technicians ensure proper anti-leverage positioning for maximum protection.",
-  "safe-installation.local-context-body": "Detached properties in Tongham and the commuter suburbs often require safes fitted into solid walls or concrete floors, particularly where homeowners seek secure storage away from occupied rooms. Semi-detached stock across post-war estates presents different anchoring challenges, with cavity walls and modern construction demanding careful assessment before installation. The variety of property ages across Aldershot means safe positioning must account for both period plasterwork and contemporary building standards within short distances.\n\nNorth Camp's Victorian terraces frequently contain listed-building designations, which restricts drilling and permanent fixings without local authority consent. Installers must verify planning status before commencing work, as many period properties cannot accommodate standard wall safes without breaching conservation requirements. Insurance documentation becomes especially critical in these cases, since certification must explicitly confirm compliance with heritage listings.",
-  "safe-installation.local-faqs": [
-    {
-      "q": "I live in a Victorian terrace in North Camp with solid stone walls – can you install a wall safe here?",
-      "a": "Yes, Victorian terraces in North Camp often have thick period masonry which is ideal for recessed wall safes, though we'll survey first to avoid pipes and wiring. We'll ensure proper anchoring and provide insurance documentation for your contents."
-    },
-    {
-      "q": "We're in a post-war semi-detached in Ramillies Park – what's the best safe option for our home?",
-      "a": "For Ramillies Park semis, freestanding floor safes or cavity wall installations work best since internal walls are often lighter than Victorian stock. We'll anchor securely to meet insurer requirements and provide full certification."
-    }
-  ],
-  "safe-opening.meta.title": "Safe Opening Aldershot – Fast Same-Day Service",
-  "safe-opening.meta.description": "Safe opening in Aldershot for lost combinations, keys & lockouts. Serving North Town terraces, East End & surrounding areas. Non-destructive methods.",
-  "safe-opening.hero-paragraph": "Professional safe opening in Aldershot by our experienced locksmith specialists in locksmithing. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians use non-destructive opening methods to regain access without damaging your safe. We prioritise preserving your security installation whilst resolving your access issue promptly.",
-  "safe-opening.local-context-body": "Properties across East End and South Farnborough frequently contain domestic safes installed during post-war suburban development. Semi-detached homes in these areas often house safes in bedroom alcoves or under stairs, requiring locksmiths to work within confined spaces and navigate around period fixtures without causing structural damage.\n\nVictorian terraced properties in the town centre present particular challenges for safe opening, as many contain older, non-standard safe models with wear-damaged locking mechanisms. The dense street layout and shared party walls in these properties mean access is often limited; non-destructive techniques become essential where replacement would be impractical or risk neighbouring properties.",
-  "safe-opening.local-faqs": [
-    {
-      "q": "I've lost the combination to a safe in my Victorian terraced home in North Camp – can you open it without damage?",
-      "a": "Yes, we specialise in non-destructive safe opening for period properties across North Camp and North Town. Our technicians use specialist manipulation and bypass techniques to recover access without drilling or prying, preserving both your safe and the original fixtures common in Victorian homes."
-    },
-    {
-      "q": "We've just moved to a semi-detached in Ramillies Park and inherited a locked safe – what's the process?",
-      "a": "We'll attend your Ramillies Park property to assess the safe type and attempt non-destructive opening via combination recovery or key code retrieval. Most post-war suburban safes respond well to professional manipulation, and we aim to have you back in within a single visit."
-    }
-  ],
-  "home.areas-covered": [
-    "Ash Vale",
-    "Badshot Lea",
-    "Cargate",
-    "East End",
-    "Fairfield",
-    "Gun Hill Park",
-    "Hale",
-    "Heath End",
-    "North Camp",
-    "North Town",
-    "Ramillies Park",
-    "Runfold",
-    "Shawfield",
-    "South Farnborough",
-    "Tongham",
-    "Upper Hale",
-    "Weybourne"
-  ],
-  "emergency-locksmith.areas-covered": [
-    "North Camp",
-    "Cargate",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End"
-  ],
-  "locked-out.areas-covered": [
-    "Tongham",
-    "North Town",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End"
-  ],
-  "broken-key-removal.areas-covered": [
-    "Gun Hill Park",
-    "Heath End",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "East End"
-  ],
-  "burglar-repair-service.areas-covered": [
-    "Weybourne",
-    "Hale",
-    "Upper Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End",
-    "Tongham"
-  ],
-  "emergency-boarding-up.areas-covered": [
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End",
-    "Tongham"
-  ],
-  "lock-changes.areas-covered": [
-    "Ash Vale",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End"
-  ],
-  "lock-repairs.areas-covered": [
-    "East End",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "Tongham"
-  ],
-  "door-lock-installation.areas-covered": [
-    "Runfold",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End"
-  ],
-  "door-lock-replacement.areas-covered": [
-    "Shawfield",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End"
-  ],
-  "door-repairs.areas-covered": [
-    "Fairfield",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End"
-  ],
-  "window-lock-repair-replacement.areas-covered": [
-    "South Farnborough",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "Heath End",
-    "East End",
-    "Tongham"
-  ],
-  "safe-installation.areas-covered": [
-    "Badshot Lea",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "South Farnborough",
-    "Heath End",
-    "East End",
-    "Tongham"
-  ],
-  "safe-opening.areas-covered": [
-    "Ramillies Park",
-    "Upper Hale",
-    "Weybourne",
-    "Hale",
-    "Badshot Lea",
-    "South Farnborough",
-    "Heath End",
-    "East End"
-  ]
+ "meta.title": "Aldershot Locksmith | Emergency Call-Out 24/7",
+ "meta.description": "Suresec Locksmiths Aldershot: emergency locksmith services, lock repairs and changes for Victorian terraces, post-war homes and businesses across Aldershot.",
+ "home.hero-paragraph": "Aldershot locksmith services for professional locksmithing and expert lock help are available 24/7. We specialise in emergency lockouts, lock changes, and lock repairs. All our engineers are DBS checked and fully insured, with non-destructive entry methods. No call-out fees apply.",
+ "home.local-context-heading": "Mixed-Era Locks Across Aldershot's Neighbourhoods",
+ "home.local-context-body": "Aldershot's mixed housing stock\u2014Victorian terraces in North Town alongside post-war semis in East End\u2014creates varied locksmith demands across short distances. Period properties often retain original locks and complex door mechanisms requiring specialist knowledge, while newer suburban estates typically need routine multipoint system maintenance and key duplication. This diversity means locksmiths must stock both heritage hardware and contemporary security systems.\n\nProperties across Aldershot's different eras use different door standards, from solid Victorian frames to modern composite doors. Landlords with multiple properties should verify which lock types are fitted, particularly if managing older terraced stock where period mechanisms may need specialist attention or gradual upgrade. Annual lock checks help identify wear before security becomes compromised.",
+ "home.local-faqs": [
+  {
+   "q": "Why do Victorian locks in North Camp and North Town require specialist attention?",
+   "a": "Victorian terraced properties in these areas often feature original period locks and complex door mechanisms that differ significantly from modern standards. Our locksmiths are trained to work with both period hardware and contemporary multipoint systems, ensuring your heritage property is secured without damage to original fixtures."
+  },
+  {
+   "q": "Do you service both older and newer properties across Aldershot?",
+   "a": "Yes\u2014Aldershot's mixed housing stock means we regularly work on everything from Victorian terraces to post-war estates like Ramillies Park and modern developments in Runfold. We stock both period-appropriate locks and current multipoint systems to match your property type."
+  }
+ ],
+ "emergency-locksmith.meta.title": "Emergency Locksmith Aldershot \u2013 24/7 Response",
+ "emergency-locksmith.meta.description": "24/7 emergency locksmith in Aldershot. Locked out, key snapped, or door won't lock? Fast response to Victorian terraces and suburban homes. Available now.",
+ "emergency-locksmith.hero-paragraph": "When you need an emergency locksmith in Aldershot, our experienced locksmiths deliver rapid locksmithing solutions around the clock. Whether you're locked out, have a snapped key, or require post-break-in repairs, our DBS-checked team arrives promptly using non-destructive entry methods to minimise damage to your property.",
+ "emergency-locksmith.local-context-body": "Emergency lockouts in Aldershot span both older and newer residential areas, creating varied response demands. North Camp's Victorian terraces frequently present period locks and heavy timber doors requiring careful handling during urgent access, while semi-detached properties across Ash Vale and Ramillies Park typically involve straightforward multipoint systems. The density of the town centre and the dispersed suburban estates mean call-out times must account for both tight street layouts and longer distances between properties.\n\nListed building status affects a significant proportion of North Camp and North Town properties, restricting lock replacement and repair methods during emergency calls. Many Victorian and Edwardian doors feature mortice locks and complex turning mechanisms incompatible with modern forcing techniques, necessitating locksmiths to carry period-appropriate hardware and use non-destructive methods wherever possible. Post-war suburban stock, by contrast, allows faster standardised solutions, but the proximity of era-specific properties across short distances demands stock versatility on every call.",
+ "emergency-locksmith.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terrace in North Camp \u2013 will you have the right tools for period locks?",
+   "a": "Yes. North Camp's original Victorian stock often has complex period mechanisms and non-standard mortices that need specialist knowledge. We carry both period-appropriate hardware and modern extraction tools to open your door without damage."
+  },
+  {
+   "q": "My door won't lock properly on my post-war semi in Ash Vale \u2013 is this an emergency call?",
+   "a": "If the lock is completely jammed or broken, we'll treat it as urgent, especially after hours. Many Ash Vale properties share standardised lock designs, so we can usually diagnose and repair or replace the mechanism quickly to restore security."
+  }
+ ],
+ "locked-out.meta.title": "Locked Out in Aldershot | 24/7 Emergency Service",
+ "locked-out.meta.description": "Locked out in Aldershot? Suresec provides fast, non-destructive entry for lost or snapped keys. Serving Victorian terraces, semi-detached homes & modern properties 24/7.",
+ "locked-out.hero-paragraph": "When you're locked out in Aldershot, our experienced locksmith team specialises in locksmithing solutions that get you back inside quickly. Whether you've lost your keys, left them inside, or snapped one in the lock, we use non-destructive entry techniques to regain access without damage to your property. Our damage-free methods mean your door and frame remain intact.",
+ "locked-out.local-context-body": "Properties in North Camp feature Victorian terraced housing with period-appropriate locks and original door frames that require careful, non-destructive entry techniques. Modern semi-detached homes across Ash Vale and Ramillies Park typically have standardised cylinder locks and multipoint systems, making routine lockouts more straightforward. The contrast in lock mechanisms across these neighbourhoods means technicians must adapt their approach depending on the property era and condition.\n\nMany older properties in the North Town conservation area fall under listed-building restrictions, which prohibit forced entry methods that would damage original joinery or hardware. Even where properties aren't formally listed, Victorian and Edwardian terraced stock often has period doors and frames of heritage value. Assessment of local planning constraints and the structural integrity of historic doors is a standard part of responding to lockout calls in Aldershot's central residential zones.",
+ "locked-out.local-faqs": [
+  {
+   "q": "I'm locked out of my Victorian terraced house in North Camp\u2014will non-destructive entry work on period locks?",
+   "a": "Yes. Victorian terraces in North Camp often have complex original lock mechanisms that benefit from specialist non-destructive techniques; we carry period-appropriate tools and avoid damage to listed door furniture, which is essential for these heritage properties."
+  },
+  {
+   "q": "How quickly can you reach me if I'm locked out in the post-war estates like Ash Vale or Ramillies Park?",
+   "a": "Our Aldershot team typically responds within 30\u201360 minutes across the suburban estates; the standardised multipoint locks on semi-detached properties in these areas are usually opened swiftly without damage."
+  }
+ ],
+ "broken-key-removal.meta.title": "Broken Key Removal Aldershot \u2013 Fast Same-Day Service",
+ "broken-key-removal.meta.description": "Broken key removal in Aldershot \u2013 swift extraction from euro cylinders, mortice locks & night latches. Serving Victorian terraces & post-war homes. Available 24/7.",
+ "broken-key-removal.hero-paragraph": "Broken key removal in Aldershot is a speciality of our expert locksmith team, drawing on decades of locksmithing experience. Whether you're dealing with a snapped key stuck in a euro cylinder or mortice lock, we use precision key extractor tools to retrieve the fragment safely. Our non-destructive method means your lock remains fully functional and undamaged.",
+ "broken-key-removal.local-context-body": "Tongham's commuter-belt detached properties and the semi-detached stock across Weybourne present broken key scenarios shaped by both newer and ageing hardware. Victorian terraces in North Camp, however, frequently feature original mortice locks and night latches where key fracture\u2014often from wear or metal fatigue\u2014requires experienced extraction to avoid further lock damage and preserve period fittings.\n\nListed building status affects many North Camp properties, making key removal work subject to conservation constraints; replacement locks must match original specifications rather than default to modern multipoint systems. Across Aldershot's mixed era housing, the prevalence of euro cylinders in post-war suburban stock contrasts sharply with traditional brass and cast-iron fittings in older terraced streets, meaning technicians must carry diverse extraction tools and understand both lock standards to complete jobs without forcing or enlarging the cylinder aperture.",
+ "broken-key-removal.local-faqs": [
+  {
+   "q": "Why do Victorian terraced properties in North Camp need specialist key removal?",
+   "a": "Victorian terraced homes in North Camp often feature original mortice locks with tighter tolerances and period-specific cylinder designs; a snapped key in these locks requires careful extraction to avoid damaging the mechanism and the decorative escutcheon. Our locksmiths are trained to work with both heritage hardware and modern replacements."
+  },
+  {
+   "q": "Can you remove a broken key from my semi-detached's euro cylinder without replacing the entire lock?",
+   "a": "Yes\u2014most semi-detached properties across Aldershot's post-war estates like Ash Vale use standard euro cylinders, and we can extract a snapped key and leave the lock body intact if undamaged. We'll assess whether the cylinder itself needs replacement after removal."
+  }
+ ],
+ "burglar-repair-service.meta.title": "Burglar Repair Service Aldershot \u2013 Same-Day Fix",
+ "burglar-repair-service.meta.description": "Burglar repair service in Aldershot covering North Camp Victorian terraces and modern suburbs. Post-break-in lock changes, door repairs, insurance-compliant.",
+ "burglar-repair-service.hero-paragraph": "Burglar repair in Aldershot requires experienced locksmiths with genuine locksmithing expertise to restore your security after forced entry or break-in damage. Our technicians specialise in repairing smashed locks and damaged doors, installing reinforced solutions including TS007 anti-snap cylinders and BS3621 mortice locks. All work meets insurance-compliance standards, ensuring your home is properly secured.",
+ "burglar-repair-service.local-context-body": "Break-ins across Aldershot's diverse property types create distinct repair demands. East End's interwar semi-detached homes and terraced properties in North Town both present common targets for forced entry; Victorian door frames and traditional lock mechanisms in older stock often sustain frame damage and lock cylinder compromise requiring full reinstatement rather than simple replacement.\n\nPost-break-in repair work in Aldershot must account for the region's mixed lock standards and door construction methods. Period properties feature timber frames and original hardware that demand careful matching during reinstatement, while the prevalence of multipoint locking systems on post-war suburban estates means technicians must hold insurance-standard replacement stock for both traditional and contemporary mechanisms to meet policyholder requirements without delay.",
+ "burglar-repair-service.local-faqs": [
+  {
+   "q": "Do you handle period door repairs on Victorian properties in North Camp and North Town?",
+   "a": "Yes. Many Victorian and Edwardian terraces in those areas have original frames and specialised door mechanisms that need careful reinstatement after break-ins. We stock period-appropriate hardware and can restore both the security and aesthetic integrity of listed properties."
+  },
+  {
+   "q": "Can you repair multipoint locks on post-war semi-detached homes after a break-in?",
+   "a": "Absolutely. Post-war suburban estates like Ash Vale feature standardised multipoint systems, and we carry full replacement and repair stock for rapid reinstatement. We'll restore your lock to working order and issue an insurance report same-day if needed."
+  }
+ ],
+ "emergency-boarding-up.meta.title": "Emergency Boarding Up Aldershot \u2013 Fast Response 24/7",
+ "emergency-boarding-up.meta.description": "Emergency boarding up in Aldershot\u2014same-day secure boarding of smashed doors and windows after break-ins or storms. North Camp to suburbs.",
+ "emergency-boarding-up.hero-paragraph": "Emergency boarding up in Aldershot from our specialist locksmiths combines expert locksmithing with rapid property protection. Whether you're facing smashed windows, damaged doors, or broken glazing, our team installs secure plywood boards and weatherproof temporary seals within hours. We operate 24/7 and ensure all work meets insurance-compliance standards, protecting your property when it matters most.",
+ "emergency-boarding-up.local-context-body": "Storm damage and break-ins in Weybourne's mix of post-war semi-detached properties and converted flats create frequent demand for rapid boarding. The area's standardised door frames and window sizes allow swift temporary closure, though the density of shared-wall properties means noise and access considerations differ from detached homes elsewhere in the town.\n\nAldershot's interwar and Victorian stock in Upper Hale and North Town often features original timber sashes and period door casings that complicate straightforward boarding. Modern plywood panels must accommodate uneven reveals and non-standard opening sizes common in older properties, requiring custom-cut solutions rather than standard stock sizes.",
+ "emergency-boarding-up.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in North Town need specialist boarding up after break-ins?",
+   "a": "Victorian terraces have original period door frames and multi-pane sash windows that require careful measurement and custom-cut boards to avoid damaging heritage features. We stock both traditional and modern boarding materials to protect your period property while maintaining its structural integrity."
+  },
+  {
+   "q": "How quickly can you board up a semi-detached property in East End after storm damage?",
+   "a": "We aim to arrive within 2 hours for emergency calls across Aldershot's post-war suburban estates like East End. Semi-detached properties typically have standardised window and door sizes, which we can board securely using pre-cut materials to minimise further weather exposure."
+  }
+ ],
+ "lock-changes.meta.title": "Lock Changes Aldershot \u2013 Same-Day Service",
+ "lock-changes.meta.description": "Lock changes in Aldershot for lost keys, moving home & security upgrades. Victorian & modern properties. Fast professional service. Call 01252 493214.",
+ "lock-changes.hero-paragraph": "Lock changes in Aldershot by our experienced locksmith combines professional locksmithing with certified expertise. Whether you're moving home, experiencing lost keys, or upgrading security, we install BS3621 mortice locks and TS007 anti-snap cylinders to meet current standards. Our technicians ensure your property is properly secured.",
+ "lock-changes.local-context-body": "Lock changes in Aldershot reflect the town's distinct residential layers. Semi-detached properties across Ash Vale and Ramillies Park estates typically feature standardised modern multipoint systems, making rapid lock replacement straightforward. By contrast, properties in North Camp\u2014predominantly Victorian terraces\u2014often retain original period joinery and complex door mechanisms that demand careful assessment before specification and installation.\n\nListed buildings and period properties throughout the older residential core require locks compatible with heritage preservation standards; Conservation Area designation can affect material choice and mechanism type. Across Aldershot's mixed streetscapes, locksmiths must verify door construction\u2014timber frame depth, metal reinforcement, and existing hinge configuration\u2014since post-war suburban doors differ significantly from Victorian and Edwardian stock in their ability to accommodate modern security hardware.",
+ "lock-changes.local-faqs": [
+  {
+   "q": "I've just moved to a Victorian terrace in North Camp\u2014do I need specialist lock changes?",
+   "a": "Yes. Victorian terraces in North Camp often have period-specific door frames and original mechanisms that require careful handling during replacement. We stock both heritage-compatible locks and modern multipoint systems to ensure your new lock fits properly and functions securely."
+  },
+  {
+   "q": "We're upgrading security on our semi-detached in Ash Vale\u2014what's the quickest lock change option?",
+   "a": "Post-war semi-detached properties like those in Ash Vale typically use standardised modern lock housings, so we can fit new multipoint or cylinder locks quickly without complications. Most upgrades take under an hour."
+  }
+ ],
+ "lock-repairs.meta.title": "Lock Repairs Aldershot | Same-Day Service",
+ "lock-repairs.meta.description": "Lock repair service in Aldershot for Victorian terraces, modern multipoint systems & mortice locks. Emergency 24/7 available.",
+ "lock-repairs.hero-paragraph": "Expert lock repairs from our Aldershot locksmith specialising in locksmithing solutions for homes and businesses. Whether you're dealing with a stiff lock, a key that won't turn, or a jammed mechanism, our technicians diagnose and repair the issue efficiently. We service mortice locks and multipoint systems to manufacturer warranty standards, ensuring your locks function smoothly and securely.",
+ "lock-repairs.local-context-body": "Aldershot's mixed housing stock creates varied repair demands. Semi-detached properties across Weybourne and the post-war suburbs typically run standardised multipoint systems, generating steady repair calls on predictable hardware. By contrast, North Camp's Victorian terraces often retain original period locks\u2014mortice and night latch mechanisms\u2014which demand specialist knowledge and compatible replacement parts held in stock.\n\nThe town's listed building concentration, particularly in older residential areas, introduces a practical constraint: lock repairs on period properties frequently require conservation-standard hardware that matches original specifications rather than modern equivalents. This extends diagnosis and sourcing time compared to routine suburban repairs, and locksmiths must verify listed-building status before recommending or installing replacements.",
+ "lock-repairs.local-faqs": [
+  {
+   "q": "Why do Victorian terraces in North Camp need specialist lock repair?",
+   "a": "Victorian properties in North Camp often feature original mortice locks and complex period door mechanisms that differ from modern multipoint systems. Our locksmiths are trained to repair and maintain these heritage locks without forcing replacement, preserving both function and character."
+  },
+  {
+   "q": "What's the most common lock repair in Aldershot's post-war estates?",
+   "a": "Semi-detached properties across Weybourne and similar post-war suburban areas typically use standardised multipoint locks that can wear at the gearbox mechanism. We repair these high-volume failure points quickly, getting your door secure again without unnecessary replacement costs."
+  }
+ ],
+ "door-lock-installation.meta.title": "Door Lock Installation Aldershot \u2013 Fast & Trusted",
+ "door-lock-installation.meta.description": "Door lock installation in Aldershot, including BS3621 mortice locks and TS007 anti-snap cylinders. Specialist fitting for Victorian terraces in North Camp and modern homes.",
+ "door-lock-installation.hero-paragraph": "Our Aldershot locksmiths specialise in professional door lock installation and locksmithing services tailored to your security needs. Whether you require new fittings, insurance-backed upgrades, or BS3621 mortice locks fitted to current standards, our technicians deliver reliable solutions. We install TS007 anti-snap cylinders and multipoint mechanisms to protect your property effectively.",
+ "door-lock-installation.local-context-body": "Semi-detached properties across Tongham and the post-war estates rely heavily on standardised multipoint locking systems, making routine lock installations straightforward. By contrast, North Camp's Victorian terraced stock often requires more specialist fitting work: period properties frequently have original deep-set mortice housings and non-standard door frames that demand careful measurement and sometimes custom hardware selection before installation can proceed.\n\nListed properties in the older residential cores present a further consideration. Door lock installation on protected structures may require conservation approval, particularly where visible hardware changes are involved. This affects material choice\u2014brass and period-appropriate finishes often take precedence over modern chrome alternatives\u2014and extends timescales for approval before work commences.",
+ "door-lock-installation.local-faqs": [
+  {
+   "q": "Do you fit anti-snap cylinders to Victorian terraced properties in North Camp?",
+   "a": "Yes. North Camp's Victorian terraces often have original period locks with non-standard door frames. We supply and fit TS007 anti-snap cylinders compatible with period mechanisms, ensuring security without compromising your home's character."
+  },
+  {
+   "q": "What's the best lock type for semi-detached homes in Ash Vale?",
+   "a": "Ash Vale's post-war semi-detached stock works well with BS3621 mortice locks or multipoint systems. We assess your door type on-site and recommend the most secure, durable option for modern suburban properties."
+  }
+ ],
+ "door-lock-replacement.meta.title": "Door Lock Replacement Aldershot \u2013 Same-Day Service",
+ "door-lock-replacement.meta.description": "Door lock replacement in Aldershot including Victorian terraces and post-war homes. Like-for-like swaps or security upgrades. Same-day service available.",
+ "door-lock-replacement.hero-paragraph": "Professional door lock replacement in Aldershot from our experienced locksmith team specialising in locksmithing solutions. Whether you've experienced a failed lock, lost your keys, or are moving home, we fit high-security replacements meeting BS3621 standards. Our technicians perform like-for-like cylinder swaps and anti-snap upgrades to maximise your property's security.",
+ "door-lock-replacement.local-context-body": "Victorian terraces in North Town often retain original period locks and complex door mechanisms that require specialist attention during replacement work. Semi-detached properties across East End's interwar estates typically feature standardised lock systems, enabling faster like-for-like swaps. The proximity of these different eras across Aldershot means technicians encounter varied hardware and door construction within short distances, affecting both diagnosis and parts availability.\n\nPeriod properties in the town centre may fall under listed-building restrictions that govern lock replacement aesthetics and materials. Post-war suburban stock generally accommodates modern multipoint locking systems without constraint, though door frame condition varies significantly across the town's mixed housing ages. Identifying the correct lock type before arrival\u2014whether period hardware or contemporary multipoint\u2014reduces call duration and ensures appropriate parts are on hand.",
+ "door-lock-replacement.local-faqs": [
+  {
+   "q": "I have a Victorian terraced property in North Camp \u2013 will you replace my original period lock with a modern one?",
+   "a": "Yes. Victorian terraces often have complex original mechanisms that can fail or become a security risk. We can upgrade to a modern multipoint lock while ensuring the new hardware fits your period door frame without damage."
+  },
+  {
+   "q": "My semi-detached in Ash Vale has a broken lock \u2013 can you fit a like-for-like replacement quickly?",
+   "a": "Absolutely. Post-war suburban properties like those in Ash Vale typically use standardised locks, so we stock compatible replacements and can usually complete the swap the same day."
+  }
+ ],
+ "door-repairs.meta.title": "Door Repairs Aldershot \u2013 Fast Same-Day Service",
+ "door-repairs.meta.description": "Door repairs in Aldershot including semi-detached homes in Ash Vale. uPVC alignment, composite door realignment, handle repair and hardware fixes.",
+ "door-repairs.hero-paragraph": "Our Aldershot locksmith team specialises in expert door repairs, combining locksmithing knowledge with precision engineering. Whether your uPVC or composite door has dropped, won't close properly, or is catching on the frame, we diagnose and resolve the issue. Our technicians perform hinge adjustment, multipoint realignment, and frame correction to restore smooth operation and security.",
+ "door-repairs.local-context-body": "Aldershot's post-war suburban estates, particularly South Farnborough, contain large numbers of semi-detached properties where door alignment issues are common. These homes often experience settled foundations and frame movement typical of mid-20th-century construction, leading to dropped or binding doors. East End's interwar semi-detached stock similarly shows wear patterns requiring specialist attention to both door hangers and frame geometry.\n\nThe town's mixed-era property base means door repair work frequently involves non-standard frame dimensions and hardware configurations. Older terraced properties in North Town often have deeper door reveals and period architraves that complicate modern hinge installation, while post-war estates typically feature lighter-duty frames requiring careful assessment before adjustment to avoid structural compromise.",
+ "door-repairs.local-faqs": [
+  {
+   "q": "Why do doors in North Camp Victorian terraces need specialist repair?",
+   "a": "Victorian terraced properties in North Camp often have original period door frames and multi-point mechanisms that have settled unevenly over time, causing misalignment and sticking. Our locksmiths are experienced in adjusting and repairing these heritage doors without compromising their character or original hardware."
+  },
+  {
+   "q": "My semi-detached in Ash Vale has a dropped door\u2014is this common?",
+   "a": "Yes, dropped doors are very common in post-war semi-detached homes across Ash Vale and similar suburban estates, usually caused by hinge wear or frame settlement. We can realign, adjust or replace hinges and repair the frame to restore smooth operation quickly."
+  }
+ ],
+ "window-lock-repair-replacement.meta.title": "Window Lock Repair & Replacement Aldershot \u2013 Same-Day Service",
+ "window-lock-repair-replacement.meta.description": "Window lock repair & replacement in Aldershot. Espagnolette & shootbolt locks fixed on Victorian terraces, semi-detached homes & modern properties.",
+ "window-lock-repair-replacement.hero-paragraph": "Our Aldershot locksmith specialises in window lock repair and replacement, combining practical locksmithing expertise with reliable service. Whether you're facing windows that won't lock or broken handles, we restore security using insurance-compliant fitting methods. We service espagnolette mechanisms, shootbolt locks, and child restrictors to ensure your home remains properly secured.",
+ "window-lock-repair-replacement.local-context-body": "Interwar semi-detached properties in Heath End frequently retain original metal espagnolette locks on timber sash windows, many now worn or seized after decades of use. Post-war estates like Ramillies Park feature standardised shootbolt systems on casement windows, where wear patterns are predictable across similar housing stock. Window lock failure affects both property types differently: period locks often require careful adjustment or specialist replacement to preserve original hardware, while modern multipoint systems typically need straightforward component swaps.\n\nMixed housing eras across short distances means locksmiths encounter both period brass and contemporary aluminium window frames requiring different lock mechanisms and installation methods. Listed properties in North Camp's Victorian terraces may restrict lock replacement to period-appropriate designs, adding complexity beyond straightforward repair work. Availability of matching original hardware for older windows can lengthen timescales, whereas post-war suburban properties usually accommodate modern replacements without restriction.",
+ "window-lock-repair-replacement.local-faqs": [
+  {
+   "q": "Why do Victorian terrace windows in North Camp need specialist espagnolette lock repair?",
+   "a": "Victorian sash windows in North Camp often have original period lock mechanisms that are difficult to source and require specialist knowledge to repair safely without damaging the timber frames. We stock both period-appropriate and modern replacement options to preserve your home's character while ensuring security."
+  },
+  {
+   "q": "Are window shootbolt locks standard across Aldershot's semi-detached properties?",
+   "a": "Post-war semi-detached homes in areas like Upper Hale and Weybourne typically feature standardised multipoint shootbolt systems, making replacement straightforward and cost-effective. If your lock is sticking or damaged, we can usually fit a like-for-like replacement the same day."
+  }
+ ],
+ "safe-installation.meta.title": "Safe Installation Aldershot \u2013 Fast & Trusted Service",
+ "safe-installation.meta.description": "Professional safe installation in Aldershot, including wall, floor and freestanding safes with secure anchoring and insurance documentation for homeowners across Badshot Lea and surrounding areas.",
+ "safe-installation.hero-paragraph": "Our Aldershot locksmith team specialises in safe installation and locksmithing expertise that meets insurance approval requirements. We secure new safes using floor anchoring and wall mounting techniques to AiS approved standards. Whether you need cash rating certification or Eurograde compliance, our technicians ensure proper anti-leverage positioning for maximum protection.",
+ "safe-installation.local-context-body": "Detached properties in Tongham and the commuter suburbs often require safes fitted into solid walls or concrete floors, particularly where homeowners seek secure storage away from occupied rooms. Semi-detached stock across post-war estates presents different anchoring challenges, with cavity walls and modern construction demanding careful assessment before installation. The variety of property ages across Aldershot means safe positioning must account for both period plasterwork and contemporary building standards within short distances.\n\nNorth Camp's Victorian terraces frequently contain listed-building designations, which restricts drilling and permanent fixings without local authority consent. Installers must verify planning status before commencing work, as many period properties cannot accommodate standard wall safes without breaching conservation requirements. Insurance documentation becomes especially critical in these cases, since certification must explicitly confirm compliance with heritage listings.",
+ "safe-installation.local-faqs": [
+  {
+   "q": "I live in a Victorian terrace in North Camp with solid stone walls \u2013 can you install a wall safe here?",
+   "a": "Yes, Victorian terraces in North Camp often have thick period masonry which is ideal for recessed wall safes, though we'll survey first to avoid pipes and wiring. We'll ensure proper anchoring and provide insurance documentation for your contents."
+  },
+  {
+   "q": "We're in a post-war semi-detached in Ramillies Park \u2013 what's the best safe option for our home?",
+   "a": "For Ramillies Park semis, freestanding floor safes or cavity wall installations work best since internal walls are often lighter than Victorian stock. We'll anchor securely to meet insurer requirements and provide full certification."
+  }
+ ],
+ "safe-opening.meta.title": "Safe Opening Aldershot \u2013 Fast Same-Day Service",
+ "safe-opening.meta.description": "Safe opening in Aldershot for lost combinations, keys & lockouts. Serving North Town terraces, East End & surrounding areas. Non-destructive methods.",
+ "safe-opening.hero-paragraph": "Professional safe opening in Aldershot by our experienced locksmith specialists in locksmithing. Whether you've lost your combination, misplaced keys, or face a jammed mechanism, our technicians use non-destructive opening methods to regain access without damaging your safe. We prioritise preserving your security installation whilst resolving your access issue promptly.",
+ "safe-opening.local-context-body": "Properties across East End and South Farnborough frequently contain domestic safes installed during post-war suburban development. Semi-detached homes in these areas often house safes in bedroom alcoves or under stairs, requiring locksmiths to work within confined spaces and navigate around period fixtures without causing structural damage.\n\nVictorian terraced properties in the town centre present particular challenges for safe opening, as many contain older, non-standard safe models with wear-damaged locking mechanisms. The dense street layout and shared party walls in these properties mean access is often limited; non-destructive techniques become essential where replacement would be impractical or risk neighbouring properties.",
+ "safe-opening.local-faqs": [
+  {
+   "q": "I've lost the combination to a safe in my Victorian terraced home in North Camp \u2013 can you open it without damage?",
+   "a": "Yes, we specialise in non-destructive safe opening for period properties across North Camp and North Town. Our technicians use specialist manipulation and bypass techniques to recover access without drilling or prying, preserving both your safe and the original fixtures common in Victorian homes."
+  },
+  {
+   "q": "We've just moved to a semi-detached in Ramillies Park and inherited a locked safe \u2013 what's the process?",
+   "a": "We'll attend your Ramillies Park property to assess the safe type and attempt non-destructive opening via combination recovery or key code retrieval. Most post-war suburban safes respond well to professional manipulation, and we aim to have you back in within a single visit."
+  }
+ ],
+ "home.areas-covered": [
+  "Cargate",
+  "East End",
+  "Gun Hill Park",
+  "North Town"
+ ],
+ "emergency-locksmith.areas-covered": [
+  "North Town",
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
+ ],
+ "locked-out.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "broken-key-removal.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "burglar-repair-service.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "emergency-boarding-up.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "lock-changes.areas-covered": [
+  "North Town",
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
+ ],
+ "lock-repairs.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "door-lock-installation.areas-covered": [
+  "North Town",
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
+ ],
+ "door-lock-replacement.areas-covered": [
+  "North Town",
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
+ ],
+ "door-repairs.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "window-lock-repair-replacement.areas-covered": [
+  "North Town",
+  "Cargate",
+  "East End",
+  "Gun Hill Park"
+ ],
+ "safe-installation.areas-covered": [
+  "North Town",
+  "Gun Hill Park",
+  "Cargate",
+  "East End"
+ ],
+ "safe-opening.areas-covered": [
+  "North Town",
+  "East End",
+  "Gun Hill Park",
+  "Cargate"
+ ]
 }

@@ -1,316 +1,282 @@
 {
-  "location": "Nottingham",
-  "neighborhoods": [
-    {
-      "name": "Lace Market",
-      "era": "Victorian",
-      "types": [
-        "conversion",
-        "flat",
-        "listed building"
-      ],
-      "notes": "conservation area, historic lace warehouse conversions"
-    },
-    {
-      "name": "The Park",
-      "era": "Victorian",
-      "types": [
-        "villa",
-        "large detached"
-      ],
-      "notes": "affluent tree-lined streets, period properties"
-    },
-    {
-      "name": "Sherwood",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential, family homes"
-    },
-    {
-      "name": "Mapperley",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "established suburban area"
-    },
-    {
-      "name": "Beeston Rylands",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "suburban expansion period"
-    },
-    {
-      "name": "Hyson Green",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "dense urban area, student lettings"
-    },
-    {
-      "name": "St Ann's",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "inner-city, high rental turnover"
-    },
-    {
-      "name": "Radford",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "traditional working-class housing"
-    },
-    {
-      "name": "The Meadows",
-      "era": "post-war",
-      "types": [
-        "council estate",
-        "semi-detached"
-      ],
-      "notes": "large estate, varied tenure"
-    },
-    {
-      "name": "Aspley",
-      "era": "post-war",
-      "types": [
-        "council estate"
-      ],
-      "notes": "1960s-70s development"
-    },
-    {
-      "name": "Bilborough",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban estate, family properties"
-    },
-    {
-      "name": "Clifton",
-      "era": "modern",
-      "types": [
-        "new-build",
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "contemporary residential expansion south"
-    },
-    {
-      "name": "Sneinton",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "inner-city, mixed-tenure area"
-    },
-    {
-      "name": "New Basford",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "residential suburban character"
-    },
-    {
-      "name": "Colwick",
-      "era": "mixed",
-      "types": [
-        "detached",
-        "semi-detached",
-        "modern"
-      ],
-      "notes": "riverside, mixed-era properties"
-    },
-    {
-      "name": "Beechdale",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ],
-      "notes": "suburban family housing"
-    },
-    {
-      "name": "Hockley",
-      "era": "Victorian",
-      "types": [
-        "conversion",
-        "flat"
-      ],
-      "notes": "city-centre fringe, creative quarter"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "flat",
-      "council estate"
-    ],
-    "era": "predominantly Victorian and Edwardian with significant post-war council stock",
-    "notable": "High student HMO density in inner wards; conversion flats in historic Lace Market; newer suburban and modern developments south and west"
+ "location": "Nottingham",
+ "neighborhoods": [
+  {
+   "name": "Lace Market",
+   "era": "Victorian",
+   "types": [
+    "conversion",
+    "flat",
+    "listed building"
+   ],
+   "notes": "conservation area, historic lace warehouse conversions"
   },
-  "locksmith_relevant": [
-    "Victorian and Edwardian terraces dominate inner Nottingham; expect period locks, sash windows, and original wooden doors requiring specialist knowledge.",
-    "Large council estates (Aspley, The Meadows) built 1960s-70s need frequent lock upgrades and multi-unit access control solutions.",
-    "Conversion flats in Lace Market and Hyson Green have mixed security standards and shared entrance issues; landlord/management locks are common calls."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Nottingham",
-    "overpass": "OSM Overpass bbox query, 70 named areas",
-    "coords": {
-      "lat": 52.9534193,
-      "lon": -1.1496461
-    }
+  {
+   "name": "The Park",
+   "era": "Victorian",
+   "types": [
+    "villa",
+    "large detached"
+   ],
+   "notes": "affluent tree-lined streets, period properties"
   },
-  "generated_at": "2026-05-13T12:08:51.139Z",
-  "all_areas": [
-    "Abbey Park",
-    "Aerodrome",
-    "Aspley",
-    "Assarts Farm Estate",
-    "Attenborough",
-    "Bakersfield",
-    "Barton-in-Fabis",
-    "Beechdale",
-    "Beeston Rylands",
-    "Bell's Lane Estate",
-    "Bestwood Park Estate",
-    "Bilborough",
-    "Bramcote",
-    "Bramcote Hills",
-    "Broxtowe",
-    "Carrington",
-    "Chase Farm",
-    "Chilwell",
-    "Cinderhill",
-    "Clifton",
-    "Colwick",
-    "Compton Acres",
-    "Crabtree Farm Estate",
-    "Daybrook",
-    "Dunkirk",
-    "Edwalton",
-    "Fairham",
-    "Fairham Centre",
-    "Forest Fields",
-    "Gamston",
-    "Hempshill Vale",
-    "Highbury Vale",
-    "Hockley",
-    "Hyson Green",
-    "Lace Market",
-    "Lady Bay",
-    "Lenton",
-    "Lenton Abbey",
-    "Lower Brecks",
-    "Mapperley",
-    "Mapperley Park",
-    "New Basford",
-    "Nuthall",
-    "Old Basford",
-    "Old Lenton",
-    "Plumtree",
-    "Radford",
-    "Rainbow Quarter",
-    "Redhill",
-    "Rise Park",
-    "Ruddington",
-    "Sharphill",
-    "Sherwood",
-    "Silverdale",
-    "Sneinton",
-    "St Ann's",
-    "Strelley",
-    "The Meadows",
-    "The Park",
-    "Thorneywood",
-    "Tollerton",
-    "Top Valley",
-    "Upper Brecks",
-    "Warren Hill",
-    "Whitemoor",
-    "Wilford",
-    "Wollaton",
-    "Wollaton Park",
-    "Wollaton Vale",
-    "Woodthorpe"
-  ],
-  "geo": {
-    "latitude": 52.9534193,
-    "longitude": -1.1496461
+  {
+   "name": "Sherwood",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential, family homes"
   },
-  "postcode_districts": [
-    "NG1",
-    "NG11",
-    "NG2",
-    "NG3",
-    "NG5",
-    "NG6",
-    "NG7",
-    "NG8",
-    "NG9"
-  ],
-  "postcode_meta": {
-    "NG7": {
-      "count": 8,
-      "sample": "NG7 2LH",
-      "admin": "Nottingham"
-    },
-    "NG11": {
-      "count": 3,
-      "sample": "NG11 8BS",
-      "admin": "Nottingham"
-    },
-    "NG8": {
-      "count": 8,
-      "sample": "NG8 1DU",
-      "admin": "Nottingham"
-    },
-    "NG3": {
-      "count": 4,
-      "sample": "NG3 5BG",
-      "admin": "Nottingham"
-    },
-    "NG5": {
-      "count": 5,
-      "sample": "NG5 2HE",
-      "admin": "Nottingham"
-    },
-    "NG2": {
-      "count": 2,
-      "sample": "NG2 4ND",
-      "admin": "Nottingham"
-    },
-    "NG6": {
-      "count": 5,
-      "sample": "NG6 7AR",
-      "admin": "Nottingham"
-    },
-    "NG9": {
-      "count": 1,
-      "sample": "NG9 2SQ",
-      "admin": "Nottingham"
-    },
-    "NG1": {
-      "count": 3,
-      "sample": "NG1 1AY",
-      "admin": "Nottingham"
-    }
+  {
+   "name": "Mapperley",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "established suburban area"
+  },
+  {
+   "name": "Beeston Rylands",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "suburban expansion period"
+  },
+  {
+   "name": "Hyson Green",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "dense urban area, student lettings"
+  },
+  {
+   "name": "St Ann's",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "inner-city, high rental turnover"
+  },
+  {
+   "name": "Radford",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "traditional working-class housing"
+  },
+  {
+   "name": "The Meadows",
+   "era": "post-war",
+   "types": [
+    "council estate",
+    "semi-detached"
+   ],
+   "notes": "large estate, varied tenure"
+  },
+  {
+   "name": "Aspley",
+   "era": "post-war",
+   "types": [
+    "council estate"
+   ],
+   "notes": "1960s-70s development"
+  },
+  {
+   "name": "Bilborough",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban estate, family properties"
+  },
+  {
+   "name": "Clifton",
+   "era": "modern",
+   "types": [
+    "new-build",
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "contemporary residential expansion south"
+  },
+  {
+   "name": "Sneinton",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "inner-city, mixed-tenure area"
+  },
+  {
+   "name": "New Basford",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "residential suburban character"
+  },
+  {
+   "name": "Colwick",
+   "era": "mixed",
+   "types": [
+    "detached",
+    "semi-detached",
+    "modern"
+   ],
+   "notes": "riverside, mixed-era properties"
+  },
+  {
+   "name": "Beechdale",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ],
+   "notes": "suburban family housing"
+  },
+  {
+   "name": "Hockley",
+   "era": "Victorian",
+   "types": [
+    "conversion",
+    "flat"
+   ],
+   "notes": "city-centre fringe, creative quarter"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "flat",
+   "council estate"
+  ],
+  "era": "predominantly Victorian and Edwardian with significant post-war council stock",
+  "notable": "High student HMO density in inner wards; conversion flats in historic Lace Market; newer suburban and modern developments south and west"
+ },
+ "locksmith_relevant": [
+  "Victorian and Edwardian terraces dominate inner Nottingham; expect period locks, sash windows, and original wooden doors requiring specialist knowledge.",
+  "Large council estates (Aspley, The Meadows) built 1960s-70s need frequent lock upgrades and multi-unit access control solutions.",
+  "Conversion flats in Lace Market and Hyson Green have mixed security standards and shared entrance issues; landlord/management locks are common calls."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Nottingham",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within City of Nottingham), 36 named areas",
+  "coords": {
+   "lat": 52.9534193,
+   "lon": -1.1496461
+  }
+ },
+ "generated_at": "2026-05-13T12:08:51.139Z",
+ "all_areas": [
+  "Aspley",
+  "Bakersfield",
+  "Beechdale",
+  "Bell's Lane Estate",
+  "Bestwood Park Estate",
+  "Bilborough",
+  "Broxtowe",
+  "Carrington",
+  "Cinderhill",
+  "Clifton",
+  "Dunkirk",
+  "Forest Fields",
+  "Hempshill Vale",
+  "Highbury Vale",
+  "Hockley",
+  "Hyson Green",
+  "Lenton",
+  "Lenton Abbey",
+  "Mapperley",
+  "Mapperley Park",
+  "New Basford",
+  "Old Basford",
+  "Radford",
+  "Rise Park",
+  "Sherwood",
+  "Silverdale",
+  "Sneinton",
+  "St Ann's",
+  "The Meadows",
+  "The Park",
+  "Top Valley",
+  "Whitemoor",
+  "Wilford",
+  "Wollaton",
+  "Wollaton Park",
+  "Wollaton Vale"
+ ],
+ "geo": {
+  "latitude": 52.9534193,
+  "longitude": -1.1496461
+ },
+ "postcode_districts": [
+  "NG1",
+  "NG11",
+  "NG2",
+  "NG3",
+  "NG5",
+  "NG6",
+  "NG7",
+  "NG8",
+  "NG9"
+ ],
+ "postcode_meta": {
+  "NG7": {
+   "count": 8,
+   "sample": "NG7 2LH",
+   "admin": "Nottingham"
+  },
+  "NG11": {
+   "count": 3,
+   "sample": "NG11 8BS",
+   "admin": "Nottingham"
+  },
+  "NG8": {
+   "count": 8,
+   "sample": "NG8 1DU",
+   "admin": "Nottingham"
+  },
+  "NG3": {
+   "count": 4,
+   "sample": "NG3 5BG",
+   "admin": "Nottingham"
+  },
+  "NG5": {
+   "count": 5,
+   "sample": "NG5 2HE",
+   "admin": "Nottingham"
+  },
+  "NG2": {
+   "count": 2,
+   "sample": "NG2 4ND",
+   "admin": "Nottingham"
+  },
+  "NG6": {
+   "count": 5,
+   "sample": "NG6 7AR",
+   "admin": "Nottingham"
+  },
+  "NG9": {
+   "count": 1,
+   "sample": "NG9 2SQ",
+   "admin": "Nottingham"
+  },
+  "NG1": {
+   "count": 3,
+   "sample": "NG1 1AY",
+   "admin": "Nottingham"
+  }
+ }
 }

@@ -1,336 +1,313 @@
 {
-  "location": "York",
-  "neighborhoods": [
-    {
-      "name": "Bishophill",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "period conversion"
-      ],
-      "notes": "historic city centre, listed buildings"
-    },
-    {
-      "name": "Fishergate",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "inner-city conservation area"
-    },
-    {
-      "name": "Holgate",
-      "era": "Edwardian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "working-class residential"
-    },
-    {
-      "name": "Clifton",
-      "era": "post-war",
-      "types": [
-        "detached",
-        "semi-detached"
-      ],
-      "notes": "affluent suburb, larger properties"
-    },
-    {
-      "name": "Rawcliffe",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "suburban expansion north of city"
-    },
-    {
-      "name": "Acomb",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "west York residential"
-    },
-    {
-      "name": "Dringhouses",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "south-west suburb"
-    },
-    {
-      "name": "Fulford",
-      "era": "mixed Victorian and post-war",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "south York, university proximity"
-    },
-    {
-      "name": "Heslington",
-      "era": "modern",
-      "types": [
-        "student accommodation",
-        "new-build"
-      ],
-      "notes": "university campus area, high HMO density"
-    },
-    {
-      "name": "Bootham",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "period property"
-      ],
-      "notes": "city-centre conservation area"
-    },
-    {
-      "name": "Layerthorpe",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "flat"
-      ],
-      "notes": "historic inner-city, mixed tenure"
-    },
-    {
-      "name": "New Earswick",
-      "era": "Edwardian",
-      "types": [
-        "semi-detached",
-        "cottage"
-      ],
-      "notes": "purpose-built garden village, heritage area"
-    },
-    {
-      "name": "Osbaldwick",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "east York suburb"
-    },
-    {
-      "name": "Dunnington",
-      "era": "post-war",
-      "types": [
-        "semi-detached",
-        "detached"
-      ],
-      "notes": "village character, south-east"
-    },
-    {
-      "name": "Heworth",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ],
-      "notes": "north-east residential area"
-    },
-    {
-      "name": "Clifton Moor",
-      "era": "modern",
-      "types": [
-        "detached",
-        "new-build"
-      ],
-      "notes": "modern suburban expansion"
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terrace",
-      "semi-detached",
-      "period conversion"
-    ],
-    "era": "mixed Victorian inner-city with significant post-war suburban expansion",
-    "notable": "Historic conservation areas with listed buildings; substantial student HMO market around university; medieval city centre with modern outer estates."
+ "location": "York",
+ "neighborhoods": [
+  {
+   "name": "Bishophill",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "period conversion"
+   ],
+   "notes": "historic city centre, listed buildings"
   },
-  "locksmith_relevant": [
-    "York's extensive Victorian terraces and listed conversions require specialist period lock knowledge and listed-building compliant solutions.",
-    "High student HMO density in Heslington and Fulford drives demand for rapid emergency callouts and bulk institutional rekeying.",
-    "Medieval city-centre properties in Bishophill and Bootham often have original mechanisms requiring heritage-aware locksmith expertise."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=York",
-    "overpass": "OSM Overpass bbox query, 70 named areas",
-    "coords": {
-      "lat": 53.9656579,
-      "lon": -1.0743052
-    }
+  {
+   "name": "Fishergate",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "inner-city conservation area"
   },
-  "generated_at": "2026-07-04T13:01:54.781Z",
-  "all_areas": [
-    "Acaster Malbis",
-    "Acomb",
-    "Acomb Park",
-    "Askham Bryan",
-    "Askham Richard",
-    "Badger Hill",
-    "Bell Farm",
-    "Bishophill",
-    "Bishopthorpe",
-    "Bootham",
-    "Burnholme",
-    "Chapelfields",
-    "Claxton",
-    "Clementhorpe",
-    "Clifton",
-    "Clifton Moor",
-    "Clifton Park",
-    "Clifton Without",
-    "Colton",
-    "Copmanthorpe",
-    "Derwenthorpe",
-    "Dringhouses",
-    "Dunnington",
-    "Earswick",
-    "Elvington",
-    "Escrick",
-    "Fishergate",
-    "Flaxton",
-    "Foss Islands",
-    "Foxwood",
-    "Fulford",
-    "Germany Beck",
-    "Harton",
-    "Heslington",
-    "Hessay",
-    "Heworth",
-    "Heworth Without",
-    "Holgate",
-    "Holtby",
-    "Huntington",
-    "Layerthorpe",
-    "Leeman Road",
-    "Low Catton",
-    "Lowfield",
-    "Middlethorpe",
-    "Murton",
-    "Naburn",
-    "Nether Poppleton",
-    "New Earswick",
-    "Newton-on-Ouse",
-    "Osbaldwick",
-    "Ouse Acres",
-    "Rawcliffe",
-    "Rufforth",
-    "Sand Hutton",
-    "Scarcroft",
-    "Shipton by Beningbrough",
-    "Skelton",
-    "South Bank",
-    "Stockton on the Forest",
-    "Strensall",
-    "Sutton Upon Derwent",
-    "Tang Hall",
-    "The Groves",
-    "The Rise",
-    "Upper Poppleton",
-    "Westfield",
-    "Wheldrake",
-    "Wigginton",
-    "Woodthorpe"
-  ],
-  "geo": {
-    "latitude": 53.9656579,
-    "longitude": -1.0743052
+  {
+   "name": "Holgate",
+   "era": "Edwardian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "working-class residential"
   },
-  "postcode_districts": [
-    "LS24",
-    "YO1",
-    "YO10",
-    "YO19",
-    "YO23",
-    "YO24",
-    "YO26",
-    "YO30",
-    "YO31",
-    "YO32",
-    "YO41",
-    "YO60"
-  ],
-  "postcode_meta": {
-    "YO19": {
-      "count": 7,
-      "sample": "YO19 5QT",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO30": {
-      "count": 9,
-      "sample": "YO30 1AA",
-      "admin": "North Yorkshire",
-      "via": "admin_district=north yorkshire"
-    },
-    "YO32": {
-      "count": 6,
-      "sample": "YO32 2PT",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO24": {
-      "count": 8,
-      "sample": "YO24 3FF",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO23": {
-      "count": 9,
-      "sample": "YO23 3PT",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "LS24": {
-      "count": 1,
-      "sample": "LS24 8BF",
-      "admin": "North Yorkshire",
-      "via": "admin_district=north yorkshire"
-    },
-    "YO41": {
-      "count": 4,
-      "sample": "YO41 1EA",
-      "admin": "East Riding of Yorkshire",
-      "via": "admin_district=east riding of yorkshire"
-    },
-    "YO10": {
-      "count": 6,
-      "sample": "YO10 5DT",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO26": {
-      "count": 8,
-      "sample": "YO26 8LG",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO60": {
-      "count": 3,
-      "sample": "YO60 7RW",
-      "admin": "North Yorkshire",
-      "via": "admin_district=north yorkshire"
-    },
-    "YO31": {
-      "count": 7,
-      "sample": "YO31 1DE",
-      "admin": "York",
-      "via": "admin_district=york"
-    },
-    "YO1": {
-      "count": 1,
-      "sample": "YO1 6DZ",
-      "admin": "York",
-      "via": "admin_district=york"
-    }
+  {
+   "name": "Clifton",
+   "era": "post-war",
+   "types": [
+    "detached",
+    "semi-detached"
+   ],
+   "notes": "affluent suburb, larger properties"
+  },
+  {
+   "name": "Rawcliffe",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "suburban expansion north of city"
+  },
+  {
+   "name": "Acomb",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "west York residential"
+  },
+  {
+   "name": "Dringhouses",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "south-west suburb"
+  },
+  {
+   "name": "Fulford",
+   "era": "mixed Victorian and post-war",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "south York, university proximity"
+  },
+  {
+   "name": "Heslington",
+   "era": "modern",
+   "types": [
+    "student accommodation",
+    "new-build"
+   ],
+   "notes": "university campus area, high HMO density"
+  },
+  {
+   "name": "Bootham",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "period property"
+   ],
+   "notes": "city-centre conservation area"
+  },
+  {
+   "name": "Layerthorpe",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "flat"
+   ],
+   "notes": "historic inner-city, mixed tenure"
+  },
+  {
+   "name": "New Earswick",
+   "era": "Edwardian",
+   "types": [
+    "semi-detached",
+    "cottage"
+   ],
+   "notes": "purpose-built garden village, heritage area"
+  },
+  {
+   "name": "Osbaldwick",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "east York suburb"
+  },
+  {
+   "name": "Dunnington",
+   "era": "post-war",
+   "types": [
+    "semi-detached",
+    "detached"
+   ],
+   "notes": "village character, south-east"
+  },
+  {
+   "name": "Heworth",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ],
+   "notes": "north-east residential area"
+  },
+  {
+   "name": "Clifton Moor",
+   "era": "modern",
+   "types": [
+    "detached",
+    "new-build"
+   ],
+   "notes": "modern suburban expansion"
   }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terrace",
+   "semi-detached",
+   "period conversion"
+  ],
+  "era": "mixed Victorian inner-city with significant post-war suburban expansion",
+  "notable": "Historic conservation areas with listed buildings; substantial student HMO market around university; medieval city centre with modern outer estates."
+ },
+ "locksmith_relevant": [
+  "York's extensive Victorian terraces and listed conversions require specialist period lock knowledge and listed-building compliant solutions.",
+  "High student HMO density in Heslington and Fulford drives demand for rapid emergency callouts and bulk institutional rekeying.",
+  "Medieval city-centre properties in Bishophill and Bootham often have original mechanisms requiring heritage-aware locksmith expertise."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=York",
+  "overpass": "OSM Overpass admin-boundary query (suburb/quarter/village within York admin area), 47 named areas",
+  "coords": {
+   "lat": 53.9656579,
+   "lon": -1.0743052
+  }
+ },
+ "generated_at": "2026-07-04T13:01:54.781Z",
+ "all_areas": [
+  "Acaster Malbis",
+  "Acomb",
+  "Askham Bryan",
+  "Askham Richard",
+  "Badger Hill",
+  "Bell Farm",
+  "Bishophill",
+  "Bishopthorpe",
+  "Chapelfields",
+  "Clifton",
+  "Clifton Moor",
+  "Clifton Without",
+  "Copmanthorpe",
+  "Derwenthorpe",
+  "Dringhouses",
+  "Dunnington",
+  "Earswick",
+  "Elvington",
+  "Fishergate",
+  "Foss Islands",
+  "Foxwood",
+  "Fulford",
+  "Heslington",
+  "Hessay",
+  "Heworth",
+  "Heworth Without",
+  "Holgate",
+  "Holtby",
+  "Huntington",
+  "Layerthorpe",
+  "Murton",
+  "Naburn",
+  "Nether Poppleton",
+  "New Earswick",
+  "Osbaldwick",
+  "Rawcliffe",
+  "Rufforth",
+  "Skelton",
+  "South Bank",
+  "Stockton on the Forest",
+  "Strensall",
+  "Tang Hall",
+  "Upper Poppleton",
+  "Westfield",
+  "Wheldrake",
+  "Wigginton",
+  "Woodthorpe"
+ ],
+ "geo": {
+  "latitude": 53.9656579,
+  "longitude": -1.0743052
+ },
+ "postcode_districts": [
+  "LS24",
+  "YO1",
+  "YO10",
+  "YO19",
+  "YO23",
+  "YO24",
+  "YO26",
+  "YO30",
+  "YO31",
+  "YO32",
+  "YO41",
+  "YO60"
+ ],
+ "postcode_meta": {
+  "YO19": {
+   "count": 7,
+   "sample": "YO19 5QT",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO30": {
+   "count": 9,
+   "sample": "YO30 1AA",
+   "admin": "North Yorkshire",
+   "via": "admin_district=north yorkshire"
+  },
+  "YO32": {
+   "count": 6,
+   "sample": "YO32 2PT",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO24": {
+   "count": 8,
+   "sample": "YO24 3FF",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO23": {
+   "count": 9,
+   "sample": "YO23 3PT",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "LS24": {
+   "count": 1,
+   "sample": "LS24 8BF",
+   "admin": "North Yorkshire",
+   "via": "admin_district=north yorkshire"
+  },
+  "YO41": {
+   "count": 4,
+   "sample": "YO41 1EA",
+   "admin": "East Riding of Yorkshire",
+   "via": "admin_district=east riding of yorkshire"
+  },
+  "YO10": {
+   "count": 6,
+   "sample": "YO10 5DT",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO26": {
+   "count": 8,
+   "sample": "YO26 8LG",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO60": {
+   "count": 3,
+   "sample": "YO60 7RW",
+   "admin": "North Yorkshire",
+   "via": "admin_district=north yorkshire"
+  },
+  "YO31": {
+   "count": 7,
+   "sample": "YO31 1DE",
+   "admin": "York",
+   "via": "admin_district=york"
+  },
+  "YO1": {
+   "count": 1,
+   "sample": "YO1 6DZ",
+   "admin": "York",
+   "via": "admin_district=york"
+  }
+ }
 }

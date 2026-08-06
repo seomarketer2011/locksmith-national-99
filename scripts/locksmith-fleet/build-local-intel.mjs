@@ -51,7 +51,7 @@ for (const loc of locations) {
     const geo = await geocode(loc);
     console.log(`  geocode: ${geo ? `${geo.display_name.slice(0, 60)} (bbox ${geo.bbox.join(",")})` : "FAILED"}`);
     if (!geo) throw new Error("Nominatim returned no result");
-    const { names: suburbs, points } = await fetchOsmSuburbs(geo.bbox);
+    const { names: suburbs, points } = await fetchOsmSuburbs(geo.bbox, loc);
     console.log(`  osm suburbs (${suburbs.length}): ${suburbs.slice(0, 8).join(", ")}${suburbs.length > 8 ? "..." : ""}`);
 
     const intel = await synthesise(loc, geo, suburbs);
@@ -99,30 +99,48 @@ async function geocode(location) {
   };
 }
 
-async function fetchOsmSuburbs(bbox) {
-  const [s, w, n, e] = bbox;
-  // `out;` (not `out tags;`) returns lat/lon for each node — needed for postcode lookup.
-  const query = `
-    [out:json][timeout:25];
-    (
-      node["place"~"^(suburb|quarter|neighbourhood|village)$"](${s},${w},${n},${e});
-    );
+async function fetchOsmSuburbs(bbox, locationName) {
+  // Preferred: query inside the location's administrative boundary polygon, so a
+  // rectangular bbox can't sweep in areas belonging to neighbouring councils.
+  // `place=neighbourhood` pins are excluded as too minor to list. Falls back to
+  // the legacy bbox query when no matching admin boundary exists in OSM.
+  const areaQuery = `
+    [out:json][timeout:60];
+    area["name"="${locationName}"]["boundary"="administrative"]["admin_level"~"^(6|8|9|10)$"]->.a;
+    ( node(area.a)["place"~"^(suburb|quarter|village)$"]; );
     out;
   `;
-  const r = await fetch("https://overpass-api.de/api/interpreter", {
-    method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded", "User-Agent": "locksmith-fleet-intel/1.0" },
-    body: "data=" + encodeURIComponent(query),
-  });
-  if (!r.ok) return { names: [], points: [] };
-  const d = await r.json();
-  const points = d.elements
-    .filter(e => e.tags?.name && typeof e.lat === "number" && typeof e.lon === "number")
+  let elements = await overpass(areaQuery);
+  if (!elements.length) {
+    const [s, w, n, e] = bbox;
+    const bboxQuery = `
+      [out:json][timeout:25];
+      (
+        node["place"~"^(suburb|quarter|neighbourhood|village)$"](${s},${w},${n},${e});
+      );
+      out;
+    `;
+    elements = await overpass(bboxQuery);
+  }
+  const points = elements
+    .filter(e => e.tags?.name && e.tags.name !== locationName && typeof e.lat === "number" && typeof e.lon === "number")
     .map(e => ({ name: e.tags.name, lat: e.lat, lon: e.lon }));
   // De-dupe by name, keep first occurrence.
   const seen = new Set();
   const unique = points.filter(p => seen.has(p.name) ? false : (seen.add(p.name), true));
   return { names: unique.map(p => p.name).sort(), points: unique };
+}
+
+async function overpass(query) {
+  // `out;` (not `out tags;`) returns lat/lon for each node — needed for postcode lookup.
+  const r = await fetch("https://overpass-api.de/api/interpreter", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded", "User-Agent": "locksmith-fleet-intel/1.0" },
+    body: "data=" + encodeURIComponent(query),
+  });
+  if (!r.ok) return [];
+  const d = await r.json();
+  return d.elements || [];
 }
 
 // Reverse-geocode each OSM area centroid via postcodes.io. Only keep postcode districts

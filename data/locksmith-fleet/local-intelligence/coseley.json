@@ -1,173 +1,149 @@
 {
-  "location": "Coseley",
-  "neighborhoods": [
-    {
-      "name": "Dudley Port",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "historic industrial area, older locks common"
-    },
-    {
-      "name": "Ettingshall",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ],
-      "notes": "densely built working-class housing"
-    },
-    {
-      "name": "Ettingshall Park",
-      "era": "interwar",
-      "types": [
-        "semi-detached",
-        "terrace"
-      ]
-    },
-    {
-      "name": "Lower Gornal",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Upper Gornal",
-      "era": "Victorian",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Kates Hill",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Eve Hill",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Sedgley",
-      "era": "mixed Victorian and interwar",
-      "types": [
-        "terrace",
-        "semi-detached"
-      ],
-      "notes": "adjacent historic village character"
-    },
-    {
-      "name": "Woodcross",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Woodsetton",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Princes End",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    },
-    {
-      "name": "Dixons Green",
-      "era": "interwar",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Rough Hills",
-      "era": "post-war",
-      "types": [
-        "semi-detached"
-      ]
-    },
-    {
-      "name": "Priory Estate",
-      "era": "post-war",
-      "types": [
-        "council estate"
-      ]
-    },
-    {
-      "name": "Freezeland",
-      "era": "Victorian",
-      "types": [
-        "terrace"
-      ]
-    }
-  ],
-  "property_mix": {
-    "dominant_types": [
-      "terraced",
-      "semi-detached",
-      "Victorian-era"
-    ],
-    "era": "predominantly pre-1945, with significant interwar and post-war estates",
-    "notable": "Historic industrial working-class town with dated original locks in Victorian stock. Mix of council and private housing attracts varied security upgrades."
+ "location": "Coseley",
+ "neighborhoods": [
+  {
+   "name": "Dudley Port",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "historic industrial area, older locks common"
   },
-  "locksmith_relevant": [
-    "Victorian terraces dominate; many retain original mortice locks requiring skilled period-appropriate replacement work.",
-    "Council estates (Priory, post-war) often have worn standard cylinders; emergency callouts common in high-density areas.",
-    "Interwar semi-detached properties typically feature mid-range hardware; upgrades to modern euro-cylinders are frequent requests."
-  ],
-  "sources": {
-    "nominatim": "https://nominatim.openstreetmap.org/search?q=Coseley",
-    "overpass": "OSM Overpass bbox query, 25 named areas",
-    "coords": {
-      "lat": 52.5440905,
-      "lon": -2.0879793
-    }
+  {
+   "name": "Ettingshall",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ],
+   "notes": "densely built working-class housing"
   },
-  "generated_at": "2026-05-13T18:10:15.312Z",
-  "all_areas": [
-    "All Saints",
-    "Dibdale",
-    "Dixons Green",
-    "Dudley Port",
-    "Ettingshall",
-    "Ettingshall Park",
-    "Eve Hill",
-    "Freezeland",
-    "Kates Hill",
-    "Lower Gornal",
-    "Loxdale",
-    "Milking Bank",
-    "Parkfield",
-    "Princes End",
-    "Priory Estate",
-    "Rough Hills",
-    "Ruiton",
-    "Russell's Hall",
-    "Sedgemoor Park",
-    "Sedgley",
-    "The Lunt",
-    "Upper Gornal",
-    "Woodcross",
-    "Woodsetton",
-    "Wrens Nest"
-  ],
-  "geo": {
-    "latitude": 52.5440905,
-    "longitude": -2.0879793
+  {
+   "name": "Ettingshall Park",
+   "era": "interwar",
+   "types": [
+    "semi-detached",
+    "terrace"
+   ]
   },
-  "postcode_districts": [],
-  "postcode_meta": {}
+  {
+   "name": "Lower Gornal",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Upper Gornal",
+   "era": "Victorian",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Kates Hill",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Eve Hill",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Sedgley",
+   "era": "mixed Victorian and interwar",
+   "types": [
+    "terrace",
+    "semi-detached"
+   ],
+   "notes": "adjacent historic village character"
+  },
+  {
+   "name": "Woodcross",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Woodsetton",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Princes End",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  },
+  {
+   "name": "Dixons Green",
+   "era": "interwar",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Rough Hills",
+   "era": "post-war",
+   "types": [
+    "semi-detached"
+   ]
+  },
+  {
+   "name": "Priory Estate",
+   "era": "post-war",
+   "types": [
+    "council estate"
+   ]
+  },
+  {
+   "name": "Freezeland",
+   "era": "Victorian",
+   "types": [
+    "terrace"
+   ]
+  }
+ ],
+ "property_mix": {
+  "dominant_types": [
+   "terraced",
+   "semi-detached",
+   "Victorian-era"
+  ],
+  "era": "predominantly pre-1945, with significant interwar and post-war estates",
+  "notable": "Historic industrial working-class town with dated original locks in Victorian stock. Mix of council and private housing attracts varied security upgrades."
+ },
+ "locksmith_relevant": [
+  "Victorian terraces dominate; many retain original mortice locks requiring skilled period-appropriate replacement work.",
+  "Council estates (Priory, post-war) often have worn standard cylinders; emergency callouts common in high-density areas.",
+  "Interwar semi-detached properties typically feature mid-range hardware; upgrades to modern euro-cylinders are frequent requests."
+ ],
+ "sources": {
+  "nominatim": "https://nominatim.openstreetmap.org/search?q=Coseley",
+  "overpass": "OSM places inside ONS BUA 2022 boundary for Coseley, 1 named areas",
+  "coords": {
+   "lat": 52.5440905,
+   "lon": -2.0879793
+  }
+ },
+ "generated_at": "2026-05-13T18:10:15.312Z",
+ "all_areas": [
+  "Woodsetton"
+ ],
+ "geo": {
+  "latitude": 52.5440905,
+  "longitude": -2.0879793
+ },
+ "postcode_districts": [],
+ "postcode_meta": {}
 }
